@@ -4,9 +4,9 @@ La versión actual es un banco piloto para comprobar el funcionamiento de la web
 
 ## Banco de preguntas
 
-`src/data.ts` contiene 48 preguntas y 8 categorías. Cada tema tiene dos ejes separados y cada pregunta puntúa en uno de ellos. Una respuesta de acuerdo no implica automáticamente estar a la derecha, a la izquierda o en un polo religioso: cada pregunta declara `direction` y `axis`.
+`Elecciones/Generales Noviembre 2026/cuestionario.ts` contiene 48 preguntas y 8 categorías. Cada tema tiene dos ejes separados y cada pregunta puntúa en uno de ellos. Una respuesta de acuerdo no implica automáticamente estar a la derecha, a la izquierda o en un polo religioso: cada pregunta declara `direction` y `axis`.
 
-La escala es −2, −1, 0, +1, +2. Una pregunta binaria admite −2 y +2. Omitir se guarda como `null` y se excluye de la media. La importancia pesa 1, 2 o 3. El eje es `100 × suma(valor / 2 × dirección × importancia) / suma(importancia)`.
+La escala es −2, −1, 0, +1, +2. Una pregunta binaria admite −2 y +2. Omitir se representa en memoria como `null` y se excluye de la media. La importancia pesa 1, 2 o 3. El eje es `100 × suma(valor / 2 × dirección × importancia) / suma(importancia)`.
 
 La cobertura de un eje es el número de respuestas válidas frente al total de preguntas de ese eje. El progreso de la encuesta incluye las omisiones explícitas. Un eje sin respuestas se representa sin datos, nunca como una posición neutral. Un punto bidimensional exige datos en ambos ejes. La vista radial resume únicamente el primer eje de cada categoría, con −100 en el centro y +100 en el borde; las 16 dimensiones están disponibles en el detalle.
 

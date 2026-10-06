@@ -1,12 +1,6 @@
 import { describe, expect, it } from "vitest";
-import {
-  calculate,
-  parseParties,
-  restore,
-  similarity,
-  type Answers,
-} from "./model";
-import { categories, questions, VERSION } from "./data";
+import { calculate, parseParties, similarity, type Answers } from "./model";
+import { categories, questions, VERSION } from "../Elecciones";
 describe("Modelo de coordenadas", () => {
   it("no atribuye al centro los ejes sin respuestas o con omisiones", () => {
     expect(calculate({}).intervencion.value).toBeNull();
@@ -116,31 +110,5 @@ describe("Comparaciones documentadas", () => {
         ],
       }),
     ).toThrow();
-  });
-});
-describe("Restauración de sesiones", () => {
-  it("tolera datos corruptos o incompatibles y limita la pregunta actual", () => {
-    expect(restore("no-json")).toEqual({ answers: {}, index: 0 });
-    expect(
-      restore(
-        JSON.stringify({
-          version: "anterior",
-          answers: { "economia-1": { value: 2, importance: 1 } },
-        }),
-      ).answers,
-    ).toEqual({});
-    const s = restore(
-      JSON.stringify({
-        version: VERSION,
-        index: 999,
-        answers: {
-          "economia-1": { value: 2, importance: 3 },
-          "economia-2": { value: 8, importance: 1 },
-          "sociedad-5": { value: 0, importance: 1 },
-        },
-      }),
-    );
-    expect(s.index).toBe(47);
-    expect(s.answers).toEqual({ "economia-1": { value: 2, importance: 3 } });
   });
 });

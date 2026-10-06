@@ -1,4 +1,4 @@
-import { categories, questions, VERSION } from "./data";
+import { categories, questions, VERSION } from "../Elecciones";
 export type Answer = { value: number | null; importance: 1 | 2 | 3 };
 export type Answers = Record<string, Answer>;
 export type Score = { value: number | null; answered: number; total: number };
@@ -137,34 +137,4 @@ export function parseParties(raw: unknown): Party[] {
       positions: party.positions,
     };
   });
-}
-export const STORAGE_KEY = "elecciones:session";
-export function restore(raw: string | null): {
-  answers: Answers;
-  index: number;
-} {
-  try {
-    const data = JSON.parse(raw ?? "{}");
-    if (data.version !== VERSION) return { answers: {}, index: 0 };
-    const answers: Answers = {};
-    for (const q of questions) {
-      const a = data.answers?.[q.id];
-      if (
-        a &&
-        [1, 2, 3].includes(a.importance) &&
-        (a.value === null ||
-          ([-2, -1, 0, 1, 2].includes(a.value) &&
-            (q.type !== "binary" || [-2, 2].includes(a.value))))
-      )
-        answers[q.id] = { value: a.value, importance: a.importance };
-    }
-    return {
-      answers,
-      index: Number.isInteger(data.index)
-        ? Math.max(0, Math.min(questions.length - 1, data.index))
-        : 0,
-    };
-  } catch {
-    return { answers: {}, index: 0 };
-  }
 }

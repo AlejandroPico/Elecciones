@@ -1,14 +1,29 @@
 # Elecciones
 
-Cuestionario de posiciones políticas por temas. Proyecto personal de Alejandro Pico Perez, creado el 6 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Primera convocatoria: generales de noviembre de 2026. Versión 0.2.0, actualizada el 7 de octubre de 2026.
 
-Primera versión: 48 preguntas piloto, 8 temas, 16 ejes, gráficos de coordenadas y vista radial en directo, importancia de las respuestas, revisión, omisiones, progreso local y exportación. Incluye modos mañana, tarde, noche y automático por zona horaria, adaptación a móvil, navegación por teclado y respeto a la preferencia de movimiento reducido.
+Interfaz con barra lateral, ficha centrada de esquinas rectas y navegación inferior por preguntas y temas. El tema activo expande sus segmentos; los demás se compactan. Al resolver la última pregunta pendiente de un tema se expande el siguiente con preguntas pendientes. Las flechas y segmentos permiten recorrer las preguntas sin controles de navegación dentro de la ficha. Gráfica desplegable a la derecha; mapa de dos ejes y vista radial. La importancia y las omisiones se conservan durante la visita.
 
-El banco es una muestra editorial pendiente de revisión. Todavía no se han codificado posiciones de programas reales ni se incluye un catálogo oficial de candidaturas, Google o estadísticas centrales. Se pueden importar posiciones documentadas en JSON para probar las superposiciones y coincidencias. Las ausencias de evidencia no se puntúan como neutralidad.
+**No existe guardado ni exportación de respuestas.** Respuestas, preferencias e importaciones solo viven en memoria. Recargar empieza de nuevo. Al abrir la edición se eliminan las dos claves locales de la versión anterior, sin acceder a otros datos del navegador. No hay estadísticas centrales ni Google. El modo automático usa la hora del sistema; la apariencia se cambia con iconos, sin selector de ciudades.
 
-El archivo político ofrece seis fichas personales iniciales, dos partidos y navegación entre titulares de la Presidencia y Defensa. Incluye fuentes primarias, fotografías con crédito y programas históricos de 2023 para abrir y descargar. Las biografías y esos documentos históricos no acreditan candidaturas de 2026 ni alimentan el cálculo de afinidad.
+## Contenido por convocatoria
 
-## Desarrollo
+```
+Elecciones/
+  index.ts
+  Generales Noviembre 2026/
+    cuestionario.ts
+    archivo-politico.ts
+    retratos/
+    README.md
+src/                         # interfaz y cálculo compartidos
+```
+
+Los 48 enunciados piloto, 8 temas, 16 ejes, metadatos y fichas están dentro de la carpeta de la elección. No se muestra mosaico: se entra directamente a la única convocatoria. Las futuras autonómicas o generales tendrán sus propias carpetas y datos.
+
+El archivo político sigue siendo un catálogo parcial de seis personas, dos partidos y dos secuencias de cargos. Su ampliación a jerarquías, gobiernos, estudios y actuaciones queda para otra fase, con fuentes documentadas. Los PDF enlazados son programas históricos de 2023; no acreditan candidaturas de 2026 ni generan puntuaciones. No se han incorporado posiciones electorales reales.
+
+## Desarrollo y publicación
 
 Node.js 22 o superior y pnpm 11.
 
@@ -20,24 +35,12 @@ pnpm build
 pnpm preview
 ```
 
-React + TypeScript + Vite. La salida estática queda en `dist/`, con rutas relativas para poder publicarse bajo `/Elecciones/` o en otro directorio. El icono canónico es [`favicon.svg`](favicon.svg) en la **raíz del repositorio**; el proceso de construcción lo copia como `dist/favicon.svg`, disponible en la raíz de la web para el portfolio.
+React, TypeScript y Vite. GitHub Actions comprueba, construye y publica los cambios de `main` en [la web](https://alejandropico.github.io/Elecciones/). La salida usa rutas relativas para `/Elecciones/`. El icono canónico es `favicon.svg` en la raíz del repositorio y se copia a la raíz de la web al construir.
 
-## Publicación
+Las pruebas cubren puntuación, ponderación, omisiones, cobertura, validación de posiciones, referencias del archivo y navegación con temas de distinto tamaño. La comprobación visual incluye escritorio, móvil, cambio de tema y pérdida de respuestas tras recargar.
 
-El flujo `.github/workflows/pages.yml` valida y construye en cada cambio de `main`, y después publica en GitHub Pages. En las solicitudes de cambios ejecuta solo la validación. La configuración del repositorio debe tener **Settings → Pages → Source → GitHub Actions**. Si Pages no está habilitado, la validación puede pasar pero el despliegue fallará hasta habilitarlo.
-
-No se deben guardar respuestas de visitantes en Git ni en Actions. La versión actual funciona completamente en el navegador. Véase [propuesta de estadísticas](docs/estadisticas.md) para añadir una API y un almacén de agregados separados.
-
-## Datos y metodología
-
-- [`src/data.ts`](src/data.ts): preguntas, categorías, ejes y metadatos de convocatoria.
-- [`src/model.ts`](src/model.ts): puntuación, cobertura, comparación, validación de importaciones y restauración.
-- [Guía editorial y formato de posiciones](docs/catalogo.md).
-- [Almacenamiento y siguiente fase de estadísticas](docs/estadisticas.md).
-- [Archivo de personas, partidos y cargos](docs/archivo-politico.md).
-
-Las pruebas comprueban extremos, ponderación, inversión de dirección, omisiones, cobertura, referencias obligatorias e incompatibilidad de sesiones. Las opiniones políticas se almacenan localmente, sin cuentas; el alojamiento puede registrar datos técnicos de visitas.
-
-El «Acerca de» sigue la estructura de los proyectos TMB y Cosmocronia: autor, versión, fechas, funcionamiento y enlaces.
+- [Catálogo y posiciones documentadas](docs/catalogo.md).
+- [Estadísticas: propuesta para una fase futura](docs/estadisticas.md).
+- [Archivo político](docs/archivo-politico.md).
 
 [Portfolio](https://alejandropico.github.io/Portfolio/) · [Repositorio](https://github.com/AlejandroPico/Elecciones)

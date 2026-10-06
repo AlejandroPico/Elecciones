@@ -11,19 +11,20 @@ import {
   Users,
 } from "lucide-react";
 import {
+  portraits,
   organizations,
   people,
   offices,
   reviewedAt,
   type Person,
   type Reference,
-} from "./archive-data";
+} from "../Elecciones/Generales Noviembre 2026/archivo-politico";
 type Route = { kind: "person" | "party" | "office"; id: string };
 function Portrait({ person }: { person: Person }) {
   const [error, setError] = useState(false);
   return person.portrait && !error ? (
     <img
-      src={`${import.meta.env.BASE_URL}portraits/${person.portrait}`}
+      src={portraits[person.portrait]}
       alt={person.name}
       loading="lazy"
       onError={() => setError(true)}

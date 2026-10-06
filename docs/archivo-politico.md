@@ -4,7 +4,9 @@ El archivo informativo es independiente del cálculo del cuestionario. Tiene sei
 
 ## Relaciones y navegación
 
-En `src/archive-data.ts` hay entidades con identificadores estables:
+La siguiente fase deberá presentar jerarquías por gobierno y etapa, con navegación en forma de árbol entre cargos, personas y partidos. Cada ficha se ampliará con estudios documentados, trayectoria política completa y actuaciones. Los éxitos, controversias o escándalos requerirán fuentes, fechas, atribución y estado de cada expediente; no se convertirán valoraciones en hechos. Esta ampliación no está implementada en la versión 0.2, dedicada a rehacer la encuesta y su estructura.
+
+En `Elecciones/Generales Noviembre 2026/archivo-politico.ts` hay entidades con identificadores estables:
 
 - `people`: nombre, vinculación documentada, función, resumen, etapas, fuentes, fotografía y crédito.
 - `organizations`: denominación, fundación, documentación, selección histórica y fuentes.
@@ -27,7 +29,7 @@ Para completar dirigentes desde la fundación y candidaturas hay que ampliar el 
 
 ## Imágenes
 
-Las fotografías iniciales se conservan en `public/portraits/` y se sirven localmente, con origen y crédito visibles en cada ficha. La de Morenés es un acto institucional, identificado en el pie. Si falta un retrato o falla la carga, aparece una tarjeta de iniciales indicando que el retrato está pendiente; no se inventa una fotografía.
+Las fotografías iniciales se conservan en `Elecciones/Generales Noviembre 2026/retratos/` y se sirven localmente, con origen y crédito visibles en cada ficha. La de Morenés es un acto institucional, identificado en el pie. Si falta un retrato o falla la carga, aparece una tarjeta de iniciales indicando que el retrato está pendiente; no se inventa una fotografía.
 
 Fuentes de las imágenes:
 

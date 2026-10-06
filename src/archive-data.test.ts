@@ -1,5 +1,10 @@
 import { expect, it } from "vitest";
-import { people, organizations, offices, candidacies } from "./archive-data";
+import {
+  people,
+  organizations,
+  offices,
+  candidacies,
+} from "../Elecciones/Generales Noviembre 2026/archivo-politico";
 it("todas las relaciones del archivo tienen destino y las etapas tienen fuente", () => {
   expect(new Set(people.map((p) => p.id)).size).toBe(people.length);
   for (const p of people) {

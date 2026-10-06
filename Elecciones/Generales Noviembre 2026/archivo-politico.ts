@@ -1,3 +1,17 @@
+import sanchezPortrait from "./retratos/sanchez.jpg";
+import feijooPortrait from "./retratos/feijoo.jpg";
+import roblesPortrait from "./retratos/robles.jpg";
+import rajoyPortrait from "./retratos/rajoy.jpg";
+import cospedalPortrait from "./retratos/cospedal.jpg";
+import morenesPortrait from "./retratos/morenes.jpg";
+export const portraits: Record<string, string> = {
+  "sanchez.jpg": sanchezPortrait,
+  "feijoo.jpg": feijooPortrait,
+  "robles.jpg": roblesPortrait,
+  "rajoy.jpg": rajoyPortrait,
+  "cospedal.jpg": cospedalPortrait,
+  "morenes.jpg": morenesPortrait,
+};
 export type Reference = { label: string; url: string };
 export type Person = {
   id: string;

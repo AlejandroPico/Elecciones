@@ -1,4 +1,4 @@
-import { categories, type Category } from "./data";
+import { categories, type Category } from "../Elecciones";
 import { partyScores, type Party, type Score } from "./model";
 type Scores = Record<string, Score>;
 export function CoordinateChart({
@@ -48,7 +48,6 @@ export function CoordinateChart({
             y="15"
             width="270"
             height="270"
-            rx="2"
             fill={`url(#grid-${category.id})`}
             className="chart-border"
           />
@@ -56,6 +55,9 @@ export function CoordinateChart({
           {[-100, -50, 50, 100].map((v) => (
             <g key={v}>
               <text x={pos(v)} y="164" className="tick" textAnchor="middle">
+                {v}
+              </text>
+              <text x="139" y={py(v) + 3} className="tick" textAnchor="end">
                 {v}
               </text>
             </g>
@@ -94,7 +96,6 @@ export function CoordinateChart({
           )}
           {!ready && (
             <g>
-              <circle cx="150" cy="150" r="7" className="empty-point" />
               <text x="150" y="187" className="empty-label" textAnchor="middle">
                 Sin posición suficiente
               </text>

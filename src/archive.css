@@ -8,7 +8,7 @@
   font-size: 12px;
   padding: 12px 13px;
   margin-top: 6px;
-  border-radius: 5px;
+  border-radius: 0;
   width: 100%;
   color: var(--muted);
 }
@@ -49,7 +49,7 @@
   gap: 8px;
   font-size: 11px;
   padding: 10px 12px;
-  border-radius: 5px;
+  border-radius: 0;
   color: var(--muted);
 }
 .archive-tabs button.active {
@@ -62,7 +62,7 @@
   gap: 8px;
   border: 1px solid var(--line);
   background: var(--surface);
-  border-radius: 5px;
+  border-radius: 0;
   padding: 10px 12px;
   color: var(--muted);
   max-width: 300px;
@@ -106,7 +106,7 @@
   padding: 0;
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 8px;
+  border-radius: 0;
   text-align: left;
   overflow: hidden;
   transition:
@@ -147,7 +147,7 @@
   background: #17251b66;
   color: #fff;
   padding: 4px 6px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 .portrait-placeholder {
   height: 100%;
@@ -224,7 +224,7 @@
 .organization-card {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 9px;
+  border-radius: 0;
   text-align: left;
   padding: 32px;
   transition:
@@ -243,7 +243,7 @@
   background: var(--bg);
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
+  border-radius: 0;
   font-family: "Manrope Variable", sans-serif;
   font-size: 23px;
   font-weight: 700;
@@ -268,7 +268,7 @@
 .office-card {
   padding: 30px;
   border: 1px solid var(--line);
-  border-radius: 9px;
+  border-radius: 0;
   background: var(--surface);
 }
 .office-card > svg {
@@ -323,7 +323,7 @@
 .biography-identity {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 9px;
+  border-radius: 0;
   overflow: hidden;
   position: sticky;
   top: 102px;
@@ -394,7 +394,7 @@
   padding: 28px 30px;
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 9px;
+  border-radius: 0;
 }
 .biography-content h3,
 .party-detail h3 {
@@ -428,7 +428,7 @@
   content: "";
   width: 7px;
   height: 7px;
-  border-radius: 50%;
+  border-radius: 0;
   background: var(--accent);
   left: -22px;
   top: 4px;
@@ -462,7 +462,7 @@
   align-items: center;
   gap: 14px;
   border: 1px solid var(--line);
-  border-radius: 4px;
+  border-radius: 0;
   padding: 13px 14px;
   text-align: left;
 }
@@ -488,7 +488,7 @@
   align-items: center;
   gap: 14px;
   border: 1px solid var(--line);
-  border-radius: 5px;
+  border-radius: 0;
   padding: 17px 15px;
   margin: 20px 0 10px;
 }
@@ -583,7 +583,7 @@
   height: 48px;
   object-fit: cover;
   object-position: center 20%;
-  border-radius: 4px;
+  border-radius: 0;
 }
 .related-people .portrait-placeholder > span {
   font-size: 20px;
@@ -637,7 +637,7 @@
 .office-chain .portrait-placeholder {
   width: 80px;
   height: 90px;
-  border-radius: 6px;
+  border-radius: 0;
   object-fit: cover;
   object-position: center 20%;
 }
