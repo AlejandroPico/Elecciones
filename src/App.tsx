@@ -1,9 +1,11 @@
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import { lazy, Suspense, useEffect, useRef, useState, type ReactNode } from "react";
 import {
   ArrowUpRight,
   Check,
   ChevronDown,
   ChartNoAxesCombined,
+  Expand,
+  Landmark,
   Clock3,
   FileText,
   ListChecks,
@@ -15,7 +17,7 @@ import {
   Users,
   X,
 } from "lucide-react";
-import { categories, election, questions } from "../Elecciones";
+import { categories, questions } from "../Elecciones";
 import {
   calculate,
   parseParties,
@@ -25,12 +27,14 @@ import {
 } from "./model";
 import { AxisRows, CoordinateChart, RadarChart } from "./Charts";
 import Progress from "./Progress";
-import Archive from "./Archive";
+import Programs from "./Programs";
+import { contexts } from "../Elecciones/Generales Noviembre 2026/contextos";
 import favicon from "../favicon.svg";
-type View = "survey" | "results" | "programs" | "archive";
-type Modal = "method" | "privacy" | "about" | "reset" | null;
+const Archive = lazy(() => import("./Archive"));
+const Governments = lazy(() => import("./Governments"));
+type View = "survey" | "results" | "programs" | "archive" | "governments";
+type Modal = "method" | "privacy" | "about" | "reset" | "context" | null;
 type Theme = "auto" | "morning" | "afternoon" | "night";
-type Chart = "coordinates" | "radar";
 const choices = [
   { value: -2, label: "Muy en desacuerdo" },
   { value: -1, label: "En desacuerdo" },
@@ -70,10 +74,10 @@ export default function App() {
   const [index, setIndex] = useState(0);
   const [view, setView] = useState<View>("survey");
   const [modal, setModal] = useState<Modal>(null);
-  const [mobileMenu, setMobileMenu] = useState(false);
+  const [mobileMenu, setMobileMenu] = useState(() => window.innerWidth > 720);
+  const [archiveEntry, setArchiveEntry] = useState<{kind: "person" | "party"; id: string} | undefined>();
   const [themeMode, setThemeMode] = useState<Theme>("auto");
   const [clock, setClock] = useState(new Date());
-  const [chart, setChart] = useState<Chart>("coordinates");
   const [activeCategory, setActiveCategory] = useState(categories[0].id);
   const [draftImportance, setDraftImportance] = useState<
     Record<string, 1 | 2 | 3>
@@ -157,12 +161,12 @@ export default function App() {
     clearTimeout(advanceTimer.current);
     setIndex(Math.max(0, Math.min(questions.length - 1, nextIndex)));
     setView("survey");
-    setMobileMenu(false);
+    if (window.innerWidth <= 720) setMobileMenu(false);
   }
   function openView(nextView: View) {
     clearTimeout(advanceTimer.current);
     setView(nextView);
-    setMobileMenu(false);
+    if (window.innerWidth <= 720) setMobileMenu(false);
   }
   useEffect(() => {
     if (view === "survey") {
@@ -230,6 +234,18 @@ export default function App() {
       ))}
     </div>
   );
+  function openArchive(kind: "person" | "party", id: string) {
+    setArchiveEntry({kind, id});
+    openView("archive");
+  }
+  const themes = [
+    {id: "auto", name: "Automático", icon: Clock3},
+    {id: "morning", name: "Mañana", icon: Sunrise},
+    {id: "afternoon", name: "Tarde", icon: Sun},
+    {id: "night", name: "Noche", icon: Moon},
+  ] as const;
+  const themeIndex = themes.findIndex(t => t.id === themeMode);
+  const ThemeIcon = themes[themeIndex].icon;
   return (
     <>
       <a href="#content" className="skip-link">
@@ -275,12 +291,13 @@ export default function App() {
               { id: "results", name: "Mi perfil", icon: ChartNoAxesCombined },
               { id: "programs", name: "Programas y partidos", icon: FileText },
               { id: "archive", name: "Archivo político", icon: Users },
+              { id: "governments", name: "Gobiernos", icon: Landmark },
             ] as const
           ).map((item) => (
             <button
               key={item.id}
               className={view === item.id ? "active" : ""}
-              onClick={() => openView(item.id)}
+              onClick={() => { if (item.id === "archive") setArchiveEntry(undefined); openView(item.id); }}
               aria-current={view === item.id ? "page" : undefined}
             >
               <item.icon size={17} />
@@ -289,26 +306,7 @@ export default function App() {
           ))}
         </nav>
         <div className="sidebar-bottom">
-          <div className="appearance" role="group" aria-label="Apariencia">
-            {(
-              [
-                { id: "auto", name: "Automático", icon: Clock3 },
-                { id: "morning", name: "Mañana", icon: Sunrise },
-                { id: "afternoon", name: "Tarde", icon: Sun },
-                { id: "night", name: "Noche", icon: Moon },
-              ] as const
-            ).map((item) => (
-              <button
-                key={item.id}
-                aria-label={item.name}
-                title={item.name}
-                aria-pressed={themeMode === item.id}
-                onClick={() => setThemeMode(item.id)}
-              >
-                <item.icon size={18} />
-              </button>
-            ))}
-          </div>
+          <div className="appearance"><button className="theme-cycle" aria-label={`Apariencia: ${themes[themeIndex].name}. Cambiar a ${themes[(themeIndex + 1) % themes.length].name}`} title={`Apariencia: ${themes[themeIndex].name}`} onClick={() => setThemeMode(themes[(themeIndex + 1) % themes.length].id)}><ThemeIcon size={19}/></button></div>
           <button className="quiet-button" onClick={() => setModal("reset")}>
             <RotateCcw size={15} />
             Nueva encuesta
@@ -322,7 +320,7 @@ export default function App() {
       </aside>
       <main
         id="content"
-        className={`main-content ${view === "survey" ? "survey-view" : ""}`}
+        className={`main-content ${mobileMenu ? "navigation-open" : "navigation-closed"} ${view === "survey" ? "survey-view" : ""}`}
       >
         {view === "survey" && (
           <>
@@ -334,6 +332,7 @@ export default function App() {
                       {question.text}
                     </h1>
                     <p className="question-context">{question.context}</p>
+                    <button className="context-toggle icon-button" aria-label="Ampliar contexto de la pregunta" title="Ampliar contexto" onClick={() => setModal("context")}><Expand size={17}/></button>
                     <fieldset
                       className={`answer-options ${question.type === "binary" ? "binary" : ""}`}
                     >
@@ -406,42 +405,12 @@ export default function App() {
                     </div>
                   </div>
                 </section>
-                <details className="chart-drawer">
-                  <summary aria-label="Mostrar u ocultar gráfica">
-                    <ChartNoAxesCombined size={19} />
-                    <ChevronDown size={14} />
-                  </summary>
-                  <div className="chart-drawer-body">
-                    <select
-                      aria-label="Tipo de gráfico"
-                      value={chart}
-                      onChange={(e) => setChart(e.target.value as Chart)}
-                    >
-                      <option value="coordinates">
-                        Coordenadas · {category.name}
-                      </option>
-                      <option value="radar">Vista radial</option>
-                    </select>
-                    {chart === "coordinates" ? (
-                      <CoordinateChart
-                        category={category}
-                        scores={scores}
-                        parties={overlays}
-                        compact
-                      />
-                    ) : (
-                      <RadarChart scores={scores} parties={overlays} />
-                    )}
-                    {legend}
-                  </div>
-                </details>
               </div>
             </div>
             <Progress
               answers={answers}
               index={index}
               navigate={navigate}
-              showResults={() => openView("results")}
             />
           </>
         )}
@@ -539,18 +508,9 @@ export default function App() {
         {view === "programs" && (
           <div className="section-content">
             <h1 className="section-title">Programas y partidos</h1>
-            <section className="result-card prose">
-              <p>
-                Los programas de 2026 aún no están incorporados. Las posiciones
-                desconocidas o ambiguas quedan sin puntuación.
-              </p>
-              <p>
-                <a href={election.source} target="_blank" rel="noreferrer">
-                  Convocatoria · BOE
-                  <ArrowUpRight size={14} />
-                </a>
-              </p>
-              <h2>Posiciones documentadas</h2>
+            <Programs openParty={id => openArchive("party", id)} />
+            <details className="positions-import result-card prose"><summary>Posiciones documentadas</summary>
+
               <p>
                 Importación temporal de un archivo de posiciones. No interpreta
                 programas PDF.
@@ -594,20 +554,23 @@ export default function App() {
                   </ul>
                 </details>
               ))}
-            </section>
+            </details>
           </div>
         )}
+        <Suspense fallback={<span className="sr-only" role="status">Cargando archivo</span>}>
         {view === "archive" && (
           <div className="section-content">
             <h1 className="section-title">Archivo político</h1>
-            <Archive />
+            <Archive key={archiveEntry ? `${archiveEntry.kind}-${archiveEntry.id}` : "directory"} initialRoute={archiveEntry} />
           </div>
         )}
+        {view === "governments" && <div className="section-content"><h1 className="section-title">Gobiernos</h1><Governments openPerson={id => openArchive("person", id)} /></div>}
+        </Suspense>
       </main>
       {modal && (
         <Dialog
           title={
-            modal === "about"
+            modal === "context" ? "Contexto de la pregunta" : modal === "about"
               ? "Elecciones"
               : modal === "privacy"
                 ? "Privacidad"
@@ -617,6 +580,7 @@ export default function App() {
           }
           close={() => setModal(null)}
         >
+          {modal === "context" && <div className="expanded-context prose"><h3>{question.text}</h3><p>{contexts[question.id].scope}</p><h3>Aspectos que puedes valorar</h3>{contexts[question.id].considerations.map(p => <p key={p}>{p}</p>)}<small>Se explica la propuesta del cuestionario, no la legislación vigente.</small></div>}
           {modal === "about" && (
             <>
               <div className="about-brand">
@@ -634,8 +598,9 @@ export default function App() {
                 <p>
                   48 preguntas piloto, 8 temas y 16 ejes. Permite ponderar
                   respuestas, omitirlas y revisarlas desde la barra de progreso.
-                  El archivo político contiene una selección inicial de
-                  personas, partidos, documentos históricos y cargos.
+                  El archivo político reúne fichas personales y documentos.
+                  Gobiernos permite recorrer composiciones del Ejecutivo desde
+                  1977, con organigramas y el hemiciclo electoral de 2023.
                 </p>
                 <p>
                   No guarda respuestas ni preferencias. Al recargar la página se
@@ -646,7 +611,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.2.0</dd>
+                  <dd>0.3.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

@@ -20,7 +20,7 @@ import {
   type Reference,
 } from "../Elecciones/Generales Noviembre 2026/archivo-politico";
 type Route = { kind: "person" | "party" | "office"; id: string };
-function Portrait({ person }: { person: Person }) {
+export function Portrait({ person }: { person: Person }) {
   const [error, setError] = useState(false);
   return person.portrait && !error ? (
     <img
@@ -50,11 +50,12 @@ function Sources({ sources }: { sources: Reference[] }) {
     </ul>
   );
 }
-export default function Archive() {
+export default function Archive({ initialRoute }: { initialRoute?: Route }) {
   const [tab, setTab] = useState<"people" | "parties" | "offices">("people");
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState("all");
-  const [history, setHistory] = useState<Route[]>([]);
+  const [visibleCount, setVisibleCount] = useState(24);
+  const [history, setHistory] = useState<Route[]>(initialRoute ? [initialRoute] : []);
   const heading = useRef<HTMLHeadingElement>(null);
   const route = history.at(-1);
   const person =
@@ -189,7 +190,7 @@ export default function Archive() {
                 </select>
               </div>
               <div className="people-grid">
-                {foundPeople.map((p, i) => (
+                {foundPeople.slice(0, visibleCount).map((p, i) => (
                   <button
                     className="person-card"
                     key={p.id}
@@ -213,6 +214,7 @@ export default function Archive() {
                   </button>
                 ))}
               </div>
+              {foundPeople.length > visibleCount && <button className="outline-button" onClick={() => setVisibleCount(c => c + 24)}>Mostrar más fichas</button>}
               {foundPeople.length === 0 && (
                 <p className="archive-empty">
                   No hay fichas que coincidan con esta búsqueda.
@@ -337,6 +339,13 @@ export default function Archive() {
                 </div>
               </aside>
               <div className="biography-content">
+                <article><h3>Datos personales y formación</h3><dl className="technical-data">
+                  <div><dt>Nombre completo</dt><dd>{person.fullName ?? person.name}</dd></div>
+                  <div><dt>Nacimiento</dt><dd>{person.birth ?? "Pendiente de documentar"}</dd></div>
+                  <div><dt>{person.deathYear ? "Fallecimiento" : "Edad a fecha de consulta"}</dt><dd>{person.deathYear ? `${person.deathYear}` : person.birthDate ? `${new Date().getFullYear() - Number(person.birthDate.slice(0,4)) - (new Date().toISOString().slice(5,10) < person.birthDate.slice(5,10) ? 1 : 0)} años` : person.birthYear ? `${new Date().getFullYear() - person.birthYear - 1}–${new Date().getFullYear() - person.birthYear} años (día y mes no publicados en la fuente)` : "Pendiente de documentar"}</dd></div>
+                  <div><dt>Ámbito</dt><dd>Gobierno y actividad política · España</dd></div>
+                </dl>{person.education?.length ? <ul className="education-list">{person.education.map(e => <li key={e}>{e}</li>)}</ul> : <p>Formación académica pendiente de incorporar.</p>}
+                <p className="small-note">Los datos y estudios incorporados se respaldan en las fuentes de esta ficha.</p></article>
                 <article>
                   <span className="eyebrow">FICHA INFORMATIVA</span>
                   <h3>Trayectoria</h3>
@@ -354,6 +363,7 @@ export default function Archive() {
                     ))}
                   </ol>
                 </article>
+                <article><h3>Actuaciones y controversias</h3>{person.dossier?.length ? person.dossier.map(d => <div className="dossier-item" key={d.date+d.title}><time>{d.date}</time><h4>{d.title}</h4><p>{d.text}</p><p className="small-note">{d.status}</p><Sources sources={[d.source, ...(d.additionalSources ?? [])]}/></div>) : <p>Historial de actuaciones, resultados y controversias pendiente de documentar. Una sección vacía no implica ausencia de estos hechos.</p>}</article>
                 {person.offices.map((id) => {
                   const o = offices.find((o) => o.id === id)!;
                   return (
@@ -431,10 +441,12 @@ export default function Archive() {
                 </div>
               </div>
               <p className="party-description">{party.summary}</p>
+              {party.website && <a className="document-link" href={party.website} target="_blank" rel="noreferrer">Web oficial <ArrowUpRight size={16}/></a>}
               <div className="party-detail-grid">
                 <article>
                   <span className="eyebrow">ARCHIVO DOCUMENTAL</span>
                   <h3>Programas publicados</h3>
+                  {!party.documents.length && <p>No hay programas incorporados. Puedes consultar la documentación en la web oficial.</p>}
                   {party.documents.map((d) => (
                     <a
                       className="document-link"

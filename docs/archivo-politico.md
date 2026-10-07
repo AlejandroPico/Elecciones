@@ -1,43 +1,27 @@
-# Archivo de personas, partidos y cargos
+# Archivo político y gobiernos
 
-El archivo informativo es independiente del cálculo del cuestionario. Tiene seis fichas personales iniciales, dos partidos y dos secuencias recientes de cargos. La selección sirve para establecer el formato y la navegación; no es una relación completa de políticos, partidos, dirigentes ni candidatos de 2026.
+Revisión: 7 de octubre de 2026. El archivo informativo es independiente del cálculo del cuestionario. Sus fichas no acreditan candidaturas ni afinidad electoral. Aplicar [PROTOCOLOS.md](../PROTOCOLOS.md) al ampliarlo.
 
-## Relaciones y navegación
+## Cobertura y navegación
 
-La siguiente fase deberá presentar jerarquías por gobierno y etapa, con navegación en forma de árbol entre cargos, personas y partidos. Cada ficha se ampliará con estudios documentados, trayectoria política completa y actuaciones. Los éxitos, controversias o escándalos requerirán fuentes, fechas, atribución y estado de cada expediente; no se convertirán valoraciones en hechos. Esta ampliación no está implementada en la versión 0.2, dedicada a rehacer la encuesta y su estructura.
+Las 23 personas del gabinete actual tienen retrato individual de su ficha de La Moncloa, formación, nacimiento con precisión de su fuente y trayectoria. Los presidentes desde 1977 cuentan con información del archivo institucional. Los otros titulares históricos tienen fichas parciales derivadas de las composiciones oficiales, con cargos y referencias; fotografía, estudios y biografía completa siguen pendientes. La ausencia de una actuación en el catálogo no significa que no exista.
 
-En `Elecciones/Generales Noviembre 2026/archivo-politico.ts` hay entidades con identificadores estables:
+El buscador consulta todo el catálogo; el mosaico muestra fichas por lotes para evitar una carga masiva de imágenes. Las personas enlazan sus cargos y organizaciones cuando la relación está acreditada. Presidencia y Defensa permiten recorrer titulares desde 1977, con intervalos por año derivados del archivo de composición. Un Gobierno no acredita la militancia de todos sus ministros: se mantiene sin asignar cuando falta una fuente específica.
 
-- `people`: nombre, vinculación documentada, función, resumen, etapas, fuentes, fotografía y crédito.
-- `organizations`: denominación, fundación, documentación, selección histórica y fuentes.
-- `offices`: cargo e intervalos de titulares, con enlaces a las fichas.
-- `candidacies`: elección, cámara, circunscripción, orden en la lista, suplencia y fuente de proclamación. Vacío hasta incorporar listas oficiales.
+El directorio de 15 partidos incluye logotipos publicados por sus propias organizaciones, fuente del recurso, web oficial y ficha interna. Los documentos de PSOE y PP son programas de julio de 2023. No se presentan como programas de 2026 ni se usan para puntuar. Las candidaturas permanecerán vacías hasta incorporar proclamaciones oficiales por circunscripción, cámara, posición y suplencia.
 
-La interfaz permite buscar nombres, partidos y cargos; filtrar por vinculación; recorrer una ficha de partido y sus personas; consultar documentos; navegar entre titulares de un cargo; y volver por el historial de fichas. El ejemplo de Defensa comprende Margarita Robles, María Dolores de Cospedal y Pedro Morenés. La Presidencia comprende Sánchez y Rajoy y enlaza la relación oficial más extensa.
+## Cronología y jerarquías
 
-Un partido, una coalición electoral, un grupo parlamentario y una afiliación individual no son la misma entidad. Los políticos sin afiliación acreditada no deben recibir la del Gobierno en el que participan. Se debe distinguir militancia, vinculación electoral y cargo público, y fechar cada relación cuando se amplíe el modelo.
+La biblioteca está agrupada por las 16 legislaturas desde la Constituyente, en orden inverso. La cronología contiene 72 composiciones archivadas, con reproducción y control deslizante. Una legislatura puede contener varios presidentes y remodelaciones; no se confunde ese agrupamiento con un único mandato presidencial. En fechas antiguas se conserva el mes cuando la fuente no indica día. No es una reconstrucción diaria ni acredita todos los relevos intermedios.
 
-## Fuentes y neutralidad editorial
+El organigrama distingue Presidencia, vicepresidencias y departamentos ministeriales. Las vicepresidencias que también dirigen un ministerio incluyen ese departamento en su propia tarjeta. No se subordinan todos los ministerios a una vicepresidencia. La instantánea de Defensa añade Secretaría de Estado y Subsecretaría (segundo nivel), y Dirección General de Asuntos Económicos bajo la Secretaría de Estado (tercer nivel), exclusivamente en la composición actual. Los demás órganos y sus historias quedan pendientes.
 
-Cada etapa y documento tiene referencias. El catálogo inicial utiliza La Moncloa, BOE, Congreso, Senado y Ministerio de Defensa. Los datos históricos procedentes de páginas de partidos se identifican como información publicada por el propio partido, no como una valoración independiente.
+El hemiciclo de 2023 suma 350 escaños y conserva la distinción PSOE/PSC-PSOE del resultado JEC/BOE. Es un esquema por candidaturas, no un plano de asientos ni de grupos parlamentarios posteriores. No se reutiliza para otras legislaturas.
 
-Los PDF de programas del PSOE y PP incorporados son de las generales de julio de 2023, con enlace al original. Se ofrecen para abrir y descargar como documentos históricos. No se usan para puntuar el banco piloto ni se presentan como programas de 2026.
+## Actuaciones y fuentes
 
-Los resúmenes actuales enumeran cargos, no evalúan logros ni omiten deliberadamente controversias de un supuesto historial completo. La capa de actuaciones necesita una colección separada: fecha, tipo de actuación, órgano, responsabilidad de la persona, disposición o expediente, resultado y fuentes. Debe diferenciar propuesta, voto, norma aprobada, ejecución y resultado. Las valoraciones y alegaciones no se presentarán como hechos sin atribución.
+Hay una selección inicial sobre la moción de censura de 2018, la ley de amnistía y una sentencia constitucional, relevos de Defensa/CNI de 2022 y una moción sobre la frontera de Melilla votada en 2023. Cada registro señala fecha, hecho, atribución, estado y fuente. Una decisión parlamentaria de control político no se presenta como condena judicial personal. Esta selección no es una evaluación exhaustiva de éxitos o controversias.
 
-Para completar dirigentes desde la fundación y candidaturas hay que ampliar el catálogo con todas las entradas documentadas, sin limitarlo a partidos grandes o cabezas de lista. Un puesto en una lista no acredita un nombramiento ministerial. Las listas oficiales son territoriales: no existe una única lista nacional del Congreso que permita atribuir el mismo orden a todas las circunscripciones.
+Fuentes principales: La Moncloa, Ministerio de Defensa, BOE, Congreso y Senado. La información histórica de un partido se atribuye al propio partido. La ampliación debe recoger también respuestas documentadas y cambios procesales, con la fecha de revisión.
 
-## Imágenes
-
-Las fotografías iniciales se conservan en `Elecciones/Generales Noviembre 2026/retratos/` y se sirven localmente, con origen y crédito visibles en cada ficha. La de Morenés es un acto institucional, identificado en el pie. Si falta un retrato o falla la carga, aparece una tarjeta de iniciales indicando que el retrato está pendiente; no se inventa una fotografía.
-
-Fuentes de las imágenes:
-
-- Sánchez: biografía de La Moncloa, Pool Moncloa / Carlos Spottorno de las Morenas.
-- Feijóo: ficha del Senado, XIV legislatura; el retrato no acredita su cargo actual.
-- Robles: biografía institucional de La Moncloa, 2023.
-- Rajoy: archivo de presidentes de La Moncloa.
-- Cospedal: ficha del Senado, IX legislatura.
-- Morenés: fototeca del Ministerio de Defensa, toma de posesión de 2011; crédito «Ministerio de Defensa de España».
-
-Las fechas y estados abiertos se revisaron el 6 de octubre de 2026. «Actualidad» se refiere a esa fecha de corte, no a una actualización automática. El archivo deberá revisarse tras la elección y cada cambio de Gobierno. El cuestionario no necesita una conexión en directo para mostrar este catálogo.
+Las fotografías se sirven desde retratos/, con crédito y origen en cada ficha. No se utilizan imágenes de actos como sustituto de un retrato. Cuando falta una foto aparece una tarjeta de iniciales identificada como pendiente. Los logotipos conservan su formato publicado: SVG cuando existe, y PNG/GIF en otros casos.

@@ -1,17 +1,11 @@
-import sanchezPortrait from "./retratos/sanchez.jpg";
-import feijooPortrait from "./retratos/feijoo.jpg";
-import roblesPortrait from "./retratos/robles.jpg";
-import rajoyPortrait from "./retratos/rajoy.jpg";
-import cospedalPortrait from "./retratos/cospedal.jpg";
-import morenesPortrait from "./retratos/morenes.jpg";
-export const portraits: Record<string, string> = {
-  "sanchez.jpg": sanchezPortrait,
-  "feijoo.jpg": feijooPortrait,
-  "robles.jpg": roblesPortrait,
-  "rajoy.jpg": rajoyPortrait,
-  "cospedal.jpg": cospedalPortrait,
-  "morenes.jpg": morenesPortrait,
-};
+import biographies from "./biografias.json";
+import historicalPeople from "./personas-historicas.json";
+import partyDirectory from "./partidos.json";
+import governmentData from "./gobiernos.json";
+import {structureSnapshot} from "./estructura-ampliada";
+import {dossiers, type Dossier} from "./actuaciones";
+const portraitFiles = import.meta.glob<string>("./retratos/*", { eager: true, query: "?url", import: "default" });
+export const portraits: Record<string, string> = Object.fromEntries(Object.entries(portraitFiles).map(([path,url]) => [path.split("/").at(-1)!,url]));
 export type Reference = { label: string; url: string };
 export type Person = {
   id: string;
@@ -27,6 +21,13 @@ export type Person = {
   timeline: { period: string; title: string; source: Reference }[];
   offices: string[];
   references: Reference[];
+  fullName?: string;
+  birth?: string;
+  birthDate?: string | null;
+  birthYear?: number | null;
+  deathYear?: number | null;
+  education?: string[];
+  dossier?: Dossier[];
 };
 export type Organization = {
   id: string;
@@ -37,8 +38,11 @@ export type Organization = {
   references: Reference[];
   documents: { title: string; election: string; url: string }[];
   history: { period: string; title: string; person?: string }[];
+  website?: string;
+  logo?: string;
+  logoSource?: string;
 };
-export const reviewedAt = "6 de octubre de 2026";
+export const reviewedAt = "7 de octubre de 2026";
 const moncloa = (slug: string) => `https://www.lamoncloa.gob.es/${slug}`;
 const sanchezBio = {
   label: "La Moncloa · Biografía de Pedro Sánchez",
@@ -70,7 +74,7 @@ const psoeHistory = {
   label: "PSOE · Historia publicada por el partido",
   url: "https://www.psoe.es/conocenos/historia/",
 };
-export const people: Person[] = [
+const initialPeople: Person[] = [
   {
     id: "sanchez",
     name: "Pedro Sánchez",
@@ -246,10 +250,6 @@ export const people: Person[] = [
     organization: null,
     relation: "Gobierno de Mariano Rajoy",
     role: "Ministro de Defensa · 2011–2016",
-    portrait: "morenes.jpg",
-    photoCredit:
-      "Ministerio de Defensa de España · acto de toma de posesión, 2011",
-    photoSource: morenesRef.url,
     summary:
       "Ministro de Defensa en el primer Gobierno de Mariano Rajoy. Tomó posesión en diciembre de 2011 y fue sucedido por María Dolores de Cospedal en noviembre de 2016. La imagen muestra el acto institucional de toma de posesión.",
     timeline: [
@@ -263,7 +263,7 @@ export const people: Person[] = [
     references: [morenesRef, cospedalRef],
   },
 ];
-export const organizations: Organization[] = [
+const initialOrganizations: Organization[] = [
   {
     id: "psoe",
     name: "PSOE",
@@ -346,36 +346,33 @@ export const organizations: Organization[] = [
     ],
   },
 ];
+export const people: Person[] = [
+  ...biographies.map(b => {
+    const old = initialPeople.find(p => p.id === b.id);
+    return { ...old, ...b, summary: old?.summary ?? b.summary, references: [...b.references, ...(old?.references ?? []).filter(r => !b.references.some(s => s.url === r.url))], timeline: b.timeline.length > 1 ? b.timeline : old?.timeline ?? b.timeline };
+  }),
+  ...initialPeople.filter(p => !biographies.some(b => b.id === p.id)),
+  ...historicalPeople.filter(p => !biographies.some(b => b.id === p.id) && !initialPeople.some(b => b.id === p.id)),
+  ...structureSnapshot.nodes.map(n => ({id:n.person,name:n.name,initials:n.name.split(" ").slice(0,2).map(s=>s[0]).join(""),organization:null,relation:"Ministerio de Defensa",role:n.role,summary:"Órgano incorporado desde la ficha institucional, consultada el 7 de octubre de 2026. Biografía personal y trayectoria pendientes de ampliar.",timeline:[{period:structureSnapshot.observedAt,title:n.role,source:{label:"Ministerio de Defensa · Ficha del órgano",url:n.source}}],offices:[],references:[{label:"Ministerio de Defensa · Ficha del órgano",url:n.source}]})),
+ ].map(p => ({...p,dossier:dossiers[p.id] ?? [],offices:[...new Set([...p.offices,...(governmentData.some(g=>g.cabinets.some(c=>c.members.some(m=>m.person===p.id && m.level==='president')))?['presidencia']:[]),...(governmentData.some(g=>g.cabinets.some(c=>c.members.some(m=>m.person===p.id && /(?:^| y )ministr[oa] de Defensa$/i.test(m.role))))?['defensa']:[])])]}));
+export const organizations: Organization[] = partyDirectory.map(p => {
+  const old = initialOrganizations.find(o => o.id === p.id);
+  return {...p, ...old, website:p.website, logo:p.logo, logoSource:p.logoSource};
+});
+function holders(predicate:(member:typeof governmentData[number]['cabinets'][number]['members'][number])=>boolean) {
+  const records=governmentData.flatMap(g=>g.cabinets.map(c=>({...c,source:g.source}))).sort((a,b)=>a.date.localeCompare(b.date));
+  const periods:{person:string;start:string;end?:string}[]=[];
+  for(const c of records){
+    const member=c.members.find(predicate);
+    if(!member || periods.at(-1)?.person===member.person)continue;
+    const previous=periods.at(-1);if(previous)previous.end=c.date.slice(0,4);
+    periods.push({person:member.person,start:c.date.slice(0,4)});
+  }
+  return periods.reverse().map(p=>({person:p.person,period:`${p.start}–${p.end ?? 'actualidad'}`}));
+}
 export const offices = [
-  {
-    id: "presidencia",
-    name: "Presidencia del Gobierno",
-    description:
-      "Secuencia reciente de titulares. No incluye todavía todos los presidentes del archivo histórico.",
-    members: [
-      { person: "sanchez", period: "2018–actualidad" },
-      { person: "rajoy", period: "2011–2018" },
-    ],
-    source: {
-      label: "La Moncloa · Relación cronológica completa",
-      url: moncloa("presidente/presidentes-desde-1823/Paginas/index.aspx"),
-    },
-  },
-  {
-    id: "defensa",
-    name: "Ministerio de Defensa",
-    description:
-      "Secuencia reciente de titulares. Los periodos se muestran por año; las fuentes detallan los nombramientos.",
-    members: [
-      { person: "robles", period: "2018–actualidad" },
-      { person: "cospedal", period: "2016–2018" },
-      { person: "morenes", period: "2011–2016" },
-    ],
-    source: {
-      label: "Ministerio de Defensa · Organigrama y archivo",
-      url: "https://www.defensa.gob.es/ministerio/organigrama/ministra/index.html",
-    },
-  },
+  {id:'presidencia',name:'Presidencia del Gobierno',description:'Titulares desde 1977. Periodos por año derivados de las composiciones archivadas; no equivalen a fechas exactas de nombramiento.',members:holders(m=>m.level==='president'),source:{label:'La Moncloa · Gobiernos por legislaturas',url:moncloa('gobierno/gobiernosporlegislaturas/Paginas/index.aspx')}},
+  {id:'defensa',name:'Ministerio de Defensa',description:'Titulares desde 1977. Periodos por año derivados de las composiciones archivadas; no equivalen a fechas exactas de nombramiento.',members:holders(m=>/(?:^| y )ministr[oa] de Defensa$/i.test(m.role)),source:{label:'La Moncloa · Gobiernos por legislaturas',url:moncloa('gobierno/gobiernosporlegislaturas/Paginas/index.aspx')}},
 ];
 export type Candidacy = {
   personId: string;

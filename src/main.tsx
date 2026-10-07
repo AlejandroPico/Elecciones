@@ -5,6 +5,8 @@ import "@fontsource-variable/dm-sans/wght.css";
 import "@fontsource-variable/manrope/wght.css";
 import "./styles.css";
 import "./archive.css";
+import "./refinement.css";
+import "./governments.css";
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
     <App />
