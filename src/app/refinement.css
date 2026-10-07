@@ -471,6 +471,32 @@
 .party-leadership {
   grid-column: 1 / -1;
 }
+.importance-panel {
+  position: relative;
+  border-top: 0;
+}
+.answer-countdown {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 2px;
+  background: var(--line);
+  overflow: hidden;
+}
+.answer-countdown i {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+  transform-origin: left;
+  animation: answer-time 3s linear both;
+}
+@keyframes answer-time {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
 @media (max-width: 720px) {
   .sidebar {
     padding-top: 25px;

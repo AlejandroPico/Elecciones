@@ -1,0 +1,12 @@
+{
+  "id": "vicepresidencias-sin-ordinal",
+  "name": "Vicepresidencias sin ordinal",
+  "group": "Gobierno",
+  "description": "Titulares de vicepresidencias sin número en las composiciones archivadas. Fechas por año, sin interpretar un ordinal no documentado.",
+  "level": "vicepresident",
+  "pattern": "^(?!.*(?:primer|segund|tercer|cuart)).*vicepresiden",
+  "source": {
+    "label": "La Moncloa · Gobiernos por legislaturas",
+    "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/index.aspx"
+  }
+}

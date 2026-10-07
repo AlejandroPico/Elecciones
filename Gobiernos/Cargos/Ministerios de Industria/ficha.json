@@ -1,0 +1,12 @@
+{
+  "id": "industria",
+  "name": "Ministerios de Industria",
+  "group": "Gobierno",
+  "description": "Titulares identificados en las composiciones archivadas desde 1977. Las áreas pueden cambiar de denominación o estar reunidas en un mismo ministerio; la cronología no es un registro diario de nombramientos.",
+  "pattern": "industria",
+  "level": "",
+  "source": {
+    "label": "La Moncloa · Gobiernos por legislaturas",
+    "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/index.aspx"
+  }
+}

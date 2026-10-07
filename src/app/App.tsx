@@ -29,15 +29,27 @@ import {
   similarity,
   type Answers,
   type Party,
-} from "../perfil/model";
-import { AxisRows, CoordinateChart, RadarChart } from "../perfil/Charts";
-import Progress from "../cuestionario/Progress";
-const Programs = lazy(() => import("../partidos/Programs"));
+} from "../../Elecciones/interfaz/perfil/model";
+import {
+  AxisRows,
+  CoordinateChart,
+  RadarChart,
+} from "../../Elecciones/interfaz/perfil/Charts";
+import Progress from "../../Elecciones/interfaz/cuestionario/Progress";
+import { createAdvanceClock } from "../../Elecciones/interfaz/cuestionario/avance";
+const Programs = lazy(() => import("../../Partidos/interfaz/Programs"));
 import { contexts } from "../../Elecciones/Generales Noviembre 2026/contextos";
 import favicon from "../../favicon.svg";
-const Archive = lazy(() => import("../archivo/Archive"));
-const Governments = lazy(() => import("../gobiernos/Governments"));
-type View = "survey" | "results" | "programs" | "archive" | "governments";
+const Archive = lazy(() => import("../../Políticos/interfaz/Archive"));
+const Governments = lazy(() => import("../../Gobiernos/interfaz/Governments"));
+const Offices = lazy(() => import("../../Gobiernos/interfaz/Offices"));
+type View =
+  | "survey"
+  | "results"
+  | "programs"
+  | "archive"
+  | "offices"
+  | "governments";
 type Modal = "method" | "privacy" | "about" | "reset" | "context" | null;
 type Theme = "auto" | "morning" | "afternoon" | "night";
 const choices = [
@@ -95,8 +107,9 @@ export default function App() {
   const [importMessage, setImportMessage] = useState("");
   const questionRef = useRef<HTMLHeadingElement>(null);
   const fileRef = useRef<HTMLInputElement>(null);
-  const advanceTimer = useRef<ReturnType<typeof setTimeout> | undefined>(
-    undefined,
+  const advanceClock = useRef(createAdvanceClock());
+  const [countdownQuestion, setCountdownQuestion] = useState<string | null>(
+    null,
   );
   const question = questions[index];
   const category = categories.find((c) => c.id === question.category)!;
@@ -135,44 +148,27 @@ export default function App() {
   function selectValue(value: number | null) {
     const updated = { ...answers, [question.id]: { value, importance } };
     setAnswers(updated);
-    clearTimeout(advanceTimer.current);
-    const items = questions.filter((item) => item.category === category.id);
-    if (!current && items.every((item) => Object.hasOwn(updated, item.id))) {
-      const currentTheme = categories.findIndex(
-        (item) => item.id === category.id,
-      );
-      const following = [
-        ...categories.slice(currentTheme + 1),
-        ...categories.slice(0, currentTheme),
-      ];
-      const nextTheme = following.find((theme) =>
-        questions.some(
-          (item) =>
-            item.category === theme.id && !Object.hasOwn(updated, item.id),
-        ),
-      );
-      const nextIndex = nextTheme
-        ? questions.findIndex(
-            (item) =>
-              item.category === nextTheme.id &&
-              !Object.hasOwn(updated, item.id),
-          )
-        : -1;
-      // Mostrar la última respuesta antes de compactar el tema completado.
-      advanceTimer.current = setTimeout(
-        () => (nextIndex < 0 ? openView("results") : navigate(nextIndex)),
-        650,
-      );
-    }
+    if (
+      advanceClock.current.start(() => {
+        setModal(null);
+        if (index === questions.length - 1) openView("results");
+        else navigate(index + 1);
+      })
+    )
+      setCountdownQuestion(question.id);
+  }
+  function cancelAdvance() {
+    advanceClock.current.cancel();
+    setCountdownQuestion(null);
   }
   function navigate(nextIndex: number) {
-    clearTimeout(advanceTimer.current);
+    cancelAdvance();
     setIndex(Math.max(0, Math.min(questions.length - 1, nextIndex)));
     setView("survey");
     if (window.innerWidth <= 720) setMobileMenu(false);
   }
   function openView(nextView: View) {
-    clearTimeout(advanceTimer.current);
+    cancelAdvance();
     setView(nextView);
     if (window.innerWidth <= 720) setMobileMenu(false);
   }
@@ -187,7 +183,7 @@ export default function App() {
       });
     }
   }, [index, view]);
-  useEffect(() => () => clearTimeout(advanceTimer.current), []);
+  useEffect(() => () => advanceClock.current.cancel(), []);
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (
@@ -293,6 +289,7 @@ export default function App() {
               { id: "results", name: "Mi perfil", icon: ChartNoAxesCombined },
               { id: "programs", name: "Partidos", icon: FileText },
               { id: "archive", name: "Archivo político", icon: Users },
+              { id: "offices", name: "Cargos e historia", icon: Landmark },
               { id: "governments", name: "Gobiernos", icon: Landmark },
             ] as const
           ).map((item) => (
@@ -399,7 +396,8 @@ export default function App() {
                             type="radio"
                             name={question.id}
                             checked={current?.value === choice.value}
-                            onChange={() => selectValue(choice.value)}
+                            onChange={() => {}}
+                            onClick={() => selectValue(choice.value)}
                           />
                           <span>{choice.label}</span>
                         </label>
@@ -415,6 +413,11 @@ export default function App() {
                     </button>
                   </div>
                   <div className="importance-panel">
+                    <span className="answer-countdown" aria-hidden="true">
+                      {countdownQuestion === question.id && (
+                        <i key={question.id} />
+                      )}
+                    </span>
                     <span>Importancia</span>
                     <div
                       className="segmented"
@@ -640,6 +643,12 @@ export default function App() {
               <Governments openPerson={(id) => openArchive("person", id)} />
             </div>
           )}
+          {view === "offices" && (
+            <div className="section-content">
+              <h1 className="section-title">Cargos e historia</h1>
+              <Offices openPerson={(id) => openArchive("person", id)} />
+            </div>
+          )}
         </Suspense>
       </main>
       {modal && (
@@ -701,7 +710,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.4.0</dd>
+                  <dd>0.5.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

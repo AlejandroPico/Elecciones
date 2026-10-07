@@ -13,5 +13,12 @@
     "jsx": "react-jsx",
     "strict": true
   },
-  "include": ["src", "Elecciones", "vite.config.ts"]
+  "include": [
+    "src",
+    "Elecciones",
+    "Políticos",
+    "Partidos",
+    "Gobiernos",
+    "vite.config.ts"
+  ]
 }

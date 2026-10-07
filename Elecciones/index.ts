@@ -10,3 +10,5 @@ export type {
   Question,
   Axis,
 } from "./Generales Noviembre 2026/cuestionario";
+
+export { default as candidacies } from "./Generales Noviembre 2026/candidaturas.json";

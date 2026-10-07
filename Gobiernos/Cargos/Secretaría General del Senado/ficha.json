@@ -1,0 +1,11 @@
+{
+  "id": "secretario-senado",
+  "name": "Secretaría General del Senado",
+  "group": "Cortes Generales",
+  "pending": true,
+  "description": "Historia de titulares pendiente de documentar. No hay ficha todavía.",
+  "source": {
+    "label": "Organización institucional · fuente de referencia",
+    "url": "https://www.senado.es/web/composicionorganizacion/organossenado/index.html"
+  }
+}

@@ -1,0 +1,429 @@
+import { useEffect, useRef, useState } from "react";
+import {
+  ArrowLeft,
+  ArrowRight,
+  ArrowUpRight,
+  Download,
+  FileText,
+  Search,
+} from "lucide-react";
+import {
+  portraits,
+  logos,
+  organizations,
+  people,
+  findPerson,
+  offices,
+  reviewedAt,
+  type Person,
+  type Reference,
+} from "./datos/catalogo";
+import { ageAt } from "./edad";
+import { useInfiniteList } from "../../src/app/useInfiniteList";
+import { activityOf, matchesPerson, orderPeople, type Order } from "./orden";
+import PartyDetail from "../../Partidos/interfaz/Ficha";
+import { Portrait } from "./Retrato";
+export { Portrait } from "./Retrato";
+import Sources from "../../src/app/Sources";
+type Route = { kind: "person" | "party" | "office"; id: string };
+export default function Archive({
+  initialRoute,
+  close,
+  openParty,
+}: {
+  initialRoute?: Route;
+  close?: () => void;
+  openParty?: (id: string) => void;
+}) {
+  const [order, setOrder] = useState<Order>("name");
+  const [search, setSearch] = useState("");
+  const [filter, setFilter] = useState("all");
+  const [history, setHistory] = useState<Route[]>(
+    initialRoute ? [initialRoute] : [],
+  );
+  const heading = useRef<HTMLHeadingElement>(null);
+  const route = history.at(-1);
+  const person = route?.kind === "person" ? findPerson(route.id) : undefined;
+  const party =
+    route?.kind === "party"
+      ? organizations.find((p) => p.id === route.id)
+      : undefined;
+  const office =
+    route?.kind === "office"
+      ? offices.find((o) => o.id === route.id)
+      : undefined;
+  const relatedParty = person
+    ? organizations.find((p) => p.id === person.organization)
+    : undefined;
+  const foundPeople = orderPeople(
+    people.filter(
+      (p) =>
+        matchesPerson(
+          p,
+          search,
+          organizations.find((o) => o.id === p.organization)?.fullName,
+        ) &&
+        (filter === "all" ||
+          p.organization === filter ||
+          (filter === "other" && !p.organization)),
+    ),
+    order,
+  );
+  const { visibleCount, sentinel } = useInfiniteList(
+    foundPeople.length,
+    `${search}|${filter}|${order}|${route?.id ?? ""}`,
+  );
+  function go(kind: Route["kind"], id: string) {
+    setHistory((h) => [...h, { kind, id }]);
+  }
+  useEffect(() => {
+    if (route) {
+      heading.current?.focus({ preventScroll: true });
+      heading.current?.scrollIntoView({
+        block: "nearest",
+        behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
+          ? "instant"
+          : "smooth",
+      });
+    }
+  }, [route]);
+  return (
+    <section className="archive">
+      {!route && (
+        <>
+          <div className="archive-controls">
+            <label className="archive-search">
+              <Search size={16} />
+              <input
+                type="search"
+                aria-label="Buscar en el archivo"
+                placeholder="Buscar nombre, partido o cargo"
+                value={search}
+                onChange={(e) => setSearch(e.target.value)}
+              />
+            </label>
+            <select
+              aria-label="Filtrar personas por vinculación"
+              value={filter}
+              onChange={(e) => setFilter(e.target.value)}
+            >
+              <option value="all">Todas las vinculaciones</option>
+              {organizations
+                .filter((o) => people.some((p) => p.organization === o.id))
+                .map((o) => (
+                  <option key={o.id} value={o.id}>
+                    {o.name}
+                  </option>
+                ))}
+              <option value="other">Sin partido asociado</option>
+            </select>
+            <select
+              aria-label="Ordenar personas"
+              value={order}
+              onChange={(e) => setOrder(e.target.value as Order)}
+            >
+              <option value="name">Nombre · A–Z</option>
+              <option value="recent">Actividad más reciente</option>
+              <option value="oldest">Actividad más antigua</option>
+              <option value="rank">Cargos más altos primero</option>
+            </select>
+          </div>
+          <div className="people-grid">
+            {foundPeople.slice(0, visibleCount).map((p) => (
+              <button
+                className="person-card"
+                key={p.id}
+                onClick={() => go("person", p.id)}
+                aria-label={`Ficha de ${p.fullName ?? p.name}`}
+              >
+                <div className="person-photo">
+                  <Portrait person={p} />
+                </div>
+                <div className="person-card-body">
+                  <h2>{p.fullName ?? p.name}</h2>
+                  <div className="person-shutter">
+                    <div>
+                      <p className="person-party">
+                        {organizations.find((o) => o.id === p.organization)
+                          ?.name ?? "Sin partido asociado"}
+                      </p>
+                      <p>{activityOf(p).roles.join(" · ")}</p>
+                    </div>
+                  </div>
+                </div>
+              </button>
+            ))}
+          </div>
+          {foundPeople.length === 0 && (
+            <p className="archive-empty">
+              No hay fichas que coincidan con esta búsqueda.
+            </p>
+          )}
+          <div
+            ref={sentinel}
+            className="infinite-sentinel"
+            aria-hidden="true"
+          />
+        </>
+      )}
+      {route && (
+        <>
+          <button
+            className="text-button archive-back"
+            onClick={() =>
+              history.length === 1 && close
+                ? close()
+                : setHistory((h) => h.slice(0, -1))
+            }
+          >
+            <ArrowLeft size={16} />
+            {history.length > 1
+              ? "Volver a la ficha anterior"
+              : close
+                ? "Volver a partidos"
+                : "Volver al archivo"}
+          </button>
+          {person && (
+            <div className="biography-layout" key={person.id}>
+              <aside className="biography-identity">
+                <div className="biography-photo">
+                  <Portrait person={person} />
+                </div>
+                <div className="biography-name">
+                  <span className="eyebrow">{person.relation}</span>
+                  <h2 ref={heading} tabIndex={-1}>
+                    {person.name}
+                  </h2>
+                  <p>{person.role}</p>
+                </div>
+                {person.photoCredit && (
+                  <p className="photo-credit">
+                    Imagen: {person.photoCredit}.{" "}
+                    <a
+                      href={person.photoSource}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Origen
+                      <ArrowUpRight size={10} />
+                    </a>
+                  </p>
+                )}
+                <div className="identity-links">
+                  {relatedParty && (
+                    <button
+                      onClick={() =>
+                        openParty
+                          ? openParty(relatedParty.id)
+                          : go("party", relatedParty.id)
+                      }
+                    >
+                      Ficha de {relatedParty.name}
+                      <ArrowRight size={15} />
+                    </button>
+                  )}
+                  {person.offices.map((id) => (
+                    <button key={id} onClick={() => go("office", id)}>
+                      {offices.find((o) => o.id === id)?.name}
+                      <ArrowRight size={15} />
+                    </button>
+                  ))}
+                </div>
+              </aside>
+              <div className="biography-content">
+                {person.sections.includes("datos-personales.json") && (
+                  <article>
+                    <h3>Datos personales</h3>
+                    <dl className="technical-data">
+                      <div>
+                        <dt>Nombre completo</dt>
+                        <dd>{person.fullName ?? person.name}</dd>
+                      </div>
+                      {person.birth && (
+                        <div>
+                          <dt>Nacimiento</dt>
+                          <dd>{person.birth}</dd>
+                        </div>
+                      )}
+                      {person.deathYear ? (
+                        <div>
+                          <dt>Fallecimiento</dt>
+                          <dd>
+                            {person.deathDate
+                              ? new Intl.DateTimeFormat("es-ES", {
+                                  day: "numeric",
+                                  month: "long",
+                                  year: "numeric",
+                                }).format(
+                                  new Date(person.deathDate + "T12:00:00"),
+                                )
+                              : person.deathYear}
+                          </dd>
+                        </div>
+                      ) : (
+                        person.birthDate && (
+                          <div>
+                            <dt>Edad</dt>
+                            <dd>{ageAt(person.birthDate)} años</dd>
+                          </div>
+                        )
+                      )}
+                    </dl>
+                    {!!person.personalSources?.length && (
+                      <Sources sources={person.personalSources} />
+                    )}
+                  </article>
+                )}
+                {!!person.education?.length && (
+                  <article>
+                    <h3>Formación</h3>
+                    <ul className="education-list">
+                      {person.education.map((e) => (
+                        <li key={e}>{e}</li>
+                      ))}
+                    </ul>
+                    {!!person.formationSources?.length && (
+                      <Sources sources={person.formationSources} />
+                    )}
+                  </article>
+                )}
+                {(person.summary || person.timeline.length > 0) && (
+                  <article>
+                    <span className="eyebrow">FICHA INFORMATIVA</span>
+                    <h3>Trayectoria</h3>
+                    <p>{person.summary}</p>
+                    <ol className="political-timeline">
+                      {person.timeline.map((t, i) => (
+                        <li key={i}>
+                          <span>{t.period}</span>
+                          <h4>{t.title}</h4>
+                          <a
+                            href={t.source.url}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            Fuente
+                            <ArrowUpRight size={12} />
+                          </a>
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
+                {!!person.dossier?.length && (
+                  <article>
+                    <h3>Actuaciones y controversias</h3>
+                    {person.dossier.map((d) => (
+                      <div className="dossier-item" key={d.date + d.title}>
+                        <time>{d.date}</time>
+                        <h4>{d.title}</h4>
+                        <p>{d.text}</p>
+                        <p className="small-note">{d.status}</p>
+                        <Sources
+                          sources={[d.source, ...(d.additionalSources ?? [])]}
+                        />
+                      </div>
+                    ))}
+                  </article>
+                )}
+                {person.offices.map((id) => {
+                  const o = offices.find((o) => o.id === id)!;
+                  return (
+                    <article key={id}>
+                      <span className="eyebrow">RELACIONES POR CARGO</span>
+                      <h3>{o.name}</h3>
+                      <div className="relation-nodes">
+                        {o.members.map((m, i) => (
+                          <button
+                            key={`${m.person}-${i}`}
+                            className={m.person === person.id ? "current" : ""}
+                            disabled={m.person === person.id}
+                            onClick={() => go("person", m.person)}
+                          >
+                            <span>{m.period}</span>
+                            <strong>
+                              {people.find((p) => p.id === m.person)?.name}
+                            </strong>
+                            <ArrowRight size={14} />
+                          </button>
+                        ))}
+                      </div>
+                    </article>
+                  );
+                })}
+                {!!relatedParty?.documents.length && (
+                  <article>
+                    <span className="eyebrow">DOCUMENTACIÓN</span>
+                    <h3>Programas del partido</h3>
+                    <p>
+                      Los documentos de 2023 se ofrecen como archivo histórico.
+                      El programa de 2026 no está incorporado.
+                    </p>
+                    {relatedParty.documents.map((d) => (
+                      <a
+                        className="document-link"
+                        key={d.url}
+                        href={d.url}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        <FileText size={21} />
+                        <span>
+                          <strong>{d.title}</strong>
+                          <small>{d.election} · PDF</small>
+                        </span>
+                        <Download size={17} />
+                      </a>
+                    ))}
+                  </article>
+                )}
+                {!!person.references.length && (
+                  <article>
+                    <span className="eyebrow">FUENTES</span>
+                    <h3>Documentación de esta ficha</h3>
+                    <Sources sources={person.references} />
+                    <p className="small-note">
+                      Trayectoria resumida; no es una evaluación de gestión ni
+                      un historial exhaustivo de actuaciones. Datos revisados el{" "}
+                      {reviewedAt}.
+                    </p>
+                  </article>
+                )}
+              </div>
+            </div>
+          )}
+          {party && <PartyDetail party={party} heading={heading} go={go} />}
+          {office && (
+            <article className="office-detail" key={office.id}>
+              <span className="eyebrow">HISTORIA DEL CARGO</span>
+              <h2 ref={heading} tabIndex={-1}>
+                {office.name}
+              </h2>
+              <p>{office.description}</p>
+              <div className="office-chain">
+                {office.members.map((m, i) => {
+                  const p = people.find((p) => p.id === m.person)!;
+                  return (
+                    <button
+                      key={`${m.person}-${i}`}
+                      onClick={() => go("person", m.person)}
+                    >
+                      <Portrait person={p} />
+                      <div>
+                        <span className="eyebrow">{m.period}</span>
+                        <h3>{p.name}</h3>
+                        <p>{p.relation}</p>
+                      </div>
+                      <ArrowRight size={19} />
+                    </button>
+                  );
+                })}
+              </div>
+              <Sources sources={[office.source]} />
+            </article>
+          )}
+        </>
+      )}
+    </section>
+  );
+}

@@ -4,5 +4,16 @@
   "fullName": "Compromís",
   "foundation": "Pendiente de documentar",
   "summary": "Directorio informativo de la organización. Sus listas y programa para noviembre de 2026 aún no están incorporados.",
-  "website": "https://compromis.net/"
+  "website": "https://compromis.net/",
+  "registration": {
+    "id": "4054",
+    "name": "COALICIO COMPROMIS",
+    "date": "2010-06-10",
+    "locality": "València (Valencia/Vàlencia)",
+    "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4054",
+    "checkedAt": "2026-10-07"
+  },
+  "legacyIds": [
+    "registro-4054"
+  ]
 }

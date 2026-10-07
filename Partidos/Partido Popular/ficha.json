@@ -4,5 +4,13 @@
   "fullName": "Partido Popular",
   "foundation": "1989 · refundación de Alianza Popular",
   "summary": "El Partido Popular se constituyó con esa denominación en 1989 tras la refundación de Alianza Popular. La ficha enlaza su archivo de programas y una selección de personas y etapas verificadas.",
-  "website": "https://www.pp.es/"
+  "website": "https://www.pp.es/",
+  "registration": {
+    "id": "244",
+    "name": "PARTIDO POPULAR",
+    "date": "1977-05-04",
+    "locality": "Madrid (Madrid)",
+    "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=244",
+    "checkedAt": "2026-10-07"
+  }
 }

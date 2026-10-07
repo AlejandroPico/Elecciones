@@ -1,0 +1,373 @@
+.government-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin: 24px 0;
+}
+.government-toolbar select {
+  max-width: 430px;
+  padding: 12px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  color: var(--text);
+  font-size: 12px;
+}
+.government-library {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  padding-bottom: 15px;
+  margin-bottom: 24px;
+}
+.government-library button {
+  padding: 12px 13px;
+  display: grid;
+  gap: 5px;
+  min-width: 58px;
+  border-bottom: 2px solid var(--line);
+  color: var(--muted);
+}
+.government-library button.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.government-library span {
+  font-size: 10px;
+}
+.government-library strong {
+  font-size: 12px;
+  font-weight: 500;
+}
+.government-time {
+  padding: 24px 28px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+.time-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.time-heading span {
+  font-size: 11px;
+  color: var(--muted);
+}
+.time-heading h2 {
+  font-family: Georgia, serif;
+  font-size: 26px;
+  margin-top: 8px;
+}
+.timeline-control {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 18px 0 0;
+}
+.timeline-control input {
+  flex: 1;
+  min-width: 0;
+  height: 30px;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+.timeline-control .icon-button {
+  min-width: 30px;
+  min-height: 35px;
+}
+.time-extents {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 42px;
+  font-size: 10px;
+  color: var(--muted);
+  margin-bottom: 16px;
+}
+.government-organigram {
+  margin-top: 32px;
+  animation: question-enter 0.35s ease both;
+}
+.president-tier {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding-bottom: 32px;
+}
+.president-tier::after {
+  content: "";
+  position: absolute;
+  height: 32px;
+  width: 1px;
+  bottom: 0;
+  background: var(--line);
+}
+.government-node {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  padding: 16px;
+  width: 100%;
+  min-width: 0;
+  transition:
+    border-color 0.2s,
+    background 0.2s;
+}
+.government-node:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.government-node small {
+  display: block;
+  font-size: 10px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin-bottom: 5px;
+}
+.government-node strong {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+.government-portrait {
+  flex-shrink: 0;
+  height: 76px;
+  width: 62px;
+  overflow: hidden;
+  background: var(--accent-soft);
+}
+.government-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+}
+.government-portrait .portrait-placeholder {
+  height: 100%;
+  min-height: 0;
+  padding: 0;
+  display: grid;
+  place-items: center;
+}
+.government-portrait .portrait-placeholder span {
+  font-size: 20px;
+}
+.government-portrait small {
+  display: none;
+}
+.president-node {
+  max-width: 350px;
+}
+.government-tier {
+  border-top: 1px solid var(--line);
+  padding: 24px 0;
+  position: relative;
+}
+.government-tier h3 {
+  text-align: center;
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: var(--muted);
+}
+.government-tier > .small-note {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.vice-tier {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+.minister-tier {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+.source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  margin: 18px 0;
+}
+.structure-branches {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
+}
+.structure-children {
+  padding: 25px 0 0 24px;
+  border-left: 1px solid var(--line);
+  margin-left: 25px;
+}
+.government-coverage {
+  border-bottom: 1px solid var(--line);
+  padding: 10px 0 30px;
+  margin-bottom: 30px;
+}
+.hemicycle {
+  max-width: 780px;
+  margin: 40px auto;
+}
+.hemicycle h2 {
+  font-family: Georgia, serif;
+  font-size: 25px;
+}
+.hemicycle svg {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin: 30px auto;
+}
+.hemicycle circle {
+  transition: opacity 0.25s;
+}
+.seat-legend {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin: 25px 0;
+}
+.seat-legend button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 0;
+  font-size: 11px;
+}
+.seat-legend i {
+  width: 8px;
+  height: 8px;
+}
+.seat-legend b {
+  margin-left: auto;
+  font-weight: 500;
+}
+.seat-legend button[aria-pressed="true"] {
+  color: var(--accent);
+}
+@media (max-width: 1150px) {
+  .minister-tier,
+  .vice-tier {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 720px) {
+  .government-toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .government-toolbar select {
+    max-width: 100%;
+  }
+  .government-time {
+    padding: 20px 16px;
+  }
+  .time-heading h2 {
+    font-size: 21px;
+  }
+  .minister-tier,
+  .vice-tier {
+    grid-template-columns: 1fr;
+  }
+  .seat-legend {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .time-extents {
+    padding: 0;
+    font-size: 9px;
+  }
+  .government-library {
+    margin-bottom: 12px;
+  }
+}
+
+@media (max-width: 720px) {
+  .structure-branches {
+    grid-template-columns: 1fr;
+  }
+}
+
+.government-library {
+  scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
+}
+.office-controls {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+  padding: 20px 0;
+  margin: 0 0 28px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.office-controls .archive-search {
+  max-width: none;
+  border: 0;
+  padding: 10px 0;
+  background: transparent;
+}
+.office-controls select {
+  background: transparent;
+  border: 0;
+  padding: 10px;
+  color: var(--muted);
+  font-size: 11px;
+}
+.office-category {
+  margin: 0 0 36px;
+}
+.office-category > h2 {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 14px;
+}
+.office-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 28px;
+}
+.office-list button {
+  padding: 17px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+.office-list button span {
+  font-size: 12px;
+  line-height: 1.6;
+}
+.office-list button em {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 9px;
+  font-style: normal;
+}
+.office-list button small {
+  white-space: nowrap;
+  font-size: 9px;
+  color: var(--muted);
+}
+.office-list button:hover span {
+  color: var(--accent);
+}
+@media (max-width: 720px) {
+  .office-list {
+    grid-template-columns: 1fr;
+  }
+  .office-controls {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+  }
+}
