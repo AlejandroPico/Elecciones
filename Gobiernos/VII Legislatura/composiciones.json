@@ -1,0 +1,535 @@
+{
+  "id": "vii",
+  "legislature": "VII",
+  "name": "Gobierno de la VII Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/VII%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "vii-1",
+      "label": "Gabinete de abril 2000 a febrero de 2001",
+      "date": "2000-04",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Vicepresidente primero y ministro de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo para Asuntos Económicos y ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "federico-trillo-figueroa-y-martinez-conde",
+          "name": "Federico Trillo-Figueroa y Martínez-Conde",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-mayor-oreja",
+          "name": "Jaime Mayor Oreja",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-del-castillo-vera",
+          "name": "Pilar del Castillo Vera",
+          "role": "Ministra de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "juan-carlos-aparicio-perez",
+          "name": "Juan Carlos Aparicio Pérez",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-arias-canete",
+          "name": "Miguel Arias Cañete",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-posada-moreno",
+          "name": "Jesús Posada Moreno",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "celia-villalobos-talero",
+          "name": "Celia Villalobos Talero",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-matas-i-palou",
+          "name": "Jaime Matas i Palou",
+          "role": "Ministro de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "anna-maria-birules-bertran",
+          "name": "Anna María Birulés Bertrán",
+          "role": "Ministra de Ciencia y Tecnología",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-alonso",
+          "name": "Pío Cabanillas Alonso",
+          "role": "Ministro portavoz del Gobierno, sin cartera",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vii-2",
+      "label": "Gabinete de febrero 2001 a julio 2002",
+      "date": "2001-02",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Vicepresidente primero y ministro de Interior",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo para Asuntos Económicos y ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "federico-trillo-figueroa-y-martinez-conde",
+          "name": "Federico Trillo-Figueroa y Martínez-Conde",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-del-castillo-vera",
+          "name": "Pilar del Castillo Vera",
+          "role": "Ministra de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "juan-carlos-aparicio-perez",
+          "name": "Juan Carlos Aparicio Pérez",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-arias-canete",
+          "name": "Miguel Arias Cañete",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-posada-moreno",
+          "name": "Jesús Posada Moreno",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "celia-villalobos-talero",
+          "name": "Celia Villalobos Talero",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-matas-i-palou",
+          "name": "Jaime Matas i Palou",
+          "role": "Ministro de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-lucas-jimenez",
+          "name": "Juan José Lucas Jiménez",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "anna-maria-birules-bertran",
+          "name": "Anna María Birulés Bertrán",
+          "role": "Ministra de Ciencia y Tecnología",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-alonso",
+          "name": "Pío Cabanillas Alonso",
+          "role": "Ministro portavoz del Gobierno, sin cartera",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vii-3",
+      "label": "Gabinete de julio de 2002 a marzo de 2003",
+      "date": "2002-07",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Vicepresidente primero, ministro de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo para Asuntos Económicos y ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "ana-palacio-vallelersundi",
+          "name": "Ana Palacio Vallelersundi",
+          "role": "Ministra de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "jose-maria-michavila-nunez",
+          "name": "José María Michavila Núñez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "federico-trillo-figueroa-y-martinez-conde",
+          "name": "Federico Trillo-Figueroa y Martínez-Conde",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-del-castillo-vera",
+          "name": "Pilar del Castillo Vera",
+          "role": "Ministra de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-zaplana-hernandez-soro",
+          "name": "Eduardo Zaplana Hernández-Soro",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-arias-canete",
+          "name": "Miguel Arias Cañete",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "javier-arenas-bocanegra",
+          "name": "Javier Arenas Bocanegra",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "ana-maria-pastor-julian",
+          "name": "Ana María Pastor Julián",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-matas-i-palou",
+          "name": "Jaime Matas i Palou",
+          "role": "Ministro de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Ciencia y Tecnología",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vii-4",
+      "label": "Gabinete de marzo de 2003 a septiembre de 2003",
+      "date": "2003-03",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Vicepresidente primero, ministro de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo para Asuntos Económicos y ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "ana-palacio-vallelersundi",
+          "name": "Ana Palacio Vallelersundi",
+          "role": "Ministra de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "jose-maria-michavila-nunez",
+          "name": "José María Michavila Núñez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "federico-trillo-figueroa-y-martinez-conde",
+          "name": "Federico Trillo-Figueroa y Martínez-Conde",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-del-castillo-vera",
+          "name": "Pilar del Castillo Vera",
+          "role": "Ministra de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-zaplana-hernandez-soro",
+          "name": "Eduardo Zaplana Hernández-Soro",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-arias-canete",
+          "name": "Miguel Arias Cañete",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "javier-arenas-bocanegra",
+          "name": "Javier Arenas Bocanegra",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "ana-maria-pastor-julian",
+          "name": "Ana María Pastor Julián",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "maria-elvira-rodriguez-herrer",
+          "name": "María Elvira Rodríguez Herrer",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Ciencia y Tecnología",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vii-5",
+      "label": "Gabinete de septiembre de 2003 a abril de 2004",
+      "date": "2003-09",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente primero y ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "javier-arenas-bocanegra",
+          "name": "Javier Arenas Bocanegra",
+          "role": "Vicepresidente segundo y ministro de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "ana-palacio-vallelersundi",
+          "name": "Ana Palacio Vallelersundi",
+          "role": "Ministra de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "jose-maria-michavila-nunez",
+          "name": "José María Michavila Núñez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "federico-trillo-figueroa-y-martinez-conde",
+          "name": "Federico Trillo-Figueroa y Martínez-Conde",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-del-castillo-vera",
+          "name": "Pilar del Castillo Vera",
+          "role": "Ministra de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-zaplana-hernandez-soro",
+          "name": "Eduardo Zaplana Hernández-Soro",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-arias-canete",
+          "name": "Miguel Arias Cañete",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "julia-garcia-valdecasas-salgado",
+          "name": "Julia García-Valdecasas Salgado",
+          "role": "Ministra de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "ana-maria-pastor-julian",
+          "name": "Ana María Pastor Julián",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "maria-elvira-rodriguez-herrer",
+          "name": "María Elvira Rodríguez Herrer",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "juan-costa-climent",
+          "name": "Juan Costa Climent",
+          "role": "Ministro de Ciencia y Tecnología",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "id": "viii",
+  "legislature": "VIII",
+  "name": "Gobierno de la VIII Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/VIIILegislatura.aspx",
+  "cabinets": [
+    {
+      "id": "viii-1",
+      "label": "Gabinete de abril de 2004 a abril de 2006",
+      "date": "2004-04",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-fernando-lopez-aguilar",
+          "name": "Juan Fernando López Aguilar",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-bono-martinez",
+          "name": "José Bono Martínez",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-alonso-suarez",
+          "name": "José Antonio Alonso Suárez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-sansegundo-gomez-de-cadinanos",
+          "name": "María Jesús Sansegundo Gómez de Cadiñanos",
+          "role": "Ministra de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-caldera-sanchez-capitan",
+          "name": "Jesús Caldera Sánchez-Capitán",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "jose-montilla-aguilera",
+          "name": "José Montilla Aguilera",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sevilla-segura",
+          "name": "Jordi Sevilla Segura",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-narbona-ruiz",
+          "name": "Cristina Narbona Ruiz",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "maria-antonia-trujillo-rincon",
+          "name": "María Antonia Trujillo Rincón",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "viii-2",
+      "label": "Gabinete de abril de 2006 a septiembre de 2006",
+      "date": "2006-04",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-fernando-lopez-aguilar",
+          "name": "Juan Fernando López Aguilar",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-alonso-suarez",
+          "name": "José Antonio Alonso Suárez",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "mercedes-cabrera-calvo-sotelo",
+          "name": "Mercedes Cabrera Calvo-Sotelo",
+          "role": "Ministra de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-caldera-sanchez-capitan",
+          "name": "Jesús Caldera Sánchez-Capitán",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "jose-montilla-aguilera",
+          "name": "José Montilla Aguilera",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sevilla-segura",
+          "name": "Jordi Sevilla Segura",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-narbona-ruiz",
+          "name": "Cristina Narbona Ruiz",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "maria-antonia-trujillo-rincon",
+          "name": "María Antonia Trujillo Rincón",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "viii-3",
+      "label": "Gabinete de septiembre de 2006 a febrero de 2007",
+      "date": "2006-09",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-fernando-lopez-aguilar",
+          "name": "Juan Fernando López Aguilar",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-alonso-suarez",
+          "name": "José Antonio Alonso Suárez",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "mercedes-cabrera-calvo-sotelo",
+          "name": "Mercedes Cabrera Calvo-Sotelo",
+          "role": "Ministra de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-caldera-sanchez-capitan",
+          "name": "Jesús Caldera Sánchez-Capitán",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "joan-clos-i-matheu",
+          "name": "Joan Clos i Matheu",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sevilla-segura",
+          "name": "Jordi Sevilla Segura",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-narbona-ruiz",
+          "name": "Cristina Narbona Ruiz",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "maria-antonia-trujillo-rincon",
+          "name": "María Antonia Trujillo Rincón",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "viii-4",
+      "label": "Gabinete de febrero de 2007 a julio de 2007",
+      "date": "2007-02",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "mariano-fernandez-bermejo",
+          "name": "Mariano Fernández Bermejo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-alonso-suarez",
+          "name": "José Antonio Alonso Suárez",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "mercedes-cabrera-calvo-sotelo",
+          "name": "Mercedes Cabrera Calvo-Sotelo",
+          "role": "Ministra de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-caldera-sanchez-capitan",
+          "name": "Jesús Caldera Sánchez-Capitán",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "joan-clos-i-matheu",
+          "name": "Joan Clos i Matheu",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sevilla-segura",
+          "name": "Jordi Sevilla Segura",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-narbona-ruiz",
+          "name": "Cristina Narbona Ruiz",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "maria-antonia-trujillo-rincon",
+          "name": "María Antonia Trujillo Rincón",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "viii-5",
+      "label": "Gabinete de julio de 2007 a abril de 2008",
+      "date": "2007-07",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "mariano-fernandez-bermejo",
+          "name": "Mariano Fernández Bermejo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-alonso-suarez",
+          "name": "José Antonio Alonso Suárez",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "mercedes-cabrera-calvo-sotelo",
+          "name": "Mercedes Cabrera Calvo-Sotelo",
+          "role": "Ministra de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-caldera-sanchez-capitan",
+          "name": "Jesús Caldera Sánchez-Capitán",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "joan-clos-i-matheu",
+          "name": "Joan Clos i Matheu",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "cesar-antonio-molina-sanchez",
+          "name": "César Antonio Molina Sánchez",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "bernat-soria-escoms",
+          "name": "Bernat Soria Escoms",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-narbona-ruiz",
+          "name": "Cristina Narbona Ruiz",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "carme-chacon-piqueras",
+          "name": "Carme Chacón Piqueras",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

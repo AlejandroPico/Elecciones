@@ -1,0 +1,687 @@
+{
+  "id": "xii",
+  "legislature": "XII",
+  "name": "Gobierno de la XII Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xii-legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "xii-1",
+      "label": "Gabinete de 19 de julio a 16 de agosto de 2016",
+      "date": "2016-07-19",
+      "members": [
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-soraya-saenz-de-santamaria-anton",
+          "name": "María Soraya Sáenz de Santamaría Antón",
+          "role": "Vicepresidenta y ministra de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-manuel-garcia-margallo-y-marfil",
+          "name": "José Manuel García-Margallo y Marfil",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-catala-polo",
+          "name": "Rafael Catalá Polo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "morenes",
+          "name": "Pedro Morenés Eulate",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda y Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-fernandez-diaz",
+          "name": "Jorge Fernández Díaz",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-mendez-de-vigo-y-montojo",
+          "name": "Íñigo Méndez de Vigo y Montojo",
+          "role": "Ministro de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "maria-fatima-banez-garcia",
+          "name": "María Fátima Báñez García",
+          "role": "Ministra de Empleo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-garcia-tejerina",
+          "name": "Isabel García Tejerina",
+          "role": "Ministra de Agricultura, Alimentación y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "luis-de-guindos-jurado",
+          "name": "Luis de Guindos Jurado",
+          "role": "Ministro de Economía y Competitividad",
+          "level": "minister"
+        },
+        {
+          "person": "alfonso-alonso-aranegui",
+          "name": "Alfonso Alonso Aranegui",
+          "role": "Ministro de Sanidad, Servicios Sociales e Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xii-2",
+      "label": "Gabinete de 16 de agosto a 4 de noviembre de 2016",
+      "date": "2016-08-16",
+      "members": [
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-soraya-saenz-de-santamaria-anton",
+          "name": "María Soraya Sáenz de Santamaría Antón",
+          "role": "Vicepresidenta y ministra de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-manuel-garcia-margallo-y-marfil",
+          "name": "José Manuel García-Margallo y Marfil",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-catala-polo",
+          "name": "Rafael Catalá Polo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "morenes",
+          "name": "Pedro Morenés Eulate",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda y Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-fernandez-diaz",
+          "name": "Jorge Fernández Díaz",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-mendez-de-vigo-y-montojo",
+          "name": "Íñigo Méndez de Vigo y Montojo",
+          "role": "Ministro de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "maria-fatima-banez-garcia",
+          "name": "María Fátima Báñez García",
+          "role": "Ministra de Empleo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-garcia-tejerina",
+          "name": "Isabel García Tejerina",
+          "role": "Ministra de Agricultura, Alimentación y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "luis-de-guindos-jurado",
+          "name": "Luis de Guindos Jurado",
+          "role": "Ministro de Economía y Competitividad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xii-3",
+      "label": "Gabinete de 4 de noviembre de 2016 a 8 de marzo de 2018",
+      "date": "2016-11-04",
+      "members": [
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Presidente",
+          "level": "president"
+        },
+        {
+          "person": "maria-soraya-saenz-de-santamaria-anton",
+          "name": "María Soraya Sáenz de Santamaría Antón",
+          "role": "Vicepresidenta, ministra de la Presidencia y para las Administraciones Territoriales",
+          "level": "vicepresident"
+        },
+        {
+          "person": "alfonso-dastis-quecedo",
+          "name": "Alfonso Dastis Quecedo",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-catala-polo",
+          "name": "Rafael Catalá Polo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "cospedal",
+          "name": "María Dolores de Cospedal García",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "juan-ignacio-zoido-alvarez",
+          "name": "Juan Ignacio Zoido Álvarez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-de-la-serna-hernaiz",
+          "name": "Íñigo de la Serna Hernáiz",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-mendez-de-vigo-y-montojo",
+          "name": "Íñigo Méndez de Vigo y Montojo",
+          "role": "Ministro de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "fatima-banez-garcia",
+          "name": "Fátima Báñez García",
+          "role": "Ministra de Empleo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "alvaro-nadal-belda",
+          "name": "Álvaro Nadal Belda",
+          "role": "Ministro de Energía, Turismo y Agenda Digital",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-garcia-tejerina",
+          "name": "Isabel García Tejerina",
+          "role": "Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "luis-de-guindos-jurado",
+          "name": "Luis de Guindos Jurado",
+          "role": "Ministro de Economía, Industria y Competitividad",
+          "level": "minister"
+        },
+        {
+          "person": "dolors-montserrat-montserrat",
+          "name": "Dolors Montserrat Montserrat",
+          "role": "Ministra de Sanidad, Servicios Sociales e Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xii-4",
+      "label": "Gabinete de 8 de marzo de 2018 al 7 de junio de 2018",
+      "date": "2018-03-08",
+      "members": [
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Presidente",
+          "level": "president"
+        },
+        {
+          "person": "maria-soraya-saenz-de-santamaria-anton",
+          "name": "María Soraya Sáenz de Santamaría Antón",
+          "role": "Vicepresidenta, ministra de la Presidencia y para las Administraciones Territoriales",
+          "level": "vicepresident"
+        },
+        {
+          "person": "alfonso-dastis-quecedo",
+          "name": "Alfonso Dastis Quecedo",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-catala-polo",
+          "name": "Rafael Catalá Polo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "cospedal",
+          "name": "María Dolores de Cospedal García",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "juan-ignacio-zoido-alvarez",
+          "name": "Juan Ignacio Zoido Álvarez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-de-la-serna-hernaiz",
+          "name": "Íñigo de la Serna Hernáiz",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-mendez-de-vigo-y-montojo",
+          "name": "Íñigo Méndez de Vigo y Montojo",
+          "role": "Ministro de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "fatima-banez-garcia",
+          "name": "Fátima Báñez García",
+          "role": "Ministra de Empleo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "alvaro-nadal-belda",
+          "name": "Álvaro Nadal Belda",
+          "role": "Ministro de Energía, Turismo y Agenda Digital",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-garcia-tejerina",
+          "name": "Isabel García Tejerina",
+          "role": "Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "roman-escolano-olivares",
+          "name": "Román Escolano Olivares",
+          "role": "Ministro de Economía, Industria y Competitividad",
+          "level": "minister"
+        },
+        {
+          "person": "dolors-montserrat-montserrat",
+          "name": "Dolors Montserrat Montserrat",
+          "role": "Ministra de Sanidad, Servicios Sociales e Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xii-5",
+      "label": "Gabinete de 7 de junio de 2018 a 13 de junio de 2018",
+      "date": "2018-06-07",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-del-carmen-calvo-poyato",
+          "name": "María del Carmen Calvo Poyato",
+          "role": "Vicepresidenta del Gobierno y ministra de la Presidencia, Relaciones con las Cortes e Igualdad",
+          "level": "vicepresident"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "dolores-delgado-garcia",
+          "name": "Dolores Delgado García",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "maria-isabel-celaa-dieguez",
+          "name": "María Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-valerio-cordero",
+          "name": "Magdalena Valerio Cordero",
+          "role": "Ministra de Trabajo, Migraciones y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "meritxell-batet-lamana",
+          "name": "Meritxell Batet Lamaña",
+          "role": "Ministra de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Ministra para la Transición Ecológica",
+          "level": "minister"
+        },
+        {
+          "person": "maxim-huerta-hernandez",
+          "name": "Màxim Huerta Hernández",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Ministra de Economía y Empresa",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-monton-gimenez",
+          "name": "Carmen Montón Giménez",
+          "role": "Ministra de Sanidad, Consumo y Bienestar Social",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-francisco-duque-duque",
+          "name": "Pedro Francisco Duque Duque",
+          "role": "Ministro de Ciencia, Innovación y Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xii-6",
+      "label": "Gabinete del 13 de junio de 2018 a 11 de septiembre de 2018",
+      "date": "2018-06-13",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-del-carmen-calvo-poyato",
+          "name": "María del Carmen Calvo Poyato",
+          "role": "Vicepresidenta del Gobierno y ministra de la Presidencia, Relaciones con las Cortes e Igualdad",
+          "level": "vicepresident"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "dolores-delgado-garcia",
+          "name": "Dolores Delgado García",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "maria-isabel-celaa-dieguez",
+          "name": "María Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-valerio-cordero",
+          "name": "Magdalena Valerio Cordero",
+          "role": "Ministra de Trabajo, Migraciones y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "meritxell-batet-lamana",
+          "name": "Meritxell Batet Lamaña",
+          "role": "Ministra de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Ministra para la Transición Ecológica",
+          "level": "minister"
+        },
+        {
+          "person": "jose-guirao",
+          "name": "José Guirao",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Ministra de Economía y Empresa",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-monton-gimenez",
+          "name": "Carmen Montón Giménez",
+          "role": "Ministra de Sanidad, Consumo y Bienestar Social",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-francisco-duque-duque",
+          "name": "Pedro Francisco Duque Duque",
+          "role": "Ministro de Ciencia, Innovación y Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xii-7",
+      "label": "Gabinete del 11 de septiembre de 2018 a 20 de mayo de 2019",
+      "date": "2018-09-11",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-del-carmen-calvo-poyato",
+          "name": "María del Carmen Calvo Poyato",
+          "role": "Vicepresidenta del Gobierno y ministra de la Presidencia, Relaciones con las Cortes e Igualdad",
+          "level": "vicepresident"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "dolores-delgado-garcia",
+          "name": "Dolores Delgado García",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "maria-isabel-celaa-dieguez",
+          "name": "María Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-valerio-cordero",
+          "name": "Magdalena Valerio Cordero",
+          "role": "Ministra de Trabajo, Migraciones y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "meritxell-batet-lamana",
+          "name": "Meritxell Batet Lamaña",
+          "role": "Ministra de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Ministra para la Transición Ecológica",
+          "level": "minister"
+        },
+        {
+          "person": "jose-guirao",
+          "name": "José Guirao",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Ministra de Economía y Empresa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-luisa-carcedo",
+          "name": "María Luisa Carcedo",
+          "role": "Ministra de Sanidad, Consumo y Bienestar Social",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-francisco-duque-duque",
+          "name": "Pedro Francisco Duque Duque",
+          "role": "Ministro de Ciencia, Innovación y Universidades",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

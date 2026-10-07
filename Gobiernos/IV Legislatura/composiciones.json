@@ -1,0 +1,710 @@
+{
+  "id": "iv",
+  "legislature": "IV",
+  "name": "Gobierno de la IV Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/IV%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "iv-1",
+      "label": "Gabinete de diciembre de 1989 a mayo de 1990",
+      "date": "1989-12",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfonso-guerra-gonzalez",
+          "name": "Alfonso Guerra González",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-mugica-herzog",
+          "name": "Enrique Múgica Herzog",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "javier-luis-saenz-de-cosculluela",
+          "name": "Javier Luis Sáenz de Cosculluela",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-chaves-gonzalez",
+          "name": "Manuel Chaves González",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-semprun-y-maura",
+          "name": "Jorge Semprún y Maura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "iv-2",
+      "label": "Gabinete de mayo de 1990 a enero 1991",
+      "date": "1990-05",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfonso-guerra-gonzalez",
+          "name": "Alfonso Guerra González",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-mugica-herzog",
+          "name": "Enrique Múgica Herzog",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "javier-luis-saenz-de-cosculluela",
+          "name": "Javier Luis Sáenz de Cosculluela",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-martinez-noval",
+          "name": "Luis Martínez Noval",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-semprun-y-maura",
+          "name": "Jorge Semprún y Maura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "iv-3",
+      "label": "Gabinete de enero de 1991 a marzo de 1991",
+      "date": "1991-01",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-mugica-herzog",
+          "name": "Enrique Múgica Herzog",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "javier-luis-saenz-de-cosculluela",
+          "name": "Javier Luis Sáenz de Cosculluela",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-martinez-noval",
+          "name": "Luis Martínez Noval",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-semprun-y-maura",
+          "name": "Jorge Semprún y Maura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "iv-4",
+      "label": "Gabinete de marzo de 1991 a enero de 1992",
+      "date": "1991-03",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+          "name": "Tomás de la Quadra-Salcedo y Fernández del Castillo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas y Transporte",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-martinez-noval",
+          "name": "Luis Martínez Noval",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sole-tura",
+          "name": "Jordi Solé Tura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-valverde",
+          "name": "Julián García Valverde",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "iv-5",
+      "label": "Gabinete de enero de 1992 a junio de 1992",
+      "date": "1992-01",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+          "name": "Tomás de la Quadra-Salcedo y Fernández del Castillo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas y Transporte",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-martinez-noval",
+          "name": "Luis Martínez Noval",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sole-tura",
+          "name": "Jordi Solé Tura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "iv-6",
+      "label": "Gabinete de junio de 1992 a julio de 1993",
+      "date": "1992-06",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+          "name": "Tomás de la Quadra-Salcedo y Fernández del Castillo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas y Transporte",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-martinez-noval",
+          "name": "Luis Martínez Noval",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jordi-sole-tura",
+          "name": "Jordi Solé Tura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

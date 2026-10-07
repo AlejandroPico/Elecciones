@@ -2,9 +2,17 @@
 
 Revisión: 7 de octubre de 2026. El archivo informativo es independiente del cálculo del cuestionario. Sus fichas no acreditan candidaturas ni afinidad electoral. Aplicar [PROTOCOLOS.md](../PROTOCOLOS.md) al ampliarlo.
 
-## Cobertura y navegación
+## Organización y cobertura
 
-Las 23 personas del gabinete actual tienen retrato individual de su ficha de La Moncloa, formación, nacimiento con precisión de su fuente y trayectoria. Los presidentes desde 1977 cuentan con información del archivo institucional. Los otros titulares históricos tienen fichas parciales derivadas de las composiciones oficiales, con cargos y referencias; fotografía, estudios y biografía completa siguen pendientes. La ausencia de una actuación en el catálogo no significa que no exista.
+Cada persona vive en `Políticos/<Nombre completo>/`, cada organización en `Partidos/<Nombre completo>/` y cada legislatura en `Gobiernos/<legislatura>/`. La carga descubre las fichas al compilar y omite los apartados sin contenido. El catálogo actual tiene 276 personas, 64 retratos institucionales y 150 fechas de nacimiento completas. Conserva los 275 IDs anteriores; los identificadores duplicados se resuelven mediante alias y reúnen sus trayectorias y fuentes.
+
+Se añaden dirigentes de oposición y autonómicos. «Partidos» tiene una entrada propia en el menú y secuencias vinculadas de presidencias de AP/PP desde 1979 y secretarías generales y gestoras del PSOE desde 1974; siguen pendientes otros partidos y sustituciones temporales.
+
+La edad solo aparece con día, mes y año y se calcula a la fecha local. Para fallecidos se muestra el fallecimiento. La ficha del Congreso corrige el nacimiento de Margarita Robles a 10 de noviembre de 1956, frente al año discrepante de una ficha de La Moncloa. Wikipedia se identifica como fuente enciclopédica cuando completa datos personales o formación.
+
+## Navegación
+
+Las 23 personas del gabinete actual tienen retrato individual de su ficha de La Moncloa, formación, nacimiento con precisión de su fuente y trayectoria. Los presidentes desde 1977 cuentan con información del archivo institucional. Los otros titulares históricos tienen fichas derivadas de las composiciones oficiales, ampliadas con datos personales, estudios y retratos cuando se han contrastado; la cobertura sigue siendo desigual. La ausencia de una actuación en el catálogo no significa que no exista.
 
 El buscador consulta todo el catálogo; el mosaico muestra fichas por lotes para evitar una carga masiva de imágenes. Las personas enlazan sus cargos y organizaciones cuando la relación está acreditada. Presidencia y Defensa permiten recorrer titulares desde 1977, con intervalos por año derivados del archivo de composición. Un Gobierno no acredita la militancia de todos sus ministros: se mantiene sin asignar cuando falta una fuente específica.
 
@@ -22,6 +30,8 @@ El hemiciclo de 2023 suma 350 escaños y conserva la distinción PSOE/PSC-PSOE d
 
 Hay una selección inicial sobre la moción de censura de 2018, la ley de amnistía y una sentencia constitucional, relevos de Defensa/CNI de 2022 y una moción sobre la frontera de Melilla votada en 2023. Cada registro señala fecha, hecho, atribución, estado y fuente. Una decisión parlamentaria de control político no se presenta como condena judicial personal. Esta selección no es una evaluación exhaustiva de éxitos o controversias.
 
-Fuentes principales: La Moncloa, Ministerio de Defensa, BOE, Congreso y Senado. La información histórica de un partido se atribuye al propio partido. La ampliación debe recoger también respuestas documentadas y cambios procesales, con la fecha de revisión.
+Fuentes principales: La Moncloa, Ministerio de Defensa, BOE, Congreso, Senado y otras instituciones; Wikipedia complementa datos biográficos con atribución. La información histórica de un partido se atribuye al propio partido. La ampliación debe recoger también respuestas documentadas y cambios procesales, con la fecha de revisión.
 
-Las fotografías se sirven desde retratos/, con crédito y origen en cada ficha. No se utilizan imágenes de actos como sustituto de un retrato. Cuando falta una foto aparece una tarjeta de iniciales identificada como pendiente. Los logotipos conservan su formato publicado: SVG cuando existe, y PNG/GIF en otros casos.
+Las fotografías se sirven desde la carpeta de cada persona, con crédito y origen en `retrato.json`. No se utilizan imágenes de actos como sustituto de un retrato. Cuando falta una foto aparece una tarjeta de iniciales identificada como pendiente. Los logotipos conservan su formato publicado: SVG cuando existe, y PNG/GIF en otros casos.
+
+La ficha de Pablo Casado incorpora también el procedimiento de información previa sobre su licenciatura en Derecho: el comunicado de la UCM de 30 de julio de 2018 recoge el alcance de la revisión y su decisión de no iniciar expediente salvo nueva información. No se confunde ese procedimiento universitario con la revisión de un máster ni con una resolución judicial.

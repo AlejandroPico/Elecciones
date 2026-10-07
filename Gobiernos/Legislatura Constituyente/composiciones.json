@@ -1,0 +1,256 @@
+{
+  "id": "constituyente",
+  "legislature": "Constituyente",
+  "name": "Legislatura Constituyente",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/Legislatura%20Constituyente.aspx",
+  "cabinets": [
+    {
+      "id": "constituyente-1",
+      "label": "Gabinete de julio de 1977 a febrero de 1978",
+      "date": "1977-07",
+      "members": [
+        {
+          "person": "adolfo-suarez-gonzalez",
+          "name": "Adolfo Suárez González",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "manuel-gutierrez-mellado",
+          "name": "Manuel Gutiérrez Mellado",
+          "role": "Vicepresidente primero del Gobierno y ministro de Defensa",
+          "level": "vicepresident"
+        },
+        {
+          "person": "enrique-fuentes-quintana",
+          "name": "Enrique Fuentes Quintana",
+          "role": "Vicepresidente segundo del Gobierno y ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "fernando-abril-martorell",
+          "name": "Fernando Abril Martorell",
+          "role": "Vicepresidente tercero del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "marcelino-oreja-aguirre",
+          "name": "Marcelino Oreja Aguirre",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "landelino-lavilla-alsina",
+          "name": "Landelino Lavilla Alsina",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "rodolfo-martin-villa",
+          "name": "Rodolfo Martín Villa",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-garrigues-walker",
+          "name": "Joaquín Garrigues Walker",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Íñigo Cavero Lataillade",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-jimenez-de-parga-cabrera",
+          "name": "Manuel Jiménez de Parga Cabrera",
+          "role": "Ministro de Trabajo",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jose-enrique-martinez-genique",
+          "name": "José Enrique Martínez Genique",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-otero-novas",
+          "name": "José Manuel Otero Novas",
+          "role": "Ministro de la Presidencia del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "jose-llado-y-fernandez-urrutia",
+          "name": "José Lladó y Fernández Urrutia",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-sanchez-de-leon-perez",
+          "name": "Enrique Sánchez de León Pérez",
+          "role": "Ministro de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Cultura y Bienestar",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-clavero-arevalo",
+          "name": "Manuel Clavero Arévalo",
+          "role": "Ministro adjunto para las Regiones",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-camunas",
+          "name": "Ignacio Camuñas",
+          "role": "Ministro adjunto para las Relaciones con las Cortes",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "constituyente-2",
+      "label": "Gabinete de febrero de 1978 a abril de 1979",
+      "date": "1978-02",
+      "members": [
+        {
+          "person": "adolfo-suarez-gonzalez",
+          "name": "Adolfo Suárez González",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "manuel-gutierrez-mellado",
+          "name": "Manuel Gutiérrez Mellado",
+          "role": "Vicepresidente primero del Gobierno y Ministro de Defensa",
+          "level": "vicepresident"
+        },
+        {
+          "person": "fernando-abril-martorell",
+          "name": "Fernando Abril Martorell",
+          "role": "Vicepresidente segundo del Gobierno y Ministro de Economía",
+          "level": "vicepresident"
+        },
+        {
+          "person": "marcelino-oreja-aguirre",
+          "name": "Marcelino Oreja Aguirre",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "landelino-lavilla-alsina",
+          "name": "Landelino Lavilla Alsina",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "rodolfo-martin-villa",
+          "name": "Rodolfo Martín Villa",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-garrigues-walker",
+          "name": "Joaquín Garrigues Walker",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Íñigo Cavero Lataillade",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-calvo-ortega",
+          "name": "Rafael Calvo Ortega",
+          "role": "Ministro de Trabajo",
+          "level": "minister"
+        },
+        {
+          "person": "agustin-rodriguez-sahagun",
+          "name": "Agustín Rodríguez Sahagún",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcin",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-otero-novas",
+          "name": "José Manuel Otero Novas",
+          "role": "Ministro de la Presidencia del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "salvador-sanchez-teran-hernandez",
+          "name": "Salvador Sánchez-Terán Hernández",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-sanchez-de-leon-perez",
+          "name": "Enrique Sánchez de León Pérez",
+          "role": "Ministro de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-clavero-arevalo",
+          "name": "Manuel Clavero Arévalo",
+          "role": "Ministro adjunto para las Regiones",
+          "level": "minister"
+        },
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Ministro de Relaciones con las Comunidades Europeas",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

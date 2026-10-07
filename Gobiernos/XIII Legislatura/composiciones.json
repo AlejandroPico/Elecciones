@@ -1,0 +1,123 @@
+{
+  "id": "xiii",
+  "legislature": "XIII",
+  "name": "Gobierno en funciones · XIII Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiiilegislatura.aspx",
+  "cabinets": [
+    {
+      "id": "xiii-1",
+      "label": "Gobierno en funciones de 2019; composición procedente de la XII legislatura",
+      "date": "2019-05-21",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-del-carmen-calvo-poyato",
+          "name": "María del Carmen Calvo Poyato",
+          "role": "Vicepresidenta del Gobierno y ministra de la Presidencia, Relaciones con las Cortes e Igualdad",
+          "level": "vicepresident"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "dolores-delgado-garcia",
+          "name": "Dolores Delgado García",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "maria-isabel-celaa-dieguez",
+          "name": "María Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-valerio-cordero",
+          "name": "Magdalena Valerio Cordero",
+          "role": "Ministra de Trabajo, Migraciones y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "meritxell-batet-lamana",
+          "name": "Meritxell Batet Lamaña",
+          "role": "Ministra de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Ministra para la Transición Ecológica",
+          "level": "minister"
+        },
+        {
+          "person": "jose-guirao",
+          "name": "José Guirao",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Ministra de Economía y Empresa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-luisa-carcedo",
+          "name": "María Luisa Carcedo",
+          "role": "Ministra de Sanidad, Consumo y Bienestar Social",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-francisco-duque-duque",
+          "name": "Pedro Francisco Duque Duque",
+          "role": "Ministro de Ciencia, Innovación y Universidades",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

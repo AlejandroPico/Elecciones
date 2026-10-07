@@ -1,0 +1,944 @@
+.archive {
+  animation: enter 0.35s ease both;
+}
+.archive-nav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  padding: 12px 13px;
+  margin-top: 6px;
+  border-radius: 0;
+  width: 100%;
+  color: var(--muted);
+}
+.archive-nav.active {
+  color: var(--accent);
+  background: var(--accent-soft);
+  font-weight: 650;
+}
+.archive-banner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.8;
+  padding: 14px 0 22px;
+  border-bottom: 1px solid var(--line);
+}
+.archive-banner > span {
+  margin-left: auto;
+  font-size: 9px;
+  white-space: nowrap;
+}
+.archive-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 18px;
+  margin: 25px 0;
+}
+.archive-tabs {
+  display: flex;
+  gap: 5px;
+}
+.archive-tabs button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  padding: 10px 12px;
+  border-radius: 0;
+  color: var(--muted);
+}
+.archive-tabs button.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.archive-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  border-radius: 0;
+  padding: 10px 12px;
+  color: var(--muted);
+  max-width: 300px;
+  width: 100%;
+}
+.archive-search input {
+  background: none;
+  color: var(--text);
+  border: 0;
+  outline: 0;
+  width: 100%;
+  font-size: 11px;
+  min-width: 0;
+}
+.archive-search:focus-within {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+.archive-filter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 10px;
+  color: var(--muted);
+}
+.archive-filter select {
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font-size: 11px;
+  padding: 6px;
+}
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+}
+.person-card {
+  display: block;
+  padding: 0;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0;
+  text-align: left;
+  overflow: hidden;
+  transition:
+    transform 0.25s,
+    border-color 0.25s,
+    box-shadow 0.25s;
+}
+.person-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--accent);
+  box-shadow: 0 10px 30px #233c2510;
+}
+.person-photo {
+  position: relative;
+  height: 235px;
+  background: var(--accent-soft);
+  overflow: hidden;
+}
+.person-photo img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center 23%;
+  filter: saturate(0.45);
+  transition:
+    transform 0.6s,
+    filter 0.4s;
+}
+.person-card:hover img {
+  transform: scale(1.035);
+  filter: saturate(0.8);
+}
+.person-number {
+  position: absolute;
+  right: 15px;
+  top: 13px;
+  font-size: 9px;
+  background: #17251b66;
+  color: #fff;
+  padding: 4px 6px;
+  border-radius: 0;
+}
+.portrait-placeholder {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 12px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.portrait-placeholder > span {
+  font-family: "Manrope Variable", sans-serif;
+  font-size: 55px;
+  font-weight: 500;
+  letter-spacing: -3px;
+  opacity: 0.45;
+}
+.portrait-placeholder small {
+  font-size: 9px;
+  opacity: 0.8;
+}
+.person-card-body {
+  padding: 23px;
+}
+.person-card-body .eyebrow {
+  font-size: 8px;
+  letter-spacing: 1.2px;
+}
+.person-card h2 {
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  line-height: 1.5;
+  margin: 7px 0 9px;
+}
+.person-card p {
+  font-size: 11px;
+  line-height: 1.8;
+  color: var(--muted);
+  min-height: 40px;
+}
+.card-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 23px;
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+  color: var(--accent);
+  font-size: 10px;
+}
+.archive-footnote {
+  font-size: 10px;
+  line-height: 1.9;
+  max-width: 830px;
+  color: var(--muted);
+  margin-top: 25px;
+}
+.archive-empty {
+  font-size: 13px;
+  line-height: 2;
+  color: var(--muted);
+  padding: 25px 0;
+}
+.party-grid,
+.office-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+.organization-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0;
+  text-align: left;
+  padding: 32px;
+  transition:
+    transform 0.25s,
+    border-color 0.25s;
+}
+.organization-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+}
+.organization-mark {
+  display: flex;
+  width: 74px;
+  height: 74px;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  align-items: center;
+  justify-content: center;
+  border-radius: 0;
+  font-family: "Manrope Variable", sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: var(--text);
+  margin-bottom: 28px;
+}
+.organization-card > .eyebrow {
+  font-size: 9px;
+}
+.organization-card h2 {
+  font-size: 22px;
+  font-weight: 550;
+  letter-spacing: -0.6px;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+.organization-card p {
+  font-size: 11px;
+  color: var(--muted);
+}
+.office-card {
+  padding: 30px;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: var(--surface);
+}
+.office-card > svg {
+  color: var(--accent);
+}
+.office-card h2 {
+  font-size: 21px;
+  font-weight: 550;
+  letter-spacing: -0.5px;
+  margin: 17px 0 12px;
+}
+.office-card > p {
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.8;
+  margin-bottom: 21px;
+}
+.office-preview {
+  display: grid;
+}
+.office-preview button {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-top: 1px solid var(--line);
+  padding: 15px 0;
+  text-align: left;
+}
+.office-preview button > span {
+  font-size: 9px;
+  width: 96px;
+  color: var(--muted);
+}
+.office-preview strong {
+  font-weight: 500;
+  font-size: 11px;
+  flex: 1;
+}
+.office-preview svg {
+  color: var(--accent);
+}
+.archive-back {
+  margin: 20px 0;
+}
+.biography-layout {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+  animation: enter 0.35s ease both;
+}
+.biography-identity {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0;
+  overflow: hidden;
+  position: sticky;
+  top: 102px;
+}
+.biography-photo {
+  height: 310px;
+  background: var(--accent-soft);
+}
+.biography-photo > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  filter: saturate(0.6);
+}
+.biography-name {
+  padding: 24px 25px 0;
+}
+.biography-name h2 {
+  font-size: 27px;
+  line-height: 1.4;
+  letter-spacing: -0.8px;
+  font-weight: 600;
+  margin: 10px 0 15px;
+  scroll-margin-top: 95px;
+  outline: 0;
+}
+.biography-name > p {
+  font-size: 11px;
+  line-height: 1.8;
+  color: var(--muted);
+}
+.photo-credit {
+  font-size: 8px;
+  line-height: 1.7;
+  color: var(--subtle);
+  padding: 17px 25px 0;
+}
+.photo-credit a {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.identity-links {
+  padding: 15px 25px 24px;
+  display: grid;
+  margin-top: 10px;
+}
+.identity-links button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  text-align: left;
+  border-top: 1px solid var(--line);
+  padding: 16px 0 0;
+  margin-top: 15px;
+  font-size: 11px;
+  color: var(--accent);
+}
+.biography-content {
+  display: grid;
+  gap: 22px;
+}
+.biography-content > article,
+.party-detail,
+.office-detail {
+  padding: 28px 30px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0;
+}
+.biography-content h3,
+.party-detail h3 {
+  font-size: 19px;
+  font-weight: 550;
+  letter-spacing: -0.4px;
+  margin: 8px 0 20px;
+}
+.biography-content article > p,
+.party-detail article > p,
+.office-detail > p {
+  font-size: 12px;
+  color: var(--muted);
+  line-height: 1.9;
+}
+.political-timeline {
+  padding: 0 0 0 18px;
+  margin: 28px 0 10px;
+  list-style: none;
+  border-left: 1px solid var(--line);
+}
+.political-timeline > li {
+  position: relative;
+  padding: 0 0 27px 15px;
+}
+.political-timeline > li:last-child {
+  padding-bottom: 8px;
+}
+.political-timeline > li:before {
+  position: absolute;
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 0;
+  background: var(--accent);
+  left: -22px;
+  top: 4px;
+  border: 2px solid var(--surface);
+  box-sizing: content-box;
+  box-shadow: 0 0 0 1px var(--line);
+}
+.political-timeline > li > span {
+  font-size: 9px;
+  letter-spacing: 0.5px;
+  color: var(--muted);
+}
+.political-timeline h4 {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 1.8;
+  margin: 8px 0 6px;
+}
+.political-timeline > li > a {
+  font-size: 9px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.relation-nodes {
+  display: grid;
+  gap: 7px;
+}
+.relation-nodes button {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  padding: 13px 14px;
+  text-align: left;
+}
+.relation-nodes button.current {
+  background: var(--accent-soft);
+  opacity: 1;
+}
+.relation-nodes button > span {
+  font-size: 9px;
+  min-width: 90px;
+  color: var(--muted);
+}
+.relation-nodes strong {
+  font-size: 11px;
+  font-weight: 500;
+  flex: 1;
+}
+.relation-nodes svg {
+  color: var(--accent);
+}
+.document-link {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  padding: 17px 15px;
+  margin: 20px 0 10px;
+}
+.document-link > span {
+  flex: 1;
+  min-width: 0;
+}
+.document-link strong {
+  font-size: 11px;
+  font-weight: 550;
+  display: block;
+  line-height: 1.7;
+}
+.document-link small {
+  font-size: 9px;
+  line-height: 1.8;
+  color: var(--muted);
+  display: block;
+  margin-top: 5px;
+}
+.document-link > svg:first-child {
+  color: var(--muted);
+}
+.reference-list {
+  padding: 0;
+  margin: 12px 0;
+  list-style: none;
+}
+.reference-list a {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: center;
+  font-size: 11px;
+  line-height: 1.9;
+  border-top: 1px solid var(--line);
+  padding: 13px 0;
+}
+.biography-content article > .small-note,
+.party-detail article > .small-note {
+  font-size: 10px;
+  margin: 15px 0;
+}
+.party-detail-head {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.party-detail-head .organization-mark {
+  margin: 0;
+}
+.party-detail-head h2 {
+  font-size: 26px;
+  letter-spacing: -0.7px;
+  font-weight: 550;
+  margin: 6px 0 10px;
+  outline: 0;
+}
+.party-detail-head p {
+  font-size: 11px;
+  color: var(--muted);
+}
+.party-description {
+  font-size: 13px;
+  color: var(--muted);
+  line-height: 1.9;
+  margin: 27px 0;
+  max-width: 850px;
+}
+.party-detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 35px;
+  border-top: 1px solid var(--line);
+  padding-top: 27px;
+}
+.related-people {
+  display: grid;
+  gap: 10px;
+}
+.related-people button {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-align: left;
+  border-top: 1px solid var(--line);
+  padding: 13px 0;
+}
+.related-people img,
+.related-people .portrait-placeholder {
+  width: 43px;
+  height: 48px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 0;
+}
+.related-people .portrait-placeholder > span {
+  font-size: 20px;
+  letter-spacing: -1px;
+}
+.related-people .portrait-placeholder small {
+  display: none;
+}
+.related-people button > span {
+  flex: 1;
+  font-size: 12px;
+}
+.related-people button small {
+  display: block;
+  font-size: 9px;
+  color: var(--muted);
+  line-height: 1.8;
+  margin-top: 4px;
+}
+.timeline-link {
+  padding: 0;
+  margin-top: 8px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  text-align: left;
+  color: var(--accent);
+  font-size: 12px;
+  line-height: 1.8;
+}
+.office-detail > h2 {
+  font-size: 27px;
+  font-weight: 550;
+  letter-spacing: -0.5px;
+  margin: 8px 0 20px;
+  outline: 0;
+}
+.office-chain {
+  display: grid;
+  margin: 27px 0 15px;
+}
+.office-chain button {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  padding: 20px 0;
+  border-top: 1px solid var(--line);
+  text-align: left;
+}
+.office-chain img,
+.office-chain .portrait-placeholder {
+  width: 80px;
+  height: 90px;
+  border-radius: 0;
+  object-fit: cover;
+  object-position: center 20%;
+}
+.office-chain .portrait-placeholder > span {
+  font-size: 28px;
+  letter-spacing: -1px;
+}
+.office-chain .portrait-placeholder > small {
+  display: none;
+}
+.office-chain h3 {
+  font-size: 18px;
+  font-weight: 550;
+  margin: 7px 0;
+}
+.office-chain p {
+  font-size: 11px;
+  color: var(--muted);
+}
+.office-chain button > svg {
+  margin-left: auto;
+  color: var(--accent);
+}
+@media (max-width: 1200px) {
+  .archive-nav {
+    padding: 12px 8px;
+    font-size: 11px;
+  }
+  .person-photo {
+    height: 205px;
+  }
+  .person-card-body {
+    padding: 19px;
+  }
+  .person-card h2 {
+    font-size: 17px;
+  }
+  .archive-controls {
+    flex-wrap: wrap;
+  }
+  .archive-search {
+    max-width: none;
+  }
+  .biography-layout {
+    grid-template-columns: 240px 1fr;
+    gap: 22px;
+  }
+  .biography-photo {
+    height: 250px;
+  }
+  .biography-name {
+    padding: 21px 20px 0;
+  }
+  .biography-name h2 {
+    font-size: 24px;
+  }
+  .photo-credit {
+    padding: 16px 20px 0;
+  }
+  .identity-links {
+    padding: 12px 20px 22px;
+  }
+  .biography-content > article {
+    padding: 24px;
+  }
+  .party-detail-grid {
+    gap: 24px;
+  }
+  .office-preview button {
+    flex-wrap: wrap;
+  }
+  .office-preview button > span {
+    width: 100%;
+  }
+}
+@media (max-width: 1000px) {
+  .people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .biography-layout {
+    grid-template-columns: 1fr;
+  }
+  .biography-identity {
+    position: static;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+  }
+  .biography-photo {
+    grid-column: 1;
+    grid-row: 1/4;
+    height: 100%;
+    min-height: 230px;
+  }
+  .biography-name,
+  .photo-credit,
+  .identity-links {
+    grid-column: 2;
+  }
+  .biography-name h2 {
+    font-size: 26px;
+  }
+  .party-grid,
+  .office-grid {
+    grid-template-columns: 1fr;
+  }
+  .party-detail-grid {
+    grid-template-columns: 1fr;
+  }
+  .archive-banner {
+    flex-wrap: wrap;
+  }
+  .archive-banner p {
+    flex: 1;
+  }
+  .archive-banner > span {
+    width: 100%;
+    margin-left: 30px;
+  }
+}
+@media (max-width: 720px) {
+  .archive-banner {
+    font-size: 10px;
+    gap: 10px;
+  }
+  .archive-banner > span {
+    font-size: 8px;
+  }
+  .archive-controls {
+    margin: 22px 0;
+  }
+  .archive-tabs {
+    width: 100%;
+    gap: 0;
+    justify-content: space-between;
+  }
+  .archive-tabs button {
+    font-size: 10px;
+    padding: 10px 9px;
+    gap: 6px;
+  }
+  .archive-tabs svg {
+    width: 14px;
+    height: 14px;
+  }
+  .archive-search {
+    padding: 11px;
+  }
+  .archive-filter {
+    font-size: 9px;
+  }
+  .archive-filter select {
+    font-size: 10px;
+    max-width: 75%;
+  }
+  .people-grid {
+    gap: 14px;
+  }
+  .person-photo {
+    height: 180px;
+  }
+  .person-card-body {
+    padding: 15px;
+  }
+  .person-card h2 {
+    font-size: 16px;
+    line-height: 1.5;
+    min-height: 48px;
+  }
+  .person-card-body .eyebrow {
+    font-size: 7px;
+    letter-spacing: 0.9px;
+  }
+  .person-card p {
+    font-size: 10px;
+    min-height: 54px;
+  }
+  .card-link {
+    font-size: 9px;
+    margin-top: 16px;
+    padding-top: 12px;
+  }
+  .person-number {
+    font-size: 8px;
+    top: 10px;
+    right: 10px;
+  }
+  .portrait-placeholder > span {
+    font-size: 42px;
+  }
+  .portrait-placeholder > small {
+    font-size: 8px;
+  }
+  .archive-footnote {
+    font-size: 9px;
+  }
+  .organization-card,
+  .office-card {
+    padding: 25px;
+  }
+  .organization-card h2 {
+    font-size: 21px;
+  }
+  .office-preview button > span {
+    width: 95px;
+  }
+  .biography-identity {
+    display: block;
+  }
+  .biography-photo {
+    height: 310px;
+    min-height: 0;
+  }
+  .biography-name {
+    padding: 24px 25px 0;
+  }
+  .photo-credit {
+    padding: 15px 25px 0;
+  }
+  .identity-links {
+    padding: 10px 25px 24px;
+  }
+  .biography-content > article,
+  .party-detail,
+  .office-detail {
+    padding: 24px;
+  }
+  .relation-nodes button {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .relation-nodes button > span {
+    min-width: 0;
+    width: 100%;
+    font-size: 8px;
+  }
+  .relation-nodes strong {
+    font-size: 11px;
+  }
+  .party-detail-head {
+    align-items: flex-start;
+    gap: 15px;
+  }
+  .party-detail-head .organization-mark {
+    width: 52px;
+    height: 52px;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .party-detail-head h2 {
+    font-size: 22px;
+    line-height: 1.5;
+  }
+  .party-detail-head p {
+    font-size: 10px;
+    line-height: 1.7;
+  }
+  .party-description {
+    font-size: 12px;
+  }
+  .document-link {
+    gap: 10px;
+    padding: 14px 12px;
+  }
+  .document-link strong {
+    font-size: 10px;
+  }
+  .document-link small {
+    font-size: 8px;
+  }
+  .reference-list a {
+    font-size: 10px;
+  }
+  .office-detail > h2 {
+    font-size: 23px;
+  }
+  .office-chain button {
+    gap: 16px;
+  }
+  .office-chain img,
+  .office-chain .portrait-placeholder {
+    width: 61px;
+    height: 72px;
+  }
+  .office-chain h3 {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  .office-chain p {
+    font-size: 10px;
+  }
+  .office-chain .eyebrow {
+    font-size: 8px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .archive,
+  .person-card,
+  .person-photo img,
+  .organization-card,
+  .biography-layout {
+    transition: none;
+    animation: none;
+  }
+}

@@ -1,0 +1,878 @@
+{
+  "id": "xiv",
+  "legislature": "XIV",
+  "name": "Gobierno de la XIV Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "xiv-1",
+      "label": "Gabinete de enero de 2020 al 27 de enero de 2021",
+      "date": "2020-01",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Vicepresidenta primera y ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pablo-iglesias-turrion",
+          "name": "Pablo Iglesias Turrión",
+          "role": "Vicepresidente segundo y ministro de Derechos Sociales y Agenda 2030",
+          "level": "vicepresident"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Vicepresidenta tercera y ministra de Asuntos Económicos y Transformación Digital",
+          "level": "vicepresident"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Vicepresidenta cuarta y ministra para la Transición Ecológica y el Reto Demográfico",
+          "level": "vicepresident"
+        },
+        {
+          "person": "arancha-gonzalez-laya",
+          "name": "Arancha González Laya",
+          "role": "Ministra de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-carlos-campo-moreno",
+          "name": "Juan Carlos Campo Moreno",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Transportes, Movilidad y Agenda Urbana",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-celaa-dieguez",
+          "name": "Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional",
+          "level": "minister"
+        },
+        {
+          "person": "diaz",
+          "name": "Yolanda Díaz Pérez",
+          "role": "Ministra de Trabajo y Economía Social",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "carolina-darias-san-sebastian",
+          "name": "Carolina Darias San Sebastián",
+          "role": "Ministra de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-rodriguez-uribes",
+          "name": "José Manuel Rodríguez Uribes",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "salvador-illa-roca-el-boe-publica-su-cese-el-27-de-enero-de-2021",
+          "name": "Salvador Illa Roca",
+          "role": "Ministro de Sanidad",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-duque-duque",
+          "name": "Pedro Duque Duque",
+          "role": "Ministro de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "irene-montero-gil",
+          "name": "Irene Montero Gil",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-garzon-espinosa",
+          "name": "Alberto Garzón Espinosa",
+          "role": "Ministro de Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-escriva-belmonte",
+          "name": "José Luis Escrivá Belmonte",
+          "role": "Ministro de Inclusión, Seguridad Social y Migraciones",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-castells-olivan",
+          "name": "Manuel Castells Oliván",
+          "role": "Ministro de Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xiv-2",
+      "label": "Gobierno desde el 27 de enero de 2021 al 31 de marzo de 2021",
+      "date": "2021-01-27",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Vicepresidenta primera y ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pablo-iglesias-turrion",
+          "name": "Pablo Iglesias Turrión",
+          "role": "Vicepresidente segundo y ministro de Derechos Sociales y Agenda 2030",
+          "level": "vicepresident"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Vicepresidenta tercera y ministra de Asuntos Económicos y Transformación Digital",
+          "level": "vicepresident"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Vicepresidenta cuarta y ministra para la Transición Ecológica y el Reto Demográfico",
+          "level": "vicepresident"
+        },
+        {
+          "person": "arancha-gonzalez-laya",
+          "name": "Arancha González Laya",
+          "role": "Ministra de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-carlos-campo-moreno",
+          "name": "Juan Carlos Campo Moreno",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Transportes, Movilidad y Agenda Urbana",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-celaa-dieguez",
+          "name": "Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional",
+          "level": "minister"
+        },
+        {
+          "person": "diaz",
+          "name": "Yolanda Díaz Pérez",
+          "role": "Ministra de Trabajo y Economía Social",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "miquel-octavi-iceta-i-llorens",
+          "name": "Miquel Octavi Iceta i Llorens",
+          "role": "Ministro de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-rodriguez-uribes",
+          "name": "José Manuel Rodríguez Uribes",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "carolina-darias-san-sebastian",
+          "name": "Carolina Darias San Sebastián",
+          "role": "Ministra de Sanidad",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-duque-duque",
+          "name": "Pedro Duque Duque",
+          "role": "Ministro de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "irene-montero-gil",
+          "name": "Irene Montero Gil",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-garzon-espinosa",
+          "name": "Alberto Garzón Espinosa",
+          "role": "Ministro de Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-escriva-belmonte",
+          "name": "José Luis Escrivá Belmonte",
+          "role": "Ministro de Inclusión, Seguridad Social y Migraciones",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-castells-olivan",
+          "name": "Manuel Castells Oliván",
+          "role": "Ministro de Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xiv-3",
+      "label": "Gobierno de 31 de marzo de 2021 a 12 de julio de 2021",
+      "date": "2021-03-31",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "carmen-calvo-poyato",
+          "name": "Carmen Calvo Poyato",
+          "role": "Vicepresidenta primera y ministra de la Presidencia, Relaciones con las Cortes y Memoria Democrática",
+          "level": "vicepresident"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Vicepresidenta segunda y ministra de Asuntos Económicos y Transformación Digital",
+          "level": "vicepresident"
+        },
+        {
+          "person": "diaz",
+          "name": "Yolanda Díaz Pérez",
+          "role": "Vicepresidenta tercera y ministra de Trabajo y Economía Social",
+          "level": "vicepresident"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Vicepresidenta cuarta y ministra para la Transición Ecológica y el Reto Demográfico",
+          "level": "vicepresident"
+        },
+        {
+          "person": "arancha-gonzalez-laya",
+          "name": "Arancha González Laya",
+          "role": "Ministra de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "juan-carlos-campo-moreno",
+          "name": "Juan Carlos Campo Moreno",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-abalos-meco",
+          "name": "José Luis Ábalos Meco",
+          "role": "Ministro de Transportes, Movilidad y Agenda Urbana",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-celaa-dieguez",
+          "name": "Isabel Celaá Diéguez",
+          "role": "Ministra de Educación y Formación Profesional",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "miquel-octavi-iceta-i-llorens",
+          "name": "Miquel Octavi Iceta i Llorens",
+          "role": "Ministro de Política Territorial y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-rodriguez-uribes",
+          "name": "José Manuel Rodríguez Uribes",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "carolina-darias-san-sebastian",
+          "name": "Carolina Darias San Sebastián",
+          "role": "Ministra de Sanidad",
+          "level": "minister"
+        },
+        {
+          "person": "ione-belarra-urteaga",
+          "name": "Ione Belarra Urteaga",
+          "role": "Ministra de Derechos Sociales y Agenda 2030",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-duque-duque",
+          "name": "Pedro Duque Duque",
+          "role": "Ministro de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "irene-montero-gil",
+          "name": "Irene Montero Gil",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-garzon-espinosa",
+          "name": "Alberto Garzón Espinosa",
+          "role": "Ministro de Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-escriva-belmonte",
+          "name": "José Luis Escrivá Belmonte",
+          "role": "Ministro de Inclusión, Seguridad Social y Migraciones",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-castells-olivan",
+          "name": "Manuel Castells Oliván",
+          "role": "Ministro de Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xiv-4",
+      "label": "Gabinete de 12 de julio de 2021 al 17 de diciembre",
+      "date": "2021-07-12",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Vicepresidenta primera y ministra de Asuntos Económicos y Transformación Digital",
+          "level": "vicepresident"
+        },
+        {
+          "person": "diaz",
+          "name": "Yolanda Díaz Pérez",
+          "role": "Vicepresidenta segunda y ministra de Trabajo y Economía Social",
+          "level": "vicepresident"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico",
+          "level": "vicepresident"
+        },
+        {
+          "person": "albares",
+          "name": "José Manuel Albares Bueno",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-llop-cuenca",
+          "name": "Pilar Llop Cuenca",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "raquel-sanchez-jimenez",
+          "name": "Raquel Sánchez Jiménez",
+          "role": "Ministra de Transportes, Movilidad y Agenda Urbana",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-alegria-continente",
+          "name": "Pilar Alegría Continente",
+          "role": "Ministra de Educación y Formación Profesional",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "bolanos",
+          "name": "Félix Bolaños García",
+          "role": "Ministro de la Presidencia, Relaciones con las Cortes y Memoria Democrática",
+          "level": "minister"
+        },
+        {
+          "person": "rodriguez",
+          "name": "Isabel Rodríguez García y funciones de portavoz del Gobierno",
+          "role": "Ministra de Política Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "miquel-iceta-llorens",
+          "name": "Miquel Iceta Llorens",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "carolina-darias-san-sebastian",
+          "name": "Carolina Darias San Sebastián",
+          "role": "Ministra de Sanidad",
+          "level": "minister"
+        },
+        {
+          "person": "ione-belarra-urteaga",
+          "name": "Ione Belarra Urteaga",
+          "role": "Ministra de Derechos Sociales y Agenda 2030",
+          "level": "minister"
+        },
+        {
+          "person": "morant",
+          "name": "Diana Morant Ripoll",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "irene-montero-gil",
+          "name": "Irene Montero Gil",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-garzon-espinosa",
+          "name": "Alberto Garzón Espinosa",
+          "role": "Ministro de Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-escriva-belmonte",
+          "name": "José Luis Escrivá Belmonte",
+          "role": "Ministro de Inclusión, Seguridad Social y Migraciones",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-castells-olivan",
+          "name": "Manuel Castells Oliván",
+          "role": "Ministro de Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xiv-5",
+      "label": "Gabinete de 17 de diciembre de 2021 al 28 de marzo de 2023",
+      "date": "2021-12-17",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Vicepresidenta primera y ministra de Asuntos Económicos y Transformación Digital",
+          "level": "vicepresident"
+        },
+        {
+          "person": "diaz",
+          "name": "Yolanda Díaz Pérez",
+          "role": "Vicepresidenta segunda y ministra de Trabajo y Economía Social",
+          "level": "vicepresident"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico",
+          "level": "vicepresident"
+        },
+        {
+          "person": "albares",
+          "name": "José Manuel Albares Bueno",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-llop-cuenca",
+          "name": "Pilar Llop Cuenca",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "raquel-sanchez-jimenez",
+          "name": "Raquel Sánchez Jiménez",
+          "role": "Ministra de Transportes, Movilidad y Agenda Urbana",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-alegria-continente",
+          "name": "Pilar Alegría Continente",
+          "role": "Ministra de Educación y Formación Profesional",
+          "level": "minister"
+        },
+        {
+          "person": "reyes-maroto-illera",
+          "name": "Reyes Maroto Illera",
+          "role": "Ministra de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "bolanos",
+          "name": "Félix Bolaños García",
+          "role": "Ministro de la Presidencia, Relaciones con las Cortes y Memoria Democrática",
+          "level": "minister"
+        },
+        {
+          "person": "rodriguez",
+          "name": "Isabel Rodríguez García y funciones de portavoz del Gobierno",
+          "role": "Ministra de Política Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "miquel-iceta-llorens",
+          "name": "Miquel Iceta Llorens",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "carolina-darias-san-sebastian",
+          "name": "Carolina Darias San Sebastián",
+          "role": "Ministra de Sanidad",
+          "level": "minister"
+        },
+        {
+          "person": "ione-belarra-urteaga",
+          "name": "Ione Belarra Urteaga",
+          "role": "Ministra de Derechos Sociales y Agenda 2030",
+          "level": "minister"
+        },
+        {
+          "person": "morant",
+          "name": "Diana Morant Ripoll",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "irene-montero-gil",
+          "name": "Irene Montero Gil",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-garzon-espinosa",
+          "name": "Alberto Garzón Espinosa",
+          "role": "Ministro de Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-escriva-belmonte",
+          "name": "José Luis Escrivá Belmonte",
+          "role": "Ministro de Inclusión, Seguridad Social y Migraciones",
+          "level": "minister"
+        },
+        {
+          "person": "joan-subirats-humet",
+          "name": "Joan Subirats Humet",
+          "role": "Ministro de Universidades",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xiv-6",
+      "label": "Gabinete del 28 de marzo de 2023 al 21 de noviembre de 2023",
+      "date": "2023-03-28",
+      "members": [
+        {
+          "person": "sanchez",
+          "name": "Pedro Sánchez Pérez-Castejón",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "nadia-calvino-santamaria",
+          "name": "Nadia Calviño Santamaría",
+          "role": "Vicepresidenta primera y ministra de Asuntos Económicos y Transformación Digital",
+          "level": "vicepresident"
+        },
+        {
+          "person": "diaz",
+          "name": "Yolanda Díaz Pérez",
+          "role": "Vicepresidenta segunda y ministra de Trabajo y Economía Social",
+          "level": "vicepresident"
+        },
+        {
+          "person": "teresa-ribera-rodriguez",
+          "name": "Teresa Ribera Rodríguez",
+          "role": "Vicepresidenta tercera y ministra para la Transición Ecológica y el Reto Demográfico",
+          "level": "vicepresident"
+        },
+        {
+          "person": "albares",
+          "name": "José Manuel Albares Bueno",
+          "role": "Ministro de Asuntos Exteriores, Unión Europea y Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-llop-cuenca",
+          "name": "Pilar Llop Cuenca",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "robles",
+          "name": "Margarita Robles Fernández",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "maria-jesus-montero-cuadrado",
+          "name": "María Jesús Montero Cuadrado",
+          "role": "Ministra de Hacienda y Función Pública",
+          "level": "minister"
+        },
+        {
+          "person": "marlaska",
+          "name": "Fernando Grande-Marlaska Gómez",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "raquel-sanchez-jimenez",
+          "name": "Raquel Sánchez Jiménez",
+          "role": "Ministra de Transportes, Movilidad y Agenda Urbana",
+          "level": "minister"
+        },
+        {
+          "person": "pilar-alegria-continente",
+          "name": "Pilar Alegría Continente",
+          "role": "Ministra de Educación y Formación Profesional",
+          "level": "minister"
+        },
+        {
+          "person": "hector-gomez-hernandez",
+          "name": "Héctor Gómez Hernández",
+          "role": "Ministro de Industria, Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "planas",
+          "name": "Luis Planas Puchades",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "bolanos",
+          "name": "Félix Bolaños García",
+          "role": "Ministro de la Presidencia, Relaciones con las Cortes y Memoria Democrática",
+          "level": "minister"
+        },
+        {
+          "person": "rodriguez",
+          "name": "Isabel Rodríguez García y funciones de portavoz del Gobierno",
+          "role": "Ministra de Política Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "miquel-iceta-llorens",
+          "name": "Miquel Iceta Llorens",
+          "role": "Ministro de Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "jose-minones-conde",
+          "name": "José Miñones Conde",
+          "role": "Ministro de Sanidad",
+          "level": "minister"
+        },
+        {
+          "person": "ione-belarra-urteaga",
+          "name": "Ione Belarra Urteaga",
+          "role": "Ministra de Derechos Sociales y Agenda 2030",
+          "level": "minister"
+        },
+        {
+          "person": "morant",
+          "name": "Diana Morant Ripoll",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "irene-montero-gil",
+          "name": "Irene Montero Gil",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-garzon-espinosa",
+          "name": "Alberto Garzón Espinosa",
+          "role": "Ministro de Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-escriva-belmonte",
+          "name": "José Luis Escrivá Belmonte",
+          "role": "Ministro de Inclusión, Seguridad Social y Migraciones",
+          "level": "minister"
+        },
+        {
+          "person": "joan-subirats-humet",
+          "name": "Joan Subirats Humet",
+          "role": "Ministro de Universidades",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+/* Navigation shares a single thin baseline. Answer colors remain visible in compact groups. */
+.question-progress {
+  padding-top: 35px;
+}
+.progress-group {
+  position: relative;
+}
+.progress-group.expanded {
+  flex-grow: 5;
+}
+.progress-group .progress-segments {
+  gap: 0;
+  position: relative;
+  z-index: 2;
+}
+.progress-group.collapsed .progress-segments {
+  gap: 2px;
+}
+.progress-caption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 35px;
+  font-size: 10px;
+  text-align: center;
+  color: var(--muted);
+  line-height: 12px;
+}
+.progress-group.expanded .progress-caption {
+  bottom: 53px;
+}
+.progress-count {
+  position: absolute;
+  top: -17px;
+  transform: translateX(-50%);
+  color: var(--text);
+  font-size: 9px;
+  white-space: nowrap;
+  transition: left 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.progress-track,
+.progress-front {
+  position: absolute;
+  top: 14px;
+  height: 3px;
+  pointer-events: none;
+  background: var(--line);
+  left: 0;
+  right: 0;
+}
+.progress-front {
+  right: auto;
+  background: var(--accent);
+  transition: width 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.progress-group.collapsed .progress-track {
+  display: none;
+}
+.progress-segment::before {
+  height: var(--answer-weight, 3px);
+  top: calc(16px - var(--answer-weight, 3px) / 2);
+  background: transparent;
+}
+.progress-group.collapsed .progress-segment.pending::before {
+  background: var(--line);
+}
+.progress-segment.positive::before {
+  background: #559a78;
+}
+.progress-segment.negative::before {
+  background: #cd646b;
+}
+.progress-segment.neutral::before {
+  background: #8a939c;
+}
+.progress-segment.skipped::before {
+  background: var(--accent);
+  opacity: 0.7;
+}
+.progress-segment.current::before {
+  top: calc(16px - var(--answer-weight, 3px) / 2);
+  height: var(--answer-weight, 3px);
+}
+.progress-segment.current.pending::before {
+  background: var(--accent);
+}
+.progress-segment.current.positive::before {
+  background: #559a78;
+}
+.progress-segment.current.negative::before {
+  background: #cd646b;
+}
+.progress-segment.current.neutral::before {
+  background: #8a939c;
+}
+.progress-segment.current.skipped::before {
+  background: var(--accent);
+}
+.progress-segment:hover::before {
+  filter: brightness(1.25);
+}
+@media (max-width: 720px) {
+  .question-progress {
+    padding-top: 35px;
+  }
+  .progress-caption {
+    font-size: 8px;
+  }
+  .progress-group.collapsed .progress-caption {
+    display: none;
+  }
+  .progress-group.expanded {
+    flex-grow: 5;
+  }
+}

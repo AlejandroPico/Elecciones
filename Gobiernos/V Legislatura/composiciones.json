@@ -1,0 +1,553 @@
+{
+  "id": "v",
+  "legislature": "V",
+  "name": "Gobierno de la V Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/V%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "v-1",
+      "label": "Gabinete de julio de 1993 a noviembre 1993",
+      "date": "1993-07",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "juan-alberto-belloch-julbe",
+          "name": "Juan Alberto Belloch Julbe",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas, Transportes y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "gustavo-suarez-pertierra",
+          "name": "Gustavo Suárez Pertierra",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "vicente-albero-silla",
+          "name": "Vicente Albero Silla",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jeronimo-saavedra-acevedo",
+          "name": "Jerónimo Saavedra Acevedo",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-alborch-bataller",
+          "name": "Carmen Alborch Bataller",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "maria-angeles-amador-millan",
+          "name": "María Ángeles Amador Millán",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-alberdi-alonso",
+          "name": "Cristina Alberdi Alonso",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "javier-gomez-navarro-navarrete",
+          "name": "Javier Gómez-Navarro Navarrete",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "v-2",
+      "label": "Gabinete de noviembre de 1993 a mayo de 1994",
+      "date": "1993-11",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "juan-alberto-belloch-julbe",
+          "name": "Juan Alberto Belloch Julbe",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "antoni-asuncion-hernandez",
+          "name": "Antoni Asunción Hernández",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas, Transportes y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "gustavo-suarez-pertierra",
+          "name": "Gustavo Suárez Pertierra",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "vicente-albero-silla",
+          "name": "Vicente Albero Silla",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jeronimo-saavedra-acevedo",
+          "name": "Jerónimo Saavedra Acevedo",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-alborch-bataller",
+          "name": "Carmen Alborch Bataller",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "maria-angeles-amador-millan",
+          "name": "María Ángeles Amador Millán",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-alberdi-alonso",
+          "name": "Cristina Alberdi Alonso",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "javier-gomez-navarro-navarrete",
+          "name": "Javier Gómez-Navarro Navarrete",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "v-3",
+      "label": "Gabinete de mayo de 1994 a julio de 1995",
+      "date": "1994-05",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "juan-alberto-belloch-julbe",
+          "name": "Juan Alberto Belloch Julbe",
+          "role": "Ministro de Justicia e Interior",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas, Transportes y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "gustavo-suarez-pertierra",
+          "name": "Gustavo Suárez Pertierra",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "luis-maria-atienza-serna",
+          "name": "Luis María Atienza Serna",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jeronimo-saavedra-acevedo",
+          "name": "Jerónimo Saavedra Acevedo",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-alborch-bataller",
+          "name": "Carmen Alborch Bataller",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "maria-angeles-amador-millan",
+          "name": "María Ángeles Amador Millán",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-alberdi-alonso",
+          "name": "Cristina Alberdi Alonso",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "javier-gomez-navarro-navarrete",
+          "name": "Javier Gómez-Navarro Navarrete",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "v-4",
+      "label": "Gabinete de julio de 1995 a diciembre de 1995",
+      "date": "1995-07",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "juan-alberto-belloch-julbe",
+          "name": "Juan Alberto Belloch Julbe",
+          "role": "Ministro de Justicia e Interior",
+          "level": "minister"
+        },
+        {
+          "person": "gustavo-suarez-pertierra",
+          "name": "Gustavo Suárez Pertierra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas, Transportes y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "jeronimo-saavedra-acevedo",
+          "name": "Jerónimo Saavedra Acevedo",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "luis-maria-atienza-serna",
+          "name": "Luis María Atienza Serna",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "juan-lerma-blasco",
+          "name": "Juan Lerma Blasco",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-alborch-bataller",
+          "name": "Carmen Alborch Bataller",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "maria-angeles-amador-millan",
+          "name": "María Ángeles Amador Millán",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-alberdi-alonso",
+          "name": "Cristina Alberdi Alonso",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "javier-gomez-navarro-navarrete",
+          "name": "Javier Gómez-Navarro Navarrete",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "v-5",
+      "label": "Gabinete de diciembre de 1995 a mayo 1996",
+      "date": "1995-12",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "carlos-westendorp-y-cabeza",
+          "name": "Carlos Westendorp y Cabeza",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "juan-alberto-belloch-julbe",
+          "name": "Juan Alberto Belloch Julbe",
+          "role": "Ministro de Justicia e Interior",
+          "level": "minister"
+        },
+        {
+          "person": "gustavo-suarez-pertierra",
+          "name": "Gustavo Suárez Pertierra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "josep-borrell-fontelles",
+          "name": "Josep Borrell Fontelles",
+          "role": "Ministro de Obras Públicas, Transportes y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "jeronimo-saavedra-acevedo",
+          "name": "Jerónimo Saavedra Acevedo",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-antonio-grinan-martinez",
+          "name": "José Antonio Griñán Martínez",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "juan-manuel-eguiagaray-ucelay",
+          "name": "Juan Manuel Eguiagaray Ucelay",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "luis-maria-atienza-serna",
+          "name": "Luis María Atienza Serna",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "juan-lerma-blasco",
+          "name": "Juan Lerma Blasco",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "carmen-alborch-bataller",
+          "name": "Carmen Alborch Bataller",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "maria-angeles-amador-millan",
+          "name": "María Ángeles Amador Millán",
+          "role": "Ministra de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-alberdi-alonso",
+          "name": "Cristina Alberdi Alonso",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "javier-gomez-navarro-navarrete",
+          "name": "Javier Gómez-Navarro Navarrete",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

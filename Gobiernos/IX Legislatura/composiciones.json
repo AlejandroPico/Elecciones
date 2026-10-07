@@ -1,0 +1,559 @@
+{
+  "id": "ix",
+  "legislature": "IX",
+  "name": "Gobierno de la IX Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/IXLegislatura.aspx",
+  "cabinets": [
+    {
+      "id": "ix-1",
+      "label": "Gabinete de abril de 2008 a febrero de 2009",
+      "date": "2008-04",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "mariano-fernandez-bermejo",
+          "name": "Mariano Fernández Bermejo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "carme-chacon-piqueras",
+          "name": "Carme Chacón Piqueras",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "mercedes-cabrera-calvo-sotelo",
+          "name": "Mercedes Cabrera Calvo-Sotelo",
+          "role": "Ministra de Educación, Política Social y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "celestino-corbacho-chaves",
+          "name": "Celestino Corbacho Chaves",
+          "role": "Ministro de Trabajo e Inmigración",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-sebastian-gascon",
+          "name": "Miguel Sebastián Gascón",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Medio Ambiente y Medio Rural y Marino",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "cesar-antonio-molina-sanchez",
+          "name": "César Antonio Molina Sánchez",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "bernat-soria-escoms",
+          "name": "Bernat Soria Escoms",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "beatriz-corredor-sierra",
+          "name": "Beatriz Corredor Sierra",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-garmendia-mendizabal",
+          "name": "Cristina Garmendia Mendizábal",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "bibiana-aido-almagro",
+          "name": "Bibiana Aído Almagro",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "ix-2",
+      "label": "Gabinete de febrero 2009 a abril de 2009",
+      "date": "2009-02",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "pedro-solbes-mira",
+          "name": "Pedro Solbes Mira",
+          "role": "Vicepresidente segundo y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-caamano-dominguez",
+          "name": "Francisco Caamaño Domínguez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "carme-chacon-piqueras",
+          "name": "Carme Chacón Piqueras",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "magdalena-alvarez-arza",
+          "name": "Magdalena Álvarez Arza",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "mercedes-cabrera-calvo-sotelo",
+          "name": "Mercedes Cabrera Calvo-Sotelo",
+          "role": "Ministra de Educación, Política Social y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "celestino-corbacho-chaves",
+          "name": "Celestino Corbacho Chaves",
+          "role": "Ministro de Trabajo e Inmigración",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-sebastian-gascon",
+          "name": "Miguel Sebastián Gascón",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Medio Ambiente y Medio Rural y Marino",
+          "level": "minister"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Ministra de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "cesar-antonio-molina-sanchez",
+          "name": "César Antonio Molina Sánchez",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "bernat-soria-escoms",
+          "name": "Bernat Soria Escoms",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "beatriz-corredor-sierra",
+          "name": "Beatriz Corredor Sierra",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-garmendia-mendizabal",
+          "name": "Cristina Garmendia Mendizábal",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "bibiana-aido-almagro",
+          "name": "Bibiana Aído Almagro",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "ix-3",
+      "label": "Gabinete de abril 2009 a octubre 2010",
+      "date": "2009-04",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-teresa-fernandez-de-la-vega-sanz",
+          "name": "María Teresa Fernández de la Vega Sanz",
+          "role": "Vicepresidenta primera, ministra de la Presidencia y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Vicepresidenta segunda y ministra de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "manuel-chaves-gonzalez",
+          "name": "Manuel Chaves González",
+          "role": "Vicepresidente tercero y ministro de Política Territorial",
+          "level": "vicepresident"
+        },
+        {
+          "person": "miguel-angel-moratinos-cuyaube",
+          "name": "Miguel Ángel Moratinos Cuyaubé",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-caamano-dominguez",
+          "name": "Francisco Caamaño Domínguez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "carme-chacon-piqueras",
+          "name": "Carme Chacón Piqueras",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-blanco-lopez",
+          "name": "José Blanco López",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "angel-gabilondo-pujol",
+          "name": "Ángel Gabilondo Pujol",
+          "role": "Ministerio de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "celestino-corbacho-chaves",
+          "name": "Celestino Corbacho Chaves",
+          "role": "Ministro de Trabajo e Inmigración",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-sebastian-gascon",
+          "name": "Miguel Sebastián Gascón",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "elena-espinosa-mangana",
+          "name": "María Elena Espinosa Mangana",
+          "role": "Ministra de Medio Ambiente, y Medio Rural y Marino",
+          "level": "minister"
+        },
+        {
+          "person": "angeles-gonzalez-sinde-reig",
+          "name": "Ángeles González-Sinde Reig",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "trinidad-jimenez-garcia-herrera",
+          "name": "Trinidad Jiménez García-Herrera",
+          "role": "Ministra de Sanidad y Política Social",
+          "level": "minister"
+        },
+        {
+          "person": "beatriz-corredor-sierra",
+          "name": "Beatriz Corredor Sierra",
+          "role": "Ministra de Vivienda",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-garmendia-mendizabal",
+          "name": "Cristina Garmendia Mendizábal",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        },
+        {
+          "person": "bibiana-aido-almagro",
+          "name": "Bibiana Aído Almagro",
+          "role": "Ministra de Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "ix-4",
+      "label": "Gabinete del octubre 2010 a julio 2011",
+      "date": "2010-10",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfredo-perez-rubalcaba",
+          "name": "Alfredo Pérez Rubalcaba",
+          "role": "Vicepresidente primero , ministro del Interior y portavoz del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Vicepresidenta segunda y ministra de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "manuel-chaves-gonzalez",
+          "name": "Manuel Chaves González",
+          "role": "Vicepresidente tercero y ministro de Política Territorial y Administración Pública",
+          "level": "vicepresident"
+        },
+        {
+          "person": "trinidad-jimenez-garcia-herrera",
+          "name": "Trinidad Jiménez García- Herrera",
+          "role": "Ministra de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-caamano-dominguez",
+          "name": "Francisco Caamaño Domínguez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "carme-chacon-piqueras",
+          "name": "Carme Chacón Piqueras",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jose-blanco-lopez",
+          "name": "José Blanco López",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "angel-gabilondo-pujol",
+          "name": "Ángel Gabilondo Pujol",
+          "role": "Ministro de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "valeriano-gomez-sanchez",
+          "name": "Valeriano Gómez Sánchez",
+          "role": "Ministro de Trabajo e Inmigración",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-sebastian-gascon",
+          "name": "Miguel Sebastián Gascón",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-aguilar-rivero",
+          "name": "Rosa Aguilar Rivero",
+          "role": "Ministra de Medio Ambiente, y Medio Rural y Marino",
+          "level": "minister"
+        },
+        {
+          "person": "ramon-jauregui-atondo",
+          "name": "Ramón Jáuregui Atondo",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "angeles-gonzalez-sinde-reig",
+          "name": "Ángeles González-Sinde Reig",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "leire-pajin-iraola",
+          "name": "Leire Pajín Iraola",
+          "role": "Ministra de Sanidad, Política Social e Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-garmendia-mendizabal",
+          "name": "Cristina Garmendia Mendizábal",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "ix-5",
+      "label": "Gabinete de julio 2011 a diciembre 2011",
+      "date": "2011-07",
+      "members": [
+        {
+          "person": "jose-luis-rodriguez-zapatero",
+          "name": "José Luis Rodríguez Zapatero",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "elena-salgado-mendez",
+          "name": "Elena Salgado Méndez",
+          "role": "Vicepresidenta del Gobierno de Asuntos Económicos y ministra de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "manuel-chaves-gonzalez",
+          "name": "Manuel Chaves González",
+          "role": "Vicepresidente del Gobierno de Política Territorial y ministro de Política Territorial y Administración Pública",
+          "level": "vicepresident"
+        },
+        {
+          "person": "trinidad-jimenez-garcia-herrera",
+          "name": "Trinidad Jiménez García- Herrera",
+          "role": "Ministra de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-caamano-dominguez",
+          "name": "Francisco Caamaño Domínguez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "carme-chacon-piqueras",
+          "name": "Carme Chacón Piqueras",
+          "role": "Ministra de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "antonio-camacho-vizcaino",
+          "name": "Antonio Camacho Vizcaíno",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jose-blanco-lopez",
+          "name": "José Blanco López",
+          "role": "Ministro de Fomento y ministro Portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "angel-gabilondo-pujol",
+          "name": "Ángel Gabilondo Pujol",
+          "role": "Ministro de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "valeriano-gomez-sanchez",
+          "name": "Valeriano Gómez Sánchez",
+          "role": "Ministro de Trabajo e Inmigración",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-sebastian-gascon",
+          "name": "Miguel Sebastián Gascón",
+          "role": "Ministro de Industria, Turismo y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-aguilar-rivero",
+          "name": "Rosa Aguilar Rivero",
+          "role": "Ministra de Medio Ambiente, y Medio Rural y Marino",
+          "level": "minister"
+        },
+        {
+          "person": "ramon-jauregui-atondo",
+          "name": "Ramón Jáuregui Atondo",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "angeles-gonzalez-sinde-reig",
+          "name": "Ángeles González-Sinde Reig",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "leire-pajin-iraola",
+          "name": "Leire Pajín Iraola",
+          "role": "Ministra de Sanidad, Política Social e Igualdad",
+          "level": "minister"
+        },
+        {
+          "person": "cristina-garmendia-mendizabal",
+          "name": "Cristina Garmendia Mendizábal",
+          "role": "Ministra de Ciencia e Innovación",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

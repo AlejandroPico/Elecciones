@@ -1,0 +1,1151 @@
+{
+  "id": "i",
+  "legislature": "I",
+  "name": "Gobierno de la I Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/I%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "i-1",
+      "label": "Gabinete de abril de 1979 a enero de 1980",
+      "date": "1979-04",
+      "members": [
+        {
+          "person": "adolfo-suarez-gonzalez",
+          "name": "Adolfo Suárez González",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "manuel-gutierrez-mellado",
+          "name": "Manuel Gutiérrez Mellado",
+          "role": "Vicepresidente primero del Gobierno y Encargado de asuntos de la Seguridad y Defensa Nacional",
+          "level": "vicepresident"
+        },
+        {
+          "person": "fernando-abril-martorell",
+          "name": "Fernando Abril Martorell",
+          "role": "Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos",
+          "level": "vicepresident"
+        },
+        {
+          "person": "marcelino-oreja-aguirre",
+          "name": "Marcelino Oreja Aguirre",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Iñigo Cavero Lataillade",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "agustin-rodriguez-sahagun",
+          "name": "Agustín Rodríguez Sahagún",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "antonio-ibanez-freire",
+          "name": "Antonio Ibáñez Freire",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-sancho-rof",
+          "name": "Jesús Sancho Rof",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-otero-novas",
+          "name": "José Manuel Otero Novas",
+          "role": "Ministro de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-calvo-ortega",
+          "name": "Rafael Calvo Ortega",
+          "role": "Ministro de Trabajo",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-bustelo-y-garcia-del-real",
+          "name": "Carlos Bustelo y García del Real",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-leal-maldonado",
+          "name": "José Luis Leal Maldonado",
+          "role": "Ministro de Economía",
+          "level": "minister"
+        },
+        {
+          "person": "salvador-sanchez-teran-hernandez",
+          "name": "Salvador Sánchez-Terán Hernández",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "juan-rovira-tarazona",
+          "name": "Juan Rovira Tarazona",
+          "role": "Ministro de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-clavero-arevalo",
+          "name": "Manuel Clavero Arévalo",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-garrigues-walker",
+          "name": "Joaquín Garrigues Walker",
+          "role": "Ministro adjunto al presidente, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Ministro para las Relaciones con las Comunidades Europeas, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro adjunto para las Relaciones con las Cortes, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "antonio-fontan-perez",
+          "name": "Antonio Fontán Pérez",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gonzalez-seara",
+          "name": "Luis González Seara",
+          "role": "Ministro de Universidades e Investigación",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-2",
+      "label": "Gabinete de enero de 1980 a mayo 1980",
+      "date": "1980-01",
+      "members": [
+        {
+          "person": "adolfo-suarez-gonzalez",
+          "name": "Adolfo Suárez González",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "manuel-gutierrez-mellado",
+          "name": "Manuel Gutiérrez Mellado",
+          "role": "Vicepresidente primero del Gobierno y encargado de asuntos de la Seguridad y Defensa Nacional",
+          "level": "vicepresident"
+        },
+        {
+          "person": "fernando-abril-martorell",
+          "name": "Fernando Abril Martorell",
+          "role": "Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos",
+          "level": "vicepresident"
+        },
+        {
+          "person": "marcelino-oreja-aguirre",
+          "name": "Marcelino Oreja Aguirre",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Iñigo Cavero Lataillade",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "agustin-rodriguez-sahagun",
+          "name": "Agustín Rodríguez Sahagún",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "antonio-ibanez-freire",
+          "name": "Antonio Ibáñez Freire",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-sancho-rof",
+          "name": "Jesús Sancho Rof",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-otero-novas",
+          "name": "José Manuel Otero Novas",
+          "role": "Ministro de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-calvo-ortega",
+          "name": "Rafael Calvo Ortega",
+          "role": "Ministro de Trabajo",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-bustelo-y-garcia-del-real",
+          "name": "Carlos Bustelo y García del Real",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-leal-maldonado",
+          "name": "José Luis Leal Maldonado",
+          "role": "Ministro de Economía",
+          "level": "minister"
+        },
+        {
+          "person": "salvador-sanchez-teran-hernandez",
+          "name": "Salvador Sánchez-Terán Hernández",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "juan-rovira-tarazona",
+          "name": "Juan Rovira Tarazona",
+          "role": "Ministro de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ricardo-de-la-cierva-y-hoces",
+          "name": "Ricardo de la Cierva y Hoces",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro adjunto al presidente, sin cartera, coordinador de Asuntos Políticos",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-garrigues-walker",
+          "name": "Joaquín Garrigues Walker",
+          "role": "Ministro adjunto al presidente, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Ministro para las Relaciones con las Comunidades Europeas, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "antonio-fontan-perez",
+          "name": "Antonio Fontán Pérez",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gonzalez-seara",
+          "name": "Luis González Seara",
+          "role": "Ministro de Universidades e Investigación",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-3",
+      "label": "Gabinete de mayo de 1980 a septiembre de 1980",
+      "date": "1980-05",
+      "members": [
+        {
+          "person": "adolfo-suarez-gonzalez",
+          "name": "Adolfo Suárez González",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "manuel-gutierrez-mellado",
+          "name": "Manuel Gutiérrez Mellado",
+          "role": "Vicepresidente primero del Gobierno y encargado de asuntos de la Seguridad y Defensa Nacional",
+          "level": "vicepresident"
+        },
+        {
+          "person": "fernando-abril-martorell",
+          "name": "Fernando Abril Martorell",
+          "role": "Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos",
+          "level": "vicepresident"
+        },
+        {
+          "person": "marcelino-oreja-aguirre",
+          "name": "Marcelino Oreja Aguirre",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Iñigo Cavero Lataillade",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "agustin-rodriguez-sahagun",
+          "name": "Agustín Rodríguez Sahagún",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-sancho-rof",
+          "name": "Jesús Sancho Rof",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-otero-novas",
+          "name": "José Manuel Otero Novas",
+          "role": "Ministro de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "salvador-sanchez-teran-hernandez",
+          "name": "Salvador Sánchez-Terán Hernández",
+          "role": "Ministro de Trabajo",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gamir-casares",
+          "name": "Luis Gamir Casares",
+          "role": "Ministro de Comercio y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-leal-maldonado",
+          "name": "José Luis Leal Maldonado",
+          "role": "Ministro de Economía",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-alvarez-alvarez",
+          "name": "José Luis Isidoro Álvarez Álvarez",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "juan-rovira-tarazona",
+          "name": "Juan Rovira Tarazona",
+          "role": "Ministro de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ricardo-de-la-cierva-y-hoces",
+          "name": "Ricardo de la Cierva y Hoces",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Ministro para las Relaciones con las Comunidades Europeas, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "sebastian-martin-retortillo-y-baquer",
+          "name": "Sebastián Martín-Retortillo y Baquer",
+          "role": "Ministro Adjunto al presidente, sin cartera, encargado de la Administración Pública",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-ortega-y-diaz-ambrona",
+          "name": "Juan Antonio Ortega y Díaz Ambrona",
+          "role": "Ministro Adjunto al Presidente, sin cartera, encargado de la coordinación legislativa",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gonzalez-seara",
+          "name": "Luis González Seara",
+          "role": "Ministro de Universidades e Investigación",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-4",
+      "label": "Gabinete de septiembre de 1980 a febrero de 1981",
+      "date": "1980-09",
+      "members": [
+        {
+          "person": "adolfo-suarez-gonzalez",
+          "name": "Adolfo Suárez González",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "manuel-gutierrez-mellado",
+          "name": "Manuel Gutiérrez Mellado",
+          "role": "Vicepresidente primero del Gobierno y encargado de asuntos de la Seguridad y Defensa Nacional",
+          "level": "vicepresident"
+        },
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Vicepresidente segundo del Gobierno y encargado de la coordinación de los asuntos económicos",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordoñez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "agustin-rodriguez-sahagun",
+          "name": "Agustín Rodríguez Sahagún",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-sancho-rof",
+          "name": "Jesús Sancho Rof",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-ortega-y-diaz-ambrona",
+          "name": "Juan Antonio Ortega y Díaz Ambrona",
+          "role": "Ministro de Educación",
+          "level": "minister"
+        },
+        {
+          "person": "felix-manuel-perez-miyares",
+          "name": "Félix Manuel Pérez Miyares",
+          "role": "Ministro de Trabajo",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Economía y Comercio",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-alvarez-alvarez",
+          "name": "José Luis Isidoro Álvarez Álvarez",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Íñigo Cavero Lataillade",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro Adjunto al Presidente, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-punset-casals",
+          "name": "Eduardo Punset Casals",
+          "role": "Ministro para las Relaciones con las Comunidades Europeas, sin cartera",
+          "level": "minister"
+        },
+        {
+          "person": "rodolfo-martin-villa",
+          "name": "Rodolfo Martín Villa",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "sebastian-martin-retortillo-y-baquer",
+          "name": "Sebastián Martín-Retortillo y Baquer",
+          "role": "Ministro Adjunto al presidente, sin cartera, encargado de la Administración Pública",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gonzalez-seara",
+          "name": "Luis González Seara",
+          "role": "Ministro de Universidades e Investigación",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-5",
+      "label": "Gabinete de febrero de 1981 a septiembre de 1981",
+      "date": "1981-02",
+      "members": [
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordoñez",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "luis-ortiz-gonzalez",
+          "name": "Luis Ortiz González",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-ortega-y-diaz-ambrona",
+          "name": "Juan Antonio Ortega y Díaz Ambrona",
+          "role": "Ministro de Educación y de Universidades e Investigación",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-sancho-rof",
+          "name": "Jesús Sancho Rof",
+          "role": "Ministro de Trabajo y de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Economía y Comercio y vicepresidente de la Comisión Delegada para Asuntos Económicos",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-alvarez-alvarez",
+          "name": "José Luis Isidoro Álvarez Álvarez",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "rodolfo-martin-villa",
+          "name": "Rodolfo Martín Villa",
+          "role": "Ministro de Administración Territorial y vicepresidente de la Comisión Delegada para la Política Autonómica",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Iñigo Cavero Lataillade",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-6",
+      "label": "Gabinete de septiembre de 1981 a diciembre de 1981",
+      "date": "1981-09",
+      "members": [
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "luis-ortiz-gonzalez",
+          "name": "Luis Ortiz González",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-ortega-y-diaz-ambrona",
+          "name": "Juan Antonio Ortega y Díaz Ambrona",
+          "role": "Ministro de Educación y de Universidades e Investigación",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-sancho-rof",
+          "name": "Jesús Sancho Rof",
+          "role": "Ministro de Trabajo y de Sanidad y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro de Agricultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Ministro de Economía y Comercio y vicepresidente de la Comisión Delegada para Asuntos Económicos",
+          "level": "minister"
+        },
+        {
+          "person": "matias-rodriguez-inciarte",
+          "name": "Matías Rodríguez Inciarte",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-alvarez-alvarez",
+          "name": "José Luis Isidoro Álvarez Álvarez",
+          "role": "Ministro de Transportes y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "rodolfo-martin-villa",
+          "name": "Rodolfo Martín Villa",
+          "role": "Ministro de Administración Territorial y vicepresidente de la Comisión Delegada para la Política Autonómica",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-cavero-lataillade",
+          "name": "Iñigo Cavero Lataillade",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-7",
+      "label": "Gabinete de diciembre de 1981 a julio de 1982",
+      "date": "1981-12",
+      "members": [
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "rodolfo-martin-villa",
+          "name": "Rodolfo Martín Villa",
+          "role": "Vicepresidente primero del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Vicepresidente segundo del Gobierno y ministro de Economía y Comercio",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "luis-ortiz-gonzalez",
+          "name": "Luis Ortiz González",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "federico-mayor-zaragoza",
+          "name": "Federico Mayor Zaragoza",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "santiago-rodriguez-miranda",
+          "name": "Santiago Rodríguez Miranda",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-alvarez-alvarez",
+          "name": "José Luis Isidoro Álvarez Álvarez",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "matias-rodriguez-inciarte",
+          "name": "Matías Rodríguez Inciarte",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gamir-casares",
+          "name": "Luis Gámir Casares",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "soledad-becerril-bustamante",
+          "name": "Soledad Becerril Bustamante",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-nunez-perez",
+          "name": "Manuel Núñez Pérez",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+          "name": "Jaime Lamo de Espinosa y Michels de Champourcín",
+          "role": "Ministro adjunto al presidente, sin cartera",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-8",
+      "label": "Gabinete de julio de 1982 a septiembre de 1982",
+      "date": "1982-07",
+      "members": [
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Vicepresidente del Gobierno para Asuntos Económicos y ministro de Economía y Comercio",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "luis-ortiz-gonzalez",
+          "name": "Luis Ortiz González",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "federico-mayor-zaragoza",
+          "name": "Federico Mayor Zaragoza",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "santiago-rodriguez-miranda",
+          "name": "Santiago Rodríguez Miranda",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-alvarez-alvarez",
+          "name": "José Luis Isidoro Álvarez Álvarez",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "matias-rodriguez-inciarte",
+          "name": "Matías Rodríguez Inciarte",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gamir-casares",
+          "name": "Luis Gámir Casares",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "soledad-becerril-bustamante",
+          "name": "Soledad Becerril Bustamante",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "luis-manuel-cosculluela-montaner",
+          "name": "Luis Manuel Cosculluela Montaner",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-nunez-perez",
+          "name": "Manuel Núñez Pérez",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "i-9",
+      "label": "Gabinete de septiembre de 1982 a diciembre de 1982",
+      "date": "1982-09",
+      "members": [
+        {
+          "person": "leopoldo-calvo-sotelo-y-bustelo",
+          "name": "Leopoldo Calvo-Sotelo y Bustelo",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "juan-antonio-garcia-diez",
+          "name": "Juan Antonio García Díez",
+          "role": "Vicepresidente del Gobierno para asuntos Económicos y ministro de Economía y Comercio",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-pedro-perez-llorca-y-rodrigo",
+          "name": "José Pedro Pérez-Llorca y Rodrigo",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "pio-cabanillas-gallas",
+          "name": "Pío Cabanillas Gallas",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "alberto-oliart-saussol",
+          "name": "Alberto Oliart Saussol",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-garcia-anoveros",
+          "name": "Jaime García Añoveros",
+          "role": "Ministro de Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "juan-jose-roson-perez",
+          "name": "Juan José Rosón Pérez",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "luis-ortiz-gonzalez",
+          "name": "Luis Ortiz González",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "federico-mayor-zaragoza",
+          "name": "Federico Mayor Zaragoza",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "santiago-rodriguez-miranda",
+          "name": "Santiago Rodríguez Miranda",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "ignacio-bayon-marine",
+          "name": "Ignacio Bayón Mariné",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-garcia-ferrero",
+          "name": "José Luis García Ferrero",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "matias-rodriguez-inciarte",
+          "name": "Matías Rodríguez Inciarte",
+          "role": "Ministro de Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "luis-gamir-casares",
+          "name": "Luis Gámir Casares",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "soledad-becerril-bustamante",
+          "name": "Soledad Becerril Bustamante",
+          "role": "Ministra de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "luis-manuel-cosculluela-montaner",
+          "name": "Luis Manuel Cosculluela Montaner",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-nunez-perez",
+          "name": "Manuel Núñez Pérez",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "ii",
+  "legislature": "II",
+  "name": "Gobierno de la II Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/II%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "ii-1",
+      "label": "Gabinete de diciembre de 1982 a julio de 1985",
+      "date": "1982-12",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfonso-guerra-gonzalez",
+          "name": "Alfonso Guerra González",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "fernando-moran-lopez",
+          "name": "Fernando Morán López",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "fernando-ledesma-bartret",
+          "name": "Fernando Ledesma Bartret",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "miguel-boyer-salvador",
+          "name": "Miguel Boyer Salvador",
+          "role": "Ministro de Economía, Comercio y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "julian-campo-sainz-de-rozas",
+          "name": "Julián Campo Sainz de Rozas",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-maria-maravall-herrero",
+          "name": "José María Maravall Herrero",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "javier-moscoso-del-prado-y-munoz",
+          "name": "Javier Moscoso del Prado y Muñoz",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-baron-crespo",
+          "name": "Enrique Barón Crespo",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+          "name": "Tomás de la Quadra-Salcedo y Fernández del Castillo",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "ernesto-lluch-martin",
+          "name": "Ernesto Lluch Martín",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "ii-2",
+      "label": "Gabinete de julio de 1985 a julio 1986",
+      "date": "1985-07",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfonso-guerra-gonzalez",
+          "name": "Alfonso Guerra González",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "fernando-ledesma-bartret",
+          "name": "Fernando Ledesma Bartret",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "javier-luis-saenz-de-cosculluela",
+          "name": "Javier Luis Sáenz de Cosculluela",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-maria-maravall-herrero",
+          "name": "José María Maravall Herrero",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "juan-majo-cruzate",
+          "name": "Juan Majó Cruzate",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "javier-moscoso-del-prado-y-munoz",
+          "name": "Javier Moscoso del Prado y Muñoz",
+          "role": "Ministro de la Presidencia",
+          "level": "minister"
+        },
+        {
+          "person": "abel-ramon-caballero-alvarez",
+          "name": "Abel Ramón Caballero Álvarez",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Cultura y portavoz del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "felix-pons-irazazabal",
+          "name": "Félix Pons Irazazábal",
+          "role": "Ministro de Administración Territorial",
+          "level": "minister"
+        },
+        {
+          "person": "ernesto-lluch-martin",
+          "name": "Ernesto Lluch Martín",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

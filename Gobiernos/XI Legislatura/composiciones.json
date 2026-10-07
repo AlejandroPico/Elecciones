@@ -1,0 +1,178 @@
+{
+  "id": "xi",
+  "legislature": "XI",
+  "name": "XI Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xi-legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "xi-1",
+      "label": "Gabinete de diciembre de 2015 a 15 de abril de 2016",
+      "date": "2015-12",
+      "members": [
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-soraya-saenz-de-santamaria-anton",
+          "name": "María Soraya Sáenz de Santamaría Antón",
+          "role": "Vicepresidenta y ministra de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-manuel-garcia-margallo-y-marfil",
+          "name": "José Manuel García-Margallo y Marfil",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-catala-polo",
+          "name": "Rafael Catalá Polo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "morenes",
+          "name": "Pedro Morenés Eulate",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda y Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-fernandez-diaz",
+          "name": "Jorge Fernández Díaz",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "ana-maria-pastor-julian",
+          "name": "Ana María Pastor Julián",
+          "role": "Ministra de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-mendez-de-vigo-y-montojo",
+          "name": "Íñigo Méndez de Vigo y Montojo",
+          "role": "Ministro de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "maria-fatima-banez-garcia",
+          "name": "María Fátima Báñez García",
+          "role": "Ministra de Empleo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-soria-lopez",
+          "name": "José Manuel Soria López",
+          "role": "Ministro de Industria, Energía y Turismo",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-garcia-tejerina",
+          "name": "Isabel García Tejerina",
+          "role": "Ministra de Agricultura, Alimentación y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "luis-de-guindos-jurado",
+          "name": "Luis de Guindos Jurado",
+          "role": "Ministro de Economía y Competitividad",
+          "level": "minister"
+        },
+        {
+          "person": "alfonso-alonso-aranegui",
+          "name": "Alfonso Alonso Aranegui",
+          "role": "Ministro de Sanidad, Servicios Sociales e Igualdad",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "xi-2",
+      "label": "Gabinete de 15 de abril a 19 de julio de 2016",
+      "date": "2016-04-15",
+      "members": [
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "maria-soraya-saenz-de-santamaria-anton",
+          "name": "María Soraya Sáenz de Santamaría Antón",
+          "role": "Vicepresidenta y ministra de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "jose-manuel-garcia-margallo-y-marfil",
+          "name": "José Manuel García-Margallo y Marfil",
+          "role": "Ministro de Asuntos Exteriores y de Cooperación",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-catala-polo",
+          "name": "Rafael Catalá Polo",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "morenes",
+          "name": "Pedro Morenés Eulate",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "cristobal-montoro-romero",
+          "name": "Cristóbal Montoro Romero",
+          "role": "Ministro de Hacienda y Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-fernandez-diaz",
+          "name": "Jorge Fernández Díaz",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "inigo-mendez-de-vigo-y-montojo",
+          "name": "Íñigo Méndez de Vigo y Montojo",
+          "role": "Ministro de Educación, Cultura y Deporte",
+          "level": "minister"
+        },
+        {
+          "person": "maria-fatima-banez-garcia",
+          "name": "María Fátima Báñez García",
+          "role": "Ministra de Empleo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-garcia-tejerina",
+          "name": "Isabel García Tejerina",
+          "role": "Ministra de Agricultura, Alimentación y Medio Ambiente",
+          "level": "minister"
+        },
+        {
+          "person": "luis-de-guindos-jurado",
+          "name": "Luis de Guindos Jurado",
+          "role": "Ministro de Economía y Competitividad",
+          "level": "minister"
+        },
+        {
+          "person": "alfonso-alonso-aranegui",
+          "name": "Alfonso Alonso Aranegui",
+          "role": "Ministro de Sanidad, Servicios Sociales e Igualdad",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

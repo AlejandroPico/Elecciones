@@ -1,0 +1,238 @@
+{
+  "id": "iii",
+  "legislature": "III",
+  "name": "Gobierno de la III Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/III%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "iii-1",
+      "label": "Gabinete de julio de 1986 a julio de 1988",
+      "date": "1986-07",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfonso-guerra-gonzalez",
+          "name": "Alfonso Guerra González",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "fernando-ledesma-bartret",
+          "name": "Fernando Ledesma Bartret",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "javier-luis-saenz-de-cosculluela",
+          "name": "Javier Luis Sáenz de Cosculluela",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "jose-maria-maravall-herrero",
+          "name": "José María Maravall Herrero",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-chaves-gonzalez",
+          "name": "Manuel Chaves González",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "luis-carlos-croissier-batista",
+          "name": "Luis Carlos Croissier Batista",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "abel-ramon-caballero-alvarez",
+          "name": "Abel Ramón Caballero Álvarez",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "iii-2",
+      "label": "Gabinete de julio de 1988 a diciembre de 1989",
+      "date": "1988-07",
+      "members": [
+        {
+          "person": "felipe-gonzalez-marquez",
+          "name": "Felipe González Márquez",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "alfonso-guerra-gonzalez",
+          "name": "Alfonso Guerra González",
+          "role": "Vicepresidente del Gobierno",
+          "level": "vicepresident"
+        },
+        {
+          "person": "francisco-fernandez-ordonez",
+          "name": "Francisco Fernández Ordóñez",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "enrique-mugica-herzog",
+          "name": "Enrique Múgica Herzog",
+          "role": "Ministro de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "narcis-serra-i-serra",
+          "name": "Narcís Serra i Serra",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-solchaga-catalan",
+          "name": "Carlos Solchaga Catalán",
+          "role": "Ministro de Economía y Hacienda",
+          "level": "minister"
+        },
+        {
+          "person": "jose-luis-corcuera-cuesta",
+          "name": "José Luis Corcuera Cuesta",
+          "role": "Ministro del Interior",
+          "level": "minister"
+        },
+        {
+          "person": "javier-luis-saenz-de-cosculluela",
+          "name": "Javier Luis Sáenz de Cosculluela",
+          "role": "Ministro de Obras Públicas y Urbanismo",
+          "level": "minister"
+        },
+        {
+          "person": "javier-solana-madariaga",
+          "name": "Javier Solana Madariaga",
+          "role": "Ministro de Educación y Ciencia",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-chaves-gonzalez",
+          "name": "Manuel Chaves González",
+          "role": "Ministro de Trabajo y Seguridad Social",
+          "level": "minister"
+        },
+        {
+          "person": "jose-claudio-aranzadi-martinez",
+          "name": "José Claudio Aranzadi Martínez",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "carlos-romero-herrera",
+          "name": "Carlos Romero Herrera",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "joaquin-almunia-amann",
+          "name": "Joaquín Almunia Amann",
+          "role": "Ministro para las Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-barrionuevo-pena",
+          "name": "José Barrionuevo Peña",
+          "role": "Ministro de Transportes, Turismo y Comunicaciones",
+          "level": "minister"
+        },
+        {
+          "person": "jorge-semprun-y-maura",
+          "name": "Jorge Semprún y Maura",
+          "role": "Ministro de Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "julian-garcia-vargas",
+          "name": "Julián García Vargas",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "virgilio-zapatero-gomez",
+          "name": "Virgilio Zapatero Gómez",
+          "role": "Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno",
+          "level": "minister"
+        },
+        {
+          "person": "matilde-fernandez-sanz",
+          "name": "Matilde Fernández Sanz",
+          "role": "Ministra de Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "rosa-conde-gutierrez-del-alamo",
+          "name": "Rosa Conde Gutiérrez del Álamo",
+          "role": "Ministra Portavoz del Gobierno",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "id": "vi",
+  "legislature": "VI",
+  "name": "Gobierno de la VI Legislatura",
+  "source": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/paginas/VI%20Legislatura.aspx",
+  "cabinets": [
+    {
+      "id": "vi-1",
+      "label": "Gabinete de mayo de 1996 a enero de 1999",
+      "date": "1996-05",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Vicepresidente primero del Gobierno y ministro de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "abel-matutes-juan",
+          "name": "Abel Matutes Juan",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "margarita-mariscal-de-gante-y-miron",
+          "name": "Margarita Mariscal de Gante y Mirón",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-serra-rexach",
+          "name": "Eduardo Serra Rexach",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-mayor-oreja",
+          "name": "Jaime Mayor Oreja",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "esperanza-aguirre-y-gil-de-biedma",
+          "name": "Esperanza Aguirre y Gil de Biedma",
+          "role": "Ministra de Educación y Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "javier-arenas-bocanegra",
+          "name": "Javier Arenas Bocanegra",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "loyola-de-palacio-del-valle-lersundi",
+          "name": "Loyola de Palacio del Valle-Lersundi",
+          "role": "Ministra de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-romay-beccaria",
+          "name": "José Manuel Romay Beccaría",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-tocino-biscarolasaga",
+          "name": "Isabel Tocino Biscarolasaga",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vi-2",
+      "label": "Gabinete de enero de 1999 a abril de 1999",
+      "date": "1999-01",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Vicepresidente primero del Gobierno y ministro de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "abel-matutes-juan",
+          "name": "Abel Matutes Juan",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "margarita-mariscal-de-gante-y-miron",
+          "name": "Margarita Mariscal de Gante y Mirón",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-serra-rexach",
+          "name": "Eduardo Serra Rexach",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-mayor-oreja",
+          "name": "Jaime Mayor Oreja",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Ministro de Educación y Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-pimentel-siles",
+          "name": "Manuel Pimentel Siles",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "loyola-de-palacio-del-valle-lersundi",
+          "name": "Loyola de Palacio del Valle-Lersundi",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-romay-beccaria",
+          "name": "José Manuel Romay Beccaría",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-tocino-biscarolasaga",
+          "name": "Isabel Tocino Biscarolasaga",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vi-3",
+      "label": "Gabinete de abril de 1999 a febrero de 2000",
+      "date": "1999-04",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Vicepresidente primero del Gobierno y ministro de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "abel-matutes-juan",
+          "name": "Abel Matutes Juan",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "margarita-mariscal-de-gante-y-miron",
+          "name": "Margarita Mariscal de Gante y Mirón",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-serra-rexach",
+          "name": "Eduardo Serra Rexach",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-mayor-oreja",
+          "name": "Jaime Mayor Oreja",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Ministro de Educación y Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "manuel-pimentel-siles",
+          "name": "Manuel Pimentel Siles",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Industria y Energia",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-maria-posada-moreno",
+          "name": "Jesús María Posada Moreno",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-romay-beccaria",
+          "name": "José Manuel Romay Beccaría",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-tocino-biscarolasaga",
+          "name": "Isabel Tocino Biscarolasaga",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        }
+      ]
+    },
+    {
+      "id": "vi-4",
+      "label": "Gabinete de febrero de 2000 a abril de 2000",
+      "date": "2000-02",
+      "members": [
+        {
+          "person": "jose-maria-aznar-lopez",
+          "name": "José María Aznar López",
+          "role": "Presidente del Gobierno",
+          "level": "president"
+        },
+        {
+          "person": "francisco-alvarez-cascos-fernandez",
+          "name": "Francisco Álvarez-Cascos Fernández",
+          "role": "Vicepresidente primero del Gobierno y ministro de la Presidencia",
+          "level": "vicepresident"
+        },
+        {
+          "person": "rodrigo-de-rato-y-figaredo",
+          "name": "Rodrigo de Rato y Figaredo",
+          "role": "Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda",
+          "level": "vicepresident"
+        },
+        {
+          "person": "abel-matutes-juan",
+          "name": "Abel Matutes Juan",
+          "role": "Ministro de Asuntos Exteriores",
+          "level": "minister"
+        },
+        {
+          "person": "margarita-mariscal-de-gante-y-miron",
+          "name": "Margarita Mariscal de Gante y Mirón",
+          "role": "Ministra de Justicia",
+          "level": "minister"
+        },
+        {
+          "person": "eduardo-serra-rexach",
+          "name": "Eduardo Serra Rexach",
+          "role": "Ministro de Defensa",
+          "level": "minister"
+        },
+        {
+          "person": "jaime-mayor-oreja",
+          "name": "Jaime Mayor Oreja",
+          "role": "Ministro de Interior",
+          "level": "minister"
+        },
+        {
+          "person": "rafael-arias-salgado-y-montalvo",
+          "name": "Rafael Arias-Salgado y Montalvo",
+          "role": "Ministro de Fomento",
+          "level": "minister"
+        },
+        {
+          "person": "rajoy",
+          "name": "Mariano Rajoy Brey",
+          "role": "Ministro de Educación y Cultura",
+          "level": "minister"
+        },
+        {
+          "person": "juan-carlos-aparicio-perez",
+          "name": "Juan Carlos Aparicio Pérez",
+          "role": "Ministro de Trabajo y Asuntos Sociales",
+          "level": "minister"
+        },
+        {
+          "person": "josep-pique-i-camps",
+          "name": "Josep Piqué i Camps",
+          "role": "Ministro de Industria y Energía",
+          "level": "minister"
+        },
+        {
+          "person": "jesus-maria-posada-moreno",
+          "name": "Jesús María Posada Moreno",
+          "role": "Ministro de Agricultura, Pesca y Alimentación",
+          "level": "minister"
+        },
+        {
+          "person": "angel-acebes-paniagua",
+          "name": "Ángel Acebes Paniagua",
+          "role": "Ministro de Administraciones Públicas",
+          "level": "minister"
+        },
+        {
+          "person": "jose-manuel-romay-beccaria",
+          "name": "José Manuel Romay Beccaría",
+          "role": "Ministro de Sanidad y Consumo",
+          "level": "minister"
+        },
+        {
+          "person": "isabel-tocino-biscarolasaga",
+          "name": "Isabel Tocino Biscarolasaga",
+          "role": "Ministra de Medio Ambiente",
+          "level": "minister"
+        }
+      ]
+    }
+  ]
+}
