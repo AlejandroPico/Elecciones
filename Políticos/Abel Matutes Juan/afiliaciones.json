@@ -1,0 +1,34 @@
+[
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Abel Matutes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Matutes",
+      "kind": "encyclopedic"
+    },
+    "period": "Hasta 1989",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q318474#P102",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Abel Matutes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Matutes",
+      "kind": "encyclopedic"
+    },
+    "period": "1989 – 2008",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q318474#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

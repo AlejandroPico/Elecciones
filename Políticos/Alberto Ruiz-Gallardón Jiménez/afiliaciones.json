@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Alberto Ruiz-Gallardón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alberto_Ruiz-Gallard%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1989"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Alberto Ruiz-Gallardón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alberto_Ruiz-Gallard%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1989"
+  }
+]

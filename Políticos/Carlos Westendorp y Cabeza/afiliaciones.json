@@ -1,0 +1,18 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Carlos Westendorp · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Westendorp",
+      "kind": "encyclopedic"
+    },
+    "period": "1977",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q682999#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

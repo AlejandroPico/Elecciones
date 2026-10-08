@@ -1,11 +1,21 @@
 {
   "birthDate": "1949-04-18",
   "birthYear": 1949,
-  "birth": "18 de abril de 1949 Arroyo de la Miel, Benalmádena, Málaga, España",
+  "birth": "18 de abril de 1949 · Benalmádena",
   "personalSources": [
     {
       "label": "Wikipedia · Celia Villalobos · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Celia_Villalobos_Talero",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Celia Villalobos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Celia_Villalobos",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Celia Villalobos · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2612928#P569",
       "kind": "encyclopedic"
     }
   ]

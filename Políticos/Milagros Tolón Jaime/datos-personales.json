@@ -1,4 +1,17 @@
 {
-  "birth": "Nacida en Toledo en 1968",
-  "birthYear": 1968
+  "birth": "25 de marzo de 1968 · Toledo",
+  "birthYear": 1968,
+  "birthDate": "1968-03-25",
+  "personalSources": [
+    {
+      "label": "Milagros Tolón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Milagros_Tol%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Milagros Tolón · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q20087023#P569",
+      "kind": "encyclopedic"
+    }
+  ]
 }

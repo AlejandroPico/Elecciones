@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Elena Salgado · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Elena_Salgado",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Elena Salgado · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Elena_Salgado",
+      "kind": "encyclopedic"
+    }
+  }
+]

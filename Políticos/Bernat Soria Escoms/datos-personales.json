@@ -1,11 +1,21 @@
 {
   "birthDate": "1951-05-07",
   "birthYear": 1951,
-  "birth": "7 de mayo de 1951 Carlet, Valencia España España",
+  "birth": "7 de mayo de 1951 · Carlet",
   "personalSources": [
     {
       "label": "Wikipedia · Bernat Soria · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Bernat_Soria_Escoms",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Bernat Soria · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Bernat_Soria",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Bernat Soria · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2746478#P569",
       "kind": "encyclopedic"
     }
   ]

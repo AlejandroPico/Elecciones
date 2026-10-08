@@ -1,0 +1,45 @@
+[
+  {
+    "organization": "psoe",
+    "name": "Federación Catalana del PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Celestino Corbacho · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Celestino_Corbacho",
+      "kind": "encyclopedic"
+    },
+    "period": "1976-1978"
+  },
+  {
+    "organization": "registro-351",
+    "name": "PSC",
+    "kind": "membership",
+    "source": {
+      "label": "Celestino Corbacho · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Celestino_Corbacho",
+      "kind": "encyclopedic"
+    },
+    "period": "1978-2018"
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Celestino Corbacho · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Celestino_Corbacho",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "registro-3184",
+    "name": "Ciudadanos",
+    "kind": "association",
+    "source": {
+      "label": "Celestino Corbacho · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Celestino_Corbacho",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2019"
+  }
+]

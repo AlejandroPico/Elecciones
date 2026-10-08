@@ -2,11 +2,17 @@
   "id": "rosa-aguilar-rivero",
   "name": "Rosa Aguilar Rivero",
   "initials": "RA",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Medio Ambiente, y Medio Rural y Marino",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Rosa Aguilar Rivero",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Rosa Aguilar"
+  ],
+  "wikidata": "Q433345",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

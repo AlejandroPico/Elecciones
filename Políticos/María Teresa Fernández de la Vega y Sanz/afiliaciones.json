@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "María Teresa Fernández de la Vega · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Fern%C3%A1ndez_de_la_Vega",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "María Teresa Fernández de la Vega · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Fern%C3%A1ndez_de_la_Vega",
+      "kind": "encyclopedic"
+    }
+  }
+]

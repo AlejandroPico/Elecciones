@@ -1,0 +1,35 @@
+[
+  {
+    "organization": null,
+    "name": "Partido Demócrata Popular (1974)",
+    "kind": "membership",
+    "source": {
+      "label": "Ignacio Camuñas Solís · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ignacio_Camu%C3%B1as_Sol%C3%ADs",
+      "kind": "encyclopedic"
+    },
+    "period": "1974-1977"
+  },
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Ignacio Camuñas Solís · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ignacio_Camu%C3%B1as_Sol%C3%ADs",
+      "kind": "encyclopedic"
+    },
+    "period": "1977-1982"
+  },
+  {
+    "organization": "vox",
+    "name": "Vox",
+    "kind": "membership",
+    "source": {
+      "label": "Ignacio Camuñas Solís · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ignacio_Camu%C3%B1as_Sol%C3%ADs",
+      "kind": "encyclopedic"
+    },
+    "period": "2013-2014"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Enrique Múgica · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Enrique_M%C3%BAgica",
+      "kind": "encyclopedic"
+    },
+    "period": "1963",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q3054705#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

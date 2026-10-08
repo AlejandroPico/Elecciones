@@ -1,0 +1,45 @@
+[
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Soledad Becerril · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Soledad_Becerril",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1983"
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Soledad Becerril · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Soledad_Becerril",
+      "kind": "encyclopedic"
+    },
+    "period": "1983-1989"
+  },
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Soledad Becerril · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Soledad_Becerril",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Soledad Becerril · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Soledad_Becerril",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1989"
+  }
+]

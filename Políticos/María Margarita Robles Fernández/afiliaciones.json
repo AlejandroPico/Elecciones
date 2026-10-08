@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Margarita Robles · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Margarita_Robles",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Margarita Robles · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Margarita_Robles",
+      "kind": "encyclopedic"
+    }
+  }
+]

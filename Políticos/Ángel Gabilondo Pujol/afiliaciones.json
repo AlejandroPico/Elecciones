@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Ángel Gabilondo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Gabilondo",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Ángel Gabilondo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/%C3%81ngel_Gabilondo",
+      "kind": "encyclopedic"
+    }
+  }
+]

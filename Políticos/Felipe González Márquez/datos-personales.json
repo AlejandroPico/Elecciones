@@ -1,11 +1,16 @@
 {
-  "birth": "5 de marzo de 1942 Sevilla, España   ",
+  "birth": "5 de marzo de 1942 · Sevilla",
   "birthYear": 1942,
   "birthDate": "1942-03-05",
   "personalSources": [
     {
-      "label": "Wikipedia · Felipe González · consulta 7 de octubre de 2026",
+      "label": "Felipe González · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Felipe_Gonz%C3%A1lez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Felipe González · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q156799#P569",
       "kind": "encyclopedic"
     }
   ]

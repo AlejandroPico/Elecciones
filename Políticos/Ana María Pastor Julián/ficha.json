@@ -2,11 +2,17 @@
   "id": "ana-maria-pastor-julian",
   "name": "Ana María Pastor Julián",
   "initials": "AM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Fomento",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Ana María Pastor Julián",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Ana Pastor Julián"
+  ],
+  "wikidata": "Q433215",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

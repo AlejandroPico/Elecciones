@@ -1,11 +1,16 @@
 {
-  "birth": "25 de febrero de 1953 Madrid ( España )",
+  "birth": "25 de febrero de 1953 · Madrid",
   "birthYear": 1953,
   "birthDate": "1953-02-25",
   "personalSources": [
     {
-      "label": "Wikipedia · José María Aznar · consulta 7 de octubre de 2026",
+      "label": "José María Aznar · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Aznar",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José María Aznar · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q55637#P569",
       "kind": "encyclopedic"
     }
   ]

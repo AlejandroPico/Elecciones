@@ -31,7 +31,17 @@ for (const g of governmentCatalog)
       });
     }
 export function activityOf(p: Person) {
-  const documented = activity.get(p.id);
+  const records = [p.id, ...(p.legacyIds ?? [])]
+    .map((id) => activity.get(id))
+    .filter((record): record is NonNullable<typeof record> => !!record);
+  const documented = records.length
+    ? {
+        first: Math.min(...records.map((r) => r.first)),
+        last: Math.max(...records.map((r) => r.last)),
+        rank: Math.min(...records.map((r) => r.rank)),
+        roles: [...new Set(records.flatMap((r) => r.roles))],
+      }
+    : undefined;
   const years = p.timeline.flatMap((t) =>
     [...t.period.matchAll(/\b(?:19|20)\d{2}\b/g)].map((m) => Number(m[0])),
   );
@@ -47,8 +57,18 @@ export function activityOf(p: Person) {
     last,
     rank:
       documented?.rank ??
-      (/presiden(?:te|ta) del congreso/i.test(p.role) ? 3 : 5),
-    roles: documented?.roles ?? [p.role],
+      (/presiden(?:te|ta) (?:del congreso|del senado|de la junta|de la general|de la regi|del principado)|lehendakari/i.test(
+        p.role,
+      )
+        ? 3
+        : 5),
+    roles: [
+      ...new Set([
+        ...(documented?.roles ?? []),
+        ...p.timeline.map((t) => t.title),
+        p.role,
+      ]),
+    ],
   };
 }
 export function orderPeople(list: Person[], order: Order) {
@@ -70,9 +90,11 @@ export function matchesPerson(p: Person, query: string, partyName = "") {
     [
       p.name,
       p.fullName,
+      ...(p.knownAs ?? []),
       p.role,
       p.relation,
       partyName,
+      ...(p.affiliations ?? []).map((a) => `${a.name} ${a.period ?? ""}`),
       ...activityOf(p).roles,
     ].join(" "),
   ).includes(normalize(query).trim());

@@ -2,11 +2,17 @@
   "id": "jose-maria-michavila-nunez",
   "name": "José María Michavila Núñez",
   "initials": "JM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Justicia",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "José María Michavila Núñez",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "José María Michavila"
+  ],
+  "wikidata": "Q2749842",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

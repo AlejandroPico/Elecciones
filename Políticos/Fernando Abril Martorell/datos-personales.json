@@ -1,11 +1,21 @@
 {
   "birthDate": "1936-08-31",
   "birthYear": 1936,
-  "birth": "31 de agosto de 1936 Valencia",
+  "birth": "31 de agosto de 1936 · Valencia",
   "personalSources": [
     {
-      "label": "Wikipedia · Fernando Abril Martorell · consulta 7 de octubre de 2026",
+      "label": "Fernando Abril Martorell · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Fernando_Abril_Martorell",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Abril Martorell · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q536714#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Abril Martorell · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q536714#P570",
       "kind": "encyclopedic"
     }
   ],

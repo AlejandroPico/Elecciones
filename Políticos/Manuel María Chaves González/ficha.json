@@ -1,12 +1,18 @@
 {
   "id": "manuel-chaves-gonzalez",
   "name": "Manuel María Chaves González",
-  "initials": "MC",
+  "initials": "MM",
   "organization": "psoe",
-  "relation": "Archivo histórico",
+  "relation": "Vinculación política documentada",
   "role": "Vicepresidente tercero y ministro de Política Territorial",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Manuel María Chaves González",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Manuel Chaves"
+  ],
+  "wikidata": "Q708774",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

@@ -1,11 +1,21 @@
 {
   "birthDate": "1946-06-07",
   "birthYear": 1946,
-  "birth": "7 de junio de 1946 Madrid (España)",
+  "birth": "7 de junio de 1946 · Madrid",
   "personalSources": [
     {
       "label": "Wikipedia · José Antonio Griñán · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Gri%C3%B1%C3%A1n_Mart%C3%ADnez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Antonio Griñán · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Gri%C3%B1%C3%A1n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Antonio Griñán · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q924499#P569",
       "kind": "encyclopedic"
     }
   ]

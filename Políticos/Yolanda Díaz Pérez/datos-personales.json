@@ -1,11 +1,16 @@
 {
-  "birth": "6 de mayo de 1971 La Coruña, España",
+  "birth": "6 de mayo de 1971 · Fene",
   "birthYear": 1971,
   "birthDate": "1971-05-06",
   "personalSources": [
     {
-      "label": "Wikipedia · Yolanda Díaz · consulta 7 de octubre de 2026",
+      "label": "Yolanda Díaz · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Yolanda_D%C3%ADaz",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Yolanda Díaz · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3393973#P569",
       "kind": "encyclopedic"
     }
   ]

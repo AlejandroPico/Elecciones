@@ -1,0 +1,46 @@
+[
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Álvarez-Cascos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_%C3%81lvarez-Cascos",
+      "kind": "encyclopedic"
+    },
+    "period": "1976-1989"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Álvarez-Cascos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_%C3%81lvarez-Cascos",
+      "kind": "encyclopedic"
+    },
+    "period": "1989-2011"
+  },
+  {
+    "organization": null,
+    "name": "Foro Asturias",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Álvarez-Cascos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_%C3%81lvarez-Cascos",
+      "kind": "encyclopedic"
+    },
+    "period": "2011-2020"
+  },
+  {
+    "organization": null,
+    "name": "Suma Principado",
+    "kind": "membership",
+    "period": "Desde 2022",
+    "source": {
+      "label": "Francisco Álvarez-Cascos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_%C3%81lvarez-Cascos",
+      "kind": "encyclopedic"
+    }
+  }
+]

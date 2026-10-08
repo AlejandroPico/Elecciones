@@ -1,11 +1,26 @@
 {
   "birthDate": "1923-11-13",
   "birthYear": 1923,
-  "birth": "13 de noviembre de 1923",
+  "birth": "13 de noviembre de 1923 · Pontevedra",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=211&idLegislatura=II&mostrarAgenda=false"
+    },
+    {
+      "label": "Pío Cabanillas · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/P%C3%ADo_Cabanillas",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Pío Cabanillas · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3327534#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Pío Cabanillas · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3327534#P570",
+      "kind": "encyclopedic"
     }
   ],
   "deathDate": "1991-10-10",

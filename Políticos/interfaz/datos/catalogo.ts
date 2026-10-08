@@ -12,7 +12,7 @@ const personFiles = import.meta.glob<unknown>("../../*/*.json", {
   import: "default",
 });
 const photos = import.meta.glob<string>(
-  "../../*/retrato.{jpg,jpeg,png,webp,svg}",
+  "../../*/retrato.{jpg,jpeg,png,webp,svg,gif}",
   { eager: true, query: "?url", import: "default" },
 );
 function read<T>(
@@ -34,12 +34,14 @@ export const people: Person[] = Object.entries(personFiles)
   .map(([path, data]) => {
     const folder = path.slice(0, -"/ficha.json".length),
       meta = data as Person;
-    const image = read<{ file: string; credit: string; source: string } | null>(
-      personFiles,
-      folder,
-      "retrato.json",
-      null,
-    );
+    const image = read<{
+      file: string;
+      credit: string;
+      source: string;
+      license?: string;
+      licenseUrl?: string;
+      date?: string;
+    } | null>(personFiles, folder, "retrato.json", null);
     if (image && photos[`${folder}/${image.file}`])
       portraits[meta.id] = photos[`${folder}/${image.file}`];
     const personal = read<Partial<Person>>(
@@ -55,7 +57,12 @@ export const people: Person[] = Object.entries(personFiles)
         ...new Set([
           ...(meta.offices ?? []),
           ...offices
-            .filter((o) => o.members.some((m) => m.person === meta.id))
+            .filter((o) =>
+              o.members.some(
+                (m) =>
+                  m.person === meta.id || meta.legacyIds?.includes(m.person),
+              ),
+            )
             .map((o) => o.id),
         ]),
       ],
@@ -66,9 +73,18 @@ export const people: Person[] = Object.entries(personFiles)
             portrait: meta.id,
             photoCredit: image.credit,
             photoSource: image.source,
+            photoLicense: image.license,
+            photoLicenseUrl: image.licenseUrl,
+            photoDate: image.date,
           }
         : {}),
       education: read<string[]>(personFiles, folder, "formacion.json", []),
+      affiliations: read<NonNullable<Person["affiliations"]>>(
+        personFiles,
+        folder,
+        "afiliaciones.json",
+        [],
+      ),
       formationSources: read<Reference[]>(
         personFiles,
         folder,
@@ -95,4 +111,4 @@ export function findPerson(id: string) {
   return people.find((p) => p.id === id || p.legacyIds?.includes(id));
 }
 export const candidacies = candidacyData;
-export const reviewedAt = "7 de octubre de 2026";
+export const reviewedAt = "8 de octubre de 2026";

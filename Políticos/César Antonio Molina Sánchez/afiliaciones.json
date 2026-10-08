@@ -1,0 +1,23 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "César Antonio Molina · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Antonio_Molina",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "César Antonio Molina · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/C%C3%A9sar_Antonio_Molina",
+      "kind": "encyclopedic"
+    },
+    "period": "2007-2009"
+  }
+]

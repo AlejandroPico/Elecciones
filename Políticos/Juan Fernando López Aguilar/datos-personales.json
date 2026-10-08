@@ -1,11 +1,21 @@
 {
   "birthDate": "1961-06-10",
   "birthYear": 1961,
-  "birth": "10 de junio de 1961",
+  "birth": "10 de junio de 1961 · Las Palmas de Gran Canaria",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=82&idLegislatura=IX&mostrarAgenda=false"
+    },
+    {
+      "label": "Juan Fernando López Aguilar · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Fernando_L%C3%B3pez_Aguilar",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Fernando López Aguilar · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q941950#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

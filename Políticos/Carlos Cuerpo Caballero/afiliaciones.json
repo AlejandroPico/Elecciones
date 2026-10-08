@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Carlos Cuerpo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Cuerpo",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Carlos Cuerpo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Cuerpo",
+      "kind": "encyclopedic"
+    }
+  }
+]

@@ -1,11 +1,21 @@
 {
   "birthDate": "1962-02-06",
   "birthYear": 1962,
-  "birth": "6 de febrero de 1962",
+  "birth": "6 de febrero de 1962 · Ferreira de Negral",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=271&idLegislatura=IX&mostrarAgenda=false"
+    },
+    {
+      "label": "José Blanco López · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Blanco_L%C3%B3pez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Blanco López · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q628418#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

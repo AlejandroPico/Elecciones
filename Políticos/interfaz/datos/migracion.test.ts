@@ -24,7 +24,7 @@ it("conserva todas las identidades anteriores al separar las carpetas", () => {
 it("los dirigentes de partidos enlazan una ficha y una fuente sin convertirse en candidaturas", () => {
   for (const party of organizations)
     for (const leader of party.leadership) {
-      expect(people.some((p) => p.id === leader.person)).toBe(true);
+      expect(findPerson(leader.person)).toBeTruthy();
       expect(new URL(leader.source.url).protocol).toBe("https:");
     }
   expect(

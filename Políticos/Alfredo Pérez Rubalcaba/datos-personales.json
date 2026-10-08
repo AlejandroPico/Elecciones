@@ -1,11 +1,26 @@
 {
   "birthDate": "1951-07-28",
   "birthYear": 1951,
-  "birth": "28 de julio de 1951",
+  "birth": "28 de julio de 1951 · Solares",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=84&idLegislatura=IX&mostrarAgenda=false"
+    },
+    {
+      "label": "Alfredo Pérez Rubalcaba · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alfredo_P%C3%A9rez_Rubalcaba",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alfredo Pérez Rubalcaba · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q333638#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alfredo Pérez Rubalcaba · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q333638#P570",
+      "kind": "encyclopedic"
     }
   ],
   "deathDate": "2019-05-10",

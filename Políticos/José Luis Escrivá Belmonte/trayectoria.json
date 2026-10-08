@@ -1,5 +1,21 @@
 [
   {
+    "period": "Gabinete desde el 21 de noviembre de 2023 hasta el 29 de diciembre de 2023",
+    "title": "Ministro de Transformación Digital",
+    "source": {
+      "label": "La Moncloa · Gobierno de la XV Legislatura",
+      "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xv_legislatura.aspx"
+    }
+  },
+  {
+    "period": "Gabinete desde el 29 de diciembre de 2023 hasta el 6 de septiembre de 2024",
+    "title": "Ministro para la Transformación Digital y de la Función Pública",
+    "source": {
+      "label": "La Moncloa · Gobierno de la XV Legislatura",
+      "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xv_legislatura.aspx"
+    }
+  },
+  {
     "period": "Gabinete de enero de 2020 al 27 de enero de 2021",
     "title": "Ministro de Inclusión, Seguridad Social y Migraciones",
     "source": {
@@ -45,6 +61,51 @@
     "source": {
       "label": "La Moncloa · Gobierno de la XIV Legislatura",
       "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xiv_legislatura.aspx"
+    }
+  },
+  {
+    "title": "71º. Gobernador del Banco de España Consejero nato del Consejo de Estado",
+    "period": "Desde el 6 de septiembre de 2024",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "title": "Ministro para la Transformación Digital y de la Función Pública de España",
+    "period": "21 de noviembre de 2023-6 de septiembre de 2024",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "title": "Ministro de Inclusión, Seguridad Social y Migraciones de España",
+    "period": "13 de enero de 2020-21 de noviembre de 2023",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "title": "Presidente de la Autoridad Independiente de Responsabilidad Fiscal",
+    "period": "22 de febrero de 2014 -13 de enero de 2020",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "title": "Presidente de la Red de Instituciones Fiscales Independientes de la Unión Europea",
+    "period": "24 de septiembre de 2015-7 de noviembre de 2019",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
     }
   }
 ]

@@ -1,11 +1,21 @@
 {
   "birthDate": "1967-04-14",
   "birthYear": 1967,
-  "birth": "14 de abril de 1967",
+  "birth": "14 de abril de 1967 · Vitoria",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=266&idLegislatura=VII&mostrarAgenda=false"
+    },
+    {
+      "label": "Alfonso Alonso · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alfonso_Alonso",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alfonso Alonso · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q635164#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

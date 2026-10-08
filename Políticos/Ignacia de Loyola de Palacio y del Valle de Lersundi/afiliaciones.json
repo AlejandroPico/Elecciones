@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Loyola de Palacio · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Loyola_de_Palacio",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1989"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Loyola de Palacio · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Loyola_de_Palacio",
+      "kind": "encyclopedic"
+    },
+    "period": "1989-2006"
+  }
+]

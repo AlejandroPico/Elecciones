@@ -2,11 +2,20 @@
   "id": "maria-fatima-banez-garcia",
   "name": "María Fátima Báñez García",
   "initials": "MF",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Empleo y Seguridad Social",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "María Fátima Báñez García",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Fátima Báñez García",
+    "Fátima Báñez"
+  ],
+  "wikidata": "Q453730",
+  "legacyIds": [
+    "fatima-banez-garcia"
+  ],
+  "affiliationStatus": "documented"
 }

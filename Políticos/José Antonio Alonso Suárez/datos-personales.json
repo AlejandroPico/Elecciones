@@ -1,11 +1,21 @@
 {
   "birthDate": "1960-03-28",
   "birthYear": 1960,
-  "birth": "28 de marzo de 1960 León ( España )",
+  "birth": "28 de marzo de 1960 · León",
   "personalSources": [
     {
-      "label": "Wikipedia · José Antonio Alonso Suárez · consulta 7 de octubre de 2026",
+      "label": "José Antonio Alonso Suárez · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Alonso_Su%C3%A1rez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Antonio Alonso Suárez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1388724#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Antonio Alonso Suárez · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q1388724#P570",
       "kind": "encyclopedic"
     }
   ],

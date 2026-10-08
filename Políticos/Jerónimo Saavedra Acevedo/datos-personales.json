@@ -1,11 +1,26 @@
 {
   "birthDate": "1936-07-03",
   "birthYear": 1936,
-  "birth": "3 de julio de 1936 Las Palmas de Gran Canaria ( Segunda República Española )",
+  "birth": "3 de julio de 1936 · Las Palmas de Gran Canaria",
   "personalSources": [
     {
       "label": "Wikipedia · Jerónimo Saavedra · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Jer%C3%B3nimo_Saavedra_Acevedo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jerónimo Saavedra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jer%C3%B3nimo_Saavedra",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jerónimo Saavedra · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q853535#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jerónimo Saavedra · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q853535#P570",
       "kind": "encyclopedic"
     }
   ],

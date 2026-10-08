@@ -1,11 +1,21 @@
 {
   "birthDate": "1959-09-24",
   "birthYear": 1959,
-  "birth": "24 de septiembre de 1959 Madrid, España",
+  "birth": "24 de septiembre de 1959 · Madrid",
   "personalSources": [
     {
       "label": "Wikipedia · Ana Mato · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Ana_Mato_Adrover",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ana Mato · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ana_Mato",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ana Mato · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q287892#P569",
       "kind": "encyclopedic"
     }
   ]

@@ -1,11 +1,21 @@
 {
   "birthDate": "1961-10-17",
   "birthYear": 1961,
-  "birth": "17 de octubre de 1961",
+  "birth": "17 de octubre de 1961 · Osuna",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=126&idLegislatura=XI&mostrarAgenda=false"
+    },
+    {
+      "label": "Juan Carlos Campo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Carlos_Campo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Carlos Campo · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2877730#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

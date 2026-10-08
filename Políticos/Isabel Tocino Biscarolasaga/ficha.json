@@ -2,11 +2,17 @@
   "id": "isabel-tocino-biscarolasaga",
   "name": "Isabel Tocino Biscarolasaga",
   "initials": "IT",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Medio Ambiente",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Isabel Tocino Biscarolasaga",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Isabel Tocino"
+  ],
+  "wikidata": "Q3154831",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

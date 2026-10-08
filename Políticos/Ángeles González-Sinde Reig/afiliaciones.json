@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Ángeles González-Sinde · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/%C3%81ngeles_Gonz%C3%A1lez-Sinde",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Ángeles González-Sinde · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/%C3%81ngeles_Gonz%C3%A1lez-Sinde",
+      "kind": "encyclopedic"
+    }
+  }
+]

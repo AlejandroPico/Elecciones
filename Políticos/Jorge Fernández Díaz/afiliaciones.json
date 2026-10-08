@@ -1,0 +1,48 @@
+[
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Jorge Fernández Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Fern%C3%A1ndez_D%C3%ADaz",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "CDS",
+    "kind": "membership",
+    "source": {
+      "label": "Jorge Fernández Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Fern%C3%A1ndez_D%C3%ADaz",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Jorge Fernández Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Fern%C3%A1ndez_D%C3%ADaz",
+      "kind": "encyclopedic"
+    },
+    "period": "1983",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q1297890#P102",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Jorge Fernández Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Fern%C3%A1ndez_D%C3%ADaz",
+      "kind": "encyclopedic"
+    }
+  }
+]

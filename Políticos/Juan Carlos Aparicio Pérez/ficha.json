@@ -2,11 +2,17 @@
   "id": "juan-carlos-aparicio-perez",
   "name": "Juan Carlos Aparicio Pérez",
   "initials": "JC",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Trabajo y Asuntos Sociales",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Juan Carlos Aparicio Pérez",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Juan Carlos Aparicio"
+  ],
+  "wikidata": "Q2749907",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

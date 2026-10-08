@@ -1,11 +1,21 @@
 {
   "birthDate": "1941-10-31",
   "birthYear": 1941,
-  "birth": "31 de octubre de 1941 Ibiza",
+  "birth": "31 de octubre de 1941 · Ibiza",
   "personalSources": [
     {
       "label": "Wikipedia · Abel Matutes · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Abel_Matutes_Juan",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Abel Matutes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Matutes",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Abel Matutes · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q318474#P569",
       "kind": "encyclopedic"
     }
   ]

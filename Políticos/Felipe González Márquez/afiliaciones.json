@@ -1,0 +1,18 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Felipe González · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Felipe_Gonz%C3%A1lez",
+      "kind": "encyclopedic"
+    },
+    "period": "1964",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q156799#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

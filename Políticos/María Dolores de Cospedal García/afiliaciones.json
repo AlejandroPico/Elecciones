@@ -1,0 +1,35 @@
+[
+  {
+    "organization": null,
+    "name": "Partido Reformista Democrático",
+    "kind": "membership",
+    "source": {
+      "label": "María Dolores de Cospedal · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Dolores_de_Cospedal",
+      "kind": "encyclopedic"
+    },
+    "period": "1982-1986"
+  },
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "María Dolores de Cospedal · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Dolores_de_Cospedal",
+      "kind": "encyclopedic"
+    },
+    "period": "1986-1989"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "María Dolores de Cospedal · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Dolores_de_Cospedal",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1989"
+  }
+]

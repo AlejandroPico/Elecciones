@@ -1,11 +1,16 @@
 {
-  "birth": "29 de febrero de 1972 Madrid, España",
+  "birth": "29 de febrero de 1972 · Madrid",
   "birthDate": "1972-02-29",
   "birthYear": 1972,
   "personalSources": [
     {
-      "label": "Wikipedia · Pedro Sánchez · consulta 7 de octubre de 2026",
+      "label": "Pedro Sánchez · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Pedro Sánchez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q6070218#P569",
       "kind": "encyclopedic"
     }
   ]

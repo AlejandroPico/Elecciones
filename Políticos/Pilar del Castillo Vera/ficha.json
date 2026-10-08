@@ -2,11 +2,17 @@
   "id": "pilar-del-castillo-vera",
   "name": "Pilar del Castillo Vera",
   "initials": "Pd",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Educación, Cultura y Deporte",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Pilar del Castillo Vera",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Pilar del Castillo"
+  ],
+  "wikidata": "Q292095",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

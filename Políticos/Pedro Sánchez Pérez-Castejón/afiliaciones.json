@@ -1,0 +1,28 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Pedro Sánchez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+      "kind": "encyclopedic"
+    },
+    "period": "1993",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q6070218#P102",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "Partido de los Socialistas Europeos",
+    "kind": "membership",
+    "source": {
+      "label": "Pedro Sánchez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+      "kind": "encyclopedic"
+    }
+  }
+]

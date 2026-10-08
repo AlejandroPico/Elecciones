@@ -1,0 +1,50 @@
+[
+  {
+    "organization": null,
+    "name": "Organización Comunista de España (Bandera Roja)",
+    "kind": "membership",
+    "source": {
+      "label": "Jordi Solé Tura · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jordi_Sol%C3%A9_Tura",
+      "kind": "encyclopedic"
+    },
+    "period": "Hasta 1973",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q527326#P102",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "Partido Socialista Unificado de Cataluña",
+    "kind": "membership",
+    "source": {
+      "label": "Jordi Solé Tura · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jordi_Sol%C3%A9_Tura",
+      "kind": "encyclopedic"
+    },
+    "period": "1956 – 1984",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q527326#P102",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "registro-351",
+    "name": "PSC",
+    "kind": "membership",
+    "source": {
+      "label": "Jordi Solé Tura · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jordi_Sol%C3%A9_Tura",
+      "kind": "encyclopedic"
+    },
+    "period": "1988",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q527326#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

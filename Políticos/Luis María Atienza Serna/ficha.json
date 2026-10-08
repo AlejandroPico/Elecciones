@@ -2,11 +2,17 @@
   "id": "luis-maria-atienza-serna",
   "name": "Luis María Atienza Serna",
   "initials": "LM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Agricultura, Pesca y Alimentación",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Luis María Atienza Serna",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Luis María Atienza"
+  ],
+  "wikidata": "Q3026797",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

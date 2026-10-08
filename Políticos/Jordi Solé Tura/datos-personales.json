@@ -1,11 +1,21 @@
 {
   "birthDate": "1930-05-23",
   "birthYear": 1930,
-  "birth": "23 de mayo de 1930 Mollet del Vallés, España",
+  "birth": "23 de mayo de 1930 · Mollet del Vallés",
   "personalSources": [
     {
-      "label": "Wikipedia · Jordi Solé Tura · consulta 7 de octubre de 2026",
+      "label": "Jordi Solé Tura · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jordi_Sol%C3%A9_Tura",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jordi Solé Tura · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q527326#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jordi Solé Tura · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q527326#P570",
       "kind": "encyclopedic"
     }
   ],

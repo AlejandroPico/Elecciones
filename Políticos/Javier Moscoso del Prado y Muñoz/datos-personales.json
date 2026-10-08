@@ -1,11 +1,26 @@
 {
   "birthDate": "1934-10-17",
   "birthYear": 1934,
-  "birth": "17 de octubre de 1934 Logroño ( España )",
+  "birth": "17 de octubre de 1934 · Logroño",
   "personalSources": [
     {
       "label": "Wikipedia · Javier Moscoso · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Javier_Moscoso_del_Prado_y_Mu%C3%B1oz",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Moscoso · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Javier_Moscoso",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Moscoso · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q616344#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Moscoso · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q616344#P570",
       "kind": "encyclopedic"
     }
   ],

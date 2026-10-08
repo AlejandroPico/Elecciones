@@ -1,4 +1,17 @@
 {
-  "birth": "Nacida en Madrid en 1974",
-  "birthYear": 1974
+  "birth": "16 de enero de 1974 · Madrid",
+  "birthYear": 1974,
+  "birthDate": "1974-01-16",
+  "personalSources": [
+    {
+      "label": "Mónica García Gómez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/M%C3%B3nica_Garc%C3%ADa_G%C3%B3mez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Mónica García Gómez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q62591710#P569",
+      "kind": "encyclopedic"
+    }
+  ]
 }

@@ -2,13 +2,19 @@
   "id": "jose-bono-martinez",
   "name": "José Bono Martínez",
   "initials": "JB",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Defensa",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "José Bono Martínez",
   "offices": [
     "defensa"
   ],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "José Bono"
+  ],
+  "wikidata": "Q1311580",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

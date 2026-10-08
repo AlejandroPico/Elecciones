@@ -1,0 +1,24 @@
+[
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "José María Aznar · Wikidata, vinculación política",
+      "url": "https://www.wikidata.org/wiki/Q55637#P102",
+      "kind": "encyclopedic"
+    },
+    "period": "1989"
+  },
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "José María Aznar · Wikidata, vinculación política",
+      "url": "https://www.wikidata.org/wiki/Q55637#P102",
+      "kind": "encyclopedic"
+    },
+    "period": "1979 – 1989"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "José Blanco López · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Blanco_L%C3%B3pez",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1978"
+  },
+  {
+    "organization": null,
+    "name": "Partido Socialista Popular (España)",
+    "kind": "membership",
+    "source": {
+      "label": "José Blanco López · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Blanco_L%C3%B3pez",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1978"
+  }
+]

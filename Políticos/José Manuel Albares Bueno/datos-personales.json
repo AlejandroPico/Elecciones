@@ -1,11 +1,16 @@
 {
-  "birth": "22 de marzo de 1972 Madrid, España",
+  "birth": "22 de marzo de 1972 · Madrid",
   "birthYear": 1972,
   "birthDate": "1972-03-22",
   "personalSources": [
     {
-      "label": "Wikipedia · José Manuel Albares · consulta 7 de octubre de 2026",
+      "label": "José Manuel Albares · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Albares",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Manuel Albares · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q64595113#P569",
       "kind": "encyclopedic"
     }
   ]

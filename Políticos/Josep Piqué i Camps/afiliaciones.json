@@ -1,0 +1,44 @@
+[
+  {
+    "organization": null,
+    "name": "Organización Comunista de España",
+    "kind": "membership",
+    "source": {
+      "label": "Josep Piqué · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "PSUC",
+    "kind": "membership",
+    "source": {
+      "label": "Josep Piqué · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Josep Piqué · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1999"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Josep Piqué · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1999"
+  }
+]

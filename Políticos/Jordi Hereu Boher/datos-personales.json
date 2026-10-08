@@ -1,11 +1,16 @@
 {
-  "birth": "14 de junio de 1965 Barcelona ( España )",
+  "birth": "14 de junio de 1965 · Barcelona",
   "birthYear": 1965,
   "birthDate": "1965-06-14",
   "personalSources": [
     {
-      "label": "Wikipedia · Jordi Hereu · consulta 7 de octubre de 2026",
+      "label": "Jordi Hereu · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jordi_Hereu",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jordi Hereu · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q953762#P569",
       "kind": "encyclopedic"
     }
   ]

@@ -1,11 +1,16 @@
 {
   "birthDate": "1934-10-03",
   "birthYear": 1934,
-  "birth": "3 de octubre de 1934 Santa María del Páramo (España)",
+  "birth": "3 de octubre de 1934 · León",
   "personalSources": [
     {
-      "label": "Wikipedia · Rodolfo Martín Villa · consulta 7 de octubre de 2026",
+      "label": "Rodolfo Martín Villa · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Rodolfo_Mart%C3%ADn_Villa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Rodolfo Martín Villa · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3327791#P569",
       "kind": "encyclopedic"
     }
   ]

@@ -1,11 +1,21 @@
 {
   "birthDate": "1913-09-25",
   "birthYear": 1913,
-  "birth": "25 de septiembre de 1913 Vitoria, España",
+  "birth": "25 de septiembre de 1913 · Vitoria",
   "personalSources": [
     {
-      "label": "Wikipedia · Antonio Ibáñez Freire · consulta 7 de octubre de 2026",
+      "label": "Antonio Ibáñez Freire · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Antonio_Ib%C3%A1%C3%B1ez_Freire",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antonio Ibáñez Freire · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2857316#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antonio Ibáñez Freire · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2857316#P570",
       "kind": "encyclopedic"
     }
   ],

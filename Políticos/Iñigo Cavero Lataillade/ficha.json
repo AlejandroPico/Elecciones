@@ -2,11 +2,17 @@
   "id": "inigo-cavero-lataillade",
   "name": "Iñigo Cavero Lataillade",
   "initials": "IC",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Justicia",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Iñigo Cavero Lataillade",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Íñigo Cavero"
+  ],
+  "wikidata": "Q3112643",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

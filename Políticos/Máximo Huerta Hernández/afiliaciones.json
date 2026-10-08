@@ -1,0 +1,23 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Máximo Huerta · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/M%C3%A1ximo_Huerta",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Máximo Huerta · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/M%C3%A1ximo_Huerta",
+      "kind": "encyclopedic"
+    },
+    "period": "2018"
+  }
+]

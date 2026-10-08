@@ -1,11 +1,16 @@
 {
-  "birth": "26 de septiembre de 1980 Badajoz, España",
+  "birth": "26 de septiembre de 1980 · Badajoz",
   "birthYear": 1980,
   "birthDate": "1980-09-26",
   "personalSources": [
     {
-      "label": "Wikipedia · Carlos Cuerpo · consulta 7 de octubre de 2026",
+      "label": "Carlos Cuerpo · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Carlos_Cuerpo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carlos Cuerpo · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q124040442#P569",
       "kind": "encyclopedic"
     }
   ]

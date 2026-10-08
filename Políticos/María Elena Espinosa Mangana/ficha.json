@@ -2,14 +2,19 @@
   "id": "elena-espinosa-mangana",
   "name": "María Elena Espinosa Mangana",
   "initials": "ME",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Medio Ambiente y Medio Rural y Marino",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "María Elena Espinosa Mangana",
   "offices": [],
-  "reviewedAt": "2026-10-07",
+  "reviewedAt": "2026-10-08",
   "legacyIds": [
     "elena-espinosa-mangada"
-  ]
+  ],
+  "knownAs": [
+    "Elena Espinosa"
+  ],
+  "wikidata": "Q2984392",
+  "affiliationStatus": "documented"
 }

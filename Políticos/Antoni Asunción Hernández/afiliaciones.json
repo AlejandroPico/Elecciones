@@ -1,0 +1,24 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Antoni Asunción · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Antoni_Asunci%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 2013"
+  },
+  {
+    "organization": null,
+    "name": "Movimiento Ciudadano (Plataforma Civil)",
+    "kind": "membership",
+    "source": {
+      "label": "Antoni Asunción · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Antoni_Asunci%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    "period": "2013-2016"
+  }
+]

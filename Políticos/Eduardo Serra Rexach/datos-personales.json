@@ -1,11 +1,16 @@
 {
   "birthDate": "1946-12-19",
   "birthYear": 1946,
-  "birth": "19 de diciembre de 1946 Madrid, España",
+  "birth": "19 de diciembre de 1946 · Madrid",
   "personalSources": [
     {
-      "label": "Wikipedia · Eduardo Serra Rexach · consulta 7 de octubre de 2026",
+      "label": "Eduardo Serra Rexach · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Eduardo_Serra_Rexach",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Eduardo Serra Rexach · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q11681292#P569",
       "kind": "encyclopedic"
     }
   ]

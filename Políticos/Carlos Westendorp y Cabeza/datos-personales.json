@@ -1,11 +1,26 @@
 {
   "birthDate": "1937-01-07",
   "birthYear": 1937,
-  "birth": "7 de enero de 1937 Madrid, España",
+  "birth": "7 de enero de 1937 · Madrid",
   "personalSources": [
     {
       "label": "Wikipedia · Carlos Westendorp · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Carlos_Westendorp_y_Cabeza",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carlos Westendorp · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Westendorp",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carlos Westendorp · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q682999#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carlos Westendorp · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q682999#P570",
       "kind": "encyclopedic"
     }
   ],

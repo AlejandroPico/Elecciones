@@ -2,11 +2,20 @@
   "id": "maria-del-carmen-calvo-poyato",
   "name": "María del Carmen Calvo Poyato",
   "initials": "Md",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Vicepresidenta del Gobierno y ministra de la Presidencia, Relaciones con las Cortes e Igualdad",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "María del Carmen Calvo Poyato",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Carmen Calvo Poyato",
+    "Carmen Calvo"
+  ],
+  "wikidata": "Q2614472",
+  "legacyIds": [
+    "carmen-calvo-poyato"
+  ],
+  "affiliationStatus": "documented"
 }

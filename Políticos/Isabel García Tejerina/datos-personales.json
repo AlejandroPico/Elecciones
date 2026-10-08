@@ -1,11 +1,16 @@
 {
   "birthDate": "1968-10-09",
   "birthYear": 1968,
-  "birth": "9 de octubre de 1968 Valladolid, España",
+  "birth": "9 de octubre de 1968 · Valladolid",
   "personalSources": [
     {
-      "label": "Wikipedia · Isabel García Tejerina · consulta 7 de octubre de 2026",
+      "label": "Isabel García Tejerina · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Isabel_Garc%C3%ADa_Tejerina",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Isabel García Tejerina · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q16300520#P569",
       "kind": "encyclopedic"
     }
   ]

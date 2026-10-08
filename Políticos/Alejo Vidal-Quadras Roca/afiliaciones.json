@@ -1,0 +1,35 @@
+[
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Alejo Vidal-Quadras · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alejo_Vidal-Quadras",
+      "kind": "encyclopedic"
+    },
+    "period": "1983-1989"
+  },
+  {
+    "organization": "pp",
+    "name": "PP · Cataluña",
+    "kind": "membership",
+    "source": {
+      "label": "Alejo Vidal-Quadras · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alejo_Vidal-Quadras",
+      "kind": "encyclopedic"
+    },
+    "period": "1989-2014"
+  },
+  {
+    "organization": "vox",
+    "name": "Vox",
+    "kind": "membership",
+    "source": {
+      "label": "Alejo Vidal-Quadras · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alejo_Vidal-Quadras",
+      "kind": "encyclopedic"
+    },
+    "period": "2014-2015"
+  }
+]

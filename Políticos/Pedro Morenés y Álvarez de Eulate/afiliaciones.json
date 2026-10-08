@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Pedro Morenés · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Moren%C3%A9s",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "association",
+    "source": {
+      "label": "Pedro Morenés · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Moren%C3%A9s",
+      "kind": "encyclopedic"
+    }
+  }
+]

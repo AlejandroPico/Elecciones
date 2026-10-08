@@ -1,11 +1,21 @@
 {
   "birthDate": "1957-10-31",
   "birthYear": 1957,
-  "birth": "31 de octubre de 1957 Béjar, Salamanca, España",
+  "birth": "31 de octubre de 1957 · Béjar",
   "personalSources": [
     {
       "label": "Wikipedia · Jesús Caldera · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Caldera_S%C3%A1nchez-Capit%C3%A1n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jesús Caldera · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Caldera",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jesús Caldera · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q522506#P569",
       "kind": "encyclopedic"
     }
   ]

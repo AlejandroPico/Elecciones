@@ -2,11 +2,17 @@
   "id": "jeronimo-saavedra-acevedo",
   "name": "Jerónimo Saavedra Acevedo",
   "initials": "JS",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro para las Administraciones Públicas",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Jerónimo Saavedra Acevedo",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Jerónimo Saavedra"
+  ],
+  "wikidata": "Q853535",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

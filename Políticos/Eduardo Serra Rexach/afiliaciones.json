@@ -1,0 +1,45 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Eduardo Serra Rexach · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Eduardo_Serra_Rexach",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "association",
+    "source": {
+      "label": "Eduardo Serra Rexach · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Eduardo_Serra_Rexach",
+      "kind": "encyclopedic"
+    },
+    "period": "1977-1982"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Eduardo Serra Rexach · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Eduardo_Serra_Rexach",
+      "kind": "encyclopedic"
+    },
+    "period": "1982-1996"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "association",
+    "source": {
+      "label": "Eduardo Serra Rexach · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Eduardo_Serra_Rexach",
+      "kind": "encyclopedic"
+    },
+    "period": "1996-2000"
+  }
+]

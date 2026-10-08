@@ -2,11 +2,17 @@
   "id": "matilde-fernandez-sanz",
   "name": "Matilde Fernández Sanz",
   "initials": "MF",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Asuntos Sociales",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Matilde Fernández Sanz",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Matilde Fernández"
+  ],
+  "wikidata": "Q3299113",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

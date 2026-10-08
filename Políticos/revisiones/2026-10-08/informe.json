@@ -1,0 +1,6962 @@
+{
+  "date": "2026-10-08",
+  "scope": "Revisión individual de todas las fichas existentes; ampliación de dirigentes nacionales y autonómicos. No constituye un censo exhaustivo de todos los políticos de España.",
+  "previousCount": 276,
+  "peopleCount": 300,
+  "added": 33,
+  "portraits": 300,
+  "records": [
+    {
+      "id": "abel-matutes-juan",
+      "fullName": "Abel Matutes Juan",
+      "previousIds": [
+        "abel-matutes-juan"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q318474",
+        "article": "https://es.wikipedia.org/wiki/Abel_Matutes",
+        "revision": 175022472
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "abel-ramon-caballero-alvarez",
+      "fullName": "Abel Ramón Caballero Álvarez",
+      "previousIds": [
+        "abel-ramon-caballero-alvarez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2821496",
+        "article": "https://es.wikipedia.org/wiki/Abel_Caballero",
+        "revision": 175560457
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "adolfo-suarez-gonzalez",
+      "fullName": "Adolfo Suárez González",
+      "previousIds": [
+        "adolfo-suarez-gonzalez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q214367",
+        "article": "https://es.wikipedia.org/wiki/Adolfo_Su%C3%A1rez",
+        "revision": 175125413
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "mateos",
+      "fullName": "Adoración Mateos Tejada",
+      "previousIds": [
+        "mateos"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "source": {
+          "label": "Ministerio de Defensa · biografía individual de Adoración Mateos (2010)",
+          "url": "https://www.defensa.gob.es/gabinete/notasPrensa/2010/11/DGC_101111_toma_posesion_ley_derechos.html?__locale=es",
+          "kind": "institutional"
+        }
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "La página de la Subsecretaría de Defensa no es una biografía de Adoración Mateos. Se descarta la entidad de Wikidata del organismo; nacimiento y formación se documentan en su nombramiento individual de 2010.",
+      "missing": [
+        "Vinculación política no documentada"
+      ]
+    },
+    {
+      "id": "agustin-rodriguez-sahagun",
+      "fullName": "Agustín Rodríguez Sahagún",
+      "previousIds": [
+        "agustin-rodriguez-sahagun"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2827364",
+        "article": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Rodr%C3%ADguez_Sahag%C3%BAn",
+        "revision": 172406489
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "albert-rivera",
+      "fullName": "Alberto Carlos Rivera Díaz",
+      "previousIds": [
+        "albert-rivera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2424274",
+        "article": "https://es.wikipedia.org/wiki/Albert_Rivera",
+        "revision": 175671668
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "La vinculación histórica de Rivera con Nuevas Generaciones se acompaña de la controversia documentada en su biografía, incluida la negativa de Rivera y Ciudadanos; no se omite esa respuesta.",
+      "missing": []
+    },
+    {
+      "id": "alberto-garzon-espinosa",
+      "fullName": "Alberto Carlos Garzón Espinosa",
+      "previousIds": [
+        "alberto-garzon-espinosa"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3327963",
+        "article": "https://es.wikipedia.org/wiki/Alberto_Garz%C3%B3n",
+        "revision": 175630643
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "feijoo",
+      "fullName": "Alberto Núñez Feijóo",
+      "previousIds": [
+        "feijoo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2457783",
+        "article": "https://es.wikipedia.org/wiki/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o",
+        "revision": 175680728
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alberto-oliart-saussol",
+      "fullName": "Alberto Carlos Oliart Saussol",
+      "previousIds": [
+        "alberto-oliart-saussol"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2831810",
+        "article": "https://es.wikipedia.org/wiki/Alberto_Oliart",
+        "revision": 171424030
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alberto-ruiz-gallardon-jimenez",
+      "fullName": "Alberto Ruiz-Gallardón Jiménez",
+      "previousIds": [
+        "alberto-ruiz-gallardon-jimenez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q467829",
+        "article": "https://es.wikipedia.org/wiki/Alberto_Ruiz-Gallard%C3%B3n",
+        "revision": 174816073
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alejo-vidal-quadras",
+      "fullName": "Alejo Vidal-Quadras Roca",
+      "previousIds": [
+        "alejo-vidal-quadras"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2066569",
+        "article": "https://es.wikipedia.org/wiki/Alejo_Vidal-Quadras",
+        "revision": 174312645
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alfonso-alonso-aranegui",
+      "fullName": "Alfonso Alonso Aranegui",
+      "previousIds": [
+        "alfonso-alonso-aranegui"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q635164",
+        "article": "https://es.wikipedia.org/wiki/Alfonso_Alonso",
+        "revision": 174338894
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alfonso-dastis-quecedo",
+      "fullName": "Alfonso María Dastis Quecedo",
+      "previousIds": [
+        "alfonso-dastis-quecedo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5666774",
+        "article": "https://es.wikipedia.org/wiki/Alfonso_Dastis",
+        "revision": 174840370
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alfonso-guerra-gonzalez",
+      "fullName": "Alfonso Guerra González",
+      "previousIds": [
+        "alfonso-guerra-gonzalez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2655704",
+        "article": "https://es.wikipedia.org/wiki/Alfonso_Guerra",
+        "revision": 173995690
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alfredo-perez-rubalcaba",
+      "fullName": "Alfredo Pérez Rubalcaba",
+      "previousIds": [
+        "alfredo-perez-rubalcaba"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q333638",
+        "article": "https://es.wikipedia.org/wiki/Alfredo_P%C3%A9rez_Rubalcaba",
+        "revision": 175381046
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ana-maria-pastor-julian",
+      "fullName": "Ana María Pastor Julián",
+      "previousIds": [
+        "ana-maria-pastor-julian"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q433215",
+        "article": "https://es.wikipedia.org/wiki/Ana_Pastor_Juli%C3%A1n",
+        "revision": 173609097
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ana-mato-adrover",
+      "fullName": "Ana Mato Adrover",
+      "previousIds": [
+        "ana-mato-adrover"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q287892",
+        "article": "https://es.wikipedia.org/wiki/Ana_Mato",
+        "revision": 175301221
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ana-palacio-vallelersundi",
+      "fullName": "Ana Isabel de Palacio y del Valle de Lersundi",
+      "previousIds": [
+        "ana-palacio-vallelersundi"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q438185",
+        "article": "https://es.wikipedia.org/wiki/Ana_Palacio",
+        "revision": 175089914
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "redondo",
+      "fullName": "Ana María del Carmen Redondo García",
+      "previousIds": [
+        "redondo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5674051",
+        "article": "https://es.wikipedia.org/wiki/Ana_Redondo",
+        "revision": 175288339
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "anna-maria-birules-bertran",
+      "fullName": "Anna Maria Birulés i Bertran",
+      "previousIds": [
+        "anna-maria-birules-bertran"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2850465",
+        "article": "https://es.wikipedia.org/wiki/Anna_Birul%C3%A9s",
+        "revision": 161009112
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "antoni-asuncion-hernandez",
+      "fullName": "Antoni Asunción Hernández",
+      "previousIds": [
+        "antoni-asuncion-hernandez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2748839",
+        "article": "https://es.wikipedia.org/wiki/Antoni_Asunci%C3%B3n",
+        "revision": 172438171
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "antonio-camacho-vizcaino",
+      "fullName": "Antonio Camacho Vizcaíno",
+      "previousIds": [
+        "antonio-camacho-vizcaino"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q601153",
+        "article": "https://es.wikipedia.org/wiki/Antonio_Camacho_Vizca%C3%ADno",
+        "revision": 172558663
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "antonio-fontan-perez",
+      "fullName": "Antonio Fontán Pérez",
+      "previousIds": [
+        "antonio-fontan-perez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q602033",
+        "article": "https://es.wikipedia.org/wiki/Antonio_Font%C3%A1n",
+        "revision": 173327877
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "antonio-hernandez-mancha",
+      "fullName": "Antonio Hernández Mancha",
+      "previousIds": [
+        "antonio-hernandez-mancha"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2857309",
+        "article": "https://es.wikipedia.org/wiki/Antonio_Hern%C3%A1ndez_Mancha",
+        "revision": 171702853
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "antonio-ibanez-freire",
+      "fullName": "Antonio Ibáñez Freire",
+      "previousIds": [
+        "antonio-ibanez-freire"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2857316",
+        "article": "https://es.wikipedia.org/wiki/Antonio_Ib%C3%A1%C3%B1ez_Freire",
+        "revision": 175701197
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "arancha-gonzalez-laya",
+      "fullName": "María Aránzazu González Laya",
+      "previousIds": [
+        "arancha-gonzalez-laya"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q16201039",
+        "article": "https://es.wikipedia.org/wiki/Arancha_Gonz%C3%A1lez_Laya",
+        "revision": 175376322
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "espana",
+      "fullName": "Arcadi España García",
+      "previousIds": [
+        "espana"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q98382675",
+        "article": "https://es.wikipedia.org/wiki/Arcadi_Espa%C3%B1a_Garc%C3%ADa",
+        "revision": 174944480
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "beatriz-corredor-sierra",
+      "fullName": "María Beatriz Corredor Sierra",
+      "previousIds": [
+        "beatriz-corredor-sierra"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2893019",
+        "article": "https://es.wikipedia.org/wiki/Beatriz_Corredor",
+        "revision": 173787565
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "bernat-soria-escoms",
+      "fullName": "Bernat Soria Escoms",
+      "previousIds": [
+        "bernat-soria-escoms"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2746478",
+        "article": "https://es.wikipedia.org/wiki/Bernat_Soria",
+        "revision": 174986370
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "bibiana-aido-almagro",
+      "fullName": "Bibiana Aído Almagro",
+      "previousIds": [
+        "bibiana-aido-almagro"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q260819",
+        "article": "https://es.wikipedia.org/wiki/Bibiana_A%C3%ADdo",
+        "revision": 172705468
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carles-puigdemont",
+      "fullName": "Carles Puigdemont i Casamajó",
+      "previousIds": [
+        "carles-puigdemont"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q4740163",
+        "article": "https://es.wikipedia.org/wiki/Carles_Puigdemont",
+        "revision": 175629274
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carlos-bustelo-y-garcia-del-real",
+      "fullName": "Carlos Bustelo y García del Real",
+      "previousIds": [
+        "carlos-bustelo-y-garcia-del-real"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2939313",
+        "article": "https://es.wikipedia.org/wiki/Carlos_Bustelo",
+        "revision": 175127470
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cuerpo",
+      "fullName": "Carlos Cuerpo Caballero",
+      "previousIds": [
+        "cuerpo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q124040442",
+        "article": "https://es.wikipedia.org/wiki/Carlos_Cuerpo",
+        "revision": 173851958
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carlos-romero-herrera",
+      "fullName": "José Carlos Romero Herrera",
+      "previousIds": [
+        "carlos-romero-herrera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2939449",
+        "article": "https://es.wikipedia.org/wiki/Carlos_Romero_Herrera",
+        "revision": 170614130
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carlos-solchaga-catalan",
+      "fullName": "Carlos Solchaga Catalán",
+      "previousIds": [
+        "carlos-solchaga-catalan"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2749496",
+        "article": "https://es.wikipedia.org/wiki/Carlos_Solchaga",
+        "revision": 173007577
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carlos-westendorp-y-cabeza",
+      "fullName": "Carlos Westendorp y Cabeza",
+      "previousIds": [
+        "carlos-westendorp-y-cabeza"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q682999",
+        "article": "https://es.wikipedia.org/wiki/Carlos_Westendorp",
+        "revision": 174590885
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carme-chacon-piqueras",
+      "fullName": "Carmen María Chacón Piqueras",
+      "previousIds": [
+        "carme-chacon-piqueras"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q138416",
+        "article": "https://es.wikipedia.org/wiki/Carme_Chac%C3%B3n",
+        "revision": 175145937
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carmen-alborch-bataller",
+      "fullName": "Carmen Alborch Bataller",
+      "previousIds": [
+        "carmen-alborch-bataller"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2939589",
+        "article": "https://es.wikipedia.org/wiki/Carmen_Alborch",
+        "revision": 174583102
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-del-carmen-calvo-poyato",
+      "fullName": "María del Carmen Calvo Poyato",
+      "previousIds": [
+        "carmen-calvo-poyato",
+        "maria-del-carmen-calvo-poyato"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2614472",
+        "article": "https://es.wikipedia.org/wiki/Carmen_Calvo",
+        "revision": 175528357
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carmen-monton-gimenez",
+      "fullName": "Carmen Montón Giménez",
+      "previousIds": [
+        "carmen-monton-gimenez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q4890432",
+        "article": "https://es.wikipedia.org/wiki/Carmen_Mont%C3%B3n",
+        "revision": 172124665
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carolina-darias-san-sebastian",
+      "fullName": "Carolina Darias San Sebastián",
+      "previousIds": [
+        "carolina-darias-san-sebastian",
+        "carolina-darias-san-sebastian-el-boe-publica-su-cese-el-27-de-enero-de-2021"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5753193",
+        "article": "https://es.wikipedia.org/wiki/Carolina_Darias",
+        "revision": 174599325
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "celestino-corbacho-chaves",
+      "fullName": "Celestino Corbacho Chaves",
+      "previousIds": [
+        "celestino-corbacho-chaves"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2748756",
+        "article": "https://es.wikipedia.org/wiki/Celestino_Corbacho",
+        "revision": 173637983
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Formación no documentada en las fuentes consultadas"
+      ]
+    },
+    {
+      "id": "celia-villalobos-talero",
+      "fullName": "Celia Villalobos Talero",
+      "previousIds": [
+        "celia-villalobos-talero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2612928",
+        "article": "https://es.wikipedia.org/wiki/Celia_Villalobos",
+        "revision": 175314309
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cristina-alberdi-alonso",
+      "fullName": "María Cristina Alberdi Alonso",
+      "previousIds": [
+        "cristina-alberdi-alonso"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3002877",
+        "article": "https://es.wikipedia.org/wiki/Cristina_Alberdi",
+        "revision": 175372294
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cristina-garmendia-mendizabal",
+      "fullName": "Cristina Garmendia Mendizábal",
+      "previousIds": [
+        "cristina-garmendia-mendizabal"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q468803",
+        "article": "https://es.wikipedia.org/wiki/Cristina_Garmendia",
+        "revision": 175573326
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cristina-narbona-ruiz",
+      "fullName": "María Cristina Narbona Ruiz",
+      "previousIds": [
+        "cristina-narbona-ruiz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2984396",
+        "article": "https://es.wikipedia.org/wiki/Cristina_Narbona",
+        "revision": 174419361
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cristobal-montoro-romero",
+      "fullName": "Cristóbal Ricardo Montoro Romero",
+      "previousIds": [
+        "cristobal-montoro-romero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q780453",
+        "article": "https://es.wikipedia.org/wiki/Crist%C3%B3bal_Montoro",
+        "revision": 171803124
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cesar-antonio-molina-sanchez",
+      "fullName": "César Antonio Molina Sánchez",
+      "previousIds": [
+        "cesar-antonio-molina-sanchez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2986637",
+        "article": "https://es.wikipedia.org/wiki/C%C3%A9sar_Antonio_Molina",
+        "revision": 175524062
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "morant",
+      "fullName": "Diana Morant Ripoll",
+      "previousIds": [
+        "morant"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q29906177",
+        "article": "https://es.wikipedia.org/wiki/Diana_Morant",
+        "revision": 174815494
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "dolores-delgado-garcia",
+      "fullName": "Dolores Delgado García",
+      "previousIds": [
+        "dolores-delgado-garcia"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q54830302",
+        "article": "https://es.wikipedia.org/wiki/Dolores_Delgado",
+        "revision": 174233277
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "dolors-montserrat-montserrat",
+      "fullName": "Dolors Montserrat Montserrat",
+      "previousIds": [
+        "dolors-montserrat-montserrat"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q11917597",
+        "article": "https://es.wikipedia.org/wiki/Dolors_Montserrat",
+        "revision": 175316567
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "eduardo-zaplana-hernandez-soro",
+      "fullName": "Eduardo Andrés Julio Zaplana Hernández-Soro",
+      "previousIds": [
+        "eduardo-zaplana-hernandez-soro",
+        "eduardo-zaplana-hernandez-soro-quien-asume-ademas-las-funciones-de-portavoz-del-gobierno"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3048400",
+        "article": "https://es.wikipedia.org/wiki/Eduardo_Zaplana",
+        "revision": 174864807
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "eduardo-punset-casals",
+      "fullName": "Eduardo Punset Casals",
+      "previousIds": [
+        "eduardo-punset-casals"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3045769",
+        "article": "https://es.wikipedia.org/wiki/Eduardo_Punset",
+        "revision": 174460838
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "eduardo-serra-rexach",
+      "fullName": "Eduardo Serra Rexach",
+      "previousIds": [
+        "eduardo-serra-rexach"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q11681292",
+        "article": "https://es.wikipedia.org/wiki/Eduardo_Serra_Rexach",
+        "revision": 167083209
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "elena-salgado-mendez",
+      "fullName": "Elena Salgado Méndez",
+      "previousIds": [
+        "elena-salgado-mendez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q266114",
+        "article": "https://es.wikipedia.org/wiki/Elena_Salgado",
+        "revision": 172293100
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "saiz",
+      "fullName": "Elma Saiz Delgado",
+      "previousIds": [
+        "saiz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q8775044",
+        "article": "https://es.wikipedia.org/wiki/Elma_Saiz",
+        "revision": 175163161
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "enrique-baron-crespo",
+      "fullName": "Enrique Barón Crespo",
+      "previousIds": [
+        "enrique-baron-crespo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q449826",
+        "article": "https://es.wikipedia.org/wiki/Enrique_Bar%C3%B3n",
+        "revision": 173393464
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "enrique-fuentes-quintana",
+      "fullName": "Enrique Fuentes Quintana",
+      "previousIds": [
+        "enrique-fuentes-quintana"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3054682",
+        "article": "https://es.wikipedia.org/wiki/Enrique_Fuentes_Quintana",
+        "revision": 166812220
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "enrique-mugica-herzog",
+      "fullName": "Enrique Múgica Herzog",
+      "previousIds": [
+        "enrique-mugica-herzog"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3054705",
+        "article": "https://es.wikipedia.org/wiki/Enrique_M%C3%BAgica",
+        "revision": 175189626
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "Se conserva el 11 de abril de 2020 frente al 10 indicado en Wikidata: lo documenta la comunicación del Defensor del Pueblo en inglés. La fecha del comunicado español, por sí sola, no probaría el día del fallecimiento.",
+      "missing": []
+    },
+    {
+      "id": "enrique-sanchez-de-leon-perez",
+      "fullName": "Enrique Sánchez de León Pérez",
+      "previousIds": [
+        "enrique-sanchez-de-leon-perez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3054710",
+        "article": "https://es.wikipedia.org/wiki/Enrique_S%C3%A1nchez_de_Le%C3%B3n",
+        "revision": 170406530
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "urtasun",
+      "fullName": "Ernest Urtasun Domènech",
+      "previousIds": [
+        "urtasun"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q15564103",
+        "article": "https://es.wikipedia.org/wiki/Ernest_Urtasun",
+        "revision": 175617153
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ernesto-lluch-martin",
+      "fullName": "Ernesto Lluch Martín",
+      "previousIds": [
+        "ernesto-lluch-martin"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1892914",
+        "article": "https://es.wikipedia.org/wiki/Ernest_Lluch",
+        "revision": 171873882
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "esperanza-aguirre-y-gil-de-biedma",
+      "fullName": "Esperanza Fuencisla Aguirre y Gil de Biedma",
+      "previousIds": [
+        "esperanza-aguirre-y-gil-de-biedma"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2083681",
+        "article": "https://es.wikipedia.org/wiki/Esperanza_Aguirre",
+        "revision": 174722997
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "federico-mayor-zaragoza",
+      "fullName": "Federico Mayor Zaragoza",
+      "previousIds": [
+        "federico-mayor-zaragoza"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q457158",
+        "article": "https://es.wikipedia.org/wiki/Federico_Mayor_Zaragoza",
+        "revision": 175267255
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "federico-trillo-figueroa-y-martinez-conde",
+      "fullName": "Federico Trillo-Figueroa y Martínez-Conde",
+      "previousIds": [
+        "federico-trillo-figueroa-y-martinez-conde"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2878013",
+        "article": "https://es.wikipedia.org/wiki/Federico_Trillo",
+        "revision": 175676461
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "felipe-gonzalez-marquez",
+      "fullName": "Felipe González Márquez",
+      "previousIds": [
+        "felipe-gonzalez-marquez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q156799",
+        "article": "https://es.wikipedia.org/wiki/Felipe_Gonz%C3%A1lez",
+        "revision": 175644873
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "fernando-abril-martorell",
+      "fullName": "Fernando Abril Martorell",
+      "previousIds": [
+        "fernando-abril-martorell"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q536714",
+        "article": "https://es.wikipedia.org/wiki/Fernando_Abril_Martorell",
+        "revision": 171163091
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "marlaska",
+      "fullName": "Fernando Grande-Marlaska Gómez",
+      "previousIds": [
+        "marlaska"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6746375",
+        "article": "https://es.wikipedia.org/wiki/Fernando_Grande-Marlaska",
+        "revision": 175509877
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "fernando-ledesma-bartret",
+      "fullName": "Fernando Ledesma Bartret",
+      "previousIds": [
+        "fernando-ledesma-bartret"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2919397",
+        "article": "https://es.wikipedia.org/wiki/Fernando_Ledesma",
+        "revision": 174635722
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "fernando-moran-lopez",
+      "fullName": "Fernando Morán López",
+      "previousIds": [
+        "fernando-moran-lopez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3069513",
+        "article": "https://es.wikipedia.org/wiki/Fernando_Mor%C3%A1n_L%C3%B3pez",
+        "revision": 175288109
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "francisco-caamano-dominguez",
+      "fullName": "Francisco Caamaño Domínguez",
+      "previousIds": [
+        "francisco-caamano-dominguez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q984106",
+        "article": "https://es.wikipedia.org/wiki/Francisco_Caama%C3%B1o_Dom%C3%ADnguez",
+        "revision": 174936713
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "francisco-fernandez-ordonez",
+      "fullName": "Francisco Fernández Ordóñez",
+      "previousIds": [
+        "francisco-fernandez-ordonez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1441961",
+        "article": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ord%C3%B3%C3%B1ez",
+        "revision": 174590912
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "francisco-alvarez-cascos-fernandez",
+      "fullName": "Francisco Álvarez-Cascos Fernández",
+      "previousIds": [
+        "francisco-alvarez-cascos-fernandez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2349461",
+        "article": "https://es.wikipedia.org/wiki/Francisco_%C3%81lvarez-Cascos",
+        "revision": 175552951
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-fatima-banez-garcia",
+      "fullName": "María Fátima Báñez García",
+      "previousIds": [
+        "fatima-banez-garcia",
+        "maria-fatima-banez-garcia"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q453730",
+        "article": "https://es.wikipedia.org/wiki/F%C3%A1tima_B%C3%A1%C3%B1ez",
+        "revision": 174060655
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "bolanos",
+      "fullName": "Félix Bolaños García",
+      "previousIds": [
+        "bolanos"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q58331783",
+        "article": "https://es.wikipedia.org/wiki/F%C3%A9lix_Bola%C3%B1os",
+        "revision": 174318100
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "felix-manuel-perez-miyares",
+      "fullName": "Félix Manuel Pérez Miyares",
+      "previousIds": [
+        "felix-manuel-perez-miyares"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3092529",
+        "article": "https://es.wikipedia.org/wiki/F%C3%A9lix_Manuel_P%C3%A9rez_Miyares",
+        "revision": 169649786
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "felix-pons-irazazabal",
+      "fullName": "Félix Pons Irazazábal",
+      "previousIds": [
+        "felix-pons-irazazabal"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1268476",
+        "article": "https://es.wikipedia.org/wiki/F%C3%A9lix_Pons",
+        "revision": 169158861
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "gabriel-rufian",
+      "fullName": "Juan Gabriel Rufián Romero",
+      "previousIds": [
+        "gabriel-rufian"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q20876620",
+        "article": "https://es.wikipedia.org/wiki/Gabriel_Rufi%C3%A1n",
+        "revision": 175694888
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "gustavo-suarez-pertierra",
+      "fullName": "Gustavo Suárez Pertierra",
+      "previousIds": [
+        "gustavo-suarez-pertierra"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q749149",
+        "article": "https://es.wikipedia.org/wiki/Gustavo_Su%C3%A1rez_Pertierra",
+        "revision": 158476970
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "hector-gomez-hernandez",
+      "fullName": "Héctor José Gómez Hernández",
+      "previousIds": [
+        "hector-gomez-hernandez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q66663427",
+        "article": "https://es.wikipedia.org/wiki/H%C3%A9ctor_G%C3%B3mez_Hern%C3%A1ndez",
+        "revision": 166980821
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ignacio-bayon-marine",
+      "fullName": "Ignacio Bayón Mariné",
+      "previousIds": [
+        "ignacio-bayon-marine"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5913103",
+        "article": "https://es.wikipedia.org/wiki/Ignacio_Bay%C3%B3n",
+        "revision": 175199944
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ignacio-camunas",
+      "fullName": "Ignacio Camuñas Solís",
+      "previousIds": [
+        "ignacio-camunas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3148196",
+        "article": "https://es.wikipedia.org/wiki/Ignacio_Camu%C3%B1as_Sol%C3%ADs",
+        "revision": 166979713
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ines-arrimadas",
+      "fullName": "Inés Arrimadas García",
+      "previousIds": [
+        "ines-arrimadas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q13786674",
+        "article": "https://es.wikipedia.org/wiki/In%C3%A9s_Arrimadas",
+        "revision": 172932455
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ione-belarra-urteaga",
+      "fullName": "Ione Belarra Urteaga",
+      "previousIds": [
+        "ione-belarra-urteaga"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q24524789",
+        "article": "https://es.wikipedia.org/wiki/Ione_Belarra",
+        "revision": 175711078
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "irene-montero-gil",
+      "fullName": "Irene María Montero Gil",
+      "previousIds": [
+        "irene-montero-gil"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q21706297",
+        "article": "https://es.wikipedia.org/wiki/Irene_Montero",
+        "revision": 175696876
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-isabel-celaa-dieguez",
+      "fullName": "María Isabel Celaá Diéguez",
+      "previousIds": [
+        "isabel-celaa-dieguez",
+        "maria-isabel-celaa-dieguez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q9009373",
+        "article": "https://es.wikipedia.org/wiki/Isabel_Cela%C3%A1",
+        "revision": 173122268
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "isabel-garcia-tejerina",
+      "fullName": "Isabel García Tejerina",
+      "previousIds": [
+        "isabel-garcia-tejerina"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q16300520",
+        "article": "https://es.wikipedia.org/wiki/Isabel_Garc%C3%ADa_Tejerina",
+        "revision": 170059054
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "isabel-diaz-ayuso",
+      "fullName": "Isabel Natividad Díaz Ayuso",
+      "previousIds": [
+        "isabel-diaz-ayuso"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q50634772",
+        "article": "https://es.wikipedia.org/wiki/Isabel_D%C3%ADaz_Ayuso",
+        "revision": 175654709
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rodriguez",
+      "fullName": "Isabel Rodríguez García",
+      "previousIds": [
+        "rodriguez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5920849",
+        "article": "https://es.wikipedia.org/wiki/Isabel_Rodr%C3%ADguez_Garc%C3%ADa",
+        "revision": 174985135
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "isabel-tocino-biscarolasaga",
+      "fullName": "Isabel Tocino Biscarolasaga",
+      "previousIds": [
+        "isabel-tocino-biscarolasaga"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3154831",
+        "article": "https://es.wikipedia.org/wiki/Isabel_Tocino",
+        "revision": 174726055
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "inigo-cavero-lataillade",
+      "fullName": "Iñigo Cavero Lataillade",
+      "previousIds": [
+        "inigo-cavero-lataillade"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3112643",
+        "article": "https://es.wikipedia.org/wiki/%C3%8D%C3%B1igo_Cavero",
+        "revision": 172838206
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jaime-garcia-anoveros",
+      "fullName": "Jaime Julián García Añoveros",
+      "previousIds": [
+        "jaime-garcia-anoveros"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3026732",
+        "article": "https://es.wikipedia.org/wiki/Jaime_Garc%C3%ADa_A%C3%B1overos",
+        "revision": 167867838
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+      "fullName": "Jaime Lamo de Espinosa y Michels de Champourcín",
+      "previousIds": [
+        "jaime-lamo-de-espinosa-y-michels-de-champourcin"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q606779",
+        "article": "https://es.wikipedia.org/wiki/Jaime_Lamo_de_Espinosa",
+        "revision": 173930299
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jaime-matas-i-palou",
+      "fullName": "Jaime Matas i Palou",
+      "previousIds": [
+        "jaime-matas-i-palou"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1367019",
+        "article": "https://es.wikipedia.org/wiki/Jaume_Matas",
+        "revision": 169031853
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jaime-mayor-oreja",
+      "fullName": "Jaime Mayor Oreja",
+      "previousIds": [
+        "jaime-mayor-oreja"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q701362",
+        "article": "https://es.wikipedia.org/wiki/Jaime_Mayor_Oreja",
+        "revision": 173700906
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "javier-arenas-bocanegra",
+      "fullName": "Francisco Javier Arenas Bocanegra",
+      "previousIds": [
+        "javier-arenas-bocanegra"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2089386",
+        "article": "https://es.wikipedia.org/wiki/Javier_Arenas_Bocanegra",
+        "revision": 171084497
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "Se retiran los periodos incompatibles de la infobox: UCD se disolvió en 1983 y el BOPA de 18 de noviembre de 1986 acredita su adscripción al PDP. Se conservan ambas vinculaciones sin adjudicar fechas de militancia no contrastadas.",
+      "missing": []
+    },
+    {
+      "id": "javier-fernandez",
+      "fullName": "Javier Fernández Fernández",
+      "previousIds": [
+        "javier-fernandez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q630295",
+        "article": "https://es.wikipedia.org/wiki/Javier_Fern%C3%A1ndez_Fern%C3%A1ndez",
+        "revision": 173643912
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "javier-gomez-navarro-navarrete",
+      "fullName": "Javier Gómez-Navarro Navarrete",
+      "previousIds": [
+        "javier-gomez-navarro-navarrete"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3163150",
+        "article": "https://es.wikipedia.org/wiki/Javier_G%C3%B3mez-Navarro",
+        "revision": 172922927
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "javier-luis-saenz-de-cosculluela",
+      "fullName": "Javier Luis Sáenz de Cosculluela",
+      "previousIds": [
+        "javier-luis-saenz-de-cosculluela",
+        "javier-luis-saenz-cosculluela",
+        "javier-saenz-cosculluela"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3163169",
+        "article": "https://es.wikipedia.org/wiki/Javier_S%C3%A1enz_de_Cosculluela",
+        "revision": 168207429
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "javier-moscoso-del-prado-y-munoz",
+      "fullName": "Javier Moscoso del Prado y Muñoz",
+      "previousIds": [
+        "javier-moscoso-del-prado-y-munoz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q616344",
+        "article": "https://es.wikipedia.org/wiki/Javier_Moscoso",
+        "revision": 174233307
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "javier-solana-madariaga",
+      "fullName": "Francisco Javier Solana y de Madariaga",
+      "previousIds": [
+        "javier-solana-madariaga"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q154855",
+        "article": "https://es.wikipedia.org/wiki/Javier_Solana",
+        "revision": 175484562
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jeronimo-saavedra-acevedo",
+      "fullName": "Jerónimo Saavedra Acevedo",
+      "previousIds": [
+        "jeronimo-saavedra-acevedo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q853535",
+        "article": "https://es.wikipedia.org/wiki/Jer%C3%B3nimo_Saavedra",
+        "revision": 172272260
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jesus-caldera-sanchez-capitan",
+      "fullName": "Jesús Caldera Sánchez-Capitán",
+      "previousIds": [
+        "jesus-caldera-sanchez-capitan"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q522506",
+        "article": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Caldera",
+        "revision": 174740806
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jesus-maria-posada-moreno",
+      "fullName": "Jesús María Posada Moreno",
+      "previousIds": [
+        "jesus-maria-posada-moreno",
+        "jesus-posada-moreno"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3109304",
+        "article": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Posada_Moreno",
+        "revision": 169163907
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jesus-sancho-rof",
+      "fullName": "Jesús Sancho Rof",
+      "previousIds": [
+        "jesus-sancho-rof"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3177760",
+        "article": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Sancho_Rof",
+        "revision": 173053534
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "joan-clos-i-matheu",
+      "fullName": "Joan Clos i Matheu",
+      "previousIds": [
+        "joan-clos-i-matheu"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1690734",
+        "article": "https://es.wikipedia.org/wiki/Joan_Clos",
+        "revision": 174447094
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "Se corrige la adscripción genérica PSOE de la infobox por el PSC, expresamente identificado en la introducción y trayectoria de la biografía individual.",
+      "missing": []
+    },
+    {
+      "id": "joan-subirats-humet",
+      "fullName": "Joan Subirats Humet",
+      "previousIds": [
+        "joan-subirats-humet"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5412176",
+        "article": "https://es.wikipedia.org/wiki/Joan_Subirats",
+        "revision": 171804322
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "joaquin-almunia-amann",
+      "fullName": "José Joaquín Almunia Amann",
+      "previousIds": [
+        "joaquin-almunia-amann"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q311229",
+        "article": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Almunia",
+        "revision": 173112910
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "joaquin-garrigues-walker",
+      "fullName": "Joaquín Garrigues Walker",
+      "previousIds": [
+        "joaquin-garrigues-walker"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3179763",
+        "article": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Garrigues_Walker",
+        "revision": 165336031
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "hereu",
+      "fullName": "Jordi Hereu Boher",
+      "previousIds": [
+        "hereu"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q953762",
+        "article": "https://es.wikipedia.org/wiki/Jordi_Hereu",
+        "revision": 174632845
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jordi-sevilla-segura",
+      "fullName": "Jordi Sevilla Segura",
+      "previousIds": [
+        "jordi-sevilla-segura"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3108429",
+        "article": "https://es.wikipedia.org/wiki/Jordi_Sevilla",
+        "revision": 174347278
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jordi-sole-tura",
+      "fullName": "Jordi Solé Tura",
+      "previousIds": [
+        "jordi-sole-tura"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q527326",
+        "article": "https://es.wikipedia.org/wiki/Jordi_Sol%C3%A9_Tura",
+        "revision": 171892164
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jorge-fernandez-diaz",
+      "fullName": "Jorge Fernández Díaz",
+      "previousIds": [
+        "jorge-fernandez-diaz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1297890",
+        "article": "https://es.wikipedia.org/wiki/Jorge_Fern%C3%A1ndez_D%C3%ADaz",
+        "revision": 174622409
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jorge-semprun-y-maura",
+      "fullName": "Jorge Semprún y Maura",
+      "previousIds": [
+        "jorge-semprun-y-maura"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q157004",
+        "article": "https://es.wikipedia.org/wiki/Jorge_Sempr%C3%BAn",
+        "revision": 174934792
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "josep-borrell-fontelles",
+      "fullName": "Josep Borrell Fontelles",
+      "previousIds": [
+        "josep-borrell-fontelles"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q312901",
+        "article": "https://es.wikipedia.org/wiki/Josep_Borrell",
+        "revision": 175650361
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "josep-pique-i-camps",
+      "fullName": "Josep Piqué i Camps",
+      "previousIds": [
+        "josep-pique-i-camps"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1366326",
+        "article": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9",
+        "revision": 174597702
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-antonio-alonso-suarez",
+      "fullName": "José Antonio Alonso Suárez",
+      "previousIds": [
+        "jose-antonio-alonso-suarez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1388724",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Alonso_Su%C3%A1rez",
+        "revision": 165126986
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-antonio-grinan-martinez",
+      "fullName": "José Antonio Griñán Martínez",
+      "previousIds": [
+        "jose-antonio-grinan-martinez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q924499",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Gri%C3%B1%C3%A1n",
+        "revision": 173771497
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-barrionuevo-pena",
+      "fullName": "José Barrionuevo Peña",
+      "previousIds": [
+        "jose-barrionuevo-pena"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186196",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Barrionuevo",
+        "revision": 172438098
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "Se corrige 23 de marzo por 13 de marzo de 1942, acreditado por la ficha personal del Congreso.",
+      "missing": []
+    },
+    {
+      "id": "jose-blanco-lopez",
+      "fullName": "José Blanco López",
+      "previousIds": [
+        "jose-blanco-lopez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q628418",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Blanco_L%C3%B3pez",
+        "revision": 175325637
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-bono-martinez",
+      "fullName": "José Bono Martínez",
+      "previousIds": [
+        "jose-bono-martinez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1311580",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Bono",
+        "revision": 175623011
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-claudio-aranzadi-martinez",
+      "fullName": "José Claudio Aranzadi Martínez",
+      "previousIds": [
+        "jose-claudio-aranzadi-martinez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186249",
+        "article": "https://es.wikipedia.org/wiki/Claudio_Aranzadi",
+        "revision": 169957782
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-enrique-martinez-genique",
+      "fullName": "José Enrique Martínez Genique",
+      "previousIds": [
+        "jose-enrique-martinez-genique"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q968471",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Enrique_Mart%C3%ADnez_Genique",
+        "revision": 172992138
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-guirao",
+      "fullName": "José Guirao Cabrera",
+      "previousIds": [
+        "jose-guirao"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6454317",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Guirao",
+        "revision": 174583123
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "Se sustituye el doctorado que la infobox generada indicaba por la licenciatura en Filología Hispánica acreditada por su ficha individual del Congreso.",
+      "missing": []
+    },
+    {
+      "id": "jose-ignacio-wert-ortega",
+      "fullName": "José Ignacio Wert Ortega",
+      "previousIds": [
+        "jose-ignacio-wert-ortega"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q705911",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Ignacio_Wert",
+        "revision": 166470277
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-llado-y-fernandez-urrutia",
+      "fullName": "José Lladó y Fernández Urrutia",
+      "previousIds": [
+        "jose-llado-y-fernandez-urrutia"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q934184",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Llad%C3%B3",
+        "revision": 173848641
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-luis-corcuera-cuesta",
+      "fullName": "José Luis Corcuera Cuesta",
+      "previousIds": [
+        "jose-luis-corcuera-cuesta"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186359",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Corcuera",
+        "revision": 173863041
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-luis-escriva-belmonte",
+      "fullName": "José Luis Escrivá Belmonte",
+      "previousIds": [
+        "jose-luis-escriva",
+        "jose-luis-escriva-belmonte"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q23939777",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+        "revision": 175506527
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-luis-garcia-ferrero",
+      "fullName": "José Luis García Ferrero",
+      "previousIds": [
+        "jose-luis-garcia-ferrero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5941347",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Garc%C3%ADa_Ferrero",
+        "revision": 175047474
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-luis-alvarez-alvarez",
+      "fullName": "José Luis Isidoro Álvarez Álvarez",
+      "previousIds": [
+        "jose-luis-alvarez-alvarez",
+        "jose-luis-alvarez-alvare-z"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186388",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_%C3%81lvarez_y_%C3%81lvarez",
+        "revision": 172371990
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-luis-leal-maldonado",
+      "fullName": "José Luis Leal Maldonado",
+      "previousIds": [
+        "jose-luis-leal-maldonado"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186368",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Leal_Maldonado",
+        "revision": 156333333
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "La biografía enciclopédica precisa agosto de 1939, sin día. No atribuir edad exacta.",
+      "missing": [
+        "Fecha completa de nacimiento no documentada"
+      ]
+    },
+    {
+      "id": "jose-luis-rodriguez-zapatero",
+      "fullName": "José Luis Rodríguez Zapatero",
+      "previousIds": [
+        "jose-luis-rodriguez-zapatero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q41395",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero",
+        "revision": 175691993
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-luis-abalos-meco",
+      "fullName": "José Luis Ábalos Meco",
+      "previousIds": [
+        "jose-luis-abalos-meco"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3820056",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_%C3%81balos",
+        "revision": 175670788
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "sanchez-martinez",
+      "fullName": "José Luis Sánchez Martínez",
+      "previousIds": [
+        "sanchez-martinez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "source": {
+          "label": "La Moncloa · nombramiento y biografía de José Luis Sánchez Martínez (18 de octubre de 2022)",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2022/refc20221018.aspx",
+          "kind": "institutional"
+        }
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "No confundir con el militar José Luis Sánchez Martínez-Falero ni con futbolistas homónimos. La ficha individual del Consejo de Ministros de 18 de octubre de 2022 acredita al director general de Asuntos Económicos del Ejército del Aire. No consta fecha de nacimiento en las fuentes consultadas. Se corrige la tilde de Luís con la denominación del nombramiento de La Moncloa.",
+      "missing": [
+        "Formación no documentada en las fuentes consultadas",
+        "Fecha completa de nacimiento no documentada",
+        "Vinculación política no documentada"
+      ]
+    },
+    {
+      "id": "albares",
+      "fullName": "José Manuel Albares Bueno",
+      "previousIds": [
+        "albares"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q64595113",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Albares",
+        "revision": 175082175
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-manuel-garcia-margallo-y-marfil",
+      "fullName": "José Manuel García-Margallo y Marfil",
+      "previousIds": [
+        "jose-manuel-garcia-margallo-y-marfil"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q58095",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Garc%C3%ADa-Margallo",
+        "revision": 174586987
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-manuel-otero-novas",
+      "fullName": "José Manuel Otero Novas",
+      "previousIds": [
+        "jose-manuel-otero-novas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186415",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Otero",
+        "revision": 173048874
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-manuel-rodriguez-uribes",
+      "fullName": "José Manuel Rodríguez Uribes",
+      "previousIds": [
+        "jose-manuel-rodriguez-uribes"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q55169514",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Rodr%C3%ADguez_Uribes",
+        "revision": 174998134
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-manuel-romay-beccaria",
+      "fullName": "José Manuel Romay Beccaría",
+      "previousIds": [
+        "jose-manuel-romay-beccaria"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3109576",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Romay_Beccar%C3%ADa",
+        "revision": 173643923
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-manuel-soria-lopez",
+      "fullName": "José Manuel Soria López",
+      "previousIds": [
+        "jose-manuel-soria-lopez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1336629",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Soria",
+        "revision": 174066386
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-maria-aznar-lopez",
+      "fullName": "José María Aznar López",
+      "previousIds": [
+        "jose-maria-aznar-lopez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q55637",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Aznar",
+        "revision": 175698261
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-maria-maravall-herrero",
+      "fullName": "José María Maravall Herrero",
+      "previousIds": [
+        "jose-maria-maravall-herrero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2719795",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Maravall",
+        "revision": 174955446
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-maria-michavila-nunez",
+      "fullName": "José María Michavila Núñez",
+      "previousIds": [
+        "jose-maria-michavila-nunez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2749842",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Michavila",
+        "revision": 174762382
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-minones-conde",
+      "fullName": "José Manuel Miñones Conde",
+      "previousIds": [
+        "jose-minones-conde"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q20535305",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Mi%C3%B1ones",
+        "revision": 169443486
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jose-montilla-aguilera",
+      "fullName": "José Montilla Aguilera",
+      "previousIds": [
+        "jose-montilla-aguilera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q465464",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Montilla",
+        "revision": 172323772
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Formación no documentada en las fuentes consultadas"
+      ]
+    },
+    {
+      "id": "jose-pedro-perez-llorca-y-rodrigo",
+      "fullName": "José Pedro Pérez-Llorca y Rodrigo",
+      "previousIds": [
+        "jose-pedro-perez-llorca-y-rodrigo",
+        "jose-pedro-perez-llorca-rodrigo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3186513",
+        "article": "https://es.wikipedia.org/wiki/Jos%C3%A9_Pedro_P%C3%A9rez-Llorca",
+        "revision": 174590937
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-alberto-belloch-julbe",
+      "fullName": "Juan Alberto Belloch Julbe",
+      "previousIds": [
+        "juan-alberto-belloch-julbe"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q259692",
+        "article": "https://es.wikipedia.org/wiki/Juan_Alberto_Belloch",
+        "revision": 173954718
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-antonio-garcia-diez",
+      "fullName": "Juan Antonio García Díez",
+      "previousIds": [
+        "juan-antonio-garcia-diez",
+        "juan-antonio-garcia-diaz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3187553",
+        "article": "https://es.wikipedia.org/wiki/Juan_Antonio_Garc%C3%ADa_D%C3%ADez",
+        "revision": 162472611
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-antonio-ortega-y-diaz-ambrona",
+      "fullName": "Juan Antonio Ortega y Díaz-Ambrona",
+      "previousIds": [
+        "juan-antonio-ortega-y-diaz-ambrona"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q967803",
+        "article": "https://es.wikipedia.org/wiki/Juan_Antonio_Ortega_y_D%C3%ADaz-Ambrona",
+        "revision": 175452016
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-carlos-aparicio-perez",
+      "fullName": "Juan Carlos Aparicio Pérez",
+      "previousIds": [
+        "juan-carlos-aparicio-perez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2749907",
+        "article": "https://es.wikipedia.org/wiki/Juan_Carlos_Aparicio",
+        "revision": 174232107
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-carlos-campo-moreno",
+      "fullName": "Juan Carlos Campo Moreno",
+      "previousIds": [
+        "juan-carlos-campo-moreno"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2877730",
+        "article": "https://es.wikipedia.org/wiki/Juan_Carlos_Campo",
+        "revision": 170256687
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-costa-climent",
+      "fullName": "Juan Costa Climent",
+      "previousIds": [
+        "juan-costa-climent"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3187630",
+        "article": "https://es.wikipedia.org/wiki/Juan_Costa",
+        "revision": 165044767
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-fernando-lopez-aguilar",
+      "fullName": "Juan Fernando López Aguilar",
+      "previousIds": [
+        "juan-fernando-lopez-aguilar"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q941950",
+        "article": "https://es.wikipedia.org/wiki/Juan_Fernando_L%C3%B3pez_Aguilar",
+        "revision": 175385577
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-ignacio-zoido-alvarez",
+      "fullName": "Juan Ignacio Zoido Álvarez",
+      "previousIds": [
+        "juan-ignacio-zoido-alvarez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2223607",
+        "article": "https://es.wikipedia.org/wiki/Juan_Ignacio_Zoido",
+        "revision": 174444958
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-jose-lucas-jimenez",
+      "fullName": "Juan José Lucas Jiménez",
+      "previousIds": [
+        "juan-jose-lucas-jimenez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2749833",
+        "article": "https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Lucas",
+        "revision": 170118626
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-jose-roson-perez",
+      "fullName": "Juan José Rosón Pérez",
+      "previousIds": [
+        "juan-jose-roson-perez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3026812",
+        "article": "https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Ros%C3%B3n",
+        "revision": 175047023
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-lerma-blasco",
+      "fullName": "Juan Lerma Blasco",
+      "previousIds": [
+        "juan-lerma-blasco"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3108026",
+        "article": "https://es.wikipedia.org/wiki/Joan_Lerma",
+        "revision": 175252531
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-majo-cruzate",
+      "fullName": "Juan Majó Cruzate",
+      "previousIds": [
+        "juan-majo-cruzate"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3179605",
+        "article": "https://es.wikipedia.org/wiki/Joan_Maj%C3%B3",
+        "revision": 171874066
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "Se corrige la adscripción genérica PSOE por la militancia en el PSC documentada en la Gran Enciclopèdia Catalana. El filtro recoge vinculaciones históricas, sin afirmar vigencia actual.",
+      "missing": []
+    },
+    {
+      "id": "juan-manuel-eguiagaray-ucelay",
+      "fullName": "Juan Manuel Eguiagaray Ucelay",
+      "previousIds": [
+        "juan-manuel-eguiagaray-ucelay"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2750056",
+        "article": "https://es.wikipedia.org/wiki/Juan_Manuel_Eguiagaray",
+        "revision": 173687280
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-manuel-moreno",
+      "fullName": "Juan Manuel Moreno Bonilla",
+      "previousIds": [
+        "juan-manuel-moreno"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q16584928",
+        "article": "https://es.wikipedia.org/wiki/Juanma_Moreno",
+        "revision": 175278788
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juan-rovira-tarazona",
+      "fullName": "Juan Rovira Tarazona",
+      "previousIds": [
+        "juan-rovira-tarazona"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3187785",
+        "article": "https://es.wikipedia.org/wiki/Juan_Rovira_Tarazona",
+        "revision": 165340628
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "julia-garcia-valdecasas-salgado",
+      "fullName": "Julia García-Valdecasas Salgado",
+      "previousIds": [
+        "julia-garcia-valdecasas-salgado"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2325676",
+        "article": "https://es.wikipedia.org/wiki/Julia_Garc%C3%ADa-Valdecasas",
+        "revision": 168961014
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "julian-campo-sainz-de-rozas",
+      "fullName": "Julián Campo Sainz de Rozas",
+      "previousIds": [
+        "julian-campo-sainz-de-rozas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3189885",
+        "article": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Campo",
+        "revision": 162314198
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "julian-garcia-valverde",
+      "fullName": "Julián García Valverde",
+      "previousIds": [
+        "julian-garcia-valverde"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2749818",
+        "article": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Garc%C3%ADa_Valverde",
+        "revision": 175601621
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "julian-garcia-vargas",
+      "fullName": "Julián García Vargas",
+      "previousIds": [
+        "julian-garcia-vargas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3189890",
+        "article": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Garc%C3%ADa_Vargas",
+        "revision": 175604948
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "landelino-lavilla-alsina",
+      "fullName": "Landelino Lavilla Alsina",
+      "previousIds": [
+        "landelino-lavilla-alsina"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2748845",
+        "article": "https://es.wikipedia.org/wiki/Landelino_Lavilla",
+        "revision": 172890034
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "leire-pajin-iraola",
+      "fullName": "Leire Pajín Iraola",
+      "previousIds": [
+        "leire-pajin-iraola"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q435199",
+        "article": "https://es.wikipedia.org/wiki/Leire_Paj%C3%ADn",
+        "revision": 175397123
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "leopoldo-calvo-sotelo-y-bustelo",
+      "fullName": "Leopoldo Ramón Pedro Calvo-Sotelo y Bustelo",
+      "previousIds": [
+        "leopoldo-calvo-sotelo-y-bustelo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q273129",
+        "article": "https://es.wikipedia.org/wiki/Leopoldo_Calvo-Sotelo",
+        "revision": 175125288
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "loyola-de-palacio-del-valle-lersundi",
+      "fullName": "Ignacia de Loyola de Palacio y del Valle de Lersundi",
+      "previousIds": [
+        "loyola-de-palacio-del-valle-lersundi"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q255657",
+        "article": "https://es.wikipedia.org/wiki/Loyola_de_Palacio",
+        "revision": 173644043
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-carlos-croissier-batista",
+      "fullName": "Luis Carlos Croissier Batista",
+      "previousIds": [
+        "luis-carlos-croissier-batista"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2749847",
+        "article": "https://es.wikipedia.org/wiki/Luis_Carlos_Croissier",
+        "revision": 174233965
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "La fuente consultada indica 1950 sin fecha completa. No atribuir edad exacta.",
+      "missing": [
+        "Fecha completa de nacimiento no documentada"
+      ]
+    },
+    {
+      "id": "luis-de-guindos-jurado",
+      "fullName": "Luis de Guindos Jurado",
+      "previousIds": [
+        "luis-de-guindos-jurado"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q225880",
+        "article": "https://es.wikipedia.org/wiki/Luis_de_Guindos",
+        "revision": 174119264
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-gamir-casares",
+      "fullName": "Luis Gámir Casares",
+      "previousIds": [
+        "luis-gamir-casares"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3266718",
+        "article": "https://es.wikipedia.org/wiki/Luis_G%C3%A1mir",
+        "revision": 171076821
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-gonzalez-seara",
+      "fullName": "Luis González Seara",
+      "previousIds": [
+        "luis-gonzalez-seara"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q925289",
+        "article": "https://es.wikipedia.org/wiki/Luis_Gonz%C3%A1lez_Seara",
+        "revision": 171890988
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-manuel-cosculluela-montaner",
+      "fullName": "Luis Manuel Cosculluela Montaner",
+      "previousIds": [
+        "luis-manuel-cosculluela-montaner"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2839736",
+        "article": "https://es.wikipedia.org/wiki/Luis_Manuel_Cosculluela_Montaner",
+        "revision": 162628546
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-martinez-noval",
+      "fullName": "Luis Martínez Noval",
+      "previousIds": [
+        "luis-martinez-noval"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2750857",
+        "article": "https://es.wikipedia.org/wiki/Luis_Mart%C3%ADnez_Noval",
+        "revision": 156218990
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-maria-atienza-serna",
+      "fullName": "Luis María Atienza Serna",
+      "previousIds": [
+        "luis-maria-atienza-serna"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3026797",
+        "article": "https://es.wikipedia.org/wiki/Luis_Mar%C3%ADa_Atienza",
+        "revision": 172543925
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "luis-ortiz-gonzalez",
+      "fullName": "Luis Ortiz González",
+      "previousIds": [
+        "luis-ortiz-gonzalez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3028472",
+        "article": "https://es.wikipedia.org/wiki/Luis_Ortiz_Gonz%C3%A1lez",
+        "revision": 168005015
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Formación no documentada en las fuentes consultadas"
+      ]
+    },
+    {
+      "id": "planas",
+      "fullName": "Luis Planas Puchades",
+      "previousIds": [
+        "planas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q11689876",
+        "article": "https://es.wikipedia.org/wiki/Luis_Planas",
+        "revision": 173855451
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "magdalena-valerio-cordero",
+      "fullName": "Magdalena Valerio Cordero",
+      "previousIds": [
+        "magdalena-valerio-cordero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5989717",
+        "article": "https://es.wikipedia.org/wiki/Magdalena_Valerio",
+        "revision": 172729457
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "magdalena-alvarez-arza",
+      "fullName": "Magdalena Álvarez Arza",
+      "previousIds": [
+        "magdalena-alvarez-arza"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q270883",
+        "article": "https://es.wikipedia.org/wiki/Magdalena_%C3%81lvarez",
+        "revision": 173628639
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-castells-olivan",
+      "fullName": "Manuel Castells Oliván",
+      "previousIds": [
+        "manuel-castells-olivan"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q310161",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Castells",
+        "revision": 175505659
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-clavero-arevalo",
+      "fullName": "Manuel Francisco Clavero Arévalo",
+      "previousIds": [
+        "manuel-clavero-arevalo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3286787",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Clavero_Ar%C3%A9valo",
+        "revision": 172041990
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-fraga",
+      "fullName": "Manuel Fraga Iribarne",
+      "previousIds": [
+        "manuel-fraga"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q276043",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Fraga",
+        "revision": 175627097
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-gutierrez-mellado",
+      "fullName": "Manuel Gutiérrez Mellado",
+      "previousIds": [
+        "manuel-gutierrez-mellado"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2638079",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Guti%C3%A9rrez_Mellado",
+        "revision": 175215093
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-jimenez-de-parga-cabrera",
+      "fullName": "Manuel Jiménez de Parga y Cabrera",
+      "previousIds": [
+        "manuel-jimenez-de-parga-cabrera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3286862",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Jim%C3%A9nez_de_Parga",
+        "revision": 174538101
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-chaves-gonzalez",
+      "fullName": "Manuel María Chaves González",
+      "previousIds": [
+        "manuel-chaves-gonzalez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q708774",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Chaves",
+        "revision": 175085093
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-nunez-perez",
+      "fullName": "Manuel Núñez Pérez",
+      "previousIds": [
+        "manuel-nunez-perez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3286897",
+        "article": "https://es.wikipedia.org/wiki/Manuel_N%C3%BA%C3%B1ez_P%C3%A9rez",
+        "revision": 162572987
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "manuel-pimentel-siles",
+      "fullName": "Manuel Ramón Pimentel Siles",
+      "previousIds": [
+        "manuel-pimentel-siles"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q777354",
+        "article": "https://es.wikipedia.org/wiki/Manuel_Pimentel",
+        "revision": 175314888
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "marcelino-oreja-aguirre",
+      "fullName": "Marcelino Oreja Aguirre",
+      "previousIds": [
+        "marcelino-oreja-aguirre"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q722282",
+        "article": "https://es.wikipedia.org/wiki/Marcelino_Oreja_Aguirre",
+        "revision": 174834177
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "margarita-mariscal-de-gante-y-miron",
+      "fullName": "Margarita Mariscal de Gante y Mirón",
+      "previousIds": [
+        "margarita-mariscal-de-gante-y-miron"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3290552",
+        "article": "https://es.wikipedia.org/wiki/Margarita_Mariscal_de_Gante",
+        "revision": 173925247
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "robles",
+      "fullName": "María Margarita Robles Fernández",
+      "previousIds": [
+        "robles"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5997107",
+        "article": "https://es.wikipedia.org/wiki/Margarita_Robles",
+        "revision": 175132959
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "mariano-fernandez-bermejo",
+      "fullName": "Mariano Fernández Bermejo",
+      "previousIds": [
+        "mariano-fernandez-bermejo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3291372",
+        "article": "https://es.wikipedia.org/wiki/Mariano_Fern%C3%A1ndez_Bermejo",
+        "revision": 173925430
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rajoy",
+      "fullName": "Mariano Rajoy Brey",
+      "previousIds": [
+        "rajoy"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q10819",
+        "article": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+        "revision": 175563429
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "valcarce",
+      "fullName": "María Amparo Valcarce García",
+      "previousIds": [
+        "valcarce"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5673272",
+        "article": "https://es.wikipedia.org/wiki/Amparo_Valcarce",
+        "revision": 169136022
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-antonia-trujillo-rincon",
+      "fullName": "María Antonia Trujillo Rincón",
+      "previousIds": [
+        "maria-antonia-trujillo-rincon"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2742753",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Antonia_Trujillo",
+        "revision": 174644769
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cospedal",
+      "fullName": "María Dolores de Cospedal García",
+      "previousIds": [
+        "cospedal"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q271658",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Dolores_de_Cospedal",
+        "revision": 174679171
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "elena-espinosa-mangana",
+      "fullName": "María Elena Espinosa Mangana",
+      "previousIds": [
+        "elena-espinosa-mangana",
+        "elena-espinosa-mangada"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2984392",
+        "article": "https://es.wikipedia.org/wiki/Elena_Espinosa",
+        "revision": 174412360
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-elvira-rodriguez-herrer",
+      "fullName": "María Elvira Rodríguez Herrer",
+      "previousIds": [
+        "maria-elvira-rodriguez-herrer"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3051830",
+        "article": "https://es.wikipedia.org/wiki/Elvira_Rodr%C3%ADguez",
+        "revision": 171687242
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-jesus-montero-cuadrado",
+      "fullName": "María Jesús Montero Cuadrado",
+      "previousIds": [
+        "maria-jesus-montero-cuadrado"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6003983",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Jes%C3%BAs_Montero",
+        "revision": 174659691
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-jesus-sansegundo-gomez-de-cadinanos",
+      "fullName": "María Jesús San Segundo Gómez de Cadiñanos",
+      "previousIds": [
+        "maria-jesus-sansegundo-gomez-de-cadinanos"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3108420",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Jes%C3%BAs_San_Segundo",
+        "revision": 171746024
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-luisa-carcedo",
+      "fullName": "María Luisa Carcedo Roces",
+      "previousIds": [
+        "maria-luisa-carcedo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6004169",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Luisa_Carcedo",
+        "revision": 173789205
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-soraya-saenz-de-santamaria-anton",
+      "fullName": "María Soraya Sáenz de Santamaría Antón",
+      "previousIds": [
+        "maria-soraya-saenz-de-santamaria-anton",
+        "soraya-saenz-de-santamaria-anton"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q41267",
+        "article": "https://es.wikipedia.org/wiki/Soraya_S%C3%A1enz_de_Santamar%C3%ADa",
+        "revision": 175113564
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-teresa-fernandez-de-la-vega-sanz",
+      "fullName": "María Teresa Fernández de la Vega y Sanz",
+      "previousIds": [
+        "maria-teresa-fernandez-de-la-vega-sanz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q240104",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Fern%C3%A1ndez_de_la_Vega",
+        "revision": 174084097
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-angeles-amador-millan",
+      "fullName": "María Ángeles Amador Millán",
+      "previousIds": [
+        "maria-angeles-amador-millan"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3327529",
+        "article": "https://es.wikipedia.org/wiki/%C3%81ngeles_Amador",
+        "revision": 172558939
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "matilde-fernandez-sanz",
+      "fullName": "Matilde Fernández Sanz",
+      "previousIds": [
+        "matilde-fernandez-sanz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3299113",
+        "article": "https://es.wikipedia.org/wiki/Matilde_Fern%C3%A1ndez",
+        "revision": 171264726
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "matias-rodriguez-inciarte",
+      "fullName": "Matías Rodríguez Inciarte",
+      "previousIds": [
+        "matias-rodriguez-inciarte"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3300064",
+        "article": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Rodr%C3%ADguez_Inciarte",
+        "revision": 171622073
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "mercedes-cabrera-calvo-sotelo",
+      "fullName": "Mercedes Cabrera Calvo-Sotelo",
+      "previousIds": [
+        "mercedes-cabrera-calvo-sotelo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q270888",
+        "article": "https://es.wikipedia.org/wiki/Mercedes_Cabrera",
+        "revision": 166748044
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "meritxell-batet-lamana",
+      "fullName": "Meritxell Batet Lamaña",
+      "previousIds": [
+        "meritxell-batet-lamana"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q9031777",
+        "article": "https://es.wikipedia.org/wiki/Meritxell_Batet",
+        "revision": 172989501
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "miguel-arias-canete",
+      "fullName": "Miguel Arias Cañete",
+      "previousIds": [
+        "miguel-arias-canete"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1317281",
+        "article": "https://es.wikipedia.org/wiki/Miguel_Arias_Ca%C3%B1ete",
+        "revision": 171576492
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "miguel-boyer-salvador",
+      "fullName": "Miguel Boyer Salvador",
+      "previousIds": [
+        "miguel-boyer-salvador"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3312950",
+        "article": "https://es.wikipedia.org/wiki/Miguel_Boyer",
+        "revision": 174732825
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "miguel-sebastian-gascon",
+      "fullName": "Miguel Sebastián Gascón",
+      "previousIds": [
+        "miguel-sebastian-gascon"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1382090",
+        "article": "https://es.wikipedia.org/wiki/Miguel_Sebasti%C3%A1n",
+        "revision": 173969803
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "miguel-angel-moratinos-cuyaube",
+      "fullName": "Miguel Ángel Moratinos Cuyaubé",
+      "previousIds": [
+        "miguel-angel-moratinos-cuyaube"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q352302",
+        "article": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Moratinos",
+        "revision": 174586977
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "tolon",
+      "fullName": "Milagros Tolón Jaime",
+      "previousIds": [
+        "tolon"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q20087023",
+        "article": "https://es.wikipedia.org/wiki/Milagros_Tol%C3%B3n",
+        "revision": 175305804
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "miquel-octavi-iceta-i-llorens",
+      "fullName": "Miquel Octavi Iceta i Llorens",
+      "previousIds": [
+        "miquel-iceta-llorens",
+        "miquel-octavi-iceta-i-llorens"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3315737",
+        "article": "https://es.wikipedia.org/wiki/Miquel_Iceta",
+        "revision": 175160815
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maxim-huerta-hernandez",
+      "fullName": "Máximo Huerta Hernández",
+      "previousIds": [
+        "maxim-huerta-hernandez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6035335",
+        "article": "https://es.wikipedia.org/wiki/M%C3%A1ximo_Huerta",
+        "revision": 175438697
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "garcia",
+      "fullName": "Mónica García Gómez",
+      "previousIds": [
+        "garcia"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q62591710",
+        "article": "https://es.wikipedia.org/wiki/M%C3%B3nica_Garc%C3%ADa_G%C3%B3mez",
+        "revision": 175416507
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "nadia-maria-calvino-santamaria",
+      "fullName": "Nadia María Calviño Santamaría",
+      "previousIds": [
+        "nadia-calvino-santamaria",
+        "nadia-maria-calvino-santamaria"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q20535388",
+        "article": "https://es.wikipedia.org/wiki/Nadia_Calvi%C3%B1o",
+        "revision": 174985479
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "narcis-serra-i-serra",
+      "fullName": "Narcís Serra i Serra",
+      "previousIds": [
+        "narcis-serra-i-serra",
+        "narcis-serra-serra"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3178484",
+        "article": "https://es.wikipedia.org/wiki/Narc%C3%ADs_Serra",
+        "revision": 174480325
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "oriol-junqueras",
+      "fullName": "Oriol Junqueras i Vies",
+      "previousIds": [
+        "oriol-junqueras"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q116812",
+        "article": "https://es.wikipedia.org/wiki/Oriol_Junqueras",
+        "revision": 175218913
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "bustinduy",
+      "fullName": "Pablo Bustinduy Amador",
+      "previousIds": [
+        "bustinduy"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q27999127",
+        "article": "https://es.wikipedia.org/wiki/Pablo_Bustinduy",
+        "revision": 174815869
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pablo-casado",
+      "fullName": "Pablo Casado Blanco",
+      "previousIds": [
+        "pablo-casado"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6055866",
+        "article": "https://es.wikipedia.org/wiki/Pablo_Casado",
+        "revision": 175563501
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pablo-iglesias-turrion",
+      "fullName": "Pablo Iglesias Turrión",
+      "previousIds": [
+        "pablo-iglesias-turrion"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q13989269",
+        "article": "https://es.wikipedia.org/wiki/Pablo_Iglesias_Turri%C3%B3n",
+        "revision": 175325609
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pedro-francisco-duque-duque",
+      "fullName": "Pedro Francisco Duque Duque",
+      "previousIds": [
+        "pedro-duque-duque",
+        "pedro-francisco-duque-duque"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q448547",
+        "article": "https://es.wikipedia.org/wiki/Pedro_Duque",
+        "revision": 175023841
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "morenes",
+      "fullName": "Pedro Morenés y Álvarez de Eulate",
+      "previousIds": [
+        "morenes"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2066688",
+        "article": "https://es.wikipedia.org/wiki/Pedro_Moren%C3%A9s",
+        "revision": 175534177
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pedro-solbes-mira",
+      "fullName": "Pedro Solbes Mira",
+      "previousIds": [
+        "pedro-solbes-mira"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q458323",
+        "article": "https://es.wikipedia.org/wiki/Pedro_Solbes",
+        "revision": 175517525
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "sanchez",
+      "fullName": "Pedro Sánchez Pérez-Castejón",
+      "previousIds": [
+        "sanchez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6070218",
+        "article": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+        "revision": 175630288
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pilar-alegria",
+      "fullName": "María del Pilar Alegría Continente",
+      "previousIds": [
+        "pilar-alegria",
+        "pilar-alegria-continente"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q20908838",
+        "article": "https://es.wikipedia.org/wiki/Pilar_Alegr%C3%ADa",
+        "revision": 174979407
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pilar-del-castillo-vera",
+      "fullName": "Pilar del Castillo Vera",
+      "previousIds": [
+        "pilar-del-castillo-vera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q292095",
+        "article": "https://es.wikipedia.org/wiki/Pilar_del_Castillo",
+        "revision": 167558148
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pilar-llop-cuenca",
+      "fullName": "María Pilar Llop Cuenca",
+      "previousIds": [
+        "pilar-llop-cuenca"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q55496545",
+        "article": "https://es.wikipedia.org/wiki/Pilar_Llop",
+        "revision": 175074554
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pio-cabanillas-alonso",
+      "fullName": "Pío Cabanillas Alonso",
+      "previousIds": [
+        "pio-cabanillas-alonso"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3412141",
+        "article": "https://es.wikipedia.org/wiki/P%C3%ADo_Cabanillas_Alonso",
+        "revision": 175441093
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pio-cabanillas-gallas",
+      "fullName": "Pío Cabanillas Gallas",
+      "previousIds": [
+        "pio-cabanillas-gallas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3327534",
+        "article": "https://es.wikipedia.org/wiki/P%C3%ADo_Cabanillas",
+        "revision": 174581754
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rafael-arias-salgado-y-montalvo",
+      "fullName": "Rafael Arias-Salgado y Montalvo",
+      "previousIds": [
+        "rafael-arias-salgado-y-montalvo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3109308",
+        "article": "https://es.wikipedia.org/wiki/Rafael_Arias-Salgado",
+        "revision": 172438519
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rafael-calvo-ortega",
+      "fullName": "Rafael Calvo Ortega",
+      "previousIds": [
+        "rafael-calvo-ortega"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3417219",
+        "article": "https://es.wikipedia.org/wiki/Rafael_Calvo_Ortega",
+        "revision": 170281158
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rafael-catala-polo",
+      "fullName": "Rafael Catalá Polo",
+      "previousIds": [
+        "rafael-catala-polo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6097148",
+        "article": "https://es.wikipedia.org/wiki/Rafael_Catal%C3%A1_Polo",
+        "revision": 174099023
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ramon-jauregui-atondo",
+      "fullName": "Ramón Jáuregui Atondo",
+      "previousIds": [
+        "ramon-jauregui-atondo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1684700",
+        "article": "https://es.wikipedia.org/wiki/Ram%C3%B3n_J%C3%A1uregui",
+        "revision": 174640428
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "raquel-sanchez-jimenez",
+      "fullName": "Raquel Sánchez Jiménez",
+      "previousIds": [
+        "raquel-sanchez-jimenez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q16302262",
+        "article": "https://es.wikipedia.org/wiki/Raquel_S%C3%A1nchez_Jim%C3%A9nez",
+        "revision": 174133320
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "reyes-maroto-illera",
+      "fullName": "María Reyes Maroto Illera",
+      "previousIds": [
+        "reyes-maroto-illera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q54833955",
+        "article": "https://es.wikipedia.org/wiki/Reyes_Maroto",
+        "revision": 173563930
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ricardo-de-la-cierva-y-hoces",
+      "fullName": "Ricardo de la Cierva y Hoces",
+      "previousIds": [
+        "ricardo-de-la-cierva-y-hoces"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2748457",
+        "article": "https://es.wikipedia.org/wiki/Ricardo_de_la_Cierva",
+        "revision": 174006511
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rodolfo-martin-villa",
+      "fullName": "Rodolfo Martín Villa",
+      "previousIds": [
+        "rodolfo-martin-villa"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3327791",
+        "article": "https://es.wikipedia.org/wiki/Rodolfo_Mart%C3%ADn_Villa",
+        "revision": 175463797
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rodrigo-de-rato-y-figaredo",
+      "fullName": "Rodrigo de Rato y Figaredo",
+      "previousIds": [
+        "rodrigo-de-rato-y-figaredo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q455748",
+        "article": "https://es.wikipedia.org/wiki/Rodrigo_Rato",
+        "revision": 172101191
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "roman-escolano-olivares",
+      "fullName": "Román Escolano Olivares",
+      "previousIds": [
+        "roman-escolano-olivares"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q50233107",
+        "article": "https://es.wikipedia.org/wiki/Rom%C3%A1n_Escolano",
+        "revision": 173490733
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rosa-aguilar-rivero",
+      "fullName": "Rosa Aguilar Rivero",
+      "previousIds": [
+        "rosa-aguilar-rivero"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q433345",
+        "article": "https://es.wikipedia.org/wiki/Rosa_Aguilar",
+        "revision": 171968866
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rosa-conde-gutierrez-del-alamo",
+      "fullName": "Rosa Conde Gutiérrez del Álamo",
+      "previousIds": [
+        "rosa-conde-gutierrez-del-alamo",
+        "rosa-conde-gutierrez-del-amo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3442076",
+        "article": "https://es.wikipedia.org/wiki/Rosa_Conde",
+        "revision": 161169118
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "salvador-illa-roca-el-boe-publica-su-cese-el-27-de-enero-de-2021",
+      "fullName": "Salvador Illa Roca",
+      "previousIds": [
+        "salvador-illa-roca-el-boe-publica-su-cese-el-27-de-enero-de-2021"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q64577417",
+        "article": "https://es.wikipedia.org/wiki/Salvador_Illa",
+        "revision": 175341446
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "salvador-sanchez-teran-hernandez",
+      "fullName": "Salvador Sánchez-Terán Hernández",
+      "previousIds": [
+        "salvador-sanchez-teran-hernandez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3470338",
+        "article": "https://es.wikipedia.org/wiki/Salvador_S%C3%A1nchez-Ter%C3%A1n",
+        "revision": 175463830
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "santiago-abascal",
+      "fullName": "Santiago Abascal Conde",
+      "previousIds": [
+        "santiago-abascal"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q11703587",
+        "article": "https://es.wikipedia.org/wiki/Santiago_Abascal",
+        "revision": 175509383
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "santiago-rodriguez-miranda",
+      "fullName": "Santiago Rodríguez-Miranda Gómez",
+      "previousIds": [
+        "santiago-rodriguez-miranda"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3472887",
+        "article": "https://es.wikipedia.org/wiki/Santiago_Rodr%C3%ADguez-Miranda",
+        "revision": 158671228
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "El Congreso indica Madrid, 11/09/1941, mientras que Wikipedia y la relación de Medallas de Oro del Gobierno balear sitúan el año en 1940. Se mantiene 1940 con esta segunda fuente institucional; queda documentada la discrepancia de la ficha parlamentaria.",
+      "missing": []
+    },
+    {
+      "id": "aagesen",
+      "fullName": "Sara Aagesen Muñoz",
+      "previousIds": [
+        "aagesen"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q113274679",
+        "article": "https://es.wikipedia.org/wiki/Sara_Aagesen",
+        "revision": 175040309
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Fecha completa de nacimiento no documentada"
+      ]
+    },
+    {
+      "id": "sebastian-martin-retortillo-y-baquer",
+      "fullName": "Sebastián Ricardo Martín-Retortillo Baquer",
+      "previousIds": [
+        "sebastian-martin-retortillo-y-baquer"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6122937",
+        "article": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Mart%C3%ADn-Retortillo",
+        "revision": 166524787
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "rego",
+      "fullName": "Sira Abed Rego",
+      "previousIds": [
+        "rego"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q61743771",
+        "article": "https://es.wikipedia.org/wiki/Sira_Rego",
+        "revision": 175074224
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "soledad-becerril-bustamante",
+      "fullName": "María Soledad Becerril Bustamante",
+      "previousIds": [
+        "soledad-becerril-bustamante"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2750055",
+        "article": "https://es.wikipedia.org/wiki/Soledad_Becerril",
+        "revision": 175302782
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "teresa-ribera-rodriguez",
+      "fullName": "Teresa Ribera Rodríguez",
+      "previousIds": [
+        "teresa-ribera-rodriguez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q54806936",
+        "article": "https://es.wikipedia.org/wiki/Teresa_Ribera",
+        "revision": 175640706
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+      "fullName": "Tomás de la Quadra-Salcedo y Fernández del Castillo",
+      "previousIds": [
+        "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+        "tomas-de-la-quadra-salcedo-fernandez-del-castillo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q952725",
+        "article": "https://es.wikipedia.org/wiki/Tom%C3%A1s_de_la_Quadra-Salcedo",
+        "revision": 175038316
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "trinidad-jimenez-garcia-herrera",
+      "fullName": "Trinidad Jiménez García-Herrera",
+      "previousIds": [
+        "trinidad-jimenez-garcia-herrera"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q260218",
+        "article": "https://es.wikipedia.org/wiki/Trinidad_Jim%C3%A9nez",
+        "revision": 174721955
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "valeriano-gomez-sanchez",
+      "fullName": "Tomás Valeriano Gómez Sánchez",
+      "previousIds": [
+        "valeriano-gomez-sanchez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q981646",
+        "article": "https://es.wikipedia.org/wiki/Valeriano_G%C3%B3mez",
+        "revision": 175599013
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "vicente-albero-silla",
+      "fullName": "Vicente Albero Silla",
+      "previousIds": [
+        "vicente-albero-silla"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3025982",
+        "article": "https://es.wikipedia.org/wiki/Vicente_Albero",
+        "revision": 171224674
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "virgilio-zapatero-gomez",
+      "fullName": "Virgilio Zapatero Gómez",
+      "previousIds": [
+        "virgilio-zapatero-gomez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3560631",
+        "article": "https://es.wikipedia.org/wiki/Virgilio_Zapatero",
+        "revision": 175448691
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "diaz",
+      "fullName": "Yolanda Díaz Pérez",
+      "previousIds": [
+        "diaz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3393973",
+        "article": "https://es.wikipedia.org/wiki/Yolanda_D%C3%ADaz",
+        "revision": 175370830
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alvaro-nadal-belda",
+      "fullName": "Álvaro María Nadal Belda",
+      "previousIds": [
+        "alvaro-nadal-belda"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q27681455",
+        "article": "https://es.wikipedia.org/wiki/%C3%81lvaro_Nadal",
+        "revision": 160125093
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "angel-acebes-paniagua",
+      "fullName": "Ángel Jesús Acebes Paniagua",
+      "previousIds": [
+        "angel-acebes-paniagua"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2628231",
+        "article": "https://es.wikipedia.org/wiki/%C3%81ngel_Acebes",
+        "revision": 174802097
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "angel-gabilondo-pujol",
+      "fullName": "Ángel Gabilondo Pujol",
+      "previousIds": [
+        "angel-gabilondo-pujol"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q251625",
+        "article": "https://es.wikipedia.org/wiki/%C3%81ngel_Gabilondo",
+        "revision": 171661968
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "torres",
+      "fullName": "Ángel Víctor Torres Pérez",
+      "previousIds": [
+        "torres"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q14100014",
+        "article": "https://es.wikipedia.org/wiki/%C3%81ngel_V%C3%ADctor_Torres",
+        "revision": 174958871
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "angeles-gonzalez-sinde-reig",
+      "fullName": "Ángeles González-Sinde Reig",
+      "previousIds": [
+        "angeles-gonzalez-sinde-reig"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q252083",
+        "article": "https://es.wikipedia.org/wiki/%C3%81ngeles_Gonz%C3%A1lez-Sinde",
+        "revision": 173018478
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "inigo-de-la-serna-hernaiz",
+      "fullName": "Íñigo Joaquín de la Serna Hernáiz",
+      "previousIds": [
+        "inigo-de-la-serna-hernaiz"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3592990",
+        "article": "https://es.wikipedia.org/wiki/%C3%8D%C3%B1igo_de_la_Serna",
+        "revision": 167198718
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "inigo-mendez-de-vigo-y-montojo",
+      "fullName": "Íñigo Méndez de Vigo y Montojo",
+      "previousIds": [
+        "inigo-mendez-de-vigo-y-montojo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q291887",
+        "article": "https://es.wikipedia.org/wiki/%C3%8D%C3%B1igo_M%C3%A9ndez_de_Vigo",
+        "revision": 174085958
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "lopez",
+      "fullName": "Óscar López Águeda",
+      "previousIds": [
+        "lopez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6174855",
+        "article": "https://es.wikipedia.org/wiki/%C3%93scar_L%C3%B3pez_%C3%81gueda",
+        "revision": 175668456
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "puente",
+      "fullName": "Óscar Puente Santiago",
+      "previousIds": [
+        "puente"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6174903",
+        "article": "https://es.wikipedia.org/wiki/%C3%93scar_Puente",
+        "revision": 174889649
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "adrian-barbon",
+      "fullName": "Adrián Barbón Rodríguez",
+      "previousIds": [
+        "adrian-barbon"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q14026688",
+        "article": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Barb%C3%B3n",
+        "revision": 175684148
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "aitor-esteban",
+      "fullName": "Luis Aitor Esteban Bravo",
+      "previousIds": [
+        "aitor-esteban"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5661421",
+        "article": "https://es.wikipedia.org/wiki/Aitor_Esteban",
+        "revision": 174794062
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alfonso-fernandez-manueco",
+      "fullName": "Alfonso Fernando Fernández Mañueco",
+      "previousIds": [
+        "alfonso-fernandez-manueco"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5666820",
+        "article": "https://es.wikipedia.org/wiki/Alfonso_Fern%C3%A1ndez_Ma%C3%B1ueco",
+        "revision": 174538554
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "alfonso-rueda",
+      "fullName": "Alfonso Rueda Valenzuela",
+      "previousIds": [
+        "alfonso-rueda"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q588412",
+        "article": "https://es.wikipedia.org/wiki/Alfonso_Rueda",
+        "revision": 175354236
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "ana-ponton",
+      "fullName": "Ana Belén Pontón Mondelo",
+      "previousIds": [
+        "ana-ponton"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q12382958",
+        "article": "https://es.wikipedia.org/wiki/Ana_Pont%C3%B3n",
+        "revision": 174538200
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "andoni-ortuzar",
+      "fullName": "Andoni Ortuzar Arruabarrena",
+      "previousIds": [
+        "andoni-ortuzar"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q8198786",
+        "article": "https://es.wikipedia.org/wiki/Andoni_Ortuzar",
+        "revision": 174793993
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "arnaldo-otegi",
+      "fullName": "Arnaldo Otegi Mondragón",
+      "previousIds": [
+        "arnaldo-otegi"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q547356",
+        "article": "https://es.wikipedia.org/wiki/Arnaldo_Otegi",
+        "revision": 175249414
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "artur-mas",
+      "fullName": "Artur Mas i Gavarró",
+      "previousIds": [
+        "artur-mas"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q8015",
+        "article": "https://es.wikipedia.org/wiki/Artur_Mas",
+        "revision": 169669171
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "carlos-mazon",
+      "fullName": "Carlos Arturo Mazón Guixot",
+      "previousIds": [
+        "carlos-mazon"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q92621937",
+        "article": "https://es.wikipedia.org/wiki/Carlos_Maz%C3%B3n",
+        "revision": 174989440
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "cayo-lara",
+      "fullName": "Cayo Lara Moya",
+      "previousIds": [
+        "cayo-lara"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q981471",
+        "article": "https://es.wikipedia.org/wiki/Cayo_Lara",
+        "revision": 155041052
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Formación no documentada en las fuentes consultadas"
+      ]
+    },
+    {
+      "id": "concha-andreu",
+      "fullName": "Concepción Andreu Rodríguez",
+      "previousIds": [
+        "concha-andreu"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q20014173",
+        "article": "https://es.wikipedia.org/wiki/Concha_Andreu",
+        "revision": 174900912
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "emiliano-garcia-page",
+      "fullName": "Emiliano García-Page Sánchez",
+      "previousIds": [
+        "emiliano-garcia-page"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q3052296",
+        "article": "https://es.wikipedia.org/wiki/Emiliano_Garc%C3%ADa-Page",
+        "revision": 174604352
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "fernando-lopez-miras",
+      "fullName": "Fernando López Miras",
+      "previousIds": [
+        "fernando-lopez-miras"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q29168668",
+        "article": "https://es.wikipedia.org/wiki/Fernando_L%C3%B3pez_Miras",
+        "revision": 175419091
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "francina-armengol",
+      "fullName": "Francesca Lluc Armengol Socías",
+      "previousIds": [
+        "francina-armengol"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5412268",
+        "article": "https://es.wikipedia.org/wiki/Francina_Armengol",
+        "revision": 175491115
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "gaspar-llamazares",
+      "fullName": "Gaspar Llamazares Trigo",
+      "previousIds": [
+        "gaspar-llamazares"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q450262",
+        "article": "https://es.wikipedia.org/wiki/Gaspar_Llamazares",
+        "revision": 175640695
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "gonzalo-capellan",
+      "fullName": "Gonzalo Capellán de Miguel",
+      "previousIds": [
+        "gonzalo-capellan"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q117808424",
+        "article": "https://es.wikipedia.org/wiki/Gonzalo_Capell%C3%A1n",
+        "revision": 175390209
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "imanol-pradales",
+      "fullName": "Imanol Pradales Gil",
+      "previousIds": [
+        "imanol-pradales"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q123536880",
+        "article": "https://es.wikipedia.org/wiki/Imanol_Pradales",
+        "revision": 175635703
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jordi-pujol",
+      "fullName": "Jordi Pujol i Soley",
+      "previousIds": [
+        "jordi-pujol"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q458702",
+        "article": "https://es.wikipedia.org/wiki/Jordi_Pujol",
+        "revision": 175622709
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "jorge-azcon",
+      "fullName": "Jorge Antonio Azcón Navarro",
+      "previousIds": [
+        "jorge-azcon"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q64625515",
+        "article": "https://es.wikipedia.org/wiki/Jorge_Azc%C3%B3n",
+        "revision": 175578095
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "julio-anguita",
+      "fullName": "Julio Anguita González",
+      "previousIds": [
+        "julio-anguita"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2545691",
+        "article": "https://es.wikipedia.org/wiki/Julio_Anguita",
+        "revision": 175527682
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "marga-prohens",
+      "fullName": "Margalida Prohens Rigo",
+      "previousIds": [
+        "marga-prohens"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q66663490",
+        "article": "https://es.wikipedia.org/wiki/Marga_Prohens",
+        "revision": 175372132
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-chivite",
+      "fullName": "María Victoria Chivite Navascués",
+      "previousIds": [
+        "maria-chivite"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q12263205",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Chivite",
+        "revision": 175255178
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-guardiola",
+      "fullName": "María Guardiola Martín",
+      "previousIds": [
+        "maria-guardiola"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q115151208",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Guardiola",
+        "revision": 175303761
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "maria-jose-saenz-de-buruaga",
+      "fullName": "María José Sáenz de Buruaga Gómez",
+      "previousIds": [
+        "maria-jose-saenz-de-buruaga"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q6004085",
+        "article": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_S%C3%A1enz_de_Buruaga",
+        "revision": 175401971
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "mertxe-aizpurua",
+      "fullName": "María de las Mercedes Aizpurua Arzallus",
+      "previousIds": [
+        "mertxe-aizpurua"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q12263472",
+        "article": "https://es.wikipedia.org/wiki/Mertxe_Aizpurua",
+        "revision": 174912978
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Formación no documentada en las fuentes consultadas"
+      ]
+    },
+    {
+      "id": "miguel-angel-revilla",
+      "fullName": "Miguel Ángel Revilla Roiz",
+      "previousIds": [
+        "miguel-angel-revilla"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q2733616",
+        "article": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Revilla",
+        "revision": 175670811
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "patxi-lopez",
+      "fullName": "Francisco Javier López Álvarez",
+      "previousIds": [
+        "patxi-lopez"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q465161",
+        "article": "https://es.wikipedia.org/wiki/Patxi_L%C3%B3pez",
+        "revision": 173469721
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "pere-aragones",
+      "fullName": "Pere Aragonès i Garcia",
+      "previousIds": [
+        "pere-aragones"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q16169026",
+        "article": "https://es.wikipedia.org/wiki/Pere_Aragon%C3%A8s",
+        "revision": 175534043
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "quim-torra",
+      "fullName": "Joaquim Torra Pla",
+      "previousIds": [
+        "quim-torra"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1945815",
+        "article": "https://es.wikipedia.org/wiki/Quim_Torra",
+        "revision": 173601527
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "santiago-carrillo",
+      "fullName": "Santiago José Carrillo Solares",
+      "previousIds": [
+        "santiago-carrillo"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q298789",
+        "article": "https://es.wikipedia.org/wiki/Santiago_Carrillo",
+        "revision": 175076863
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": [
+        "Formación no documentada en las fuentes consultadas"
+      ]
+    },
+    {
+      "id": "fernando-clavijo-batlle",
+      "fullName": "Fernando Clavijo Batlle",
+      "previousIds": [
+        "fernando-clavijo-batlle"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q5859396",
+        "article": "https://es.wikipedia.org/wiki/Fernando_Clavijo_Batlle",
+        "revision": 175163368
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "inigo-urkullu",
+      "fullName": "Iñigo Urkullu Renteria",
+      "previousIds": [
+        "inigo-urkullu"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q1961896",
+        "article": "https://es.wikipedia.org/wiki/I%C3%B1igo_Urkullu",
+        "revision": 174793818
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": null,
+      "missing": []
+    },
+    {
+      "id": "juanfran-perez-llorca",
+      "fullName": "Juan Francisco Pérez Llorca",
+      "previousIds": [
+        "juanfran-perez-llorca"
+      ],
+      "date": "2026-10-08",
+      "identity": {
+        "wikidata": "Q120000125",
+        "article": "https://es.wikipedia.org/wiki/Juanfran_P%C3%A9rez_Llorca",
+        "revision": 175271498
+      },
+      "checked": [
+        "identidad",
+        "nacimiento y fallecimiento",
+        "formación",
+        "cargos",
+        "vinculaciones",
+        "retrato"
+      ],
+      "notes": "La fuente consultada indica 1976 sin fecha completa. No atribuir edad exacta.",
+      "missing": [
+        "Formación no documentada en las fuentes consultadas",
+        "Fecha completa de nacimiento no documentada"
+      ]
+    }
+  ]
+}

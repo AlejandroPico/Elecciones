@@ -1,11 +1,26 @@
 {
   "birthDate": "1936-09-04",
   "birthYear": 1936,
-  "birth": "4 de septiembre de 1936",
+  "birth": "4 de septiembre de 1936 · Nerva",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=321&idLegislatura=III&mostrarAgenda=false"
+    },
+    {
+      "label": "Félix Manuel Pérez Miyares · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/F%C3%A9lix_Manuel_P%C3%A9rez_Miyares",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Félix Manuel Pérez Miyares · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3092529#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Félix Manuel Pérez Miyares · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3092529#P570",
+      "kind": "encyclopedic"
     }
   ],
   "deathDate": "2024-11-24",

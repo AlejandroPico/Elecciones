@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Agustín Rodríguez Sahagún · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Rodr%C3%ADguez_Sahag%C3%BAn",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1982"
+  },
+  {
+    "organization": null,
+    "name": "CDS",
+    "kind": "membership",
+    "source": {
+      "label": "Agustín Rodríguez Sahagún · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Rodr%C3%ADguez_Sahag%C3%BAn",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1982"
+  }
+]

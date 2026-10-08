@@ -1,6 +1,6 @@
 import type { RefObject } from "react";
 import { ArrowUpRight, ArrowRight, FileText, Download } from "lucide-react";
-import { people } from "../../Políticos/interfaz/datos/catalogo";
+import { people, findPerson } from "../../Políticos/interfaz/datos/catalogo";
 import type { Organization } from "../../Políticos/interfaz/datos/tipos";
 import { Portrait } from "../../Políticos/interfaz/Retrato";
 import { PartyLogo } from "./Logotipo";
@@ -128,7 +128,7 @@ export default function PartyDetail({
                     className="timeline-link"
                     onClick={() => go("person", leader.person)}
                   >
-                    {people.find((p) => p.id === leader.person)?.fullName}
+                    {findPerson(leader.person)?.fullName}
                     <ArrowUpRight size={14} />
                   </button>
                   <p>{leader.title}</p>

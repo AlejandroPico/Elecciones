@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "José Antonio Alonso Suárez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Alonso_Su%C3%A1rez",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 2008"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "José Antonio Alonso Suárez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Alonso_Su%C3%A1rez",
+      "kind": "encyclopedic"
+    },
+    "period": "2008-2017"
+  }
+]

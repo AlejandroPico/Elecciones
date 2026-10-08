@@ -1,0 +1,38 @@
+[
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Javier Arenas Bocanegra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Javier_Arenas_Bocanegra",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "Partido Demócrata Popular",
+    "kind": "membership",
+    "source": {
+      "label": "Javier Arenas Bocanegra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Javier_Arenas_Bocanegra",
+      "kind": "encyclopedic"
+    },
+    "additionalSource": {
+      "label": "Parlamento de Andalucía · BOPA 29, 18 de noviembre de 1986",
+      "url": "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?id=11781&tipodoc=bopa",
+      "kind": "institutional"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Javier Arenas Bocanegra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Javier_Arenas_Bocanegra",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1989"
+  }
+]

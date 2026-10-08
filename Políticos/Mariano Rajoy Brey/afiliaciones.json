@@ -1,0 +1,35 @@
+[
+  {
+    "organization": null,
+    "name": "Unión Nacional Española (partido)",
+    "kind": "membership",
+    "source": {
+      "label": "Mariano Rajoy · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+      "kind": "encyclopedic"
+    },
+    "period": "desde años 1970, hasta años 1970"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Mariano Rajoy · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1989"
+  },
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Mariano Rajoy · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1989"
+  }
+]

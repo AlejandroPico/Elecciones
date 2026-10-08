@@ -1,11 +1,21 @@
 {
   "birthDate": "1957-11-11",
   "birthYear": 1957,
-  "birth": "11 de noviembre de 1957",
+  "birth": "11 de noviembre de 1957 · Cubillos",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=31&idLegislatura=XIV&mostrarAgenda=false"
+    },
+    {
+      "label": "Ana Pastor Julián · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ana_Pastor_Juli%C3%A1n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ana Pastor Julián · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q433215#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

@@ -1,13 +1,23 @@
 {
-  "birth": "23 de noviembre de 1922 · Vilalba",
+  "birth": "23 de noviembre de 1922 · Villalba",
   "birthDate": "1922-11-23",
   "birthYear": 1922,
   "deathDate": "2012-01-15",
   "deathYear": 2012,
   "personalSources": [
     {
-      "label": "Wikipedia · Manuel Fraga",
+      "label": "Manuel Fraga · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Manuel_Fraga",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Fraga · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q276043#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Fraga · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q276043#P570",
       "kind": "encyclopedic"
     }
   ]

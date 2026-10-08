@@ -6,7 +6,7 @@ import {
   governments,
   snapshotAt,
 } from "../../../Gobiernos/interfaz/government-model";
-import { people, portraits, organizations } from "./catalogo";
+import { people, portraits, organizations, findPerson } from "./catalogo";
 import { structureSnapshot } from "../../../Gobiernos/XV Legislatura/estructura";
 const parties = organizations;
 import { congress } from "../../../Elecciones/Generales Noviembre 2026/congreso";
@@ -43,13 +43,12 @@ it("todos los gabinetes y órganos tienen fichas y niveles independientes", () =
     for (const c of g.cabinets) {
       expect(c.members.filter((m) => m.level === "president")).toHaveLength(1);
       expect(c.members.length).toBeGreaterThan(10);
-      for (const m of c.members)
-        expect(people.some((p) => p.id === m.person)).toBe(true);
+      for (const m of c.members) expect(findPerson(m.person)).toBeTruthy();
     }
   }
   for (const n of structureSnapshot.nodes) {
-    expect(people.some((p) => p.id === n.person)).toBe(true);
-    expect(people.some((p) => p.id === n.parent)).toBe(true);
+    expect(findPerson(n.person)).toBeTruthy();
+    expect(findPerson(n.parent)).toBeTruthy();
   }
 });
 it("los nombres y retratos no se asignan a una persona por un apellido compartido", () => {

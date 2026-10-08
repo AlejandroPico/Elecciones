@@ -1,11 +1,16 @@
 {
   "birthDate": "1950-02-24",
   "birthYear": 1950,
-  "birth": "24 de febrero de 1950 Madrid ( España )",
+  "birth": "24 de febrero de 1950 · Madrid",
   "personalSources": [
     {
-      "label": "Wikipedia · Miguel Arias Cañete · consulta 7 de octubre de 2026",
+      "label": "Miguel Arias Cañete · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Miguel_Arias_Ca%C3%B1ete",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Miguel Arias Cañete · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1317281#P569",
       "kind": "encyclopedic"
     }
   ]

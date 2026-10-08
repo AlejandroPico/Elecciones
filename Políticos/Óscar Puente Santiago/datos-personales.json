@@ -1,11 +1,16 @@
 {
-  "birth": "15 de noviembre de 1968 Valladolid ( España )",
+  "birth": "15 de noviembre de 1968 · Valladolid",
   "birthYear": 1968,
   "birthDate": "1968-11-15",
   "personalSources": [
     {
-      "label": "Wikipedia · Óscar Puente · consulta 7 de octubre de 2026",
+      "label": "Óscar Puente · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/%C3%93scar_Puente",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Óscar Puente · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q6174903#P569",
       "kind": "encyclopedic"
     }
   ]

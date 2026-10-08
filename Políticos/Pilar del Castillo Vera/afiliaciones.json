@@ -1,0 +1,28 @@
+[
+  {
+    "organization": null,
+    "name": "Organización Comunista de España (Bandera Roja)",
+    "kind": "membership",
+    "source": {
+      "label": "Pilar del Castillo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pilar_del_Castillo",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Pilar del Castillo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pilar_del_Castillo",
+      "kind": "encyclopedic"
+    },
+    "period": "octubre de 2001",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q292095#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

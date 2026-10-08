@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "AP",
+    "kind": "membership",
+    "source": {
+      "label": "Federico Trillo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Federico_Trillo",
+      "kind": "encyclopedic"
+    },
+    "period": "1983-1989"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Federico Trillo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Federico_Trillo",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1989"
+  }
+]

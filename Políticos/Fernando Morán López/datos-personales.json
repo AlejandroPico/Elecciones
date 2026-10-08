@@ -1,11 +1,21 @@
 {
   "birthDate": "1926-03-25",
   "birthYear": 1926,
-  "birth": "25 de marzo de 1926 Avilés ( España )",
+  "birth": "25 de marzo de 1926 · Avilés",
   "personalSources": [
     {
-      "label": "Wikipedia · Fernando Morán López · consulta 7 de octubre de 2026",
+      "label": "Fernando Morán López · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Fernando_Mor%C3%A1n_L%C3%B3pez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Morán López · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3069513#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Morán López · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3069513#P570",
       "kind": "encyclopedic"
     }
   ],

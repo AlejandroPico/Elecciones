@@ -1,11 +1,21 @@
 {
   "birthDate": "1912-04-30",
   "birthYear": 1912,
-  "birth": "30 de abril de 1912 Madrid ( España )",
+  "birth": "30 de abril de 1912 · Madrid",
   "personalSources": [
     {
-      "label": "Wikipedia · Manuel Gutiérrez Mellado · consulta 7 de octubre de 2026",
+      "label": "Manuel Gutiérrez Mellado · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Manuel_Guti%C3%A9rrez_Mellado",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Gutiérrez Mellado · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2638079#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Gutiérrez Mellado · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2638079#P570",
       "kind": "encyclopedic"
     }
   ],

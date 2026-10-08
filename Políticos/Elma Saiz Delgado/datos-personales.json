@@ -1,11 +1,16 @@
 {
-  "birth": "2 de diciembre de 1975 Pamplona",
+  "birth": "2 de diciembre de 1975 · Pamplona",
   "birthYear": 1975,
   "birthDate": "1975-12-02",
   "personalSources": [
     {
-      "label": "Wikipedia · Elma Saiz · consulta 7 de octubre de 2026",
+      "label": "Elma Saiz · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Elma_Saiz",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Elma Saiz · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q8775044#P569",
       "kind": "encyclopedic"
     }
   ]

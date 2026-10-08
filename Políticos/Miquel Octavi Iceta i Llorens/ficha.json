@@ -2,11 +2,20 @@
   "id": "miquel-octavi-iceta-i-llorens",
   "name": "Miquel Octavi Iceta i Llorens",
   "initials": "MO",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "registro-351",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Política Territorial y Función Pública",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Miquel Octavi Iceta i Llorens",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Miquel Iceta Llorens",
+    "Miquel Iceta"
+  ],
+  "wikidata": "Q3315737",
+  "legacyIds": [
+    "miquel-iceta-llorens"
+  ],
+  "affiliationStatus": "documented"
 }

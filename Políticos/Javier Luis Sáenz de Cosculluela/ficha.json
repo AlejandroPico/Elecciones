@@ -2,15 +2,20 @@
   "id": "javier-luis-saenz-de-cosculluela",
   "name": "Javier Luis Sáenz de Cosculluela",
   "initials": "JL",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Obras Públicas y Urbanismo",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Javier Luis Sáenz de Cosculluela",
   "offices": [],
-  "reviewedAt": "2026-10-07",
+  "reviewedAt": "2026-10-08",
   "legacyIds": [
     "javier-luis-saenz-cosculluela",
     "javier-saenz-cosculluela"
-  ]
+  ],
+  "knownAs": [
+    "Javier Sáenz de Cosculluela"
+  ],
+  "wikidata": "Q3163169",
+  "affiliationStatus": "documented"
 }

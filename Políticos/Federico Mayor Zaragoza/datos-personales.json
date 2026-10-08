@@ -1,11 +1,21 @@
 {
   "birthDate": "1934-01-27",
   "birthYear": 1934,
-  "birth": "27 de enero de 1934 Barcelona ( Provincia de Barcelona, España )",
+  "birth": "27 de enero de 1934 · Barcelona",
   "personalSources": [
     {
-      "label": "Wikipedia · Federico Mayor Zaragoza · consulta 7 de octubre de 2026",
+      "label": "Federico Mayor Zaragoza · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Federico_Mayor_Zaragoza",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Federico Mayor Zaragoza · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q457158#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Federico Mayor Zaragoza · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q457158#P570",
       "kind": "encyclopedic"
     }
   ],

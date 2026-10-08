@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "PCE",
+    "kind": "membership",
+    "source": {
+      "label": "José Luis Ábalos · Wikidata, vinculación política",
+      "url": "https://www.wikidata.org/wiki/Q3820056#P102",
+      "kind": "encyclopedic"
+    },
+    "period": "1978 – 1981"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "José Luis Ábalos · Wikidata, vinculación política",
+      "url": "https://www.wikidata.org/wiki/Q3820056#P102",
+      "kind": "encyclopedic"
+    },
+    "period": "1981 – 2025"
+  }
+]

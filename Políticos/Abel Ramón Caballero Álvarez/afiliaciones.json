@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "PCE",
+    "kind": "membership",
+    "source": {
+      "label": "Abel Caballero · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Caballero",
+      "kind": "encyclopedic"
+    },
+    "period": "antes de 1980"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSdeG-PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Abel Caballero · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Caballero",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1980"
+  }
+]

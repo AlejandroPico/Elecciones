@@ -2,11 +2,17 @@
   "id": "puente",
   "name": "Óscar Puente Santiago",
   "initials": "ÓP",
-  "organization": null,
-  "relation": "Gobierno de España",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Transportes y Movilidad Sostenible",
   "summary": "Ministro de Transportes y Movilidad Sostenible. La ficha reúne formación y carrera profesional recogidas por La Moncloa.",
   "fullName": "Óscar Puente Santiago",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Óscar Puente"
+  ],
+  "wikidata": "Q6174903",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

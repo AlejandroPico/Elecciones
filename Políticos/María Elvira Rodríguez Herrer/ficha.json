@@ -2,11 +2,17 @@
   "id": "maria-elvira-rodriguez-herrer",
   "name": "María Elvira Rodríguez Herrer",
   "initials": "ME",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Medio Ambiente",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "María Elvira Rodríguez Herrer",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Elvira Rodríguez"
+  ],
+  "wikidata": "Q3051830",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

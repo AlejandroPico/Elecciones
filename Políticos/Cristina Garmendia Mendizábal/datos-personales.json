@@ -1,11 +1,21 @@
 {
   "birthDate": "1962-02-21",
   "birthYear": 1962,
-  "birth": "21 de febrero de 1962 San Sebastián ( Guipúzcoa, País Vasco )",
+  "birth": "21 de febrero de 1962 · San Sebastián",
   "personalSources": [
     {
       "label": "Wikipedia · Cristina Garmendia · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Cristina_Garmendia_Mendiz%C3%A1bal",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Cristina Garmendia · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Cristina_Garmendia",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Cristina Garmendia · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q468803#P569",
       "kind": "encyclopedic"
     }
   ]

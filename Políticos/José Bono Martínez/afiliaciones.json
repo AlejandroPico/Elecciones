@@ -1,0 +1,32 @@
+[
+  {
+    "organization": null,
+    "name": "Partido Socialista del Interior",
+    "kind": "membership",
+    "source": {
+      "label": "José Bono · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Bono",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "Partido Socialista Popular (España)",
+    "kind": "membership",
+    "source": {
+      "label": "José Bono · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Bono",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "José Bono · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Bono",
+      "kind": "encyclopedic"
+    }
+  }
+]

@@ -1,11 +1,16 @@
 {
   "birthDate": "1961-09-10",
   "birthYear": 1961,
-  "birth": "10 de septiembre de 1961 Peares, Orense, Galicia, España",
+  "birth": "10 de septiembre de 1961 · Peares",
   "personalSources": [
     {
-      "label": "Wikipedia · Alberto Núñez Feijóo · consulta 7 de octubre de 2026",
+      "label": "Alberto Núñez Feijóo · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alberto Núñez Feijóo · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2457783#P569",
       "kind": "encyclopedic"
     }
   ]

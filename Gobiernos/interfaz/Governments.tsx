@@ -6,7 +6,7 @@ import {
   Pause,
   Play,
 } from "lucide-react";
-import { people } from "../../Políticos/interfaz/datos/catalogo";
+import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
 import { congress } from "../../Elecciones/Generales Noviembre 2026/congreso";
 import { structureSnapshot } from "../XV Legislatura/estructura";
 import { chronology, dateLabel, governments } from "./government-model";
@@ -137,7 +137,7 @@ export default function Governments({
     setPosition(chronology.findIndex((c) => c.id === id));
   }
   const personNode = (m: Member, className = "") => {
-    const p = people.find((p) => p.id === m.person);
+    const p = findPerson(m.person);
     return (
       <button
         key={m.person + m.role}

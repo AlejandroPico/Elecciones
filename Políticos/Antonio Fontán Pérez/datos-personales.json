@@ -1,11 +1,26 @@
 {
   "birthDate": "1923-10-15",
   "birthYear": 1923,
-  "birth": "15 de octubre de 1923 Sevilla ( España )",
+  "birth": "15 de octubre de 1923 · Sevilla",
   "personalSources": [
     {
       "label": "Wikipedia · Antonio Fontán · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Antonio_Font%C3%A1n_P%C3%A9rez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antonio Fontán · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Antonio_Font%C3%A1n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antonio Fontán · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q602033#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antonio Fontán · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q602033#P570",
       "kind": "encyclopedic"
     }
   ],

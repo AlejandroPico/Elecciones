@@ -1,11 +1,26 @@
 {
   "birthDate": "1939-02-05",
   "birthYear": 1939,
-  "birth": "5 de febrero de 1939 San Juan de Luz (Francia)",
+  "birth": "5 de febrero de 1939 · San Juan de Luz",
   "personalSources": [
     {
       "label": "Wikipedia · Miguel Boyer · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Miguel_Boyer_Salvador",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Miguel Boyer · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Miguel_Boyer",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Miguel Boyer · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3312950#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Miguel Boyer · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3312950#P570",
       "kind": "encyclopedic"
     }
   ],

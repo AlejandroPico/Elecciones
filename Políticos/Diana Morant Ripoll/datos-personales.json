@@ -1,11 +1,16 @@
 {
-  "birth": "25 de junio de 1980 Gandía ( España )",
+  "birth": "25 de junio de 1980 · Gandía",
   "birthYear": 1980,
   "birthDate": "1980-06-25",
   "personalSources": [
     {
-      "label": "Wikipedia · Diana Morant · consulta 7 de octubre de 2026",
+      "label": "Diana Morant · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Diana_Morant",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Diana Morant · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q29906177#P569",
       "kind": "encyclopedic"
     }
   ]

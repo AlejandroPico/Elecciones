@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "identity": {
+    "source": {
+      "label": "Ministerio de Defensa · biografía individual de Adoración Mateos (2010)",
+      "url": "https://www.defensa.gob.es/gabinete/notasPrensa/2010/11/DGC_101111_toma_posesion_ley_derechos.html?__locale=es",
+      "kind": "institutional"
+    }
+  },
+  "checked": [
+    "identidad",
+    "nacimiento y fallecimiento",
+    "formación",
+    "cargos",
+    "vinculaciones",
+    "retrato"
+  ],
+  "previousIds": [
+    "mateos"
+  ],
+  "notes": "La página de la Subsecretaría de Defensa no es una biografía de Adoración Mateos. Se descarta la entidad de Wikidata del organismo; nacimiento y formación se documentan en su nombramiento individual de 2010.",
+  "missing": [
+    "Vinculación política no documentada"
+  ]
+}

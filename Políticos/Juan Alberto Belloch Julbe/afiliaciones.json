@@ -1,0 +1,24 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Juan Alberto Belloch · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Alberto_Belloch",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 1996"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE · Aragón",
+    "kind": "membership",
+    "source": {
+      "label": "Juan Alberto Belloch · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Alberto_Belloch",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1996"
+  }
+]

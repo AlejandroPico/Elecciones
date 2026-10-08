@@ -2,11 +2,17 @@
   "id": "pio-cabanillas-gallas",
   "name": "Pío Cabanillas Gallas",
   "initials": "PC",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro Adjunto al Presidente, sin cartera",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Pío Cabanillas Gallas",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Pío Cabanillas"
+  ],
+  "wikidata": "Q3327534",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

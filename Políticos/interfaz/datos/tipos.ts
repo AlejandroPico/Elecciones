@@ -14,10 +14,22 @@ export type Dossier = {
 export type Person = {
   id: string;
   legacyIds?: string[];
+  knownAs?: string[];
+  wikidata?: string;
   name: string;
   fullName?: string;
   initials: string;
   organization: string | null;
+  affiliationStatus?: "documented" | "independent" | "pending";
+  affiliations?: {
+    organization: string | null;
+    name: string;
+    period?: string;
+    kind: "membership" | "association" | "independent";
+    source: Reference;
+    additionalSource?: Reference;
+    note?: string;
+  }[];
   relation: string;
   role: string;
   summary: string;
@@ -25,6 +37,9 @@ export type Person = {
   portrait?: string;
   photoCredit?: string;
   photoSource?: string;
+  photoLicense?: string;
+  photoLicenseUrl?: string;
+  photoDate?: string;
   birth?: string;
   birthDate?: string | null;
   birthYear?: number | null;

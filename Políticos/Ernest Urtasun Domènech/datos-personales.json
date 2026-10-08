@@ -1,11 +1,16 @@
 {
-  "birth": "27 de enero de 1982 Barcelona ( España )",
+  "birth": "27 de enero de 1982 · Barcelona",
   "birthYear": 1982,
   "birthDate": "1982-01-27",
   "personalSources": [
     {
-      "label": "Wikipedia · Ernest Urtasun · consulta 7 de octubre de 2026",
+      "label": "Ernest Urtasun · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Ernest_Urtasun",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ernest Urtasun · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q15564103#P569",
       "kind": "encyclopedic"
     }
   ]

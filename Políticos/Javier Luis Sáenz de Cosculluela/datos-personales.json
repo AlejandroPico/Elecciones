@@ -1,11 +1,21 @@
 {
   "birthDate": "1944-10-11",
   "birthYear": 1944,
-  "birth": "11 de octubre de 1944",
+  "birth": "11 de octubre de 1944 · Logroño",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=321&idLegislatura=VI&mostrarAgenda=false"
+    },
+    {
+      "label": "Javier Sáenz de Cosculluela · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Javier_S%C3%A1enz_de_Cosculluela",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Sáenz de Cosculluela · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3163169#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

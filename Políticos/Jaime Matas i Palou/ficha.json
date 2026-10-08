@@ -2,11 +2,17 @@
   "id": "jaime-matas-i-palou",
   "name": "Jaime Matas i Palou",
   "initials": "JM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Medio Ambiente",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Jaime Matas i Palou",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Jaume Matas"
+  ],
+  "wikidata": "Q1367019",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

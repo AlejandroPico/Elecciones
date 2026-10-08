@@ -1,11 +1,21 @@
 {
   "birthDate": "1944-05-28",
   "birthYear": 1944,
-  "birth": "28 de mayo de 1944 Tafalla",
+  "birth": "28 de mayo de 1944 · Tafalla",
   "personalSources": [
     {
       "label": "Wikipedia · Carlos Solchaga · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Carlos_Solchaga_Catal%C3%A1n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carlos Solchaga · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Solchaga",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carlos Solchaga · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2749496#P569",
       "kind": "encyclopedic"
     }
   ]

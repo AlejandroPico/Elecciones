@@ -1,11 +1,21 @@
 {
   "birthDate": "1949-03-09",
   "birthYear": 1949,
-  "birth": "9 de marzo de 1949 Santander ( España )",
+  "birth": "9 de marzo de 1949 · Santander",
   "personalSources": [
     {
       "label": "Wikipedia · Isabel Tocino · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Isabel_Tocino_Biscarolasaga",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Isabel Tocino · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Isabel_Tocino",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Isabel Tocino · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3154831#P569",
       "kind": "encyclopedic"
     }
   ]

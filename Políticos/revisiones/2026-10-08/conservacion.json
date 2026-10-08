@@ -1,0 +1,603 @@
+{
+  "date": "2026-10-08",
+  "originalIds": [
+    "abel-matutes-juan",
+    "abel-ramon-caballero-alvarez",
+    "adolfo-suarez-gonzalez",
+    "mateos",
+    "agustin-rodriguez-sahagun",
+    "albert-rivera",
+    "alberto-garzon-espinosa",
+    "feijoo",
+    "alberto-oliart-saussol",
+    "alberto-ruiz-gallardon-jimenez",
+    "alejo-vidal-quadras",
+    "alfonso-alonso-aranegui",
+    "alfonso-dastis-quecedo",
+    "alfonso-guerra-gonzalez",
+    "alfredo-perez-rubalcaba",
+    "ana-maria-pastor-julian",
+    "ana-mato-adrover",
+    "ana-palacio-vallelersundi",
+    "redondo",
+    "anna-maria-birules-bertran",
+    "antoni-asuncion-hernandez",
+    "antonio-camacho-vizcaino",
+    "antonio-fontan-perez",
+    "antonio-hernandez-mancha",
+    "antonio-ibanez-freire",
+    "arancha-gonzalez-laya",
+    "espana",
+    "beatriz-corredor-sierra",
+    "bernat-soria-escoms",
+    "bibiana-aido-almagro",
+    "carles-puigdemont",
+    "carlos-bustelo-y-garcia-del-real",
+    "cuerpo",
+    "carlos-romero-herrera",
+    "carlos-solchaga-catalan",
+    "carlos-westendorp-y-cabeza",
+    "carme-chacon-piqueras",
+    "carmen-alborch-bataller",
+    "carmen-calvo-poyato",
+    "carmen-monton-gimenez",
+    "carolina-darias-san-sebastian",
+    "celestino-corbacho-chaves",
+    "celia-villalobos-talero",
+    "cristina-alberdi-alonso",
+    "cristina-garmendia-mendizabal",
+    "cristina-narbona-ruiz",
+    "cristobal-montoro-romero",
+    "cesar-antonio-molina-sanchez",
+    "morant",
+    "dolores-delgado-garcia",
+    "dolors-montserrat-montserrat",
+    "eduardo-zaplana-hernandez-soro",
+    "eduardo-punset-casals",
+    "eduardo-serra-rexach",
+    "elena-salgado-mendez",
+    "saiz",
+    "enrique-baron-crespo",
+    "enrique-fuentes-quintana",
+    "enrique-mugica-herzog",
+    "enrique-sanchez-de-leon-perez",
+    "urtasun",
+    "ernesto-lluch-martin",
+    "esperanza-aguirre-y-gil-de-biedma",
+    "federico-mayor-zaragoza",
+    "federico-trillo-figueroa-y-martinez-conde",
+    "felipe-gonzalez-marquez",
+    "fernando-abril-martorell",
+    "marlaska",
+    "fernando-ledesma-bartret",
+    "fernando-moran-lopez",
+    "francisco-caamano-dominguez",
+    "francisco-fernandez-ordonez",
+    "francisco-alvarez-cascos-fernandez",
+    "fatima-banez-garcia",
+    "bolanos",
+    "felix-manuel-perez-miyares",
+    "felix-pons-irazazabal",
+    "gabriel-rufian",
+    "gustavo-suarez-pertierra",
+    "hector-gomez-hernandez",
+    "ignacio-bayon-marine",
+    "ignacio-camunas",
+    "ines-arrimadas",
+    "ione-belarra-urteaga",
+    "irene-montero-gil",
+    "isabel-celaa-dieguez",
+    "isabel-garcia-tejerina",
+    "isabel-diaz-ayuso",
+    "rodriguez",
+    "isabel-tocino-biscarolasaga",
+    "inigo-cavero-lataillade",
+    "jaime-garcia-anoveros",
+    "jaime-lamo-de-espinosa-y-michels-de-champourcin",
+    "jaime-matas-i-palou",
+    "jaime-mayor-oreja",
+    "javier-arenas-bocanegra",
+    "javier-fernandez",
+    "javier-gomez-navarro-navarrete",
+    "javier-luis-saenz-de-cosculluela",
+    "javier-moscoso-del-prado-y-munoz",
+    "javier-solana-madariaga",
+    "jeronimo-saavedra-acevedo",
+    "jesus-caldera-sanchez-capitan",
+    "jesus-maria-posada-moreno",
+    "jesus-posada-moreno",
+    "jesus-sancho-rof",
+    "joan-clos-i-matheu",
+    "joan-subirats-humet",
+    "joaquin-almunia-amann",
+    "joaquin-garrigues-walker",
+    "hereu",
+    "jordi-sevilla-segura",
+    "jordi-sole-tura",
+    "jorge-fernandez-diaz",
+    "jorge-semprun-y-maura",
+    "josep-borrell-fontelles",
+    "josep-pique-i-camps",
+    "jose-antonio-alonso-suarez",
+    "jose-antonio-grinan-martinez",
+    "jose-barrionuevo-pena",
+    "jose-blanco-lopez",
+    "jose-bono-martinez",
+    "jose-claudio-aranzadi-martinez",
+    "jose-enrique-martinez-genique",
+    "jose-guirao",
+    "jose-ignacio-wert-ortega",
+    "jose-llado-y-fernandez-urrutia",
+    "jose-luis-corcuera-cuesta",
+    "jose-luis-escriva",
+    "jose-luis-escriva-belmonte",
+    "jose-luis-garcia-ferrero",
+    "jose-luis-alvarez-alvarez",
+    "jose-luis-leal-maldonado",
+    "jose-luis-rodriguez-zapatero",
+    "jose-luis-abalos-meco",
+    "sanchez-martinez",
+    "albares",
+    "jose-manuel-garcia-margallo-y-marfil",
+    "jose-manuel-otero-novas",
+    "jose-manuel-rodriguez-uribes",
+    "jose-manuel-romay-beccaria",
+    "jose-manuel-soria-lopez",
+    "jose-maria-aznar-lopez",
+    "jose-maria-maravall-herrero",
+    "jose-maria-michavila-nunez",
+    "jose-minones-conde",
+    "jose-montilla-aguilera",
+    "jose-pedro-perez-llorca-y-rodrigo",
+    "juan-alberto-belloch-julbe",
+    "juan-antonio-garcia-diez",
+    "juan-antonio-ortega-y-diaz-ambrona",
+    "juan-carlos-aparicio-perez",
+    "juan-carlos-campo-moreno",
+    "juan-costa-climent",
+    "juan-fernando-lopez-aguilar",
+    "juan-ignacio-zoido-alvarez",
+    "juan-jose-lucas-jimenez",
+    "juan-jose-roson-perez",
+    "juan-lerma-blasco",
+    "juan-majo-cruzate",
+    "juan-manuel-eguiagaray-ucelay",
+    "juan-manuel-moreno",
+    "juan-rovira-tarazona",
+    "julia-garcia-valdecasas-salgado",
+    "julian-campo-sainz-de-rozas",
+    "julian-garcia-valverde",
+    "julian-garcia-vargas",
+    "landelino-lavilla-alsina",
+    "leire-pajin-iraola",
+    "leopoldo-calvo-sotelo-y-bustelo",
+    "loyola-de-palacio-del-valle-lersundi",
+    "luis-carlos-croissier-batista",
+    "luis-de-guindos-jurado",
+    "luis-gamir-casares",
+    "luis-gonzalez-seara",
+    "luis-manuel-cosculluela-montaner",
+    "luis-martinez-noval",
+    "luis-maria-atienza-serna",
+    "luis-ortiz-gonzalez",
+    "planas",
+    "magdalena-valerio-cordero",
+    "magdalena-alvarez-arza",
+    "manuel-castells-olivan",
+    "manuel-clavero-arevalo",
+    "manuel-fraga",
+    "manuel-gutierrez-mellado",
+    "manuel-jimenez-de-parga-cabrera",
+    "manuel-chaves-gonzalez",
+    "manuel-nunez-perez",
+    "manuel-pimentel-siles",
+    "marcelino-oreja-aguirre",
+    "margarita-mariscal-de-gante-y-miron",
+    "robles",
+    "mariano-fernandez-bermejo",
+    "rajoy",
+    "valcarce",
+    "maria-antonia-trujillo-rincon",
+    "maria-del-carmen-calvo-poyato",
+    "cospedal",
+    "elena-espinosa-mangana",
+    "maria-elvira-rodriguez-herrer",
+    "maria-fatima-banez-garcia",
+    "maria-isabel-celaa-dieguez",
+    "maria-jesus-montero-cuadrado",
+    "maria-jesus-sansegundo-gomez-de-cadinanos",
+    "maria-luisa-carcedo",
+    "maria-soraya-saenz-de-santamaria-anton",
+    "maria-teresa-fernandez-de-la-vega-sanz",
+    "maria-angeles-amador-millan",
+    "matilde-fernandez-sanz",
+    "matias-rodriguez-inciarte",
+    "mercedes-cabrera-calvo-sotelo",
+    "meritxell-batet-lamana",
+    "miguel-arias-canete",
+    "miguel-boyer-salvador",
+    "miguel-sebastian-gascon",
+    "miguel-angel-moratinos-cuyaube",
+    "tolon",
+    "miquel-iceta-llorens",
+    "miquel-octavi-iceta-i-llorens",
+    "maxim-huerta-hernandez",
+    "garcia",
+    "nadia-calvino-santamaria",
+    "nadia-maria-calvino-santamaria",
+    "narcis-serra-i-serra",
+    "oriol-junqueras",
+    "bustinduy",
+    "pablo-casado",
+    "pablo-iglesias-turrion",
+    "pedro-duque-duque",
+    "pedro-francisco-duque-duque",
+    "morenes",
+    "pedro-solbes-mira",
+    "sanchez",
+    "pilar-alegria",
+    "pilar-alegria-continente",
+    "pilar-del-castillo-vera",
+    "pilar-llop-cuenca",
+    "pio-cabanillas-alonso",
+    "pio-cabanillas-gallas",
+    "rafael-arias-salgado-y-montalvo",
+    "rafael-calvo-ortega",
+    "rafael-catala-polo",
+    "ramon-jauregui-atondo",
+    "raquel-sanchez-jimenez",
+    "reyes-maroto-illera",
+    "ricardo-de-la-cierva-y-hoces",
+    "rodolfo-martin-villa",
+    "rodrigo-de-rato-y-figaredo",
+    "roman-escolano-olivares",
+    "rosa-aguilar-rivero",
+    "rosa-conde-gutierrez-del-alamo",
+    "salvador-illa-roca-el-boe-publica-su-cese-el-27-de-enero-de-2021",
+    "salvador-sanchez-teran-hernandez",
+    "santiago-abascal",
+    "santiago-rodriguez-miranda",
+    "aagesen",
+    "sebastian-martin-retortillo-y-baquer",
+    "rego",
+    "soledad-becerril-bustamante",
+    "teresa-ribera-rodriguez",
+    "tomas-de-la-quadra-salcedo-y-fernandez-del-castillo",
+    "trinidad-jimenez-garcia-herrera",
+    "valeriano-gomez-sanchez",
+    "vicente-albero-silla",
+    "virgilio-zapatero-gomez",
+    "diaz",
+    "alvaro-nadal-belda",
+    "angel-acebes-paniagua",
+    "angel-gabilondo-pujol",
+    "torres",
+    "angeles-gonzalez-sinde-reig",
+    "inigo-de-la-serna-hernaiz",
+    "inigo-mendez-de-vigo-y-montojo",
+    "lopez",
+    "puente"
+  ],
+  "resources": [
+    {
+      "person": "abel-ramon-caballero-alvarez",
+      "file": "retrato.jpg",
+      "sha256": "d104ed8cea44de31a84462dbda110cd6112560be7c5b111b1e5df7ae19feeff9"
+    },
+    {
+      "person": "adolfo-suarez-gonzalez",
+      "file": "retrato.jpg",
+      "sha256": "a174ad1c8c55b85cb3e47711febf7f554e7d32945195344b618ae0c0891f07d8"
+    },
+    {
+      "person": "agustin-rodriguez-sahagun",
+      "file": "retrato.jpg",
+      "sha256": "5834c77009724741b0d8c12742b1289ea795f4e034de04821fb4a0aa8be5f91c"
+    },
+    {
+      "person": "feijoo",
+      "file": "retrato.jpg",
+      "sha256": "38a0f970efe9852b45df62b82f426b46a120134d2f5dd75719ae6290b9f45b43"
+    },
+    {
+      "person": "alberto-oliart-saussol",
+      "file": "retrato.jpg",
+      "sha256": "031cbd6b65b2cc3d95bdcda3b8cde01ca4e0767e1a7dae2a8ecbf63534c90b65"
+    },
+    {
+      "person": "alfonso-alonso-aranegui",
+      "file": "retrato.jpg",
+      "sha256": "12773e5c29e87f0e3987b931707846379bc0414fe25c3bafc0a7d0edab086d44"
+    },
+    {
+      "person": "alfredo-perez-rubalcaba",
+      "file": "retrato.jpg",
+      "sha256": "19d355b47865aae8cb3062faaafcc02a7af38c1be7cd40447bf1e9d6f67b66d8"
+    },
+    {
+      "person": "ana-maria-pastor-julian",
+      "file": "retrato.jpg",
+      "sha256": "319f7c284235491f6a8b7bedd781e47e895294dcc511038308d110592c9f28e7"
+    },
+    {
+      "person": "redondo",
+      "file": "retrato.jpg",
+      "sha256": "a241aac32835e8f1490e91df7ce847981350a1f5685845005918112287b26c32"
+    },
+    {
+      "person": "espana",
+      "file": "retrato.jpg",
+      "sha256": "a06ecd17a7e1ea4e7fbe7bdefba6159648304ad833b94c87b5a5cfba48626cb4"
+    },
+    {
+      "person": "cuerpo",
+      "file": "retrato.png",
+      "sha256": "65c565c1e8dc75f383b51229af36cd3e6a62af9466f62d1373cb686d9f32ab61"
+    },
+    {
+      "person": "carlos-romero-herrera",
+      "file": "retrato.jpg",
+      "sha256": "b728ddc03b495e6e0e9f0ae9a2cffb5ac7c48f152086bcfe312a181b7b8a867c"
+    },
+    {
+      "person": "carme-chacon-piqueras",
+      "file": "retrato.jpg",
+      "sha256": "54afab9342c156a6bc64b56deda2a93cceeb5edb2378befc7dd251b7d64c7ced"
+    },
+    {
+      "person": "carmen-calvo-poyato",
+      "file": "retrato.jpg",
+      "sha256": "838426028c7f069c94f12aff026ab15d2ad5934c33b1f997cfd0aa7c543bfa7a"
+    },
+    {
+      "person": "cristina-alberdi-alonso",
+      "file": "retrato.jpg",
+      "sha256": "b6b870ed8c1d0b8ff897962fd7965425b866acb83ec1ceb434a3caf79ceb4c6a"
+    },
+    {
+      "person": "cristina-narbona-ruiz",
+      "file": "retrato.jpg",
+      "sha256": "b822ee9d498075a72be77097101b708718e0d3df0417e17d4f98a935edb00039"
+    },
+    {
+      "person": "morant",
+      "file": "retrato.jpg",
+      "sha256": "7136a78a5d4ba2e901c97292998d816055a52fc491c9f9c9444fd49b1dd148d7"
+    },
+    {
+      "person": "dolors-montserrat-montserrat",
+      "file": "retrato.jpg",
+      "sha256": "196a97bfbeda5c94b0db2064eb68ebba9aeb5cef2ca54005772dfdb61e0be173"
+    },
+    {
+      "person": "saiz",
+      "file": "retrato.jpg",
+      "sha256": "e7a49c838899202b11b4d2b83fbf1434a4c1e9008b01941f33f8130491915e84"
+    },
+    {
+      "person": "enrique-sanchez-de-leon-perez",
+      "file": "retrato.jpg",
+      "sha256": "51f70b814528aae9c09ad7671ca9ad105a5fe65b108d5c2ea738bb67dc42c565"
+    },
+    {
+      "person": "urtasun",
+      "file": "retrato.jpg",
+      "sha256": "11ccc8e1847480c81fe16cd94536ef42ae824fd38f359a82ae7efc34752cd4c7"
+    },
+    {
+      "person": "felipe-gonzalez-marquez",
+      "file": "retrato.jpg",
+      "sha256": "125d5c9c4beda8b5cd8c22ba6a6d71c6d1f6a7b56d4a62083102899f648d3413"
+    },
+    {
+      "person": "marlaska",
+      "file": "retrato.jpg",
+      "sha256": "765370775330721e241f544cfe014f0b6bfd05a21d8d8eebc448870c09b4e091"
+    },
+    {
+      "person": "bolanos",
+      "file": "retrato.jpg",
+      "sha256": "5451e05c263afb4271ac85d84d4db0eb169edd78dcc5ba8c9908c4216cc3611d"
+    },
+    {
+      "person": "felix-manuel-perez-miyares",
+      "file": "retrato.jpg",
+      "sha256": "49eb80285a287c1a045be44bee74a1463dea26db25e874c3ea75182236646a97"
+    },
+    {
+      "person": "irene-montero-gil",
+      "file": "retrato.jpg",
+      "sha256": "fcf1ec1a6fe4e1e395fefe7413d0d9c734ffb826f046901b1003e3ad0947db7f"
+    },
+    {
+      "person": "rodriguez",
+      "file": "retrato.jpg",
+      "sha256": "c756e5791afcf566620242768b1914677931fabe664b99daee03f1a102707f1a"
+    },
+    {
+      "person": "jaime-garcia-anoveros",
+      "file": "retrato.jpg",
+      "sha256": "69916b3667318c5e289cd9875e3273e20e9d30368e0adf10e7a8642c5fc9de6d"
+    },
+    {
+      "person": "javier-fernandez",
+      "file": "retrato.jpg",
+      "sha256": "d9ed54bf7879c5558878869eaacb049e42049a0a30e42fa7f8193861f6c4c054"
+    },
+    {
+      "person": "javier-luis-saenz-de-cosculluela",
+      "file": "retrato.jpg",
+      "sha256": "4b34c8c46c0f60acf882f31de44e2e4f2ff42099ca8fa9e3a2294e6bfa2ffa04"
+    },
+    {
+      "person": "javier-moscoso-del-prado-y-munoz",
+      "file": "retrato.jpg",
+      "sha256": "723003dd9f273252d96442747c386414d0cedf22b16bdc5d4798f11f0cd9a5d5"
+    },
+    {
+      "person": "jesus-sancho-rof",
+      "file": "retrato.jpg",
+      "sha256": "12832fef8bebe024ca687380340bf0699f0de76374f2f8209a4ee7ab277ce6ee"
+    },
+    {
+      "person": "joaquin-almunia-amann",
+      "file": "retrato.jpg",
+      "sha256": "1fd4a7c1ff3e3851221859f80f05ca4cb92d849da846c89cebd4b9350b0d687d"
+    },
+    {
+      "person": "joaquin-garrigues-walker",
+      "file": "retrato.jpg",
+      "sha256": "7fc72d08fcdced80f785529352650da4b892882692423c66137f61d7df82d52e"
+    },
+    {
+      "person": "hereu",
+      "file": "retrato.jpg",
+      "sha256": "1d3cc1275d3392862532fa660d6af121e716e9a6b3cc8a501bbdcef14669b918"
+    },
+    {
+      "person": "jorge-fernandez-diaz",
+      "file": "retrato.jpg",
+      "sha256": "dcfc453f2500369f1c15c402aadeca458a818c630ad86778b06af47aca9b731f"
+    },
+    {
+      "person": "jose-blanco-lopez",
+      "file": "retrato.jpg",
+      "sha256": "c8be75c6a279cc2716bfe1871ca96629bfe076c28b2c38a27929b9d935bedef6"
+    },
+    {
+      "person": "jose-luis-rodriguez-zapatero",
+      "file": "retrato.jpg",
+      "sha256": "513a40087b42e0ab935c7c7d22b3f852e8e9a70b38eaaf11c616064f2b5bb559"
+    },
+    {
+      "person": "albares",
+      "file": "retrato.jpg",
+      "sha256": "eeaca12fde06b4927f24bf6501d521e905d175e760269d81280c3f0f53ebe52d"
+    },
+    {
+      "person": "jose-maria-aznar-lopez",
+      "file": "retrato.jpg",
+      "sha256": "e670d1927858ec79e9c6153b953897803f9cd0d6e8051193ab407d5e1a7c24df"
+    },
+    {
+      "person": "juan-antonio-garcia-diez",
+      "file": "retrato.jpg",
+      "sha256": "edeff573d140ecbe28d663bf3b4fe3b36e62d126999456f669494d9e48cc8714"
+    },
+    {
+      "person": "juan-carlos-campo-moreno",
+      "file": "retrato.jpg",
+      "sha256": "68c87d7aac5eb6d258086bfad5ba10beab7ece198a727af25fb1a0ccdc2e71b7"
+    },
+    {
+      "person": "juan-fernando-lopez-aguilar",
+      "file": "retrato.jpg",
+      "sha256": "b53cf738abcad761d84e4a085628f6348ee50dd86aa9391419abc5044a06e856"
+    },
+    {
+      "person": "leopoldo-calvo-sotelo-y-bustelo",
+      "file": "retrato.jpg",
+      "sha256": "cceadbf308b2f22f38dd768037f6c48b81dbde5643e8908838efc68fd19ca184"
+    },
+    {
+      "person": "planas",
+      "file": "retrato.jpg",
+      "sha256": "6d426271c485c1ac2c58549fc0ca4ec4ea5fd89d5b32aec89eb329bdf11e8f72"
+    },
+    {
+      "person": "manuel-fraga",
+      "file": "retrato.jpg",
+      "sha256": "69ab9a8feb3e4dc7a259c54482d7af832bd64ba057867e3772ab8d29c2490246"
+    },
+    {
+      "person": "robles",
+      "file": "retrato.jpg",
+      "sha256": "1476aec10b6450e7681a07b1a418daaae5bfb31f987512b350b44dda614bdadf"
+    },
+    {
+      "person": "rajoy",
+      "file": "retrato.jpg",
+      "sha256": "aaa989e0d0464e8563b9e162ccada45ac2ebb5cdd6a8cdfa6f7f8aae8482face"
+    },
+    {
+      "person": "cospedal",
+      "file": "retrato.jpg",
+      "sha256": "8f6c460d4d84dfacef1bdae5bfffa51ec43f78e8cbbe6d646c5f6eeb358550f7"
+    },
+    {
+      "person": "elena-espinosa-mangana",
+      "file": "retrato.jpg",
+      "sha256": "f79524636fbee556014f0518469778db0f3bb5ff01bd93a66ebc396fba73df62"
+    },
+    {
+      "person": "maria-soraya-saenz-de-santamaria-anton",
+      "file": "retrato.jpg",
+      "sha256": "10b4485f3f4b3e37f373a6560bec2575dcb1d8c9bab35e9d8cbec78f44569b2b"
+    },
+    {
+      "person": "tolon",
+      "file": "retrato.png",
+      "sha256": "61ee9d1959f6be8bb150d8d46012a632dffcfef181173765b33edef2a58c623e"
+    },
+    {
+      "person": "garcia",
+      "file": "retrato.jpg",
+      "sha256": "c790cb889c178f3bcd1daa209ed0734ae70d4339e01f07c4c9c960448a8a6005"
+    },
+    {
+      "person": "bustinduy",
+      "file": "retrato.jpg",
+      "sha256": "ae024f77a206118d5766311a155b2ede4bd413193e705cafd0a4dfbdbf4e2da5"
+    },
+    {
+      "person": "pablo-casado",
+      "file": "retrato.jpg",
+      "sha256": "7947069149bab01b58ec41a5d51499578957e31f5bd6ff62afc0c7f31dfbea3a"
+    },
+    {
+      "person": "sanchez",
+      "file": "retrato.jpg",
+      "sha256": "6a46dacd6330fbfe0b07bdfda7df63e6781a1a22cca8bd70170ac1e94bc4ff36"
+    },
+    {
+      "person": "pio-cabanillas-gallas",
+      "file": "retrato.jpg",
+      "sha256": "bb8a4524de50bd1c002d2b6321b1f0063b178f41549dc95f430d2b92aca168f7"
+    },
+    {
+      "person": "rosa-conde-gutierrez-del-alamo",
+      "file": "retrato.jpg",
+      "sha256": "2d49bb71987d43898387475c46b1e441309cabcfdd73029ac49bcee72d401ff4"
+    },
+    {
+      "person": "aagesen",
+      "file": "retrato.png",
+      "sha256": "6a302f353630f3ca9c5ac86a2b75cec187e60106c99d6ab39c3008ad00fa3dc4"
+    },
+    {
+      "person": "rego",
+      "file": "retrato.jpg",
+      "sha256": "54fcad12a156523fca97fd92d3da135d90b50393fdf085d572930c987c992146"
+    },
+    {
+      "person": "diaz",
+      "file": "retrato.jpg",
+      "sha256": "6067f2e45c85dd64f41133479e6730201a4197c1def0b972e07e0a54f2b14c42"
+    },
+    {
+      "person": "torres",
+      "file": "retrato.jpg",
+      "sha256": "50a46e5d245dd10889cbed8525ea1488f16e4ea1104c7cb361616dbc21689645"
+    },
+    {
+      "person": "lopez",
+      "file": "retrato.png",
+      "sha256": "050b7091946b87ce5961e6a5ecd20c9e19f671531fbc934b3a03fba1f12bcd57"
+    },
+    {
+      "person": "puente",
+      "file": "retrato.jpg",
+      "sha256": "405a2bcb21ffd225e1f04e53c72f8731487284e982d2d27c6defc6d1bcdb790c"
+    }
+  ]
+}

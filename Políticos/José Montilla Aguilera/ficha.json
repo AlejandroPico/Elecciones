@@ -2,11 +2,17 @@
   "id": "jose-montilla-aguilera",
   "name": "José Montilla Aguilera",
   "initials": "JM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "registro-351",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Industria, Turismo y Comercio",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "José Montilla Aguilera",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "José Montilla"
+  ],
+  "wikidata": "Q465464",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

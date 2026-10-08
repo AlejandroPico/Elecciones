@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Bernat Soria · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Bernat_Soria",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Bernat Soria · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Bernat_Soria",
+      "kind": "encyclopedic"
+    }
+  }
+]

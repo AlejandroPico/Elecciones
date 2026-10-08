@@ -1,5 +1,11 @@
 import { expect, it } from "vitest";
-import { people, organizations, offices, candidacies } from "./datos/catalogo";
+import {
+  people,
+  organizations,
+  offices,
+  candidacies,
+  findPerson,
+} from "./datos/catalogo";
 it("todas las relaciones del archivo tienen destino y las etapas tienen fuente", () => {
   expect(new Set(people.map((p) => p.id)).size).toBe(people.length);
   for (const p of people) {
@@ -16,12 +22,10 @@ it("todas las relaciones del archivo tienen destino y las etapas tienen fuente",
   }
   for (const o of offices)
     for (const m of o.members)
-      expect(
-        people.some((p) => p.id === m.person && p.offices.includes(o.id)),
-      ).toBe(true);
+      expect(findPerson(m.person)?.offices.includes(o.id)).toBe(true);
   for (const o of organizations)
     for (const h of o.history)
-      if (h.person) expect(people.some((p) => p.id === h.person)).toBe(true);
+      if (h.person) expect(findPerson(h.person)).toBeTruthy();
 });
 it("no convierte las biografías ni los documentos históricos en candidaturas de 2026", () => {
   expect(candidacies).toEqual([]);

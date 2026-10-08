@@ -1,11 +1,26 @@
 {
   "birthDate": "1951-07-12",
   "birthYear": 1951,
-  "birth": "12 de julio de 1951 Manises ( España )",
+  "birth": "12 de julio de 1951 · Manises",
   "personalSources": [
     {
       "label": "Wikipedia · Antoni Asunción · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Antoni_Asunci%C3%B3n_Hern%C3%A1ndez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antoni Asunción · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Antoni_Asunci%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antoni Asunción · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2748839#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antoni Asunción · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2748839#P570",
       "kind": "encyclopedic"
     }
   ],

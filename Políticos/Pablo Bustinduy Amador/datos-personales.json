@@ -1,4 +1,17 @@
 {
-  "birth": "Nacido en Madrid en 1983",
-  "birthYear": 1983
+  "birth": "19 de marzo de 1983 · Madrid",
+  "birthYear": 1983,
+  "birthDate": "1983-03-19",
+  "personalSources": [
+    {
+      "label": "Pablo Bustinduy · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pablo_Bustinduy",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Pablo Bustinduy · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q27999127#P569",
+      "kind": "encyclopedic"
+    }
+  ]
 }

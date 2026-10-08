@@ -1,11 +1,21 @@
 {
   "birthDate": "1947-09-07",
   "birthYear": 1947,
-  "birth": "7 de septiembre de 1947",
+  "birth": "7 de septiembre de 1947 · Ronda",
   "personalSources": [
     {
       "label": "Fuente institucional · identificación personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=44&idLegislatura=V&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal"
+    },
+    {
+      "label": "Rosa Conde · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Conde",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Rosa Conde · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3442076#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

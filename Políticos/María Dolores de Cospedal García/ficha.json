@@ -1,14 +1,20 @@
 {
   "id": "cospedal",
-  "name": "María Dolores de Cospedal",
-  "initials": "MC",
+  "name": "María Dolores de Cospedal García",
+  "initials": "MD",
   "organization": "pp",
-  "relation": "Partido Popular",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Defensa · 2016–2018",
   "summary": "Ocupó el Ministerio de Defensa durante el segundo Gobierno de Mariano Rajoy. La secuencia de titulares permite pasar de su ficha a la de su antecesor, Pedro Morenés, y a la de su sucesora, Margarita Robles.",
   "fullName": "María Dolores de Cospedal García",
   "offices": [
     "defensa"
   ],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "María Dolores de Cospedal"
+  ],
+  "wikidata": "Q271658",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

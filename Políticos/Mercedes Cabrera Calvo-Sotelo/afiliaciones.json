@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Mercedes Cabrera · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mercedes_Cabrera",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Mercedes Cabrera · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Mercedes_Cabrera",
+      "kind": "encyclopedic"
+    }
+  }
+]

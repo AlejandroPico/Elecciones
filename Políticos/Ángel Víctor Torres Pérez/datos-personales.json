@@ -1,11 +1,16 @@
 {
-  "birth": "30 de marzo de 1966 Arucas, Las Palmas, España",
+  "birth": "30 de marzo de 1966 · Arucas",
   "birthYear": 1966,
   "birthDate": "1966-03-30",
   "personalSources": [
     {
-      "label": "Wikipedia · Ángel Víctor Torres · consulta 7 de octubre de 2026",
+      "label": "Ángel Víctor Torres · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/%C3%81ngel_V%C3%ADctor_Torres",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ángel Víctor Torres · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q14100014#P569",
       "kind": "encyclopedic"
     }
   ]

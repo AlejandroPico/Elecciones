@@ -1,11 +1,21 @@
 {
   "birthDate": "1942-04-07",
   "birthYear": 1942,
-  "birth": "7 de abril de 1942 Madrid",
+  "birth": "7 de abril de 1942 · Madrid",
   "personalSources": [
     {
       "label": "Wikipedia · José María Maravall · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Maravall_Herrero",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José María Maravall · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Maravall",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José María Maravall · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2719795#P569",
       "kind": "encyclopedic"
     }
   ]

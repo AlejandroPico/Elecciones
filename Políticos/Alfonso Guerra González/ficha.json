@@ -2,11 +2,17 @@
   "id": "alfonso-guerra-gonzalez",
   "name": "Alfonso Guerra González",
   "initials": "AG",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Vicepresidente del Gobierno",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Alfonso Guerra González",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Alfonso Guerra"
+  ],
+  "wikidata": "Q2655704",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

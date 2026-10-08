@@ -1,0 +1,35 @@
+[
+  {
+    "organization": "registro-71",
+    "name": "CDC",
+    "kind": "membership",
+    "source": {
+      "label": "Artur Mas · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Artur_Mas",
+      "kind": "encyclopedic"
+    },
+    "period": "1991-2016"
+  },
+  {
+    "organization": null,
+    "name": "Partido Demócrata Europeo Catalán",
+    "kind": "membership",
+    "source": {
+      "label": "Artur Mas · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Artur_Mas",
+      "kind": "encyclopedic"
+    },
+    "period": "2016-2023"
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Artur Mas · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Artur_Mas",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2023"
+  }
+]

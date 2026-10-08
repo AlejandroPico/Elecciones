@@ -1,0 +1,56 @@
+[
+  {
+    "organization": null,
+    "name": "PCE",
+    "kind": "membership",
+    "source": {
+      "label": "Rosa Aguilar · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Aguilar",
+      "kind": "encyclopedic"
+    },
+    "period": "1974-2009"
+  },
+  {
+    "organization": "iu",
+    "name": "IU",
+    "kind": "membership",
+    "source": {
+      "label": "Rosa Aguilar · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Aguilar",
+      "kind": "encyclopedic"
+    },
+    "period": "1986-2009"
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Rosa Aguilar · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Aguilar",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Rosa Aguilar · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Aguilar",
+      "kind": "encyclopedic"
+    },
+    "period": "2009-2014"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE · Andalucía",
+    "kind": "membership",
+    "source": {
+      "label": "Rosa Aguilar · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Aguilar",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2014"
+  }
+]

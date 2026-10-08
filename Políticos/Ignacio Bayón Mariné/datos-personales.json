@@ -1,11 +1,26 @@
 {
   "birthDate": "1944-02-14",
   "birthYear": 1944,
-  "birth": "14 de febrero de 1944 Madrid ( España )",
+  "birth": "14 de febrero de 1944 · Madrid",
   "personalSources": [
     {
       "label": "Wikipedia · Ignacio Bayón · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Ignacio_Bay%C3%B3n_Marin%C3%A9",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ignacio Bayón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ignacio_Bay%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ignacio Bayón · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q5913103#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ignacio Bayón · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q5913103#P570",
       "kind": "encyclopedic"
     }
   ],

@@ -1,11 +1,21 @@
 {
   "birthDate": "1940-05-30",
   "birthYear": 1940,
-  "birth": "30 de mayo de 1940 Sevilla (España)",
+  "birth": "30 de mayo de 1940 · Sevilla",
   "personalSources": [
     {
       "label": "Wikipedia · Alfonso Guerra · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Alfonso_Guerra_Gonz%C3%A1lez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alfonso Guerra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alfonso_Guerra",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alfonso Guerra · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2655704#P569",
       "kind": "encyclopedic"
     }
   ]

@@ -2,11 +2,17 @@
   "id": "jordi-sevilla-segura",
   "name": "Jordi Sevilla Segura",
   "initials": "JS",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Administraciones Públicas",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Jordi Sevilla Segura",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Jordi Sevilla"
+  ],
+  "wikidata": "Q3108429",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

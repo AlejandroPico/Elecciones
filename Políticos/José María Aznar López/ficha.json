@@ -3,12 +3,18 @@
   "name": "José María Aznar López",
   "initials": "JM",
   "organization": "pp",
-  "relation": "Partido Popular",
+  "relation": "Vinculación política documentada",
   "role": "Presidente del Gobierno",
   "summary": "Presidente del Gobierno de España. La ficha reúne los periodos de gobierno documentados y los datos académicos de su biografía institucional.",
   "fullName": "José María Aznar López",
   "offices": [
     "presidencia"
   ],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "José María Aznar"
+  ],
+  "wikidata": "Q55637",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

@@ -1,11 +1,16 @@
 {
   "birthDate": "1964-02-11",
   "birthYear": 1964,
-  "birth": "11 de febrero de 1964 Madrid, España España",
+  "birth": "11 de febrero de 1964 · Madrid",
   "personalSources": [
     {
-      "label": "Wikipedia · Antonio Camacho Vizcaíno · consulta 7 de octubre de 2026",
+      "label": "Antonio Camacho Vizcaíno · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Antonio_Camacho_Vizca%C3%ADno",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Antonio Camacho Vizcaíno · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q601153#P569",
       "kind": "encyclopedic"
     }
   ]

@@ -2,11 +2,17 @@
   "id": "carlos-solchaga-catalan",
   "name": "Carlos Solchaga Catalán",
   "initials": "CS",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Industria y Energía",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Carlos Solchaga Catalán",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Carlos Solchaga"
+  ],
+  "wikidata": "Q2749496",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

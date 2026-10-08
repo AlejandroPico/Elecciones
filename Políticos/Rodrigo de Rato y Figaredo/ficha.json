@@ -2,11 +2,17 @@
   "id": "rodrigo-de-rato-y-figaredo",
   "name": "Rodrigo de Rato y Figaredo",
   "initials": "Rd",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Vicepresidente segundo del Gobierno y ministro de Economía y Hacienda",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Rodrigo de Rato y Figaredo",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Rodrigo Rato"
+  ],
+  "wikidata": "Q455748",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

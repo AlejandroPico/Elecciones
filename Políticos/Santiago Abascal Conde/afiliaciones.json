@@ -1,0 +1,24 @@
+[
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Santiago Abascal · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Santiago_Abascal",
+      "kind": "encyclopedic"
+    },
+    "period": "1994-2013"
+  },
+  {
+    "organization": "vox",
+    "name": "Vox",
+    "kind": "membership",
+    "source": {
+      "label": "Santiago Abascal · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Santiago_Abascal",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2014"
+  }
+]

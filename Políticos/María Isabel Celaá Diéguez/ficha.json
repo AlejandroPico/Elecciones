@@ -2,11 +2,20 @@
   "id": "maria-isabel-celaa-dieguez",
   "name": "María Isabel Celaá Diéguez",
   "initials": "MI",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Educación y Formación Profesional y portavoz del Gobierno",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "María Isabel Celaá Diéguez",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Isabel Celaá Diéguez",
+    "Isabel Celaá"
+  ],
+  "wikidata": "Q9009373",
+  "legacyIds": [
+    "isabel-celaa-dieguez"
+  ],
+  "affiliationStatus": "documented"
 }

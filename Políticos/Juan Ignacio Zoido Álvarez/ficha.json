@@ -2,11 +2,17 @@
   "id": "juan-ignacio-zoido-alvarez",
   "name": "Juan Ignacio Zoido Álvarez",
   "initials": "JI",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro del Interior",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Juan Ignacio Zoido Álvarez",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Juan Ignacio Zoido"
+  ],
+  "wikidata": "Q2223607",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

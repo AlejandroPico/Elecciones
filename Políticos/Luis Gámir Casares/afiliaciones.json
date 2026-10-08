@@ -1,0 +1,23 @@
+[
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "period": "I legislatura (1979–1982)",
+    "source": {
+      "label": "Congreso de los Diputados · ficha de Luis Gámir en la I legislatura",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=60&idLegislatura=I",
+      "kind": "institutional"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "membership",
+    "source": {
+      "label": "Luis Gámir · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Luis_G%C3%A1mir",
+      "kind": "encyclopedic"
+    }
+  }
+]

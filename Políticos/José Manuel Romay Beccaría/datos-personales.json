@@ -1,11 +1,16 @@
 {
   "birthDate": "1934-01-18",
   "birthYear": 1934,
-  "birth": "18 de enero de 1934 Betanzos, La Coruña, España",
+  "birth": "18 de enero de 1934 · Betanzos",
   "personalSources": [
     {
-      "label": "Wikipedia · José Manuel Romay Beccaría · consulta 7 de octubre de 2026",
+      "label": "José Manuel Romay Beccaría · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Romay_Beccar%C3%ADa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Manuel Romay Beccaría · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3109576#P569",
       "kind": "encyclopedic"
     }
   ]

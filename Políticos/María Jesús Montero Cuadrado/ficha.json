@@ -2,11 +2,17 @@
   "id": "maria-jesus-montero-cuadrado",
   "name": "María Jesús Montero Cuadrado",
   "initials": "MJ",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Hacienda",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "María Jesús Montero Cuadrado",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "María Jesús Montero"
+  ],
+  "wikidata": "Q6003983",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

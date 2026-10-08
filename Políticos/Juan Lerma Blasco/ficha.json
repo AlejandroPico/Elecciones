@@ -2,11 +2,17 @@
   "id": "juan-lerma-blasco",
   "name": "Juan Lerma Blasco",
   "initials": "JL",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro para las Administraciones Públicas",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Juan Lerma Blasco",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Joan Lerma"
+  ],
+  "wikidata": "Q3108026",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

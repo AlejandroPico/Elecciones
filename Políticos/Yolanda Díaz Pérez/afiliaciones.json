@@ -1,0 +1,35 @@
+[
+  {
+    "organization": null,
+    "name": "PCE",
+    "kind": "membership",
+    "source": {
+      "label": "Yolanda Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Yolanda_D%C3%ADaz",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1986"
+  },
+  {
+    "organization": null,
+    "name": "Esquerda Unida",
+    "kind": "membership",
+    "source": {
+      "label": "Yolanda Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Yolanda_D%C3%ADaz",
+      "kind": "encyclopedic"
+    },
+    "period": "1986-2019"
+  },
+  {
+    "organization": "sumar",
+    "name": "Sumar",
+    "kind": "membership",
+    "source": {
+      "label": "Yolanda Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Yolanda_D%C3%ADaz",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2023"
+  }
+]

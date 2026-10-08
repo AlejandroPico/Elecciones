@@ -2,11 +2,17 @@
   "id": "carmen-monton-gimenez",
   "name": "Carmen Montón Giménez",
   "initials": "CM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Sanidad, Consumo y Bienestar Social",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Carmen Montón Giménez",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Carmen Montón"
+  ],
+  "wikidata": "Q4890432",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

@@ -1,0 +1,34 @@
+[
+  {
+    "organization": null,
+    "name": "Unión Democrática de Cataluña",
+    "kind": "membership",
+    "source": {
+      "label": "Quim Torra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Quim_Torra",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 2009"
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Quim Torra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Quim_Torra",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "junts",
+    "name": "JuntsxCat · candidatura de coalición",
+    "kind": "association",
+    "source": {
+      "label": "Quim Torra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Quim_Torra",
+      "kind": "encyclopedic"
+    },
+    "period": "2017–2020"
+  }
+]

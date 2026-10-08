@@ -2,11 +2,17 @@
   "id": "juan-manuel-eguiagaray-ucelay",
   "name": "Juan Manuel Eguiagaray Ucelay",
   "initials": "JM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro para las Administraciones Públicas",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Juan Manuel Eguiagaray Ucelay",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Juan Manuel Eguiagaray"
+  ],
+  "wikidata": "Q2750056",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

@@ -2,11 +2,19 @@
   "id": "jesus-maria-posada-moreno",
   "name": "Jesús María Posada Moreno",
   "initials": "JM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Agricultura, Pesca y Alimentación",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Jesús María Posada Moreno",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Jesús Posada Moreno"
+  ],
+  "wikidata": "Q3109304",
+  "legacyIds": [
+    "jesus-posada-moreno"
+  ],
+  "affiliationStatus": "documented"
 }

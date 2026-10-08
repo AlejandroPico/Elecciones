@@ -1,0 +1,24 @@
+[
+  {
+    "organization": "podemos",
+    "name": "Podemos",
+    "kind": "membership",
+    "source": {
+      "label": "Mónica García Gómez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/M%C3%B3nica_Garc%C3%ADa_G%C3%B3mez",
+      "kind": "encyclopedic"
+    },
+    "period": "2014-2019"
+  },
+  {
+    "organization": null,
+    "name": "Más Madrid",
+    "kind": "membership",
+    "source": {
+      "label": "Mónica García Gómez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/M%C3%B3nica_Garc%C3%ADa_G%C3%B3mez",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2019"
+  }
+]

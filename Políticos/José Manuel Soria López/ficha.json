@@ -2,11 +2,17 @@
   "id": "jose-manuel-soria-lopez",
   "name": "José Manuel Soria López",
   "initials": "JM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Industria, Energía y Turismo",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "José Manuel Soria López",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "José Manuel Soria"
+  ],
+  "wikidata": "Q1336629",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

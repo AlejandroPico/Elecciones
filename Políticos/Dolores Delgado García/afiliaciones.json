@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Dolores Delgado · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Dolores_Delgado",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Dolores Delgado · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Dolores_Delgado",
+      "kind": "encyclopedic"
+    }
+  }
+]

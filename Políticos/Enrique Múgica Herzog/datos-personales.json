@@ -1,12 +1,32 @@
 {
   "birthDate": "1932-02-20",
   "birthYear": 1932,
-  "birth": "20 de febrero de 1932 San Sebastián (España)",
+  "birth": "20 de febrero de 1932 · San Sebastián",
   "personalSources": [
     {
       "label": "Wikipedia · Enrique Múgica · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Enrique_M%C3%BAgica_Herzog",
       "kind": "encyclopedic"
+    },
+    {
+      "label": "Enrique Múgica · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Enrique_M%C3%BAgica",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Enrique Múgica · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3054705#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Enrique Múgica · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3054705#P570",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Defensor del Pueblo · fallecimiento de Enrique Múgica, 11 de abril de 2020",
+      "url": "https://www.defensordelpueblo.es/en/news/enrique-mugica-herzog/",
+      "kind": "institutional"
     }
   ],
   "deathDate": "2020-04-11",

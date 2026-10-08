@@ -1,11 +1,21 @@
 {
   "birthDate": "1952-05-23",
   "birthYear": 1952,
-  "birth": "23 de mayo de 1952 Cartagena ( España )",
+  "birth": "23 de mayo de 1952 · Cartagena",
   "personalSources": [
     {
       "label": "Wikipedia · Federico Trillo · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Federico_Trillo-Figueroa_y_Mart%C3%ADnez-Conde",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Federico Trillo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Federico_Trillo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Federico Trillo · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2878013#P569",
       "kind": "encyclopedic"
     }
   ]

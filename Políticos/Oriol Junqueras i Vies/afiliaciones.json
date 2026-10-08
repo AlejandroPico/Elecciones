@@ -1,0 +1,18 @@
+[
+  {
+    "organization": "erc",
+    "name": "ERC",
+    "kind": "membership",
+    "source": {
+      "label": "Oriol Junqueras · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Oriol_Junqueras",
+      "kind": "encyclopedic"
+    },
+    "period": "2011",
+    "additionalSource": {
+      "label": "Wikidata · periodo de vinculación",
+      "url": "https://www.wikidata.org/wiki/Q116812#P102",
+      "kind": "encyclopedic"
+    }
+  }
+]

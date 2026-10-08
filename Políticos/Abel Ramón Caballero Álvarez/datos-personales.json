@@ -1,11 +1,21 @@
 {
   "birthDate": "1946-09-02",
   "birthYear": 1946,
-  "birth": "2 de septiembre de 1946",
+  "birth": "2 de septiembre de 1946 · Ponteareas",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=233&idLegislatura=VI&mostrarAgenda=false"
+    },
+    {
+      "label": "Abel Caballero · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Caballero",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Abel Caballero · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2821496#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

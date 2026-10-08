@@ -2,11 +2,17 @@
   "id": "planas",
   "name": "Luis Planas Puchades",
   "initials": "LP",
-  "organization": null,
-  "relation": "Gobierno de España",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Agricultura, Pesca y Alimentación",
   "summary": "Ministro de Agricultura, Pesca y Alimentación. La ficha reúne formación y carrera profesional recogidas por La Moncloa.",
   "fullName": "Luis Planas Puchades",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Luis Planas"
+  ],
+  "wikidata": "Q11689876",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

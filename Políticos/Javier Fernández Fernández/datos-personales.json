@@ -4,8 +4,13 @@
   "birthYear": 1948,
   "personalSources": [
     {
-      "label": "Wikipedia · Javier Fernández Fernández",
+      "label": "Javier Fernández Fernández · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Javier_Fern%C3%A1ndez_Fern%C3%A1ndez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Fernández Fernández · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q630295#P569",
       "kind": "encyclopedic"
     }
   ]

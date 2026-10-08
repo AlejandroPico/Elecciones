@@ -2,11 +2,17 @@
   "id": "ana-mato-adrover",
   "name": "Ana Mato Adrover",
   "initials": "AM",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Sanidad, Servicios Sociales e Igualdad",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Ana Mato Adrover",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Ana Mato"
+  ],
+  "wikidata": "Q287892",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

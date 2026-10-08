@@ -25,6 +25,11 @@ import PartyDetail from "../../Partidos/interfaz/Ficha";
 import { Portrait } from "./Retrato";
 export { Portrait } from "./Retrato";
 import Sources from "../../src/app/Sources";
+import {
+  affiliationLabel,
+  affiliationOptions,
+  matchesAffiliation,
+} from "./vinculaciones";
 type Route = { kind: "person" | "party" | "office"; id: string };
 export default function Archive({
   initialRoute,
@@ -62,10 +67,7 @@ export default function Archive({
           p,
           search,
           organizations.find((o) => o.id === p.organization)?.fullName,
-        ) &&
-        (filter === "all" ||
-          p.organization === filter ||
-          (filter === "other" && !p.organization)),
+        ) && matchesAffiliation(p, filter),
     ),
     order,
   );
@@ -108,14 +110,13 @@ export default function Archive({
               onChange={(e) => setFilter(e.target.value)}
             >
               <option value="all">Todas las vinculaciones</option>
-              {organizations
-                .filter((o) => people.some((p) => p.organization === o.id))
-                .map((o) => (
-                  <option key={o.id} value={o.id}>
-                    {o.name}
-                  </option>
-                ))}
-              <option value="other">Sin partido asociado</option>
+              {affiliationOptions(people, organizations).map((o) => (
+                <option key={o.value} value={o.value}>
+                  {o.label}
+                </option>
+              ))}
+              <option value="independent">Independientes</option>
+              <option value="pending">Vinculación pendiente</option>
             </select>
             <select
               aria-label="Ordenar personas"
@@ -144,8 +145,7 @@ export default function Archive({
                   <div className="person-shutter">
                     <div>
                       <p className="person-party">
-                        {organizations.find((o) => o.id === p.organization)
-                          ?.name ?? "Sin partido asociado"}
+                        {affiliationLabel(p, organizations)}
                       </p>
                       <p>{activityOf(p).roles.join(" · ")}</p>
                     </div>
@@ -207,6 +207,27 @@ export default function Archive({
                       Origen
                       <ArrowUpRight size={10} />
                     </a>
+                    {person.photoLicenseUrl && (
+                      <>
+                        {" · "}
+                        <a
+                          href={person.photoLicenseUrl}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {person.photoLicense ?? "Licencia"}
+                        </a>
+                      </>
+                    )}
+                    {person.photoLicense && !person.photoLicenseUrl && (
+                      <> · {person.photoLicense}</>
+                    )}
+                    {person.photoDate && (
+                      <>
+                        <br />
+                        {person.photoDate}
+                      </>
+                    )}
                   </p>
                 )}
                 <div className="identity-links">
@@ -231,6 +252,45 @@ export default function Archive({
                 </div>
               </aside>
               <div className="biography-content">
+                {!!person.affiliations?.length && (
+                  <article>
+                    <h3>Vinculaciones políticas</h3>
+                    <ol className="political-timeline">
+                      {person.affiliations.map((affiliation, i) => (
+                        <li key={i}>
+                          <span>
+                            {affiliation.period ??
+                              "Periodo no precisado en la fuente"}
+                          </span>
+                          <h4>
+                            {affiliation.kind === "association"
+                              ? `Vinculación con ${affiliation.name}`
+                              : affiliation.name}
+                          </h4>
+                          {affiliation.note && <p>{affiliation.note}</p>}
+                          <a
+                            href={affiliation.source.url}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            Fuente
+                            <ArrowUpRight size={12} />
+                          </a>
+                          {affiliation.additionalSource && (
+                            <a
+                              href={affiliation.additionalSource.url}
+                              target="_blank"
+                              rel="noreferrer"
+                            >
+                              Periodo
+                              <ArrowUpRight size={12} />
+                            </a>
+                          )}
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
                 {person.sections.includes("datos-personales.json") && (
                   <article>
                     <h3>Datos personales</h3>
@@ -336,14 +396,16 @@ export default function Archive({
                         {o.members.map((m, i) => (
                           <button
                             key={`${m.person}-${i}`}
-                            className={m.person === person.id ? "current" : ""}
-                            disabled={m.person === person.id}
+                            className={
+                              findPerson(m.person)?.id === person.id
+                                ? "current"
+                                : ""
+                            }
+                            disabled={findPerson(m.person)?.id === person.id}
                             onClick={() => go("person", m.person)}
                           >
                             <span>{m.period}</span>
-                            <strong>
-                              {people.find((p) => p.id === m.person)?.name}
-                            </strong>
+                            <strong>{findPerson(m.person)?.name}</strong>
                             <ArrowRight size={14} />
                           </button>
                         ))}
@@ -402,7 +464,7 @@ export default function Archive({
               <p>{office.description}</p>
               <div className="office-chain">
                 {office.members.map((m, i) => {
-                  const p = people.find((p) => p.id === m.person)!;
+                  const p = findPerson(m.person)!;
                   return (
                     <button
                       key={`${m.person}-${i}`}

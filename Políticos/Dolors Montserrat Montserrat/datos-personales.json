@@ -1,11 +1,21 @@
 {
   "birthDate": "1973-09-18",
   "birthYear": 1973,
-  "birth": "18 de septiembre de 1973",
+  "birth": "18 de septiembre de 1973 · San Sadurní de Noya",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=295&idLegislatura=IX&mostrarAgenda=false"
+    },
+    {
+      "label": "Dolors Montserrat · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Dolors_Montserrat",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Dolors Montserrat · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q11917597#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Protocolos de Elecciones
 
-Revisión: 7 de octubre de 2026. Aplicable a personas y agentes que amplíen este repositorio.
+Revisión: 8 de octubre de 2026. Aplicable a personas y agentes que amplíen este repositorio.
 
 ## Carpetas y nombres
 
@@ -22,19 +22,23 @@ Revisión: 7 de octubre de 2026. Aplicable a personas y agentes que amplíen est
 
 Los lectores están en `Políticos/interfaz/datos/catalogo.ts`, `Partidos/interfaz/catalogo.ts` y `Gobiernos/interfaz/catalogo.ts`. Personas, gobiernos y recursos se descubren mediante `import.meta.glob`. Para miles de partidos, `Partidos/interfaz/lectura.ts` lee las fichas originales y genera un módulo virtual durante la compilación, evitando miles de módulos individuales. No mantener un segundo catálogo manual de nombres ni una copia física de todas las fichas. Una nueva carpeta con `ficha.json` válido aparece en la siguiente compilación; GitHub Pages no enumera directorios en tiempo de ejecución.
 
-Si la revisión identifica dos fichas de la misma persona, reunir sus datos en una carpeta, conservar el ID canónico y declarar los otros en `legacyIds`. Actualizar las relaciones al ID canónico; `findPerson` resuelve también los alias. No crear dos personas por una nota al pie ni descartar las trayectorias de la ficha duplicada.
+Si la revisión identifica dos fichas de la misma persona, reunir sus datos en una carpeta, conservar el ID canónico y declarar los otros en `legacyIds`. Resolver todas las relaciones mediante `findPerson`, incluidos gobiernos y dirigentes de partidos; permite conservar enlaces anteriores sin reescribir los datos de otros dominios. No crear dos personas por una nota al pie ni descartar las trayectorias de la ficha duplicada.
 
 En cada persona:
 
-- `ficha.json`: ID estable, nombre, nombre completo, iniciales, vinculación acreditada o `null`, cargo/resumen, IDs de cargos y fecha de revisión.
+- `ficha.json`: ID estable, nombre completo, iniciales, vinculación acreditada o `null`, cargo/resumen, IDs de cargos y fecha de revisión. `knownAs` conserva nombres habituales para búsqueda, `wikidata` identifica la persona contrastada y `affiliationStatus` distingue `documented`, `independent` y `pending`.
+- `afiliaciones.json`: historial de `{organization, name, period?, kind, source}`. `organization` enlaza un partido del catálogo o es `null` para una organización histórica sin ficha; `kind` distingue `membership` (militancia documentada), `association` (candidatura o colaboración sin acreditar militancia) e `independent` (independencia expresamente documentada). Ausencia de prueba no significa independencia. Las federaciones regionales se vinculan al partido correspondiente, conservando su nombre. No confundir el Partido Popular de 1976 con el PP actual. El filtro consulta también vínculos históricos, sin certificar su vigencia.
 - `datos-personales.json`: nacimiento, fecha ISO completa cuando se conoce, año, fallecimiento y `personalSources`.
 - `formacion.json`: lista de estudios e instituciones; referencias en `fuentes-formacion.json`.
 - `trayectoria.json`: lista de `{period, title, source: {label, url}}`.
 - `actuaciones.json`: hechos con fecha, descripción, estado y fuentes. No crear un archivo vacío como sustituto de investigación.
 - `fuentes.json`: referencias generales de la ficha.
-- `retrato.jpg` (o PNG/WebP/SVG) y `retrato.json`: `{file, credit, source}`. Un solo retrato activo; no recursos huérfanos.
+- `retrato.jpg` (o PNG/WebP/SVG/GIF) y `retrato.json`: `{file, credit, source, original?, license?, licenseUrl?, date?, description?}`. Un solo retrato activo; no recursos huérfanos. Conservar los créditos y la licencia que figure en la procedencia, sin inventar autoría, licencia o fecha. Diferenciar fecha de publicación y fecha de la fotografía.
+- `revision.json`: fecha, identidad contrastada, apartados revisados, IDs anteriores, correcciones y datos pendientes. La carpeta reservada `Políticos/revisiones/<AAAA-MM-DD>/` contiene informe, correcciones y comprobación de conservación; no es una persona ni sustituye sus fuentes individuales.
 
 Si una unificación reúne retratos institucionales diferentes, conservar el alternativo como `retrato-historico-<id>.<ext>` y sus créditos en `retrato-historico-<id>.json`. La interfaz actual presenta solo el retrato activo; no perder el archivo alternativo durante una migración.
+
+Priorizar un retrato oficial de la época de ejercicio del cargo. Si no está disponible, utilizar una fotografía individual identificada en una fuente institucional, Wikimedia Commons o una publicación con pie de foto inequívoco. Comprobar la identidad visual, el recurso descargado y su presentación; no asignar una imagen por coincidencia de apellidos, extraer caras sin identificación ni generar retratos ficticios. Las fotografías son recursos locales de la carpeta personal. La revisión de 8 de octubre de 2026 conserva retratos anteriores y documenta las identidades y recursos reunidos; su cobertura no constituye un censo completo de España.
 
 En cada partido: `ficha.json`, `fuentes.json`, y los apartados disponibles `historia.json`, `dirigentes.json` y `programas.json`. Los dirigentes declaran `{period, title, person, source}`; `person` es el ID de una ficha existente. Distinguir presidente, secretario general y gestora. El logotipo se acompaña de `logotipo.json: {file, source}`. `logoBackground` permite presentar marcas claras sobre un fondo adecuado sin modificar el original.
 

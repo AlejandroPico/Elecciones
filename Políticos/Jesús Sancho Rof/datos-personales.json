@@ -1,11 +1,21 @@
 {
   "birthDate": "1940-12-16",
   "birthYear": 1940,
-  "birth": "16 de diciembre de 1940",
+  "birth": "16 de diciembre de 1940 · Madrid",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=111&idLegislatura=&mostrarAgenda=false"
+    },
+    {
+      "label": "Jesús Sancho Rof · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jes%C3%BAs_Sancho_Rof",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jesús Sancho Rof · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3177760#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

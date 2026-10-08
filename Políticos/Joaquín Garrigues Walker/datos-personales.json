@@ -1,11 +1,26 @@
 {
   "birthDate": "1933-09-30",
   "birthYear": 1933,
-  "birth": "30 de septiembre de 1933",
+  "birth": "30 de septiembre de 1933 · Madrid",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=199&idLegislatura=I&mostrarAgenda=false"
+    },
+    {
+      "label": "Joaquín Garrigues Walker · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Garrigues_Walker",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Joaquín Garrigues Walker · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3179763#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Joaquín Garrigues Walker · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3179763#P570",
+      "kind": "encyclopedic"
     }
   ],
   "deathDate": "1980-07-28",

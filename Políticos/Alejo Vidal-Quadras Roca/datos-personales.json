@@ -1,11 +1,16 @@
 {
   "birthDate": "1945-05-20",
   "birthYear": 1945,
-  "birth": "20 de mayo de 1945 Barcelona, España",
+  "birth": "20 de mayo de 1945 · Barcelona",
   "personalSources": [
     {
-      "label": "Wikipedia · Alejo Vidal-Quadras · consulta 7 de octubre de 2026",
+      "label": "Alejo Vidal-Quadras · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Alejo_Vidal-Quadras",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alejo Vidal-Quadras · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2066569#P569",
       "kind": "encyclopedic"
     }
   ]

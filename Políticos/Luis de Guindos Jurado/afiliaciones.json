@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Luis de Guindos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Luis_de_Guindos",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "association",
+    "source": {
+      "label": "Luis de Guindos · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Luis_de_Guindos",
+      "kind": "encyclopedic"
+    }
+  }
+]

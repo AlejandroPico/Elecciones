@@ -1,11 +1,21 @@
 {
   "birthDate": "1977-02-02",
   "birthYear": 1977,
-  "birth": "2 de febrero de 1977 Alcalá de los Gazules, Cádiz, España",
+  "birth": "2 de febrero de 1977 · Alcalá de los Gazules",
   "personalSources": [
     {
       "label": "Wikipedia · Bibiana Aído · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Bibiana_A%C3%ADdo_Almagro",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Bibiana Aído · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Bibiana_A%C3%ADdo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Bibiana Aído · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q260819#P569",
       "kind": "encyclopedic"
     }
   ]

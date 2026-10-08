@@ -1,0 +1,32 @@
+[
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Pedro Solbes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Solbes",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Pedro Solbes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Solbes",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Pedro Solbes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Solbes",
+      "kind": "encyclopedic"
+    }
+  }
+]

@@ -1,11 +1,21 @@
 {
   "birthDate": "1967-01-06",
   "birthYear": 1967,
-  "birth": "6 de enero de 1967 San Juan del Puerto, España",
+  "birth": "6 de enero de 1967 · San Juan del Puerto",
   "personalSources": [
     {
       "label": "Wikipedia · Fátima Báñez · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_F%C3%A1tima_B%C3%A1%C3%B1ez_Garc%C3%ADa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fátima Báñez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/F%C3%A1tima_B%C3%A1%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fátima Báñez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q453730#P569",
       "kind": "encyclopedic"
     }
   ]

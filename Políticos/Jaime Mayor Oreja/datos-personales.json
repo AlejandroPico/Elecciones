@@ -1,11 +1,16 @@
 {
   "birthDate": "1951-07-12",
   "birthYear": 1951,
-  "birth": "12 de julio de 1951 San Sebastián ( España )",
+  "birth": "12 de julio de 1951 · San Sebastián",
   "personalSources": [
     {
-      "label": "Wikipedia · Jaime Mayor Oreja · consulta 7 de octubre de 2026",
+      "label": "Jaime Mayor Oreja · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Jaime_Mayor_Oreja",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jaime Mayor Oreja · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q701362#P569",
       "kind": "encyclopedic"
     }
   ]

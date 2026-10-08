@@ -1,0 +1,23 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Cristina Garmendia · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Cristina_Garmendia",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Cristina Garmendia · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Cristina_Garmendia",
+      "kind": "encyclopedic"
+    },
+    "period": "2008-2011"
+  }
+]

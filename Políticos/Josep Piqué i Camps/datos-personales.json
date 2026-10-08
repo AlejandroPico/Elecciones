@@ -1,11 +1,26 @@
 {
   "birthDate": "1955-02-21",
   "birthYear": 1955,
-  "birth": "21 de febrero de 1955 Villanueva y Geltrú, España",
+  "birth": "21 de febrero de 1955 · Villanueva y Geltrú",
   "personalSources": [
     {
       "label": "Wikipedia · Josep Piqué · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9_i_Camps",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Josep Piqué · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Josep_Piqu%C3%A9",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Josep Piqué · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1366326#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Josep Piqué · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q1366326#P570",
       "kind": "encyclopedic"
     }
   ],

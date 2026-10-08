@@ -1,4 +1,16 @@
 {
-  "birth": "Nacida en Madrid en 1976",
-  "birthYear": 1976
+  "birth": "1976 · Madrid",
+  "birthYear": 1976,
+  "personalSources": [
+    {
+      "label": "Sara Aagesen · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Sara_Aagesen",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Sara Aagesen · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q113274679#P569",
+      "kind": "encyclopedic"
+    }
+  ]
 }

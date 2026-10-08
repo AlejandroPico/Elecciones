@@ -1,11 +1,16 @@
 {
   "birthDate": "1966-05-05",
   "birthYear": 1966,
-  "birth": "5 de mayo de 1966 La Roca del Vallés ( España )",
+  "birth": "5 de mayo de 1966 · La Roca del Vallés",
   "personalSources": [
     {
-      "label": "Wikipedia · Salvador Illa · consulta 7 de octubre de 2026",
+      "label": "Salvador Illa · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Salvador_Illa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Salvador Illa · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q64577417#P569",
       "kind": "encyclopedic"
     }
   ]

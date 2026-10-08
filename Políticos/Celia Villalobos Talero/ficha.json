@@ -2,11 +2,17 @@
   "id": "celia-villalobos-talero",
   "name": "Celia Villalobos Talero",
   "initials": "CV",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "pp",
+  "relation": "Vinculación política documentada",
   "role": "Ministra de Sanidad y Consumo",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Celia Villalobos Talero",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Celia Villalobos"
+  ],
+  "wikidata": "Q2612928",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

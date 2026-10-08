@@ -2,11 +2,17 @@
   "id": "miguel-boyer-salvador",
   "name": "Miguel Boyer Salvador",
   "initials": "MB",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Economía, Comercio y Hacienda",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Miguel Boyer Salvador",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Miguel Boyer"
+  ],
+  "wikidata": "Q3312950",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

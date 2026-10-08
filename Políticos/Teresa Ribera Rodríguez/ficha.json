@@ -2,11 +2,17 @@
   "id": "teresa-ribera-rodriguez",
   "name": "Teresa Ribera Rodríguez",
   "initials": "TR",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministra para la Transición Ecológica",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Teresa Ribera Rodríguez",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Teresa Ribera"
+  ],
+  "wikidata": "Q54806936",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

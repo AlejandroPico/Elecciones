@@ -1,11 +1,21 @@
 {
   "birthDate": "1976-03-09",
   "birthYear": 1976,
-  "birth": "9 de marzo de 1976 Burjasot, Valencia, España",
+  "birth": "9 de marzo de 1976 · Burjasot",
   "personalSources": [
     {
       "label": "Wikipedia · Carmen Montón · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Carmen_Mont%C3%B3n_Gim%C3%A9nez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carmen Montón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carmen_Mont%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carmen Montón · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q4890432#P569",
       "kind": "encyclopedic"
     }
   ]

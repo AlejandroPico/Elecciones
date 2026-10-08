@@ -1,11 +1,21 @@
 {
   "birthDate": "1962-11-09",
   "birthYear": 1962,
-  "birth": "9 de noviembre de 1962 Madrid, España",
+  "birth": "9 de noviembre de 1962 · Madrid",
   "personalSources": [
     {
       "label": "Wikipedia · Dolores Delgado · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Dolores_Delgado_Garc%C3%ADa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Dolores Delgado · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Dolores_Delgado",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Dolores Delgado · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q54830302#P569",
       "kind": "encyclopedic"
     }
   ]

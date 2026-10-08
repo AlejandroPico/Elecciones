@@ -2,11 +2,17 @@
   "id": "luis-carlos-croissier-batista",
   "name": "Luis Carlos Croissier Batista",
   "initials": "LC",
-  "organization": null,
-  "relation": "Archivo histórico",
+  "organization": "psoe",
+  "relation": "Vinculación política documentada",
   "role": "Ministro de Industria y Energía",
   "summary": "Trayectoria gubernamental registrada en el archivo de La Moncloa.",
   "fullName": "Luis Carlos Croissier Batista",
   "offices": [],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Luis Carlos Croissier"
+  ],
+  "wikidata": "Q2749847",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }

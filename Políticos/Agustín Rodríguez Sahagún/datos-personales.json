@@ -1,11 +1,21 @@
 {
   "birthDate": "1932-03-27",
   "birthYear": 1932,
-  "birth": "27 de marzo de 1932 Ávila ( España )",
+  "birth": "27 de marzo de 1932 · Ávila",
   "personalSources": [
     {
-      "label": "Wikipedia · Agustín Rodríguez Sahagún · consulta 7 de octubre de 2026",
+      "label": "Agustín Rodríguez Sahagún · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Rodr%C3%ADguez_Sahag%C3%BAn",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Agustín Rodríguez Sahagún · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2827364#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Agustín Rodríguez Sahagún · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2827364#P570",
       "kind": "encyclopedic"
     }
   ],

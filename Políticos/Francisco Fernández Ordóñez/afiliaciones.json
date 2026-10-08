@@ -1,0 +1,46 @@
+[
+  {
+    "organization": null,
+    "name": "Partido Social Demócrata (España, 1976)",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Fernández Ordóñez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ord%C3%B3%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    "period": "1976-1978"
+  },
+  {
+    "organization": null,
+    "name": "UCD",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Fernández Ordóñez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ord%C3%B3%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    "period": "1978-1981"
+  },
+  {
+    "organization": null,
+    "name": "Partido de Acción Democrática",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Fernández Ordóñez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ord%C3%B3%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    "period": "1981-1983"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "membership",
+    "source": {
+      "label": "Francisco Fernández Ordóñez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ord%C3%B3%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 1983"
+  }
+]

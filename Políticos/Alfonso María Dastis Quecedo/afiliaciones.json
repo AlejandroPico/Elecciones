@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Alfonso Dastis · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alfonso_Dastis",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "kind": "association",
+    "source": {
+      "label": "Alfonso Dastis · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alfonso_Dastis",
+      "kind": "encyclopedic"
+    }
+  }
+]

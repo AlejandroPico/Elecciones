@@ -1,11 +1,21 @@
 {
   "birthDate": "1960-03-21",
   "birthYear": 1960,
-  "birth": "21 de marzo de 1960",
+  "birth": "21 de marzo de 1960 · Orense",
   "personalSources": [
     {
       "label": "Fuente institucional · identificación personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=91&idLegislatura=IX&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal"
+    },
+    {
+      "label": "Elena Espinosa · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Elena_Espinosa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Elena Espinosa · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2984392#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

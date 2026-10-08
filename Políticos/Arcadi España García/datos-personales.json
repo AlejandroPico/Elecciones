@@ -1,11 +1,21 @@
 {
-  "birth": "10 de diciembre de 1974 Carcagente ( España )",
+  "birth": "10 de diciembre de 1974 · Carcagente",
   "birthYear": 1974,
   "birthDate": "1974-12-10",
   "personalSources": [
     {
       "label": "Wikipedia · Arcadi España García · consulta 7 de octubre de 2026",
       "url": "https://es.wikipedia.org/wiki/Arcadi_Espa%C3%B1a",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Arcadi España García · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Arcadi_Espa%C3%B1a_Garc%C3%ADa",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Arcadi España García · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q98382675#P569",
       "kind": "encyclopedic"
     }
   ]

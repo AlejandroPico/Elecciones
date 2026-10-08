@@ -4,8 +4,13 @@
   "birthYear": 1965,
   "personalSources": [
     {
-      "label": "Wikipedia · Carolina Darias",
+      "label": "Carolina Darias · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Carolina_Darias",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carolina Darias · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q5753193#P569",
       "kind": "encyclopedic"
     }
   ]

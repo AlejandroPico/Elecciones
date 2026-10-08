@@ -1,11 +1,16 @@
 {
-  "birth": "26 de julio de 1962 Bilbao, Vizcaya, España",
+  "birth": "26 de julio de 1962 · Bilbao",
   "birthYear": 1962,
   "birthDate": "1962-07-26",
   "personalSources": [
     {
-      "label": "Wikipedia · Fernando Grande-Marlaska · consulta 7 de octubre de 2026",
+      "label": "Fernando Grande-Marlaska · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Fernando_Grande-Marlaska",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Grande-Marlaska · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q6746375#P569",
       "kind": "encyclopedic"
     }
   ]

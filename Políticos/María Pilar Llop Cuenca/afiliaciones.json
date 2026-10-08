@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "Pilar Llop · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pilar_Llop",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "Pilar Llop · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pilar_Llop",
+      "kind": "encyclopedic"
+    }
+  }
+]

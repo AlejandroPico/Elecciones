@@ -1,0 +1,35 @@
+[
+  {
+    "organization": "registro-71",
+    "name": "CDC",
+    "kind": "membership",
+    "source": {
+      "label": "Carles Puigdemont · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carles_Puigdemont",
+      "kind": "encyclopedic"
+    },
+    "period": "hasta 2016"
+  },
+  {
+    "organization": null,
+    "name": "Partido Demócrata Europeo Catalán",
+    "kind": "membership",
+    "source": {
+      "label": "Carles Puigdemont · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carles_Puigdemont",
+      "kind": "encyclopedic"
+    },
+    "period": "2016-2020"
+  },
+  {
+    "organization": "junts",
+    "name": "Junts",
+    "kind": "membership",
+    "source": {
+      "label": "Carles Puigdemont · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carles_Puigdemont",
+      "kind": "encyclopedic"
+    },
+    "period": "desde 2020"
+  }
+]

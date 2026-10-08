@@ -1,11 +1,16 @@
 {
   "birthDate": "1978-10-17",
   "birthYear": 1978,
-  "birth": "17 de octubre de 1978 Madrid, España",
+  "birth": "17 de octubre de 1978 · Madrid",
   "personalSources": [
     {
-      "label": "Wikipedia · Isabel Díaz Ayuso · consulta 7 de octubre de 2026",
+      "label": "Isabel Díaz Ayuso · Wikipedia",
       "url": "https://es.wikipedia.org/wiki/Isabel_D%C3%ADaz_Ayuso",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Isabel Díaz Ayuso · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q50634772#P569",
       "kind": "encyclopedic"
     }
   ]

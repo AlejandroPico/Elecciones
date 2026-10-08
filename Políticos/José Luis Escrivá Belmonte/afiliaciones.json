@@ -1,0 +1,22 @@
+[
+  {
+    "organization": null,
+    "name": "Independiente",
+    "kind": "independent",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
+    }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "kind": "association",
+    "source": {
+      "label": "José Luis Escrivá · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Escriv%C3%A1",
+      "kind": "encyclopedic"
+    }
+  }
+]

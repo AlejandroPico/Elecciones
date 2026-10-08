@@ -1,11 +1,21 @@
 {
   "birthDate": "1950-04-06",
   "birthYear": 1950,
-  "birth": "6 de abril de 1950",
+  "birth": "6 de abril de 1950 · Valladolid",
   "personalSources": [
     {
       "label": "Congreso · Ficha personal",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=294&idLegislatura=IX&mostrarAgenda=false"
+    },
+    {
+      "label": "Jorge Fernández Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Fern%C3%A1ndez_D%C3%ADaz",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jorge Fernández Díaz · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1297890#P569",
+      "kind": "encyclopedic"
     }
   ]
 }

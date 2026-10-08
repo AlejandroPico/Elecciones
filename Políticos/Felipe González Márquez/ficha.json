@@ -3,12 +3,18 @@
   "name": "Felipe González Márquez",
   "initials": "FG",
   "organization": "psoe",
-  "relation": "PSOE",
+  "relation": "Vinculación política documentada",
   "role": "Presidente del Gobierno",
   "summary": "Presidente del Gobierno de España. La ficha reúne los periodos de gobierno documentados y los datos académicos de su biografía institucional.",
   "fullName": "Felipe González Márquez",
   "offices": [
     "presidencia"
   ],
-  "reviewedAt": "2026-10-07"
+  "reviewedAt": "2026-10-08",
+  "knownAs": [
+    "Felipe González"
+  ],
+  "wikidata": "Q156799",
+  "legacyIds": [],
+  "affiliationStatus": "documented"
 }
