@@ -61,6 +61,9 @@ export type Person = {
   congressOffices?: { title: string; period: string; source: Reference }[];
   congressGroups?: { title: string; period: string; source: Reference }[];
   congressMandates?: { title: string; period: string; source: Reference }[];
+  catalanMandates?: { title: string; period: string; source: Reference }[];
+  catalanOffices?: { title: string; period: string; source: Reference }[];
+  catalanGroups?: { title: string; period: string; source: Reference }[];
 };
 export type PoliticalActivity = {
   state: "active" | "historical" | "unknown";

@@ -66,6 +66,12 @@ export const people: Person[] = Object.entries(personFiles)
       "trayectoria.json",
       [],
     );
+    const catalanMandates = read<Person["timeline"]>(
+      personFiles,
+      folder,
+      "mandatos-catalunya.json",
+      [],
+    );
     return {
       ...meta,
       ...personal,
@@ -98,6 +104,19 @@ export const people: Person[] = Object.entries(personFiles)
       ),
       senateMandates,
       congressMandates,
+      catalanMandates,
+      catalanOffices: read<Person["catalanOffices"]>(
+        personFiles,
+        folder,
+        "cargos-catalunya.json",
+        [],
+      ),
+      catalanGroups: read<Person["catalanGroups"]>(
+        personFiles,
+        folder,
+        "grupos-catalunya.json",
+        [],
+      ),
       congressOffices: read<Person["congressOffices"]>(
         personFiles,
         folder,
@@ -153,6 +172,7 @@ export const people: Person[] = Object.entries(personFiles)
         ),
         ...senateMandates,
         ...congressMandates,
+        ...catalanMandates,
       ].sort((a, b) => a.period.localeCompare(b.period)),
       dossier: read<Person["dossier"]>(
         personFiles,

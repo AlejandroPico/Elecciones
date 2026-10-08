@@ -1,0 +1,202 @@
+{
+  "id": "catalunya-govern-2016-01-13",
+  "label": "XI",
+  "start": "2016-01-13",
+  "end": "2017-10-28",
+  "checkedAt": "2026-10-08",
+  "name": "Carles Puigdemont i Casamajó",
+  "source": "https://www.parlament.cat/document/intrade/163659",
+  "terms": [
+    {
+      "person": "carles-puigdemont",
+      "name": "Carles Puigdemont i Casamajó",
+      "role": "Presidencia de la Generalitat",
+      "level": "president",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-neus-munte-fernandez",
+      "name": "Neus Munté i Fernàndez",
+      "role": "Conseller/a · Presidència",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-07-14",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "congreso-330-13",
+      "name": "Jordi Turull Negre",
+      "role": "Conseller/a · Presidència",
+      "level": "minister",
+      "start": "2017-07-14",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "oriol-junqueras",
+      "name": "Oriol Junqueras i Vies",
+      "role": "Conseller/a · Vicepresidència i Economia i Hisenda",
+      "level": "vice",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "senado-18129",
+      "name": "Raül Romeva Rueda",
+      "role": "Conseller/a · Afers i Relacions Institucionals i Exteriors i Transparència",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-meritxell-borras-sole",
+      "name": "Meritxell Borràs i Solé",
+      "role": "Conseller/a · Governació, Administracions Públiques i Habitatge",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-meritxell-ruiz-isern",
+      "name": "Meritxell Ruiz i Isern",
+      "role": "Conseller/a · Ensenyament",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-07-14",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-clara-ponsati-obiols",
+      "name": "Clara Ponsatí i Obiols",
+      "role": "Conseller/a · Ensenyament",
+      "level": "minister",
+      "start": "2017-07-14",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-antoni-comin-oliveres",
+      "name": "Antoni Comín Oliveres",
+      "role": "Conseller/a · Salut",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-192-10",
+      "name": "Jordi Jané i Guasch",
+      "role": "Conseller/a · Interior",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-07-14",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-joaquim-forn-chiariello",
+      "name": "Joaquim Forn i Chiariello",
+      "role": "Conseller/a · Interior",
+      "level": "minister",
+      "start": "2017-07-14",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-332-13",
+      "name": "Josep Rull Andreu",
+      "role": "Conseller/a · Territori i Sostenibilitat",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-santi-vila-vicente",
+      "name": "Santiago Vila i Vicente",
+      "role": "Conseller/a · Cultura",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-07-03",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-lluis-puig-gordi",
+      "name": "Lluís Puig Gordi",
+      "role": "Conseller/a · Cultura",
+      "level": "minister",
+      "start": "2017-07-04",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-carles-mundo-blanch",
+      "name": "Carles Mundó i Blanch",
+      "role": "Conseller/a · Justícia",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-dolors-bassa-coll",
+      "name": "Dolors Bassa i Coll",
+      "role": "Conseller/a · Treball, Afers Socials i Famílies",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-jordi-baiget-cantons",
+      "name": "Jordi Baiget i Cantons",
+      "role": "Conseller/a · Empresa i Coneixement",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-07-03",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-santi-vila-vicente",
+      "name": "Santiago Vila i Vicente",
+      "role": "Conseller/a · Empresa i Coneixement",
+      "level": "minister",
+      "start": "2017-07-03",
+      "end": "2017-10-27",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-meritxell-serret-aleu",
+      "name": "Meritxell Serret i Aleu",
+      "role": "Conseller/a · Agricultura, Ramaderia, Pesca i Alimentació",
+      "level": "minister",
+      "start": "2016-01-13",
+      "end": "2017-10-28",
+      "source": "https://www.parlament.cat/document/intrade/163659",
+      "endBasis": "siguiente composición documentada"
+    }
+  ],
+  "incidents": []
+}

@@ -1,0 +1,234 @@
+{
+  "id": "catalunya-govern-2018-05-29",
+  "label": "XII",
+  "start": "2018-05-29",
+  "end": "2021-05-26",
+  "checkedAt": "2026-10-08",
+  "name": "Joaquim Torra i Pla",
+  "source": "https://www.parlament.cat/document/intrade/306107",
+  "terms": [
+    {
+      "person": "quim-torra",
+      "name": "Joaquim Torra Pla",
+      "role": "Presidencia de la Generalitat",
+      "level": "president",
+      "start": "2018-05-29",
+      "end": "2020-09-28",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "pere-aragones",
+      "name": "Pere Aragonès i Garcia",
+      "role": "Conseller/a · Vicepresidència i Economia i Hisenda",
+      "level": "vice",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-elsa-artadi-vila",
+      "name": "Elsa Artadi i Vila",
+      "role": "Conseller/a · Presidència",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2019-03-24",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-meritxell-budo-pla",
+      "name": "Meritxell Budó i Pla",
+      "role": "Conseller/a · Presidència",
+      "level": "minister",
+      "start": "2019-03-24",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-ernest-maragall-mira",
+      "name": "Ernest Maragall i Mira",
+      "role": "Conseller/a · Acció Exterior, Relacions Institucionals i Transparència",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2018-11-22",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "congreso-296-10",
+      "name": "Alfred Bosch i Pascual",
+      "role": "Conseller/a · Acció Exterior, Relacions Institucionals i Transparència",
+      "level": "minister",
+      "start": "2018-11-22",
+      "end": "2020-03-09",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-bernat-sole-barril",
+      "name": "Bernat Solé i Barril",
+      "role": "Conseller/a · Acció Exterior, Relacions Institucionals i Transparència",
+      "level": "minister",
+      "start": "2020-03-20",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/bopc/57740551.pdf",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-miquel-buch-moya",
+      "name": "Miquel Buch i Moya",
+      "role": "Conseller/a · Interior",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2020-09-03",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-miquel-samper-rodriguez",
+      "name": "Miquel Sàmper i Rodríguez",
+      "role": "Conseller/a · Interior",
+      "level": "minister",
+      "start": "2020-09-03",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-josep-bargallo-valls",
+      "name": "Josep Bargalló Valls",
+      "role": "Conseller/a · Educació",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-alba-verges-bosch",
+      "name": "Alba Vergés i Bosch",
+      "role": "Conseller/a · Salut",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-francesc-damia-calvet-valera",
+      "name": "Francesc Damià Calvet Valera",
+      "role": "Conseller/a · Territori i Sostenibilitat",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-25-14",
+      "name": "Laura Borràs Castanyer",
+      "role": "Conseller/a · Cultura",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2019-03-24",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-maria-angela-vilallonga-vives",
+      "name": "Maria Àngela Vilallonga i Vives",
+      "role": "Conseller/a · Cultura",
+      "level": "minister",
+      "start": "2019-03-24",
+      "end": "2020-09-08",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-angels-ponsa-roca",
+      "name": "Àngels Ponsa i Roca",
+      "role": "Conseller/a · Cultura",
+      "level": "minister",
+      "start": "2020-09-08",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-301-12",
+      "name": "Ester Capella i Farré",
+      "role": "Conseller/a · Justícia",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-chakir-el-homrani-lesfar",
+      "name": "Chakir el Homrani Lesfar",
+      "role": "Conseller/a · Treball, Afers Socials i Famílies",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-maria-angels-chacon-feixas",
+      "name": "Maria Àngels Chacón i Feixas",
+      "role": "Conseller/a · Empresa i Coneixement",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2020-09-03",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-ramon-tremosa-balcells",
+      "name": "Ramon Tremosa Balcells",
+      "role": "Conseller/a · Empresa i Coneixement",
+      "level": "minister",
+      "start": "2020-09-03",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-jordi-puignero-ferrer",
+      "name": "Jordi Puigneró i Ferrer",
+      "role": "Conseller/a · Polítiques Digitals i Administració Pública",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-224-15",
+      "name": "Teresa Jordà i Roura",
+      "role": "Conseller/a · Agricultura, Ramaderia, Pesca i Alimentació",
+      "level": "minister",
+      "start": "2018-05-29",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/intrade/306107",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "pere-aragones",
+      "name": "Pere Aragonès i Garcia",
+      "role": "Vicepresidencia en sustitución de la presidencia",
+      "level": "president",
+      "start": "2020-09-30",
+      "end": "2021-05-26",
+      "source": "https://www.parlament.cat/document/bopc/143851615.pdf",
+      "endBasis": "cese publicado"
+    }
+  ],
+  "incidents": [
+    "El dossier del gabinete se actualizó antes del cese de Torra. Se incorpora su cese del 28/09/2020 y la suplencia formal de Aragonès por Decreto 114/2020 del 30/09/2020, sin presentarla como una presidencia electa."
+  ]
+}

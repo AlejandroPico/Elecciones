@@ -1,0 +1,272 @@
+{
+  "id": "catalunya-govern-2021-05-26",
+  "label": "XIII–XIV",
+  "start": "2021-05-26",
+  "end": "2024-08-11",
+  "checkedAt": "2026-10-08",
+  "name": "Pere Aragonès i Garcia",
+  "source": "https://www.parlament.cat/document/intrade/406553239",
+  "terms": [
+    {
+      "person": "pere-aragones",
+      "name": "Pere Aragonès i Garcia",
+      "role": "Presidencia de la Generalitat",
+      "level": "president",
+      "start": "2021-05-26",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-laura-vilagra-pons",
+      "name": "Laura Vilagrà i Pons",
+      "role": "Conseller/a · Presidència",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-laura-vilagra-pons",
+      "name": "Laura Vilagrà i Pons",
+      "role": "Conseller/a · Vicepresidència",
+      "level": "vice",
+      "start": "2024-01-23",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-jordi-puignero-ferrer",
+      "name": "Jordi Puigneró i Ferrer",
+      "role": "Conseller/a · Polítiques Digitals i Territori · vicepresidència",
+      "level": "vice",
+      "start": "2021-05-26",
+      "end": "2022-09-29",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-roger-torrent-ramio",
+      "name": "Roger Torrent Ramió",
+      "role": "Conseller/a · Empresa i Treball",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-jaume-giro-ribas",
+      "name": "Jaume Giró i Ribas",
+      "role": "Conseller/a · Economia i Hisenda",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2022-10-10",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-natalia-mas-guix",
+      "name": "Natàlia Mas i Guix",
+      "role": "Conseller/a · Economia i Hisenda",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-tania-verge-mestre",
+      "name": "Tània Verge i Mestre",
+      "role": "Conseller/a · Igualtat i Feminismes",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-victoria-alsina-burgues",
+      "name": "Victòria Alsina i Burgués",
+      "role": "Conseller/a · Acció Exterior i Govern Obert",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2022-10-10",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-meritxell-serret-aleu",
+      "name": "Meritxell Serret i Aleu",
+      "role": "Conseller/a · Acció Exterior i Unió Europea",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-josep-gonzalez-cambray",
+      "name": "Josep Gonzàlez i Cambray",
+      "role": "Conseller/a · Educació",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2023-06-12",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-anna-simo-castello",
+      "name": "Anna Simó i Castelló",
+      "role": "Conseller/a · Educació",
+      "level": "minister",
+      "start": "2023-06-12",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-gemma-geis-carreras",
+      "name": "Gemma Geis i Carreras",
+      "role": "Conseller/a · Recerca i Universitats",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2022-10-10",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-joaquim-nadal-farreras",
+      "name": "Joaquim Nadal i Farreras",
+      "role": "Conseller/a · Recerca i Universitats",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-224-15",
+      "name": "Teresa Jordà i Roura",
+      "role": "Conseller/a · Acció Climàtica, Alimentació i Agenda Rural",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2023-06-12",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-david-mascort-subiranas",
+      "name": "David Mascort i Subiranas",
+      "role": "Conseller/a · Acció Climàtica, Alimentació i Agenda Rural",
+      "level": "minister",
+      "start": "2023-06-12",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-joan-ignasi-elena-garcia",
+      "name": "Joan Ignasi Elena Garcia",
+      "role": "Conseller/a · Interior",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-juli-fernandez-olivares",
+      "name": "Juli Fernàndez Olivares",
+      "role": "Conseller/a · Territori",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2023-06-12",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "congreso-301-12",
+      "name": "Ester Capella i Farré",
+      "role": "Conseller/a · Territori",
+      "level": "minister",
+      "start": "2023-06-12",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-josep-maria-argimon-pallas",
+      "name": "Josep Maria Argimon i Pallàs",
+      "role": "Conseller/a · Salut",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2022-10-10",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-manel-balcells-diaz",
+      "name": "Manel Balcells i Díaz",
+      "role": "Conseller/a · Salut",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-violant-cervera-godia",
+      "name": "Violant Cervera i Gòdia",
+      "role": "Conseller/a · Drets Socials",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2022-10-10",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "congreso-40-12",
+      "name": "Carles Campuzano i Canadés",
+      "role": "Conseller/a · Drets Socials",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "catalunya-natalia-garriga-ibanez",
+      "name": "Natàlia Garriga i Ibáñez",
+      "role": "Conseller/a · Cultura",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    },
+    {
+      "person": "congreso-212-12",
+      "name": "Lourdes Ciuró i Buldó",
+      "role": "Conseller/a · Justícia",
+      "level": "minister",
+      "start": "2021-05-26",
+      "end": "2022-10-10",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "cese publicado"
+    },
+    {
+      "person": "catalunya-gemma-ubasart-gonzalez",
+      "name": "Gemma Ubasart i González",
+      "role": "Conseller/a · Justícia, Drets i Memòria",
+      "level": "minister",
+      "start": "2022-10-10",
+      "end": "2024-08-11",
+      "source": "https://www.parlament.cat/document/intrade/406553239",
+      "endBasis": "siguiente composición documentada"
+    }
+  ],
+  "incidents": []
+}

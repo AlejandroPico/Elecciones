@@ -496,6 +496,26 @@ export default function Archive({
                     </ol>
                   </article>
                 )}
+                {!!person.catalanGroups?.length && (
+                  <article>
+                    <h3>Adscripciones en el Parlament</h3>
+                    <p className="small-note">
+                      Grupos del periodo documentado; su pertenencia no acredita
+                      por sí sola afiliación partidista.
+                    </p>
+                    <ol className="political-timeline">
+                      {person.catalanGroups.map((term) => (
+                        <li
+                          key={`${term.title}-${term.period}-${term.source.url}`}
+                        >
+                          <span>{term.period}</span>
+                          <h4>{term.title}</h4>
+                          <Sources sources={[term.source]} />
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
                 {person.activity && (
                   <article>
                     <h3>Actividad documentada</h3>

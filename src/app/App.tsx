@@ -819,6 +819,14 @@ export default function App() {
             <div hidden={view !== "autonomies"}>
               <Autonomies
                 selected={view === "autonomies" ? archiveEntry?.id : undefined}
+                active={view === "autonomies"}
+                openPerson={(id) => openArchive("person", id)}
+                openSection={(id) =>
+                  navigation.navigate({
+                    view: "autonomies",
+                    entry: { kind: "autonomy", id },
+                  })
+                }
               />
             </div>
           )}

@@ -28,6 +28,9 @@ export function personCatalogPlugin(): Plugin {
     "mandatos-congreso.json",
     "cargos-congreso.json",
     "grupos-congreso.json",
+    "mandatos-catalunya.json",
+    "cargos-catalunya.json",
+    "grupos-catalunya.json",
   ]);
   async function collect(watch?: (file: string) => void) {
     const directory = join(root, "Políticos");

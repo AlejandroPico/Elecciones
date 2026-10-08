@@ -147,10 +147,11 @@ export function congressStageContains(
   );
 }
 export function congressGroupColor(name: string) {
-  if (/socialista/i.test(name)) return "#cf5360";
+  if (/socialist/i.test(name)) return "#cf5360";
+  if (/\bcup\b|unitat popular/i.test(name)) return "#d78d4f";
   if (/popular|alianza popular/i.test(name)) return "#579ad0";
   if (/vox/i.test(name)) return "#78a965";
-  if (/sumar|podemos|izquierda|comunista/i.test(name)) return "#a282c4";
+  if (/sumar|podemos|izquierda|comunista|comuns|en comú/i.test(name)) return "#a282c4";
   if (/vasco|eaj|pnv/i.test(name)) return "#4d9c8b";
   if (/esquerra|republicano/i.test(name)) return "#d5ae56";
   if (/catalán|catalan|junts|converg/i.test(name)) return "#88aaa6";

@@ -1,13 +1,39 @@
 .congress-executive-filter {
   margin: 0 0 24px;
 }
-.congress-archive .small-note { color: var(--muted); font-size: 11px; line-height: 1.6; }
-.congress-archive .government-time { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 8px 24px; padding: 16px 20px; }
-.congress-archive .time-heading { grid-column: 1; grid-row: 1 / 3; gap: 12px; }
-.congress-archive .time-heading h2 { font-size: 21px; margin: 6px 0; }
-.congress-archive .timeline-control { grid-column: 2; margin: 0; }
-.congress-archive .time-extents { grid-column: 2; margin: 0; font-size: 9px; }
-.congress-archive .government-time > p { grid-column: 1 / -1; margin: 0; }
+.congress-archive .small-note {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.6;
+}
+.congress-archive .government-time {
+  display: grid;
+  grid-template-columns: 230px minmax(0, 1fr);
+  gap: 8px 24px;
+  padding: 16px 20px;
+}
+.congress-archive .time-heading {
+  grid-column: 1;
+  grid-row: 1 / 3;
+  gap: 12px;
+}
+.congress-archive .time-heading h2 {
+  font-size: 21px;
+  margin: 6px 0;
+}
+.congress-archive .timeline-control {
+  grid-column: 2;
+  margin: 0;
+}
+.congress-archive .time-extents {
+  grid-column: 2;
+  margin: 0;
+  font-size: 9px;
+}
+.congress-archive .government-time > p {
+  grid-column: 1 / -1;
+  margin: 0;
+}
 .congress-executive-filter select {
   width: 100%;
   max-width: 850px;
@@ -68,9 +94,46 @@
 }
 .congress-diagram {
   width: 100%;
-  min-height: 300px;
-  overflow: visible;
-  align-self: center;
+  height: 100%;
+  display: block;
+  overflow: hidden;
+  touch-action: none;
+  cursor: grab;
+}
+.congress-diagram.dragging {
+  cursor: grabbing;
+}
+.hemicycle-widget {
+  height: 430px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--surface);
+}
+.hemicycle-widget > svg {
+  min-height: 0;
+  flex: 1;
+}
+.hemicycle-zoom {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  padding: 6px;
+  flex: none;
+}
+.hemicycle-zoom > span {
+  color: var(--muted);
+  font-size: 10px;
+  min-width: 38px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+.hemicycle-zoom .icon-button {
+  width: 28px;
+  height: 28px;
+  padding: 0;
 }
 .congress-position {
   cursor: pointer;
@@ -101,7 +164,11 @@
 .congress-inspector {
   border-left: 1px solid var(--line);
   padding-left: 24px;
-  min-height: 430px;
+  height: 430px;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
+  overscroll-behavior: contain;
   font-size: 12px;
 }
 .congress-inspector h3 {
@@ -200,14 +267,21 @@
   }
 }
 @media (max-width: 950px) {
-  .congress-archive .government-time { display: block; }
-  .congress-archive .timeline-control { margin-top: 12px; }
-  .congress-archive .government-time > p { margin-top: 8px; }
+  .congress-archive .government-time {
+    display: block;
+  }
+  .congress-archive .timeline-control {
+    margin-top: 12px;
+  }
+  .congress-archive .government-time > p {
+    margin-top: 8px;
+  }
   .congress-diagram-layout {
     grid-template-columns: 1fr;
   }
   .congress-inspector {
     min-height: 0;
+    height: 270px;
     border-left: 0;
     border-top: 1px solid var(--line);
     padding: 20px 0;
@@ -238,8 +312,8 @@
   .congress-board-grid {
     grid-template-columns: 1fr;
   }
-  .congress-diagram {
-    min-height: 200px;
+  .hemicycle-widget {
+    height: 300px;
   }
 }
 @media (prefers-reduced-motion: reduce) {

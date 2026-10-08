@@ -1,0 +1,3524 @@
+{
+  "id": "catalunya-parlament-10",
+  "label": "X legislatura",
+  "start": "2012-12-17",
+  "end": "2015-08-04",
+  "checkedAt": "2026-10-08",
+  "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/index.html",
+  "records": [
+    {
+      "name": "Núria de Gispert i Català",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=366&p_legislatura=10",
+      "key": "366",
+      "role": "Presidenta del Parlament",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-nuria-de-gispert-catala",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=366&p_legislatura=10"
+    },
+    {
+      "name": "Anna Simó i Castelló",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=998&p_legislatura=10",
+      "key": "998",
+      "role": "Vicepresidenta primera",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-anna-simo-castello",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=998&p_legislatura=10"
+    },
+    {
+      "name": "Lluís M. Corominas i Díaz",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=967&p_legislatura=10",
+      "key": "967",
+      "role": "Vicepresident segon",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-lluis-m-corominas-diaz",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=967&p_legislatura=10"
+    },
+    {
+      "name": "Miquel Octavi Iceta i Llorens",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10",
+      "key": "736",
+      "role": "Secretari primer",
+      "start": "2012-12-17",
+      "end": "2014-07-22",
+      "person": "miquel-octavi-iceta-i-llorens",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10"
+    },
+    {
+      "name": "Pere Navarro i Morera",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10",
+      "key": "1593",
+      "role": "Secretari primer",
+      "start": "2014-07-23",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-navarro-morera",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10"
+    },
+    {
+      "name": "Pere Calbó i Roca",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1334&p_legislatura=10",
+      "key": "1334",
+      "role": "Secretari segon",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-calbo-roca",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1334&p_legislatura=10"
+    },
+    {
+      "name": "Josep Rull Andreu",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=683&p_legislatura=10",
+      "key": "683",
+      "role": "Secretari tercer",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-332-13",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=683&p_legislatura=10"
+    },
+    {
+      "name": "David Companyon i Costa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1617&p_legislatura=10",
+      "key": "1617",
+      "role": "Secretari quart",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-david-companyon-costa",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1617&p_legislatura=10"
+    },
+    {
+      "name": "Alicia Alegret Martí",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1337&p_legislatura=10",
+      "key": "1337",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-alicia-alegret-marti",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1337&p_legislatura=10"
+    },
+    {
+      "name": "Matías Alonso Ruiz",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1598&p_legislatura=10",
+      "key": "1598",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-matias-alonso-ruiz",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1598&p_legislatura=10"
+    },
+    {
+      "name": "Rosa Amorós i Capdevila",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1630&p_legislatura=10",
+      "key": "1630",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-rosa-amoros-capdevila",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1630&p_legislatura=10"
+    },
+    {
+      "name": "Oriol Amorós i March",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=935&p_legislatura=10",
+      "key": "935",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-oriol-amoros-march",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=935&p_legislatura=10"
+    },
+    {
+      "name": "Josep Andreu Domingo",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1636&p_legislatura=10",
+      "key": "1636",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-296-8",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1636&p_legislatura=10"
+    },
+    {
+      "name": "Pere Aragonès i Garcia",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1059&p_legislatura=10",
+      "key": "1059",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "pere-aragones",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1059&p_legislatura=10"
+    },
+    {
+      "name": "Inés Arrimadas García",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10",
+      "key": "1480",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "ines-arrimadas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10"
+    },
+    {
+      "name": "Quim Arrufat Ibáñez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1560&p_legislatura=10",
+      "key": "1560",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-quim-arrufat-ibanez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1560&p_legislatura=10"
+    },
+    {
+      "name": "Antoni Balasch i Parisi",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1338&p_legislatura=10",
+      "key": "1338",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-antoni-balasch-parisi",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1338&p_legislatura=10"
+    },
+    {
+      "name": "Ramona Barrufet i Santacana",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1339&p_legislatura=10",
+      "key": "1339",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-ramona-barrufet-santacana",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1339&p_legislatura=10"
+    },
+    {
+      "name": "Albert Batalla i Siscart",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=939&p_legislatura=10",
+      "key": "939",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-albert-batalla-siscart",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=939&p_legislatura=10"
+    },
+    {
+      "name": "Albert Batet i Canadell",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1573&p_legislatura=10",
+      "key": "1573",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-albert-batet-canadell",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1573&p_legislatura=10"
+    },
+    {
+      "name": "David Bonvehí i Torras",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1349&p_legislatura=10",
+      "key": "1349",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-david-bonvehi-torras",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1349&p_legislatura=10"
+    },
+    {
+      "name": "Meritxell Borràs i Solé",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=590&p_legislatura=10",
+      "key": "590",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-meritxell-borras-sole",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=590&p_legislatura=10"
+    },
+    {
+      "name": "Cristina Bosch i Arcau",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1557&p_legislatura=10",
+      "key": "1557",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-cristina-bosch-arcau",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1557&p_legislatura=10"
+    },
+    {
+      "name": "Pere Bosch Cuenca",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1155&p_legislatura=10",
+      "key": "1155",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-bosch-cuenca",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1155&p_legislatura=10"
+    },
+    {
+      "name": "Jaume Bosch i Mestres",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=944&p_legislatura=10",
+      "key": "944",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "senado-12804",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=944&p_legislatura=10"
+    },
+    {
+      "name": "Gemma Calvet i Barot",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1606&p_legislatura=10",
+      "key": "1606",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-gemma-calvet-barot",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1606&p_legislatura=10"
+    },
+    {
+      "name": "Dolors Camats i Luis",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=946&p_legislatura=10",
+      "key": "946",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-dolors-camats-luis",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=946&p_legislatura=10"
+    },
+    {
+      "name": "Mireia Canals i Botines",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1360&p_legislatura=10",
+      "key": "1360",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-12-02",
+      "person": "catalunya-mireia-canals-botines",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1360&p_legislatura=10"
+    },
+    {
+      "name": "Montserrat Capdevila Tatché",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10",
+      "key": "1145",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-montserrat-capdevila-tatche",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10"
+    },
+    {
+      "name": "Carlos Carrizosa Torres",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1589&p_legislatura=10",
+      "key": "1589",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-carlos-carrizosa-torres",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1589&p_legislatura=10"
+    },
+    {
+      "name": "Toni Castellà i Clavé",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=720&p_legislatura=10",
+      "key": "720",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-01-15",
+      "person": "catalunya-toni-castella-clave",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=720&p_legislatura=10"
+    },
+    {
+      "name": "Jordi Cañas Pérez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1361&p_legislatura=10",
+      "key": "1361",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-04-29",
+      "person": "catalunya-jordi-canas-perez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1361&p_legislatura=10"
+    },
+    {
+      "name": "Violant Cervera i Gòdia",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1558&p_legislatura=10",
+      "key": "1558",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-violant-cervera-godia",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1558&p_legislatura=10"
+    },
+    {
+      "name": "Pedro Chumillas Zurilla",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1362&p_legislatura=10",
+      "key": "1362",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-06-13",
+      "person": "catalunya-pedro-chumillas-zurilla",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1362&p_legislatura=10"
+    },
+    {
+      "name": "Xavier Cima Ruiz",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1243&p_legislatura=10",
+      "key": "1243",
+      "role": "Diputats",
+      "start": "2013-04-02",
+      "end": "2015-08-04",
+      "person": "catalunya-xavier-cima-ruiz",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1243&p_legislatura=10"
+    },
+    {
+      "name": "Jordi Ciuraneta i Riu",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=255&p_legislatura=10",
+      "key": "255",
+      "role": "Diputats",
+      "start": "2014-12-16",
+      "end": "2015-08-04",
+      "person": "catalunya-jordi-ciuraneta-riu",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=255&p_legislatura=10"
+    },
+    {
+      "name": "Josep Lluís Cleries i Gonzàlez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=966&p_legislatura=10",
+      "key": "966",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-04-30",
+      "person": "senado-15825",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=966&p_legislatura=10"
+    },
+    {
+      "name": "Jaume Collboni Cuadrado",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1363&p_legislatura=10",
+      "key": "1363",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-03-18",
+      "person": "catalunya-jaume-collboni-cuadrado",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1363&p_legislatura=10"
+    },
+    {
+      "name": "Celestino Corbacho Chaves",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=108&p_legislatura=10",
+      "key": "108",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "celestino-corbacho-chaves",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=108&p_legislatura=10"
+    },
+    {
+      "name": "Josep Cosconera Carabassa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1629&p_legislatura=10",
+      "key": "1629",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-josep-cosconera-carabassa",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1629&p_legislatura=10"
+    },
+    {
+      "name": "José Antonio Coto Roquet",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1365&p_legislatura=10",
+      "key": "1365",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-jose-antonio-coto-roquet",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1365&p_legislatura=10"
+    },
+    {
+      "name": "Xavier Crespo i Llobet",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1158&p_legislatura=10",
+      "key": "1158",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-05-19",
+      "person": "catalunya-xavier-crespo-llobet",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1158&p_legislatura=10"
+    },
+    {
+      "name": "Xavier Dilmé i Vert",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1159&p_legislatura=10",
+      "key": "1159",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-xavier-dilme-vert",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1159&p_legislatura=10"
+    },
+    {
+      "name": "Albert Donés i Antequera",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1631&p_legislatura=10",
+      "key": "1631",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-albert-dones-antequera",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1631&p_legislatura=10"
+    },
+    {
+      "name": "Joan Ignasi Elena Garcia",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=115&p_legislatura=10",
+      "key": "115",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-09-30",
+      "person": "catalunya-joan-ignasi-elena-garcia",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=115&p_legislatura=10"
+    },
+    {
+      "name": "Ramon Espadaler Parcerisas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=117&p_legislatura=10",
+      "key": "117",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-04-16",
+      "person": "catalunya-ramon-espadaler-parcerisas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=117&p_legislatura=10"
+    },
+    {
+      "name": "José María Espejo-Saavedra Conesa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1590&p_legislatura=10",
+      "key": "1590",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-257-14",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1590&p_legislatura=10"
+    },
+    {
+      "name": "Ferran Falcó i Isern",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1488&p_legislatura=10",
+      "key": "1488",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-ferran-falco-isern",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1488&p_legislatura=10"
+    },
+    {
+      "name": "Juli Fernández i Iruela",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1609&p_legislatura=10",
+      "key": "1609",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-104-9",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1609&p_legislatura=10"
+    },
+    {
+      "name": "David Fernàndez i Ramos",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1545&p_legislatura=10",
+      "key": "1545",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-david-fernandez-ramos",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1545&p_legislatura=10"
+    },
+    {
+      "name": "Daniel Fernández González",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1600&p_legislatura=10",
+      "key": "1600",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-01-27",
+      "person": "congreso-333-10",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1600&p_legislatura=10"
+    },
+    {
+      "name": "Antoni Fernández Teixidó",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=439&p_legislatura=10",
+      "key": "439",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-antoni-fernandez-teixido",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=439&p_legislatura=10"
+    },
+    {
+      "name": "Anna Figueras i Ibàñez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1161&p_legislatura=10",
+      "key": "1161",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-anna-figueras-ibanez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1161&p_legislatura=10"
+    },
+    {
+      "name": "Antoni Font Renom",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1658&p_legislatura=10",
+      "key": "1658",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-antoni-font-renom",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1658&p_legislatura=10"
+    },
+    {
+      "name": "M. Victòria Forns i Fernández",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1369&p_legislatura=10",
+      "key": "1369",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-m-victoria-forns-fernandez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1369&p_legislatura=10"
+    },
+    {
+      "name": "María José García Cuevas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1370&p_legislatura=10",
+      "key": "1370",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-maria-jose-garcia-cuevas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1370&p_legislatura=10"
+    },
+    {
+      "name": "Carmen García Lores",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1808&p_legislatura=10",
+      "key": "1808",
+      "role": "Diputats",
+      "start": "2015-06-30",
+      "end": "2015-08-04",
+      "person": "catalunya-carmen-garcia-lores",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1808&p_legislatura=10"
+    },
+    {
+      "name": "Sergio García Pérez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=804&p_legislatura=10",
+      "key": "804",
+      "role": "Diputats",
+      "start": "2013-06-18",
+      "end": "2015-08-04",
+      "person": "catalunya-sergio-garcia-perez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=804&p_legislatura=10"
+    },
+    {
+      "name": "Eva García Rodríguez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=937&p_legislatura=10",
+      "key": "937",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-eva-garcia-rodriguez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=937&p_legislatura=10"
+    },
+    {
+      "name": "Marina Geli i Fàbrega",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=602&p_legislatura=10",
+      "key": "602",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marina-geli-fabrega",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=602&p_legislatura=10"
+    },
+    {
+      "name": "Cristòfol Gimeno Iglesias",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1691&p_legislatura=10",
+      "key": "1691",
+      "role": "Diputats",
+      "start": "2014-03-25",
+      "end": "2015-08-04",
+      "person": "catalunya-cristofol-gimeno-iglesias",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1691&p_legislatura=10"
+    },
+    {
+      "name": "Germà Gordó i Aubarell",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1413&p_legislatura=10",
+      "key": "1413",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-04-16",
+      "person": "catalunya-germa-gordo-aubarell",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1413&p_legislatura=10"
+    },
+    {
+      "name": "Eva Granados Galiano",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1372&p_legislatura=10",
+      "key": "1372",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-eva-granados-galiano",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1372&p_legislatura=10"
+    },
+    {
+      "name": "Hortènsia Grau Juan",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1373&p_legislatura=10",
+      "key": "1373",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-hortensia-grau-juan",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1373&p_legislatura=10"
+    },
+    {
+      "name": "Lluís Guinó i Subirós",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1374&p_legislatura=10",
+      "key": "1374",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-lluis-guino-subiros",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1374&p_legislatura=10"
+    },
+    {
+      "name": "Dionís Guiteras i Rubio",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1613&p_legislatura=10",
+      "key": "1613",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-dionis-guiteras-rubio",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1613&p_legislatura=10"
+    },
+    {
+      "name": "Joan Herrera Torres",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1375&p_legislatura=10",
+      "key": "1375",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-286-9",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1375&p_legislatura=10"
+    },
+    {
+      "name": "Miquel Octavi Iceta i Llorens",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10",
+      "key": "736",
+      "role": "Diputats",
+      "start": "2014-07-23",
+      "end": "2015-08-04",
+      "person": "miquel-octavi-iceta-i-llorens",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10"
+    },
+    {
+      "name": "M. Mercè Jou i Torras",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10",
+      "key": "1377",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-m-merce-jou-torras",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10"
+    },
+    {
+      "name": "Oriol Junqueras i Vies",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1604&p_legislatura=10",
+      "key": "1604",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "oriol-junqueras",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1604&p_legislatura=10"
+    },
+    {
+      "name": "M. Assumpció Laïlla Jou",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1075&p_legislatura=10",
+      "key": "1075",
+      "role": "Diputats",
+      "start": "2014-07-22",
+      "end": "2015-08-04",
+      "person": "catalunya-m-assumpcio-lailla-jou",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1075&p_legislatura=10"
+    },
+    {
+      "name": "Marta Llorens i Garcia",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10",
+      "key": "947",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marta-llorens-garcia",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10"
+    },
+    {
+      "name": "Maurici Lucena i Betriu",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1595&p_legislatura=10",
+      "key": "1595",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-maurici-lucena-betriu",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1595&p_legislatura=10"
+    },
+    {
+      "name": "Rafael Luna Vivas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=610&p_legislatura=10",
+      "key": "610",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-rafael-luna-vivas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=610&p_legislatura=10"
+    },
+    {
+      "name": "Dolors López Aguilar",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1341&p_legislatura=10",
+      "key": "1341",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-dolors-lopez-aguilar",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1341&p_legislatura=10"
+    },
+    {
+      "name": "Rafael López i Rueda",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=948&p_legislatura=10",
+      "key": "948",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-rafael-lopez-rueda",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=948&p_legislatura=10"
+    },
+    {
+      "name": "Benet Maimí i Pou",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1165&p_legislatura=10",
+      "key": "1165",
+      "role": "Diputats",
+      "start": "2013-04-24",
+      "end": "2015-08-04",
+      "person": "catalunya-benet-maimi-pou",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1165&p_legislatura=10"
+    },
+    {
+      "name": "Annabel Marcos i Vilar",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1423&p_legislatura=10",
+      "key": "1423",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-annabel-marcos-vilar",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1423&p_legislatura=10"
+    },
+    {
+      "name": "Rocío Martínez-Sampere Rodrigo",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1168&p_legislatura=10",
+      "key": "1168",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-06-23",
+      "person": "catalunya-rocio-martinez-sampere-rodrigo",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1168&p_legislatura=10"
+    },
+    {
+      "name": "Artur Mas i Gavarró",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=370&p_legislatura=10",
+      "key": "370",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "artur-mas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=370&p_legislatura=10"
+    },
+    {
+      "name": "Laura Massana Mas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1170&p_legislatura=10",
+      "key": "1170",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-laura-massana-mas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1170&p_legislatura=10"
+    },
+    {
+      "name": "Carina Mejías Sánchez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10",
+      "key": "747",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-331-15",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10"
+    },
+    {
+      "name": "Joan Mena Arca",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1607&p_legislatura=10",
+      "key": "1607",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-264-14",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1607&p_legislatura=10"
+    },
+    {
+      "name": "Juan Milián Querol",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1490&p_legislatura=10",
+      "key": "1490",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-juan-milian-querol",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1490&p_legislatura=10"
+    },
+    {
+      "name": "Josep Enric Millo i Rocher",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=614&p_legislatura=10",
+      "key": "614",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-josep-enric-millo-rocher",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=614&p_legislatura=10"
+    },
+    {
+      "name": "Salvador Milà i Solsona",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1000&p_legislatura=10",
+      "key": "1000",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-salvador-mila-solsona",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1000&p_legislatura=10"
+    },
+    {
+      "name": "Àlex Moga i Vidal",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1556&p_legislatura=10",
+      "key": "1556",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-alex-moga-vidal",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1556&p_legislatura=10"
+    },
+    {
+      "name": "Begonya Montalban i Vilas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1342&p_legislatura=10",
+      "key": "1342",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-begonya-montalban-vilas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1342&p_legislatura=10"
+    },
+    {
+      "name": "Roger Montañola i Busquets",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1343&p_legislatura=10",
+      "key": "1343",
+      "role": "Diputats",
+      "start": "2013-04-24",
+      "end": "2015-08-04",
+      "person": "catalunya-roger-montanola-busquets",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1343&p_legislatura=10"
+    },
+    {
+      "name": "M. Dolors Montserrat i Culleré",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=149&p_legislatura=10",
+      "key": "149",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-m-dolors-montserrat-cullere",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=149&p_legislatura=10"
+    },
+    {
+      "name": "Joan Morell i Comas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1174&p_legislatura=10",
+      "key": "1174",
+      "role": "Diputats",
+      "start": "2013-04-24",
+      "end": "2015-08-04",
+      "person": "catalunya-joan-morell-comas",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1174&p_legislatura=10"
+    },
+    {
+      "name": "Neus Munté i Fernàndez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=899&p_legislatura=10",
+      "key": "899",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-01-29",
+      "person": "catalunya-neus-munte-fernandez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=899&p_legislatura=10"
+    },
+    {
+      "name": "Isabel Muradàs i Vázquez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=638&p_legislatura=10",
+      "key": "638",
+      "role": "Diputats",
+      "start": "2015-05-26",
+      "end": "2015-08-04",
+      "person": "catalunya-isabel-muradas-vazquez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=638&p_legislatura=10"
+    },
+    {
+      "name": "Pere Navarro i Morera",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10",
+      "key": "1593",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-07-23",
+      "person": "catalunya-pere-navarro-morera",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10"
+    },
+    {
+      "name": "Òscar Ordeig i Molist",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1685&p_legislatura=10",
+      "key": "1685",
+      "role": "Diputats",
+      "start": "2014-01-21",
+      "end": "2015-08-04",
+      "person": "catalunya-oscar-ordeig-molist",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1685&p_legislatura=10"
+    },
+    {
+      "name": "Joana Ortega i Alemany",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1162&p_legislatura=10",
+      "key": "1162",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-joana-ortega-alemany",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1162&p_legislatura=10"
+    },
+    {
+      "name": "Núria Parlon Gil",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1659&p_legislatura=10",
+      "key": "1659",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-nuria-parlon-gil",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1659&p_legislatura=10"
+    },
+    {
+      "name": "Marta Pascal Capdevila",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1477&p_legislatura=10",
+      "key": "1477",
+      "role": "Diputats",
+      "start": "2013-05-08",
+      "end": "2015-08-04",
+      "person": "senado-17706",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1477&p_legislatura=10"
+    },
+    {
+      "name": "Ferran Pedret i Santos",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1602&p_legislatura=10",
+      "key": "1602",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-ferran-pedret-santos",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1602&p_legislatura=10"
+    },
+    {
+      "name": "Josep Maria Pelegrí i Aixut",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=917&p_legislatura=10",
+      "key": "917",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-josep-maria-pelegri-aixut",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=917&p_legislatura=10"
+    },
+    {
+      "name": "Carles Pellicer Punyed",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=755&p_legislatura=10",
+      "key": "755",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "senado-17044",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=755&p_legislatura=10"
+    },
+    {
+      "name": "Eva Piquer i Vinent",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1608&p_legislatura=10",
+      "key": "1608",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-02-20",
+      "person": "catalunya-eva-piquer-vinent",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1608&p_legislatura=10"
+    },
+    {
+      "name": "Àngels Ponsa i Roca",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1422&p_legislatura=10",
+      "key": "1422",
+      "role": "Diputats",
+      "start": "2013-04-02",
+      "end": "2015-08-04",
+      "person": "catalunya-angels-ponsa-roca",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1422&p_legislatura=10"
+    },
+    {
+      "name": "Felip Puig i Godes",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=785&p_legislatura=10",
+      "key": "785",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-04-16",
+      "person": "catalunya-felip-puig-godes",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=785&p_legislatura=10"
+    },
+    {
+      "name": "Carles Puigdemont i Casamajó",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1176&p_legislatura=10",
+      "key": "1176",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "carles-puigdemont",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1176&p_legislatura=10"
+    },
+    {
+      "name": "Oriol Pujol i Ferrusola",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=983&p_legislatura=10",
+      "key": "983",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-07-15",
+      "person": "catalunya-oriol-pujol-ferrusola",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=983&p_legislatura=10"
+    },
+    {
+      "name": "David Pérez Ibáñez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=756&p_legislatura=10",
+      "key": "756",
+      "role": "Diputats",
+      "start": "2015-02-03",
+      "end": "2015-08-04",
+      "person": "catalunya-david-perez-ibanez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=756&p_legislatura=10"
+    },
+    {
+      "name": "Carme Pérez Martínez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1692&p_legislatura=10",
+      "key": "1692",
+      "role": "Diputats",
+      "start": "2014-05-27",
+      "end": "2015-08-04",
+      "person": "catalunya-carme-perez-martinez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1692&p_legislatura=10"
+    },
+    {
+      "name": "Joan Recasens i Guinot",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1177&p_legislatura=10",
+      "key": "1177",
+      "role": "Diputats",
+      "start": "2013-01-22",
+      "end": "2015-08-04",
+      "person": "catalunya-joan-recasens-guinot",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1177&p_legislatura=10"
+    },
+    {
+      "name": "Lluís Miquel Recoder i Miralles",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=758&p_legislatura=10",
+      "key": "758",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-03-19",
+      "person": "congreso-200-6",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=758&p_legislatura=10"
+    },
+    {
+      "name": "Pere Regull i Riba",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1344&p_legislatura=10",
+      "key": "1344",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-regull-riba",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1344&p_legislatura=10"
+    },
+    {
+      "name": "M. Glòria Renom i Vallbona",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=990&p_legislatura=10",
+      "key": "990",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-m-gloria-renom-vallbona",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=990&p_legislatura=10"
+    },
+    {
+      "name": "Manuel Reyes López",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1644&p_legislatura=10",
+      "key": "1644",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-manuel-reyes-lopez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1644&p_legislatura=10"
+    },
+    {
+      "name": "Marta Ribas Frías",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1611&p_legislatura=10",
+      "key": "1611",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marta-ribas-frias",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1611&p_legislatura=10"
+    },
+    {
+      "name": "Elena Ribera i Garijo",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=992&p_legislatura=10",
+      "key": "992",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-2-11",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=992&p_legislatura=10"
+    },
+    {
+      "name": "Il·lma. Sra. Montserrat Ribera i Puig",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1263&p_legislatura=10",
+      "key": "1263",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-il-lma-sra-montserrat-ribera-puig",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1263&p_legislatura=10"
+    },
+    {
+      "name": "Sra. Georgina Rieradevall i Tarrés",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1547&p_legislatura=10",
+      "key": "1547",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-05-28",
+      "person": "catalunya-sra-georgina-rieradevall-tarres",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1547&p_legislatura=10"
+    },
+    {
+      "name": "Irene Rigau i Oliver",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=784&p_legislatura=10",
+      "key": "784",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-irene-rigau-oliver",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=784&p_legislatura=10"
+    },
+    {
+      "name": "Albert Rivera Díaz",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1178&p_legislatura=10",
+      "key": "1178",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-346-13",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1178&p_legislatura=10"
+    },
+    {
+      "name": "Carmen de Rivera i Pla",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1315&p_legislatura=10",
+      "key": "1315",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-carmen-de-rivera-pla",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1315&p_legislatura=10"
+    },
+    {
+      "name": "Jordi Roca Mas",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1511&p_legislatura=10",
+      "key": "1511",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-106-12",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1511&p_legislatura=10"
+    },
+    {
+      "name": "Santi Rodríguez Serra",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=982&p_legislatura=10",
+      "key": "982",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-101-15",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=982&p_legislatura=10"
+    },
+    {
+      "name": "Meritxell Roigé i Pedrola",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1347&p_legislatura=10",
+      "key": "1347",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-meritxell-roige-pedrola",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1347&p_legislatura=10"
+    },
+    {
+      "name": "Alícia Romero Llano",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1603&p_legislatura=10",
+      "key": "1603",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-alicia-romero-llano",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1603&p_legislatura=10"
+    },
+    {
+      "name": "Àngel Ros i Domingo",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1615&p_legislatura=10",
+      "key": "1615",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2014-01-16",
+      "person": "catalunya-angel-ros-domingo",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1615&p_legislatura=10"
+    },
+    {
+      "name": "Montserrat Roura i Massaneda",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1424&p_legislatura=10",
+      "key": "1424",
+      "role": "Diputats",
+      "start": "2013-02-12",
+      "end": "2013-03-20",
+      "person": "catalunya-montserrat-roura-massaneda",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1424&p_legislatura=10"
+    },
+    {
+      "name": "Marta Rovira i Vergés",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1605&p_legislatura=10",
+      "key": "1605",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marta-rovira-verges",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1605&p_legislatura=10"
+    },
+    {
+      "name": "Il·lma. Sra. Maria Dolors Rovirola i Coromí",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1180&p_legislatura=10",
+      "key": "1180",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-il-lma-sra-maria-dolors-rovirola-coromi",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1180&p_legislatura=10"
+    },
+    {
+      "name": "Agnès Russiñol i Amat",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1256&p_legislatura=10",
+      "key": "1256",
+      "role": "Diputats",
+      "start": "2013-02-26",
+      "end": "2015-08-04",
+      "person": "catalunya-agnes-russinol-amat",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1256&p_legislatura=10"
+    },
+    {
+      "name": "Xavier Sabaté i Ibarz",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1138&p_legislatura=10",
+      "key": "1138",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-xavier-sabate-ibarz",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1138&p_legislatura=10"
+    },
+    {
+      "name": "Sergi Sabrià i Benito",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1620&p_legislatura=10",
+      "key": "1620",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-sergi-sabria-benito",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1620&p_legislatura=10"
+    },
+    {
+      "name": "J. Lluís Salvadó Tenesa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1638&p_legislatura=10",
+      "key": "1638",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-j-lluis-salvado-tenesa",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1638&p_legislatura=10"
+    },
+    {
+      "name": "Marc Sanglas i Alcantarilla",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1352&p_legislatura=10",
+      "key": "1352",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marc-sanglas-alcantarilla",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1352&p_legislatura=10"
+    },
+    {
+      "name": "Sergio Santamaría Santigosa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1647&p_legislatura=10",
+      "key": "1647",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-sergio-santamaria-santigosa",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1647&p_legislatura=10"
+    },
+    {
+      "name": "Joan Maria Sardà i Padrell",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1427&p_legislatura=10",
+      "key": "1427",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-joan-maria-sarda-padrell",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1427&p_legislatura=10"
+    },
+    {
+      "name": "Núria Segú Ferré",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=760&p_legislatura=10",
+      "key": "760",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-nuria-segu-ferre",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=760&p_legislatura=10"
+    },
+    {
+      "name": "Maria Senserrich i Guitart",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1353&p_legislatura=10",
+      "key": "1353",
+      "role": "Diputats",
+      "start": "2013-02-12",
+      "end": "2015-08-04",
+      "person": "catalunya-maria-senserrich-guitart",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1353&p_legislatura=10"
+    },
+    {
+      "name": "Jordi Solé i Ferrando",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1610&p_legislatura=10",
+      "key": "1610",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-jordi-sole-ferrando",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1610&p_legislatura=10"
+    },
+    {
+      "name": "Anna Solé i Ramos",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1575&p_legislatura=10",
+      "key": "1575",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-anna-sole-ramos",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1575&p_legislatura=10"
+    },
+    {
+      "name": "Fernando Sánchez Costa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1645&p_legislatura=10",
+      "key": "1645",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-fernando-sanchez-costa",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1645&p_legislatura=10"
+    },
+    {
+      "name": "Excma. Sra. Alícia Sánchez-Camacho i Pérez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=759&p_legislatura=10",
+      "key": "759",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-excma-sra-alicia-sanchez-camacho-perez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=759&p_legislatura=10"
+    },
+    {
+      "name": "Jordi Terrades Santacreu",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=885&p_legislatura=10",
+      "key": "885",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-jordi-terrades-santacreu",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=885&p_legislatura=10"
+    },
+    {
+      "name": "Roger Torrent Ramió",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1619&p_legislatura=10",
+      "key": "1619",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-roger-torrent-ramio",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1619&p_legislatura=10"
+    },
+    {
+      "name": "Jordi Turull Negre",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1039&p_legislatura=10",
+      "key": "1039",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-330-13",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1039&p_legislatura=10"
+    },
+    {
+      "name": "Sra. Isabel Vallet Sànchez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=780&p_legislatura=10",
+      "key": "780",
+      "role": "Diputats",
+      "start": "2013-06-04",
+      "end": "2015-08-04",
+      "person": "catalunya-sra-isabel-vallet-sanchez",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=780&p_legislatura=10"
+    },
+    {
+      "name": "Teresa Vallverdú Albornà",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1639&p_legislatura=10",
+      "key": "1639",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-teresa-vallverdu-alborna",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1639&p_legislatura=10"
+    },
+    {
+      "name": "Josep Vendrell Gardeñes",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1512&p_legislatura=10",
+      "key": "1512",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-250-12",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1512&p_legislatura=10"
+    },
+    {
+      "name": "Núria Ventura Brusca",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1183&p_legislatura=10",
+      "key": "1183",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-nuria-ventura-brusca",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1183&p_legislatura=10"
+    },
+    {
+      "name": "Alba Vergés i Bosch",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1612&p_legislatura=10",
+      "key": "1612",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-alba-verges-bosch",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1612&p_legislatura=10"
+    },
+    {
+      "name": "Lorena Vicioso Adria",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1616&p_legislatura=10",
+      "key": "1616",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-lorena-vicioso-adria",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1616&p_legislatura=10"
+    },
+    {
+      "name": "Marc Vidal i Pou",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1628&p_legislatura=10",
+      "key": "1628",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marc-vidal-pou",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1628&p_legislatura=10"
+    },
+    {
+      "name": "Pere Vila i Fulcarà",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1551&p_legislatura=10",
+      "key": "1551",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-vila-fulcara",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1551&p_legislatura=10"
+    },
+    {
+      "name": "Santiago Vila i Vicente",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1185&p_legislatura=10",
+      "key": "1185",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2013-02-05",
+      "person": "catalunya-santi-vila-vicente",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1185&p_legislatura=10"
+    },
+    {
+      "name": "Marta Vilalta i Torres",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1614&p_legislatura=10",
+      "key": "1614",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marta-vilalta-torres",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1614&p_legislatura=10"
+    },
+    {
+      "name": "Sergi Vilamala i Bastarras",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1714&p_legislatura=10",
+      "key": "1714",
+      "role": "Diputats",
+      "start": "2014-10-07",
+      "end": "2015-08-04",
+      "person": "catalunya-sergi-vilamala-bastarras",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1714&p_legislatura=10"
+    },
+    {
+      "name": "José Manuel Villegas Pérez",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1391&p_legislatura=10",
+      "key": "1391",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-224-13",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1391&p_legislatura=10"
+    },
+    {
+      "name": "Excma. Sra. Sara Vilà Galan",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1637&p_legislatura=10",
+      "key": "1637",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-excma-sra-sara-vila-galan",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1637&p_legislatura=10"
+    },
+    {
+      "name": "Marisa Xandri Pujol",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1358&p_legislatura=10",
+      "key": "1358",
+      "role": "Diputats",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-marisa-xandri-pujol",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1358&p_legislatura=10"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Grup Parlamentari del Partit Popular de Catalunya",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=271&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Excma. Sra. Alícia Sánchez-Camacho i Pérez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=759&p_legislatura=10",
+          "key": "759",
+          "role": "Presidenta",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-excma-sra-alicia-sanchez-camacho-perez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=759&p_legislatura=10"
+        },
+        {
+          "name": "Josep Enric Millo i Rocher",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=614&p_legislatura=10",
+          "key": "614",
+          "role": "Portaveu",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-josep-enric-millo-rocher",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=614&p_legislatura=10"
+        },
+        {
+          "name": "Santi Rodríguez Serra",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=982&p_legislatura=10",
+          "key": "982",
+          "role": "Portaveu adjunt",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "congreso-101-15",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=982&p_legislatura=10"
+        },
+        {
+          "name": "Alicia Alegret Martí",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1337&p_legislatura=10",
+          "key": "1337",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-alicia-alegret-marti",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1337&p_legislatura=10"
+        },
+        {
+          "name": "Pere Calbó i Roca",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1334&p_legislatura=10",
+          "key": "1334",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-pere-calbo-roca",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1334&p_legislatura=10"
+        },
+        {
+          "name": "Pedro Chumillas Zurilla",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1362&p_legislatura=10",
+          "key": "1362",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-06-13",
+          "person": "catalunya-pedro-chumillas-zurilla",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1362&p_legislatura=10"
+        },
+        {
+          "name": "José Antonio Coto Roquet",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1365&p_legislatura=10",
+          "key": "1365",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-jose-antonio-coto-roquet",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1365&p_legislatura=10"
+        },
+        {
+          "name": "María José García Cuevas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1370&p_legislatura=10",
+          "key": "1370",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-maria-jose-garcia-cuevas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1370&p_legislatura=10"
+        },
+        {
+          "name": "Sergio García Pérez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=804&p_legislatura=10",
+          "key": "804",
+          "role": "Diputats",
+          "start": "2013-06-18",
+          "end": "2015-08-04",
+          "person": "catalunya-sergio-garcia-perez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=804&p_legislatura=10"
+        },
+        {
+          "name": "Eva García Rodríguez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=937&p_legislatura=10",
+          "key": "937",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-eva-garcia-rodriguez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=937&p_legislatura=10"
+        },
+        {
+          "name": "Rafael Luna Vivas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=610&p_legislatura=10",
+          "key": "610",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-rafael-luna-vivas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=610&p_legislatura=10"
+        },
+        {
+          "name": "Dolors López Aguilar",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1341&p_legislatura=10",
+          "key": "1341",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-dolors-lopez-aguilar",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1341&p_legislatura=10"
+        },
+        {
+          "name": "Rafael López i Rueda",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=948&p_legislatura=10",
+          "key": "948",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-rafael-lopez-rueda",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=948&p_legislatura=10"
+        },
+        {
+          "name": "Juan Milián Querol",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1490&p_legislatura=10",
+          "key": "1490",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-juan-milian-querol",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1490&p_legislatura=10"
+        },
+        {
+          "name": "M. Dolors Montserrat i Culleré",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=149&p_legislatura=10",
+          "key": "149",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-m-dolors-montserrat-cullere",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=149&p_legislatura=10"
+        },
+        {
+          "name": "Manuel Reyes López",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1644&p_legislatura=10",
+          "key": "1644",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-manuel-reyes-lopez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1644&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Roca Mas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1511&p_legislatura=10",
+          "key": "1511",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "congreso-106-12",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1511&p_legislatura=10"
+        },
+        {
+          "name": "Sergio Santamaría Santigosa",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1647&p_legislatura=10",
+          "key": "1647",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-sergio-santamaria-santigosa",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1647&p_legislatura=10"
+        },
+        {
+          "name": "Fernando Sánchez Costa",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1645&p_legislatura=10",
+          "key": "1645",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-fernando-sanchez-costa",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1645&p_legislatura=10"
+        },
+        {
+          "name": "Marisa Xandri Pujol",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1358&p_legislatura=10",
+          "key": "1358",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-marisa-xandri-pujol",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1358&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Grup Parlamentari de Ciutadans",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=43&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Albert Rivera Díaz",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1178&p_legislatura=10",
+          "key": "1178",
+          "role": "President",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "congreso-346-13",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1178&p_legislatura=10"
+        },
+        {
+          "name": "Inés Arrimadas García",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10",
+          "key": "1480",
+          "role": "Portaveu",
+          "start": "2015-06-19",
+          "end": "2015-10-26",
+          "person": "ines-arrimadas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Cañas Pérez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1361&p_legislatura=10",
+          "key": "1361",
+          "role": "Portaveu",
+          "start": "2012-12-18",
+          "end": "2014-01-22",
+          "person": "catalunya-jordi-canas-perez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1361&p_legislatura=10"
+        },
+        {
+          "name": "Carina Mejías Sánchez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10",
+          "key": "747",
+          "role": "Portaveu",
+          "start": "2014-01-22",
+          "end": "2015-06-19",
+          "person": "congreso-331-15",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10"
+        },
+        {
+          "name": "Inés Arrimadas García",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10",
+          "key": "1480",
+          "role": "Portaveu adjunta",
+          "start": "2014-01-22",
+          "end": "2015-06-19",
+          "person": "ines-arrimadas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10"
+        },
+        {
+          "name": "Carlos Carrizosa Torres",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1589&p_legislatura=10",
+          "key": "1589",
+          "role": "Portaveu adjunt",
+          "start": "2015-06-19",
+          "end": "2015-08-04",
+          "person": "catalunya-carlos-carrizosa-torres",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1589&p_legislatura=10"
+        },
+        {
+          "name": "Carina Mejías Sánchez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10",
+          "key": "747",
+          "role": "Portaveu adjunta",
+          "start": "2012-12-18",
+          "end": "2014-01-22",
+          "person": "congreso-331-15",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10"
+        },
+        {
+          "name": "Matías Alonso Ruiz",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1598&p_legislatura=10",
+          "key": "1598",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-matias-alonso-ruiz",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1598&p_legislatura=10"
+        },
+        {
+          "name": "Inés Arrimadas García",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10",
+          "key": "1480",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2014-01-22",
+          "person": "ines-arrimadas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1480&p_legislatura=10"
+        },
+        {
+          "name": "Carlos Carrizosa Torres",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1589&p_legislatura=10",
+          "key": "1589",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-06-19",
+          "person": "catalunya-carlos-carrizosa-torres",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1589&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Cañas Pérez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1361&p_legislatura=10",
+          "key": "1361",
+          "role": "Diputats",
+          "start": "2014-01-22",
+          "end": "2014-04-29",
+          "person": "catalunya-jordi-canas-perez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1361&p_legislatura=10"
+        },
+        {
+          "name": "José María Espejo-Saavedra Conesa",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1590&p_legislatura=10",
+          "key": "1590",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "congreso-257-14",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1590&p_legislatura=10"
+        },
+        {
+          "name": "Carina Mejías Sánchez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10",
+          "key": "747",
+          "role": "Diputats",
+          "start": "2015-06-30",
+          "end": "2015-08-04",
+          "person": "congreso-331-15",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=747&p_legislatura=10"
+        },
+        {
+          "name": "Carme Pérez Martínez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1692&p_legislatura=10",
+          "key": "1692",
+          "role": "Diputats",
+          "start": "2014-05-27",
+          "end": "2015-08-04",
+          "person": "catalunya-carme-perez-martinez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1692&p_legislatura=10"
+        },
+        {
+          "name": "Carmen de Rivera i Pla",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1315&p_legislatura=10",
+          "key": "1315",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-carmen-de-rivera-pla",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1315&p_legislatura=10"
+        },
+        {
+          "name": "José Manuel Villegas Pérez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1391&p_legislatura=10",
+          "key": "1391",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "congreso-224-13",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1391&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Grup Mixt",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=52&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "David Fernàndez i Ramos",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1545&p_legislatura=10",
+          "key": "1545",
+          "role": "President-portaveu",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-david-fernandez-ramos",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1545&p_legislatura=10"
+        },
+        {
+          "name": "Quim Arrufat Ibáñez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1560&p_legislatura=10",
+          "key": "1560",
+          "role": "Portaveu adjunt",
+          "start": "2012-12-18",
+          "end": "2015-01-26",
+          "person": "catalunya-quim-arrufat-ibanez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1560&p_legislatura=10"
+        },
+        {
+          "name": "Sra. Isabel Vallet Sànchez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=780&p_legislatura=10",
+          "key": "780",
+          "role": "Portaveu adjunta",
+          "start": "2015-01-26",
+          "end": "2015-08-04",
+          "person": "catalunya-sra-isabel-vallet-sanchez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=780&p_legislatura=10"
+        },
+        {
+          "name": "Quim Arrufat Ibáñez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1560&p_legislatura=10",
+          "key": "1560",
+          "role": "Diputats",
+          "start": "2015-01-26",
+          "end": "2015-08-04",
+          "person": "catalunya-quim-arrufat-ibanez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1560&p_legislatura=10"
+        },
+        {
+          "name": "Sra. Georgina Rieradevall i Tarrés",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1547&p_legislatura=10",
+          "key": "1547",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-05-28",
+          "person": "catalunya-sra-georgina-rieradevall-tarres",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1547&p_legislatura=10"
+        },
+        {
+          "name": "Sra. Isabel Vallet Sànchez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=780&p_legislatura=10",
+          "key": "780",
+          "role": "Diputats",
+          "start": "2013-06-04",
+          "end": "2015-01-26",
+          "person": "catalunya-sra-isabel-vallet-sanchez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=780&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Diputats no adscrits",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=195&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Joan Ignasi Elena Garcia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=115&p_legislatura=10",
+          "key": "115",
+          "role": "Diputats",
+          "start": "2014-09-17",
+          "end": "2014-09-30",
+          "person": "catalunya-joan-ignasi-elena-garcia",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=115&p_legislatura=10"
+        },
+        {
+          "name": "Marina Geli i Fàbrega",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=602&p_legislatura=10",
+          "key": "602",
+          "role": "Diputats",
+          "start": "2015-01-30",
+          "end": "2015-08-04",
+          "person": "catalunya-marina-geli-fabrega",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=602&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Grup Parlamentari d'Iniciativa per Catalunya Verds - Esquerra Unida i Alternativa",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=460&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Joan Herrera Torres",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1375&p_legislatura=10",
+          "key": "1375",
+          "role": "President",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "congreso-286-9",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1375&p_legislatura=10"
+        },
+        {
+          "name": "Dolors Camats i Luis",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=946&p_legislatura=10",
+          "key": "946",
+          "role": "Portaveu",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-dolors-camats-luis",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=946&p_legislatura=10"
+        },
+        {
+          "name": "Joan Mena Arca",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1607&p_legislatura=10",
+          "key": "1607",
+          "role": "Portaveu adjunt",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "congreso-264-14",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1607&p_legislatura=10"
+        },
+        {
+          "name": "Jaume Bosch i Mestres",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=944&p_legislatura=10",
+          "key": "944",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "senado-12804",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=944&p_legislatura=10"
+        },
+        {
+          "name": "David Companyon i Costa",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1617&p_legislatura=10",
+          "key": "1617",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-david-companyon-costa",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1617&p_legislatura=10"
+        },
+        {
+          "name": "Hortènsia Grau Juan",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1373&p_legislatura=10",
+          "key": "1373",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-hortensia-grau-juan",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1373&p_legislatura=10"
+        },
+        {
+          "name": "Laura Massana Mas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1170&p_legislatura=10",
+          "key": "1170",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-laura-massana-mas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1170&p_legislatura=10"
+        },
+        {
+          "name": "Salvador Milà i Solsona",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1000&p_legislatura=10",
+          "key": "1000",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-salvador-mila-solsona",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1000&p_legislatura=10"
+        },
+        {
+          "name": "Marta Ribas Frías",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1611&p_legislatura=10",
+          "key": "1611",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-marta-ribas-frias",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1611&p_legislatura=10"
+        },
+        {
+          "name": "Josep Vendrell Gardeñes",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1512&p_legislatura=10",
+          "key": "1512",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "congreso-250-12",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1512&p_legislatura=10"
+        },
+        {
+          "name": "Lorena Vicioso Adria",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1616&p_legislatura=10",
+          "key": "1616",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-lorena-vicioso-adria",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1616&p_legislatura=10"
+        },
+        {
+          "name": "Marc Vidal i Pou",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1628&p_legislatura=10",
+          "key": "1628",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-marc-vidal-pou",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1628&p_legislatura=10"
+        },
+        {
+          "name": "Excma. Sra. Sara Vilà Galan",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1637&p_legislatura=10",
+          "key": "1637",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-excma-sra-sara-vila-galan",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1637&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Grup Parlamentari Socialista",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=643&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Miquel Octavi Iceta i Llorens",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10",
+          "key": "736",
+          "role": "President",
+          "start": "2014-07-21",
+          "end": "2015-10-26",
+          "person": "miquel-octavi-iceta-i-llorens",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10"
+        },
+        {
+          "name": "Pere Navarro i Morera",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10",
+          "key": "1593",
+          "role": "President",
+          "start": "2012-12-17",
+          "end": "2014-07-21",
+          "person": "catalunya-pere-navarro-morera",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10"
+        },
+        {
+          "name": "Maurici Lucena i Betriu",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1595&p_legislatura=10",
+          "key": "1595",
+          "role": "Portaveu",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-maurici-lucena-betriu",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1595&p_legislatura=10"
+        },
+        {
+          "name": "Montserrat Capdevila Tatché",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10",
+          "key": "1145",
+          "role": "Portaveu adjunta",
+          "start": "2014-01-23",
+          "end": "2014-05-20",
+          "person": "catalunya-montserrat-capdevila-tatche",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10"
+        },
+        {
+          "name": "Jaume Collboni Cuadrado",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1363&p_legislatura=10",
+          "key": "1363",
+          "role": "Portaveu adjunt",
+          "start": "2012-12-17",
+          "end": "2014-01-23",
+          "person": "catalunya-jaume-collboni-cuadrado",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1363&p_legislatura=10"
+        },
+        {
+          "name": "Eva Granados Galiano",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1372&p_legislatura=10",
+          "key": "1372",
+          "role": "Portaveu adjunta",
+          "start": "2014-05-27",
+          "end": "2015-10-26",
+          "person": "catalunya-eva-granados-galiano",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1372&p_legislatura=10"
+        },
+        {
+          "name": "Montserrat Capdevila Tatché",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10",
+          "key": "1145",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2014-01-23",
+          "person": "catalunya-montserrat-capdevila-tatche",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10"
+        },
+        {
+          "name": "Montserrat Capdevila Tatché",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10",
+          "key": "1145",
+          "role": "Diputats",
+          "start": "2014-05-20",
+          "end": "2015-08-04",
+          "person": "catalunya-montserrat-capdevila-tatche",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1145&p_legislatura=10"
+        },
+        {
+          "name": "Jaume Collboni Cuadrado",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1363&p_legislatura=10",
+          "key": "1363",
+          "role": "Diputats",
+          "start": "2014-01-23",
+          "end": "2014-03-18",
+          "person": "catalunya-jaume-collboni-cuadrado",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1363&p_legislatura=10"
+        },
+        {
+          "name": "Celestino Corbacho Chaves",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=108&p_legislatura=10",
+          "key": "108",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-10-26",
+          "person": "celestino-corbacho-chaves",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=108&p_legislatura=10"
+        },
+        {
+          "name": "Joan Ignasi Elena Garcia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=115&p_legislatura=10",
+          "key": "115",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2014-09-17",
+          "person": "catalunya-joan-ignasi-elena-garcia",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=115&p_legislatura=10"
+        },
+        {
+          "name": "Juli Fernández i Iruela",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1609&p_legislatura=10",
+          "key": "1609",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "congreso-104-9",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1609&p_legislatura=10"
+        },
+        {
+          "name": "Daniel Fernández González",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1600&p_legislatura=10",
+          "key": "1600",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-01-27",
+          "person": "congreso-333-10",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1600&p_legislatura=10"
+        },
+        {
+          "name": "Carmen García Lores",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1808&p_legislatura=10",
+          "key": "1808",
+          "role": "Diputats",
+          "start": "2015-06-30",
+          "end": "2015-08-04",
+          "person": "catalunya-carmen-garcia-lores",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1808&p_legislatura=10"
+        },
+        {
+          "name": "Marina Geli i Fàbrega",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=602&p_legislatura=10",
+          "key": "602",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-01-30",
+          "person": "catalunya-marina-geli-fabrega",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=602&p_legislatura=10"
+        },
+        {
+          "name": "Cristòfol Gimeno Iglesias",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1691&p_legislatura=10",
+          "key": "1691",
+          "role": "Diputats",
+          "start": "2014-03-25",
+          "end": "2015-08-04",
+          "person": "catalunya-cristofol-gimeno-iglesias",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1691&p_legislatura=10"
+        },
+        {
+          "name": "Eva Granados Galiano",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1372&p_legislatura=10",
+          "key": "1372",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2014-05-27",
+          "person": "catalunya-eva-granados-galiano",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1372&p_legislatura=10"
+        },
+        {
+          "name": "Miquel Octavi Iceta i Llorens",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10",
+          "key": "736",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2014-07-21",
+          "person": "miquel-octavi-iceta-i-llorens",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10"
+        },
+        {
+          "name": "Rocío Martínez-Sampere Rodrigo",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1168&p_legislatura=10",
+          "key": "1168",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-06-23",
+          "person": "catalunya-rocio-martinez-sampere-rodrigo",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1168&p_legislatura=10"
+        },
+        {
+          "name": "Pere Navarro i Morera",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10",
+          "key": "1593",
+          "role": "Diputats",
+          "start": "2014-07-21",
+          "end": "2015-08-04",
+          "person": "catalunya-pere-navarro-morera",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10"
+        },
+        {
+          "name": "Òscar Ordeig i Molist",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1685&p_legislatura=10",
+          "key": "1685",
+          "role": "Diputats",
+          "start": "2014-01-21",
+          "end": "2015-08-04",
+          "person": "catalunya-oscar-ordeig-molist",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1685&p_legislatura=10"
+        },
+        {
+          "name": "Núria Parlon Gil",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1659&p_legislatura=10",
+          "key": "1659",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-nuria-parlon-gil",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1659&p_legislatura=10"
+        },
+        {
+          "name": "Ferran Pedret i Santos",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1602&p_legislatura=10",
+          "key": "1602",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-ferran-pedret-santos",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1602&p_legislatura=10"
+        },
+        {
+          "name": "David Pérez Ibáñez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=756&p_legislatura=10",
+          "key": "756",
+          "role": "Diputats",
+          "start": "2015-02-03",
+          "end": "2015-08-04",
+          "person": "catalunya-david-perez-ibanez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=756&p_legislatura=10"
+        },
+        {
+          "name": "Alícia Romero Llano",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1603&p_legislatura=10",
+          "key": "1603",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-alicia-romero-llano",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1603&p_legislatura=10"
+        },
+        {
+          "name": "Àngel Ros i Domingo",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1615&p_legislatura=10",
+          "key": "1615",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2014-01-16",
+          "person": "catalunya-angel-ros-domingo",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1615&p_legislatura=10"
+        },
+        {
+          "name": "Xavier Sabaté i Ibarz",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1138&p_legislatura=10",
+          "key": "1138",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-xavier-sabate-ibarz",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1138&p_legislatura=10"
+        },
+        {
+          "name": "Núria Segú Ferré",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=760&p_legislatura=10",
+          "key": "760",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-nuria-segu-ferre",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=760&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Terrades Santacreu",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=885&p_legislatura=10",
+          "key": "885",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-jordi-terrades-santacreu",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=885&p_legislatura=10"
+        },
+        {
+          "name": "Núria Ventura Brusca",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1183&p_legislatura=10",
+          "key": "1183",
+          "role": "Diputats",
+          "start": "2012-12-17",
+          "end": "2015-08-04",
+          "person": "catalunya-nuria-ventura-brusca",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1183&p_legislatura=10"
+        },
+        {
+          "name": "Sergi Vilamala i Bastarras",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1714&p_legislatura=10",
+          "key": "1714",
+          "role": "Diputats",
+          "start": "2014-10-07",
+          "end": "2015-08-04",
+          "person": "catalunya-sergi-vilamala-bastarras",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1714&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Grup Parlamentari de Convergència i Unió",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=47&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Oriol Pujol i Ferrusola",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=983&p_legislatura=10",
+          "key": "983",
+          "role": "President",
+          "start": "2012-12-18",
+          "end": "2013-04-02",
+          "person": "catalunya-oriol-pujol-ferrusola",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=983&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Turull Negre",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1039&p_legislatura=10",
+          "key": "1039",
+          "role": "Portaveu",
+          "start": "2012-12-18",
+          "end": "2013-04-04",
+          "person": "congreso-330-13",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1039&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Turull Negre",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1039&p_legislatura=10",
+          "key": "1039",
+          "role": "President-portaveu",
+          "start": "2013-04-04",
+          "end": "2015-10-26",
+          "person": "congreso-330-13",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1039&p_legislatura=10"
+        },
+        {
+          "name": "Ramon Espadaler Parcerisas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=117&p_legislatura=10",
+          "key": "117",
+          "role": "Portaveu adjunt",
+          "start": "2012-12-18",
+          "end": "2013-01-08",
+          "person": "catalunya-ramon-espadaler-parcerisas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=117&p_legislatura=10"
+        },
+        {
+          "name": "M. Mercè Jou i Torras",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10",
+          "key": "1377",
+          "role": "Portaveu adjunta",
+          "start": "2013-07-31",
+          "end": "2015-07-07",
+          "person": "catalunya-m-merce-jou-torras",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10"
+        },
+        {
+          "name": "Marta Llorens i Garcia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10",
+          "key": "947",
+          "role": "Portaveu adjunta",
+          "start": "2013-01-08",
+          "end": "2013-07-31",
+          "person": "catalunya-marta-llorens-garcia",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10"
+        },
+        {
+          "name": "Roger Montañola i Busquets",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1343&p_legislatura=10",
+          "key": "1343",
+          "role": "Portaveu adjunt",
+          "start": "2015-07-07",
+          "end": "2015-10-26",
+          "person": "catalunya-roger-montanola-busquets",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1343&p_legislatura=10"
+        },
+        {
+          "name": "Antoni Balasch i Parisi",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1338&p_legislatura=10",
+          "key": "1338",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-antoni-balasch-parisi",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1338&p_legislatura=10"
+        },
+        {
+          "name": "Ramona Barrufet i Santacana",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1339&p_legislatura=10",
+          "key": "1339",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-ramona-barrufet-santacana",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1339&p_legislatura=10"
+        },
+        {
+          "name": "Albert Batalla i Siscart",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=939&p_legislatura=10",
+          "key": "939",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-albert-batalla-siscart",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=939&p_legislatura=10"
+        },
+        {
+          "name": "Albert Batet i Canadell",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1573&p_legislatura=10",
+          "key": "1573",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-albert-batet-canadell",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1573&p_legislatura=10"
+        },
+        {
+          "name": "David Bonvehí i Torras",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1349&p_legislatura=10",
+          "key": "1349",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-david-bonvehi-torras",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1349&p_legislatura=10"
+        },
+        {
+          "name": "Meritxell Borràs i Solé",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=590&p_legislatura=10",
+          "key": "590",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-meritxell-borras-sole",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=590&p_legislatura=10"
+        },
+        {
+          "name": "Cristina Bosch i Arcau",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1557&p_legislatura=10",
+          "key": "1557",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-cristina-bosch-arcau",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1557&p_legislatura=10"
+        },
+        {
+          "name": "Mireia Canals i Botines",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1360&p_legislatura=10",
+          "key": "1360",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2014-12-02",
+          "person": "catalunya-mireia-canals-botines",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1360&p_legislatura=10"
+        },
+        {
+          "name": "Toni Castellà i Clavé",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=720&p_legislatura=10",
+          "key": "720",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-01-15",
+          "person": "catalunya-toni-castella-clave",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=720&p_legislatura=10"
+        },
+        {
+          "name": "Violant Cervera i Gòdia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1558&p_legislatura=10",
+          "key": "1558",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-violant-cervera-godia",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1558&p_legislatura=10"
+        },
+        {
+          "name": "Xavier Cima Ruiz",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1243&p_legislatura=10",
+          "key": "1243",
+          "role": "Diputats",
+          "start": "2013-04-02",
+          "end": "2015-08-04",
+          "person": "catalunya-xavier-cima-ruiz",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1243&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Ciuraneta i Riu",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=255&p_legislatura=10",
+          "key": "255",
+          "role": "Diputats",
+          "start": "2014-12-16",
+          "end": "2015-08-04",
+          "person": "catalunya-jordi-ciuraneta-riu",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=255&p_legislatura=10"
+        },
+        {
+          "name": "Josep Lluís Cleries i Gonzàlez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=966&p_legislatura=10",
+          "key": "966",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-04-30",
+          "person": "senado-15825",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=966&p_legislatura=10"
+        },
+        {
+          "name": "Lluís M. Corominas i Díaz",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=967&p_legislatura=10",
+          "key": "967",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-lluis-m-corominas-diaz",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=967&p_legislatura=10"
+        },
+        {
+          "name": "Xavier Crespo i Llobet",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1158&p_legislatura=10",
+          "key": "1158",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-05-19",
+          "person": "catalunya-xavier-crespo-llobet",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1158&p_legislatura=10"
+        },
+        {
+          "name": "Xavier Dilmé i Vert",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1159&p_legislatura=10",
+          "key": "1159",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-xavier-dilme-vert",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1159&p_legislatura=10"
+        },
+        {
+          "name": "Ramon Espadaler Parcerisas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=117&p_legislatura=10",
+          "key": "117",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-04-16",
+          "person": "catalunya-ramon-espadaler-parcerisas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=117&p_legislatura=10"
+        },
+        {
+          "name": "Ferran Falcó i Isern",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1488&p_legislatura=10",
+          "key": "1488",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-ferran-falco-isern",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1488&p_legislatura=10"
+        },
+        {
+          "name": "Antoni Fernández Teixidó",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=439&p_legislatura=10",
+          "key": "439",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-antoni-fernandez-teixido",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=439&p_legislatura=10"
+        },
+        {
+          "name": "Anna Figueras i Ibàñez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1161&p_legislatura=10",
+          "key": "1161",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-anna-figueras-ibanez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1161&p_legislatura=10"
+        },
+        {
+          "name": "Antoni Font Renom",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1658&p_legislatura=10",
+          "key": "1658",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-antoni-font-renom",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1658&p_legislatura=10"
+        },
+        {
+          "name": "M. Victòria Forns i Fernández",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1369&p_legislatura=10",
+          "key": "1369",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-m-victoria-forns-fernandez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1369&p_legislatura=10"
+        },
+        {
+          "name": "Núria de Gispert i Català",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=366&p_legislatura=10",
+          "key": "366",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-nuria-de-gispert-catala",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=366&p_legislatura=10"
+        },
+        {
+          "name": "Germà Gordó i Aubarell",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1413&p_legislatura=10",
+          "key": "1413",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-04-16",
+          "person": "catalunya-germa-gordo-aubarell",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1413&p_legislatura=10"
+        },
+        {
+          "name": "Lluís Guinó i Subirós",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1374&p_legislatura=10",
+          "key": "1374",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-lluis-guino-subiros",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1374&p_legislatura=10"
+        },
+        {
+          "name": "M. Mercè Jou i Torras",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10",
+          "key": "1377",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-07-31",
+          "person": "catalunya-m-merce-jou-torras",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10"
+        },
+        {
+          "name": "M. Mercè Jou i Torras",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10",
+          "key": "1377",
+          "role": "Diputats",
+          "start": "2015-07-07",
+          "end": "2015-08-04",
+          "person": "catalunya-m-merce-jou-torras",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1377&p_legislatura=10"
+        },
+        {
+          "name": "M. Assumpció Laïlla Jou",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1075&p_legislatura=10",
+          "key": "1075",
+          "role": "Diputats",
+          "start": "2014-07-22",
+          "end": "2015-08-04",
+          "person": "catalunya-m-assumpcio-lailla-jou",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1075&p_legislatura=10"
+        },
+        {
+          "name": "Marta Llorens i Garcia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10",
+          "key": "947",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-01-08",
+          "person": "catalunya-marta-llorens-garcia",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10"
+        },
+        {
+          "name": "Marta Llorens i Garcia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10",
+          "key": "947",
+          "role": "Diputats",
+          "start": "2013-07-31",
+          "end": "2015-08-04",
+          "person": "catalunya-marta-llorens-garcia",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=947&p_legislatura=10"
+        },
+        {
+          "name": "Benet Maimí i Pou",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1165&p_legislatura=10",
+          "key": "1165",
+          "role": "Diputats",
+          "start": "2013-04-24",
+          "end": "2015-08-04",
+          "person": "catalunya-benet-maimi-pou",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1165&p_legislatura=10"
+        },
+        {
+          "name": "Annabel Marcos i Vilar",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1423&p_legislatura=10",
+          "key": "1423",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-annabel-marcos-vilar",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1423&p_legislatura=10"
+        },
+        {
+          "name": "Artur Mas i Gavarró",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=370&p_legislatura=10",
+          "key": "370",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "artur-mas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=370&p_legislatura=10"
+        },
+        {
+          "name": "Àlex Moga i Vidal",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1556&p_legislatura=10",
+          "key": "1556",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-alex-moga-vidal",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1556&p_legislatura=10"
+        },
+        {
+          "name": "Begonya Montalban i Vilas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1342&p_legislatura=10",
+          "key": "1342",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-begonya-montalban-vilas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1342&p_legislatura=10"
+        },
+        {
+          "name": "Roger Montañola i Busquets",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1343&p_legislatura=10",
+          "key": "1343",
+          "role": "Diputats",
+          "start": "2013-04-24",
+          "end": "2015-07-07",
+          "person": "catalunya-roger-montanola-busquets",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1343&p_legislatura=10"
+        },
+        {
+          "name": "Joan Morell i Comas",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1174&p_legislatura=10",
+          "key": "1174",
+          "role": "Diputats",
+          "start": "2013-04-24",
+          "end": "2015-08-04",
+          "person": "catalunya-joan-morell-comas",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1174&p_legislatura=10"
+        },
+        {
+          "name": "Neus Munté i Fernàndez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=899&p_legislatura=10",
+          "key": "899",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-01-29",
+          "person": "catalunya-neus-munte-fernandez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=899&p_legislatura=10"
+        },
+        {
+          "name": "Isabel Muradàs i Vázquez",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=638&p_legislatura=10",
+          "key": "638",
+          "role": "Diputats",
+          "start": "2015-05-26",
+          "end": "2015-08-04",
+          "person": "catalunya-isabel-muradas-vazquez",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=638&p_legislatura=10"
+        },
+        {
+          "name": "Joana Ortega i Alemany",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1162&p_legislatura=10",
+          "key": "1162",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-joana-ortega-alemany",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1162&p_legislatura=10"
+        },
+        {
+          "name": "Marta Pascal Capdevila",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1477&p_legislatura=10",
+          "key": "1477",
+          "role": "Diputats",
+          "start": "2013-05-08",
+          "end": "2015-08-04",
+          "person": "senado-17706",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1477&p_legislatura=10"
+        },
+        {
+          "name": "Josep Maria Pelegrí i Aixut",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=917&p_legislatura=10",
+          "key": "917",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-josep-maria-pelegri-aixut",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=917&p_legislatura=10"
+        },
+        {
+          "name": "Carles Pellicer Punyed",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=755&p_legislatura=10",
+          "key": "755",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "senado-17044",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=755&p_legislatura=10"
+        },
+        {
+          "name": "Àngels Ponsa i Roca",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1422&p_legislatura=10",
+          "key": "1422",
+          "role": "Diputats",
+          "start": "2013-04-02",
+          "end": "2015-08-04",
+          "person": "catalunya-angels-ponsa-roca",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1422&p_legislatura=10"
+        },
+        {
+          "name": "Felip Puig i Godes",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=785&p_legislatura=10",
+          "key": "785",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-04-16",
+          "person": "catalunya-felip-puig-godes",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=785&p_legislatura=10"
+        },
+        {
+          "name": "Carles Puigdemont i Casamajó",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1176&p_legislatura=10",
+          "key": "1176",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "carles-puigdemont",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1176&p_legislatura=10"
+        },
+        {
+          "name": "Oriol Pujol i Ferrusola",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=983&p_legislatura=10",
+          "key": "983",
+          "role": "Diputats",
+          "start": "2013-04-02",
+          "end": "2014-07-15",
+          "person": "catalunya-oriol-pujol-ferrusola",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=983&p_legislatura=10"
+        },
+        {
+          "name": "Joan Recasens i Guinot",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1177&p_legislatura=10",
+          "key": "1177",
+          "role": "Diputats",
+          "start": "2013-01-22",
+          "end": "2015-08-04",
+          "person": "catalunya-joan-recasens-guinot",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1177&p_legislatura=10"
+        },
+        {
+          "name": "Lluís Miquel Recoder i Miralles",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=758&p_legislatura=10",
+          "key": "758",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-03-19",
+          "person": "congreso-200-6",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=758&p_legislatura=10"
+        },
+        {
+          "name": "Pere Regull i Riba",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1344&p_legislatura=10",
+          "key": "1344",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-pere-regull-riba",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1344&p_legislatura=10"
+        },
+        {
+          "name": "M. Glòria Renom i Vallbona",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=990&p_legislatura=10",
+          "key": "990",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-m-gloria-renom-vallbona",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=990&p_legislatura=10"
+        },
+        {
+          "name": "Elena Ribera i Garijo",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=992&p_legislatura=10",
+          "key": "992",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "congreso-2-11",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=992&p_legislatura=10"
+        },
+        {
+          "name": "Il·lma. Sra. Montserrat Ribera i Puig",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1263&p_legislatura=10",
+          "key": "1263",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-il-lma-sra-montserrat-ribera-puig",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1263&p_legislatura=10"
+        },
+        {
+          "name": "Irene Rigau i Oliver",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=784&p_legislatura=10",
+          "key": "784",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-irene-rigau-oliver",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=784&p_legislatura=10"
+        },
+        {
+          "name": "Meritxell Roigé i Pedrola",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1347&p_legislatura=10",
+          "key": "1347",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-meritxell-roige-pedrola",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1347&p_legislatura=10"
+        },
+        {
+          "name": "Montserrat Roura i Massaneda",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1424&p_legislatura=10",
+          "key": "1424",
+          "role": "Diputats",
+          "start": "2013-02-12",
+          "end": "2013-03-20",
+          "person": "catalunya-montserrat-roura-massaneda",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1424&p_legislatura=10"
+        },
+        {
+          "name": "Il·lma. Sra. Maria Dolors Rovirola i Coromí",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1180&p_legislatura=10",
+          "key": "1180",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-il-lma-sra-maria-dolors-rovirola-coromi",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1180&p_legislatura=10"
+        },
+        {
+          "name": "Josep Rull Andreu",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=683&p_legislatura=10",
+          "key": "683",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "congreso-332-13",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=683&p_legislatura=10"
+        },
+        {
+          "name": "Joan Maria Sardà i Padrell",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1427&p_legislatura=10",
+          "key": "1427",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-joan-maria-sarda-padrell",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1427&p_legislatura=10"
+        },
+        {
+          "name": "Maria Senserrich i Guitart",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1353&p_legislatura=10",
+          "key": "1353",
+          "role": "Diputats",
+          "start": "2013-02-12",
+          "end": "2015-08-04",
+          "person": "catalunya-maria-senserrich-guitart",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1353&p_legislatura=10"
+        },
+        {
+          "name": "Anna Solé i Ramos",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1575&p_legislatura=10",
+          "key": "1575",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-anna-sole-ramos",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1575&p_legislatura=10"
+        },
+        {
+          "name": "Pere Vila i Fulcarà",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1551&p_legislatura=10",
+          "key": "1551",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-pere-vila-fulcara",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1551&p_legislatura=10"
+        },
+        {
+          "name": "Santiago Vila i Vicente",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1185&p_legislatura=10",
+          "key": "1185",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-02-05",
+          "person": "catalunya-santi-vila-vicente",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1185&p_legislatura=10"
+        }
+      ]
+    },
+    {
+      "name": "Grup Parlamentari d'Esquerra Republicana de Catalunya",
+      "source": "https://www.parlament.cat/web/composicio/legislatures-anteriors/X-legislatura/historial-grups/index.html?p_codi=49&p_mesa=S&p_ordre=GRUP_PARLAMENTARI&p_tipus=BIOGRAFIA",
+      "members": [
+        {
+          "name": "Oriol Junqueras i Vies",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1604&p_legislatura=10",
+          "key": "1604",
+          "role": "President",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "oriol-junqueras",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1604&p_legislatura=10"
+        },
+        {
+          "name": "Marta Rovira i Vergés",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1605&p_legislatura=10",
+          "key": "1605",
+          "role": "Portaveu",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-marta-rovira-verges",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1605&p_legislatura=10"
+        },
+        {
+          "name": "J. Lluís Salvadó Tenesa",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1638&p_legislatura=10",
+          "key": "1638",
+          "role": "Portaveu adjunt",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-j-lluis-salvado-tenesa",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1638&p_legislatura=10"
+        },
+        {
+          "name": "Rosa Amorós i Capdevila",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1630&p_legislatura=10",
+          "key": "1630",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-rosa-amoros-capdevila",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1630&p_legislatura=10"
+        },
+        {
+          "name": "Oriol Amorós i March",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=935&p_legislatura=10",
+          "key": "935",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-oriol-amoros-march",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=935&p_legislatura=10"
+        },
+        {
+          "name": "Josep Andreu Domingo",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1636&p_legislatura=10",
+          "key": "1636",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "congreso-296-8",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1636&p_legislatura=10"
+        },
+        {
+          "name": "Pere Aragonès i Garcia",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1059&p_legislatura=10",
+          "key": "1059",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "pere-aragones",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1059&p_legislatura=10"
+        },
+        {
+          "name": "Pere Bosch Cuenca",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1155&p_legislatura=10",
+          "key": "1155",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-pere-bosch-cuenca",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1155&p_legislatura=10"
+        },
+        {
+          "name": "Gemma Calvet i Barot",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1606&p_legislatura=10",
+          "key": "1606",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-gemma-calvet-barot",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1606&p_legislatura=10"
+        },
+        {
+          "name": "Josep Cosconera Carabassa",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1629&p_legislatura=10",
+          "key": "1629",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-josep-cosconera-carabassa",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1629&p_legislatura=10"
+        },
+        {
+          "name": "Albert Donés i Antequera",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1631&p_legislatura=10",
+          "key": "1631",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-albert-dones-antequera",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1631&p_legislatura=10"
+        },
+        {
+          "name": "Dionís Guiteras i Rubio",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1613&p_legislatura=10",
+          "key": "1613",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-dionis-guiteras-rubio",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1613&p_legislatura=10"
+        },
+        {
+          "name": "Eva Piquer i Vinent",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1608&p_legislatura=10",
+          "key": "1608",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2013-02-20",
+          "person": "catalunya-eva-piquer-vinent",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1608&p_legislatura=10"
+        },
+        {
+          "name": "Agnès Russiñol i Amat",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1256&p_legislatura=10",
+          "key": "1256",
+          "role": "Diputats",
+          "start": "2013-02-26",
+          "end": "2015-08-04",
+          "person": "catalunya-agnes-russinol-amat",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1256&p_legislatura=10"
+        },
+        {
+          "name": "Sergi Sabrià i Benito",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1620&p_legislatura=10",
+          "key": "1620",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-sergi-sabria-benito",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1620&p_legislatura=10"
+        },
+        {
+          "name": "Marc Sanglas i Alcantarilla",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1352&p_legislatura=10",
+          "key": "1352",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-marc-sanglas-alcantarilla",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1352&p_legislatura=10"
+        },
+        {
+          "name": "Anna Simó i Castelló",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=998&p_legislatura=10",
+          "key": "998",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-10-26",
+          "person": "catalunya-anna-simo-castello",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=998&p_legislatura=10"
+        },
+        {
+          "name": "Jordi Solé i Ferrando",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1610&p_legislatura=10",
+          "key": "1610",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-jordi-sole-ferrando",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1610&p_legislatura=10"
+        },
+        {
+          "name": "Roger Torrent Ramió",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1619&p_legislatura=10",
+          "key": "1619",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-roger-torrent-ramio",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1619&p_legislatura=10"
+        },
+        {
+          "name": "Teresa Vallverdú Albornà",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1639&p_legislatura=10",
+          "key": "1639",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-teresa-vallverdu-alborna",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1639&p_legislatura=10"
+        },
+        {
+          "name": "Alba Vergés i Bosch",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1612&p_legislatura=10",
+          "key": "1612",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-alba-verges-bosch",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1612&p_legislatura=10"
+        },
+        {
+          "name": "Marta Vilalta i Torres",
+          "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1614&p_legislatura=10",
+          "key": "1614",
+          "role": "Diputats",
+          "start": "2012-12-18",
+          "end": "2015-08-04",
+          "person": "catalunya-marta-vilalta-torres",
+          "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1614&p_legislatura=10"
+        }
+      ]
+    }
+  ],
+  "board": [
+    {
+      "name": "Núria de Gispert i Català",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=366&p_legislatura=10",
+      "key": "366",
+      "role": "Presidenta del Parlament",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-nuria-de-gispert-catala",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=366&p_legislatura=10"
+    },
+    {
+      "name": "Anna Simó i Castelló",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=998&p_legislatura=10",
+      "key": "998",
+      "role": "Vicepresidenta primera",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-anna-simo-castello",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=998&p_legislatura=10"
+    },
+    {
+      "name": "Lluís M. Corominas i Díaz",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=967&p_legislatura=10",
+      "key": "967",
+      "role": "Vicepresident segon",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-lluis-m-corominas-diaz",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=967&p_legislatura=10"
+    },
+    {
+      "name": "Miquel Octavi Iceta i Llorens",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10",
+      "key": "736",
+      "role": "Secretari primer",
+      "start": "2012-12-17",
+      "end": "2014-07-22",
+      "person": "miquel-octavi-iceta-i-llorens",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=736&p_legislatura=10"
+    },
+    {
+      "name": "Pere Navarro i Morera",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10",
+      "key": "1593",
+      "role": "Secretari primer",
+      "start": "2014-07-23",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-navarro-morera",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1593&p_legislatura=10"
+    },
+    {
+      "name": "Pere Calbó i Roca",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1334&p_legislatura=10",
+      "key": "1334",
+      "role": "Secretari segon",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-pere-calbo-roca",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1334&p_legislatura=10"
+    },
+    {
+      "name": "Josep Rull Andreu",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=683&p_legislatura=10",
+      "key": "683",
+      "role": "Secretari tercer",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "congreso-332-13",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=683&p_legislatura=10"
+    },
+    {
+      "name": "David Companyon i Costa",
+      "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1617&p_legislatura=10",
+      "key": "1617",
+      "role": "Secretari quart",
+      "start": "2012-12-17",
+      "end": "2015-08-04",
+      "person": "catalunya-david-companyon-costa",
+      "source": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=1617&p_legislatura=10"
+    }
+  ],
+  "currentOnly": false,
+  "note": "Altas y bajas publicadas por la Cámara. Los cambios de Mesa y de grupo se conservan por separado. Diagrama esquemático, sin asiento físico asignado."
+}

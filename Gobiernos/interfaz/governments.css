@@ -26,6 +26,7 @@
   margin-bottom: 24px;
 }
 .government-library button {
+  flex-shrink: 0;
   padding: 12px 13px;
   display: grid;
   gap: 5px;

@@ -1,12 +1,12 @@
 {
   "state": "active",
-  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "reason": "Participación vigente documentada en el Parlament o el Govern de Catalunya.",
   "checkedAt": "2026-10-08",
   "sources": [
     {
-      "label": "Salvador Illa · Wikipedia",
-      "url": "https://es.wikipedia.org/wiki/Salvador_Illa",
-      "kind": "encyclopedic"
+      "label": "Parlament de Catalunya · ficha oficial",
+      "url": "https://www.parlament.cat/web/composicio/ple-parlament/index.html",
+      "kind": "institutional"
     }
   ]
 }

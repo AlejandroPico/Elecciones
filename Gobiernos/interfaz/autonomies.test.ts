@@ -19,4 +19,8 @@ it("ofrece las 17 comunidades y las dos ciudades, con dos secciones navegables",
       expect(parseRoute(routeHash(route))).toEqual(route);
     }
   expect(readAutonomyEntry("cataluna:inventado")).toBeUndefined();
+  expect(
+    readAutonomyEntry("cataluna:parliament:catalunya-parlament-15-2026-10-08")
+      ?.snapshot,
+  ).toBe("catalunya-parlament-15-2026-10-08");
 });

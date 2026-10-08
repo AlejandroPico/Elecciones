@@ -29,7 +29,10 @@ export default function Governments({
   });
   const [playing, setPlaying] = useState(false);
   useEffect(() => {
-    if (!active) { setPlaying(false); return; }
+    if (!active) {
+      setPlaying(false);
+      return;
+    }
     if (openGovernment) {
       const next = chronology.findIndex((c) => c.id === selectedSnapshot);
       setPosition(next >= 0 ? next : chronology.length - 1);
@@ -119,42 +122,19 @@ export default function Governments({
             Cronología
           </button>
         </div>
-        <select
-          aria-label="Elegir gobierno por legislatura"
-          value={government.id}
-          onChange={(e) =>
-            choose(
-              governments.find((g) => g.id === e.target.value)!.cabinets.at(-1)!
-                .id,
-            )
-          }
-        >
-          {governments.map((g) => (
-            <option key={g.id} value={g.id}>
-              {g.legislature} · {g.cabinets[0].date.slice(0, 4)} ·{" "}
-              {g.cabinets.at(-1)?.members.find((m) => m.level === "president")
-                ?.name ?? "Gobierno de España"}
-            </option>
-          ))}
-        </select>
       </div>
-      {mode === "governments" && (
-        <div
-          className="government-library"
-          aria-label="Biblioteca de gobiernos"
-        >
-          {governments.map((g) => (
-            <button
-              className={g.id === government.id ? "active" : ""}
-              key={g.id}
-              onClick={() => choose(g.cabinets.at(-1)!.id)}
-            >
-              <span>{g.cabinets[0].date.slice(0, 4)}</span>
-              <strong>{g.legislature}</strong>
-            </button>
-          ))}
-        </div>
-      )}
+      <div className="government-library" aria-label="Biblioteca de gobiernos">
+        {governments.map((g) => (
+          <button
+            className={g.id === government.id ? "active" : ""}
+            key={g.id}
+            onClick={() => choose(g.cabinets.at(-1)!.id)}
+          >
+            <span>{g.cabinets[0].date.slice(0, 4)}</span>
+            <strong>{g.legislature}</strong>
+          </button>
+        ))}
+      </div>
       <section className="government-time">
         <div className="time-heading">
           <div>
@@ -268,7 +248,6 @@ export default function Governments({
         agrupan niveles del Ejecutivo; no asignan todos los ministerios a una
         vicepresidencia.
       </p>
-
     </div>
   );
 }
