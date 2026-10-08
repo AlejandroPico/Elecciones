@@ -1,0 +1,3146 @@
+{
+  "id": "senado-13",
+  "number": 13,
+  "label": "XIII",
+  "start": "2019-05-21",
+  "end": "2019-09-24",
+  "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/senadoresdesde1977/consultaorden/index.html?legis=13&lang=es_ES",
+  "mesaSource": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C",
+  "checkedAt": "2026-10-08",
+  "terms": [
+    {
+      "person": "senado-17027",
+      "name": "Nerea Ahedo Ceza",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17027&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-15",
+      "name": "Francisco José Alcaraz Martos",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-10-12",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17950&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-15",
+      "name": "Francisco José Alcaraz Martos",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-08-12",
+      "end": "2019-09-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17950&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-15",
+      "name": "Francisco José Alcaraz Martos",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-07-12",
+      "end": "2019-08-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17950&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-15",
+      "name": "Francisco José Alcaraz Martos",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-06-11",
+      "end": "2019-07-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17950&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18215",
+      "name": "Francisco Javier Aragón Ariza",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18215&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18286",
+      "name": "José Asensi Sabater",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE EDUCACIÓN Y FORMACIÓN PROFESIONAL",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18286&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14087",
+      "name": "José Manuel Barreiro Fernández",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14087&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18287",
+      "name": "María Mercedes Berenguer Llorens",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18287&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12744",
+      "name": "Jokin Bildarratz Sorron",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12744&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18306",
+      "name": "Cosme Bonet Bonet",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE HACIENDA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18306&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16981",
+      "name": "María Perla Borao Aguirre",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN ESPECIAL SOBRE LA EVOLUCIÓN DEMOGRÁFICA EN ESPAÑA",
+      "start": "2019-09-17",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16981&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18565",
+      "name": "Josefina Antonia Bueno Alonso",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE IGUALDAD",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18565&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17949",
+      "name": "María Luisa Bustinduy Barrero",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE INDUSTRIA, TURISMO Y COMERCIO",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17949&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17946",
+      "name": "Francisco José Carrillo Guerrero",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO CIUDADANOS",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17946&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16968",
+      "name": "Yaiza Castilla Herrera",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-07-12",
+      "end": "2019-07-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16968&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16968",
+      "name": "Yaiza Castilla Herrera",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-06-11",
+      "end": "2019-07-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16968&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-10159",
+      "name": "María Jesús Castro Mateos",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE INTERIOR",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10159&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18073",
+      "name": "Alberto Prudencio Catalán Higueras",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-10-12",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18073&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18073",
+      "name": "Alberto Prudencio Catalán Higueras",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-09-12",
+      "end": "2019-10-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18073&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18073",
+      "name": "Alberto Prudencio Catalán Higueras",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-07-12",
+      "end": "2019-08-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18073&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18073",
+      "name": "Alberto Prudencio Catalán Higueras",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-06-11",
+      "end": "2019-07-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18073&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18725",
+      "name": "Fabián Chinea Correa",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-09-12",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18725&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18725",
+      "name": "Fabián Chinea Correa",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-08-12",
+      "end": "2019-09-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18725&legis=13&lang=es_ES"
+    },
+    {
+      "person": "fernando-clavijo-batlle",
+      "name": "Fernando Clavijo Batlle",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO",
+      "start": "2019-08-01",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18885&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15825",
+      "name": "Josep Lluís Cleries i Gonzàlez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15825&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17328",
+      "name": "Mirella Cortès Gès",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17328&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-140-10",
+      "name": "Ignacio Cosidó Gutiérrez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-07-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12882&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-262-12",
+      "name": "Manuel Cruz Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18205&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-262-12",
+      "name": "Manuel Cruz Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE NOMBRAMIENTOS",
+      "start": "2019-06-25",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18205&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-262-12",
+      "name": "Manuel Cruz Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18205&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18204",
+      "name": "Miguel Carmelo Dalmau Blanco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ENTIDADES LOCALES",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18204&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16984",
+      "name": "Olivia María Delgado Oval",
+      "role": "SECRETARIA SEGUNDA",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16984&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15314",
+      "name": "María Elena Diego Castellanos",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15314&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18249",
+      "name": "Gorka Elejabarrieta Díaz",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18249&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18202",
+      "name": "Manuel Escarda Escarda",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE CULTURA Y DEPORTE",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18202&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18200",
+      "name": "Francisco Manuel Fajardo Palarea",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE JUSTICIA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18200&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17785",
+      "name": "María Fernández Álvarez",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN ESPECIAL DE SEGUIMIENTO Y EVALUACIÓN DE LOS ACUERDOS DEL INFORME DEL SENADO SOBRE LAS ESTRATEGIAS CONTRA LA VIOLENCIA DE GÉNERO APROBADAS EN EL MARCO DEL PACTO DE ESTADO",
+      "start": "2019-09-17",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17785&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12970",
+      "name": "José Fernández Blanco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE FOMENTO",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12970&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18825",
+      "name": "María Teresa Fernández Molina",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN PARA LAS POLÍTICAS INTEGRALES DE LA DISCAPACIDAD",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18825&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18665",
+      "name": "José Miguel Fernández Viadero",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-09-12",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18665&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18665",
+      "name": "José Miguel Fernández Viadero",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2019-08-12",
+      "end": "2019-09-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18665&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18346",
+      "name": "Antonio Armando Ferrer Sais",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE TRABAJO, MIGRACIONES Y SEGURIDAD SOCIAL",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18346&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "VICEPRESIDENTE SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18326",
+      "name": "Javier Garcinuño Rama",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ECONOMÍA Y EMPRESA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18326&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15307",
+      "name": "Ander Gil García",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15307&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17945",
+      "name": "Esperanza Gómez Corona",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM)",
+      "start": "2019-06-17",
+      "end": "2019-07-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17945&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18147",
+      "name": "Ruth Goñi Sarries",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO CIUDADANOS",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18147&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-175-12",
+      "name": "Antonio Gutiérrez Limones",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS EXTERIORES",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14081&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-202-15",
+      "name": "Rafael Antonio Hernando Fraile",
+      "role": "SECRETARIO CUARTO",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10308&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16165",
+      "name": "María del Mar del Pino Julios Reyes",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO",
+      "start": "2019-05-21",
+      "end": "2019-07-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16165&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18066",
+      "name": "Imanol Landa Jáuregui",
+      "role": "SECRETARIO TERCERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18066&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN GENERAL DE LAS COMUNIDADES AUTÓNOMAS",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18295",
+      "name": "Julia María Liberal Liberal",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18295&legis=13&lang=es_ES"
+    },
+    {
+      "person": "pilar-llop-cuenca",
+      "name": "María Pilar Llop Cuenca",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE DEFENSA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18646&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18188",
+      "name": "Francisco Javier de Lucas Martín",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18188&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18187",
+      "name": "María de los Ángeles Luna Morales",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE DERECHOS DE LA FAMILIA, LA INFANCIA Y LA ADOLESCENCIA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18187&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18186",
+      "name": "María Teresa Macías Mateos",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18186&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18247",
+      "name": "Antonio Magdaleno Alegría",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18247&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18865",
+      "name": "Javier Ignacio Maroto Aranzábal",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2019-08-01",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18865&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18405",
+      "name": "Fernando Martínez López",
+      "role": "SECRETARIO PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18405&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18243",
+      "name": "César Alejandro Mogo Zaro",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS IBEROAMERICANOS",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18243&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14265",
+      "name": "José Antonio Monago Terraza",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE PRESUPUESTOS",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14265&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18298",
+      "name": "Ramón Morales Quesada",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18298&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18240",
+      "name": "María Isabel Moreno Duque",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE TRANSICIÓN ECOLÓGICA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18240&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16605",
+      "name": "Carles Mulet García",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM)",
+      "start": "2019-08-01",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16605&legis=13&lang=es_ES"
+    },
+    {
+      "person": "cristina-narbona-ruiz",
+      "name": "María Cristina Narbona Ruiz",
+      "role": "VICEPRESIDENTA PRIMERA",
+      "organ": "MESA DEL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18300&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-125-12",
+      "name": "Micaela Navarro Garzón",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE PETICIONES",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10141&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16993",
+      "name": "Félix Ortega Fernández",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SUPLICATORIOS",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16993&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17327",
+      "name": "Bernat Picornell Grenzner",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17327&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-129-15",
+      "name": "Modesto Pose Mesura",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17185&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17066",
+      "name": "Salomé Pradas Ten",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17066&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15785",
+      "name": "Antonio Julián Rodríguez Esquerdo",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15785&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17705",
+      "name": "Lorena Roldán Suárez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO CIUDADANOS",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17705&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-26-9",
+      "name": "María Salom Coll",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2019-08-01",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18115&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18606",
+      "name": "Carlota Santiago Camacho",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN MIXTA DE RELACIONES CON EL DEFENSOR DEL PUEBLO",
+      "start": "2019-07-30",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18606&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16991",
+      "name": "Riansares Serrano Morales",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16991&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18067",
+      "name": "María Isabel Vaquero Montero",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18067&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18222",
+      "name": "Salvador Vidal Varela",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE FUNCIÓN PÚBLICA",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18222&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17326",
+      "name": "Sara Vilà Galán",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM)",
+      "start": "2019-05-21",
+      "end": "2019-09-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17326&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18221",
+      "name": "María José Villalba Chavarría",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2019-05-21",
+      "end": "2019-12-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18221&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16865",
+      "name": "Idoia Villanueva Ruiz",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM)",
+      "start": "2019-05-21",
+      "end": "2019-06-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16865&legis=13&lang=es_ES"
+    }
+  ],
+  "senators": [
+    {
+      "person": "senado-18218",
+      "name": "Patricia Abascal Jiménez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18218&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-131-12",
+      "name": "Pedro Acedo Penco",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15385&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-69-15",
+      "name": "Sofía Acedo Reyes",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17160&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18248",
+      "name": "María Margarita Peregrina Adrio Taracido",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18248&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18305",
+      "name": "Ana María Agudíez Calvo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18305&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18785",
+      "name": "Carolina Agudo Alonso",
+      "start": "2019-07-23",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18785&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18217",
+      "name": "José Aurelio Aguilar Román",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18217&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17027",
+      "name": "Nerea Ahedo Ceza",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17027&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14170",
+      "name": "Antonio Alarcó Hernández",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14170&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-15",
+      "name": "Francisco José Alcaraz Martos",
+      "start": "2019-02-07",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17950&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16999",
+      "name": "Rosa María Aldea Gómez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16999&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17325",
+      "name": "Francisco Javier Alegre Buxeda",
+      "start": "2018-05-04",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17325&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17356",
+      "name": "Jesús Manuel Alonso Jiménez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17356&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-244-14",
+      "name": "José Ángel Alonso Pérez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18086&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-334-15",
+      "name": "Ana Isabel Alós López",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18087&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18216",
+      "name": "Antonio Jesús Amador Cueto",
+      "start": "2019-04-28",
+      "end": "2019-08-25",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18216&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-15-8",
+      "name": "Francesc Antich Oliver",
+      "start": "2015-07-09",
+      "end": "2019-07-11",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14865&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-265-15",
+      "name": "Asier Antona Gómez",
+      "start": "2019-07-31",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18905&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18215",
+      "name": "Francisco Javier Aragón Ariza",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18215&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18214",
+      "name": "María del Carmen Arana Álvarez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18214&legis=13&lang=es_ES"
+    },
+    {
+      "person": "javier-arenas-bocanegra",
+      "name": "Francisco Javier Arenas Bocanegra",
+      "start": "2019-02-07",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10154&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18545",
+      "name": "Emilio Argüeso Torres",
+      "start": "2019-06-27",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18545&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-410-10",
+      "name": "María del Mar Arnaiz García",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18213&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-13-12",
+      "name": "Bienvenido De Arriba Sánchez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18088&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18089",
+      "name": "Rosa María Arza Rodríguez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18089&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18286",
+      "name": "José Asensi Sabater",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18286&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17105",
+      "name": "Miguel José Aubà Fleix",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17105&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18090",
+      "name": "Vicente Azpitarte Pérez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18090&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18125",
+      "name": "Sara Bailac Ardanuy",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18125&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18212",
+      "name": "Marcial Barba González",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18212&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14087",
+      "name": "José Manuel Barreiro Fernández",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14087&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18211",
+      "name": "Julio Barros Casal",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18211&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18287",
+      "name": "María Mercedes Berenguer Llorens",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18287&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-67-12",
+      "name": "Francisco Martín Bernabé Pérez",
+      "start": "2018-07-19",
+      "end": "2019-07-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17765&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18505",
+      "name": "Idurre Bideguren Gabantxo",
+      "start": "2019-05-31",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18505&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12744",
+      "name": "Jokin Bildarratz Sorron",
+      "start": "2016-12-15",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12744&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18210",
+      "name": "Francisco Antonio Blanco Ángel",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18210&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-19-12",
+      "name": "Manuel Blasco Marqués",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12872&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18208",
+      "name": "José Manuel Bolaños Viso",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18208&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18306",
+      "name": "Cosme Bonet Bonet",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18306&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16981",
+      "name": "María Perla Borao Aguirre",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16981&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17150",
+      "name": "Esther Basilia del Brío González",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17150&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18565",
+      "name": "Josefina Antonia Bueno Alonso",
+      "start": "2019-06-27",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18565&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17949",
+      "name": "María Luisa Bustinduy Barrero",
+      "start": "2019-02-07",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17949&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18126",
+      "name": "Miquel Caminal Cerdà",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18126&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18625",
+      "name": "Ana Camins Martínez",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18625&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18209",
+      "name": "María Esther Carmona Delgado",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18209&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18207",
+      "name": "Jesús Caro Adanero",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18207&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17946",
+      "name": "Francisco José Carrillo Guerrero",
+      "start": "2019-02-07",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17946&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17369",
+      "name": "Laura Castel Fort",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17369&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18206",
+      "name": "Santiago José Castellà Surribas",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18206&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17359",
+      "name": "Xavier Castellana Gamisans",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17359&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16968",
+      "name": "Yaiza Castilla Herrera",
+      "start": "2019-04-28",
+      "end": "2019-07-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16968&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-10159",
+      "name": "María Jesús Castro Mateos",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10159&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18073",
+      "name": "Alberto Prudencio Catalán Higueras",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18073&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16445",
+      "name": "José Carmelo Cepeda García de León",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16445&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18288",
+      "name": "Daniel Chenlo Padín",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18288&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18725",
+      "name": "Fabián Chinea Correa",
+      "start": "2019-07-19",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18725&legis=13&lang=es_ES"
+    },
+    {
+      "person": "fernando-clavijo-batlle",
+      "name": "Fernando Clavijo Batlle",
+      "start": "2019-07-31",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18885&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15825",
+      "name": "Josep Lluís Cleries i Gonzàlez",
+      "start": "2018-05-04",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15825&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16625",
+      "name": "Guillermo José del Corral Díez del Corral",
+      "start": "2015-07-15",
+      "end": "2019-07-10",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16625&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17328",
+      "name": "Mirella Cortès Gès",
+      "start": "2018-05-04",
+      "end": "2019-11-21",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17328&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18425",
+      "name": "Antonio José Cosculluela Bergua",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18425&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-140-10",
+      "name": "Ignacio Cosidó Gutiérrez",
+      "start": "2016-12-14",
+      "end": "2019-07-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12882&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16645",
+      "name": "Julio Cruz Hernández",
+      "start": "2015-07-21",
+      "end": "2019-07-30",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16645&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-262-12",
+      "name": "Manuel Cruz Rodríguez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18205&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18204",
+      "name": "Miguel Carmelo Dalmau Blanco",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18204&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18203",
+      "name": "María Pilar Delgado Díez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18203&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16984",
+      "name": "Olivia María Delgado Oval",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16984&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-50-15",
+      "name": "Raúl Díaz Marín",
+      "start": "2019-07-23",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18805&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18846",
+      "name": "Francisco Díaz Muñoz",
+      "start": "2019-07-24",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18846&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15314",
+      "name": "María Elena Diego Castellanos",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15314&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18385",
+      "name": "Ana Belén Edo Gil",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18385&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18249",
+      "name": "Gorka Elejabarrieta Díaz",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18249&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18626",
+      "name": "David Erguido Cano",
+      "start": "2019-07-11",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18626&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18202",
+      "name": "Manuel Escarda Escarda",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18202&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18289",
+      "name": "Alfonso Escudero Ortega",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18289&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18290",
+      "name": "Baldomero Espinosa Moreno",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18290&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18201",
+      "name": "Rafael Esteban Santamaría",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18201&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17028",
+      "name": "María Dolores Etxano Varela",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17028&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-108-15",
+      "name": "Alberto Fabra Part",
+      "start": "2019-06-27",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16746&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-29-15",
+      "name": "Antidio Fagúndez Campo",
+      "start": "2018-12-12",
+      "end": "2019-07-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17825&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18200",
+      "name": "Francisco Manuel Fajardo Palarea",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18200&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16925",
+      "name": "Virginia Felipe Saelices",
+      "start": "2015-10-15",
+      "end": "2019-07-01",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16925&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16425",
+      "name": "Jesús Fermosel Díaz",
+      "start": "2015-07-09",
+      "end": "2019-06-11",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16425&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17785",
+      "name": "María Fernández Álvarez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17785&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12970",
+      "name": "José Fernández Blanco",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12970&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18365",
+      "name": "María Isabel Fernández Gutiérrez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18365&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18825",
+      "name": "María Teresa Fernández Molina",
+      "start": "2019-07-23",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18825&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18199",
+      "name": "Manuel Ángel Fernández Palomino",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18199&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15234",
+      "name": "Francisco José Fernández Pérez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15234&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18605",
+      "name": "Eduardo Fernández Rubiño",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18605&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18826",
+      "name": "Gregorio Jesús Fernández Vaquero",
+      "start": "2019-07-23",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18826&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18665",
+      "name": "José Miguel Fernández Viadero",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18665&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18346",
+      "name": "Antonio Armando Ferrer Sais",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18346&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17155",
+      "name": "Miguel Fidalgo Iglesias",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17155&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-55-15",
+      "name": "Carlos Javier Floriano Corrales",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12698&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18198",
+      "name": "Juan Carlos Francisco Rivera",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18198&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18046",
+      "name": "Antonio Francisco Fuster Zanoguera",
+      "start": "2019-02-20",
+      "end": "2019-07-11",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18046&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18197",
+      "name": "Sara María Galván Lobato",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18197&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-281-12",
+      "name": "José Ramón García Cañal",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18094&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18196",
+      "name": "Gustavo García García",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18196&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18325",
+      "name": "María Sandra García Martín",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18325&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18195",
+      "name": "Julio García Moreno",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18195&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18426",
+      "name": "María del Carmen García Querol",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18426&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18326",
+      "name": "Javier Garcinuño Rama",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18326&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18068",
+      "name": "María Mercedes Garmendia Bereciartu",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18068&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15307",
+      "name": "Ander Gil García",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15307&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18291",
+      "name": "Juan Antonio Gilabert Sánchez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18291&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18292",
+      "name": "Carlos Giménez Bertomeu",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18292&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18194",
+      "name": "María Ascensión Godoy Tena",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18194&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17945",
+      "name": "Esperanza Gómez Corona",
+      "start": "2019-02-07",
+      "end": "2019-10-08",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17945&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18427",
+      "name": "María Blanca Gómez Serra",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18427&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-192-12",
+      "name": "Josefa Inmaculada González Bayo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18185&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15505",
+      "name": "Ana Lourdes González García",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15505&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18293",
+      "name": "Jesús González Márquez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18293&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17665",
+      "name": "Jaime González Taboada",
+      "start": "2017-10-05",
+      "end": "2019-06-11",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17665&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-2-10",
+      "name": "Sebastián González Vázquez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17037&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16905",
+      "name": "Fernando Goñi Merino",
+      "start": "2015-09-25",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16905&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18147",
+      "name": "Ruth Goñi Sarries",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18147&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-415-10",
+      "name": "Josep Lluís Grau Valles",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17014&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18096",
+      "name": "José Julián Gregorio López",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18096&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-175-12",
+      "name": "Antonio Gutiérrez Limones",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14081&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-50-12",
+      "name": "Miguel Ángel Heredia Díaz",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18307&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18193",
+      "name": "Paloma Hernández Cerezo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18193&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18294",
+      "name": "María Nieves Hernández Espinal",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18294&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18192",
+      "name": "Susana Hernández Ruiz",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18192&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-202-15",
+      "name": "Rafael Antonio Hernando Fraile",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10308&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17947",
+      "name": "María Mar Hormigo León",
+      "start": "2019-02-07",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17947&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16969",
+      "name": "Amaro Huelva Betanzos",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16969&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15045",
+      "name": "Marcelino Iglesias Ricou",
+      "start": "2015-07-28",
+      "end": "2019-09-05",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15045&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12833",
+      "name": "Juan José Imbroda Ortiz",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12833&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16165",
+      "name": "María del Mar del Pino Julios Reyes",
+      "start": "2015-07-21",
+      "end": "2019-07-30",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16165&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18098",
+      "name": "Francisco Javier Lacalle Lacalle",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18098&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18066",
+      "name": "Imanol Landa Jáuregui",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18066&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16765",
+      "name": "Nemesio de Lara Guerrero",
+      "start": "2015-07-30",
+      "end": "2019-07-22",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16765&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18191",
+      "name": "Fernando Lastra Valdés",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18191&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18190",
+      "name": "José Latorre Ruiz",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18190&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18585",
+      "name": "María Victoria Leal Utiel",
+      "start": "2019-07-04",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18585&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16586",
+      "name": "Rafael Damián Lemus Rubiales",
+      "start": "2019-07-19",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16586&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "start": "2019-06-27",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14145",
+      "name": "María del Carmen Leyte Coello",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14145&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18295",
+      "name": "Julia María Liberal Liberal",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18295&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18485",
+      "name": "Pilar Liébana Soto",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18485&legis=13&lang=es_ES"
+    },
+    {
+      "person": "pilar-llop-cuenca",
+      "name": "María Pilar Llop Cuenca",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18646&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18965",
+      "name": "Fernando López Gil",
+      "start": "2019-09-12",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18965&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18845",
+      "name": "María Teresa López Martín",
+      "start": "2019-07-24",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18845&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18189",
+      "name": "María Ángeles López Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18189&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18296",
+      "name": "Joaquín López Pagán",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18296&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-295-12",
+      "name": "Miguel Lorenzo Torres",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18099&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "start": "2015-07-20",
+      "end": "2019-07-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18188",
+      "name": "Francisco Javier de Lucas Martín",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18188&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18465",
+      "name": "Jesús Javier Lucía Marugán",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18465&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18187",
+      "name": "María de los Ángeles Luna Morales",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18187&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18186",
+      "name": "María Teresa Macías Mateos",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18186&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18247",
+      "name": "Antonio Magdaleno Alegría",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18247&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18308",
+      "name": "Constantino Marcos Álvarez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18308&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16465",
+      "name": "Tomás Marcos Arias",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16465&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-188-15",
+      "name": "José Vicente Marí Bosó",
+      "start": "2019-07-12",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18685&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18865",
+      "name": "Javier Ignacio Maroto Aranzábal",
+      "start": "2019-07-24",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18865&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18100",
+      "name": "Francisco Javier Márquez Sánchez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18100&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17165",
+      "name": "Jordi Martí Deulofeu",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17165&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18101",
+      "name": "Juan Pablo Martín Martín",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18101&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18246",
+      "name": "Estefanía Martín Palop",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18246&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-354-10",
+      "name": "María Teresa Martín Pozo",
+      "start": "2019-09-09",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18945&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15302",
+      "name": "Jesús Martín Rodríguez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15302&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18102",
+      "name": "Jorge Domingo Martínez Antolín",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18102&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18445",
+      "name": "María Ángeles Martínez Blanco",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18445&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18405",
+      "name": "Fernando Martínez López",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18405&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15322",
+      "name": "Gerardo Martínez Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15322&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18297",
+      "name": "Ana Martínez Zaragoza",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18297&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-32-12",
+      "name": "Fernando Martínez-Maíllo Toribio",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18103&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18166",
+      "name": "Josep Maria Matamala Alsina",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18166&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-123-15",
+      "name": "Sergio Carlos Matos Castro",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18309&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18165",
+      "name": "Ángel Mayo Llanos",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18165&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18104",
+      "name": "Rodrigo Mediavilla Pérez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18104&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18072",
+      "name": "Juan Carlos Medina Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18072&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18705",
+      "name": "Pedro Anatael Meneses Roqué",
+      "start": "2019-07-17",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18705&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18245",
+      "name": "María del Carmen Mínguez Sierra",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18245&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18244",
+      "name": "Manuel Miranda Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18244&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18243",
+      "name": "César Alejandro Mogo Zaro",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18243&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18242",
+      "name": "Hamed Mohamed Ahmed",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18242&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18310",
+      "name": "Susanna Moll Kammerich",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18310&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14265",
+      "name": "José Antonio Monago Terraza",
+      "start": "2019-07-19",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14265&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18241",
+      "name": "Pedro Antonio Montalvo Íñigo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18241&legis=13&lang=es_ES"
+    },
+    {
+      "person": "jose-montilla-aguilera",
+      "name": "José Montilla Aguilera",
+      "start": null,
+      "end": null,
+      "group": "",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15507&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18298",
+      "name": "Ramón Morales Quesada",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18298&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18299",
+      "name": "María del Carmen Morán Franco",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18299&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17985",
+      "name": "Jacinto Morano González",
+      "start": "2019-02-08",
+      "end": "2019-07-10",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17985&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18240",
+      "name": "María Isabel Moreno Duque",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18240&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18311",
+      "name": "Alfonso Carlos Moscoso González",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18311&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16185",
+      "name": "María Encarnación Moya Nieto",
+      "start": "2015-07-09",
+      "end": "2019-07-10",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16185&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16605",
+      "name": "Carles Mulet García",
+      "start": "2019-06-27",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16605&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18239",
+      "name": "Alfonso Muñoz Cuenca",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18239&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18526",
+      "name": "Elena Muñoz Fonteriz",
+      "start": "2019-06-26",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18526&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17948",
+      "name": "José Muñoz Sánchez",
+      "start": "2019-02-07",
+      "end": "2019-07-05",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17948&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16985",
+      "name": "María Ángeles Muñoz Uriol",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16985&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18238",
+      "name": "María Montserrat Muro Martín",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18238&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17805",
+      "name": "Miguel Ángel Nacarino Muriel",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17805&legis=13&lang=es_ES"
+    },
+    {
+      "person": "cristina-narbona-ruiz",
+      "name": "María Cristina Narbona Ruiz",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18300&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-125-12",
+      "name": "Micaela Navarro Garzón",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10141&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18925",
+      "name": "Joaquín Noé Serrano",
+      "start": "2019-08-26",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18925&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18301",
+      "name": "José María Oleaga Zalvidea",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18301&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16525",
+      "name": "Francisco Javier Oñate Marín",
+      "start": "2015-07-13",
+      "end": "2019-07-19",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16525&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16993",
+      "name": "Félix Ortega Fernández",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16993&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18070",
+      "name": "Almudena Otaola Urquijo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18070&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18237",
+      "name": "María Victoria de Pablo Dávila",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18237&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-321-12",
+      "name": "Gonzalo Palacín Guarné",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18345&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17706",
+      "name": "Marta Pascal Capdevila",
+      "start": "2018-05-04",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17706&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18071",
+      "name": "María Rosa Peral Díez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18071&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17357",
+      "name": "Elisenda Pérez Esteve",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17357&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18145",
+      "name": "Carlos Pérez González",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18145&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15212",
+      "name": "Juan Carlos Pérez Navas",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15212&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17327",
+      "name": "Bernat Picornell Grenzner",
+      "start": "2018-05-04",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17327&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18236",
+      "name": "Inés María Plaza García",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18236&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-129-15",
+      "name": "Modesto Pose Mesura",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17185&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17066",
+      "name": "Salomé Pradas Ten",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17066&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17353",
+      "name": "Fernando Priego Chacón",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17353&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18105",
+      "name": "Laura Concepción Prieto Arribas",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18105&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-359-10",
+      "name": "Javier Puente Redondo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18106&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18127",
+      "name": "José Quintana Caralt",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18127&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-43-12",
+      "name": "María del Carmen Quintanilla Barba",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18107&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18235",
+      "name": "María Rocío Rábago Gómez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18235&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18234",
+      "name": "Artemi Vicent Rallo Lombarte",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18234&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18108",
+      "name": "Sergio Ramos Acosta",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18108&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18886",
+      "name": "Pedro Manuel Ramos Negrín",
+      "start": "2019-07-31",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18886&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18765",
+      "name": "Lourdes Retuerto Rodríguez",
+      "start": "2019-07-20",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18765&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15294",
+      "name": "Maria Teresa Rivero Segalàs",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15294&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17045",
+      "name": "Gonzalo Jesús Robles Orozco",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17045&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-51-15",
+      "name": "Patricia Rodríguez Calleja",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18109&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15785",
+      "name": "Antonio Julián Rodríguez Esquerdo",
+      "start": "2016-12-15",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15785&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18233",
+      "name": "Pedro Manuel Rodríguez Navarro",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18233&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17525",
+      "name": "Jorge Alberto Rodríguez Pérez",
+      "start": "2016-12-21",
+      "end": "2019-07-30",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17525&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18232",
+      "name": "Donelia Roldán Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18232&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17705",
+      "name": "Lorena Roldán Suárez",
+      "start": "2018-05-04",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17705&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-59-15",
+      "name": "Antonio Román Jasanada",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12864&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-241-14",
+      "name": "Carmelo Romero Hernández",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18111&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18129",
+      "name": "Raül Romeva Rueda",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18129&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-248-15",
+      "name": "Fernando De Rosa Torner",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18112&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-318-9",
+      "name": "Luisa Fernanda Rudi Úbeda",
+      "start": "2019-09-06",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16685&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17107",
+      "name": "Josep Rufà Gràcia",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17107&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-362-15",
+      "name": "Víctor Javier Ruiz de Diego",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18231&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17965",
+      "name": "María Teresa Ruiz-Sillero Bernal",
+      "start": "2019-02-07",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17965&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18113",
+      "name": "Pablo Ruz Villanueva",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18113&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-26-9",
+      "name": "María Salom Coll",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18115&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17050",
+      "name": "Clara Isabel San Damián Hernández",
+      "start": "2019-04-28",
+      "end": "2019-09-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17050&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15085",
+      "name": "Diego Sánchez Duque",
+      "start": "2015-07-21",
+      "end": "2019-07-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15085&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18745",
+      "name": "Miguel Sánchez López",
+      "start": "2019-07-20",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18745&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18005",
+      "name": "Clemente Sánchez-Garnica Gómez",
+      "start": "2019-09-06",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18005&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18527",
+      "name": "José Manuel Sande García",
+      "start": "2019-06-26",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18527&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-14026",
+      "name": "Saturnina Santana Dumpiérrez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14026&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18230",
+      "name": "Eduardo Santiago Calleja",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18230&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18606",
+      "name": "Carlota Santiago Camacho",
+      "start": "2019-07-11",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18606&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18116",
+      "name": "Javier Santiago Vélez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18116&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16365",
+      "name": "Pedro María Sanz Alonso",
+      "start": "2015-07-08",
+      "end": "2019-06-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16365&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-15317",
+      "name": "Paloma Inés Sanz Jerónimo",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15317&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18118",
+      "name": "Juan José Sanz Vitorio",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18118&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18119",
+      "name": "Domingo José Segado Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18119&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12866",
+      "name": "Antonio Serrano Aguilar",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12866&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-193-12",
+      "name": "María Jesús Serrano Jiménez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18302&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16991",
+      "name": "Riansares Serrano Morales",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16991&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18428",
+      "name": "Rosa María Serrano Sierra",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18428&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18229",
+      "name": "José Salvador Sierra García",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18229&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-12690",
+      "name": "Juan Soler-Espiauba Gallo",
+      "start": "2015-07-09",
+      "end": "2019-06-11",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12690&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-349-12",
+      "name": "Ana María Surra Spadea",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO ESQUERRA REPUBLICANA-EH BILDU (GPERB )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18128&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-257-15",
+      "name": "Obdulia Taboadela Álvarez",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18219&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18285",
+      "name": "José Manuel Tofiño Pérez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18285&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-119-15",
+      "name": "Violante Tomás Olivares",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18120&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18228",
+      "name": "Carmen Torralba Valiente",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18228&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18227",
+      "name": "Elia Tortolero Orejuela",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18227&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-357-7",
+      "name": "José Manuel Tortosa Ruiz",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18121&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18069",
+      "name": "Luis Jesús Uribe-Etxebarria Apalategui",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO NACIONALISTA EN EL SENADO JUNTS PER CATALUNYA-COALICIÓN CANARIA/PARTIDO NACIONALISTA CANARIO (GPN )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18069&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18226",
+      "name": "José Antonio Valbuena Alonso",
+      "start": "2019-04-28",
+      "end": "2019-07-16",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18226&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18225",
+      "name": "Francisco Valera González",
+      "start": "2019-04-28",
+      "end": "2019-07-03",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18225&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18067",
+      "name": "María Isabel Vaquero Montero",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18067&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18122",
+      "name": "Manuel Lorenzo Varela Rodríguez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18122&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-214-9",
+      "name": "Jesús Vázquez Abad",
+      "start": "2019-06-26",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18525&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17951",
+      "name": "Miguel Ángel Vázquez Bermúdez",
+      "start": "2019-02-07",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17951&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18224",
+      "name": "Antonio Vázquez Lorenzo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18224&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18146",
+      "name": "Ana Pilar Velilla Martínez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO CIUDADANOS (GPCs )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18146&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18223",
+      "name": "Cándida Verdier Mayoral",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18223&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-192-15",
+      "name": "Vicenç Vidal Matas",
+      "start": "2019-07-12",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18645&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18222",
+      "name": "Salvador Vidal Varela",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18222&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-17326",
+      "name": "Sara Vilà Galán",
+      "start": "2018-05-04",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17326&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18221",
+      "name": "María José Villalba Chavarría",
+      "start": "2019-04-28",
+      "end": "2019-12-02",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18221&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-16865",
+      "name": "Idoia Villanueva Ruiz",
+      "start": "2015-09-17",
+      "end": "2019-06-17",
+      "group": "GRUPO PARLAMENTARIO IZQUIERDA CONFEDERAL (ADELANTE ANDALUCÍA, MÉS PER MALLORCA, COMPROMÍS, MÁS MADRID Y CATALUNYA EN COMÚ PODEM) (GPIC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16865&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18220",
+      "name": "Ana Isabel Villar Lechón",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18220&legis=13&lang=es_ES"
+    },
+    {
+      "person": "congreso-103-12",
+      "name": "Miguel Ángel Viso Diéguez",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18123&legis=13&lang=es_ES"
+    },
+    {
+      "person": "senado-18312",
+      "name": "Alejandro José Zubeldia Santoyo",
+      "start": "2019-04-28",
+      "end": "2019-09-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=18312&legis=13&lang=es_ES"
+    }
+  ],
+  "finalBoard": [
+    {
+      "person": "congreso-262-12",
+      "name": "Manuel Cruz Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    },
+    {
+      "person": "cristina-narbona-ruiz",
+      "name": "María Cristina Narbona Ruiz",
+      "role": "VICEPRESIDENTA PRIMERA",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "VICEPRESIDENTE SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    },
+    {
+      "person": "senado-18405",
+      "name": "Fernando Martínez López",
+      "role": "SECRETARIO PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    },
+    {
+      "person": "senado-16984",
+      "name": "Olivia María Delgado Oval",
+      "role": "SECRETARIA SEGUNDA",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    },
+    {
+      "person": "senado-18066",
+      "name": "Imanol Landa Jáuregui",
+      "role": "SECRETARIO TERCERO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    },
+    {
+      "person": "congreso-202-15",
+      "name": "Rafael Antonio Hernando Fraile",
+      "role": "SECRETARIO CUARTO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=13&order=C"
+    }
+  ],
+  "incidents": []
+}

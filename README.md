@@ -1,6 +1,6 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.6.0 · 8 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.7.0 · 8 de octubre de 2026.
 
 Cuestionario de 48 preguntas piloto, 8 temas y 16 ejes. Ficha centrada de esquinas rectas, respuestas sin cajetines, importancia y omisión. Cada pregunta permite ampliar su contexto. «Mi perfil» se actualiza con las respuestas. Al responder, una microbarra de tres segundos permite ajustar la importancia antes del avance automático. Cambiar la respuesta o la importancia no reinicia ese plazo; navegar cancela el avance pendiente. La última respuesta abre el perfil.
 
@@ -58,3 +58,11 @@ Las pruebas cubren cálculo, importancia, omisiones, importaciones, navegación,
 - [Archivo político y cobertura](docs/archivo-politico.md).
 
 [Portfolio](https://alejandropico.github.io/Portfolio/) · [Repositorio](https://github.com/AlejandroPico/Elecciones)
+
+## Actividad y Senado
+
+Personas y partidos priorizan actividad documentada, después los casos por confirmar y finalmente el archivo histórico. La prioridad se conserva con cualquier orden secundario y con los filtros. No se utiliza la edad, la ausencia de fotografía ni la inscripción registral para inferir retirada o actividad. Una disolución de las Cámaras no convierte automáticamente a sus integrantes en retirados. Los criterios contrastados se conservan en `actividad.json` junto a cada ficha, con fuentes y fecha; las biografías explican su alcance.
+
+«Gobiernos» despliega «Gobierno y Congreso» y «Senado». El Senado ofrece las 16 legislaturas desde 1977, con Presidencia, vicepresidencias, secretarías de la Mesa, portavoces de grupos, presidencias de comisión y mandatos individuales. Las composiciones se guardan en `Gobiernos/Senado/<legislatura>/`, sus herramientas en `Gobiernos/herramientas/` y sus informes en `Gobiernos/revisiones/`. `mandatos-senado.json` y `cargos-senado.json` pertenecen a la carpeta de cada persona. El historial del navegador conserva el punto elegido.
+
+La cronología utiliza altas y bajas individuales, con baja inclusiva. No inventa fechas de cargo. El Pleno agrupa la última adscripción publicada para cada mandato; no reconstruye traslados internos sin fechas. La XV legislatura se representa antes de su disolución. Todos los cargos propios de una persona se reúnen en un único apartado de relaciones, incluidos los cargos del Senado.

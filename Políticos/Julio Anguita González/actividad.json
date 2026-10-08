@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Julio Anguita · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Julio_Anguita",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Julio Anguita · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2545691#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Julio Anguita · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2545691#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

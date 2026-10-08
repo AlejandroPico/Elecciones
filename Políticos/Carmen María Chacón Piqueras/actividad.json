@@ -1,0 +1,26 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · Ficha personal",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=319&idLegislatura=IX&mostrarAgenda=false"
+    },
+    {
+      "label": "Carme Chacón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carme_Chac%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carme Chacón · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q138416#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Carme Chacón · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q138416#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

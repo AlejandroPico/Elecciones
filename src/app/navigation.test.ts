@@ -5,6 +5,7 @@ describe("direcciones de secciones y fichas", () => {
     const routes: Route[] = [
       { view: "governments" },
       { view: "governments", entry: { kind: "government", id: "VII-2003-09" } },
+      { view: "senate", entry: { kind: "senate", id: "senado-14-2021-07-12" } },
       { view: "archive", entry: { kind: "person", id: "pedro-sánchez/2026" } },
       { view: "programs", entry: { kind: "party", id: "psoe" } },
       { view: "offices", entry: { kind: "office", id: "defensa" } },

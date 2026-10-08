@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { Fragment, useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowLeft,
   ArrowRight,
@@ -23,6 +23,8 @@ import { useInfiniteList } from "../../src/app/useInfiniteList";
 import { activityOf, matchesPerson, orderPeople, type Order } from "./orden";
 import PartyDetail from "../../Partidos/interfaz/Ficha";
 import { Portrait } from "./Retrato";
+import { activityLabels, personActivity, type ActivityState } from "./actividad";
+import { ownOfficeTerms } from "./relaciones";
 export { Portrait } from "./Retrato";
 import Sources from "../../src/app/Sources";
 import {
@@ -47,6 +49,7 @@ export default function Archive({
   const [order, setOrder] = useState<Order>("name");
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState("all");
+  const [activityFilter, setActivityFilter] = useState<ActivityState | "all">("all");
   const [history, setHistory] = useState<Route[]>(
     initialRoute ? [initialRoute] : [],
   );
@@ -71,13 +74,13 @@ export default function Archive({
           p,
           search,
           p.organization ? organizationsById.get(p.organization)?.fullName : undefined,
-        ) && matchesAffiliation(p, filter),
+        ) && matchesAffiliation(p, filter) && (activityFilter === "all" || personActivity(p) === activityFilter),
     ),
     order,
-  ), [search, filter, order]);
+  ), [search, filter, order, activityFilter]);
   const { visibleCount, sentinel } = useInfiniteList(
     foundPeople.length,
-    `${search}|${filter}|${order}`,
+    `${search}|${filter}|${order}|${activityFilter}`,
     40,
     !route,
   );
@@ -125,6 +128,12 @@ export default function Archive({
               <option value="independent">Independientes</option>
               <option value="pending">Vinculación pendiente</option>
             </select>
+            <select aria-label="Filtrar personas por actividad" value={activityFilter} onChange={(e) => setActivityFilter(e.target.value as ActivityState | "all")}>
+              <option value="all">Activos primero · todos</option>
+              <option value="active">Actividad actual documentada</option>
+              <option value="unknown">Actividad por confirmar</option>
+              <option value="historical">Archivo histórico</option>
+            </select>
             <select
               aria-label="Ordenar personas"
               value={order}
@@ -137,7 +146,11 @@ export default function Archive({
             </select>
           </div>
           <div className="people-grid">
-            {foundPeople.slice(0, visibleCount).map((p) => (
+            {foundPeople.slice(0, visibleCount).map((p, i) => (
+              <Fragment key={p.id}>
+              {(i === 0 || personActivity(foundPeople[i - 1]) !== personActivity(p)) && (
+                <h2 className="catalog-group-title">{activityLabels[personActivity(p)]}</h2>
+              )}
               <button
                 className="person-card"
                 key={p.id}
@@ -159,6 +172,7 @@ export default function Archive({
                   </div>
                 </div>
               </button>
+              </Fragment>
             ))}
           </div>
           {foundPeople.length === 0 && (
@@ -404,28 +418,27 @@ export default function Archive({
                     ))}
                   </article>
                 )}
-                {person.offices.map((id) => {
-                  const o = offices.find((o) => o.id === id);
-                  if (!o) return null;
-                  const ownTerms = o.members.filter(
-                    (member) => findPerson(member.person)?.id === person.id,
-                  );
-                  if (!ownTerms.length) return null;
-                  return (
-                    <article key={id}>
-                      <span className="eyebrow">RELACIONES POR CARGO</span>
-                      <h3>{o.name}</h3>
+                {!!ownOfficeTerms(person).length && (
+                    <article>
+                      <h3>Relaciones por cargo</h3>
                       <ol className="political-timeline">
-                        {ownTerms.map((m, i) => (
-                          <li key={`${m.period}-${i}`}>
+                        {ownOfficeTerms(person).map((m) => (
+                          <li key={`${m.name}-${m.period}`}>
                             <span>{m.period}</span>
-                            <h4>{o.name}</h4>
+                            <h4>{m.office ? <button className="inline-link" onClick={() => go("office", m.office!)}>{m.name}</button> : m.name}</h4>
+                            {m.source && <Sources sources={[m.source]} />}
                           </li>
                         ))}
                       </ol>
                     </article>
-                  );
-                })}
+                )}
+                {person.activity && (
+                  <article>
+                    <h3>Actividad documentada</h3>
+                    <p>{person.activity.reason}</p>
+                    <Sources sources={person.activity.sources} />
+                  </article>
+                )}
                 {!!relatedParty?.documents.length && (
                   <article>
                     <span className="eyebrow">DOCUMENTACIÓN</span>

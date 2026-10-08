@@ -1,0 +1,32 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Wikipedia · Francisco Fernández Ordóñez · consulta 7 de octubre de 2026",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ordo%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Francisco Fernández Ordóñez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Fern%C3%A1ndez_Ord%C3%B3%C3%B1ez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Francisco Fernández Ordóñez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1441961#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Francisco Fernández Ordóñez · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q1441961#P570",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=249&idLegislatura=III",
+      "kind": "institutional"
+    }
+  ]
+}

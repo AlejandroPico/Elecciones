@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Federico Mayor Zaragoza · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Federico_Mayor_Zaragoza",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Federico Mayor Zaragoza · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q457158#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Federico Mayor Zaragoza · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q457158#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

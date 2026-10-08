@@ -7,6 +7,7 @@ import { PartyLogo } from "./Logotipo";
 import Sources from "../../src/app/Sources";
 import { matchesAffiliation } from "../../Políticos/interfaz/vinculaciones";
 import { useInfiniteList } from "../../src/app/useInfiniteList";
+import { orderPeople } from "../../Políticos/interfaz/orden";
 function documentedDate(value: NonNullable<Organization["founding"]>) {
   if (value.precision <= 9) return value.date.slice(0, 4);
   return new Intl.DateTimeFormat("es-ES", value.precision === 10 ? { month: "long", year: "numeric" } : {day: "numeric", month:"long",year:"numeric"}).format(new Date(value.date+"T12:00:00"));
@@ -20,7 +21,7 @@ export default function PartyDetail({
   heading: RefObject<HTMLHeadingElement | null>;
   go: (kind: "person", id: string) => void;
 }) {
-  const related = people.filter((p) => matchesAffiliation(p, party.id));
+  const related = orderPeople(people.filter((p) => matchesAffiliation(p, party.id)), "name");
   const { visibleCount, sentinel } = useInfiniteList(related.length, party.id, 20);
   return (
     <div className="party-detail" key={party.id}>
@@ -83,6 +84,7 @@ export default function PartyDetail({
         </a>
       )}
       <div className="party-detail-grid">
+        {party.activity && <article><h3>Actividad documentada</h3><p>{party.activity.reason}</p><Sources sources={party.activity.sources} /></article>}
         {!!party.electoralResults?.length && (
           <article>
             <h3>Resultados electorales</h3>

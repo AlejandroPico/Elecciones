@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "José Pedro Pérez-Llorca · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Pedro_P%C3%A9rez-Llorca",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Pedro Pérez-Llorca · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3186513#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Pedro Pérez-Llorca · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3186513#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

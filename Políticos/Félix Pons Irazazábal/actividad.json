@@ -1,0 +1,27 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Wikipedia · Félix Pons · consulta 7 de octubre de 2026",
+      "url": "https://es.wikipedia.org/wiki/F%C3%A9lix_Pons_Irazaz%C3%A1bal",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Félix Pons · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/F%C3%A9lix_Pons",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Félix Pons · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1268476#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Félix Pons · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q1268476#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

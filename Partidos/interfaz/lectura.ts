@@ -28,7 +28,7 @@ export function partyCatalogPlugin(): Plugin {
           folders.slice(offset, offset + 64).map(async (folder) => {
             const path = join(directory, folder.name);
             for (const name of (await readdir(path)).filter((n) =>
-              ["ficha.json", "fuentes.json", "historia.json", "dirigentes.json", "programas.json", "logotipo.json", "resultados.json", "documentacion.json"].includes(n),
+              ["ficha.json", "fuentes.json", "historia.json", "dirigentes.json", "programas.json", "logotipo.json", "resultados.json", "documentacion.json", "actividad.json"].includes(n),
             )) {
               const file = join(path, name);
               files[`../${folder.name}/${name}`] = JSON.parse(

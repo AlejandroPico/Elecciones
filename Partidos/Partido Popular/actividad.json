@@ -1,0 +1,31 @@
+{
+  "state": "active",
+  "reason": "Vinculación documentada con representantes o dirigentes en actividad reciente. No equivale a una candidatura proclamada para las próximas elecciones.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=14445",
+      "kind": "institutional"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=7&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=172&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=391&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "PP · Historia de sus presidencias",
+      "url": "https://www.pp.es/historia/"
+    }
+  ]
+}

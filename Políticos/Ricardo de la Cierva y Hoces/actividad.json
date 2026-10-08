@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Ricardo de la Cierva · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ricardo_de_la_Cierva",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ricardo de la Cierva · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2748457#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ricardo de la Cierva · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2748457#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

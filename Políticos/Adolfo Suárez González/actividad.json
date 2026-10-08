@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Adolfo Suárez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Adolfo_Su%C3%A1rez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Adolfo Suárez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q214367#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Adolfo Suárez · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q214367#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

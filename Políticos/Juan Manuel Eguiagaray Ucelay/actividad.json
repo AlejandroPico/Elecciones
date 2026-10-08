@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Juan Manuel Eguiagaray · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Eguiagaray",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Manuel Eguiagaray · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2750056#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Manuel Eguiagaray · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2750056#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

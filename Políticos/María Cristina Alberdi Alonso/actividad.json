@@ -1,0 +1,26 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · Ficha personal",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=219&idLegislatura=VII&mostrarAgenda=false"
+    },
+    {
+      "label": "Cristina Alberdi · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Cristina_Alberdi",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Cristina Alberdi · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3002877#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Cristina Alberdi · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3002877#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

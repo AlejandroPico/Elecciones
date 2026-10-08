@@ -3,7 +3,7 @@
 }
 .archive .archive-controls {
   display: grid;
-  grid-template-columns: minmax(220px, 1fr) auto auto;
+  grid-template-columns: minmax(180px, 1fr) repeat(3, minmax(0, auto));
   gap: 28px;
   padding: 22px 0;
   margin: 0 0 22px;
@@ -90,6 +90,25 @@
   height: 1px;
   margin-top: 20px;
 }
+.catalog-group-title {
+  grid-column: 1 / -1;
+  margin: 16px 0 2px;
+  padding: 0 0 10px;
+  border-bottom: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: .04em;
+}
+.inline-link {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+}
+.inline-link:hover { color: var(--accent); }
 @media (max-width: 960px) {
   .archive .archive-controls {
     gap: 15px;

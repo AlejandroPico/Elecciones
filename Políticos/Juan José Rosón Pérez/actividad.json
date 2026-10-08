@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Juan José Rosón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Ros%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan José Rosón · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3026812#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan José Rosón · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3026812#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

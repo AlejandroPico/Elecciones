@@ -1,0 +1,145 @@
+{
+  "checkedAt": "2026-10-08",
+  "legislatures": [
+    {
+      "legislature": 15,
+      "senators": 311,
+      "datedMandates": 311,
+      "boardTerms": 9,
+      "spokespersonTerms": 248,
+      "incidents": []
+    },
+    {
+      "legislature": 14,
+      "senators": 313,
+      "datedMandates": 312,
+      "boardTerms": 8,
+      "spokespersonTerms": 268,
+      "incidents": []
+    },
+    {
+      "legislature": 13,
+      "senators": 291,
+      "datedMandates": 290,
+      "boardTerms": 7,
+      "spokespersonTerms": 42,
+      "incidents": []
+    },
+    {
+      "legislature": 12,
+      "senators": 304,
+      "datedMandates": 304,
+      "boardTerms": 7,
+      "spokespersonTerms": 192,
+      "incidents": []
+    },
+    {
+      "legislature": 11,
+      "senators": 265,
+      "datedMandates": 265,
+      "boardTerms": 7,
+      "spokespersonTerms": 34,
+      "incidents": [
+        "17156: intervalo de cargo invertido en la fuente",
+        "16165: intervalo de cargo invertido en la fuente",
+        "17109: intervalo de cargo invertido en la fuente"
+      ]
+    },
+    {
+      "legislature": 10,
+      "senators": 347,
+      "datedMandates": 347,
+      "boardTerms": 8,
+      "spokespersonTerms": 90,
+      "incidents": []
+    },
+    {
+      "legislature": 9,
+      "senators": 324,
+      "datedMandates": 324,
+      "boardTerms": 9,
+      "spokespersonTerms": 116,
+      "incidents": []
+    },
+    {
+      "legislature": 8,
+      "senators": 298,
+      "datedMandates": 298,
+      "boardTerms": 9,
+      "spokespersonTerms": 63,
+      "incidents": []
+    },
+    {
+      "legislature": 7,
+      "senators": 317,
+      "datedMandates": 317,
+      "boardTerms": 12,
+      "spokespersonTerms": 51,
+      "incidents": []
+    },
+    {
+      "legislature": 6,
+      "senators": 308,
+      "datedMandates": 308,
+      "boardTerms": 10,
+      "spokespersonTerms": 65,
+      "incidents": []
+    },
+    {
+      "legislature": 5,
+      "senators": 299,
+      "datedMandates": 298,
+      "boardTerms": 9,
+      "spokespersonTerms": 28,
+      "incidents": []
+    },
+    {
+      "legislature": 4,
+      "senators": 294,
+      "datedMandates": 294,
+      "boardTerms": 7,
+      "spokespersonTerms": 21,
+      "incidents": []
+    },
+    {
+      "legislature": 3,
+      "senators": 287,
+      "datedMandates": 287,
+      "boardTerms": 8,
+      "spokespersonTerms": 26,
+      "incidents": []
+    },
+    {
+      "legislature": 2,
+      "senators": 266,
+      "datedMandates": 266,
+      "boardTerms": 8,
+      "spokespersonTerms": 22,
+      "incidents": []
+    },
+    {
+      "legislature": 1,
+      "senators": 223,
+      "datedMandates": 223,
+      "boardTerms": 10,
+      "spokespersonTerms": 31,
+      "incidents": []
+    },
+    {
+      "legislature": 0,
+      "senators": 250,
+      "datedMandates": 250,
+      "boardTerms": 7,
+      "spokespersonTerms": 39,
+      "incidents": []
+    }
+  ],
+  "uniqueSenators": 2521,
+  "mandates": 4697,
+  "limitations": [
+    "El grupo de cada mandato es la última adscripción conservada en la ficha, no un historial fechado de cambios internos.",
+    "No se inventan fechas para cargos o mandatos sin alta individual publicada.",
+    "El Pleno y Mesa de la XV Legislatura se representan antes de la disolución del 6 de octubre de 2026.",
+    "Los cargos de la Mesa y portavocías se reconstruyen a partir de intervalos individuales de todas las legislaturas desde 1977."
+  ]
+}

@@ -97,3 +97,20 @@ Verificar cálculo, cobertura de contextos, referencias cruzadas, intervalos tem
 - `resultados.json` en cada partido contiene elección, fecha, cámara, candidatura, votos, escaños y fuente. Las coaliciones electorales llevan identidad propia: no repartir sus cifras entre integrantes. `documentacion.json` contiene enlaces públicos con título, tipo, fecha y formato cuando consten. Una inscripción no prueba actividad actual; un dominio antiguo puede haber cambiado de propietario. Un nombre reutilizado no autoriza copiar historia ni logotipo de otra entidad.
 - `src/app/navigation.ts` gobierna las rutas `#/archivo/person/<id>`, `#/partidos/party/<id>`, `#/cargos/office/<id>` y `#/gobiernos/government/<id>`. Toda apertura interna debe pasar por ese historial central. Nunca sustituirlo por un estado local sin actualizar la dirección. Conservar filtros y posición al retroceder. Los enlaces de salto al contenido no cambian la ruta.
 - En fichas personales, «Relaciones por cargo» muestra exclusivamente los periodos del propio titular. Las sucesiones completas pertenecen a la sección de cargos.
+
+
+## Actividad y archivo histórico
+
+Personas y partidos conservan todas sus fichas. El orden principal es actividad acreditada, actividad por confirmar y archivo histórico; el orden secundario elegido se aplica dentro de cada grupo. Los filtros permiten consultar los tres estados. No usar edad, ausencia de fotografía, inscripción registral ni fin de una legislatura como prueba de retirada. Un fallecimiento o una disolución documentados sí acreditan el estado histórico. La actividad parlamentaria inmediatamente anterior a una disolución acredita participación reciente, no un escaño vigente tras ella.
+
+`actividad.json` en la carpeta propia conserva `{state, reason, checkedAt, sources}`. Estados: `active`, `historical`, `unknown`. Toda afirmación de actividad actual necesita fuentes individuales o institucionales y fecha de consulta. Una trayectoria cerrada no acredita retirada y queda por confirmar si no hay evidencia adicional. Una trayectoria con periodo abierto sin contraste reciente queda por confirmar. La ausencia de clasificación no elimina ninguna ficha.
+
+## Senado
+
+`Gobiernos/Senado/<ordinal romano> Legislatura/` conserva `composicion.json` y `fuentes.json`; la Constituyente tiene carpeta propia. `Gobiernos/herramientas/` y `Gobiernos/revisiones/` están reservadas para incorporación y auditoría. La navegación `#/senado/senate/<composición>` comparte el historial central y aparece bajo el desplegable Gobiernos, junto a Gobierno y Congreso.
+
+Consultar todas las legislaturas desde 1977 y cada ficha individual. `mandatos-senado.json` y `cargos-senado.json` pertenecen a la carpeta de cada persona. Conservar fechas individuales, órgano, función y enlace. La fecha de baja publicada por el Senado es inclusiva: el relevo se representa al día siguiente cuando corresponde. La fecha general de la legislatura nunca sustituye un alta individual desconocida. El cronograma incorpora cambios documentados tanto de cargos como de mandatos del Pleno.
+
+La jerarquía distingue Presidencia, vicepresidencias y secretarías de la Mesa, portavoces de grupos y presidencias de comisión. Un portavoz de comisión no es un portavoz de grupo. Los cargos sin fecha de alta se conservan en un apartado aparte del último registro, con fecha de consulta, sin integrarlos en la cronología. Intervalos invertidos en la fuente se excluyen y documentan en el informe de incidencias, sin corregirlos por conjetura. El grupo de cada mandato corresponde a la última adscripción conservada en la ficha; no reconstruir cambios internos sin fechas acreditadas. El hemiciclo cuenta personas únicas con mandato acreditado en la fecha mostrada, no todos los participantes de una legislatura.
+
+En la ficha personal, reunir todos los periodos propios en una única sección «Relaciones por cargo», ordenados por fecha; mostrar cargo y periodo una vez por entrada. Las sucesiones completas siguen perteneciendo a Cargos e historia. Los cambios del Senado no introducen autonomías sin una petición posterior.

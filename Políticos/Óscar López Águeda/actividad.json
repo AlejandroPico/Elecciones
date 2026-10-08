@@ -1,0 +1,20 @@
+{
+  "state": "active",
+  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "La Moncloa · última composición documentada",
+      "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xv_legislatura.aspx"
+    },
+    {
+      "label": "La Moncloa · Biografía institucional",
+      "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministro-oscar-lopez.aspx"
+    },
+    {
+      "label": "Óscar López Águeda · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/%C3%93scar_L%C3%B3pez_%C3%81gueda",
+      "kind": "encyclopedic"
+    }
+  ]
+}

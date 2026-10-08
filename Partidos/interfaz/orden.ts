@@ -1,4 +1,10 @@
 import type { Organization } from "../../Políticos/interfaz/datos/tipos";
+import { activityRank, type ActivityState } from "../../Políticos/interfaz/actividad";
+
+export function partyActivity(party: Organization): ActivityState {
+  if (party.dissolution && party.dissolution.date <= new Date().toISOString().slice(0, 10)) return "historical";
+  return party.activity?.state ?? "unknown";
+}
 
 export const normalizeParty = (value: string) => value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 export function electoralResult(party: Organization) {
@@ -9,6 +15,8 @@ export function partyDate(party: Organization) {
 }
 export function compareParties(order: string) {
   return (a: Organization, b: Organization) => {
+    const status = activityRank[partyActivity(a)] - activityRank[partyActivity(b)];
+    if (status) return status;
     const first = electoralResult(a), second = electoralResult(b);
     const names = () => a.fullName.localeCompare(b.fullName, "es");
     if (order === "name") return names();

@@ -1,0 +1,28 @@
+{
+  "state": "active",
+  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · mandato de la última legislatura",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?codParlamentario=189&idLegislatura=XV&mostrarFicha=true"
+    },
+    {
+      "label": "La Moncloa · última composición documentada",
+      "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xv_legislatura.aspx"
+    },
+    {
+      "label": "La Moncloa · Biografía de Pedro Sánchez",
+      "url": "https://www.lamoncloa.gob.es/presidente/biografia/Paginas/index.aspx"
+    },
+    {
+      "label": "PSOE · Historia del partido",
+      "url": "https://www.psoe.es/conocenos/historia/"
+    },
+    {
+      "label": "Pedro Sánchez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_S%C3%A1nchez",
+      "kind": "encyclopedic"
+    }
+  ]
+}

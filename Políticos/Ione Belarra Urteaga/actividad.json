@@ -1,0 +1,16 @@
+{
+  "state": "active",
+  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · mandato de la última legislatura",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?codParlamentario=262&idLegislatura=XV&mostrarFicha=true"
+    },
+    {
+      "label": "Ione Belarra · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ione_Belarra",
+      "kind": "encyclopedic"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Santiago Carrillo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Santiago_Carrillo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Santiago Carrillo · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q298789#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Santiago Carrillo · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q298789#P570",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=293&idLegislatura=II",
+      "kind": "institutional"
+    }
+  ]
+}

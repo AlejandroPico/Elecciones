@@ -1,0 +1,26 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · Ficha personal",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=48&idLegislatura=&mostrarAgenda=false"
+    },
+    {
+      "label": "Enrique Sánchez de León · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Enrique_S%C3%A1nchez_de_Le%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Enrique Sánchez de León · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3054710#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Enrique Sánchez de León · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3054710#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

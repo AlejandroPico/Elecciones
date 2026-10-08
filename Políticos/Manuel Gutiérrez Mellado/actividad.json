@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Manuel Gutiérrez Mellado · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Manuel_Guti%C3%A9rrez_Mellado",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Gutiérrez Mellado · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2638079#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Gutiérrez Mellado · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2638079#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

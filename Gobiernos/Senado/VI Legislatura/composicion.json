@@ -1,0 +1,3633 @@
+{
+  "id": "senado-6",
+  "number": 6,
+  "label": "VI",
+  "start": "1996-03-27",
+  "end": "2000-01-18",
+  "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/senadoresdesde1977/consultaorden/index.html?legis=6&lang=es_ES",
+  "mesaSource": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C",
+  "checkedAt": "2026-10-08",
+  "terms": [
+    {
+      "person": "congreso-268-4",
+      "name": "Pedro Agramunt Font de Mora",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "1996-10-16",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10558&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-174-7",
+      "name": "Manuel Ángel Aguilar Belda",
+      "role": "VICEPRESIDENTE SEGUNDO DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10438&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10423",
+      "name": "Esperanza Aguirre Gil de Biedma",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1999-02-09",
+      "end": "2000-04-04",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10423&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10423",
+      "name": "Esperanza Aguirre Gil de Biedma",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL PARA EL ESTUDIO DE LA REFORMA CONSTITUCIONAL DEL SENADO",
+      "start": "1999-02-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10423&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10423",
+      "name": "Esperanza Aguirre Gil de Biedma",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "1999-02-23",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10423&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10512",
+      "name": "Francisco Xabier Albistur Marin",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS",
+      "start": "1996-04-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10512&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10023",
+      "name": "Ramón Aleu i Jornet",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1996-04-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10023&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-11-01",
+      "end": "1999-11-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-08-01",
+      "end": "1999-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-01-01",
+      "end": "1999-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-09-01",
+      "end": "1998-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-01-01",
+      "end": "1997-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10179",
+      "name": "José Luis Baltar Pumar",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE EL DESARROLLO ECONÓMICO Y SOCIAL DEL ESTADO ESPAÑOL",
+      "start": "1998-02-24",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10179&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10564",
+      "name": "Miguel Barceló Pérez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE LA MANIPULACIÓN GENÉTICA CON FINES DE PRODUCCIÓN DE ALIMENTOS",
+      "start": "1999-05-11",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10564&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-44-7",
+      "name": "Juan Ignacio Barrero Valverde",
+      "role": "PRESIDENTE DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "1999-02-08",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10462&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-44-7",
+      "name": "Juan Ignacio Barrero Valverde",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL PARA EL ESTUDIO DE LA REFORMA CONSTITUCIONAL DEL SENADO",
+      "start": "1996-11-06",
+      "end": "1999-02-08",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10462&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-44-7",
+      "name": "Juan Ignacio Barrero Valverde",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "1996-05-14",
+      "end": "1999-02-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10462&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10024",
+      "name": "Vicent Beguer i Oliveres",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE OBRAS PÚBLICAS, MEDIO AMBIENTE, TRANSPORTES Y COMUNICACIONES",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10024&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10156",
+      "name": "Enrique Bellido Muñoz",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE LA ORDENACIÓN DEL SERVICIO FARMACÉUTICO",
+      "start": "1996-09-10",
+      "end": "1997-11-20",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10156&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10156",
+      "name": "Enrique Bellido Muñoz",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE LAS ARTES ESCÉNICAS, MUSICALES Y AUDIOVISUALES",
+      "start": "1999-04-13",
+      "end": "1999-09-08",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10156&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10156",
+      "name": "Enrique Bellido Muñoz",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SANIDAD Y ASUNTOS SOCIALES",
+      "start": "1999-09-06",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10156&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10453",
+      "name": "Ángel Carlos Bernáldez Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL PARA EL ESTUDIO DE LOS PROBLEMAS DEL MEDIO RURAL",
+      "start": "1997-02-25",
+      "end": "1999-12-03",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10453&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10483",
+      "name": "Elia María Blanco Barbero",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1996-04-09",
+      "end": "1997-09-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10483&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-05-01",
+      "end": "1998-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-03-01",
+      "end": "1998-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-09-01",
+      "end": "1997-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-07-01",
+      "end": "1997-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-11-01",
+      "end": "1996-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-09-01",
+      "end": "1996-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10172",
+      "name": "Francisco Cacharro Pardo",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SUPLICATORIOS",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10172&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10171",
+      "name": "Pedro Luis Calvo Poch",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE REDES INFORMÁTICAS",
+      "start": "1999-02-22",
+      "end": "1999-06-29",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10171&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-1-4",
+      "name": "José Cañellas Fons",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INTERIOR Y FUNCIÓN PÚBLICA",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10186&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-222-5",
+      "name": "Jaume Cardona i Vila",
+      "role": "VICEPRESIDENTE PRIMERO DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1999-11-30",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10032&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-222-5",
+      "name": "Jaume Cardona i Vila",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ",
+      "start": "1996-04-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10032&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-218-5",
+      "name": "Salvador Carrera i Comes",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ",
+      "start": "1996-04-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10029&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10181",
+      "name": "Luis Antonio Chao Gómez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INDUSTRIA, COMERCIO Y TURISMO",
+      "start": "1996-05-14",
+      "end": "1997-11-20",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10181&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-7-15",
+      "name": "Agustín Conde Bajén",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL",
+      "start": "1999-09-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10434&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10188",
+      "name": "Pilar Costa Serra",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-03-01",
+      "end": "1999-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10188&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10188",
+      "name": "Pilar Costa Serra",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-01-01",
+      "end": "1999-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10188&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10188",
+      "name": "Pilar Costa Serra",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-07-01",
+      "end": "1997-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10188&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10188",
+      "name": "Pilar Costa Serra",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-05-01",
+      "end": "1997-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10188&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-2-5",
+      "name": "Agustín Díaz de Mera y García Consuegra",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE DEFENSA",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10446&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10524",
+      "name": "Joaquín Espert Pérez-caballero",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN GENERAL DE LAS COMUNIDADES AUTÓNOMAS",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10524&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10546",
+      "name": "Luis Estaún García",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1999-09-15",
+      "end": "1999-10-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10546&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-256-9",
+      "name": "Isidro Fernández Rozada",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1996-04-30",
+      "end": "1999-07-29",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10475&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10009",
+      "name": "Joaquim Ferrer i Roca",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ",
+      "start": "1996-04-09",
+      "end": "1999-11-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10009&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10562",
+      "name": "Vicente Liliano Ferrer Roselló",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-07-01",
+      "end": "1999-07-27",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10562&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10562",
+      "name": "Vicente Liliano Ferrer Roselló",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-05-01",
+      "end": "1999-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10562&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10562",
+      "name": "Vicente Liliano Ferrer Roselló",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-01-01",
+      "end": "1998-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10562&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10562",
+      "name": "Vicente Liliano Ferrer Roselló",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-11-01",
+      "end": "1997-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10562&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10562",
+      "name": "Vicente Liliano Ferrer Roselló",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-04-15",
+      "end": "1996-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10562&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10441",
+      "name": "Luis Manuel Fraga Egusquiaguirre",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS IBEROAMERICANOS",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10441&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10542",
+      "name": "José María Fuster Muniesa",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1996-05-10",
+      "end": "1999-09-07",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10542&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10460",
+      "name": "Joaquín Jesús Galán Pérez",
+      "role": "SECRETARIO TERCERO DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10460&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1996-04-09",
+      "end": "1999-02-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-236-5",
+      "name": "Ricardo Gatzagaetxebarría Bastida",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE AGRICULTURA, GANADERÍA Y PESCA",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10511&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-66-15",
+      "name": "Esteban González Pons",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1999-02-03",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10138&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-66-15",
+      "name": "Esteban González Pons",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1996-05-10",
+      "end": "1999-02-02",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10138&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-66-15",
+      "name": "Esteban González Pons",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE REDES INFORMÁTICAS",
+      "start": "1998-03-24",
+      "end": "1999-02-08",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10138&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-206-7",
+      "name": "María Dolores Gorostiaga Saiz",
+      "role": "SECRETARIA CUARTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10498&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10456",
+      "name": "María del Carmen Granado Paniagua",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE PETICIONES",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10456&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10547",
+      "name": "José Iribas Sánchez de Boado",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1996-05-10",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10547&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10516",
+      "name": "José Iriguíbel Mateo",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-05-01",
+      "end": "1998-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10516&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10516",
+      "name": "José Iriguíbel Mateo",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-03-01",
+      "end": "1998-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10516&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10516",
+      "name": "José Iriguíbel Mateo",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-09-01",
+      "end": "1996-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10516&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10516",
+      "name": "José Iriguíbel Mateo",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-07-01",
+      "end": "1996-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10516&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10507",
+      "name": "Juan José Laborda Martín",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1996-04-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10507&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-64-10",
+      "name": "Santiago Lanzuela Marina",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ECONOMÍA Y HACIENDA",
+      "start": "1999-10-06",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10550&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE PRESUPUESTOS",
+      "start": "1996-05-14",
+      "end": "1999-07-27",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE PRESUPUESTOS",
+      "start": "1999-09-15",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10419",
+      "name": "José Luis López Henares",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS EXTERIORES",
+      "start": "1996-05-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10419&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10126",
+      "name": "María Antonia Martínez García",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1999-07-28",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10126&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10126",
+      "name": "María Antonia Martínez García",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1997-09-16",
+      "end": "1999-07-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10126&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE REDES INFORMÁTICAS",
+      "start": "1999-06-29",
+      "end": "1999-12-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-10-9",
+      "name": "Jesús Merino Delgado",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1999-09-15",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10424&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-78-4",
+      "name": "José Manuel Molina García",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL",
+      "start": "1996-05-14",
+      "end": "1999-07-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10418&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10151",
+      "name": "Juan Moya Sanabria",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "1996-05-14",
+      "end": "1998-04-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10151&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10151",
+      "name": "Juan Moya Sanabria",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE JUSTICIA",
+      "start": "1998-04-21",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10151&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10413",
+      "name": "José Nieto Cicuéndez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-09-01",
+      "end": "1998-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10413&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10413",
+      "name": "José Nieto Cicuéndez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-07-01",
+      "end": "1998-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10413&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10413",
+      "name": "José Nieto Cicuéndez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-01-01",
+      "end": "1997-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10413&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10413",
+      "name": "José Nieto Cicuéndez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-11-01",
+      "end": "1996-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10413&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-345-4",
+      "name": "Victorino Núñez Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INDUSTRIA, COMERCIO Y TURISMO",
+      "start": "1998-01-21",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10177&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-60-0",
+      "name": "José Miguel Ortí Bordás",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "1996-05-14",
+      "end": "1996-10-04",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10563&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-08-01",
+      "end": "1999-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-07-01",
+      "end": "1999-07-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-07-01",
+      "end": "1998-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1998-01-01",
+      "end": "1998-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-07-01",
+      "end": "1996-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1996-04-15",
+      "end": "1996-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10548",
+      "name": "José María Pascual Fernández-Layos",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE LA PREVENCIÓN Y ASISTENCIA EN SITUACIONES DE CATÁSTROFE",
+      "start": "1998-05-26",
+      "end": "1999-02-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10548&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10192",
+      "name": "María Mercedes Pérez Schwartz",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1996-04-09",
+      "end": "1997-09-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10192&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-239-7",
+      "name": "Francisca Pleguezuelos Aguilar",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1997-09-16",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10132&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-361-1",
+      "name": "Joan Rigol Roig",
+      "role": "VICEPRESIDENTE PRIMERO DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "1999-11-04",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10013&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10190",
+      "name": "Victoriano Ríos Pérez",
+      "role": "SECRETARIO SEGUNDO DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1999-09-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10190&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10190",
+      "name": "Victoriano Ríos Pérez",
+      "role": "SECRETARIO SEGUNDO DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "1999-07-19",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10190&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10431",
+      "name": "Jaime Rodríguez Gómez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "1998-04-21",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10431&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10491",
+      "name": "María Cruz Rodríguez Saldaña",
+      "role": "SECRETARIA PRIMERA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": "1996-03-27",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10491&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "1996-04-09",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-11-01",
+      "end": "1999-11-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-05-01",
+      "end": "1999-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1999-03-01",
+      "end": "1999-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-11-01",
+      "end": "1997-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "1997-09-01",
+      "end": "1997-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10486",
+      "name": "José Luis Sainz García",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SANIDAD Y ASUNTOS SOCIALES",
+      "start": "1996-05-14",
+      "end": "1999-07-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10486&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10525",
+      "name": "María Isabel San Baldomero Ochoa",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN MIXTA DE LOS DERECHOS DE LA MUJER",
+      "start": "1996-06-10",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10525&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10429",
+      "name": "Clemente Sanz Blanco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE LA PREVENCIÓN Y ASISTENCIA EN SITUACIONES DE CATÁSTROFE",
+      "start": "1996-12-03",
+      "end": "1998-04-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10429&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-351-10",
+      "name": "Roberto Soravilla Fernández",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ECONOMÍA Y HACIENDA",
+      "start": "1996-05-14",
+      "end": "1999-10-01",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10414&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-351-10",
+      "name": "Roberto Soravilla Fernández",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL SOBRE LAS ARTES ESCÉNICAS, MUSICALES Y AUDIOVISUALES",
+      "start": "1999-09-13",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10414&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-189-8",
+      "name": "Francisco Utrera Mora",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1996-04-30",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10218&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10417",
+      "name": "Juan Van-Halen Acedo",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE EDUCACIÓN Y CULTURA",
+      "start": "1999-09-14",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10417&legis=6&lang=es_ES"
+    },
+    {
+      "person": "alejo-vidal-quadras",
+      "name": "Alejo Vidal-Quadras Roca",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE EDUCACIÓN Y CULTURA",
+      "start": "1996-05-14",
+      "end": "1999-06-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10015&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "1999-03-02",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL DE ESTUDIO SOBRE LA EUTANASIA",
+      "start": "1998-03-17",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE JUSTICIA",
+      "start": "1996-05-14",
+      "end": "1998-03-25",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS",
+      "start": "1999-03-02",
+      "end": "2000-01-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS",
+      "start": "1996-04-09",
+      "end": "1999-02-25",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=6&lang=es_ES"
+    }
+  ],
+  "senators": [
+    {
+      "person": "senado-10440",
+      "name": "Manuel Acacio Collado",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10440&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-268-4",
+      "name": "Pedro Agramunt Font de Mora",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10558&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-174-7",
+      "name": "Manuel Ángel Aguilar Belda",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10438&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10423",
+      "name": "Esperanza Aguirre Gil de Biedma",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10423&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10545",
+      "name": "Rodolfo Ainsa Escartín",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10545&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-91-4",
+      "name": "César Aja Mariño",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10232&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10512",
+      "name": "Francisco Xabier Albistur Marin",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10512&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10534",
+      "name": "José Luis Alegre Escuder",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10534&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10023",
+      "name": "Ramón Aleu i Jornet",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10023&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-1",
+      "name": "Mariano Alierta Izuel",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10535&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-315-6",
+      "name": "María Cristina Almeida Castro",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10415&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-56-5",
+      "name": "Conrado Alonso Buitrón",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10471&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10170",
+      "name": "María Marta Álvarez Montes",
+      "start": "1996-03-12",
+      "end": "1997-11-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10170&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10215",
+      "name": "Carmen Álvarez-arenas Cisneros",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10215&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10227",
+      "name": "Enrique Arance Soto",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10227&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10519",
+      "name": "Pedro José Ardaiz Egüés",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10519&legis=6&lang=es_ES"
+    },
+    {
+      "person": "javier-arenas-bocanegra",
+      "name": "Francisco Javier Arenas Bocanegra",
+      "start": "1996-04-17",
+      "end": "1996-05-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10154&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10484",
+      "name": "Juan Antonio Arévalo Santiago",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10484&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10493",
+      "name": "Ignacio Javier Ariznavarreta Esteban",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10493&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10137",
+      "name": "Manuel Arjona Santana",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10137&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10161",
+      "name": "Juan Manuel Armario Vázquez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10161&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10236",
+      "name": "Cándido Armas Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10236&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10020",
+      "name": "Lluís Armet i Coma",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10020&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10552",
+      "name": "Ana Isabel Arnáiz de las Revillas García",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10552&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-69-8",
+      "name": "Elías Arribas Aragonés",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10532&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10021",
+      "name": "Helena Arribas Esteve",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10021&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10536",
+      "name": "Marcelino Artieda García",
+      "start": "1997-12-18",
+      "end": "1999-09-22",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10536&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-327-5",
+      "name": "Carmelo Artiles Bolaños",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10198&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10517",
+      "name": "Fernando de Arvizu y Galarraga",
+      "start": "1999-07-23",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10517&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-252-8",
+      "name": "Manuel Atencia Robledo",
+      "start": "1999-03-10",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10136&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10152",
+      "name": "Rosario Ballester Angulo",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10152&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10179",
+      "name": "José Luis Baltar Pumar",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10179&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10432",
+      "name": "José María Barahona Hortelano",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10432&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10564",
+      "name": "Miguel Barceló Pérez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10564&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10420",
+      "name": "José María Barcina Magro",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10420&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10006",
+      "name": "Rosa Barenys i Martorell",
+      "start": "1997-11-12",
+      "end": "1999-11-30",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10006&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-63-4",
+      "name": "José Manuel Barquero Vázquez",
+      "start": "1996-04-10",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10180&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-130-9",
+      "name": "Juan Antonio Barranco Gallardo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10214&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-44-7",
+      "name": "Juan Ignacio Barrero Valverde",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10462&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10224",
+      "name": "Joaquín Bascuñana García",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10224&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10469",
+      "name": "Fernando Bécker Zuazua",
+      "start": "1996-03-03",
+      "end": "1996-06-10",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10469&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10024",
+      "name": "Vicent Beguer i Oliveres",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10024&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10230",
+      "name": "Francisco Bella Galán",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10230&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10156",
+      "name": "Enrique Bellido Muñoz",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10156&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10555",
+      "name": "José Antonio Beltrán Miralles",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10555&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10210",
+      "name": "Carlos Benet Cañete",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10210&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10178",
+      "name": "Jorge Bermello Fernández",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10178&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10453",
+      "name": "Ángel Carlos Bernáldez Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10453&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-42-7",
+      "name": "Juan Blancas Llamas",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10134&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10483",
+      "name": "Elia María Blanco Barbero",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10483&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10539",
+      "name": "Manuel Lorenzo Blasco Nogués",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10539&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10514",
+      "name": "Imanol Bolinaga Bengoa",
+      "start": "1995-02-10",
+      "end": "1999-02-25",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10514&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10183",
+      "name": "Carles Josep Bonet i Revés",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10183&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10505",
+      "name": "Inmaculada de Boneta y Piedra",
+      "start": "1995-02-10",
+      "end": "1999-02-25",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10505&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10133",
+      "name": "Antonio Bonilla Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10133&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-36-1",
+      "name": "José María Bris Gallego",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10421&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10500",
+      "name": "Ricardo Manuel Bueno Fernández",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10500&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10510&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10509",
+      "name": "Pello Caballero Lasquibar",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10509&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10450",
+      "name": "Hilario Caballero Moya",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10450&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10237",
+      "name": "Manuel Caballero Muñoz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10237&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10153",
+      "name": "José Caballos Mojeda",
+      "start": "1996-04-17",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10153&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10172",
+      "name": "Francisco Cacharro Pardo",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10172&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10171",
+      "name": "Pedro Luis Calvo Poch",
+      "start": "1995-07-06",
+      "end": "1999-07-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10171&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10416",
+      "name": "Manuel Cámara Fernández",
+      "start": "1999-08-02",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10416&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10018",
+      "name": "Sixte Cambra i Sánchez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10018&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-289-9",
+      "name": "Belén María do Campo Piñeiro",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10168&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-1-4",
+      "name": "José Cañellas Fons",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10186&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10027",
+      "name": "Salvador Capdevila i Bas",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10027&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10189",
+      "name": "Lorenzo Cardona Seguí",
+      "start": "1999-06-18",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10189&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-222-5",
+      "name": "Jaume Cardona i Vila",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10032&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10244",
+      "name": "Beatriz Caro Nieto",
+      "start": "1999-01-12",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10244&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10207",
+      "name": "José Carracao Gutiérrez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10207&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-218-5",
+      "name": "Salvador Carrera i Comes",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10029&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10436",
+      "name": "Juan Vicente Casas Casas",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10436&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10556",
+      "name": "Diego Ladislao Castell Campesino",
+      "start": "1999-07-28",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10556&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10488",
+      "name": "Jesús María Castro Asensio",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10488&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10159",
+      "name": "María Jesús Castro Mateos",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10159&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10467",
+      "name": "José Castro Rabadán",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10467&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10551",
+      "name": "Francisco Catalá Pardo",
+      "start": "1999-09-23",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10551&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10527",
+      "name": "José Ignacio Ceniceros González",
+      "start": "1995-07-14",
+      "end": "1999-07-27",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10527&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10181",
+      "name": "Luis Antonio Chao Gómez",
+      "start": "1996-03-12",
+      "end": "1997-11-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10181&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-172-7",
+      "name": "José Manuel Chapela Seijo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10233&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10131",
+      "name": "Enrique Serafín Cobo Fernández",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10131&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10016",
+      "name": "Àngel Colom i Colom",
+      "start": "1996-03-13",
+      "end": "1999-11-30",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10016&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10464",
+      "name": "María Mercedes Coloma Pesquera",
+      "start": "1996-12-06",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10464&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10499",
+      "name": "Félix Colsa Bueno",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10499&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-7-15",
+      "name": "Agustín Conde Bajén",
+      "start": "1999-07-23",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10434&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10541",
+      "name": "Sebastián Contín Pellicer",
+      "start": "1996-04-12",
+      "end": "1999-09-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10541&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10188",
+      "name": "Pilar Costa Serra",
+      "start": "1996-03-03",
+      "end": "1999-06-30",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10188&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10235",
+      "name": "Casimiro Curbelo Curbelo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10235&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10213",
+      "name": "Lucía Delgado García",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10213&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-192-5",
+      "name": "José Gabriel Díaz Berbel",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10129&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-2-5",
+      "name": "Agustín Díaz de Mera y García Consuegra",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10446&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10497",
+      "name": "María Gema Díaz Villegas",
+      "start": "1999-08-10",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10497&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-56-8",
+      "name": "Máximo Ramón Díaz-Cano del Rey",
+      "start": "1998-04-30",
+      "end": "1999-07-22",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10447&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10150",
+      "name": "Ignacio Díez González",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10150&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10521",
+      "name": "Miguel Ángel Echevarría Daubagna",
+      "start": "1999-07-31",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10521&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-5",
+      "name": "Gabriel Elorriaga Fernández",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10166&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-84-10",
+      "name": "Conrado Escobar Las Heras",
+      "start": "1999-07-28",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10529&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-30-4",
+      "name": "José María Escuin Monfort",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10554&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10120",
+      "name": "María Inmaculada de España Moya",
+      "start": "1997-09-26",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10120&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10011",
+      "name": "Ramon Espasa i Oliver",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10011&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10524",
+      "name": "Joaquín Espert Pérez-caballero",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10524&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10546",
+      "name": "Luis Estaún García",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10546&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10125",
+      "name": "Arturo Esteban Albert",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10125&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-162-8",
+      "name": "Adolfo Fernández Aguilar",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10122&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10465",
+      "name": "Rafael Luis Fernández Álvarez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10465&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-354-7",
+      "name": "José Fernández Chacón",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10160&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10479",
+      "name": "Ángel Fernández Menéndez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10479&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-238-5",
+      "name": "Jesús Salvador Fernández Moreda",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10176&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-256-9",
+      "name": "Isidro Fernández Rozada",
+      "start": "1995-07-25",
+      "end": "1999-07-29",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10475&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10149",
+      "name": "Eloísa Fernández Valenzuela",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10149&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10476",
+      "name": "José Ángel Fernández Villa",
+      "start": "1999-07-30",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10476&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10009",
+      "name": "Joaquim Ferrer i Roca",
+      "start": "1996-03-13",
+      "end": "1999-11-30",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10009&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10562",
+      "name": "Vicente Liliano Ferrer Roselló",
+      "start": "1999-07-28",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10562&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10017",
+      "name": "María Isabel Flores Fernández",
+      "start": "1996-07-16",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10017&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-365-5",
+      "name": "Bartolomé Flores Flores",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10147&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10203",
+      "name": "Jaume Font Barceló",
+      "start": "1996-03-03",
+      "end": "1999-07-01",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10203&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10441",
+      "name": "Luis Manuel Fraga Egusquiaguirre",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10441&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10468",
+      "name": "Ángel Antonio Franco Gutiez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10468&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10145",
+      "name": "Josefa Frau Ribes",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10145&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10542",
+      "name": "José María Fuster Muniesa",
+      "start": "1996-03-03",
+      "end": "1999-09-07",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10542&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10448",
+      "name": "Ramón Galán Cazallas",
+      "start": "1996-05-21",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10448&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10460",
+      "name": "Joaquín Jesús Galán Pérez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10460&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10487",
+      "name": "Heliodoro Gallego Cuesta",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10487&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-7-7",
+      "name": "José Antonio Gallego López",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10128&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10191",
+      "name": "Pedro Tomás Galván de Urzaiz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10191&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-114-3",
+      "name": "Jon Gangoiti Llaguno",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10508&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10482",
+      "name": "Dionisio García Carnero",
+      "start": "1996-03-03",
+      "end": "1999-04-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10482&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10229",
+      "name": "Antonio García Correa",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10229&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10474",
+      "name": "Pablo García Fernández",
+      "start": "1995-07-25",
+      "end": "1999-07-29",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10474&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10174",
+      "name": "Agustín García Millán",
+      "start": "1996-06-11",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10174&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-164-2",
+      "name": "Antonio García Miralles",
+      "start": "1999-07-28",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10565&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "start": "1999-07-15",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10433",
+      "name": "José Rafael García-fuster y González-alegre",
+      "start": "1996-12-17",
+      "end": "1999-07-27",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10433&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-203-9",
+      "name": "Antonio Garcías Coll",
+      "start": "1996-03-03",
+      "end": "1999-07-29",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10201&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10439",
+      "name": "Juan Garrido Herráez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10439&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10549",
+      "name": "Gregorio Garzarán García",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10549&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-236-5",
+      "name": "Ricardo Gatzagaetxebarría Bastida",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10511&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10026",
+      "name": "Arseni Gibert i Bosch",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10026&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10449",
+      "name": "Francisco Gil-ortega Rincón",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10449&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10146",
+      "name": "José Manuel Gómez-angulo Giner",
+      "start": "1996-05-21",
+      "end": "1999-03-01",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10146&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10197",
+      "name": "Domingo González Arroyo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10197&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10501",
+      "name": "José Antonio González Caviedes",
+      "start": "1996-03-03",
+      "end": "1996-12-05",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10501&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10165",
+      "name": "Fernando Ignacio González Laxe",
+      "start": "1996-03-12",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10165&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10472",
+      "name": "Arturo González López",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10472&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-66-15",
+      "name": "Esteban González Pons",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10138&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10005",
+      "name": "Carlos Alberto González Príncipe",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10005&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-206-7",
+      "name": "María Dolores Gorostiaga Saiz",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10498&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10162",
+      "name": "Manuel Goya Burgués",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10162&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10492",
+      "name": "Octavio José Granado Martínez",
+      "start": "1999-07-23",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10492&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10456",
+      "name": "María del Carmen Granado Paniagua",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10456&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10135",
+      "name": "Ana del Carmen Guirado Pérez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10135&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10124",
+      "name": "José Gutiérrez Ruiz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10124&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10457",
+      "name": "Casimiro Hernández Calvo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10457&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10454",
+      "name": "Francisco Javier Hernández de Cáceres",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10454&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10430",
+      "name": "Pedro Antonio Hernández Escorial",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10430&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10193",
+      "name": "José Francisco Hernández Guimerá",
+      "start": "1996-01-30",
+      "end": "1999-07-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10193&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-89-4",
+      "name": "Juan Pablo Herranz Martínez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10428&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10425",
+      "name": "Luis María Huete Morillo",
+      "start": "1995-07-06",
+      "end": "1999-07-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10425&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-254-3",
+      "name": "César Huidobro Díez",
+      "start": "1995-07-12",
+      "end": "1999-07-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10489&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10452",
+      "name": "Juan Ángel Iglesias Marcelo",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10452&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10547",
+      "name": "José Iribas Sánchez de Boado",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10547&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10516",
+      "name": "José Iriguíbel Mateo",
+      "start": "1995-09-26",
+      "end": "1999-07-07",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10516&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10139",
+      "name": "Manuel Jaén Palacios",
+      "start": "1995-07-06",
+      "end": "1999-08-01",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10139&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10507",
+      "name": "Juan José Laborda Martín",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10507&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10496",
+      "name": "Alejandro Lamalfa Díaz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10496&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-64-10",
+      "name": "Santiago Lanzuela Marina",
+      "start": "1999-09-23",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10550&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-103-10",
+      "name": "Félix Lavilla Martínez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10533&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "start": "1999-07-28",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10530",
+      "name": "José Luis Liso Marín",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10530&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-111-9",
+      "name": "Jaime Lissavetzky Díez",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10422&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10025",
+      "name": "Bernardo Llompart Díaz",
+      "start": "1996-03-03",
+      "end": "1999-06-17",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10025&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10466",
+      "name": "Jaime Lobo Asenjo",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10466&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10518",
+      "name": "José Ignacio López Borderías",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10518&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10437",
+      "name": "Fernando López Carrasco",
+      "start": "1999-07-23",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10437&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10140",
+      "name": "Cristóbal José López Carvajal",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10140&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10528",
+      "name": "Rosa López Garnica",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10528&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10419",
+      "name": "José Luis López Henares",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10419&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10526",
+      "name": "Tomás López San Miguel",
+      "start": "1996-03-03",
+      "end": "1996-05-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10526&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10219",
+      "name": "Francisca López Yébenes",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10219&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10442",
+      "name": "Diego Lora Pagola",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10442&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10480",
+      "name": "Andrés Luis Calvo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10480&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10234",
+      "name": "Rafel Luna i Vivas",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10234&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10199",
+      "name": "Josefa Luzardo Romano",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10199&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-369-4",
+      "name": "Vicente Maeso Carbonell",
+      "start": "1996-03-03",
+      "end": "1999-09-07",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10123&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10119",
+      "name": "Vicente Magro Servet",
+      "start": "1996-03-03",
+      "end": "1997-09-25",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10119&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-51-8",
+      "name": "Jesús Andrés Mancha Cadenas",
+      "start": "1996-04-17",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10461&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10008",
+      "name": "Jordi Maragall i Noble",
+      "start": "1996-03-03",
+      "end": "1997-09-30",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10008&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10185",
+      "name": "Òscar March i Llanes",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10185&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10540",
+      "name": "Pascual Marco Sebastián",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10540&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10155",
+      "name": "José Antonio Marín Rite",
+      "start": "1996-04-17",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10155&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10004",
+      "name": "Adriano Antonio Marques de Magallanes",
+      "start": "1998-01-14",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10004&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10513",
+      "name": "José Manuel Martiarena Lizarazu",
+      "start": "1999-02-26",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10513&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10494",
+      "name": "Pedro Martín Iglesias",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10494&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10561",
+      "name": "Francesca Martín i Vigil",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10561&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10566",
+      "name": "Laura Martínez Berenguer",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10566&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10228",
+      "name": "María Martínez Castro",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10228&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10126",
+      "name": "María Antonia Martínez García",
+      "start": "1999-07-15",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10126&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10435",
+      "name": "Reyes Martínez García",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10435&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10553",
+      "name": "Inocencio Martínez Sánchez",
+      "start": "1999-09-08",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10553&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-48-14",
+      "name": "Juan José Matarí Sáez",
+      "start": "1996-04-17",
+      "end": "1996-05-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10148&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10002",
+      "name": "César José Mera Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10002&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-10-9",
+      "name": "Jesús Merino Delgado",
+      "start": "1999-07-23",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10424&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10142",
+      "name": "Fidel Mesa Ciriza",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10142&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10184",
+      "name": "Josep Ramon Mòdol Pifarré",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10184&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-78-4",
+      "name": "José Manuel Molina García",
+      "start": "1996-03-26",
+      "end": "1999-07-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10418&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10208",
+      "name": "José Luis Morales Montero",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10208&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10151",
+      "name": "Juan Moya Sanabria",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10151&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-125-12",
+      "name": "Micaela Navarro Garzón",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10141&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10413",
+      "name": "José Nieto Cicuéndez",
+      "start": "1995-07-06",
+      "end": "1999-07-14",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10413&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10463",
+      "name": "Manuel Nieto Ledo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10463&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10164",
+      "name": "Fernando Novo Muñoz",
+      "start": "1996-03-26",
+      "end": "1998-04-28",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10164&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-345-4",
+      "name": "Victorino Núñez Rodríguez",
+      "start": "1997-12-05",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10177&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10007",
+      "name": "Joan Oliart Pons",
+      "start": "1997-10-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10007&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-97-1",
+      "name": "Francisco Olivencia Ruiz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10206&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10515",
+      "name": "Mario Onaindía Nachiondo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10515&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-60-0",
+      "name": "José Miguel Ortí Bordás",
+      "start": "1995-07-26",
+      "end": "1996-10-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10563&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-191-5",
+      "name": "Leopoldo Ortiz Climent",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10557&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10158",
+      "name": "Prudencio Ostos Domínguez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10158&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10222",
+      "name": "Ana Isabel Oyarzabal Uriarte",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10222&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10205",
+      "name": "Pedro Luis Padrón Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10205&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10143",
+      "name": "Ramón Palacios Rubio",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10143&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10548",
+      "name": "José María Pascual Fernández-Layos",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10548&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10503",
+      "name": "Ascensión Pastor Parres",
+      "start": "1999-02-26",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10503&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10003",
+      "name": "Manuel Pérez Álvarez",
+      "start": "1996-03-03",
+      "end": "1998-01-13",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10003&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10200",
+      "name": "Santiago Pérez García",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10200&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10194",
+      "name": "Manuel Marcos Pérez Hernández",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10194&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10192",
+      "name": "María Mercedes Pérez Schwartz",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10192&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-335-5",
+      "name": "Luis Carlos Piquer Jiménez",
+      "start": "1995-07-13",
+      "end": "1997-11-11",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10223&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10231",
+      "name": "Luis Pizarro Medina",
+      "start": "1996-04-17",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10231&legis=6&lang=es_ES"
+    },
+    {
+      "person": "planas",
+      "name": "Luis Planas Puchades",
+      "start": "1996-04-17",
+      "end": "1996-06-13",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10127&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10226",
+      "name": "Manuel de la Plata Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10226&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-239-7",
+      "name": "Francisca Pleguezuelos Aguilar",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10132&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10217",
+      "name": "Rosa María Posada Chapado",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10217&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-134-10",
+      "name": "Alfredo Prada Presa",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10470&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-353-4",
+      "name": "Manuel Prado López",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10000&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-359-7",
+      "name": "Miguel Vicente Prim Tomás",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10559&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10544",
+      "name": "Pascual Rabal Pétriz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10544&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-314-3",
+      "name": "Ramón Rabanera Rivacoba",
+      "start": "1996-03-03",
+      "end": "1999-07-30",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10522&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10195",
+      "name": "Carlos Ramírez Pery",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10195&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-361-1",
+      "name": "Joan Rigol Roig",
+      "start": "1996-03-13",
+      "end": "1999-11-04",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10013&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10190",
+      "name": "Victoriano Ríos Pérez",
+      "start": "1999-07-20",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10190&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10157",
+      "name": "Pedro Rodríguez Cantero",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10157&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10182",
+      "name": "José María Rodríguez de la Borbolla Camoyán",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10182&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10427",
+      "name": "Samuel Rodríguez Fontecha",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10427&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10169",
+      "name": "Coral Rodríguez Fouz",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10169&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10431",
+      "name": "Jaime Rodríguez Gómez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10431&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10221",
+      "name": "Jesús María Rodríguez Orrantia",
+      "start": "1999-05-26",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10221&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-91-5",
+      "name": "Antonio Rodríguez Rodríguez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10031&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10491",
+      "name": "María Cruz Rodríguez Saldaña",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10491&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10543",
+      "name": "Juan José Rodríguez Torres",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10543&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10022",
+      "name": "Joan Maria Roig i Grau",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10022&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10144",
+      "name": "José Fermín Román Clemente",
+      "start": "1996-04-17",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10144&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10225",
+      "name": "Bartolomé Romero Romero",
+      "start": "1999-09-08",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10225&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10504",
+      "name": "Ramón Rubial Cavia",
+      "start": "1996-03-03",
+      "end": "1999-05-24",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10504&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10167",
+      "name": "Leopoldo Rubido Ramonde",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10167&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10204",
+      "name": "José Manuel Ruiz Rivero",
+      "start": "1999-07-02",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10204&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10412",
+      "name": "Jesús María Ruiz-Ayúcar Alonso",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10412&legis=6&lang=es_ES"
+    },
+    {
+      "person": "jeronimo-saavedra-acevedo",
+      "name": "Jerónimo Saavedra Acevedo",
+      "start": "1999-07-20",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10196&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10486",
+      "name": "José Luis Sainz García",
+      "start": "1995-07-12",
+      "end": "1999-07-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10486&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10014",
+      "name": "Josep Maria Sala i Griso",
+      "start": "1996-03-13",
+      "end": "1997-11-07",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10014&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10481",
+      "name": "Ildefonsa Salgado Santos",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10481&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10525",
+      "name": "María Isabel San Baldomero Ochoa",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10525&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10459",
+      "name": "Jesús Vicente Sánchez Cuadrado",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10459&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-320-10",
+      "name": "Ovidio Sánchez Díaz",
+      "start": "1999-07-30",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10477&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10019",
+      "name": "Antonio Sánchez Lucas",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10019&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-68-8",
+      "name": "Juan Santaella Porras",
+      "start": "1996-05-21",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10130&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10429",
+      "name": "Clemente Sanz Blanco",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10429&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10538",
+      "name": "Francisco Javier Sanz Carramiñana",
+      "start": "1999-10-07",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10538&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10451",
+      "name": "Antolín Sanz Pérez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10451&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10211",
+      "name": "Aurel Gheorghe Sava Garcerán",
+      "start": "1996-03-03",
+      "end": "1999-01-11",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10211&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10445",
+      "name": "Lorenzo Selas Céspedes",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10445&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-3-5",
+      "name": "José Ignacio Senao Gómez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10537&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10443",
+      "name": "Jesús Sepúlveda Recio",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10443&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10458",
+      "name": "Narciso Serrano Álvarez-Giraldo",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10458&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10012",
+      "name": "Domènec Sesmilo i Rius",
+      "start": "1999-12-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10012&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10121",
+      "name": "Juan Seva Martínez",
+      "start": "1999-07-28",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10121&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-367-5",
+      "name": "Joan Horaci Simó i Burgues",
+      "start": "1999-12-01",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10030&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-193-11",
+      "name": "Ramón Antonio Socias Puig",
+      "start": "1999-07-30",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10202&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10163",
+      "name": "Álvaro Antonio Someso Salvadores",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10163&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-351-10",
+      "name": "Roberto Soravilla Fernández",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10414&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10455",
+      "name": "Federico Suárez Hurtado",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10455&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10502",
+      "name": "Alberto Terán Molleda",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10502&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-122-4",
+      "name": "Francisco Tomey Gómez",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10426&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10187",
+      "name": "Isidoro Torres Cardona",
+      "start": "1999-07-01",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10187&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10490",
+      "name": "Juan José Unceta Antón",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10490&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10520",
+      "name": "Manuel María Uriarte Zulueta",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10520&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10506",
+      "name": "Carlos María de Urquijo Valdivielso",
+      "start": "1996-03-03",
+      "end": "1996-04-09",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10506&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-189-8",
+      "name": "Francisco Utrera Mora",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10218&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-140-5",
+      "name": "Juan Luis de la Vallina Velarde",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10473&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10495",
+      "name": "José Luis Vallines Díaz",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10495&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10417",
+      "name": "Juan Van-Halen Acedo",
+      "start": "1999-07-15",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10417&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-30-5",
+      "name": "Manuel Guillermo Varela Flores",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10175&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10212",
+      "name": "Josep Varela i Serra",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10212&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10173",
+      "name": "Víctor Manuel Vázquez Portomeñe",
+      "start": "1997-12-05",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10173&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10531",
+      "name": "Virgilio Velasco Bueno",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10531&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10028",
+      "name": "Joaquim Vidal i Perpiñá",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10028&legis=6&lang=es_ES"
+    },
+    {
+      "person": "alejo-vidal-quadras",
+      "name": "Alejo Vidal-Quadras Roca",
+      "start": "1996-03-13",
+      "end": "1999-06-28",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10015&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10010",
+      "name": "Carmen Virgili i Rodón",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10010&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10001",
+      "name": "Julio Manuel Yebra-Pimentel Blanco",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10001&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10209",
+      "name": "Francisco José Zamorano Vázquez",
+      "start": "1996-03-03",
+      "end": "2000-01-18",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10209&legis=6&lang=es_ES"
+    },
+    {
+      "person": "senado-10485",
+      "name": "Emilio Zapatero Villalonga",
+      "start": "1996-03-03",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10485&legis=6&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "start": "1999-02-26",
+      "end": "2000-04-04",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=6&lang=es_ES"
+    }
+  ],
+  "finalBoard": [
+    {
+      "person": "senado-10423",
+      "name": "Esperanza Aguirre Gil de Biedma",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "congreso-44-7",
+      "name": "Juan Ignacio Barrero Valverde",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "congreso-222-5",
+      "name": "Jaume Cardona i Vila",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "congreso-361-1",
+      "name": "Joan Rigol Roig",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "congreso-174-7",
+      "name": "Manuel Ángel Aguilar Belda",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "senado-10491",
+      "name": "María Cruz Rodríguez Saldaña",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "senado-10190",
+      "name": "Victoriano Ríos Pérez",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "senado-10460",
+      "name": "Joaquín Jesús Galán Pérez",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    },
+    {
+      "person": "congreso-206-7",
+      "name": "María Dolores Gorostiaga Saiz",
+      "role": "PRESIDENTA DEL SENADO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=6&order=C"
+    }
+  ],
+  "incidents": []
+}

@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Fernando Abril Martorell · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Fernando_Abril_Martorell",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Abril Martorell · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q536714#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Fernando Abril Martorell · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q536714#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

@@ -56,6 +56,7 @@ export const organizations: Organization[] = Object.entries(partyFiles)
       ),
       electoralResults: read<Organization["electoralResults"]>(partyFiles, folder, "resultados.json", []),
       publicResources: read<Organization["publicResources"]>(partyFiles, folder, "documentacion.json", []),
+      activity: read<Organization["activity"]>(partyFiles, folder, "actividad.json", undefined),
     };
   })
   .sort((a, b) => a.name.localeCompare(b.name, "es"));

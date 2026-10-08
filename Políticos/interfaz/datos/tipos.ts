@@ -55,6 +55,15 @@ export type Person = {
   references: Reference[];
   folder: string;
   sections: string[];
+  activity?: PoliticalActivity;
+  senateOffices?: { title: string; period: string; source: Reference }[];
+  senateMandates?: { title: string; period: string; source: Reference }[];
+};
+export type PoliticalActivity = {
+  state: "active" | "historical" | "unknown";
+  reason: string;
+  checkedAt: string;
+  sources: Reference[];
 };
 export type Organization = {
   id: string;
@@ -110,6 +119,7 @@ export type Organization = {
     checkedAt: string;
   };
   folder: string;
+  activity?: PoliticalActivity;
 };
 export type GovernmentMember = {
   person: string;

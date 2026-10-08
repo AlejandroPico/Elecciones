@@ -1,0 +1,24 @@
+{
+  "state": "active",
+  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · mandato de la última legislatura",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?codParlamentario=253&idLegislatura=XV&mostrarFicha=true"
+    },
+    {
+      "label": "La Moncloa · última composición documentada",
+      "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xv_legislatura.aspx"
+    },
+    {
+      "label": "La Moncloa · Biografía institucional",
+      "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministro-felix-bolanos.aspx"
+    },
+    {
+      "label": "Félix Bolaños · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/F%C3%A9lix_Bola%C3%B1os",
+      "kind": "encyclopedic"
+    }
+  ]
+}

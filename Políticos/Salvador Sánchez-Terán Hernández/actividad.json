@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Salvador Sánchez-Terán · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Salvador_S%C3%A1nchez-Ter%C3%A1n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Salvador Sánchez-Terán · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3470338#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Salvador Sánchez-Terán · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3470338#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Jorge Semprún · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jorge_Sempr%C3%BAn",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jorge Semprún · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q157004#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jorge Semprún · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q157004#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

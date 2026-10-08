@@ -1,4 +1,5 @@
 import { governmentCatalog, type Person } from "./datos/catalogo";
+import { activityRank, personActivity } from "./actividad";
 export type Order = "name" | "recent" | "oldest" | "rank";
 function normalize(s: string) {
   return s
@@ -73,6 +74,8 @@ export function activityOf(p: Person) {
 }
 export function orderPeople(list: Person[], order: Order) {
   return [...list].sort((a, b) => {
+    const status = activityRank[personActivity(a)] - activityRank[personActivity(b)];
+    if (status) return status;
     if (order === "name") return (a.fullName ?? a.name).localeCompare(b.fullName ?? b.name, "es");
     const x = activityOf(a),
       y = activityOf(b);

@@ -8,7 +8,7 @@ export function personCatalogPlugin(): Plugin {
   const photosId = "virtual:personas-retratos";
   let root = "", testing = false, watching = false;
   let prepared: string | undefined;
-  const allowed = new Set(["ficha.json", "datos-personales.json", "retrato.json", "formacion.json", "afiliaciones.json", "fuentes-formacion.json", "trayectoria.json", "actuaciones.json", "fuentes.json", "biografia-institucional.json"]);
+  const allowed = new Set(["ficha.json", "datos-personales.json", "retrato.json", "formacion.json", "afiliaciones.json", "fuentes-formacion.json", "trayectoria.json", "actuaciones.json", "fuentes.json", "biografia-institucional.json", "actividad.json", "cargos-senado.json", "mandatos-senado.json"]);
   async function collect(watch?: (file: string) => void) {
     const directory = join(root, "Políticos");
     const folders = (await readdir(directory, { withFileTypes: true })).filter((d) => d.isDirectory() && !["interfaz", "herramientas", "revisiones"].includes(d.name));

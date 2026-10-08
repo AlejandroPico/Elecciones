@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Manuel Jiménez de Parga · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Manuel_Jim%C3%A9nez_de_Parga",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Jiménez de Parga · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3286862#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Jiménez de Parga · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3286862#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

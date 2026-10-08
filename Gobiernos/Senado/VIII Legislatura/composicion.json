@@ -1,0 +1,3409 @@
+{
+  "id": "senado-8",
+  "number": 8,
+  "label": "VIII",
+  "start": "2004-04-02",
+  "end": "2008-01-15",
+  "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/senadoresdesde1977/consultaorden/index.html?legis=8&lang=es_ES",
+  "mesaSource": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C",
+  "checkedAt": "2026-10-08",
+  "terms": [
+    {
+      "person": "senado-10545",
+      "name": "Rodolfo Ainsa Escartín",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10545&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10512",
+      "name": "Francisco Xabier Albistur Marin",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10512&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10512",
+      "name": "Francisco Xabier Albistur Marin",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INDUSTRIA, TURISMO Y COMERCIO",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10512&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10023",
+      "name": "Ramón Aleu i Jornet",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2006-05-11",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10023&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10023",
+      "name": "Ramón Aleu i Jornet",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2004-04-13",
+      "end": "2006-05-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10023&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12855",
+      "name": "Eugenio Álvarez Gómez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12855&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-156-7",
+      "name": "Iñaki Mirena Anasagasti Olabeaga",
+      "role": "SECRETARIO PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12987&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12769",
+      "name": "Antonia Aránega Jiménez",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE EDUCACIÓN Y CIENCIA",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12769&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12770",
+      "name": "Diego Miguel Asensio Martínez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ADMINISTRACIONES PÚBLICAS",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12770&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12967",
+      "name": "Félix Ayala Fonte",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12967&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12967",
+      "name": "Félix Ayala Fonte",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE FOMENTO Y VIVIENDA",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12967&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-63-4",
+      "name": "José Manuel Barquero Vázquez",
+      "role": "SECRETARIO CUARTO",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2008-01-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10180&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-130-9",
+      "name": "Juan Antonio Barranco Gallardo",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10214&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13525",
+      "name": "Alfredo Belda Quintana",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA",
+      "start": "2007-07-20",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13525&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10210",
+      "name": "Carlos Benet Cañete",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE PETICIONES",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10210&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-207-7",
+      "name": "Jaime Blanco García",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE DEFENSA",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10245&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10183",
+      "name": "Carles Josep Bonet i Revés",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2008-01-15",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10183&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10183",
+      "name": "Carles Josep Bonet i Revés",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2006-12-21",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10183&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10183",
+      "name": "Carles Josep Bonet i Revés",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2006-05-11",
+      "end": "2006-12-20",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10183&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10183",
+      "name": "Carles Josep Bonet i Revés",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2004-04-13",
+      "end": "2006-05-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10183&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12762",
+      "name": "Segundo Bru Parra",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS EXTERIORES Y COOPERACIÓN",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12762&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-186-6",
+      "name": "Damián Caneda Morales",
+      "role": "SECRETARIO TERCERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2008-01-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12834&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12708",
+      "name": "Isabel Carrasco Lorenzo",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-05-19",
+      "end": "2007-07-17",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12708&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-214-5",
+      "name": "Jordi Casas i Bedós",
+      "role": "SECRETARIO SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": "2007-02-06",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12806&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-214-5",
+      "name": "Jordi Casas i Bedós",
+      "role": "SECRETARIO SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2006-12-20",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12806&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10556",
+      "name": "Diego Ladislao Castell Campesino",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-04-19",
+      "end": "2007-07-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10556&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-69-6",
+      "name": "Carlos Chivite Cornago",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INVESTIGACIÓN CIENTÍFICA, DESARROLLO E INNOVACIÓN TECNOLÓGICA (I+D+I)",
+      "start": "2006-11-07",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12745&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10368",
+      "name": "Ramon Companys i Sanfeliú",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10368&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-04-01",
+      "end": "2007-06-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-01-01",
+      "end": "2007-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-10-01",
+      "end": "2006-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-07-01",
+      "end": "2006-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-01-01",
+      "end": "2006-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-10-01",
+      "end": "2005-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-01-01",
+      "end": "2005-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2004-10-01",
+      "end": "2004-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-344-5",
+      "name": "Enrique Federico Curiel Alonso",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12966&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12858",
+      "name": "Josep Maria Esquerda Segués",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ENTIDADES LOCALES",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12858&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12832",
+      "name": "Nicolás Fernández Cucurull",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE PRESUPUESTOS",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12832&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10017",
+      "name": "María Isabel Flores Fernández",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE CULTURA",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10017&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10441",
+      "name": "Luis Manuel Fraga Egusquiaguirre",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS IBEROAMERICANOS",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10441&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-164-2",
+      "name": "Antonio García Miralles",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "2004-05-12",
+      "end": "2007-07-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10565&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-171-3",
+      "name": "Carles Alfred Gasoliba i Bohm",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ECONOMÍA Y HACIENDA",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12927&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-274-9",
+      "name": "Marta Gastón Menal",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12920&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10472",
+      "name": "Arturo González López",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL DE ESTUDIO PARA ERRADICAR EL RACISMO Y LA XENOFOBIA DEL DEPORTE ESPAÑOL",
+      "start": "2005-06-07",
+      "end": "2007-06-06",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10472&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12928",
+      "name": "Jordi Guillot Miravet",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12928&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12928",
+      "name": "Jordi Guillot Miravet",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE LA SOCIEDAD DE LA INFORMACIÓN Y DEL CONOCIMIENTO",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12928&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10547",
+      "name": "José Iribas Sánchez de Boado",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-04-19",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10547&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-290-10",
+      "name": "Francisco Xesús Jorquera Caselas",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-10-01",
+      "end": "2007-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13185&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-290-10",
+      "name": "Francisco Xesús Jorquera Caselas",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-07-01",
+      "end": "2007-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13185&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-290-10",
+      "name": "Francisco Xesús Jorquera Caselas",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-04-01",
+      "end": "2006-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13185&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10507",
+      "name": "Juan José Laborda Martín",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN GENERAL DE LAS COMUNIDADES AUTÓNOMAS",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10507&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2007-07-31",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2004-04-13",
+      "end": "2007-07-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12742",
+      "name": "Isabel López Aulestia",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-07-01",
+      "end": "2005-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12742&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12742",
+      "name": "Isabel López Aulestia",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-04-01",
+      "end": "2005-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12742&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12742",
+      "name": "Isabel López Aulestia",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2004-10-01",
+      "end": "2004-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12742&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12742",
+      "name": "Isabel López Aulestia",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2004-07-01",
+      "end": "2004-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12742&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10437",
+      "name": "Fernando López Carrasco",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "2007-09-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10437&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10140",
+      "name": "Cristóbal José López Carvajal",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SANIDAD Y CONSUMO",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10140&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "VICEPRESIDENTE SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": "2007-09-11",
+      "end": "2008-01-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "VICEPRESIDENTE SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2007-07-17",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-289-10",
+      "name": "Pere Macias i Arau",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ",
+      "start": "2006-12-21",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12851&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-289-10",
+      "name": "Pere Macias i Arau",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ",
+      "start": "2004-04-13",
+      "end": "2006-12-20",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12851&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12922",
+      "name": "Miguel Martínez Fernández",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INTERIOR",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12922&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10126",
+      "name": "María Antonia Martínez García",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE JUSTICIA",
+      "start": "2004-05-12",
+      "end": "2007-07-03",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10126&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12822",
+      "name": "José Mendoza Cabrera",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA",
+      "start": "2004-04-13",
+      "end": "2007-07-18",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12822&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12801",
+      "name": "Isidre Molas i Batllori",
+      "role": "VICEPRESIDENTE PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2008-01-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12801&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2008-01-01",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-10-01",
+      "end": "2007-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-05-01",
+      "end": "2007-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-01-01",
+      "end": "2007-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-10-01",
+      "end": "2006-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-01-01",
+      "end": "2006-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-10-01",
+      "end": "2005-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-07-01",
+      "end": "2005-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-04-01",
+      "end": "2005-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2004-07-01",
+      "end": "2004-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2004-04-14",
+      "end": "2004-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE MEDIO AMBIENTE",
+      "start": "2004-05-12",
+      "end": "2007-07-11",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE MEDIO AMBIENTE",
+      "start": "2007-09-11",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-101-9",
+      "name": "José Luis Perestelo Rodríguez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA",
+      "start": "2004-04-13",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12821&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12748",
+      "name": "José Ignacio Pérez Sáenz",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE JUSTICIA",
+      "start": "2007-09-11",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12748&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12918",
+      "name": "Adoración Quesada Bravo",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2004-04-13",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12918&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12800",
+      "name": "Anxo Manuel Quintana González",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2005-01-01",
+      "end": "2005-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12800&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12800",
+      "name": "Anxo Manuel Quintana González",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2004-04-14",
+      "end": "2004-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12800&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10543",
+      "name": "Juan José Rodríguez Torres",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SUPLICATORIOS",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10543&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": "2004-04-02",
+      "end": "2008-01-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE NOMBRAMIENTOS",
+      "start": "2004-05-11",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONJUNTA DE LA COMISIÓN DE EDUCACIÓN Y CIENCIA Y DE LA COMISIÓN DE SANIDAD Y CONSUMO",
+      "start": "2005-04-05",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONJUNTA DE LA COMISIÓN DE SANIDAD Y CONSUMO Y DE LA COMISIÓN DE TRABAJO Y ASUNTOS SOCIALES",
+      "start": "2005-06-07",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12943",
+      "name": "Lentxu Rubial Cachorro",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE TRABAJO Y ASUNTOS SOCIALES",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12943&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13485",
+      "name": "Pere Sampol i Mas",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2008-01-01",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13485&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10451",
+      "name": "Antolín Sanz Pérez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-04-19",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10451&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-229-15",
+      "name": "Rafael Simancas Simancas",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "2004-05-12",
+      "end": "2007-06-27",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12836&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-229-15",
+      "name": "Rafael Simancas Simancas",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "2007-09-11",
+      "end": "2008-01-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12836&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13205",
+      "name": "José Ramón Urrutia Elorza",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-07-01",
+      "end": "2007-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13205&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13205",
+      "name": "José Ramón Urrutia Elorza",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2007-03-01",
+      "end": "2007-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13205&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13205",
+      "name": "José Ramón Urrutia Elorza",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-07-01",
+      "end": "2006-09-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13205&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13205",
+      "name": "José Ramón Urrutia Elorza",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2006-04-01",
+      "end": "2006-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13205&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10173",
+      "name": "Víctor Manuel Vázquez Portomeñe",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-04-19",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10173&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2004-04-19",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS",
+      "start": "2005-11-15",
+      "end": "2008-03-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS",
+      "start": "2004-04-13",
+      "end": "2005-11-03",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=8&lang=es_ES"
+    }
+  ],
+  "senators": [
+    {
+      "person": "senado-12880",
+      "name": "Enrique Abad Benedicto",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12880&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-349-6",
+      "name": "Adolfo Abejón Ortega",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12730&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12929",
+      "name": "Francisco Abellán Martínez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12929&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-268-4",
+      "name": "Pedro Agramunt Font de Mora",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10558&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10395",
+      "name": "María del Mar Agüero Ruano",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10395&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10545",
+      "name": "Rodolfo Ainsa Escartín",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10545&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-91-4",
+      "name": "César Aja Mariño",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10232&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10512",
+      "name": "Francisco Xabier Albistur Marin",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10512&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-182-6",
+      "name": "Gustavo-Adolfo Alcalde Sánchez",
+      "start": "2007-07-12",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10262&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13565",
+      "name": "José Alcaraz Abellán",
+      "start": "2007-07-19",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13565&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12891",
+      "name": "Rosa Nuria Aleixandre i Cerarols",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12891&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10023",
+      "name": "Ramón Aleu i Jornet",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10023&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12714",
+      "name": "José Antonio Alonso García",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12714&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12931",
+      "name": "Juan Antonio Álvarez Fernández",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12931&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12855",
+      "name": "Eugenio Álvarez Gómez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12855&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12709",
+      "name": "Mario Amilivia González",
+      "start": "2004-03-14",
+      "end": "2007-10-16",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12709&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-156-7",
+      "name": "Iñaki Mirena Anasagasti Olabeaga",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12987&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12914",
+      "name": "María del Mar Angulo Martínez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12914&legis=8&lang=es_ES"
+    },
+    {
+      "person": "juan-carlos-aparicio-perez",
+      "name": "Juan Carlos Aparicio Pérez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12939&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12937",
+      "name": "María del Carmen de Aragón Amunárriz",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12937&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12894",
+      "name": "Lluís Aragonès Delgado de Torres",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12894&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12769",
+      "name": "Antonia Aránega Jiménez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12769&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10137",
+      "name": "Manuel Arjona Santana",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10137&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-301-6",
+      "name": "Mercedes Aroz Ibáñez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12752&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12770",
+      "name": "Diego Miguel Asensio Martínez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12770&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12930",
+      "name": "José Atarés Martínez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12930&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12967",
+      "name": "Félix Ayala Fonte",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA (GPCC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12967&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12686",
+      "name": "Luis Ayllón Oliva",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12686&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-401-6",
+      "name": "Juan  Pascual Azorín Soriano",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12890&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13345",
+      "name": "Ramón María Azurza Aristeguieta",
+      "start": "2007-05-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13345&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12886",
+      "name": "Lluís Badia i Chancho",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12886&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12802",
+      "name": "María Assumpta Baig i Torras",
+      "start": "2006-12-21",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12802&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10564",
+      "name": "Miguel Barceló Pérez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10564&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12974",
+      "name": "Luis Bárcenas Gutiérrez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12974&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-63-4",
+      "name": "José Manuel Barquero Vázquez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10180&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-130-9",
+      "name": "Juan Antonio Barranco Gallardo",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10214&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12853",
+      "name": "Josep María Batlle Farrán",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12853&legis=8&lang=es_ES"
+    },
+    {
+      "person": "soledad-becerril-bustamante",
+      "name": "María Soledad Becerril Bustamante",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12868&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13525",
+      "name": "Alfredo Belda Quintana",
+      "start": "2007-07-19",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA (GPCC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13525&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10230",
+      "name": "Francisco Bella Galán",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10230&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12857",
+      "name": "Joaquín Antonio Bellón Martínez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12857&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10210",
+      "name": "Carlos Benet Cañete",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10210&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12679",
+      "name": "Antonio Germán Beteta Barreda",
+      "start": "2007-06-28",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12679&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-207-7",
+      "name": "Jaime Blanco García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10245&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12907",
+      "name": "Ángel Blanco Moreno",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12907&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-19-12",
+      "name": "Manuel Blasco Marqués",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12872&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12725",
+      "name": "Míriam Blasco Soto",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12725&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12902",
+      "name": "Miquel Bofill Abelló",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12902&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10183",
+      "name": "Carles Josep Bonet i Revés",
+      "start": "2006-12-21",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10183&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12701",
+      "name": "Juana Borrego Izquierdo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12701&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12804",
+      "name": "Jaume Bosch i Mestres",
+      "start": "2004-03-24",
+      "end": "2006-12-20",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12804&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12895",
+      "name": "Víctor Bravo Durán",
+      "start": "2004-03-14",
+      "end": "2007-05-16",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12895&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12762",
+      "name": "Segundo Bru Parra",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12762&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12901",
+      "name": "Rafel Bruguera Batalla",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12901&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12926",
+      "name": "Francisco Buen Lacambra",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12926&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10510&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12908",
+      "name": "José María Burgos García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12908&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13068",
+      "name": "Ignacio Burgos Pérez",
+      "start": "2004-06-20",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13068&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12887",
+      "name": "Maria Burgués Bargués",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12887&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12877",
+      "name": "José Antonio Burriel Alloza",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12877&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12677",
+      "name": "José Ramón Bustillo Navia-osorio",
+      "start": "2003-07-09",
+      "end": "2007-07-03",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12677&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10450",
+      "name": "Hilario Caballero Moya",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10450&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10153",
+      "name": "José Caballos Mojeda",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10153&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-58-5",
+      "name": "Manuel Jaime Cabezas Enríquez",
+      "start": "2004-03-30",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12949&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10172",
+      "name": "Francisco Cacharro Pardo",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10172&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12687",
+      "name": "Antonio Callado García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12687&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-17-12",
+      "name": "José Miguel Camacho Sánchez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12674&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-124-7",
+      "name": "María Teresa del Carmen Camacho Vázquez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12933&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-30-6",
+      "name": "María José Camilleri Hernández",
+      "start": "2004-05-12",
+      "end": "2005-05-17",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12780&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-289-9",
+      "name": "Belén María do Campo Piñeiro",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10168&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-186-6",
+      "name": "Damián Caneda Morales",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12834&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12909",
+      "name": "Antonio Canedo Aller",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12909&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12940",
+      "name": "Juan Bautista Cardona Prades",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12940&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10207",
+      "name": "José Carracao Gutiérrez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10207&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12708",
+      "name": "Isabel Carrasco Lorenzo",
+      "start": "2003-07-11",
+      "end": "2007-07-17",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12708&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12874",
+      "name": "María del Rosario Casado Sobrino",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12874&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-214-5",
+      "name": "Jordi Casas i Bedós",
+      "start": "2006-12-21",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12806&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12941",
+      "name": "Francisco Javier Castaño del Olmo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12941&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10556",
+      "name": "Diego Ladislao Castell Campesino",
+      "start": "2003-06-25",
+      "end": "2007-07-16",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10556&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-78-7",
+      "name": "Eugenio Enrique Castillo Jaén",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12912&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13006",
+      "name": "María Cinta Castillo Jiménez",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13006&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10159",
+      "name": "María Jesús Castro Mateos",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10159&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10467",
+      "name": "José Castro Rabadán",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10467&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12703",
+      "name": "Miguel Ángel Celdrán Matute",
+      "start": "2004-03-14",
+      "end": "2007-04-09",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12703&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-230-9",
+      "name": "Ana María Chacón Carretero",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12947&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-254-12",
+      "name": "José María Chiquillo Barber",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12888&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-69-6",
+      "name": "Carlos Chivite Cornago",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12745&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-55-5",
+      "name": "José Cholbi Diego",
+      "start": "2003-06-25",
+      "end": "2007-07-16",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=11344&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-362-10",
+      "name": "María Teresa Cobaleda Hernández",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12878&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10464",
+      "name": "María Mercedes Coloma Pesquera",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10464&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10368",
+      "name": "Ramon Companys i Sanfeliú",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10368&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-7-15",
+      "name": "Agustín Conde Bajén",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10434&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12897",
+      "name": "María Begoña Contreras Olmedo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12897&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13725",
+      "name": "Paulino Ramon Corcuera Muguerza",
+      "start": "2007-12-27",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13725&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12799",
+      "name": "José Manuel Cores Tourís",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12799&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12935",
+      "name": "José Javier Corominas Rivera",
+      "start": "2004-03-14",
+      "end": "2005-02-09",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12935&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12706",
+      "name": "María Auxiliadora Correa Zamora",
+      "start": "2007-04-10",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12706&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-47-7",
+      "name": "Paloma Corres Vaquero",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12924&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-121-5",
+      "name": "Luis Eduardo Cortés Muñoz",
+      "start": "2003-12-11",
+      "end": "2005-09-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10318&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-140-10",
+      "name": "Ignacio Cosidó Gutiérrez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12882&legis=8&lang=es_ES"
+    },
+    {
+      "person": "cospedal",
+      "name": "María Dolores de Cospedal García",
+      "start": "2007-06-26",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13305&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "start": "2003-12-11",
+      "end": "2007-06-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12680&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13445",
+      "name": "Carlos Cuevas Villoslada",
+      "start": "2007-07-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13445&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10235",
+      "name": "Casimiro Curbelo Curbelo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10235&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-344-5",
+      "name": "Enrique Federico Curiel Alonso",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12966&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13645",
+      "name": "Marta Alicia Díaz García",
+      "start": "2007-08-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13645&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12968",
+      "name": "Arcadio Díaz Tejera",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12968&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12985",
+      "name": "Ana Luisa Durán Fraguas",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12985&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13165",
+      "name": "José Ignacio Echeverría Echániz",
+      "start": "2007-06-28",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13165&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12859",
+      "name": "María José Elices Marcos",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12859&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-5",
+      "name": "Gabriel Elorriaga Fernández",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10166&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-295-5",
+      "name": "Julio Francisco de España Moya",
+      "start": "2007-07-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13605&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10120",
+      "name": "María Inmaculada de España Moya",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10120&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10011",
+      "name": "Ramon Espasa i Oliver",
+      "start": "2004-03-24",
+      "end": "2006-12-20",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10011&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12858",
+      "name": "Josep Maria Esquerda Segués",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12858&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12737",
+      "name": "Elena Etxegoyen Gaztelumendi",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12737&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-9-10",
+      "name": "Andrea Fabra Fernández",
+      "start": "2007-07-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13465&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12861",
+      "name": "Juan Fageda Aubert",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12861&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12970",
+      "name": "José Fernández Blanco",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12970&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12832",
+      "name": "Nicolás Fernández Cucurull",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12832&legis=8&lang=es_ES"
+    },
+    {
+      "person": "javier-fernandez",
+      "name": "Javier Fernández Fernández",
+      "start": "2007-07-18",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12718&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-248-9",
+      "name": "María del Pilar Fernández Pardo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12942&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12788",
+      "name": "José Blas Fernández Sánchez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12788&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12903",
+      "name": "María Emelina Fernández Soriano",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12903&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12777",
+      "name": "María Belén Fernández-delgado y Cerdá",
+      "start": "2004-03-14",
+      "end": "2007-09-24",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12777&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12724",
+      "name": "José Ferrández Otaño",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12724&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10017",
+      "name": "María Isabel Flores Fernández",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10017&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-55-15",
+      "name": "Carlos Javier Floriano Corrales",
+      "start": "2007-06-27",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12698&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10441",
+      "name": "Luis Manuel Fraga Egusquiaguirre",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10441&legis=8&lang=es_ES"
+    },
+    {
+      "person": "manuel-fraga",
+      "name": "Manuel Fraga Iribarne",
+      "start": "2006-02-07",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13245&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-97-6",
+      "name": "Francisco Fuentes Gallardo",
+      "start": "2007-06-27",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12704&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12934",
+      "name": "Rafaela Fuentes García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12934&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-65-15",
+      "name": "Carmen Fúnez de Gregorio",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12969&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12867",
+      "name": "María Mercedes Gallego Esperanza",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12867&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12782",
+      "name": "José Manuel García Ballestero",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12782&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10482",
+      "name": "Dionisio García Carnero",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10482&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-164-2",
+      "name": "Antonio García Miralles",
+      "start": "2003-06-25",
+      "end": "2007-07-16",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10565&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12876",
+      "name": "María Ángeles García Romero",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12876&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-171-3",
+      "name": "Carles Alfred Gasoliba i Bohm",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12927&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-274-9",
+      "name": "Marta Gastón Menal",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12920&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12712",
+      "name": "José Arsenio Giménez Martín",
+      "start": "2007-07-18",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12712&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13585",
+      "name": "Juan Carlos Gómez Macías",
+      "start": "2007-07-18",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13585&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12925",
+      "name": "José Vicente González Bethencourt",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12925&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-119-9",
+      "name": "Sixto González García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12843&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12728",
+      "name": "María del Carmen González Lahidalga",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12728&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10472",
+      "name": "Arturo González López",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10472&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12860",
+      "name": "Pedro Gordillo Durán",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12860&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10456",
+      "name": "María del Carmen Granado Paniagua",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10456&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-258-9",
+      "name": "María del Carmen Guerra Guerra",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12989&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-19-10",
+      "name": "Vicente Guillén Izquierdo",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10345&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12928",
+      "name": "Jordi Guillot Miravet",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12928&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12835",
+      "name": "Carlos Gutiérrez González",
+      "start": "2003-07-08",
+      "end": "2007-05-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12835&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13145",
+      "name": "Julián Gutiérrez Gutiérrez",
+      "start": "2005-07-22",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13145&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12971",
+      "name": "Marcos Francisco Hernández Guillén",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12971&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-131-10",
+      "name": "Patricia Hernández Gutiérrez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12950&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13425",
+      "name": "Pedro Manuel Hernández López",
+      "start": "2007-07-04",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13425&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12870",
+      "name": "Encarnación Ibáñez Vázquez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12870&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13125",
+      "name": "Carlos Javier Iglesias Estaún",
+      "start": "2005-05-22",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13125&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-351-7",
+      "name": "Francisco Javier Iglesias García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12884&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12833",
+      "name": "Juan José Imbroda Ortiz",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12833&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12879",
+      "name": "Esmeralda Iranzo Sánchez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12879&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10547",
+      "name": "José Iribas Sánchez de Boado",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10547&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12740",
+      "name": "David Isasi García",
+      "start": "2003-07-17",
+      "end": "2007-07-11",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12740&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-290-10",
+      "name": "Francisco Xesús Jorquera Caselas",
+      "start": "2005-10-10",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13185&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-356-7",
+      "name": "José Luis Juan Sanz",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12889&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10507",
+      "name": "Juan José Laborda Martín",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10507&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-58-10",
+      "name": "Juan Carlos Lagares Flores",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12786&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12837",
+      "name": "Luis Ángel Lago Lage",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12837&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12739",
+      "name": "Jesús María Laguna Peña",
+      "start": "2003-07-04",
+      "end": "2007-06-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12739&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-103-10",
+      "name": "Félix Lavilla Martínez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10533&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "start": "2007-07-17",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12742",
+      "name": "Isabel López Aulestia",
+      "start": "2003-12-22",
+      "end": "2005-11-03",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12742&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10437",
+      "name": "Fernando López Carrasco",
+      "start": "2007-06-26",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10437&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10140",
+      "name": "Cristóbal José López Carvajal",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10140&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12736",
+      "name": "Inmaculada Loroño Ormaechea",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12736&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13285",
+      "name": "Francisco Javier Losada de Azpiazu",
+      "start": "2006-04-18",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13285&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "start": "2007-07-18",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-289-10",
+      "name": "Pere Macias i Arau",
+      "start": "2006-12-21",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12851&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-131-5",
+      "name": "José Macías Santana",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10291&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12911",
+      "name": "Cristina Maestre Martín de Almagro",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12911&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12694",
+      "name": "Mario Mansilla Hidalgo",
+      "start": "2003-06-26",
+      "end": "2007-06-25",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12694&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12946",
+      "name": "Francisco Javier Maqueda Lafuente",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12946&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12873",
+      "name": "Antonio Marí Marí",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12873&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-325-7",
+      "name": "José Ignacio Marín Izquierdo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12896&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10155",
+      "name": "José Antonio Marín Rite",
+      "start": "2004-03-14",
+      "end": "2005-01-25",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10155&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12910",
+      "name": "Javier Marqués López",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12910&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13685",
+      "name": "Martín Marcos Martínez Barazón",
+      "start": "2007-10-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13685&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12922",
+      "name": "Miguel Martínez Fernández",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12922&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10126",
+      "name": "María Antonia Martínez García",
+      "start": "2003-07-09",
+      "end": "2007-07-03",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10126&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12906",
+      "name": "Jesús Martínez Herrera",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12906&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12732",
+      "name": "María Teófila Martínez Sáiz",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12732&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-42-9",
+      "name": "Juan de Dios Martínez Soriano",
+      "start": "2005-05-18",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10383&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12965",
+      "name": "Ricardo Melchior Navarro",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA (GPCC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12965&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12923",
+      "name": "Coloma Francisca Mendiola Olarte",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12923&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12822",
+      "name": "José Mendoza Cabrera",
+      "start": "2003-07-23",
+      "end": "2007-07-18",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA (GPCC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12822&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10002",
+      "name": "César José Mera Rodríguez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10002&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12801",
+      "name": "Isidre Molas i Batllori",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12801&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13265",
+      "name": "Almudena Monserrat de León",
+      "start": "2006-03-15",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13265&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12685",
+      "name": "José Montalvo Garrido",
+      "start": "2004-03-22",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12685&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12913",
+      "name": "Luis Moreno Castro",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12913&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12840",
+      "name": "Jesús Morlote Portilla",
+      "start": "2007-07-27",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12840&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12862",
+      "name": "José Muñoz Martín",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12862&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12684",
+      "name": "Alejandro Muñoz-alonso Ledo",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12684&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-271-5",
+      "name": "José María Mur Bernad",
+      "start": "2007-07-12",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12810&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-399-9",
+      "name": "Carlos Daniel Murria Climent",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12759&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12917",
+      "name": "María José Navarro Lafita",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12917&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12892",
+      "name": "Evaristo Nogueira Pol",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12892&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-189-14",
+      "name": "Joan Josep Nuet Pujals",
+      "start": "2006-12-21",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13325&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12854",
+      "name": "Eduardo de Orduña Puebla",
+      "start": "2004-03-14",
+      "end": "2007-07-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12854&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13085",
+      "name": "Francisco de Asís Orta Bonilla",
+      "start": "2005-01-26",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13085&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-7",
+      "name": "Juan José Ortiz Pérez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10269&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12863",
+      "name": "Ana del Pilar Padilla Camejo",
+      "start": "2004-03-14",
+      "end": "2006-03-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12863&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12938",
+      "name": "Francisco Javier Pagola Sáenz",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12938&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12885",
+      "name": "Juan José Palacios Rojo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12885&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10143",
+      "name": "Ramón Palacios Rubio",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10143&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12849",
+      "name": "Miguel Ramón Pampín Rúa",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12849&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12841",
+      "name": "Rogelio Pardo Gabaldón",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12841&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12796",
+      "name": "María Teresa Pascual Martínez",
+      "start": "2007-09-25",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12796&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10503",
+      "name": "Ascensión Pastor Parres",
+      "start": "2001-10-24",
+      "end": "2005-11-03",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10503&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12871",
+      "name": "Juan Miguel Peña Linares",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12871&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-282-6",
+      "name": "José Joaquín Peñarrubia Agius",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12973&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13365",
+      "name": "Luis Peral Guerra",
+      "start": "2007-06-28",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13365&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13545",
+      "name": "Juan Andrés Perelló Rodríguez",
+      "start": "2007-07-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13545&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-101-9",
+      "name": "José Luis Perestelo Rodríguez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES DE COALICIÓN CANARIA (GPCC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12821&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-224-10",
+      "name": "José Cruz Pérez Lapazarán",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12932&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12905",
+      "name": "María Pilar Pérez Lapuente",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12905&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12842",
+      "name": "Pedro José Pérez Ruiz",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12842&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12748",
+      "name": "José Ignacio Pérez Sáenz",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12748&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-78-10",
+      "name": "Manuel Pezzi Cereto",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12869&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12904",
+      "name": "Alberto Pindado González",
+      "start": "2004-03-14",
+      "end": "2004-06-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12904&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12856",
+      "name": "Gonzalo Piñeiro García-Lago",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12856&legis=8&lang=es_ES"
+    },
+    {
+      "person": "josep-pique-i-camps",
+      "name": "Josep Piqué i Camps",
+      "start": "2006-12-21",
+      "end": "2007-10-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12850&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10231",
+      "name": "Luis Pizarro Medina",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10231&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12986",
+      "name": "María Corina Porro Martínez",
+      "start": "2004-03-30",
+      "end": "2006-01-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12986&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13386",
+      "name": "Ruth Porta Cantoni",
+      "start": "2007-06-28",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13386&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-278-7",
+      "name": "Lluís María de Puig i Olivé",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12898&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12918",
+      "name": "Adoración Quesada Bravo",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12918&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13005",
+      "name": "María Eulalia Quevedo Ariza",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13005&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12800",
+      "name": "Anxo Manuel Quintana González",
+      "start": "2004-03-30",
+      "end": "2005-09-05",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12800&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13025",
+      "name": "Joaquín Luis Ramírez Rodríguez",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13025&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13105",
+      "name": "Lidia Redondo de Lucas",
+      "start": "2005-02-10",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13105&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-309-9",
+      "name": "Jaime Reinares Fernández",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12972&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12881",
+      "name": "Carlos Ripoll y Martínez de Bedoya",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12881&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-264-7",
+      "name": "Tomás Rodríguez Bolaños",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12948&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10157",
+      "name": "Pedro Rodríguez Cantero",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10157&legis=8&lang=es_ES"
+    },
+    {
+      "person": "rodriguez",
+      "name": "Isabel Rodríguez García",
+      "start": "2004-03-14",
+      "end": "2007-07-17",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12916&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12988",
+      "name": "Cándido Rodríguez Losada",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12988&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-354-0",
+      "name": "Juan Rodríguez Marín",
+      "start": "2007-07-17",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10275&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12883",
+      "name": "Francisco Rodríguez Martín",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12883&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12792",
+      "name": "Fernando Carlos Rodríguez Pérez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12792&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10543",
+      "name": "Juan José Rodríguez Torres",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10543&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10523&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-59-15",
+      "name": "Antonio Román Jasanada",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12864&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-36-14",
+      "name": "Rosa María Romero Sánchez",
+      "start": "2003-06-26",
+      "end": "2006-06-28",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12693&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12943",
+      "name": "Lentxu Rubial Cachorro",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12943&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13625",
+      "name": "Ana María Rufo Morgado",
+      "start": "2007-07-27",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13625&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-39-3",
+      "name": "Pedro Feliciano Sabando Suárez",
+      "start": "2003-12-11",
+      "end": "2007-06-27",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12716&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12814",
+      "name": "Joan Sabaté Borràs",
+      "start": "2006-12-21",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO ENTESA CATALANA DE PROGRÉS (GPECP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12814&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10587",
+      "name": "José Antonio Sacristán Rodríguez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10587&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "start": "2004-03-14",
+      "end": "2007-08-16",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-16-12",
+      "name": "Luis Miguel Salvador García",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12865&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13485",
+      "name": "Pere Sampol i Mas",
+      "start": "2007-07-18",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13485&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-320-10",
+      "name": "Ovidio Sánchez Díaz",
+      "start": "2007-07-18",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10477&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12681",
+      "name": "Juan Pablo Sánchez Sánchez-Seco",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12681&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12705",
+      "name": "Javier Sánchez-Simón Muñoz",
+      "start": "2003-07-23",
+      "end": "2007-07-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12705&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12919",
+      "name": "Pedro Santorromán Lacambra",
+      "start": "2004-03-14",
+      "end": "2005-05-21",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12919&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10429",
+      "name": "Clemente Sanz Blanco",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10429&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12915",
+      "name": "Basilia Sanz Murillo",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12915&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10451",
+      "name": "Antolín Sanz Pérez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10451&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-250-14",
+      "name": "Pedro Saura García",
+      "start": "2007-07-04",
+      "end": "2008-02-11",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13405&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12944",
+      "name": "Jesús Andrés Sedano Pérez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12944&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12819",
+      "name": "José Seguí Díaz",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12819&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12866",
+      "name": "Antonio Serrano Aguilar",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12866&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-229-15",
+      "name": "Rafael Simancas Simancas",
+      "start": "2007-06-28",
+      "end": "2008-03-28",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12836&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13705",
+      "name": "Daniel Sirera i Bellés",
+      "start": "2007-10-24",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13705&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13045",
+      "name": "Martín Soler Márquez",
+      "start": "2004-05-12",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13045&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12717",
+      "name": "Javier Sopeña Velasco",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12717&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12831",
+      "name": "Cristina Tejedor Utrilla",
+      "start": "2004-03-14",
+      "end": "2005-07-21",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12831&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10502",
+      "name": "Alberto Terán Molleda",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10502&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13665",
+      "name": "Francisco Javier Tuñón San Martín",
+      "start": "2007-09-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13665&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13225",
+      "name": "Víctor Manuel Urrutia Abaigar",
+      "start": "2005-11-04",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13225&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13205",
+      "name": "José Ramón Urrutia Elorza",
+      "start": "2005-11-04",
+      "end": "2007-12-21",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13205&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12900",
+      "name": "Miguel Ángel Uzquiza González",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12900&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-13505",
+      "name": "José Valín Alonso",
+      "start": "2007-07-18",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13505&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12751",
+      "name": "Esther Vallejo de Miguel",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12751&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10417",
+      "name": "Juan Van-Halen Acedo",
+      "start": "2007-06-28",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10417&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-53-10",
+      "name": "Antonio Vázquez Jiménez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12945&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10173",
+      "name": "Víctor Manuel Vázquez Portomeñe",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10173&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12875",
+      "name": "Francisco Javier Vázquez Requero",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12875&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12794",
+      "name": "Amador Vázquez Vázquez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12794&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-107-6",
+      "name": "Francisco José Vázquez Vázquez",
+      "start": "2004-03-14",
+      "end": "2006-04-17",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12791&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12921",
+      "name": "Elena Víboras Jiménez",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12921&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12899",
+      "name": "Yolanda Vicente González",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12899&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10642",
+      "name": "Isaac Vila Rodríguez",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10642&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-12893",
+      "name": "Pedro Villagrán Bustillos",
+      "start": "2004-03-14",
+      "end": "2008-01-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12893&legis=8&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "start": "2004-03-14",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=8&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "start": "2005-11-04",
+      "end": "2008-03-31",
+      "group": "GRUPO PARLAMENTARIO DE SENADORES NACIONALISTAS VASCOS (GPSNV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=8&lang=es_ES"
+    }
+  ],
+  "finalBoard": [
+    {
+      "person": "congreso-232-4",
+      "name": "Francisco Javier Rojo García",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    },
+    {
+      "person": "senado-12801",
+      "name": "Isidre Molas i Batllori",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    },
+    {
+      "person": "congreso-156-7",
+      "name": "Iñaki Mirena Anasagasti Olabeaga",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    },
+    {
+      "person": "congreso-214-5",
+      "name": "Jordi Casas i Bedós",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    },
+    {
+      "person": "congreso-186-6",
+      "name": "Damián Caneda Morales",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    },
+    {
+      "person": "congreso-63-4",
+      "name": "José Manuel Barquero Vázquez",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=8&order=C"
+    }
+  ],
+  "incidents": []
+}

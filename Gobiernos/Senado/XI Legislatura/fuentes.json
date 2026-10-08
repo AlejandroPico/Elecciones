@@ -1,0 +1,1592 @@
+[
+  {
+    "senateId": "17305",
+    "person": "senado-17305",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17305&legis=11&lang=es_ES",
+    "sha256": "9cf8d383998815ad721961e18e769008bf5bbc879638c612c345c64187301a11"
+  },
+  {
+    "senateId": "17160",
+    "person": "congreso-69-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17160&legis=11&lang=es_ES",
+    "sha256": "5545531532346d1722e7e00978c5be57d7fe9c41f2d1ae5df49ddedefc7f9a37"
+  },
+  {
+    "senateId": "10558",
+    "person": "congreso-268-4",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10558&legis=11&lang=es_ES",
+    "sha256": "9391b1fd048e3e96dbc2abbedaac5a2f61ce099042bd528b311c57b642ca3833"
+  },
+  {
+    "senateId": "17027",
+    "person": "senado-17027",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17027&legis=11&lang=es_ES",
+    "sha256": "beb4220c4caad39d0316fda4d34a86f90116c89787e0ff19ea66aceaf1f81b01"
+  },
+  {
+    "senateId": "14170",
+    "person": "senado-14170",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14170&legis=11&lang=es_ES",
+    "sha256": "67e623b46ac9a7e27a47e243a86ee0411592a8b230df98a591445b9d111f69af"
+  },
+  {
+    "senateId": "16974",
+    "person": "senado-16974",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16974&legis=11&lang=es_ES",
+    "sha256": "6da1ecb5f5fc35da4f04a46656a53807ff2f3e22928a56bf0b317111db451349"
+  },
+  {
+    "senateId": "16999",
+    "person": "senado-16999",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16999&legis=11&lang=es_ES",
+    "sha256": "9b353bf69c0940794f9840da802a5084dbc3b20d908534c0da70a012310a63e3"
+  },
+  {
+    "senateId": "17325",
+    "person": "senado-17325",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17325&legis=11&lang=es_ES",
+    "sha256": "432bb11a5de61486d83ede242d166987688341086b9107fdf756e13770524231"
+  },
+  {
+    "senateId": "17110",
+    "person": "senado-17110",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17110&legis=11&lang=es_ES",
+    "sha256": "763279654f2e574f3cb98219d12b1ee1bfe4c25670d36534bc248866d554ae04"
+  },
+  {
+    "senateId": "17032",
+    "person": "senado-17032",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17032&legis=11&lang=es_ES",
+    "sha256": "069c516b8af19de26a77b204ce8c05e708d9ce58bc0ea7e26c590d267f20b44d"
+  },
+  {
+    "senateId": "14445",
+    "person": "congreso-305-14",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14445&legis=11&lang=es_ES",
+    "sha256": "d9124d885b7577b0d6d0fa3c88cb5abd9443e96dfe622d3a8f946c0b9e1f8783"
+  },
+  {
+    "senateId": "13807",
+    "person": "senado-13807",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13807&legis=11&lang=es_ES",
+    "sha256": "77890a30333b7f1fbe2f56cb8ea075f8d7d1976b42f1b5015d0f65eabe9132b2"
+  },
+  {
+    "senateId": "14065",
+    "person": "senado-14065",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14065&legis=11&lang=es_ES",
+    "sha256": "8077acce5b3e7867ea41a01611f14f6e5e6c1d7a1f0ae2c759b370cf2ffd4223"
+  },
+  {
+    "senateId": "15237",
+    "person": "senado-15237",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15237&legis=11&lang=es_ES",
+    "sha256": "ecb9ba7eab9cc168320dec075548e565113404d13c5b8d78a44344e2f380b1cd"
+  },
+  {
+    "senateId": "17047",
+    "person": "senado-17047",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17047&legis=11&lang=es_ES",
+    "sha256": "5f3d612bff660e75a7f9f9ce5ee38dbc718e85048e04a8b263ba08ab5af92b95"
+  },
+  {
+    "senateId": "15329",
+    "person": "congreso-366-9",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15329&legis=11&lang=es_ES",
+    "sha256": "6af78fe2e72732651257c31f4749721bc36e425314038a3d0eba45e9640cca38"
+  },
+  {
+    "senateId": "12914",
+    "person": "senado-12914",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12914&legis=11&lang=es_ES",
+    "sha256": "9a10858affc7bb566d1d6f3cedb40476016b407f1439345c39dda3fb05bb3bad"
+  },
+  {
+    "senateId": "17127",
+    "person": "senado-17127",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17127&legis=11&lang=es_ES",
+    "sha256": "c4ffb52d288165be8d3c52f6d9be51a005f8deff797ea173c40545dddca90979"
+  },
+  {
+    "senateId": "14865",
+    "person": "congreso-15-8",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14865&legis=11&lang=es_ES",
+    "sha256": "62a407fcbcbafac353a88da3c251181daa3eab124b9b815ac2ba7e01db6a6f50"
+  },
+  {
+    "senateId": "17059",
+    "person": "senado-17059",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17059&legis=11&lang=es_ES",
+    "sha256": "f043e200b4a2f5475d290967d47974c97c0a877e5071b3a24b87f5dbbad54f12"
+  },
+  {
+    "senateId": "17153",
+    "person": "senado-17153",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17153&legis=11&lang=es_ES",
+    "sha256": "68b8d6e56f81882d8f02ebca0a69c6acb4e615782b9a9d4c8aa1f79e215961f4"
+  },
+  {
+    "senateId": "12937",
+    "person": "senado-12937",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12937&legis=11&lang=es_ES",
+    "sha256": "6e1cbf5948fb2e3eac666fbd90d267b014d45f9947ec3008808e410f713005e2"
+  },
+  {
+    "senateId": "17060",
+    "person": "congreso-259-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17060&legis=11&lang=es_ES",
+    "sha256": "e0696888c6ee06783841dcd7f8463e8069c9fe1e4a2d41f4a47fe873ae4d1db9"
+  },
+  {
+    "senateId": "10154",
+    "person": "javier-arenas-bocanegra",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10154&legis=11&lang=es_ES",
+    "sha256": "c3943d4259bb64cb66bce902f022dabcae2543b8d6b2b8cdc64254b74124e271"
+  },
+  {
+    "senateId": "15336",
+    "person": "senado-15336",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15336&legis=11&lang=es_ES",
+    "sha256": "50ea16952d36867b478c4020e10914f9c843f6d97b0c68c2fb54d429d878bc9f"
+  },
+  {
+    "senateId": "15262",
+    "person": "senado-15262",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15262&legis=11&lang=es_ES",
+    "sha256": "2e28e057cbbec7ae068a6512ae90e3ceed85f7ee36a625d0cd29f2ada73353dc"
+  },
+  {
+    "senateId": "17115",
+    "person": "senado-17115",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17115&legis=11&lang=es_ES",
+    "sha256": "e0b6a5e808e398ab4aaf693971f1b51ac857a96e95d9451b5ceee564b74ba471"
+  },
+  {
+    "senateId": "17105",
+    "person": "senado-17105",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17105&legis=11&lang=es_ES",
+    "sha256": "e9d045cfd4b1e6b3ee73c91f44aadc8638a30a940983b3d72c5609cb15df0762"
+  },
+  {
+    "senateId": "17039",
+    "person": "senado-17039",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17039&legis=11&lang=es_ES",
+    "sha256": "9f5045555163d474ff27bbf58b447948c4ee5fda7e68209a2c649e84b1c556df"
+  },
+  {
+    "senateId": "17225",
+    "person": "senado-17225",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17225&legis=11&lang=es_ES",
+    "sha256": "5716045cab5b431548c8e900b7a0eb9b966b4b3f0309ff062fd0059e756b141e"
+  },
+  {
+    "senateId": "10089",
+    "person": "senado-10089",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10089&legis=11&lang=es_ES",
+    "sha256": "2b6a9d36a055df1570845325d3104a853ceb2138af6a407b10b9e810c5c09424"
+  },
+  {
+    "senateId": "15333",
+    "person": "senado-15333",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15333&legis=11&lang=es_ES",
+    "sha256": "1aa8256f89ea71542ebe546215311c48d0b2d08aa5c3c33c5095405d84234eae"
+  },
+  {
+    "senateId": "16745",
+    "person": "senado-16745",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16745&legis=11&lang=es_ES",
+    "sha256": "854bea08aa5243b6331c0da889a7f2df39846e0d1c69dffe7c540b1d2e287167"
+  },
+  {
+    "senateId": "17154",
+    "person": "senado-17154",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17154&legis=11&lang=es_ES",
+    "sha256": "395e664dca55ed034e7d648bde43ba75ffeaf127c1fe9722aad678ea6b2e1e17"
+  },
+  {
+    "senateId": "14087",
+    "person": "senado-14087",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14087&legis=11&lang=es_ES",
+    "sha256": "92ea74169a8c4b3bdcd3b1231d044730499f7bcf11c2ee480544c4812ae639da"
+  },
+  {
+    "senateId": "17061",
+    "person": "senado-17061",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17061&legis=11&lang=es_ES",
+    "sha256": "2b601a932e46b36b7da4b02163f91babb718c8362a9b49b9edf788b84620d4e7"
+  },
+  {
+    "senateId": "16105",
+    "person": "congreso-4-12",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16105&legis=11&lang=es_ES",
+    "sha256": "3eca8183f9cacbb58a671475995e0da8c8e231e8c67ad0621566de490d6501b1"
+  },
+  {
+    "senateId": "16385",
+    "person": "senado-16385",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16385&legis=11&lang=es_ES",
+    "sha256": "6f88e0e4d5839d0231c5628325aa2dc9dd79b1da953d5c10a834fccb332a639f"
+  },
+  {
+    "senateId": "14765",
+    "person": "senado-14765",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14765&legis=11&lang=es_ES",
+    "sha256": "aaace58871400e107ac69185208dbb75305364754fa7145c0fcd7bc69fe77ed3"
+  },
+  {
+    "senateId": "16285",
+    "person": "congreso-70-14",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16285&legis=11&lang=es_ES",
+    "sha256": "192b26da02bc887a468ed57ffdc4215f6b9351c8e747335caeed7ac0ea69f35a"
+  },
+  {
+    "senateId": "17043",
+    "person": "senado-17043",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17043&legis=11&lang=es_ES",
+    "sha256": "107ace8d49bce1b16ade48d623150aec33ebabf7560805c952ac80b4217badcc"
+  },
+  {
+    "senateId": "12744",
+    "person": "senado-12744",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12744&legis=11&lang=es_ES",
+    "sha256": "705d1da8741186dcfdf72416d62909c474fac451d1c7d2c2eb85c713f0d62099"
+  },
+  {
+    "senateId": "16981",
+    "person": "senado-16981",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16981&legis=11&lang=es_ES",
+    "sha256": "fbb1b6f066f5b3179d48d6d038daeb81ccc461b68fcee557fd5b1a18a716121d"
+  },
+  {
+    "senateId": "17150",
+    "person": "senado-17150",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17150&legis=11&lang=es_ES",
+    "sha256": "e75a38787bd28aa813350c9bc245bcc0ea1ec615c38b185d2fda2f4ecf723a6c"
+  },
+  {
+    "senateId": "10510",
+    "person": "senado-10510",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10510&legis=11&lang=es_ES",
+    "sha256": "df51810072dffb64e83ff2a9cee586b4c3d2ada27c5f04feb01fc489d0fecfb1"
+  },
+  {
+    "senateId": "10153",
+    "person": "senado-10153",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10153&legis=11&lang=es_ES",
+    "sha256": "6ddc2536069cdbbe1371c72468e1f0be476821f92d898cba5708afff20f703d4"
+  },
+  {
+    "senateId": "17048",
+    "person": "congreso-2-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17048&legis=11&lang=es_ES",
+    "sha256": "03ade8679a01bcaa671086bfd40ce64f0825edacd9a9ea5487e90eea4c542252"
+  },
+  {
+    "senateId": "17146",
+    "person": "congreso-287-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17146&legis=11&lang=es_ES",
+    "sha256": "50c39708d55ae554a1de314336fb4b44cd7584f3024e8c61e6df84683c6d4725"
+  },
+  {
+    "senateId": "15625",
+    "person": "senado-15625",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15625&legis=11&lang=es_ES",
+    "sha256": "16ed54d994993dd16802a28a9c0035a6bbd63d14fea48a942423c6386423862a"
+  },
+  {
+    "senateId": "17128",
+    "person": "senado-17128",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17128&legis=11&lang=es_ES",
+    "sha256": "e0fa791c2303b844e82f8c1f4ba36cc026532b351864842c2ba54957b252bb27"
+  },
+  {
+    "senateId": "16885",
+    "person": "maria-luisa-carcedo",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16885&legis=11&lang=es_ES",
+    "sha256": "04e56531f52c5998c7ea8131566fe9d0611622c007ddaa740096978a0c59e0a1"
+  },
+  {
+    "senateId": "16968",
+    "person": "senado-16968",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16968&legis=11&lang=es_ES",
+    "sha256": "567435690cf0f1207e4d42ccf0134ea2d437979251c784659c1266ad9feb8ef2"
+  },
+  {
+    "senateId": "15208",
+    "person": "senado-15208",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15208&legis=11&lang=es_ES",
+    "sha256": "ce4d39cc50bbc45472a2079327330b3ded794c12c24aff265ce5895870706387"
+  },
+  {
+    "senateId": "16445",
+    "person": "senado-16445",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16445&legis=11&lang=es_ES",
+    "sha256": "5af2a58729f3794f7383e836eaf82c613d24d79677506c5622e3871405e24961"
+  },
+  {
+    "senateId": "16992",
+    "person": "congreso-276-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16992&legis=11&lang=es_ES",
+    "sha256": "c276810f83faf8ebca3a2aee3a73e9920b5967cb37a5bdba35dad218d531e7e7"
+  },
+  {
+    "senateId": "15825",
+    "person": "senado-15825",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15825&legis=11&lang=es_ES",
+    "sha256": "cdf715be1413d97e3a13ba1e81637419c1fc01a3f5a365f1ed5224678eba3999"
+  },
+  {
+    "senateId": "17112",
+    "person": "senado-17112",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17112&legis=11&lang=es_ES",
+    "sha256": "83f85493896f652cf9f5dd980db142976e78fb14f22b18929b40ad46c39cf2c7"
+  },
+  {
+    "senateId": "12897",
+    "person": "senado-12897",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12897&legis=11&lang=es_ES",
+    "sha256": "1de2dbb6352969cbd5ee06202d5d19ae2c7f842d9c25fda5a6f26b9ea1c0493b"
+  },
+  {
+    "senateId": "14079",
+    "person": "senado-14079",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14079&legis=11&lang=es_ES",
+    "sha256": "d06adff394860f85be58188504369464c1fe20025c8ebf4ec983bb1d6ff327d5"
+  },
+  {
+    "senateId": "16625",
+    "person": "senado-16625",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16625&legis=11&lang=es_ES",
+    "sha256": "c2cd7a7c85ebf61647e51e815428e2f197339dcb4bd7a1146c9a64fab974b186"
+  },
+  {
+    "senateId": "17007",
+    "person": "senado-17007",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17007&legis=11&lang=es_ES",
+    "sha256": "e53fbecabf30b70555bf5262c400f105efb89232eb85b7a02aca70e10b2ee97d"
+  },
+  {
+    "senateId": "17328",
+    "person": "senado-17328",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17328&legis=11&lang=es_ES",
+    "sha256": "b94fe3c033e31a09dde18520c7050e5366f8bf5352a2a7b824a9106f9c20284b"
+  },
+  {
+    "senateId": "17085",
+    "person": "congreso-177-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17085&legis=11&lang=es_ES",
+    "sha256": "a0998402295103c609767c1b080dda6e49b1ff95f1ea0a425c8be3ddc6554bbf"
+  },
+  {
+    "senateId": "17245",
+    "person": "senado-17245",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17245&legis=11&lang=es_ES",
+    "sha256": "13a97baeb7f3369a83d8c6f3523b3bc9cc9bfb43812cae7365ac7caedf10f1f2"
+  },
+  {
+    "senateId": "15263",
+    "person": "congreso-171-9",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15263&legis=11&lang=es_ES",
+    "sha256": "1957c2ba5109c10c9904f5beba8635dcde440e0bfd71d64b631370d7dccfefd2"
+  },
+  {
+    "senateId": "17057",
+    "person": "senado-17057",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17057&legis=11&lang=es_ES",
+    "sha256": "f4994d88d4c3dbfbadfbe5dea10cb978b5667ff39b37f02ea8c5e998518d040b"
+  },
+  {
+    "senateId": "16725",
+    "person": "senado-16725",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16725&legis=11&lang=es_ES",
+    "sha256": "bff1f88e712522ff83e73275251f3ef66143cd5afe7c74ea9e6e868d3a7d1c47"
+  },
+  {
+    "senateId": "16645",
+    "person": "senado-16645",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16645&legis=11&lang=es_ES",
+    "sha256": "43a62834368e61491ef4b2c76c648155a6f752bc4439bfd4fe87f7184aa9ba06"
+  },
+  {
+    "senateId": "16971",
+    "person": "senado-16971",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16971&legis=11&lang=es_ES",
+    "sha256": "bbfce5eb79901303307fd1027b4827783ebe12e3ab6ba69e5a8fe4c114c1d3c3"
+  },
+  {
+    "senateId": "16984",
+    "person": "senado-16984",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16984&legis=11&lang=es_ES",
+    "sha256": "31100c80f8e371e047b995f5b52c926ca6e56df7b594548e6eef5c2696a07312"
+  },
+  {
+    "senateId": "16948",
+    "person": "senado-16948",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16948&legis=11&lang=es_ES",
+    "sha256": "763a1107cbca85889c3087fd8e67d37251d5f4d707ea404d8bf2e615b41eb355"
+  },
+  {
+    "senateId": "16980",
+    "person": "senado-16980",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16980&legis=11&lang=es_ES",
+    "sha256": "34d24dec12bc98350468207c5e35346cc1d9b110fe63e44c2e8594dd130923e9"
+  },
+  {
+    "senateId": "17156",
+    "person": "senado-17156",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17156&legis=11&lang=es_ES",
+    "sha256": "84f64be2068d05d95092481b5920d492ba93f7b037cfb4b3d33d3c4800cd8404"
+  },
+  {
+    "senateId": "16505",
+    "person": "senado-16505",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16505&legis=11&lang=es_ES",
+    "sha256": "91cf0d0c32dd7958459b77b0934890a753772782d1891f36087729e2d595750c"
+  },
+  {
+    "senateId": "16990",
+    "person": "senado-16990",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16990&legis=11&lang=es_ES",
+    "sha256": "d8488130270d68a51aec176d62b175e13bbc6dc0fa7874fd60c5417af4eaf1d4"
+  },
+  {
+    "senateId": "17106",
+    "person": "senado-17106",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17106&legis=11&lang=es_ES",
+    "sha256": "9339247d9eaf4fbcbb017a924a15165e24fdfa2587560e7f93c29e6cf27aa623"
+  },
+  {
+    "senateId": "17028",
+    "person": "senado-17028",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17028&legis=11&lang=es_ES",
+    "sha256": "905ba6efb0eb3cb6ce749d945c0b778a0df11f199c6b666bfbde9ca70c6d08d1"
+  },
+  {
+    "senateId": "16746",
+    "person": "congreso-108-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16746&legis=11&lang=es_ES",
+    "sha256": "0198f6e76ebb9b8d328cc29e8c0ee22e939e5b339a296456ae3af6966b08ed27"
+  },
+  {
+    "senateId": "17152",
+    "person": "senado-17152",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17152&legis=11&lang=es_ES",
+    "sha256": "b6cf7b5afd4d56ed92d8f7a6f7f0f998c578be1c10f2fa4e339b308574b145a1"
+  },
+  {
+    "senateId": "16925",
+    "person": "senado-16925",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16925&legis=11&lang=es_ES",
+    "sha256": "1c012fbe119ab0ce7f6e78fcb42feafd078432073169075206abfc8ea8683712"
+  },
+  {
+    "senateId": "16425",
+    "person": "senado-16425",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16425&legis=11&lang=es_ES",
+    "sha256": "e5017714b8a60ad2ce4acaca2d2330000fe346e2e17bf952d1e4d6248869e61e"
+  },
+  {
+    "senateId": "12970",
+    "person": "senado-12970",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12970&legis=11&lang=es_ES",
+    "sha256": "3f8b852be3160f995246f046242c22702cda4d25172edb6b1b4ccd509225d12c"
+  },
+  {
+    "senateId": "17006",
+    "person": "senado-17006",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17006&legis=11&lang=es_ES",
+    "sha256": "86a5985e1435dd5169fdfc2829e0d2e3c0f170611c0284fe4aca04a096caa010"
+  },
+  {
+    "senateId": "16977",
+    "person": "senado-16977",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16977&legis=11&lang=es_ES",
+    "sha256": "ae9ae4775ebf17bd2eaa2e5bc9c1e780f8e85e5a6ceb53e9b029fb0594d44c8d"
+  },
+  {
+    "senateId": "15234",
+    "person": "senado-15234",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15234&legis=11&lang=es_ES",
+    "sha256": "06eeb4b5e5db180264a6844561bde06c9d890d62e15bf5a0f177e77833afc0b9"
+  },
+  {
+    "senateId": "17155",
+    "person": "senado-17155",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17155&legis=11&lang=es_ES",
+    "sha256": "f3f88f98dc87a1704ec289bbc85d75f3c0d0fb9bc5cc665ddf4f9b5bc26f31db"
+  },
+  {
+    "senateId": "17113",
+    "person": "congreso-201-13",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17113&legis=11&lang=es_ES",
+    "sha256": "75ce6fffd6d16c03ea12e6280cb3c31b2f5157e67836260b0293aa551171f5c0"
+  },
+  {
+    "senateId": "16988",
+    "person": "senado-16988",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16988&legis=11&lang=es_ES",
+    "sha256": "e2d60a45d7ae4a7e9dc9b38cde607193acb935434668b7cfdb2c954b5ccad7ed"
+  },
+  {
+    "senateId": "17265",
+    "person": "senado-17265",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17265&legis=11&lang=es_ES",
+    "sha256": "da5a086d2fad13d19301435e44aef535023328b2d6508205beadc110ba08f6e8"
+  },
+  {
+    "senateId": "17025",
+    "person": "senado-17025",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17025&legis=11&lang=es_ES",
+    "sha256": "acb67cde3193f55cd58b07ebe5e3766ce00d5e770d703db4e9c969a32bfd8b82"
+  },
+  {
+    "senateId": "15217",
+    "person": "senado-15217",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15217&legis=11&lang=es_ES",
+    "sha256": "40f2926f19e0539df871bae24cb6a8f1c90104ca2477bdbd9ec21f1e4e254310"
+  },
+  {
+    "senateId": "16965",
+    "person": "senado-16965",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16965&legis=11&lang=es_ES",
+    "sha256": "7ac9fbdd8dfa491b4ef3fc1487895a04684dea7475592f909bb874c81d6d410a"
+  },
+  {
+    "senateId": "17285",
+    "person": "senado-17285",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17285&legis=11&lang=es_ES",
+    "sha256": "bb3ed19b12da9ed9219cce0ee7b6fc5b9d8f101772531b765fb78081b65e8086"
+  },
+  {
+    "senateId": "17126",
+    "person": "senado-17126",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17126&legis=11&lang=es_ES",
+    "sha256": "2cfcafcebb09836926310a5f5ae166335835c596fde60dcf8e160b46d513baac"
+  },
+  {
+    "senateId": "10482",
+    "person": "senado-10482",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10482&legis=11&lang=es_ES",
+    "sha256": "6998d4ea590d2b7467c7c85b334c47ec116b09ce716ff9e380450a44dd345e44"
+  },
+  {
+    "senateId": "17116",
+    "person": "senado-17116",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17116&legis=11&lang=es_ES",
+    "sha256": "7917e03fb7dd9d01f0d5101a72cdcb5367b67fddb47897bc37bf174261d39041"
+  },
+  {
+    "senateId": "17009",
+    "person": "senado-17009",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17009&legis=11&lang=es_ES",
+    "sha256": "f521bfaa69b5c9ca2f5a9466a6bccac62aac9fd1375792778acbdb7f39a2c142"
+  },
+  {
+    "senateId": "16205",
+    "person": "senado-16205",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16205&legis=11&lang=es_ES",
+    "sha256": "b12c2f63d2fd6f8404d81c8445471e66faee21feb74b8dbeb7dfad131d291664"
+  },
+  {
+    "senateId": "10216",
+    "person": "senado-10216",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=11&lang=es_ES",
+    "sha256": "84d7a83cec12a478644d8957015300488aeda0a6bdecea69368cf227b801b2b8"
+  },
+  {
+    "senateId": "16978",
+    "person": "senado-16978",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16978&legis=11&lang=es_ES",
+    "sha256": "aa5570642b2d481f9aa5031718effd44e29efbfcb5757ef06c1f3cad0288db90"
+  },
+  {
+    "senateId": "15307",
+    "person": "senado-15307",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15307&legis=11&lang=es_ES",
+    "sha256": "18ad6c69cd017a3c487dc98c318da9948d56fd4500d138bb1d1e66ee563c16d1"
+  },
+  {
+    "senateId": "17062",
+    "person": "senado-17062",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17062&legis=11&lang=es_ES",
+    "sha256": "a171d5dd54d72ff03b891a79b38486311c1abeed5d277bf31a55ddac96bb725c"
+  },
+  {
+    "senateId": "15845",
+    "person": "senado-15845",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15845&legis=11&lang=es_ES",
+    "sha256": "a738ba890d320239fe88b7ffdc9dc17a27ed80e542de7c140215b4cea8e120ce"
+  },
+  {
+    "senateId": "16945",
+    "person": "congreso-114-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16945&legis=11&lang=es_ES",
+    "sha256": "36862d10f02de7e14f1678d0d2a71890de7fec66c9bed367333a802ac0a9d6f4"
+  },
+  {
+    "senateId": "15253",
+    "person": "senado-15253",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15253&legis=11&lang=es_ES",
+    "sha256": "75af1b5136c87a38cf99489d65f27ae58229a0be1fffc91464aa5e1afde2f714"
+  },
+  {
+    "senateId": "16485",
+    "person": "senado-16485",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16485&legis=11&lang=es_ES",
+    "sha256": "adba9bdbeaa7cea03e7f038904b1bc7f00fcd3dd1eb8cb7c23445ffe30659ca7"
+  },
+  {
+    "senateId": "17037",
+    "person": "congreso-2-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17037&legis=11&lang=es_ES",
+    "sha256": "96793a55259d45317d8ece54b97d17ba239fb8bc55be857d275d634f040d2cbb"
+  },
+  {
+    "senateId": "15260",
+    "person": "senado-15260",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15260&legis=11&lang=es_ES",
+    "sha256": "9d8f1fb3529a26183bc525ca09307a82ac19e465478c3bbf05096a11a15e30ee"
+  },
+  {
+    "senateId": "13973",
+    "person": "senado-13973",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13973&legis=11&lang=es_ES",
+    "sha256": "966194c99f46df8cdf24e83308f94a008cca936d95d7799f619f203ded4289a3"
+  },
+  {
+    "senateId": "16905",
+    "person": "senado-16905",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16905&legis=11&lang=es_ES",
+    "sha256": "14040ee21713c03cbb50ab4389bb40c9ad7c2b0507c1a1df0cc208edc20b4b4b"
+  },
+  {
+    "senateId": "17117",
+    "person": "senado-17117",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17117&legis=11&lang=es_ES",
+    "sha256": "7055e519f0b2589031ef5ceb54cf9828ef91bf8addd9a8731aeaf28e2de57ca8"
+  },
+  {
+    "senateId": "17014",
+    "person": "congreso-415-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17014&legis=11&lang=es_ES",
+    "sha256": "244e92a82722a1f8ccdf8bfd29b617a3250b8fdbf5647c282ca39bf92196d879"
+  },
+  {
+    "senateId": "17114",
+    "person": "senado-17114",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17114&legis=11&lang=es_ES",
+    "sha256": "b6f744666599dcab77a5080a2f52e9e4877588e9582c073f55b1b38fea214a22"
+  },
+  {
+    "senateId": "16966",
+    "person": "senado-16966",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16966&legis=11&lang=es_ES",
+    "sha256": "f4ada6cda479af75abe8d2a68920848d33dbc941772dd1c209e761804696ed61"
+  },
+  {
+    "senateId": "15324",
+    "person": "senado-15324",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15324&legis=11&lang=es_ES",
+    "sha256": "1f6a09823addb068d6af2644ba51de40b7002d4ff136e6d80b0a038759f07375"
+  },
+  {
+    "senateId": "15245",
+    "person": "senado-15245",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15245&legis=11&lang=es_ES",
+    "sha256": "f02bb999bb4ea82ae2690047921fc1c1554abcab49af739768b4b4e28074d13f"
+  },
+  {
+    "senateId": "13930",
+    "person": "senado-13930",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13930&legis=11&lang=es_ES",
+    "sha256": "68d8266490cd2895d9607ab34343a2fa364713dd7815efcff0416f0557eaa63f"
+  },
+  {
+    "senateId": "17148",
+    "person": "congreso-292-13",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17148&legis=11&lang=es_ES",
+    "sha256": "29a5ab2648e377283b90742370f80d9d936c3c8cce46261f4703277240788b69"
+  },
+  {
+    "senateId": "17004",
+    "person": "senado-17004",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17004&legis=11&lang=es_ES",
+    "sha256": "46bb25ddd133d99b95b9f14fcdfdeea8d112417a54ba9ee9ce437c2cf5bf0db8"
+  },
+  {
+    "senateId": "16969",
+    "person": "senado-16969",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16969&legis=11&lang=es_ES",
+    "sha256": "09808d4278f3056bc50f52e8f050bfad5ac8bc0caaef94368d941d34ac53ffb3"
+  },
+  {
+    "senateId": "15885",
+    "person": "senado-15885",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15885&legis=11&lang=es_ES",
+    "sha256": "3188db31351f5a70eef060b1de91f29e41d254fee6d23fd8760d5c3d22af3911"
+  },
+  {
+    "senateId": "12884",
+    "person": "congreso-351-7",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12884&legis=11&lang=es_ES",
+    "sha256": "20ce5459d8c8b76e90bdedbdc373a13b19aaa396a6f3b59a7c80a896fb728c0e"
+  },
+  {
+    "senateId": "16995",
+    "person": "senado-16995",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16995&legis=11&lang=es_ES",
+    "sha256": "c10b72b38008f097953bd6c5ea38fdf5095b18e9cd2c439abd3573574ec194bc"
+  },
+  {
+    "senateId": "15045",
+    "person": "senado-15045",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15045&legis=11&lang=es_ES",
+    "sha256": "5a3842c5c69243f7fc42085bb872030bd115808cb70deb2e66d509182042893c"
+  },
+  {
+    "senateId": "12833",
+    "person": "senado-12833",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12833&legis=11&lang=es_ES",
+    "sha256": "a9ab81e3ea7d04189186f8039b634eabb08e3cb1a64a577862b21808610af428"
+  },
+  {
+    "senateId": "15865",
+    "person": "senado-15865",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15865&legis=11&lang=es_ES",
+    "sha256": "6fa9e6625fe15850541a9eb1717a61ff09008b56357e951e1fb86abc69709208"
+  },
+  {
+    "senateId": "17003",
+    "person": "senado-17003",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17003&legis=11&lang=es_ES",
+    "sha256": "bffb4ef289c8e356cb8eef58a52713d5b929d7e3f741ff5a5b5de58029141040"
+  },
+  {
+    "senateId": "17034",
+    "person": "senado-17034",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17034&legis=11&lang=es_ES",
+    "sha256": "ac117f19ee74a1b4c59bc0f45062d5ca545bb1aab60929665d176ed624cd0aed"
+  },
+  {
+    "senateId": "15466",
+    "person": "senado-15466",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15466&legis=11&lang=es_ES",
+    "sha256": "ed1b8def7f9d8b3817548cf6b43f8bbda7a4e119cfc68738a06686732eeb61ea"
+  },
+  {
+    "senateId": "16165",
+    "person": "senado-16165",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16165&legis=11&lang=es_ES",
+    "sha256": "bd62883e99ff61a39248de1a8356cfb02b6a2b3e6f420144ba6788e1d42c68e4"
+  },
+  {
+    "senateId": "15214",
+    "person": "senado-15214",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15214&legis=11&lang=es_ES",
+    "sha256": "c7a6a0f0cc89826eea9a46c92fadd6ed7789a6a7074e0b0cbffba933f36bd8bb"
+  },
+  {
+    "senateId": "17036",
+    "person": "senado-17036",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17036&legis=11&lang=es_ES",
+    "sha256": "ef4cc4f08437994080818503ca79ade355a66867c3d00e311c2be5a6e5b77676"
+  },
+  {
+    "senateId": "17147",
+    "person": "congreso-166-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17147&legis=11&lang=es_ES",
+    "sha256": "8bdb2b577bb658989ee51bedf4c4852aa7f1d6359b2dad1a72649546ae62d0e7"
+  },
+  {
+    "senateId": "16765",
+    "person": "senado-16765",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16765&legis=11&lang=es_ES",
+    "sha256": "f9ec22457580f94934ec0c77803af7638a241d721d42e4284694edaf3c61a2c8"
+  },
+  {
+    "senateId": "16586",
+    "person": "senado-16586",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16586&legis=11&lang=es_ES",
+    "sha256": "b523fc27f58fe32d005d783e63e6465be1f4b18080054e226b3cb7bfd9095538"
+  },
+  {
+    "senateId": "17051",
+    "person": "senado-17051",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17051&legis=11&lang=es_ES",
+    "sha256": "2ea655a9e9c33cbc33e63d1537890c4efaccd39b1e89b9ea17f69ba2ab244975"
+  },
+  {
+    "senateId": "10560",
+    "person": "senado-10560",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=11&lang=es_ES",
+    "sha256": "c40aeff2a4128ff55f85b62779fac70e880e0f8ae1328f711e2eae2c58bd34bc"
+  },
+  {
+    "senateId": "14145",
+    "person": "senado-14145",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14145&legis=11&lang=es_ES",
+    "sha256": "59a1f94c3f24c687dc45a91380f19bb62bb2aa1b602eb8e76a0a7a309437f884"
+  },
+  {
+    "senateId": "16585",
+    "person": "senado-16585",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16585&legis=11&lang=es_ES",
+    "sha256": "ed8f94e70512e905634f98047ad3753f05e0c86c11d450280faed614809fd360"
+  },
+  {
+    "senateId": "15250",
+    "person": "senado-15250",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15250&legis=11&lang=es_ES",
+    "sha256": "4d92965b227c58401a385b008f6fa9d920058100e465a23a1b0fc1f82b3d391b"
+  },
+  {
+    "senateId": "15026",
+    "person": "lopez",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15026&legis=11&lang=es_ES",
+    "sha256": "4d35c46bc4571f462256f2d90c7e46427b5153abb62f7151d48926412872a47c"
+  },
+  {
+    "senateId": "17001",
+    "person": "senado-17001",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17001&legis=11&lang=es_ES",
+    "sha256": "5cdb012eac07a29c2c4743172030f1e483dfcd2756b2920c5717afadaaddeded"
+  },
+  {
+    "senateId": "16982",
+    "person": "senado-16982",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16982&legis=11&lang=es_ES",
+    "sha256": "4f9e641e2dd7e1305b619ec339198666d734c3a43f18f5ab0569fc58535a094e"
+  },
+  {
+    "senateId": "15765",
+    "person": "senado-15765",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15765&legis=11&lang=es_ES",
+    "sha256": "7631e20b5d42956393722797dddb8599cc5737f7baf68ed9275013339aa4df47"
+  },
+  {
+    "senateId": "15236",
+    "person": "senado-15236",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15236&legis=11&lang=es_ES",
+    "sha256": "a0c8117826b5875e961a16cdc292712d88e2518d8f2e87c70abf12313ee279b4"
+  },
+  {
+    "senateId": "12750",
+    "person": "senado-12750",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=11&lang=es_ES",
+    "sha256": "f2c2772065726cfbbaa396b2d01dbe7f49c904e50228b66c4743ac40c80cd3a3"
+  },
+  {
+    "senateId": "17205",
+    "person": "senado-17205",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17205&legis=11&lang=es_ES",
+    "sha256": "2061d95be1881be0c9b104cddb43b31b9ca5f07e3631fa0c68dec17b89a7096f"
+  },
+  {
+    "senateId": "17129",
+    "person": "senado-17129",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17129&legis=11&lang=es_ES",
+    "sha256": "1508033c71077ad0ae1abdb7ef98d6b9d0cc5d0725e0218f4c9efa88265318e4"
+  },
+  {
+    "senateId": "17067",
+    "person": "senado-17067",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17067&legis=11&lang=es_ES",
+    "sha256": "ad97f4d25de6849630bb475fc0cf473c50d22b2eccd1de7227dddc379842b7f3"
+  },
+  {
+    "senateId": "16465",
+    "person": "senado-16465",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16465&legis=11&lang=es_ES",
+    "sha256": "c66c6533b6d442f17aa58fa72f277ce2c8b25ce5be9b5e4c16bf42e6d4e52806"
+  },
+  {
+    "senateId": "17161",
+    "person": "senado-17161",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17161&legis=11&lang=es_ES",
+    "sha256": "68a721c5f82648f0ec9762f94dd5eae269a36aeaeba115f6ea4e610aaa374f74"
+  },
+  {
+    "senateId": "17012",
+    "person": "senado-17012",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17012&legis=11&lang=es_ES",
+    "sha256": "b1be6670ad0f4eb12aaaf2166511d27eb76c3a4798cb06ec62f065dc62ddd8d7"
+  },
+  {
+    "senateId": "16405",
+    "person": "senado-16405",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16405&legis=11&lang=es_ES",
+    "sha256": "d5068ffb83bc1ceb9053cd7a6534e16738e25ce75c28eecbc776fff6882a7281"
+  },
+  {
+    "senateId": "16946",
+    "person": "senado-16946",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16946&legis=11&lang=es_ES",
+    "sha256": "ae7ea5bed3fc00d72ced2fb4a29094266b94bb2dfe66f090df81cc54886e025e"
+  },
+  {
+    "senateId": "17165",
+    "person": "senado-17165",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17165&legis=11&lang=es_ES",
+    "sha256": "6e68c5e1993797700ee7b1d271424ae326b05150816300777e89ddd425317c73"
+  },
+  {
+    "senateId": "15302",
+    "person": "senado-15302",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15302&legis=11&lang=es_ES",
+    "sha256": "16d5509e769021305f305911e953e70b237657205279180d4f0f2f6b6bf5247e"
+  },
+  {
+    "senateId": "16994",
+    "person": "senado-16994",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16994&legis=11&lang=es_ES",
+    "sha256": "b7d3b79adfff977abf9a2f86e15cd16a2d6fc83282c26fb3b1e4c718c0e92b70"
+  },
+  {
+    "senateId": "17008",
+    "person": "senado-17008",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17008&legis=11&lang=es_ES",
+    "sha256": "8b5d0bcdabbe18a4094f58172a0b135d13eb7e7c7611305ea83d9349e28231f0"
+  },
+  {
+    "senateId": "17033",
+    "person": "senado-17033",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17033&legis=11&lang=es_ES",
+    "sha256": "b28201a0ee173a830a307edd2f0408eee0d05271c9329fbb6b49713ca0784311"
+  },
+  {
+    "senateId": "15322",
+    "person": "senado-15322",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15322&legis=11&lang=es_ES",
+    "sha256": "90550907841b8f97167117e6bc59cbcb6deb52c8bdedcb120543ce17ec0f5330"
+  },
+  {
+    "senateId": "16949",
+    "person": "congreso-285-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16949&legis=11&lang=es_ES",
+    "sha256": "2cbf0c0c7150766c86e48fc444df69c6e8788f6c89c3866ebebefadfb7170940"
+  },
+  {
+    "senateId": "15211",
+    "person": "senado-15211",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15211&legis=11&lang=es_ES",
+    "sha256": "0a19496ddc68b9a5f8a261bc69d71aaae869dcfb4cf0031cc7eb53fca6832e47"
+  },
+  {
+    "senateId": "17041",
+    "person": "senado-17041",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17041&legis=11&lang=es_ES",
+    "sha256": "9bc0fcb2c43d82523c695a252e55c00bf5cca6cc98134f015a323f745b2c2b92"
+  },
+  {
+    "senateId": "17053",
+    "person": "congreso-370-7",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17053&legis=11&lang=es_ES",
+    "sha256": "70356a097769a5d3d597ef7592a13f72006f5e3fbc8735c5dcb8fe1929762595"
+  },
+  {
+    "senateId": "16307",
+    "person": "senado-16307",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16307&legis=11&lang=es_ES",
+    "sha256": "2a9513fef590f7d7ecec279bdc2a970b5e0926d9a56a1376f92b4b10e21edc99"
+  },
+  {
+    "senateId": "12923",
+    "person": "senado-12923",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12923&legis=11&lang=es_ES",
+    "sha256": "2a553687d63851ee955b3db858ca95cd7ae1a8fc66c265293b9b17a4c06d2944"
+  },
+  {
+    "senateId": "17010",
+    "person": "senado-17010",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17010&legis=11&lang=es_ES",
+    "sha256": "21c918b26dff8c2909045e635107b0a087eeded5b6460e51b0628ac7309c14c2"
+  },
+  {
+    "senateId": "17118",
+    "person": "senado-17118",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17118&legis=11&lang=es_ES",
+    "sha256": "f8c1e935e4234c70f2901513705f471312f7ea6507b0a2b383d6af63ce6cb87b"
+  },
+  {
+    "senateId": "16996",
+    "person": "senado-16996",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16996&legis=11&lang=es_ES",
+    "sha256": "28d4bd76b3854eaf32b0f53454098d1a3b3c993932f848112152de829771b365"
+  },
+  {
+    "senateId": "17030",
+    "person": "senado-17030",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17030&legis=11&lang=es_ES",
+    "sha256": "7dd3d1aafe276f99278b27f661611f1c1e34f89f09ceeb55e74afbdc15ce39f6"
+  },
+  {
+    "senateId": "17052",
+    "person": "senado-17052",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17052&legis=11&lang=es_ES",
+    "sha256": "de749e9e9ccf3db054cd17c15e90c368c434981479b3975fcf23c14c406a4a9a"
+  },
+  {
+    "senateId": "15321",
+    "person": "senado-15321",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15321&legis=11&lang=es_ES",
+    "sha256": "a1ca729d6d1ef9017f248365d4886f8b2f24a3fd8b715255975ae9d2cc6fa58f"
+  },
+  {
+    "senateId": "15507",
+    "person": "jose-montilla-aguilera",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15507&legis=11&lang=es_ES",
+    "sha256": "840781b4eceb584afbc127d37b453e1b523048892bbbd7df4b8221c2c24c5c94"
+  },
+  {
+    "senateId": "16325",
+    "person": "senado-16325",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16325&legis=11&lang=es_ES",
+    "sha256": "5dc3bfa700a92a41ce71e2f9ad5c6ed272314d4fc872c46bd165b564f043e119"
+  },
+  {
+    "senateId": "16973",
+    "person": "senado-16973",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16973&legis=11&lang=es_ES",
+    "sha256": "4c35e053b36a6f893d526d9cb4a3c3bbd6b20d9369c38110816495b2ddf3be01"
+  },
+  {
+    "senateId": "16085",
+    "person": "juan-manuel-moreno",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16085&legis=11&lang=es_ES",
+    "sha256": "b8f4ebfc9b2593c6bd6657cd2810fd0837b75647c6f7b033348b287c2c2659c3"
+  },
+  {
+    "senateId": "14405",
+    "person": "senado-14405",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14405&legis=11&lang=es_ES",
+    "sha256": "042b23943b1d78810b2dcecbd885c1f16c1de7bb9936ba438dee4d99f7cf909c"
+  },
+  {
+    "senateId": "16185",
+    "person": "senado-16185",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16185&legis=11&lang=es_ES",
+    "sha256": "a13603571769a5f0b051b9b0daeb4aba2e25813d71ab834d281e93c6b1cfd32c"
+  },
+  {
+    "senateId": "16605",
+    "person": "senado-16605",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16605&legis=11&lang=es_ES",
+    "sha256": "d07c28480b0ce2bbc8ecadcbe0aab02daace9916de31eb17158dbcb96f034405"
+  },
+  {
+    "senateId": "17040",
+    "person": "senado-17040",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17040&legis=11&lang=es_ES",
+    "sha256": "6cb55d2ff04fbd15f6fcfb2e0b1747725f8cbfb5f1f9e8521e88de398d5512e5"
+  },
+  {
+    "senateId": "16985",
+    "person": "senado-16985",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16985&legis=11&lang=es_ES",
+    "sha256": "20bfc2bf77791b97ecfc445901aa29bcfb87f50729030a12511a818835d404c6"
+  },
+  {
+    "senateId": "16979",
+    "person": "congreso-178-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16979&legis=11&lang=es_ES",
+    "sha256": "281cf0b24d7bc7d8b823ce2da426c9eb2c6a3e4c693e16272b0755e1168ea051"
+  },
+  {
+    "senateId": "16947",
+    "person": "senado-16947",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16947&legis=11&lang=es_ES",
+    "sha256": "fdc1d369be7dd2ada738fcc754115ee0d35bd6aa25a64b59f91b80804eb982f4"
+  },
+  {
+    "senateId": "16525",
+    "person": "senado-16525",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16525&legis=11&lang=es_ES",
+    "sha256": "5761aed0c0273096577ecb3c40212c29a64a9e63070708ea5df573cd159fde78"
+  },
+  {
+    "senateId": "16993",
+    "person": "senado-16993",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16993&legis=11&lang=es_ES",
+    "sha256": "402344ad051f2635202756db76085c9b5ba5303eb279e45cb41bce15c9491450"
+  },
+  {
+    "senateId": "16976",
+    "person": "congreso-134-14",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16976&legis=11&lang=es_ES",
+    "sha256": "d92de6fc22c4765c4db5f289fa9571ac8315629f0ecde9eebd0283a20d11f56f"
+  },
+  {
+    "senateId": "17068",
+    "person": "senado-17068",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17068&legis=11&lang=es_ES",
+    "sha256": "9f2501b6cf8aad78c43860dfb3686b2fa5fd4e97146b9dc7f6643f9d333a48f9"
+  },
+  {
+    "senateId": "17125",
+    "person": "senado-17125",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17125&legis=11&lang=es_ES",
+    "sha256": "4413b5e264c0a4e77ba10097e9e52b213ee388f5121d5f846b3936f2f984acf1"
+  },
+  {
+    "senateId": "16997",
+    "person": "senado-16997",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16997&legis=11&lang=es_ES",
+    "sha256": "0f3deec1f88db25326c673f8016c9e085a82fe22241e3a626fbfc40f70d8f866"
+  },
+  {
+    "senateId": "17038",
+    "person": "senado-17038",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17038&legis=11&lang=es_ES",
+    "sha256": "9e981fe219a44fcd7b62203b22c1657a1397aa54972033301e013653e04a6210"
+  },
+  {
+    "senateId": "17157",
+    "person": "senado-17157",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17157&legis=11&lang=es_ES",
+    "sha256": "4dedd2f74a8ca79d47ddd2dd753899bb81c7d364e50021d8998d0cd67ed6cc8c"
+  },
+  {
+    "senateId": "17044",
+    "person": "senado-17044",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17044&legis=11&lang=es_ES",
+    "sha256": "3996afd8bfbeaff433e4f50ec40a5b7653c112b3b8ead202957cfcb2d8ec8a4f"
+  },
+  {
+    "senateId": "17005",
+    "person": "congreso-24-4",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17005&legis=11&lang=es_ES",
+    "sha256": "4a985be12da714067a26f4ba45c69c9c7af181705299b062e581dbe04ee8c2b8"
+  },
+  {
+    "senateId": "16967",
+    "person": "senado-16967",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16967&legis=11&lang=es_ES",
+    "sha256": "28ecb9124ad10255e15f58cf213846b5d09350627f299f04be2f3be76fdefe84"
+  },
+  {
+    "senateId": "12932",
+    "person": "congreso-224-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12932&legis=11&lang=es_ES",
+    "sha256": "b18af20dfa1939df4af00151a1c088623a7f3c210a6d447215a3c35efdc9788d"
+  },
+  {
+    "senateId": "17002",
+    "person": "senado-17002",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17002&legis=11&lang=es_ES",
+    "sha256": "fa44286d021e71c13e18ff5a17848e2cc3f02a7345820d4f533ac6fdf2282667"
+  },
+  {
+    "senateId": "17049",
+    "person": "senado-17049",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17049&legis=11&lang=es_ES",
+    "sha256": "8a879d782b79c79bcfbb9adb9fe2b114e19ae249d266027e51a5ad9820097699"
+  },
+  {
+    "senateId": "15212",
+    "person": "senado-15212",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15212&legis=11&lang=es_ES",
+    "sha256": "b05206cfa56d429883a4d92fff59ee6eb3a36fabe290f355757ed5905b8daa42"
+  },
+  {
+    "senateId": "14088",
+    "person": "senado-14088",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14088&legis=11&lang=es_ES",
+    "sha256": "d481f567fc9455a20d3af310cac2447ac1910f90217ec29b240133c391402bec"
+  },
+  {
+    "senateId": "17058",
+    "person": "senado-17058",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17058&legis=11&lang=es_ES",
+    "sha256": "9001c0a2dca4394ede77890e48753dd23e7e51d9bc86fc491cdd9cac84b5688c"
+  },
+  {
+    "senateId": "12842",
+    "person": "senado-12842",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12842&legis=11&lang=es_ES",
+    "sha256": "74c33c7487fd585b8596af28c1b0c7cf61f63a43e8bde9290a726250d934b99a"
+  },
+  {
+    "senateId": "17327",
+    "person": "senado-17327",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17327&legis=11&lang=es_ES",
+    "sha256": "dc07ac720254483ffdd17234c945d5a4946f5404d1407790c8c51b7fb1ade95d"
+  },
+  {
+    "senateId": "16989",
+    "person": "senado-16989",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16989&legis=11&lang=es_ES",
+    "sha256": "c84046a941a52a6a60a3b5590be9bdd474ab9c9efb6ecc3ec7dc0c5ca7b27771"
+  },
+  {
+    "senateId": "15320",
+    "person": "senado-15320",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15320&legis=11&lang=es_ES",
+    "sha256": "3843ab02968c37396dc44f54dcfd13d812bee5e81f7a5215000596328a1b6022"
+  },
+  {
+    "senateId": "17185",
+    "person": "congreso-129-15",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17185&legis=11&lang=es_ES",
+    "sha256": "309200dea626928bcee0ccb7066277f3fd251a61cd9df91dd6f91f08535d526e"
+  },
+  {
+    "senateId": "17066",
+    "person": "senado-17066",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17066&legis=11&lang=es_ES",
+    "sha256": "ba76a01adfa049b8abcdd42fd47a7b31ae23616e545e8ad9114bbd6b719c1b9b"
+  },
+  {
+    "senateId": "17054",
+    "person": "senado-17054",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17054&legis=11&lang=es_ES",
+    "sha256": "05bf5df066610f12f51a0b514ba3c7c3a0ef3c96ab5428a7056462e1712ecd3b"
+  },
+  {
+    "senateId": "10116",
+    "person": "congreso-39-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10116&legis=11&lang=es_ES",
+    "sha256": "52c873c409cf02531b357df2b629ed7c057ed1020d7382487159468b4f3117f5"
+  },
+  {
+    "senateId": "17026",
+    "person": "senado-17026",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17026&legis=11&lang=es_ES",
+    "sha256": "5c442186c6e058a6260cc033a0b98bcc44874721fd135a16426d14a3049c51d5"
+  },
+  {
+    "senateId": "17111",
+    "person": "senado-17111",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17111&legis=11&lang=es_ES",
+    "sha256": "1603145c686d8a2124da7f607ff5c7aad1cdee012e4e5145809da900e247dfb1"
+  },
+  {
+    "senateId": "16975",
+    "person": "senado-16975",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16975&legis=11&lang=es_ES",
+    "sha256": "9e3a1d84d132571871db0ba0bab798dd359f07b28aacacee401a61ee175e214c"
+  },
+  {
+    "senateId": "13025",
+    "person": "senado-13025",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13025&legis=11&lang=es_ES",
+    "sha256": "412a2f2d0a95e0f2342e11a754eabb9d79930bae09a9929a5b6b3a3fda414ec8"
+  },
+  {
+    "senateId": "16998",
+    "person": "senado-16998",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16998&legis=11&lang=es_ES",
+    "sha256": "294e222dab7fc4e68c6e028327fc187f6686498ae6852cc58daecb9d6b425511"
+  },
+  {
+    "senateId": "15319",
+    "person": "senado-15319",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15319&legis=11&lang=es_ES",
+    "sha256": "ec82be933bfdb9ce43712e333fd81d6194403f931b2137c9c6f72dbf4a122f7f"
+  },
+  {
+    "senateId": "13785",
+    "person": "senado-13785",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13785&legis=11&lang=es_ES",
+    "sha256": "6a63f5860e32f8d7ebe18c0e94cb82d8f4052199cbb1dde38fea4111c54e2893"
+  },
+  {
+    "senateId": "15294",
+    "person": "senado-15294",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15294&legis=11&lang=es_ES",
+    "sha256": "f254aa6e1e8b811ed6f14f020d655027bdbf47096304cc5fa707d79ac83a6c37"
+  },
+  {
+    "senateId": "17045",
+    "person": "senado-17045",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17045&legis=11&lang=es_ES",
+    "sha256": "dc6c3d6730c3c8a657dc7617d410c00f94b3a2ff7fc2454f905779e4692e3f34"
+  },
+  {
+    "senateId": "17109",
+    "person": "senado-17109",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17109&legis=11&lang=es_ES",
+    "sha256": "02ba09ad8ccece51310349ddf913051ea4bb118419c2e28c4b0a221e984a1761"
+  },
+  {
+    "senateId": "15785",
+    "person": "senado-15785",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15785&legis=11&lang=es_ES",
+    "sha256": "9888c350c9a1c92b2878840d20365ddf034b33fbd4f4720830cc451b1cc51f0c"
+  },
+  {
+    "senateId": "17149",
+    "person": "senado-17149",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17149&legis=11&lang=es_ES",
+    "sha256": "d9a20eb47f92f3a219e0506699b785f0dd5e2f06102c6ae6060586bcfe28d741"
+  },
+  {
+    "senateId": "12792",
+    "person": "senado-12792",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12792&legis=11&lang=es_ES",
+    "sha256": "9ae59268de8a623d0c4ebdce7173a62136e7ba74ae575f84323bf15f3e7fdffb"
+  },
+  {
+    "senateId": "17013",
+    "person": "senado-17013",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17013&legis=11&lang=es_ES",
+    "sha256": "ec723fc156d7b2132e2fb6b1c2055348fd53e9d51f71a7f7c6cac5947804df38"
+  },
+  {
+    "senateId": "15205",
+    "person": "senado-15205",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15205&legis=11&lang=es_ES",
+    "sha256": "744f6bb5ee4a2891eb165f8e96db9494701276dd9f11b1301f87ec6e21982bd0"
+  },
+  {
+    "senateId": "16665",
+    "person": "congreso-28-8",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16665&legis=11&lang=es_ES",
+    "sha256": "b166e38a689618dc216f79ab218e20fcd688dc15578f8323c2d5bd54ffdea10d"
+  },
+  {
+    "senateId": "15229",
+    "person": "senado-15229",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15229&legis=11&lang=es_ES",
+    "sha256": "db28e07929ff1b79b5ef36c83f14567fe5d3d205764a72ccef951a4f138ee17c"
+  },
+  {
+    "senateId": "13827",
+    "person": "senado-13827",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13827&legis=11&lang=es_ES",
+    "sha256": "c1d52514eda5ffce777be95aa5881277eca06c416bd1d5bd6abf1947b29ee329"
+  },
+  {
+    "senateId": "16983",
+    "person": "senado-16983",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16983&legis=11&lang=es_ES",
+    "sha256": "65ef09dce0d6f2f40995db4a26770d804905450af6fc48268ae08e52b7d914fd"
+  },
+  {
+    "senateId": "16685",
+    "person": "congreso-318-9",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16685&legis=11&lang=es_ES",
+    "sha256": "801f22d0d9f39fcb4a9fe6665d5829f2e54ed3c4d2a25e408f1615039e60569f"
+  },
+  {
+    "senateId": "17107",
+    "person": "senado-17107",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17107&legis=11&lang=es_ES",
+    "sha256": "15adb9a36f51cfe3f0e932d94281b5cd887fad60751a29d2ea18cf59491dca03"
+  },
+  {
+    "senateId": "17050",
+    "person": "senado-17050",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17050&legis=11&lang=es_ES",
+    "sha256": "2718b29662b7737b34d0f0f9fb07165513ab044f7a1ba6ab452af6786610b9df"
+  },
+  {
+    "senateId": "10477",
+    "person": "congreso-320-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10477&legis=11&lang=es_ES",
+    "sha256": "e2cd966f89130945e9766505e9a8ac24d648f46bb4e166395b1fb96402f600ee"
+  },
+  {
+    "senateId": "15085",
+    "person": "senado-15085",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15085&legis=11&lang=es_ES",
+    "sha256": "9ba797313934b1f0d3a268b78085d7291f48b239000aab4e9433ffa59331804c"
+  },
+  {
+    "senateId": "12681",
+    "person": "senado-12681",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12681&legis=11&lang=es_ES",
+    "sha256": "5673c0f6921dceed87e4bb918088f49eb970190639cd0717eed1afc020ef2ff9"
+  },
+  {
+    "senateId": "16970",
+    "person": "senado-16970",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16970&legis=11&lang=es_ES",
+    "sha256": "c3457a2afb2d08ef373ef682be3efd737fd96c9033dae40121d323ecadffef91"
+  },
+  {
+    "senateId": "17158",
+    "person": "senado-17158",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17158&legis=11&lang=es_ES",
+    "sha256": "ee781cf77a1f291bea0d1b9c7ca7fdf7912eb4aa76fdafe78b43c6c53860bbbe"
+  },
+  {
+    "senateId": "15235",
+    "person": "senado-15235",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15235&legis=11&lang=es_ES",
+    "sha256": "9641e579d9470f6f18a37551e36e4d00e972a3787463c099ad169eabd7280b11"
+  },
+  {
+    "senateId": "16365",
+    "person": "senado-16365",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16365&legis=11&lang=es_ES",
+    "sha256": "b65e3582015d5929e283c229854a5df648de56263056422586f806c58e2a973a"
+  },
+  {
+    "senateId": "17064",
+    "person": "senado-17064",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17064&legis=11&lang=es_ES",
+    "sha256": "a78f04feb5baee221033e13d2f55b0843d2e8275aef41e631cd514ba25c63439"
+  },
+  {
+    "senateId": "15317",
+    "person": "senado-15317",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15317&legis=11&lang=es_ES",
+    "sha256": "54590a172ef1a23bc5d870723d165f7246511c9de70fbae5ed80c297efee06e4"
+  },
+  {
+    "senateId": "15225",
+    "person": "senado-15225",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15225&legis=11&lang=es_ES",
+    "sha256": "8977818161008871910cdbd38a4efdcb074d943378b987dc635920075fb89fee"
+  },
+  {
+    "senateId": "12866",
+    "person": "senado-12866",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12866&legis=11&lang=es_ES",
+    "sha256": "cbecde3271ab382c0d365e5b2fda08487f704e21d5567ee7f78d179ba47db326"
+  },
+  {
+    "senateId": "14247",
+    "person": "congreso-327-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14247&legis=11&lang=es_ES",
+    "sha256": "ceabd833f0499274fa966ae921e9c7f13293dd29f3aca17d9ed02ffa3ee4ccdf"
+  },
+  {
+    "senateId": "16991",
+    "person": "senado-16991",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16991&legis=11&lang=es_ES",
+    "sha256": "63ac2dcc64051410a6f31f794658a658cc5eede52895b0d78ce3c4b59960b373"
+  },
+  {
+    "senateId": "17042",
+    "person": "senado-17042",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17042&legis=11&lang=es_ES",
+    "sha256": "7a6c84c43ed79029c5728e8030adee9486a78effdb6426501285c1516b7f5b18"
+  },
+  {
+    "senateId": "17000",
+    "person": "senado-17000",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17000&legis=11&lang=es_ES",
+    "sha256": "559f2552198db0da8e2895a60cb5c6990e40c51b16eaafc11540a0c1eee65d8a"
+  },
+  {
+    "senateId": "12690",
+    "person": "senado-12690",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12690&legis=11&lang=es_ES",
+    "sha256": "371a20c9e5a303808edebdc8343509239aeca143d13fa9557106a15040d64d30"
+  },
+  {
+    "senateId": "17011",
+    "person": "congreso-275-14",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17011&legis=11&lang=es_ES",
+    "sha256": "c4808f287e79e8a99e9b0cdfd78bc9961e2baaa86bd9bf320aff3e942216e764"
+  },
+  {
+    "senateId": "14925",
+    "person": "senado-14925",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14925&legis=11&lang=es_ES",
+    "sha256": "f8a0f69c55ab056cc98a4a303b9f313e5a621f2f28801ac5ae2fbf0f7c8ade39"
+  },
+  {
+    "senateId": "17031",
+    "person": "senado-17031",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17031&legis=11&lang=es_ES",
+    "sha256": "c7a228a5f04f371b941cf0ea621c0706ad980baa57a56e27cba9388913779b4f"
+  },
+  {
+    "senateId": "17159",
+    "person": "congreso-286-10",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17159&legis=11&lang=es_ES",
+    "sha256": "a87df729750f96995d1308d1e0b1ad28da9249dbde79911f097cff5e8abdf1cc"
+  },
+  {
+    "senateId": "14105",
+    "person": "senado-14105",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14105&legis=11&lang=es_ES",
+    "sha256": "3b80e25a9256512cb7b47ff8ea9dc71a72c2ed1016ba1b8e019ee2fc7e13c004"
+  },
+  {
+    "senateId": "15227",
+    "person": "senado-15227",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15227&legis=11&lang=es_ES",
+    "sha256": "eed24bc394b6f04726a28f6a05ed992eb8fccf73cd7a406e7da662128c317976"
+  },
+  {
+    "senateId": "16986",
+    "person": "congreso-91-7",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16986&legis=11&lang=es_ES",
+    "sha256": "b1cfeeca2d0ba88909e6fb5775f7d9c1e0e63d0faa5bf9116a105b246dae56d3"
+  },
+  {
+    "senateId": "17029",
+    "person": "senado-17029",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17029&legis=11&lang=es_ES",
+    "sha256": "7a88df23be29bda7d618a5fedbb8c93a188b5f088a487e6723f612890097ad22"
+  },
+  {
+    "senateId": "15231",
+    "person": "senado-15231",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15231&legis=11&lang=es_ES",
+    "sha256": "5b1055617229609d1821b950b5088c48c1876de39d36f18615b2b9bb9e9cb291"
+  },
+  {
+    "senateId": "17055",
+    "person": "senado-17055",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17055&legis=11&lang=es_ES",
+    "sha256": "84f4005912c3565ad8e2c36e9e19ea61806dccefba315e6ec6dd40dc755772e2"
+  },
+  {
+    "senateId": "15220",
+    "person": "senado-15220",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15220&legis=11&lang=es_ES",
+    "sha256": "a7ca86164220eaa1da5cf3430ad196084892f2125dffd72966cfc58d1a5bf95d"
+  },
+  {
+    "senateId": "12921",
+    "person": "senado-12921",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12921&legis=11&lang=es_ES",
+    "sha256": "26568d67870f58903fea29338c3d849a8391ad9d9a6263bdcdd2a72a0b305162"
+  },
+  {
+    "senateId": "17108",
+    "person": "senado-17108",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17108&legis=11&lang=es_ES",
+    "sha256": "073de8b73285c110382c28816dcc976101156e272aa8ea6ad674c8d6e05de34f"
+  },
+  {
+    "senateId": "17326",
+    "person": "senado-17326",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17326&legis=11&lang=es_ES",
+    "sha256": "3a4031fc353adcbb8ea5afbfeb72fdaeb6f2142d5c67f6d090106a7fceb9e268"
+  },
+  {
+    "senateId": "16987",
+    "person": "senado-16987",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16987&legis=11&lang=es_ES",
+    "sha256": "88146ddaf0444bfc1c7fee72708d2de986a8f67d197ba6a4b60c77f926b0ddee"
+  },
+  {
+    "senateId": "16865",
+    "person": "senado-16865",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16865&legis=11&lang=es_ES",
+    "sha256": "e2ca3d091780b7d9ed7e801b30330e0d071c166f78f07a9133c67826e379b818"
+  },
+  {
+    "senateId": "10444",
+    "person": "senado-10444",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=11&lang=es_ES",
+    "sha256": "16b669ab878505dc6235f10320878940e2fab8647bc30ca91300ce3493d738f3"
+  },
+  {
+    "senateId": "15406",
+    "person": "senado-15406",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=11&lang=es_ES",
+    "sha256": "1feaca92f13ff8bb928ccbf2fce1902ded156c3f4c6613ebb95130399bda8147"
+  },
+  {
+    "senateId": "16972",
+    "person": "senado-16972",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16972&legis=11&lang=es_ES",
+    "sha256": "20fb778f0bfb77567b91221a52d1b54f9503bd5ae79e52b5e09c2c3285c521f9"
+  }
+]

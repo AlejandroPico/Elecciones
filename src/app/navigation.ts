@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 
-export type View = "survey" | "results" | "programs" | "archive" | "offices" | "governments";
-export type Entry = { kind: "person" | "party" | "office" | "government"; id: string };
+export type View = "survey" | "results" | "programs" | "archive" | "offices" | "governments" | "senate";
+export type Entry = { kind: "person" | "party" | "office" | "government" | "senate"; id: string };
 export type Route = { view: View; entry?: Entry };
 const paths: Record<View, string> = {
   survey: "cuestionario", results: "perfil", programs: "partidos",
-  archive: "archivo", offices: "cargos", governments: "gobiernos",
+  archive: "archivo", offices: "cargos", governments: "gobiernos", senate: "senado",
 };
 export function routeHash(route: Route) {
   return `#/${paths[route.view]}${route.entry ? `/${route.entry.kind}/${encodeURIComponent(route.entry.id)}` : ""}`;
@@ -14,7 +14,7 @@ export function parseRoute(hash: string): Route {
   const [path, kind, encoded] = hash.replace(/^#\/?/, "").split("/");
   const view = (Object.keys(paths) as View[]).find((v) => paths[v] === path) ?? "survey";
   if (encoded && ((view === "archive" && kind === "person") ||
-    (view === "programs" && kind === "party") || (view === "offices" && kind === "office") || (view === "governments" && kind === "government"))) {
+    (view === "programs" && kind === "party") || (view === "offices" && kind === "office") || (view === "governments" && kind === "government") || (view === "senate" && kind === "senate"))) {
     try { return { view, entry: { kind: kind as Entry["kind"], id: decodeURIComponent(encoded) } }; }
     catch { /* Una dirección incompleta vuelve a su directorio. */ }
   }

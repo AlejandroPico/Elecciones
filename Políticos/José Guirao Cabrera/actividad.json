@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "José Guirao · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Guirao",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Guirao · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q6454317#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Guirao · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q6454317#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

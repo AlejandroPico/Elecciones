@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Manuel Clavero Arévalo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Manuel_Clavero_Ar%C3%A9valo",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Clavero Arévalo · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3286787#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Manuel Clavero Arévalo · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3286787#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

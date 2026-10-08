@@ -44,6 +44,8 @@ export const people: Person[] = Object.entries(personFiles)
       "datos-personales.json",
       {},
     );
+    const senateMandates = read<Person["timeline"]>(personFiles, folder, "mandatos-senado.json", []);
+    const originalTimeline = read<Person["timeline"]>(personFiles, folder, "trayectoria.json", []);
     return {
       ...meta,
       ...personal,
@@ -62,6 +64,9 @@ export const people: Person[] = Object.entries(personFiles)
       ],
       folder,
       sections: folderSections.get(folder) ?? [],
+      activity: read<Person["activity"]>(personFiles, folder, "actividad.json", undefined),
+      senateOffices: read<Person["senateOffices"]>(personFiles, folder, "cargos-senado.json", []),
+      senateMandates,
       ...(image && portraits[meta.id]
         ? {
             portrait: meta.id,
@@ -85,12 +90,7 @@ export const people: Person[] = Object.entries(personFiles)
         "fuentes-formacion.json",
         [],
       ),
-      timeline: read<Person["timeline"]>(
-        personFiles,
-        folder,
-        "trayectoria.json",
-        [],
-      ),
+      timeline: [...originalTimeline.filter((term) => !senateMandates.length || !(term.source.url.includes("senado.es") && /^(Senador|Participación en el Senado|Miembro del Senado)/i.test(term.title))), ...senateMandates],
       dossier: read<Person["dossier"]>(
         personFiles,
         folder,

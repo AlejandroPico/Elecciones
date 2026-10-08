@@ -1,0 +1,26 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Fuente institucional · identificación personal",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=62&idLegislatura=I&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal"
+    },
+    {
+      "label": "Juan Antonio García Díez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Antonio_Garc%C3%ADa_D%C3%ADez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Antonio García Díez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3187553#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Antonio García Díez · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3187553#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Julián García Vargas · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juli%C3%A1n_Garc%C3%ADa_Vargas",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Julián García Vargas · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3189890#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Julián García Vargas · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3189890#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

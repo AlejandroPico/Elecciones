@@ -1,0 +1,20 @@
+{
+  "state": "active",
+  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · Ficha de la XV legislatura",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?codParlamentario=346&idLegislatura=XV&mostrarFicha=true"
+    },
+    {
+      "label": "PP · Historia de sus presidencias",
+      "url": "https://www.pp.es/historia/"
+    },
+    {
+      "label": "Alberto Núñez Feijóo · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alberto_N%C3%BA%C3%B1ez_Feij%C3%B3o",
+      "kind": "encyclopedic"
+    }
+  ]
+}

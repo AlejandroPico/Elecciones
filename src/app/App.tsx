@@ -43,6 +43,7 @@ import favicon from "../../favicon.svg";
 import { useNavigation, type View, type Entry } from "./navigation";
 const Archive = lazy(() => import("../../Políticos/interfaz/Archive"));
 const Governments = lazy(() => import("../../Gobiernos/interfaz/Governments"));
+const Senate = lazy(() => import("../../Gobiernos/interfaz/Senate"));
 const Offices = lazy(() => import("../../Gobiernos/interfaz/Offices"));
 type Modal = "method" | "privacy" | "about" | "reset" | "context" | null;
 type Theme = "auto" | "morning" | "afternoon" | "night";
@@ -89,6 +90,7 @@ export default function App() {
   const [modal, setModal] = useState<Modal>(null);
   const [mobileMenu, setMobileMenu] = useState(() => window.innerWidth > 720);
   const [surveyMenu, setSurveyMenu] = useState(false);
+  const [governmentMenu, setGovernmentMenu] = useState(() => ["governments", "senate"].includes(navigation.route.view));
   const [themeMode, setThemeMode] = useState<Theme>("auto");
   const [clock, setClock] = useState(new Date());
   const [activeCategory, setActiveCategory] = useState(categories[0].id);
@@ -236,7 +238,7 @@ export default function App() {
   }
   function openEntry(entry?: Entry) {
     cancelAdvance();
-    navigation.navigate({ view: entry ? entry.kind === "party" ? "programs" : entry.kind === "office" ? "offices" : entry.kind === "government" ? "governments" : "archive" : view, entry });
+    navigation.navigate({ view: entry ? entry.kind === "party" ? "programs" : entry.kind === "office" ? "offices" : entry.kind === "government" ? "governments" : entry.kind === "senate" ? "senate" : "archive" : view, entry });
     if (window.innerWidth <= 720) setMobileMenu(false);
   }
   useEffect(() => { cancelAdvance(); setModal(null); }, [navigation.route]);
@@ -296,23 +298,27 @@ export default function App() {
           ).map((item) => (
             <div key={item.id} className="navigation-item">
               <button
-                className={view === item.id ? "active" : ""}
+                className={view === item.id || (item.id === "governments" && view === "senate") ? "active" : ""}
                 onClick={() => {
                   if (item.id === "survey") {
                     setSurveyMenu(!surveyMenu);
                     return;
                   }
+                  if (item.id === "governments") {
+                    setGovernmentMenu(!governmentMenu);
+                    return;
+                  }
                   openView(item.id);
                 }}
-                aria-expanded={item.id === "survey" ? surveyMenu : undefined}
+                aria-expanded={item.id === "survey" ? surveyMenu : item.id === "governments" ? governmentMenu : undefined}
                 aria-current={view === item.id ? "page" : undefined}
               >
                 <item.icon size={17} />
                 <span>{item.name}</span>
-                {item.id === "survey" && (
+                {(item.id === "survey" || item.id === "governments") && (
                   <ChevronDown
                     className={
-                      surveyMenu ? "tree-chevron open" : "tree-chevron"
+                      (item.id === "survey" ? surveyMenu : governmentMenu) ? "tree-chevron open" : "tree-chevron"
                     }
                     size={13}
                   />
@@ -330,6 +336,14 @@ export default function App() {
                     <button onClick={() => setModal("reset")}>
                       Nueva encuesta
                     </button>
+                  </div>
+                </div>
+              )}
+              {item.id === "governments" && (
+                <div className={`survey-tree ${governmentMenu ? "open" : ""}`} inert={!governmentMenu}>
+                  <div>
+                    <button aria-current={view === "governments" ? "page" : undefined} onClick={() => openView("governments")}>Gobierno y Congreso</button>
+                    <button aria-current={view === "senate" ? "page" : undefined} onClick={() => openView("senate")}>Senado</button>
                   </div>
                 </div>
               )}
@@ -654,6 +668,14 @@ export default function App() {
               </Suspense>
             </div>
           )}
+          {navigation.visited.has("senate") && (
+            <div className="section-content" hidden={view !== "senate"}>
+              <h1 className="section-title">Senado</h1>
+              <Suspense fallback={<span className="sr-only" role="status">Cargando Senado</span>}>
+                <Senate active={view === "senate"} openPerson={(id) => openArchive("person", id)} selectedSnapshot={view === "senate" ? archiveEntry?.id : undefined} openSenate={(id) => navigation.navigate({ view: "senate", entry: { kind: "senate", id } })} />
+              </Suspense>
+            </div>
+          )}
         </Suspense>
       </main>
       {modal && (
@@ -715,7 +737,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.6.0</dd>
+                  <dd>0.7.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

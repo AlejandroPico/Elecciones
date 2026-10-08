@@ -1,0 +1,4161 @@
+{
+  "id": "senado-10",
+  "number": 10,
+  "label": "X",
+  "start": "2011-12-13",
+  "end": "2015-10-27",
+  "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/senadoresdesde1977/consultaorden/index.html?legis=10&lang=es_ES",
+  "mesaSource": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C",
+  "checkedAt": "2026-10-08",
+  "terms": [
+    {
+      "person": "senado-10395",
+      "name": "María del Mar Agüero Ruano",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN ESPECIAL DE ESTUDIO SOBRE EL TRABAJO Y LA EXPLOTACIÓN INFANTIL",
+      "start": "2015-04-14",
+      "end": "2015-10-15",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10395&legis=10&lang=es_ES"
+    },
+    {
+      "person": "carmen-alborch-bataller",
+      "name": "Carmen Alborch Bataller",
+      "role": "SECRETARIA TERCERA",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14085&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-156-7",
+      "name": "Iñaki Mirena Anasagasti Olabeaga",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2011-12-13",
+      "end": "2012-01-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12987&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-156-7",
+      "name": "Iñaki Mirena Anasagasti Olabeaga",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL PARA EL DESARROLLO DE LA INTERNACIONALIZACIÓN Y ECOSISTEMA DE LA INNOVACIÓN AL SERVICIO DE LA INDUSTRIA ESPAÑOLA Y DEL MUNDO EN DESARROLLO",
+      "start": "2013-06-05",
+      "end": "2015-07-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12987&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14029",
+      "name": "Raquel Miriam Andrés Prieto",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2011-12-13",
+      "end": "2014-09-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14029&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12937",
+      "name": "María del Carmen de Aragón Amunárriz",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE SANIDAD Y SERVICIOS SOCIALES",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12937&legis=10&lang=es_ES"
+    },
+    {
+      "person": "javier-arenas-bocanegra",
+      "name": "Francisco Javier Arenas Bocanegra",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ENTIDADES LOCALES",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10154&legis=10&lang=es_ES"
+    },
+    {
+      "person": "javier-arenas-bocanegra",
+      "name": "Francisco Javier Arenas Bocanegra",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ENTIDADES LOCALES",
+      "start": "2014-07-08",
+      "end": "2015-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10154&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16705",
+      "name": "Melissa Armas Pérez",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-09-01",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16705&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12930",
+      "name": "José Atarés Martínez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ECONOMÍA Y COMPETITIVIDAD",
+      "start": "2012-01-24",
+      "end": "2013-09-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12930&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16745",
+      "name": "María Rita Barberá Nolla",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "2015-09-01",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16745&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14087",
+      "name": "José Manuel Barreiro Fernández",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14087&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12744",
+      "name": "Jokin Bildarratz Sorron",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2013-02-05",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12744&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2012-12-14",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10510&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2012-12-13",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10510&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-17-12",
+      "name": "José Miguel Camacho Sánchez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2011-12-13",
+      "end": "2014-09-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12674&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15625",
+      "name": "Ricardo Luis Gabriel Canals Lizano",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN ESPECIAL DE ESTUDIO SOBRE LAS MEDIDAS A DESARROLLAR PARA EVITAR LA DESPOBLACIÓN DE LAS ZONAS DE MONTAÑA",
+      "start": "2014-10-14",
+      "end": "2015-07-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15625&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14225",
+      "name": "Montserrat Candini i Puig",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I D'UNIÓ",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14225&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-301-12",
+      "name": "Ester Capella i Farré",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-07-01",
+      "end": "2015-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15805&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-301-12",
+      "name": "Ester Capella i Farré",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-05-01",
+      "end": "2015-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15805&legis=10&lang=es_ES"
+    },
+    {
+      "person": "maria-luisa-carcedo",
+      "name": "María Luisa Carcedo Roces",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2015-09-30",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16885&legis=10&lang=es_ES"
+    },
+    {
+      "person": "maria-chivite",
+      "name": "María Victoria Chivite Navascués",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2014-09-11",
+      "end": "2015-06-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15331&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15825",
+      "name": "Josep Lluís Cleries i Gonzàlez",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I D'UNIÓ",
+      "start": "2013-01-29",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15825&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15825",
+      "name": "Josep Lluís Cleries i Gonzàlez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO",
+      "start": "2013-02-06",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15825&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14111",
+      "name": "Matías Conde Vázquez",
+      "role": "SECRETARIO PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14111&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-227-12",
+      "name": "María del Carmen Dueñas Martínez",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE IGUALDAD",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13967&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-01-01",
+      "end": "2015-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-07-01",
+      "end": "2014-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-05-01",
+      "end": "2014-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-07-01",
+      "end": "2013-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-01-01",
+      "end": "2013-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-11-01",
+      "end": "2012-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE NOMBRAMIENTOS",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "2012-04-10",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONJUNTA DE LAS COMISIONES DE INTERIOR, DE EDUCACIÓN Y DEPORTE, Y DE INDUSTRIA, ENERGÍA Y TURISMO",
+      "start": "2013-01-29",
+      "end": "2014-10-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-17-14",
+      "name": "María José García-Pelayo Jurado",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN ESPECIAL DE ESTUDIO SOBRE LAS NUEVAS FORMAS DE EXCLUSIÓN SOCIAL COMO CONSECUENCIA DEL FUERTE INCREMENTO DEL DESEMPLEO",
+      "start": "2012-02-08",
+      "end": "2013-10-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15295&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-17-14",
+      "name": "María José García-Pelayo Jurado",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN ESPECIAL PARA EL ESTUDIO DE LA PROBLEMÁTICA DE LAS PERSONAS DESAPARECIDAS SIN CAUSA APARENTE",
+      "start": "2013-04-23",
+      "end": "2014-02-13",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15295&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15301",
+      "name": "Petronila Guerrero Rosado",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE PRESUPUESTOS",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15301&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12928",
+      "name": "Jordi Guillot Miravet",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA",
+      "start": "2011-12-13",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12928&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-175-12",
+      "name": "Antonio Gutiérrez Limones",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2014-09-11",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14081&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-175-12",
+      "name": "Antonio Gutiérrez Limones",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2011-12-13",
+      "end": "2014-09-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14081&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15745",
+      "name": "Jesús Enrique Iglesias Fernández",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-05-01",
+      "end": "2015-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15745&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15745",
+      "name": "Jesús Enrique Iglesias Fernández",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-03-01",
+      "end": "2015-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15745&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15045",
+      "name": "Marcelino Iglesias Ricou",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2011-12-13",
+      "end": "2014-09-10",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15045&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12833",
+      "name": "Juan José Imbroda Ortiz",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN GENERAL DE LAS COMUNIDADES AUTÓNOMAS",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12833&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14545",
+      "name": "Juana Iturmendi Maguregui",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE INTERIOR",
+      "start": "2012-01-24",
+      "end": "2013-01-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14545&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14090",
+      "name": "Miren Lore Leanizbarrutia de Bizkarralegorra",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2011-12-13",
+      "end": "2013-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14090&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14090",
+      "name": "Miren Lore Leanizbarrutia de Bizkarralegorra",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN ESPECIAL PARA EL DESARROLLO DE LA INTERNACIONALIZACIÓN Y ECOSISTEMA DE LA INNOVACIÓN AL SERVICIO DE LA INDUSTRIA ESPAÑOLA Y DEL MUNDO EN DESARROLLO",
+      "start": "2012-09-26",
+      "end": "2013-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14090&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14145",
+      "name": "María del Carmen Leyte Coello",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE PETICIONES",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14145&legis=10&lang=es_ES"
+    },
+    {
+      "person": "lopez",
+      "name": "Óscar López Águeda",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2015-07-21",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15026&legis=10&lang=es_ES"
+    },
+    {
+      "person": "lopez",
+      "name": "Óscar López Águeda",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2015-06-23",
+      "end": "2015-07-19",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15026&legis=10&lang=es_ES"
+    },
+    {
+      "person": "lopez",
+      "name": "Óscar López Águeda",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2014-09-11",
+      "end": "2015-06-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15026&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15236",
+      "name": "Octavio Adolfo López Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ECONOMÍA Y COMPETITIVIDAD",
+      "start": "2013-10-21",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15236&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-236-6",
+      "name": "Santiago López Valdivielso",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE DEFENSA",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15325&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15725",
+      "name": "Enrique César López Veiga",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SUPLICATORIOS",
+      "start": "2012-09-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15725&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "VICEPRESIDENTE PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2015-09-01",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "VICEPRESIDENTE PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-07-19",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16405",
+      "name": "Ana Isabel Mariño Ortega",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE MEDIO AMBIENTE Y CAMBIO CLIMÁTICO",
+      "start": "2015-08-26",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16405&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15705",
+      "name": "José Manuel Mariscal Cifuentes",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-01-01",
+      "end": "2015-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15705&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15705",
+      "name": "José Manuel Mariscal Cifuentes",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-11-01",
+      "end": "2014-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15705&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15209",
+      "name": "Rut Martínez Muñoz",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2012-01-11",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15209&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-11-01",
+      "end": "2014-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-05-01",
+      "end": "2014-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-03-01",
+      "end": "2014-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-05-01",
+      "end": "2013-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-11-01",
+      "end": "2012-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-09-01",
+      "end": "2012-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15211",
+      "name": "Juan Francisco Martínez-aldama Sáenz",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2014-09-11",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15211&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15445",
+      "name": "Amalur Mendizabal Azurmendi",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-11-01",
+      "end": "2014-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15445&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15445",
+      "name": "Amalur Mendizabal Azurmendi",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-05-01",
+      "end": "2012-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15445&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14965",
+      "name": "Carmen Menéndez González-palenzuela",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO SOCIALISTA",
+      "start": "2014-09-11",
+      "end": "2015-02-16",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14965&legis=10&lang=es_ES"
+    },
+    {
+      "person": "jose-montilla-aguilera",
+      "name": "José Montilla Aguilera",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA",
+      "start": "2013-01-29",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15507&legis=10&lang=es_ES"
+    },
+    {
+      "person": "jose-montilla-aguilera",
+      "name": "José Montilla Aguilera",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA",
+      "start": "2011-12-13",
+      "end": "2013-01-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15507&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-29-9",
+      "name": "Juan Morano Masa",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15257&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-29-9",
+      "name": "Juan Morano Masa",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-03-01",
+      "end": "2015-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15257&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-29-9",
+      "name": "Juan Morano Masa",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-01-01",
+      "end": "2015-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15257&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-29-9",
+      "name": "Juan Morano Masa",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE SUPLICATORIOS",
+      "start": "2012-01-24",
+      "end": "2012-07-04",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15257&legis=10&lang=es_ES"
+    },
+    {
+      "person": "juan-manuel-moreno",
+      "name": "Juan Manuel Moreno Bonilla",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16085&legis=10&lang=es_ES"
+    },
+    {
+      "person": "juan-manuel-moreno",
+      "name": "Juan Manuel Moreno Bonilla",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "2014-06-05",
+      "end": "2015-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16085&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12862",
+      "name": "José Muñoz Martín",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INDUSTRIA, ENERGÍA Y TURISMO",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12862&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12684",
+      "name": "Alejandro Muñoz-alonso Ledo",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS EXTERIORES",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12684&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14306",
+      "name": "Patricia Navarro Pérez",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2012-12-14",
+      "end": "2015-06-19",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14306&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14306",
+      "name": "Patricia Navarro Pérez",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2012-12-13",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14306&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14385",
+      "name": "María Gádor Ongil Cores",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE CULTURA",
+      "start": "2012-01-24",
+      "end": "2015-07-08",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14385&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-7",
+      "name": "Juan José Ortiz Pérez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2012-12-14",
+      "end": "2015-07-21",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10269&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-7",
+      "name": "Juan José Ortiz Pérez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2012-12-13",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10269&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14109",
+      "name": "María Dolores Pan Vázquez",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE FOMENTO",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14109&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14747",
+      "name": "Eva Parera Escrichs",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ",
+      "start": "2013-02-05",
+      "end": "2014-07-14",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14747&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14747",
+      "name": "Eva Parera Escrichs",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ",
+      "start": "2011-12-13",
+      "end": "2013-01-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14747&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13929",
+      "name": "Miguel Ángel Pérez de Juan Romero",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ASUNTOS IBEROAMERICANOS",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13929&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12856",
+      "name": "Gonzalo Piñeiro García-Lago",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN CONSTITUCIONAL",
+      "start": "2012-01-24",
+      "end": "2015-08-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12856&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15326",
+      "name": "Manel Plana Farran",
+      "role": "SECRETARIO CUARTO",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15326&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13972",
+      "name": "Narvay Quintero Castañeda",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-01-01",
+      "end": "2014-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13972&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13972",
+      "name": "Narvay Quintero Castañeda",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-07-01",
+      "end": "2013-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13972&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13972",
+      "name": "Narvay Quintero Castañeda",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-05-01",
+      "end": "2013-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13972&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13972",
+      "name": "Narvay Quintero Castañeda",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-07-10",
+      "end": "2012-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13972&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13972",
+      "name": "Narvay Quintero Castañeda",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2011-12-21",
+      "end": "2012-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13972&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-314-3",
+      "name": "Ramón Rabanera Rivacoba",
+      "role": "SECRETARIO SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10522&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-314-3",
+      "name": "Ramón Rabanera Rivacoba",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INTERIOR",
+      "start": "2013-02-06",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10522&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13025",
+      "name": "Joaquín Luis Ramírez Rodríguez",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE JUSTICIA",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13025&legis=10&lang=es_ES"
+    },
+    {
+      "person": "jose-manuel-romay-beccaria",
+      "name": "José Manuel Romay Beccaría",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE REGLAMENTO",
+      "start": "2012-01-24",
+      "end": "2012-03-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15465&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-199-7",
+      "name": "María Jesús Ruiz Ruiz",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE MEDIO AMBIENTE Y CAMBIO CLIMÁTICO",
+      "start": "2012-01-24",
+      "end": "2015-07-19",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15025&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12814",
+      "name": "Joan Sabaté Borràs",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12814&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-59-8",
+      "name": "María Jesús Sainz García",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE EDUCACIÓN Y DEPORTE",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=11001&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-03-01",
+      "end": "2015-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-09-01",
+      "end": "2014-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-07-01",
+      "end": "2014-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-09-01",
+      "end": "2013-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-03-01",
+      "end": "2013-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-01-01",
+      "end": "2013-02-28",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14305",
+      "name": "Rafael Javier Salas Machuca",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "2012-01-24",
+      "end": "2012-05-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14305&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-92-12",
+      "name": "Alicia Sánchez-Camacho Pérez",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE EMPLEO Y SEGURIDAD SOCIAL",
+      "start": "2012-01-24",
+      "end": "2013-01-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14285&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-92-12",
+      "name": "Alicia Sánchez-Camacho Pérez",
+      "role": "PRESIDENTA",
+      "organ": "COMISIÓN DE EMPLEO Y SEGURIDAD SOCIAL",
+      "start": "2013-02-06",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14285&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16365",
+      "name": "Pedro María Sanz Alonso",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE CULTURA",
+      "start": "2015-07-16",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16365&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15685",
+      "name": "Antonio Sanz Cabello",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE INCOMPATIBILIDADES",
+      "start": "2012-06-05",
+      "end": "2014-05-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15685&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10451",
+      "name": "Antolín Sanz Pérez",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10451&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15225",
+      "name": "José Luis Sanz Ruiz",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE HACIENDA Y ADMINISTRACIONES PÚBLICAS",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15225&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16125",
+      "name": "Salvador Sedó Alabart",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO DE CONVERGÈNCIA I D'UNIÓ",
+      "start": "2014-09-09",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16125&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-118-1",
+      "name": "Francisco de la Torre Prados",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE ENTIDADES LOCALES",
+      "start": "2012-01-24",
+      "end": "2014-07-01",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15222&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14105",
+      "name": "José Luis Ramón Torres Colomer",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE AGRICULTURA, PESCA Y ALIMENTACIÓN",
+      "start": "2012-01-24",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14105&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-09-01",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-07-01",
+      "end": "2015-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-05-01",
+      "end": "2014-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-11-01",
+      "end": "2014-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-09-01",
+      "end": "2013-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-11-01",
+      "end": "2013-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-05-01",
+      "end": "2012-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2012-03-01",
+      "end": "2012-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2011-12-21",
+      "end": "2012-02-22",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-189-8",
+      "name": "Francisco Utrera Mora",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2012-12-14",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10218&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-189-8",
+      "name": "Francisco Utrera Mora",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2012-12-13",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10218&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12899",
+      "name": "Yolanda Vicente González",
+      "role": "VICEPRESIDENTA SEGUNDA",
+      "organ": "MESA DEL SENADO",
+      "start": "2011-12-13",
+      "end": "2015-10-26",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12899&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-132-8",
+      "name": "Jordi Vilajoana Rovira",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ",
+      "start": "2011-12-13",
+      "end": "2013-01-04",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14169&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-132-8",
+      "name": "Jordi Vilajoana Rovira",
+      "role": "PRESIDENTE",
+      "organ": "COMISIÓN DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO",
+      "start": "2012-01-24",
+      "end": "2013-01-04",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14169&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "role": "PORTAVOZ ADJUNTA",
+      "organ": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO",
+      "start": "2011-12-13",
+      "end": "2016-01-12",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2015-05-01",
+      "end": "2015-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-11-01",
+      "end": "2014-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2014-09-01",
+      "end": "2014-10-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-11-01",
+      "end": "2013-12-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-05-01",
+      "end": "2013-06-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-03-01",
+      "end": "2013-04-30",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15066",
+      "name": "Miguel Zerolo Aguilar",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2013-07-01",
+      "end": "2013-08-31",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15066&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15066",
+      "name": "Miguel Zerolo Aguilar",
+      "role": "PORTAVOZ ADJUNTO",
+      "organ": "GRUPO PARLAMENTARIO MIXTO",
+      "start": "2011-12-21",
+      "end": "2012-02-29",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15066&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "role": "PORTAVOZ",
+      "organ": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV)",
+      "start": "2011-12-13",
+      "end": "2013-01-23",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=10&lang=es_ES"
+    }
+  ],
+  "senators": [
+    {
+      "person": "senado-12880",
+      "name": "Enrique Abad Benedicto",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12880&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14025",
+      "name": "Aurelio Abreu Expósito",
+      "start": "2011-11-20",
+      "end": "2013-09-30",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14025&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-131-12",
+      "name": "Pedro Acedo Penco",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15385&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16825",
+      "name": "Idoia Agorria Martínez",
+      "start": "2015-09-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16825&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-268-4",
+      "name": "Pedro Agramunt Font de Mora",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10558&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10395",
+      "name": "María del Mar Agüero Ruano",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10395&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13806",
+      "name": "Jesús Ramón Aguirre Muñoz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13806&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15425",
+      "name": "Urko Aiartza Azurtza",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15425&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14170",
+      "name": "Antonio Alarcó Hernández",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14170&legis=10&lang=es_ES"
+    },
+    {
+      "person": "carmen-alborch-bataller",
+      "name": "Carmen Alborch Bataller",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14085&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-182-6",
+      "name": "Gustavo-Adolfo Alcalde Sánchez",
+      "start": "2011-07-13",
+      "end": "2012-01-05",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10262&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-123-9",
+      "name": "Jesús Alique López",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15305&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15287",
+      "name": "Mónica Almiñana Riqué",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15287&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-305-14",
+      "name": "Agustín Almodóbar Barceló",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14445&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13807",
+      "name": "Manuel Guillermo Altava Lavall",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13807&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14065",
+      "name": "Ramon Alturo Lloan",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14065&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15237",
+      "name": "Vicente Alberto Álvarez Areces",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15237&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12771",
+      "name": "Francisco José Álvarez de la Chica",
+      "start": "2013-11-27",
+      "end": "2014-03-10",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12771&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15323",
+      "name": "María Eloísa Álvarez Oteo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15323&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-366-9",
+      "name": "Emilio Álvarez Villazán",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15329&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16145",
+      "name": "Rubén Amores Regalado",
+      "start": "2014-09-25",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16145&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-156-7",
+      "name": "Iñaki Mirena Anasagasti Olabeaga",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12987&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14029",
+      "name": "Raquel Miriam Andrés Prieto",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14029&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14926",
+      "name": "José María Ángel Batalla",
+      "start": "2011-06-30",
+      "end": "2015-07-09",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14926&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12914",
+      "name": "María del Mar Angulo Martínez",
+      "start": "2015-07-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12914&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-15-8",
+      "name": "Francesc Antich Oliver",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14865&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15332",
+      "name": "Abel Antón Rodrigo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15332&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15251",
+      "name": "Vicente Aparici Moya",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15251&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12937",
+      "name": "María del Carmen de Aragón Amunárriz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12937&legis=10&lang=es_ES"
+    },
+    {
+      "person": "javier-arenas-bocanegra",
+      "name": "Francisco Javier Arenas Bocanegra",
+      "start": "2015-07-01",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10154&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15336",
+      "name": "Mario Arias Navia",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15336&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16705",
+      "name": "Melissa Armas Pérez",
+      "start": "2015-07-11",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16705&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15310",
+      "name": "María de los Ángeles Armisén Pedrejón",
+      "start": "2011-11-20",
+      "end": "2015-06-20",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15310&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15262",
+      "name": "Vicente Aroca Sáez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15262&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15233",
+      "name": "Antonio Ernesto Arrufat Gascón",
+      "start": "2011-11-20",
+      "end": "2015-09-01",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15233&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12930",
+      "name": "José Atarés Martínez",
+      "start": "2011-11-20",
+      "end": "2013-09-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12930&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15215",
+      "name": "Antonio Ayllón Moreno",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15215&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10089",
+      "name": "Luis Aznar Fernández",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10089&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15335",
+      "name": "Carmen Azuara Navarro",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15335&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15333",
+      "name": "Joan Baptista Bagué Roura",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15333&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16745",
+      "name": "María Rita Barberá Nolla",
+      "start": "2015-07-22",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16745&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14087",
+      "name": "José Manuel Barreiro Fernández",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14087&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-4-12",
+      "name": "Avelino De Barrionuevo Gener",
+      "start": "2014-07-02",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16105&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10224",
+      "name": "Joaquín Bascuñana García",
+      "start": "2011-06-28",
+      "end": "2011-12-30",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10224&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16385",
+      "name": "José Ramón Bauzá Díaz",
+      "start": "2015-07-09",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16385&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-355-8",
+      "name": "José María Becana Sanahuja",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14113&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-14-14",
+      "name": "Ferran Bel Accensi",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15365&legis=10&lang=es_ES"
+    },
+    {
+      "person": "juan-alberto-belloch-julbe",
+      "name": "Juan Alberto Belloch Julbe",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12803&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14765",
+      "name": "Francisco de Borja Benítez de Lugo Massieu",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14765&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-70-14",
+      "name": "Laura Berja Vega",
+      "start": "2015-06-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16285&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12744",
+      "name": "Jokin Bildarratz Sorron",
+      "start": "2013-01-24",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12744&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-19-12",
+      "name": "Manuel Blasco Marqués",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12872&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15285",
+      "name": "Lorenzo Bosch Lliteras",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15285&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15289",
+      "name": "Francisco Boya Alós",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15289&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15210",
+      "name": "Alberto Bretón Rodríguez",
+      "start": "2011-11-20",
+      "end": "2011-12-30",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15210&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12901",
+      "name": "Rafel Bruguera Batalla",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12901&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10510&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12908",
+      "name": "José María Burgos García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12908&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15230",
+      "name": "María Jesús Ascensión Burró Ferrer",
+      "start": "2011-11-20",
+      "end": "2013-05-18",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15230&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10153",
+      "name": "José Caballos Mojeda",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10153&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-17-12",
+      "name": "José Miguel Camacho Sánchez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12674&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-252-9",
+      "name": "Miguel Antonio Campoy Suárez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15248&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15625",
+      "name": "Ricardo Luis Gabriel Canals Lizano",
+      "start": "2012-02-08",
+      "end": "2015-07-27",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15625&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14225",
+      "name": "Montserrat Candini i Puig",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14225&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-301-12",
+      "name": "Ester Capella i Farré",
+      "start": "2013-01-23",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15805&legis=10&lang=es_ES"
+    },
+    {
+      "person": "maria-luisa-carcedo",
+      "name": "María Luisa Carcedo Roces",
+      "start": "2015-09-25",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16885&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13975",
+      "name": "Enrique Cascallana Gallastegui",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13975&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-283-14",
+      "name": "Alberto Casero Ávila",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15221&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14089",
+      "name": "Armando Castosa Alvariño",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14089&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15208",
+      "name": "José María Cazalis Eiguren",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15208&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16445",
+      "name": "José Carmelo Cepeda García de León",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16445&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16345",
+      "name": "Carmen Chico Rodríguez",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16345&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-254-12",
+      "name": "José María Chiquillo Barber",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12888&legis=10&lang=es_ES"
+    },
+    {
+      "person": "maria-chivite",
+      "name": "María Victoria Chivite Navascués",
+      "start": "2011-11-20",
+      "end": "2015-06-16",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15331&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15825",
+      "name": "Josep Lluís Cleries i Gonzàlez",
+      "start": "2013-01-23",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15825&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14111",
+      "name": "Matías Conde Vázquez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14111&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12897",
+      "name": "María Begoña Contreras Olmedo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12897&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14079",
+      "name": "Juan María Cornejo López",
+      "start": "2015-07-01",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14079&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16625",
+      "name": "Guillermo José del Corral Díez del Corral",
+      "start": "2015-07-15",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16625&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-171-9",
+      "name": "Carlos Manuel Cotillas López",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15263&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15666",
+      "name": "Fuensanta Coves Botella",
+      "start": "2012-05-23",
+      "end": "2015-06-30",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15666&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16725",
+      "name": "Luis Crisol Lafront",
+      "start": "2015-07-22",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16725&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16645",
+      "name": "Julio Cruz Hernández",
+      "start": "2015-07-21",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16645&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15265",
+      "name": "María Inmaculada Cruz Salcedo",
+      "start": "2011-11-20",
+      "end": "2013-08-04",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15265&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14108",
+      "name": "Dimas Francisco Cuevas Cuerda",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14108&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14746",
+      "name": "Coralí Cunyat Badosa",
+      "start": "2013-01-23",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14746&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15306",
+      "name": "Francisco Delgado Vílchez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15306&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-304-8",
+      "name": "Susana Díaz Pacheco",
+      "start": "2011-12-21",
+      "end": "2012-05-06",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15565&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12968",
+      "name": "Arcadio Díaz Tejera",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12968&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15314",
+      "name": "María Elena Diego Castellanos",
+      "start": "2011-11-20",
+      "end": "2014-09-24",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15314&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15338",
+      "name": "Marta Domínguez Azpeleta",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15338&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16065",
+      "name": "Sandra Domínguez Hormiga",
+      "start": "2014-05-24",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16065&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-227-12",
+      "name": "María del Carmen Dueñas Martínez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13967&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16025",
+      "name": "Juan Pablo Durán Sánchez",
+      "start": "2014-03-12",
+      "end": "2015-04-15",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16025&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15315",
+      "name": "Margarita Durán Vadell",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15315&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15226",
+      "name": "Pablo Elena Núñez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15226&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14386",
+      "name": "Beatriz María Elorriaga Pisarik",
+      "start": "2011-06-29",
+      "end": "2015-06-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14386&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14685",
+      "name": "Juan Espadas Cejas",
+      "start": "2012-05-23",
+      "end": "2013-09-09",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14685&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-295-5",
+      "name": "Julio Francisco de España Moya",
+      "start": "2011-06-30",
+      "end": "2015-07-21",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13605&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16505",
+      "name": "Ramón María Espinar Merino",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16505&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14945",
+      "name": "Pedro Eza Goyeneche",
+      "start": "2011-07-05",
+      "end": "2015-06-16",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-108-15",
+      "name": "Alberto Fabra Part",
+      "start": "2015-07-22",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16746&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16925",
+      "name": "Virginia Felipe Saelices",
+      "start": "2015-10-15",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16925&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16425",
+      "name": "Jesús Fermosel Díaz",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16425&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12970",
+      "name": "José Fernández Blanco",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12970&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15254",
+      "name": "Juliana Fernández Cueva Lominchar",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15254&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-126-12",
+      "name": "José Enrique Fernández de Moya Romero",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15345&legis=10&lang=es_ES"
+    },
+    {
+      "person": "javier-fernandez",
+      "name": "Javier Fernández Fernández",
+      "start": "2011-07-20",
+      "end": "2012-05-25",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12718&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14073",
+      "name": "Juan Manuel Fernández Ortega",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14073&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-379-15",
+      "name": "Paula Fernández Pena",
+      "start": "2013-06-25",
+      "end": "2015-06-14",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15905&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15234",
+      "name": "Francisco José Fernández Pérez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15234&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-256-9",
+      "name": "Isidro Fernández Rozada",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10475&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12788",
+      "name": "José Blas Fernández Sánchez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12788&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14076",
+      "name": "Alfonso Gustavo Ferrada Gómez",
+      "start": "2011-06-30",
+      "end": "2015-07-21",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14076&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14069",
+      "name": "Miguel Fidalgo Areda",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14069&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10017",
+      "name": "María Isabel Flores Fernández",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10017&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-30-15",
+      "name": "Silvia Franco González",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15346&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15067",
+      "name": "Domingo Francisco Fuentes Curbelo",
+      "start": "2011-07-19",
+      "end": "2015-07-20",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15067&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-97-6",
+      "name": "Francisco Fuentes Gallardo",
+      "start": "2011-07-21",
+      "end": "2015-07-20",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12704&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-65-15",
+      "name": "Carmen Fúnez de Gregorio",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12969&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10542",
+      "name": "José María Fuster Muniesa",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10542&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15217",
+      "name": "Antonio Galván Porras",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15217&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15605",
+      "name": "Maria Antònia Garau Juan",
+      "start": "2012-02-01",
+      "end": "2015-07-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15605&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10482",
+      "name": "Dionisio García Carnero",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10482&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15706",
+      "name": "Catalina Montserrat García Carrasco",
+      "start": "2012-05-23",
+      "end": "2015-06-30",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15706&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15645",
+      "name": "Ibán García del Blanco",
+      "start": "2012-02-28",
+      "end": "2014-08-05",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15645&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14585",
+      "name": "Pablo García García",
+      "start": "2011-11-29",
+      "end": "2012-11-15",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14585&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14326",
+      "name": "Luis Manuel García Garrido",
+      "start": "2011-12-21",
+      "end": "2012-05-22",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14326&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14129",
+      "name": "Sebastián García Martínez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14129&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16245",
+      "name": "María García Muñoz",
+      "start": "2015-06-23",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16245&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16205",
+      "name": "Miguel Ángel García Nieto",
+      "start": "2015-04-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16205&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12876",
+      "name": "María Ángeles García Romero",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12876&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10216&legis=10&lang=es_ES"
+    },
+    {
+      "person": "emiliano-garcia-page",
+      "name": "Emiliano García-Page Sánchez",
+      "start": "2011-09-16",
+      "end": "2015-07-03",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15165&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-17-14",
+      "name": "María José García-Pelayo Jurado",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15295&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15307",
+      "name": "Ander Gil García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15307&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15297",
+      "name": "María Gil Morata",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15297&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15845",
+      "name": "Iñaki Goioaga Llano",
+      "start": "2013-01-24",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15845&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14986",
+      "name": "Tomás Gómez Franco",
+      "start": "2011-06-29",
+      "end": "2013-11-27",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14986&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12925",
+      "name": "José Vicente González Bethencourt",
+      "start": "2013-10-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12925&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15505",
+      "name": "Ana Lourdes González García",
+      "start": "2011-12-02",
+      "end": "2015-06-17",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15505&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15253",
+      "name": "Ana María González García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15253&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16485",
+      "name": "Severa González López",
+      "start": "2015-07-13",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16485&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15065",
+      "name": "Tamara González Sanz",
+      "start": "2011-07-14",
+      "end": "2015-07-14",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15065&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13905",
+      "name": "Ignacio Alfredo González Torres",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13905&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15260",
+      "name": "Miguel Ángel González Vega",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15260&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13973",
+      "name": "Eugenio Jesús Gonzálvez García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13973&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16905",
+      "name": "Fernando Goñi Merino",
+      "start": "2015-09-25",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16905&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14885",
+      "name": "Francisco José Granados Lerena",
+      "start": "2011-06-29",
+      "end": "2014-02-21",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14885&legis=10&lang=es_ES"
+    },
+    {
+      "person": "jose-antonio-grinan-martinez",
+      "name": "José Antonio Griñán Martínez",
+      "start": "2013-09-12",
+      "end": "2015-06-15",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15965&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15301",
+      "name": "Petronila Guerrero Rosado",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15301&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12928",
+      "name": "Jordi Guillot Miravet",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12928&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15324",
+      "name": "Alberto Gutiérrez Alberca",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15324&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-175-12",
+      "name": "Antonio Gutiérrez Limones",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14081&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15245",
+      "name": "Claudio Gutiérrez Vera",
+      "start": "2011-11-20",
+      "end": "2014-05-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15245&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15337",
+      "name": "María Rosa de Haro Brito",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15337&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16045",
+      "name": "Íñigo Henríquez de Luna Losada",
+      "start": "2014-04-24",
+      "end": "2015-06-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16045&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13930",
+      "name": "Juan Antonio de las Heras Muela",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13930&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13425",
+      "name": "Pedro Manuel Hernández López",
+      "start": "2012-02-15",
+      "end": "2015-07-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13425&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15304",
+      "name": "Porfirio Herrero Estébanez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15304&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15207",
+      "name": "Jorge Ibarrondo Bajo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15207&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15885",
+      "name": "María Belén Ibarz Ibarz",
+      "start": "2013-05-19",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15885&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15745",
+      "name": "Jesús Enrique Iglesias Fernández",
+      "start": "2012-06-29",
+      "end": "2015-09-24",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15745&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15045",
+      "name": "Marcelino Iglesias Ricou",
+      "start": "2015-07-28",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15045&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12833",
+      "name": "Juan José Imbroda Ortiz",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12833&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15865",
+      "name": "María Eugenia Iparragirre Bemposta",
+      "start": "2013-05-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15865&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14545",
+      "name": "Juana Iturmendi Maguregui",
+      "start": "2009-06-12",
+      "end": "2013-01-23",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14545&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15945",
+      "name": "Mario Jesús Jiménez Díaz",
+      "start": "2013-09-12",
+      "end": "2013-11-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15945&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15312",
+      "name": "Isabel Jiménez García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15312&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15466",
+      "name": "Juan Manuel Jiménez Morán",
+      "start": "2011-11-29",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15466&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16165",
+      "name": "María del Mar del Pino Julios Reyes",
+      "start": "2015-07-21",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16165&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-124-12",
+      "name": "Juan Manuel Juncal Rodríguez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13885&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15214",
+      "name": "María Beatriz Jurado Fernández de Córdoba",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15214&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10053",
+      "name": "Julián Lanzarote Sastre",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10053&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16765",
+      "name": "Nemesio de Lara Guerrero",
+      "start": "2015-07-30",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16765&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15238",
+      "name": "María Elvira Larriba Leira",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15238&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14090",
+      "name": "Miren Lore Leanizbarrutia de Bizkarralegorra",
+      "start": "2011-11-20",
+      "end": "2013-04-30",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14090&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16586",
+      "name": "Rafael Damián Lemus Rubiales",
+      "start": "2015-07-21",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16586&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10560",
+      "name": "Joan Lerma Blasco",
+      "start": "2015-07-22",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10560&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14525",
+      "name": "Roberto Lertxundi Barañano",
+      "start": "2009-06-12",
+      "end": "2013-01-23",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14525&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14145",
+      "name": "María del Carmen Leyte Coello",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14145&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16585",
+      "name": "María Pilar Lima Gozálvez",
+      "start": "2015-07-22",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16585&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15250",
+      "name": "Encarnación Llinares Cuesta",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15250&legis=10&lang=es_ES"
+    },
+    {
+      "person": "lopez",
+      "name": "Óscar López Águeda",
+      "start": "2015-07-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15026&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-278-5",
+      "name": "Felipe López García",
+      "start": "2011-11-20",
+      "end": "2015-06-19",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15219&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15765",
+      "name": "Dámaso López Rodríguez",
+      "start": "2012-12-18",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15765&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15236",
+      "name": "Octavio Adolfo López Rodríguez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15236&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-236-6",
+      "name": "Santiago López Valdivielso",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15325&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15725",
+      "name": "Enrique César López Veiga",
+      "start": "2012-06-12",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15725&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15303",
+      "name": "Mariana Lorite García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15303&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13285",
+      "name": "Francisco Javier Losada de Azpiazu",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13285&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "start": "2015-07-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12750&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15247",
+      "name": "María del Carmen Luis Heras",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15247&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15299",
+      "name": "Óscar Manuel Luzardo Fuentes",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15299&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10199",
+      "name": "Josefa Luzardo Romano",
+      "start": "2011-07-19",
+      "end": "2015-06-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10199&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-156-8",
+      "name": "Josep Maldonado i Gili",
+      "start": "2013-01-23",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14126&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15293",
+      "name": "Pere Maluquer Ferrer",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15293&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15318",
+      "name": "José Antonio Manchado Lozano",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15318&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16465",
+      "name": "Tomás Marcos Arias",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16465&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15005",
+      "name": "Benito Marín Torrecillas",
+      "start": "2011-06-28",
+      "end": "2015-07-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15005&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16405",
+      "name": "Ana Isabel Mariño Ortega",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16405&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15705",
+      "name": "José Manuel Mariscal Cifuentes",
+      "start": "2012-05-23",
+      "end": "2015-06-30",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15705&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15244",
+      "name": "María de los Ángeles Marra Domínguez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15244&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15288",
+      "name": "Carlos Martí Jufresa",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15288&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15216",
+      "name": "María José Martín Gómez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15216&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15302",
+      "name": "Jesús Martín Rodríguez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15302&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15322",
+      "name": "Gerardo Martínez Martínez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15322&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15209",
+      "name": "Rut Martínez Muñoz",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15209&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "start": "2012-06-29",
+      "end": "2015-09-24",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10478&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15211",
+      "name": "Juan Francisco Martínez-aldama Sáenz",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15211&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-133-14",
+      "name": "Jaime Miguel Mateu Istúriz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15256&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15243",
+      "name": "Gregorio Ramón Medina Tomé",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15243&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16307",
+      "name": "Francisco Menacho Villalba",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16307&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12923",
+      "name": "Coloma Francisca Mendiola Olarte",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12923&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15445",
+      "name": "Amalur Mendizabal Azurmendi",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15445&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14965",
+      "name": "Carmen Menéndez González-palenzuela",
+      "start": "2011-06-29",
+      "end": "2015-02-16",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14965&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15321",
+      "name": "Félix Montes Jort",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15321&legis=10&lang=es_ES"
+    },
+    {
+      "person": "jose-montilla-aguilera",
+      "name": "José Montilla Aguilera",
+      "start": "2013-01-23",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15507&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16325",
+      "name": "María Isabel Mora Grande",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16325&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-29-9",
+      "name": "Juan Morano Masa",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15257&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16565",
+      "name": "Lorena Moratalla Parreño",
+      "start": "2015-07-17",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16565&legis=10&lang=es_ES"
+    },
+    {
+      "person": "juan-manuel-moreno",
+      "name": "Juan Manuel Moreno Bonilla",
+      "start": "2015-07-01",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16085&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16545",
+      "name": "Josefa Moreno Docón",
+      "start": "2015-07-10",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16545&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16785",
+      "name": "María Ángeles Edita Moreno Esteban",
+      "start": "2015-07-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16785&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14405",
+      "name": "María del Mar Moreno Ruiz",
+      "start": "2015-07-01",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14405&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15334",
+      "name": "Francisco Moro Borrero",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15334&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15667",
+      "name": "Antonia Jesús Moro Cárdeno",
+      "start": "2012-05-23",
+      "end": "2013-09-09",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15667&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13829",
+      "name": "Marina Moya Moreno",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13829&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16185",
+      "name": "María Encarnación Moya Nieto",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16185&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16605",
+      "name": "Carles Mulet García",
+      "start": "2015-07-22",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16605&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12862",
+      "name": "José Muñoz Martín",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12862&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12684",
+      "name": "Alejandro Muñoz-alonso Ledo",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12684&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15252",
+      "name": "Enrique Navarro Andreu",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15252&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14306",
+      "name": "Patricia Navarro Pérez",
+      "start": "2011-11-20",
+      "end": "2015-06-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14306&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16005",
+      "name": "María Navarro Viscasillas",
+      "start": "2013-09-27",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16005&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15224",
+      "name": "María Elena Nevado del Campo",
+      "start": "2011-11-20",
+      "end": "2015-06-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15224&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14128",
+      "name": "María Josefa Nicolás Martínez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14128&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14385",
+      "name": "María Gádor Ongil Cores",
+      "start": "2011-06-29",
+      "end": "2015-07-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14385&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16525",
+      "name": "Francisco Javier Oñate Marín",
+      "start": "2015-07-13",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16525&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15566",
+      "name": "María Dolores Ortega Moral",
+      "start": "2011-12-21",
+      "end": "2012-05-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15566&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-406-9",
+      "name": "María de los Ángeles Ortega Rodríguez",
+      "start": "2011-11-20",
+      "end": "2015-04-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15255&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-176-6",
+      "name": "Ramón Ortiz Molina",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15246&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-7",
+      "name": "Juan José Ortiz Pérez",
+      "start": "2011-12-09",
+      "end": "2015-07-21",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10269&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15585",
+      "name": "Daniel Osés Ramírez",
+      "start": "2011-12-31",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15585&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16225",
+      "name": "María Teresa Otero Cobos",
+      "start": "2015-06-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16225&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12938",
+      "name": "Francisco Javier Pagola Sáenz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12938&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14067",
+      "name": "José Ignacio Palacios Zuasti",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14067&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14109",
+      "name": "María Dolores Pan Vázquez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14109&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14747",
+      "name": "Eva Parera Escrichs",
+      "start": "2013-01-23",
+      "end": "2014-07-14",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14747&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15525",
+      "name": "Esteban Parro del Prado",
+      "start": "2011-12-15",
+      "end": "2015-06-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15525&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-282-6",
+      "name": "José Joaquín Peñarrubia Agius",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12973&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13365",
+      "name": "Luis Peral Guerra",
+      "start": "2011-06-29",
+      "end": "2015-07-08",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13365&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13929",
+      "name": "Miguel Ángel Pérez de Juan Romero",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13929&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15212",
+      "name": "Juan Carlos Pérez Navas",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15212&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14088",
+      "name": "Sebastián Pérez Ortiz",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14088&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12842",
+      "name": "Pedro José Pérez Ruiz",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12842&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13805",
+      "name": "Araceli Peris Jarque",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13805&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15506",
+      "name": "Iolanda Pineda Balló",
+      "start": "2011-12-01",
+      "end": "2013-01-22",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15506&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-239-9",
+      "name": "Ángel Pintado Barbanoj",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15308&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12856",
+      "name": "Gonzalo Piñeiro García-Lago",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12856&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15326",
+      "name": "Manel Plana Farran",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15326&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-196-8",
+      "name": "Rosa Lucía Polonio Contreras",
+      "start": "2011-12-21",
+      "end": "2012-05-22",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15545&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15320",
+      "name": "Juana Francisca Pons Vila",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15320&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-345-7",
+      "name": "José Quintana Viar",
+      "start": "2013-12-19",
+      "end": "2015-07-08",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14206&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13972",
+      "name": "Narvay Quintero Castañeda",
+      "start": "2011-11-20",
+      "end": "2015-07-10",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13972&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-314-3",
+      "name": "Ramón Rabanera Rivacoba",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10522&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13025",
+      "name": "Joaquín Luis Ramírez Rodríguez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13025&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15206",
+      "name": "María de la Encina Regalado de los Cobos",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15206&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15319",
+      "name": "Juan Ramón Represa Fernández",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15319&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15292",
+      "name": "Maria Rieradevall Tarrés",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15292&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13785",
+      "name": "María Carmen Riolobos Regadera",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13785&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15266",
+      "name": "Carlota Ripoll Juan",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15266&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10353",
+      "name": "José Luis Rivera Mallo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10353&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15294",
+      "name": "Maria Teresa Rivero Segalàs",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15294&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14845",
+      "name": "José María Rodríguez Barberá",
+      "start": "2011-06-21",
+      "end": "2011-12-30",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14845&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15228",
+      "name": "María Julia Rodríguez Barreira",
+      "start": "2011-11-20",
+      "end": "2012-12-17",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15228&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15785",
+      "name": "Antonio Julián Rodríguez Esquerdo",
+      "start": "2013-01-24",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15785&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15485",
+      "name": "Miguel Ángel Rodríguez González",
+      "start": "2011-12-01",
+      "end": "2015-07-29",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15485&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-354-0",
+      "name": "Juan Rodríguez Marín",
+      "start": "2011-11-28",
+      "end": "2015-07-21",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10275&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15291",
+      "name": "María Agustina Rodríguez Martínez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15291&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15205",
+      "name": "Luis Rogelio Rodríguez-Comendador Pérez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15205&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10022",
+      "name": "Joan Maria Roig i Grau",
+      "start": "2011-02-09",
+      "end": "2012-03-27",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10022&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-28-8",
+      "name": "María Mercedes Roldós Caballero",
+      "start": "2015-07-21",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16665&legis=10&lang=es_ES"
+    },
+    {
+      "person": "jose-manuel-romay-beccaria",
+      "name": "José Manuel Romay Beccaría",
+      "start": "2011-11-29",
+      "end": "2012-05-02",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15465&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15249",
+      "name": "Virginia Romero Bañón",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15249&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15229",
+      "name": "Antonio Ignacio Romero Santolaria",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15229&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-13827",
+      "name": "José Antonio Rubio Mielgo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=13827&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-318-9",
+      "name": "Luisa Fernanda Rudi Úbeda",
+      "start": "2015-07-28",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16685&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15296",
+      "name": "Sebastián Ruiz Reyes",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15296&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-199-7",
+      "name": "María Jesús Ruiz Ruiz",
+      "start": "2011-07-13",
+      "end": "2015-07-19",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15025&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15300",
+      "name": "Pedro Antonio Ruiz Santos",
+      "start": "2011-11-20",
+      "end": "2015-07-09",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15300&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12814",
+      "name": "Joan Sabaté Borràs",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12814&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-59-8",
+      "name": "María Jesús Sainz García",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=11001&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15239",
+      "name": "José Sala Torres",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15239&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12936",
+      "name": "Amelia Salanueva Murguialday",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12936&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14305",
+      "name": "Rafael Javier Salas Machuca",
+      "start": "2008-04-29",
+      "end": "2012-05-22",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14305&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14185",
+      "name": "Encarnación Salmón Saiz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14185&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15313",
+      "name": "Laura Sampedro Redondo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15313&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15085",
+      "name": "Diego Sánchez Duque",
+      "start": "2015-07-21",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15085&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16805",
+      "name": "Florencio Sánchez Merino",
+      "start": "2015-06-21",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16805&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-92-12",
+      "name": "Alicia Sánchez-Camacho Pérez",
+      "start": "2013-01-23",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14285&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14167",
+      "name": "Luz Elena Sanín Naranjo",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14167&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15316",
+      "name": "Javier Vicente Santamaría Herranz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15316&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15235",
+      "name": "Rosario Isabel Santos Fernández",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15235&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16365",
+      "name": "Pedro María Sanz Alonso",
+      "start": "2015-07-08",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16365&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15685",
+      "name": "Antonio Sanz Cabello",
+      "start": "2012-05-23",
+      "end": "2014-05-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15685&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10538",
+      "name": "Francisco Javier Sanz Carramiñana",
+      "start": "2015-06-17",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10538&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15317",
+      "name": "Paloma Inés Sanz Jerónimo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15317&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12915",
+      "name": "Basilia Sanz Murillo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12915&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10451",
+      "name": "Antolín Sanz Pérez",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10451&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15225",
+      "name": "José Luis Sanz Ruiz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15225&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14245",
+      "name": "Dimas Antonio Sañudo Aja",
+      "start": "2011-11-20",
+      "end": "2015-08-31",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14245&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15290",
+      "name": "José Luis Sastre Álvaro",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15290&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-281-7",
+      "name": "Joan Saura Laporta",
+      "start": "2013-01-23",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14745&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12944",
+      "name": "Jesús Andrés Sedano Pérez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12944&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16125",
+      "name": "Salvador Sedó Alabart",
+      "start": "2014-07-24",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16125&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15309",
+      "name": "Nicanor Jorge Sen Vélez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15309&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15328",
+      "name": "Jordi Miquel Sendra Vellvè",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15328&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15330",
+      "name": "María Jesús Sequera García",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO ENTESA PEL PROGRÉS DE CATALUNYA (GPEPC )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15330&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12866",
+      "name": "Antonio Serrano Aguilar",
+      "start": "2015-07-30",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12866&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-5-11",
+      "name": "Pilar Auxiliadora Serrano Boigas",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15223&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15242",
+      "name": "Luz Marina Socas León",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15242&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12690",
+      "name": "Juan Soler-Espiauba Gallo",
+      "start": "2015-07-09",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12690&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14925",
+      "name": "María Rosario Soto Rico",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14925&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15298",
+      "name": "María del Carmen Suárez Valerón",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15298&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15925",
+      "name": "José María Toledo Díaz",
+      "start": "2013-08-05",
+      "end": "2015-07-16",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15925&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-137-9",
+      "name": "Ana Torme Pardo",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15327&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-118-1",
+      "name": "Francisco de la Torre Prados",
+      "start": "2011-11-20",
+      "end": "2014-07-01",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15222&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14105",
+      "name": "José Luis Ramón Torres Colomer",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14105&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15261",
+      "name": "Carmen Belén Torres Sánchez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15261&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15227",
+      "name": "Juan Andrés Tovar Mena",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15227&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15508",
+      "name": "Alberto Unamunzaga Osoro",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15508&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-75-12",
+      "name": "Ignacio Urquizu Sancho",
+      "start": "2015-09-02",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16845&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-189-8",
+      "name": "Francisco Utrera Mora",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10218&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-14505",
+      "name": "Francisco Vallejo Serrano",
+      "start": "2009-05-14",
+      "end": "2012-05-22",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14505&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10495",
+      "name": "José Luis Vallines Díaz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10495&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15231",
+      "name": "Ricardo Jacinto Varela Sánchez",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15231&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15220",
+      "name": "Juan María Vázquez García",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15220&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15218",
+      "name": "María Dolores Vázquez Muñoz",
+      "start": "2011-11-20",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15218&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12921",
+      "name": "Elena Víboras Jiménez",
+      "start": "2015-07-01",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12921&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-12899",
+      "name": "Yolanda Vicente González",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO SOCIALISTA (GPS )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=12899&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-132-8",
+      "name": "Jordi Vilajoana Rovira",
+      "start": "2011-02-09",
+      "end": "2013-01-04",
+      "group": "GRUPO PARLAMENTARIO CATALÁN EN EL SENADO CONVERGÈNCIA I UNIÓ (GPCIU )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=14169&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-16865",
+      "name": "Idoia Villanueva Ruiz",
+      "start": "2015-09-17",
+      "end": "2015-10-26",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=16865&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-10444",
+      "name": "María Rosa Vindel López",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO POPULAR EN EL SENADO (GPP )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10444&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15406",
+      "name": "Francisco Javier Yanguas Fernández",
+      "start": "2011-11-20",
+      "end": "2016-01-12",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15406&legis=10&lang=es_ES"
+    },
+    {
+      "person": "senado-15066",
+      "name": "Miguel Zerolo Aguilar",
+      "start": "2011-07-19",
+      "end": "2014-12-31",
+      "group": "GRUPO PARLAMENTARIO MIXTO (GPMX )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15066&legis=10&lang=es_ES"
+    },
+    {
+      "person": "congreso-184-4",
+      "name": "Joseba Mirena de Zubía Atxaerandio",
+      "start": "2009-06-12",
+      "end": "2013-01-23",
+      "group": "GRUPO PARLAMENTARIO VASCO EN EL SENADO (EAJ-PNV) (GPV )",
+      "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=10220&legis=10&lang=es_ES"
+    }
+  ],
+  "finalBoard": [
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "role": "PRESIDENTE",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    },
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "VICEPRESIDENTE PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    },
+    {
+      "person": "senado-12899",
+      "name": "Yolanda Vicente González",
+      "role": "VICEPRESIDENTA SEGUNDA",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    },
+    {
+      "person": "senado-14111",
+      "name": "Matías Conde Vázquez",
+      "role": "SECRETARIO PRIMERO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    },
+    {
+      "person": "congreso-314-3",
+      "name": "Ramón Rabanera Rivacoba",
+      "role": "SECRETARIO SEGUNDO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    },
+    {
+      "person": "carmen-alborch-bataller",
+      "name": "Carmen Alborch Bataller",
+      "role": "SECRETARIA TERCERA",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    },
+    {
+      "person": "senado-15326",
+      "name": "Manel Plana Farran",
+      "role": "SECRETARIO CUARTO",
+      "organ": "MESA DEL SENADO",
+      "start": null,
+      "end": null,
+      "source": "https://www.senado.es/web/composicionorganizacion/organossenado/mesa/composicion/index.html?legis=10&order=C"
+    }
+  ],
+  "incidents": []
+}

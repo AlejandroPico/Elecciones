@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "José Antonio Alonso Suárez · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Antonio_Alonso_Su%C3%A1rez",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Antonio Alonso Suárez · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1388724#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Antonio Alonso Suárez · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q1388724#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Wikipedia · Javier Gómez-Navarro · consulta 7 de octubre de 2026",
+      "url": "https://es.wikipedia.org/wiki/Javier_G%C3%B3mez-Navarro_Navarrete",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Gómez-Navarro · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Javier_G%C3%B3mez-Navarro",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Gómez-Navarro · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3163150#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Javier Gómez-Navarro · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3163150#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

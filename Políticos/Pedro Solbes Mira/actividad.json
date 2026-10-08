@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Pedro Solbes · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Solbes",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Pedro Solbes · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q458323#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Pedro Solbes · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q458323#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

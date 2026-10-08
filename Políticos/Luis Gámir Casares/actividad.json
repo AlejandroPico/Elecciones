@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Luis Gámir · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Luis_G%C3%A1mir",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Luis Gámir · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3266718#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Luis Gámir · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3266718#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

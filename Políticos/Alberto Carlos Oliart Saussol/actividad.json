@@ -1,0 +1,26 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · Ficha personal",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?_diputadomodule_mostrarFicha=true&codParlamentario=96&idLegislatura=I&mostrarAgenda=false"
+    },
+    {
+      "label": "Alberto Oliart · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Alberto_Oliart",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alberto Oliart · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2831810#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Alberto Oliart · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2831810#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

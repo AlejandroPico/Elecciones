@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Juan Rovira Tarazona · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Juan_Rovira_Tarazona",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Rovira Tarazona · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q3187785#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Juan Rovira Tarazona · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q3187785#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

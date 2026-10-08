@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "José Luis García Ferrero · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Garc%C3%ADa_Ferrero",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Luis García Ferrero · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q5941347#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Luis García Ferrero · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q5941347#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

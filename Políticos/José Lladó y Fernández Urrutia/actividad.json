@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "José Lladó · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Llad%C3%B3",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Lladó · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q934184#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "José Lladó · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q934184#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

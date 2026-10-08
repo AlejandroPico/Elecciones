@@ -1,11 +1,12 @@
 import { PartyLogo } from "./Logotipo";
-import { useState } from "react";
+import { Fragment, useState } from "react";
 import { ArrowUpRight, Search } from "lucide-react";
 import { election, candidacies } from "../../Elecciones";
 import { organizations } from "./catalogo";
 import type { Organization } from "../../Políticos/interfaz/datos/tipos";
 import { useInfiniteList } from "../../src/app/useInfiniteList";
-import { compareParties, electoralResult, normalizeParty } from "./orden";
+import { compareParties, electoralResult, normalizeParty, partyActivity } from "./orden";
+import { activityLabels } from "../../Políticos/interfaz/actividad";
 function Tile({
   party,
   openParty,
@@ -65,7 +66,9 @@ export default function Programs({
         (coverage === "votes" && electoralResult(p)?.seats === 0) ||
         (coverage === "unknown" && !electoralResult(p)) ||
         (coverage === "logo" && !!p.logo) ||
-        (coverage === "historical" && !!p.dissolution)),
+        (coverage === "active" && partyActivity(p) === "active") ||
+        (coverage === "unconfirmed" && partyActivity(p) === "unknown") ||
+        (coverage === "historical" && partyActivity(p) === "historical")),
   );
   const confirmed = filtered.filter((p) => confirmedIds.has(p.id)).sort(compareParties(order));
   const others = filtered
@@ -88,12 +91,14 @@ export default function Programs({
           {[...new Set(organizations.map(provinceOf).filter(Boolean))].sort((a, b) => a!.localeCompare(b!, "es")).map((p) => <option key={p}>{p}</option>)}
         </select>
         <select aria-label="Filtrar partidos por información disponible" value={coverage} onChange={(e) => setCoverage(e.target.value)}>
-          <option value="all">Todos los partidos</option>
+          <option value="all">Activos primero · todos</option>
+          <option value="active">Actividad actual documentada</option>
+          <option value="unconfirmed">Actividad por confirmar</option>
           <option value="seats">Con escaños · generales 2023</option>
           <option value="votes">Sin escaños · generales 2023</option>
           <option value="unknown">Sin resultado incorporado</option>
           <option value="logo">Con logotipo</option>
-          <option value="historical">Disolución documentada</option>
+          <option value="historical">Archivo histórico</option>
         </select>
         <select aria-label="Ordenar partidos" value={order} onChange={(e) => setOrder(e.target.value)}>
           <option value="seats">Escaños · generales 2023</option>
@@ -136,8 +141,13 @@ export default function Programs({
         resultados. La inscripción no acredita actividad actual ni candidatura.
       </p>
       <div className="logo-grid">
-        {others.slice(0, visibleCount).map((p) => (
+        {others.slice(0, visibleCount).map((p, i) => (
+          <Fragment key={p.id}>
+          {(i === 0 || partyActivity(others[i - 1]) !== partyActivity(p)) && (
+            <h3 className="catalog-group-title">{activityLabels[partyActivity(p)]}</h3>
+          )}
           <Tile key={p.id} party={p} openParty={openParty} />
+          </Fragment>
         ))}
       </div>
       {!others.length && (

@@ -1,0 +1,27 @@
+{
+  "state": "active",
+  "reason": "Vinculación documentada con representantes o dirigentes en actividad reciente. No equivale a una candidatura proclamada para las próximas elecciones.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Carles Puigdemont · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Carles_Puigdemont",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=20002",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=15333",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=19950",
+      "kind": "institutional"
+    }
+  ]
+}

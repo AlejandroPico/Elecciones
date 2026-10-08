@@ -1,0 +1,27 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Agustín Rodríguez Sahagún · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Rodr%C3%ADguez_Sahag%C3%BAn",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Agustín Rodríguez Sahagún · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2827364#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Agustín Rodríguez Sahagún · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2827364#P570",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=57&idLegislatura=III",
+      "kind": "institutional"
+    }
+  ]
+}

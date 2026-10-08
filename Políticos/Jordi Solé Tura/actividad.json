@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Jordi Solé Tura · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Jordi_Sol%C3%A9_Tura",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jordi Solé Tura · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q527326#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Jordi Solé Tura · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q527326#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

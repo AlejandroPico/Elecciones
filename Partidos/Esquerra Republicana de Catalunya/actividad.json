@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "reason": "Vinculación documentada con representantes o dirigentes en actividad reciente. No equivale a una candidatura proclamada para las próximas elecciones.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=392&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=222&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=221&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=19893",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=19894",
+      "kind": "institutional"
+    }
+  ]
+}

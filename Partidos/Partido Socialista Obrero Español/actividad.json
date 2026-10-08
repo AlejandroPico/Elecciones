@@ -1,0 +1,32 @@
+{
+  "state": "active",
+  "reason": "Vinculación documentada con representantes o dirigentes en actividad reciente. No equivale a una candidatura proclamada para las próximas elecciones.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Abel Caballero · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Abel_Caballero",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=133&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Adrián Barbón · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Adri%C3%A1n_Barb%C3%B3n",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=363&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=176&idLegislatura=XV",
+      "kind": "institutional"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=335&idLegislatura=V",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · datos personales",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10223-6.xml",
+      "kind": "institutional"
+    }
+  ]
+}

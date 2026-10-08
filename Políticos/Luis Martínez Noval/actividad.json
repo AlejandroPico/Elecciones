@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Luis Martínez Noval · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Luis_Mart%C3%ADnez_Noval",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Luis Martínez Noval · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q2750857#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Luis Martínez Noval · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q2750857#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

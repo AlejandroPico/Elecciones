@@ -1,0 +1,24 @@
+{
+  "state": "active",
+  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Congreso · mandato de la última legislatura",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?codParlamentario=342&idLegislatura=XV&mostrarFicha=true"
+    },
+    {
+      "label": "La Moncloa · última composición documentada",
+      "url": "https://www.lamoncloa.gob.es/gobierno/gobiernosporlegislaturas/Paginas/xv_legislatura.aspx"
+    },
+    {
+      "label": "La Moncloa · Biografía institucional",
+      "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-yolanda-diaz.aspx"
+    },
+    {
+      "label": "Yolanda Díaz · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Yolanda_D%C3%ADaz",
+      "kind": "encyclopedic"
+    }
+  ]
+}

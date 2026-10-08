@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Loyola de Palacio · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Loyola_de_Palacio",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Loyola de Palacio · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q255657#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Loyola de Palacio · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q255657#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Ernest Lluch · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ernest_Lluch",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ernest Lluch · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q1892914#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Ernest Lluch · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q1892914#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}

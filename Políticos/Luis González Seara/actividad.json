@@ -1,0 +1,22 @@
+{
+  "state": "historical",
+  "reason": "Fallecimiento documentado.",
+  "checkedAt": "2026-10-08",
+  "sources": [
+    {
+      "label": "Luis González Seara · Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Luis_Gonz%C3%A1lez_Seara",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Luis González Seara · Wikidata, nacimiento",
+      "url": "https://www.wikidata.org/wiki/Q925289#P569",
+      "kind": "encyclopedic"
+    },
+    {
+      "label": "Luis González Seara · Wikidata, fallecimiento",
+      "url": "https://www.wikidata.org/wiki/Q925289#P570",
+      "kind": "encyclopedic"
+    }
+  ]
+}
