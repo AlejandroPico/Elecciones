@@ -6,12 +6,22 @@ describe("direcciones de secciones y fichas", () => {
       { view: "governments" },
       { view: "governments", entry: { kind: "government", id: "VII-2003-09" } },
       { view: "senate", entry: { kind: "senate", id: "senado-14-2021-07-12" } },
+      {
+        view: "congress",
+        entry: { kind: "congress", id: "congreso-15-2026-10-05" },
+      },
+      {
+        view: "autonomies",
+        entry: { kind: "autonomy", id: "cataluna:parliament" },
+      },
       { view: "archive", entry: { kind: "person", id: "pedro-sánchez/2026" } },
       { view: "programs", entry: { kind: "party", id: "psoe" } },
       { view: "offices", entry: { kind: "office", id: "defensa" } },
     ];
     expect(routes.map(routeHash).map(parseRoute)).toEqual(routes);
-    expect([...routes].reverse().map(routeHash).map(parseRoute)).toEqual([...routes].reverse());
+    expect([...routes].reverse().map(routeHash).map(parseRoute)).toEqual(
+      [...routes].reverse(),
+    );
   });
   it("descarta fichas de otra sección y direcciones mal formadas", () => {
     expect(parseRoute("#/partidos/person/psoe")).toEqual({ view: "programs" });

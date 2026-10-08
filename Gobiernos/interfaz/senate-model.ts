@@ -1,4 +1,6 @@
 import type { Reference } from "../../Políticos/interfaz/datos/tipos";
+import { nextDay, lastDay } from "./calendar";
+export { nextDay, lastDay } from "./calendar";
 export type SenateTerm = {
   person: string; name: string; role: string; organ: string;
   start: string | null; end: string | null; source: string;
@@ -15,14 +17,6 @@ export type SenateLegislature = {
 };
 const files = import.meta.glob<SenateLegislature>("../Senado/*/composicion.json", { eager: true, import: "default" });
 export const senateLegislatures = Object.values(files).sort((a, b) => b.start.localeCompare(a.start));
-export function nextDay(date: string) {
-  const d = new Date(date + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + 1);
-  return d.toISOString().slice(0, 10);
-}
-export function lastDay(date: string) {
-  const d = new Date(date + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() - 1);
-  return d.toISOString().slice(0, 10);
-}
 export function termAt(term: { start: string | null; end: string | null }, date: string) {
   // La fecha de baja publicada es inclusiva. No inventar un alta desconocida.
   return !!term.start && term.start <= date && (!term.end || term.end >= date);

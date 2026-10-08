@@ -1,0 +1,21 @@
+[
+  {"id":"andalucia","name":"Andalucía","kind":"comunidad"},
+  {"id":"aragon","name":"Aragón","kind":"comunidad"},
+  {"id":"asturias","name":"Asturias","kind":"comunidad"},
+  {"id":"baleares","name":"Illes Balears","kind":"comunidad"},
+  {"id":"canarias","name":"Canarias","kind":"comunidad"},
+  {"id":"cantabria","name":"Cantabria","kind":"comunidad"},
+  {"id":"castilla-la-mancha","name":"Castilla-La Mancha","kind":"comunidad"},
+  {"id":"castilla-y-leon","name":"Castilla y León","kind":"comunidad"},
+  {"id":"cataluna","name":"Cataluña","kind":"comunidad"},
+  {"id":"valencia","name":"Comunitat Valenciana","kind":"comunidad"},
+  {"id":"extremadura","name":"Extremadura","kind":"comunidad"},
+  {"id":"galicia","name":"Galicia","kind":"comunidad"},
+  {"id":"madrid","name":"Comunidad de Madrid","kind":"comunidad"},
+  {"id":"murcia","name":"Región de Murcia","kind":"comunidad"},
+  {"id":"navarra","name":"Comunidad Foral de Navarra","kind":"comunidad"},
+  {"id":"pais-vasco","name":"País Vasco","kind":"comunidad"},
+  {"id":"la-rioja","name":"La Rioja","kind":"comunidad"},
+  {"id":"ceuta","name":"Ceuta","kind":"ciudad"},
+  {"id":"melilla","name":"Melilla","kind":"ciudad"}
+]

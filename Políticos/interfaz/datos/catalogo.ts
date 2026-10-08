@@ -19,8 +19,12 @@ function read<T>(
 }
 const folderSections = new Map<string, string[]>();
 for (const path of Object.keys(personFiles)) {
-  const end = path.lastIndexOf("/"), folder = path.slice(0, end);
-  folderSections.set(folder, [...(folderSections.get(folder) ?? []), path.slice(end + 1)]);
+  const end = path.lastIndexOf("/"),
+    folder = path.slice(0, end);
+  folderSections.set(folder, [
+    ...(folderSections.get(folder) ?? []),
+    path.slice(end + 1),
+  ]);
 }
 export const portraits: Record<string, string> = {};
 export const people: Person[] = Object.entries(personFiles)
@@ -44,8 +48,24 @@ export const people: Person[] = Object.entries(personFiles)
       "datos-personales.json",
       {},
     );
-    const senateMandates = read<Person["timeline"]>(personFiles, folder, "mandatos-senado.json", []);
-    const originalTimeline = read<Person["timeline"]>(personFiles, folder, "trayectoria.json", []);
+    const senateMandates = read<Person["timeline"]>(
+      personFiles,
+      folder,
+      "mandatos-senado.json",
+      [],
+    );
+    const congressMandates = read<Person["timeline"]>(
+      personFiles,
+      folder,
+      "mandatos-congreso.json",
+      [],
+    );
+    const originalTimeline = read<Person["timeline"]>(
+      personFiles,
+      folder,
+      "trayectoria.json",
+      [],
+    );
     return {
       ...meta,
       ...personal,
@@ -64,9 +84,32 @@ export const people: Person[] = Object.entries(personFiles)
       ],
       folder,
       sections: folderSections.get(folder) ?? [],
-      activity: read<Person["activity"]>(personFiles, folder, "actividad.json", undefined),
-      senateOffices: read<Person["senateOffices"]>(personFiles, folder, "cargos-senado.json", []),
+      activity: read<Person["activity"]>(
+        personFiles,
+        folder,
+        "actividad.json",
+        undefined,
+      ),
+      senateOffices: read<Person["senateOffices"]>(
+        personFiles,
+        folder,
+        "cargos-senado.json",
+        [],
+      ),
       senateMandates,
+      congressMandates,
+      congressOffices: read<Person["congressOffices"]>(
+        personFiles,
+        folder,
+        "cargos-congreso.json",
+        [],
+      ),
+      congressGroups: read<Person["congressGroups"]>(
+        personFiles,
+        folder,
+        "grupos-congreso.json",
+        [],
+      ),
       ...(image && portraits[meta.id]
         ? {
             portrait: meta.id,
@@ -90,7 +133,27 @@ export const people: Person[] = Object.entries(personFiles)
         "fuentes-formacion.json",
         [],
       ),
-      timeline: [...originalTimeline.filter((term) => !senateMandates.length || !(term.source.url.includes("senado.es") && /^(Senador|Participación en el Senado|Miembro del Senado)/i.test(term.title))), ...senateMandates],
+      timeline: [
+        ...originalTimeline.filter(
+          (term) =>
+            (!senateMandates.length ||
+              !(
+                term.source.url.includes("senado.es") &&
+                /^(Senador|Participación en el Senado|Miembro del Senado)/i.test(
+                  term.title,
+                )
+              )) &&
+            (!congressMandates.length ||
+              !(
+                term.source.url.includes("congreso.es") &&
+                /^(Diputad[oa]|Participación en el Congreso|Miembro del Congreso)/i.test(
+                  term.title,
+                )
+              )),
+        ),
+        ...senateMandates,
+        ...congressMandates,
+      ].sort((a, b) => a.period.localeCompare(b.period)),
       dossier: read<Person["dossier"]>(
         personFiles,
         folder,
@@ -98,11 +161,22 @@ export const people: Person[] = Object.entries(personFiles)
         [],
       ),
       references: read<Reference[]>(personFiles, folder, "fuentes.json", []),
-      institutionalBiography: read<Person["institutionalBiography"]>(personFiles, folder, "biografia-institucional.json", []),
+      institutionalBiography: read<Person["institutionalBiography"]>(
+        personFiles,
+        folder,
+        "biografia-institucional.json",
+        [],
+      ),
     };
   })
   .sort((a, b) => a.fullName!.localeCompare(b.fullName!, "es"));
-const peopleById = new Map(people.flatMap((p) => [p.id, ...(p.legacyIds ?? [])].map((id) => [id, p] as const)));
-export function findPerson(id: string) { return peopleById.get(id); }
+const peopleById = new Map(
+  people.flatMap((p) =>
+    [p.id, ...(p.legacyIds ?? [])].map((id) => [id, p] as const),
+  ),
+);
+export function findPerson(id: string) {
+  return peopleById.get(id);
+}
 export const candidacies = candidacyData;
 export const reviewedAt = "8 de octubre de 2026";

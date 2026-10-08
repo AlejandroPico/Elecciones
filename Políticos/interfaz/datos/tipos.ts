@@ -58,6 +58,9 @@ export type Person = {
   activity?: PoliticalActivity;
   senateOffices?: { title: string; period: string; source: Reference }[];
   senateMandates?: { title: string; period: string; source: Reference }[];
+  congressOffices?: { title: string; period: string; source: Reference }[];
+  congressGroups?: { title: string; period: string; source: Reference }[];
+  congressMandates?: { title: string; period: string; source: Reference }[];
 };
 export type PoliticalActivity = {
   state: "active" | "historical" | "unknown";
@@ -105,7 +108,12 @@ export type Organization = {
   publicResources?: {
     title: string;
     url: string;
-    kind: "programa" | "historia" | "estatutos" | "transparencia" | "organización";
+    kind:
+      | "programa"
+      | "historia"
+      | "estatutos"
+      | "transparencia"
+      | "organización";
     date?: string;
     format?: string;
   }[];

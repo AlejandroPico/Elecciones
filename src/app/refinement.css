@@ -506,3 +506,12 @@
     left: 20px;
   }
 }
+
+/* Las listas territoriales desplazan solo la navegación, manteniendo apariencia accesible. */
+.sidebar .main-nav { flex-shrink: 1; min-height: 0; overflow-y: auto; scrollbar-width: thin; }
+.sidebar .brand, .sidebar .election-name, .sidebar-bottom { flex-shrink: 0; }
+.autonomy-menu .survey-tree .survey-tree > div { margin-left: 12px; }
+.main-nav .autonomy-menu > button { font-size: 11px; }
+.sidebar .main-nav { gap: 4px; }
+.main-nav > .navigation-item > button { padding: 10px 8px; }
+.main-nav .survey-tree button[aria-current="page"] { color: var(--accent); }

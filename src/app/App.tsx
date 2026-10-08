@@ -44,6 +44,8 @@ import { useNavigation, type View, type Entry } from "./navigation";
 const Archive = lazy(() => import("../../Políticos/interfaz/Archive"));
 const Governments = lazy(() => import("../../Gobiernos/interfaz/Governments"));
 const Senate = lazy(() => import("../../Gobiernos/interfaz/Senate"));
+const Congress = lazy(() => import("../../Gobiernos/interfaz/Congress"));
+import Autonomies, { AutonomyMenu } from "../../Gobiernos/interfaz/Autonomies";
 const Offices = lazy(() => import("../../Gobiernos/interfaz/Offices"));
 type Modal = "method" | "privacy" | "about" | "reset" | "context" | null;
 type Theme = "auto" | "morning" | "afternoon" | "night";
@@ -90,7 +92,9 @@ export default function App() {
   const [modal, setModal] = useState<Modal>(null);
   const [mobileMenu, setMobileMenu] = useState(() => window.innerWidth > 720);
   const [surveyMenu, setSurveyMenu] = useState(false);
-  const [governmentMenu, setGovernmentMenu] = useState(() => ["governments", "senate"].includes(navigation.route.view));
+  const [governmentMenu, setGovernmentMenu] = useState(() =>
+    ["governments", "congress", "senate"].includes(navigation.route.view),
+  );
   const [themeMode, setThemeMode] = useState<Theme>("auto");
   const [clock, setClock] = useState(new Date());
   const [activeCategory, setActiveCategory] = useState(categories[0].id);
@@ -238,10 +242,30 @@ export default function App() {
   }
   function openEntry(entry?: Entry) {
     cancelAdvance();
-    navigation.navigate({ view: entry ? entry.kind === "party" ? "programs" : entry.kind === "office" ? "offices" : entry.kind === "government" ? "governments" : entry.kind === "senate" ? "senate" : "archive" : view, entry });
+    navigation.navigate({
+      view: entry
+        ? entry.kind === "party"
+          ? "programs"
+          : entry.kind === "office"
+            ? "offices"
+            : entry.kind === "government"
+              ? "governments"
+              : entry.kind === "senate"
+                ? "senate"
+                : entry.kind === "congress"
+                  ? "congress"
+                  : entry.kind === "autonomy"
+                    ? "autonomies"
+                    : "archive"
+        : view,
+      entry,
+    });
     if (window.innerWidth <= 720) setMobileMenu(false);
   }
-  useEffect(() => { cancelAdvance(); setModal(null); }, [navigation.route]);
+  useEffect(() => {
+    cancelAdvance();
+    setModal(null);
+  }, [navigation.route]);
   const themes = [
     { id: "auto", name: "Automático", icon: Clock3 },
     { id: "morning", name: "Mañana", icon: Sunrise },
@@ -252,10 +276,14 @@ export default function App() {
   const ThemeIcon = themes[themeIndex].icon;
   return (
     <>
-      <a href="#content" className="skip-link" onClick={(event) => {
-        event.preventDefault();
-        document.getElementById("content")?.focus();
-      }}>
+      <a
+        href="#content"
+        className="skip-link"
+        onClick={(event) => {
+          event.preventDefault();
+          document.getElementById("content")?.focus();
+        }}
+      >
         Saltar al contenido
       </a>
       <button
@@ -293,12 +321,22 @@ export default function App() {
               { id: "programs", name: "Partidos", icon: FileText },
               { id: "archive", name: "Archivo político", icon: Users },
               { id: "offices", name: "Cargos e historia", icon: Landmark },
-              { id: "governments", name: "Gobiernos", icon: Landmark },
+              {
+                id: "governments",
+                name: "Gobiernos centrales",
+                icon: Landmark,
+              },
             ] as const
           ).map((item) => (
             <div key={item.id} className="navigation-item">
               <button
-                className={view === item.id || (item.id === "governments" && view === "senate") ? "active" : ""}
+                className={
+                  view === item.id ||
+                  (item.id === "governments" &&
+                    ["congress", "senate"].includes(view))
+                    ? "active"
+                    : ""
+                }
                 onClick={() => {
                   if (item.id === "survey") {
                     setSurveyMenu(!surveyMenu);
@@ -310,7 +348,13 @@ export default function App() {
                   }
                   openView(item.id);
                 }}
-                aria-expanded={item.id === "survey" ? surveyMenu : item.id === "governments" ? governmentMenu : undefined}
+                aria-expanded={
+                  item.id === "survey"
+                    ? surveyMenu
+                    : item.id === "governments"
+                      ? governmentMenu
+                      : undefined
+                }
                 aria-current={view === item.id ? "page" : undefined}
               >
                 <item.icon size={17} />
@@ -318,7 +362,9 @@ export default function App() {
                 {(item.id === "survey" || item.id === "governments") && (
                   <ChevronDown
                     className={
-                      (item.id === "survey" ? surveyMenu : governmentMenu) ? "tree-chevron open" : "tree-chevron"
+                      (item.id === "survey" ? surveyMenu : governmentMenu)
+                        ? "tree-chevron open"
+                        : "tree-chevron"
                     }
                     size={13}
                   />
@@ -340,15 +386,38 @@ export default function App() {
                 </div>
               )}
               {item.id === "governments" && (
-                <div className={`survey-tree ${governmentMenu ? "open" : ""}`} inert={!governmentMenu}>
+                <div
+                  className={`survey-tree ${governmentMenu ? "open" : ""}`}
+                  inert={!governmentMenu}
+                >
                   <div>
-                    <button aria-current={view === "governments" ? "page" : undefined} onClick={() => openView("governments")}>Gobierno y Congreso</button>
-                    <button aria-current={view === "senate" ? "page" : undefined} onClick={() => openView("senate")}>Senado</button>
+                    <button
+                      aria-current={view === "governments" ? "page" : undefined}
+                      onClick={() => openView("governments")}
+                    >
+                      Gobierno
+                    </button>
+                    <button
+                      aria-current={view === "congress" ? "page" : undefined}
+                      onClick={() => openView("congress")}
+                    >
+                      Congreso
+                    </button>
+                    <button
+                      aria-current={view === "senate" ? "page" : undefined}
+                      onClick={() => openView("senate")}
+                    >
+                      Senado
+                    </button>
                   </div>
                 </div>
               )}
             </div>
           ))}
+          <AutonomyMenu
+            selected={view === "autonomies" ? archiveEntry?.id : undefined}
+            openSection={(id) => openEntry({ kind: "autonomy", id })}
+          />
         </nav>
         <div className="sidebar-bottom">
           <button
@@ -579,100 +648,203 @@ export default function App() {
           {navigation.visited.has("programs") && (
             <div className="section-content" hidden={view !== "programs"}>
               <h1 className="section-title">Partidos</h1>
-              <Suspense fallback={<span className="sr-only" role="status">Cargando partidos</span>}>
-              {archiveEntry?.kind === "party" ? (
-                <Archive
-                  initialRoute={{ kind: "party", id: archiveEntry.id }}
-                  onNavigate={openEntry}
-                  close={() => openView("programs")}
-                />
-              ) : null}
-              <div hidden={archiveEntry?.kind === "party"}>
-                <Programs openParty={(id) => openArchive("party", id)} />
-              </div>
-              <details className="positions-import result-card prose">
-                <summary>Posiciones documentadas</summary>
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando partidos
+                  </span>
+                }
+              >
+                {archiveEntry?.kind === "party" ? (
+                  <Archive
+                    initialRoute={{ kind: "party", id: archiveEntry.id }}
+                    onNavigate={openEntry}
+                    close={() => openView("programs")}
+                  />
+                ) : null}
+                <div hidden={archiveEntry?.kind === "party"}>
+                  <Programs openParty={(id) => openArchive("party", id)} />
+                </div>
+                <details className="positions-import result-card prose">
+                  <summary>Posiciones documentadas</summary>
 
-                <p>
-                  Importación temporal de un archivo de posiciones. No
-                  interpreta programas PDF.
-                </p>
-                <input
-                  ref={fileRef}
-                  type="file"
-                  accept=".json,application/json"
-                  hidden
-                  onChange={(e) => void importFile(e.target.files?.[0])}
-                />
-                <button
-                  className="outline-button"
-                  onClick={() => fileRef.current?.click()}
-                >
-                  Seleccionar archivo
-                </button>
-                <p role="status">{importMessage}</p>
-                {parties.map((p) => (
-                  <details className="party-sources" key={p.id}>
-                    <summary>
-                      {p.name} · {Object.keys(p.positions).length} posiciones
-                    </summary>
-                    <ul>
-                      {Object.entries(p.positions).map(([id, position]) => (
-                        <li key={id}>
-                          <p>{questions.find((q) => q.id === id)?.text}</p>
-                          <p>
-                            {position.value} · {position.reference}
-                          </p>
-                          <a
-                            href={position.source}
-                            target="_blank"
-                            rel="noreferrer"
-                          >
-                            Fuente original
-                            <ArrowUpRight size={13} />
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </details>
-                ))}
-              </details>
+                  <p>
+                    Importación temporal de un archivo de posiciones. No
+                    interpreta programas PDF.
+                  </p>
+                  <input
+                    ref={fileRef}
+                    type="file"
+                    accept=".json,application/json"
+                    hidden
+                    onChange={(e) => void importFile(e.target.files?.[0])}
+                  />
+                  <button
+                    className="outline-button"
+                    onClick={() => fileRef.current?.click()}
+                  >
+                    Seleccionar archivo
+                  </button>
+                  <p role="status">{importMessage}</p>
+                  {parties.map((p) => (
+                    <details className="party-sources" key={p.id}>
+                      <summary>
+                        {p.name} · {Object.keys(p.positions).length} posiciones
+                      </summary>
+                      <ul>
+                        {Object.entries(p.positions).map(([id, position]) => (
+                          <li key={id}>
+                            <p>{questions.find((q) => q.id === id)?.text}</p>
+                            <p>
+                              {position.value} · {position.reference}
+                            </p>
+                            <a
+                              href={position.source}
+                              target="_blank"
+                              rel="noreferrer"
+                            >
+                              Fuente original
+                              <ArrowUpRight size={13} />
+                            </a>
+                          </li>
+                        ))}
+                      </ul>
+                    </details>
+                  ))}
+                </details>
               </Suspense>
             </div>
           )}
           {navigation.visited.has("archive") && (
             <div className="section-content" hidden={view !== "archive"}>
               <h1 className="section-title">Archivo político</h1>
-              <Suspense fallback={<span className="sr-only" role="status">Cargando archivo</span>}>
-              <Archive
-                initialRoute={view === "archive" && archiveEntry?.kind === "person" ? {kind: "person", id: archiveEntry.id} : undefined}
-                onNavigate={openEntry}
-                openParty={(id) => openArchive("party", id)}
-              />
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando archivo
+                  </span>
+                }
+              >
+                <Archive
+                  initialRoute={
+                    view === "archive" && archiveEntry?.kind === "person"
+                      ? { kind: "person", id: archiveEntry.id }
+                      : undefined
+                  }
+                  onNavigate={openEntry}
+                  openParty={(id) => openArchive("party", id)}
+                />
               </Suspense>
             </div>
           )}
           {navigation.visited.has("governments") && (
             <div className="section-content" hidden={view !== "governments"}>
-              <h1 className="section-title">Gobiernos</h1>
-              <Suspense fallback={<span className="sr-only" role="status">Cargando gobiernos</span>}>
-              <Governments openPerson={(id) => openArchive("person", id)} active={view === "governments"} selectedSnapshot={view === "governments" ? archiveEntry?.id : undefined} openGovernment={(id) => navigation.navigate({view:"governments",entry:{kind:"government",id}})} />
+              <h1 className="section-title">Gobierno</h1>
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando gobiernos
+                  </span>
+                }
+              >
+                <Governments
+                  openPerson={(id) => openArchive("person", id)}
+                  active={view === "governments"}
+                  selectedSnapshot={
+                    view === "governments" ? archiveEntry?.id : undefined
+                  }
+                  openGovernment={(id) =>
+                    navigation.navigate({
+                      view: "governments",
+                      entry: { kind: "government", id },
+                    })
+                  }
+                />
               </Suspense>
             </div>
           )}
           {navigation.visited.has("offices") && (
             <div className="section-content" hidden={view !== "offices"}>
               <h1 className="section-title">Cargos e historia</h1>
-              <Suspense fallback={<span className="sr-only" role="status">Cargando cargos</span>}>
-              <Offices openPerson={(id) => openArchive("person", id)} selectedOffice={view === "offices" ? archiveEntry?.id : undefined} openOffice={(id) => { cancelAdvance(); navigation.navigate({ view: "offices", entry: id ? {kind: "office", id} : undefined }); }} />
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando cargos
+                  </span>
+                }
+              >
+                <Offices
+                  openPerson={(id) => openArchive("person", id)}
+                  selectedOffice={
+                    view === "offices" ? archiveEntry?.id : undefined
+                  }
+                  openOffice={(id) => {
+                    cancelAdvance();
+                    navigation.navigate({
+                      view: "offices",
+                      entry: id ? { kind: "office", id } : undefined,
+                    });
+                  }}
+                />
               </Suspense>
+            </div>
+          )}
+          {navigation.visited.has("congress") && (
+            <div className="section-content" hidden={view !== "congress"}>
+              <h1 className="section-title">Congreso</h1>
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando Congreso
+                  </span>
+                }
+              >
+                <Congress
+                  active={view === "congress"}
+                  openPerson={(id) => openArchive("person", id)}
+                  selectedSnapshot={
+                    view === "congress" ? archiveEntry?.id : undefined
+                  }
+                  openCongress={(id) =>
+                    navigation.navigate({
+                      view: "congress",
+                      entry: { kind: "congress", id },
+                    })
+                  }
+                />
+              </Suspense>
+            </div>
+          )}
+          {navigation.visited.has("autonomies") && (
+            <div hidden={view !== "autonomies"}>
+              <Autonomies
+                selected={view === "autonomies" ? archiveEntry?.id : undefined}
+              />
             </div>
           )}
           {navigation.visited.has("senate") && (
             <div className="section-content" hidden={view !== "senate"}>
               <h1 className="section-title">Senado</h1>
-              <Suspense fallback={<span className="sr-only" role="status">Cargando Senado</span>}>
-                <Senate active={view === "senate"} openPerson={(id) => openArchive("person", id)} selectedSnapshot={view === "senate" ? archiveEntry?.id : undefined} openSenate={(id) => navigation.navigate({ view: "senate", entry: { kind: "senate", id } })} />
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando Senado
+                  </span>
+                }
+              >
+                <Senate
+                  active={view === "senate"}
+                  openPerson={(id) => openArchive("person", id)}
+                  selectedSnapshot={
+                    view === "senate" ? archiveEntry?.id : undefined
+                  }
+                  openSenate={(id) =>
+                    navigation.navigate({
+                      view: "senate",
+                      entry: { kind: "senate", id },
+                    })
+                  }
+                />
               </Suspense>
             </div>
           )}
@@ -725,8 +897,11 @@ export default function App() {
                   48 preguntas piloto, 8 temas y 16 ejes. Permite ponderar
                   respuestas, omitirlas y revisarlas desde la barra de progreso.
                   El archivo político reúne fichas personales y documentos.
-                  Gobiernos permite recorrer composiciones del Ejecutivo desde
-                  1977, con organigramas y el hemiciclo electoral de 2023.
+                  Gobiernos centrales permite recorrer el Ejecutivo, el Congreso
+                  y el Senado desde 1977. El hemiciclo del Congreso enlaza los
+                  mandatos individuales y sus cambios de grupo; su distribución
+                  es esquemática. El menú autonómico queda preparado para
+                  ampliar sus contenidos.
                 </p>
                 <p>
                   No guarda respuestas ni preferencias. Al recargar la página se
@@ -737,7 +912,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.7.0</dd>
+                  <dd>0.8.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

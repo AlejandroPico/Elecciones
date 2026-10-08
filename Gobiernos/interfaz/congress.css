@@ -1,0 +1,249 @@
+.congress-executive-filter {
+  margin: 0 0 24px;
+}
+.congress-archive .small-note { color: var(--muted); font-size: 11px; line-height: 1.6; }
+.congress-archive .government-time { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 8px 24px; padding: 16px 20px; }
+.congress-archive .time-heading { grid-column: 1; grid-row: 1 / 3; gap: 12px; }
+.congress-archive .time-heading h2 { font-size: 21px; margin: 6px 0; }
+.congress-archive .timeline-control { grid-column: 2; margin: 0; }
+.congress-archive .time-extents { grid-column: 2; margin: 0; font-size: 9px; }
+.congress-archive .government-time > p { grid-column: 1 / -1; margin: 0; }
+.congress-executive-filter select {
+  width: 100%;
+  max-width: 850px;
+  font-size: 12px;
+}
+.congress-hemicycle {
+  border-top: 1px solid var(--line);
+  margin-top: 35px;
+  padding-top: 24px;
+}
+.congress-graph-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+}
+.congress-graph-heading h2,
+.congress-board h2 {
+  font-size: 19px;
+  font-weight: 500;
+  margin: 0 0 22px;
+}
+.congress-graph-heading > span {
+  color: var(--muted);
+  font-size: 11px;
+}
+.congress-search {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  margin: 0 0 20px;
+}
+.congress-search label {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--muted);
+  flex: 1;
+}
+.congress-search input {
+  width: 100%;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  padding: 12px 0;
+  color: var(--text);
+  font-size: 12px;
+}
+.congress-search select {
+  max-width: 340px;
+  font-size: 12px;
+}
+.congress-diagram-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 230px;
+  gap: 28px;
+  align-items: start;
+}
+.congress-diagram {
+  width: 100%;
+  min-height: 300px;
+  overflow: visible;
+  align-self: center;
+}
+.congress-position {
+  cursor: pointer;
+  transition: opacity 0.35s;
+  outline: none;
+}
+.congress-position rect {
+  transition: stroke 0.2s;
+}
+.congress-position.selected rect,
+.congress-position:focus rect {
+  stroke: var(--text);
+  stroke-width: 3;
+}
+.congress-vacancy {
+  fill: var(--line);
+}
+.congress-total {
+  fill: var(--text);
+  font-size: 42px;
+  font-weight: 400;
+}
+.congress-total-label {
+  fill: var(--muted);
+  font-size: 13px;
+  letter-spacing: 2px;
+}
+.congress-inspector {
+  border-left: 1px solid var(--line);
+  padding-left: 24px;
+  min-height: 430px;
+  font-size: 12px;
+}
+.congress-inspector h3 {
+  font-size: 19px;
+  line-height: 1.4;
+  font-weight: 500;
+  margin: 16px 0 8px;
+}
+.congress-inspector p {
+  margin: 8px 0 20px;
+}
+.congress-inspector dl {
+  margin: 20px 0;
+}
+.congress-inspector dt {
+  font-size: 10px;
+  color: var(--muted);
+  margin-top: 12px;
+}
+.congress-inspector dd {
+  margin: 3px 0;
+  line-height: 1.5;
+}
+.congress-deputy-portrait {
+  height: 155px;
+  width: 125px;
+  overflow: hidden;
+  background: var(--surface);
+}
+.congress-deputy-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 18%;
+}
+.congress-inspector-count {
+  display: block;
+  font-size: 52px;
+  margin: 48px 0;
+}
+.congress-inspector-count small {
+  display: block;
+  font-size: 10px;
+  color: var(--muted);
+}
+.congress-group-legend {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 18px 0;
+}
+.congress-group-legend button {
+  text-align: left;
+  font-size: 11px;
+}
+.congress-search-results {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 20px;
+  padding: 15px 0;
+  font-size: 12px;
+}
+.congress-search-results > span {
+  width: 100%;
+  color: var(--muted);
+}
+.congress-seating-note {
+  max-width: 900px;
+}
+.congress-board {
+  border-top: 1px solid var(--line);
+  margin-top: 40px;
+  padding-top: 25px;
+}
+.congress-board-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+.congress-board-grid .government-node {
+  width: 100%;
+  min-width: 0;
+}
+.congress-board-grid .government-portrait {
+  height: 82px;
+}
+.congress-board-grid .government-node strong {
+  font-size: 12px;
+}
+@media (max-width: 1250px) {
+  .congress-diagram-layout {
+    grid-template-columns: minmax(0, 1fr) 190px;
+    gap: 18px;
+  }
+  .congress-inspector {
+    padding-left: 18px;
+  }
+}
+@media (max-width: 950px) {
+  .congress-archive .government-time { display: block; }
+  .congress-archive .timeline-control { margin-top: 12px; }
+  .congress-archive .government-time > p { margin-top: 8px; }
+  .congress-diagram-layout {
+    grid-template-columns: 1fr;
+  }
+  .congress-inspector {
+    min-height: 0;
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding: 20px 0;
+  }
+  .congress-inspector .congress-inspector-count {
+    margin: 16px 0;
+  }
+  .congress-deputy-portrait {
+    float: left;
+    margin-right: 22px;
+  }
+  .congress-group-legend,
+  .congress-board-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .congress-search {
+    flex-wrap: wrap;
+  }
+  .congress-search label {
+    flex-basis: 100%;
+  }
+}
+@media (max-width: 540px) {
+  .congress-graph-heading {
+    display: block;
+  }
+  .congress-group-legend,
+  .congress-board-grid {
+    grid-template-columns: 1fr;
+  }
+  .congress-diagram {
+    min-height: 200px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .congress-position {
+    transition: none;
+  }
+}

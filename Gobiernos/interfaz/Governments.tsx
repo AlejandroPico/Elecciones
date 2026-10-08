@@ -7,98 +7,10 @@ import {
   Play,
 } from "lucide-react";
 import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
-import { congress } from "../../Elecciones/Generales Noviembre 2026/congreso";
 import { structureSnapshot } from "../XV Legislatura/estructura";
 import { chronology, dateLabel, governments } from "./government-model";
 import { Portrait } from "../../Políticos/interfaz/Retrato";
 type Member = (typeof chronology)[number]["members"][number];
-function Hemicycle() {
-  const [selected, setSelected] = useState<string | null>(null);
-  const points = [32, 38, 44, 50, 56, 62, 68]
-    .flatMap((count, row) =>
-      Array.from({ length: count }, (_, i) => {
-        const radius = 75 + row * 19;
-        const angle = Math.PI - (Math.PI * i) / (count - 1);
-        return {
-          x: 250 + Math.cos(angle) * radius,
-          y: 235 - Math.sin(angle) * radius,
-          angle,
-          row,
-        };
-      }),
-    )
-    .sort((a, b) => b.angle - a.angle || a.row - b.row);
-  const seats = congress.parties.flatMap((p) =>
-    Array.from({ length: p.seats }, () => p),
-  );
-  return (
-    <section className="hemicycle">
-      <h2>Congreso · elección de 2023</h2>
-      <svg
-        viewBox="0 0 500 260"
-        role="img"
-        aria-label="Distribución de los 350 escaños por candidatura en las elecciones de 2023"
-      >
-        {points.map((p, i) => (
-          <circle
-            key={i}
-            cx={p.x}
-            cy={p.y}
-            r={4.1}
-            fill={seats[i].color}
-            opacity={selected && selected !== seats[i].name ? 0.2 : 1}
-          >
-            <title>{seats[i].name}</title>
-          </circle>
-        ))}
-        <text
-          x="250"
-          y="223"
-          textAnchor="middle"
-          fill="var(--text)"
-          fontSize="26"
-        >
-          350
-        </text>
-        <text
-          x="250"
-          y="243"
-          textAnchor="middle"
-          fill="var(--muted)"
-          fontSize="10"
-        >
-          ESCAÑOS
-        </text>
-      </svg>
-      <div className="seat-legend">
-        {congress.parties.map((p) => (
-          <button
-            aria-pressed={selected === p.name}
-            onClick={() => setSelected(selected === p.name ? null : p.name)}
-            key={p.name}
-          >
-            <i style={{ background: p.color }} />
-            <span>{p.name}</span>
-            <b>{p.seats}</b>
-          </button>
-        ))}
-      </div>
-      <p className="small-note">
-        Resultado electoral por candidatura; no refleja cambios posteriores de
-        grupo ni los asientos físicos. PSOE y PSC-PSOE se muestran separados
-        como en la fuente.
-      </p>
-      <a
-        className="source-link"
-        href={congress.source}
-        target="_blank"
-        rel="noreferrer"
-      >
-        Junta Electoral Central · BOE <ArrowUpRight size={13} />
-      </a>
-    </section>
-  );
-}
 export default function Governments({
   openPerson,
   selectedSnapshot,
@@ -356,13 +268,7 @@ export default function Governments({
         agrupan niveles del Ejecutivo; no asignan todos los ministerios a una
         vicepresidencia.
       </p>
-      {government.id === "xv" ? (
-        <Hemicycle />
-      ) : (
-        <p className="small-note">
-          Hemiciclo de esta legislatura pendiente de incorporar.
-        </p>
-      )}
+
     </div>
   );
 }

@@ -1,0 +1,195 @@
+{
+  "checkedAt": "2026-10-08",
+  "legislatures": [
+    {
+      "number": 0,
+      "mandates": 361,
+      "groups": 9,
+      "memberships": 404,
+      "boardTerms": 9,
+      "latestCount": 349,
+      "minCount": 348,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 1,
+      "mandates": 392,
+      "groups": 10,
+      "memberships": 422,
+      "boardTerms": 13,
+      "latestCount": 345,
+      "minCount": 342,
+      "maxCount": 350,
+      "incidents": [
+        "Adscripción sin mandato en el inventario: García Laguna, José",
+        "Adscripción sin mandato en el inventario: García Laguna, José"
+      ]
+    },
+    {
+      "number": 2,
+      "mandates": 389,
+      "groups": 6,
+      "memberships": 394,
+      "boardTerms": 10,
+      "latestCount": 349,
+      "minCount": 342,
+      "maxCount": 350,
+      "incidents": [
+        "Adscripción sin mandato en el inventario: Croissier Batista, Luis Carlos"
+      ]
+    },
+    {
+      "number": 3,
+      "mandates": 394,
+      "groups": 9,
+      "memberships": 490,
+      "boardTerms": 9,
+      "latestCount": 349,
+      "minCount": 344,
+      "maxCount": 352,
+      "incidents": []
+    },
+    {
+      "number": 4,
+      "mandates": 388,
+      "groups": 7,
+      "memberships": 390,
+      "boardTerms": 9,
+      "latestCount": 350,
+      "minCount": 347,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 5,
+      "mandates": 407,
+      "groups": 7,
+      "memberships": 408,
+      "boardTerms": 9,
+      "latestCount": 350,
+      "minCount": 346,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 6,
+      "mandates": 409,
+      "groups": 7,
+      "memberships": 417,
+      "boardTerms": 10,
+      "latestCount": 348,
+      "minCount": 344,
+      "maxCount": 348,
+      "incidents": []
+    },
+    {
+      "number": 7,
+      "mandates": 416,
+      "groups": 7,
+      "memberships": 422,
+      "boardTerms": 11,
+      "latestCount": 350,
+      "minCount": 342,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 8,
+      "mandates": 399,
+      "groups": 8,
+      "memberships": 404,
+      "boardTerms": 11,
+      "latestCount": 350,
+      "minCount": 343,
+      "maxCount": 350,
+      "incidents": [
+        "Cargo sin mandato ni fechas individuales: Secretario General · Alba Navarro, Manuel"
+      ]
+    },
+    {
+      "number": 9,
+      "mandates": 413,
+      "groups": 6,
+      "memberships": 416,
+      "boardTerms": 9,
+      "latestCount": 350,
+      "minCount": 340,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 10,
+      "mandates": 437,
+      "groups": 7,
+      "memberships": 442,
+      "boardTerms": 10,
+      "latestCount": 344,
+      "minCount": 339,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 11,
+      "mandates": 351,
+      "groups": 8,
+      "memberships": 351,
+      "boardTerms": 9,
+      "latestCount": 349,
+      "minCount": 349,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 12,
+      "mandates": 393,
+      "groups": 7,
+      "memberships": 393,
+      "boardTerms": 9,
+      "latestCount": 350,
+      "minCount": 345,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 13,
+      "mandates": 355,
+      "groups": 8,
+      "memberships": 355,
+      "boardTerms": 9,
+      "latestCount": 349,
+      "minCount": 348,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 14,
+      "mandates": 407,
+      "groups": 10,
+      "memberships": 413,
+      "boardTerms": 10,
+      "latestCount": 349,
+      "minCount": 340,
+      "maxCount": 350,
+      "incidents": []
+    },
+    {
+      "number": 15,
+      "mandates": 412,
+      "groups": 9,
+      "memberships": 426,
+      "boardTerms": 9,
+      "latestCount": 350,
+      "minCount": 342,
+      "maxCount": 350,
+      "incidents": []
+    }
+  ],
+  "matchedMandates": 6323,
+  "unmatched": [],
+  "peopleWithBoardTerms": 98,
+  "peopleWithGroups": 3019,
+  "physicalSeatsVerified": false,
+  "intervalCriterion": "Alta inclusiva; baja exclusiva. En la disolución termina el Pleno, aunque permanezcan miembros de la Diputación Permanente.",
+  "startCriterion": "Inicio del recorrido: fecha de constitución de la Mesa publicada por el Congreso; no se confunde con la primera sesión de la Cámara."
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Congreso · diputados por legislatura",
+    "url": "https://www.congreso.es/opendata/diputados",
+    "kind": "institutional"
+  },
+  {
+    "label": "Congreso · Mesa histórica",
+    "url": "https://www.congreso.es/mesa?p_p_id=organos&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_organos_selectedLegislatura=XIV&_organos_compoHistorica=true",
+    "kind": "institutional"
+  },
+  {
+    "label": "Congreso · grupos parlamentarios",
+    "url": "https://www.congreso.es/grupos/composicion-en-la-legislatura",
+    "kind": "institutional"
+  }
+]

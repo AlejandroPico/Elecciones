@@ -23,7 +23,11 @@ import { useInfiniteList } from "../../src/app/useInfiniteList";
 import { activityOf, matchesPerson, orderPeople, type Order } from "./orden";
 import PartyDetail from "../../Partidos/interfaz/Ficha";
 import { Portrait } from "./Retrato";
-import { activityLabels, personActivity, type ActivityState } from "./actividad";
+import {
+  activityLabels,
+  personActivity,
+  type ActivityState,
+} from "./actividad";
 import { ownOfficeTerms } from "./relaciones";
 export { Portrait } from "./Retrato";
 import Sources from "../../src/app/Sources";
@@ -49,7 +53,9 @@ export default function Archive({
   const [order, setOrder] = useState<Order>("name");
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState("all");
-  const [activityFilter, setActivityFilter] = useState<ActivityState | "all">("all");
+  const [activityFilter, setActivityFilter] = useState<ActivityState | "all">(
+    "all",
+  );
   const [history, setHistory] = useState<Route[]>(
     initialRoute ? [initialRoute] : [],
   );
@@ -67,17 +73,25 @@ export default function Archive({
   const relatedParty = person
     ? organizations.find((p) => p.id === person.organization)
     : undefined;
-  const foundPeople = useMemo(() => orderPeople(
-    people.filter(
-      (p) =>
-        matchesPerson(
-          p,
-          search,
-          p.organization ? organizationsById.get(p.organization)?.fullName : undefined,
-        ) && matchesAffiliation(p, filter) && (activityFilter === "all" || personActivity(p) === activityFilter),
-    ),
-    order,
-  ), [search, filter, order, activityFilter]);
+  const foundPeople = useMemo(
+    () =>
+      orderPeople(
+        people.filter(
+          (p) =>
+            matchesPerson(
+              p,
+              search,
+              p.organization
+                ? organizationsById.get(p.organization)?.fullName
+                : undefined,
+            ) &&
+            matchesAffiliation(p, filter) &&
+            (activityFilter === "all" || personActivity(p) === activityFilter),
+        ),
+        order,
+      ),
+    [search, filter, order, activityFilter],
+  );
   const { visibleCount, sentinel } = useInfiniteList(
     foundPeople.length,
     `${search}|${filter}|${order}|${activityFilter}`,
@@ -91,12 +105,13 @@ export default function Archive({
   useEffect(() => {
     if (route) {
       heading.current?.focus({ preventScroll: true });
-      if (!onNavigate) heading.current?.scrollIntoView({
-        block: "nearest",
-        behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
-          ? "instant"
-          : "smooth",
-      });
+      if (!onNavigate)
+        heading.current?.scrollIntoView({
+          block: "nearest",
+          behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
+            ? "instant"
+            : "smooth",
+        });
     }
   }, [route]);
   return (
@@ -128,7 +143,13 @@ export default function Archive({
               <option value="independent">Independientes</option>
               <option value="pending">Vinculación pendiente</option>
             </select>
-            <select aria-label="Filtrar personas por actividad" value={activityFilter} onChange={(e) => setActivityFilter(e.target.value as ActivityState | "all")}>
+            <select
+              aria-label="Filtrar personas por actividad"
+              value={activityFilter}
+              onChange={(e) =>
+                setActivityFilter(e.target.value as ActivityState | "all")
+              }
+            >
               <option value="all">Activos primero · todos</option>
               <option value="active">Actividad actual documentada</option>
               <option value="unknown">Actividad por confirmar</option>
@@ -148,30 +169,33 @@ export default function Archive({
           <div className="people-grid">
             {foundPeople.slice(0, visibleCount).map((p, i) => (
               <Fragment key={p.id}>
-              {(i === 0 || personActivity(foundPeople[i - 1]) !== personActivity(p)) && (
-                <h2 className="catalog-group-title">{activityLabels[personActivity(p)]}</h2>
-              )}
-              <button
-                className="person-card"
-                key={p.id}
-                onClick={() => go("person", p.id)}
-                aria-label={`Ficha de ${p.fullName ?? p.name}`}
-              >
-                <div className="person-photo">
-                  <Portrait person={p} />
-                </div>
-                <div className="person-card-body">
-                  <h2>{p.fullName ?? p.name}</h2>
-                  <div className="person-shutter">
-                    <div>
-                      <p className="person-party">
-                        {affiliationLabel(p, organizations)}
-                      </p>
-                      <p>{activityOf(p).roles.join(" · ")}</p>
+                {(i === 0 ||
+                  personActivity(foundPeople[i - 1]) !== personActivity(p)) && (
+                  <h2 className="catalog-group-title">
+                    {activityLabels[personActivity(p)]}
+                  </h2>
+                )}
+                <button
+                  className="person-card"
+                  key={p.id}
+                  onClick={() => go("person", p.id)}
+                  aria-label={`Ficha de ${p.fullName ?? p.name}`}
+                >
+                  <div className="person-photo">
+                    <Portrait person={p} />
+                  </div>
+                  <div className="person-card-body">
+                    <h2>{p.fullName ?? p.name}</h2>
+                    <div className="person-shutter">
+                      <div>
+                        <p className="person-party">
+                          {affiliationLabel(p, organizations)}
+                        </p>
+                        <p>{activityOf(p).roles.join(" · ")}</p>
+                      </div>
                     </div>
                   </div>
-                </div>
-              </button>
+                </button>
               </Fragment>
             ))}
           </div>
@@ -192,9 +216,13 @@ export default function Archive({
           <button
             className="text-button archive-back"
             onClick={() =>
-              onNavigate ? (close ? close() : onNavigate(undefined)) : history.length === 1 && close
-                ? close()
-                : setHistory((h) => h.slice(0, -1))
+              onNavigate
+                ? close
+                  ? close()
+                  : onNavigate(undefined)
+                : history.length === 1 && close
+                  ? close()
+                  : setHistory((h) => h.slice(0, -1))
             }
           >
             <ArrowLeft size={16} />
@@ -327,7 +355,10 @@ export default function Archive({
                         </div>
                       )}
                       {person.birthNote && (
-                        <div><dt>Contraste de fuentes</dt><dd>{person.birthNote}</dd></div>
+                        <div>
+                          <dt>Contraste de fuentes</dt>
+                          <dd>{person.birthNote}</dd>
+                        </div>
                       )}
                       {person.deathYear ? (
                         <div>
@@ -345,7 +376,8 @@ export default function Archive({
                           </dd>
                         </div>
                       ) : (
-                        person.birthDate && ageAt(person.birthDate) <= 110 && (
+                        person.birthDate &&
+                        ageAt(person.birthDate) <= 110 && (
                           <div>
                             <dt>Edad</dt>
                             <dd>{ageAt(person.birthDate)} años</dd>
@@ -375,7 +407,10 @@ export default function Archive({
                   <article>
                     <h3>Datos biográficos institucionales</h3>
                     {person.institutionalBiography.map((item, i) => (
-                      <div key={i}><p>{item.text}</p><Sources sources={[item.source]} /></div>
+                      <div key={i}>
+                        <p>{item.text}</p>
+                        <Sources sources={[item.source]} />
+                      </div>
                     ))}
                   </article>
                 )}
@@ -419,18 +454,47 @@ export default function Archive({
                   </article>
                 )}
                 {!!ownOfficeTerms(person).length && (
-                    <article>
-                      <h3>Relaciones por cargo</h3>
-                      <ol className="political-timeline">
-                        {ownOfficeTerms(person).map((m) => (
-                          <li key={`${m.name}-${m.period}`}>
-                            <span>{m.period}</span>
-                            <h4>{m.office ? <button className="inline-link" onClick={() => go("office", m.office!)}>{m.name}</button> : m.name}</h4>
-                            {m.source && <Sources sources={[m.source]} />}
-                          </li>
-                        ))}
-                      </ol>
-                    </article>
+                  <article>
+                    <h3>Relaciones por cargo</h3>
+                    <ol className="political-timeline">
+                      {ownOfficeTerms(person).map((m) => (
+                        <li key={`${m.name}-${m.period}`}>
+                          <span>{m.period}</span>
+                          <h4>
+                            {m.office ? (
+                              <button
+                                className="inline-link"
+                                onClick={() => go("office", m.office!)}
+                              >
+                                {m.name}
+                              </button>
+                            ) : (
+                              m.name
+                            )}
+                          </h4>
+                          {m.source && <Sources sources={[m.source]} />}
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
+                {!!person.congressGroups?.length && (
+                  <article>
+                    <h3>Adscripciones en el Congreso</h3>
+                    <p className="small-note">
+                      Grupos parlamentarios del periodo indicado; no acreditan
+                      por sí solos militancia ni afiliación actual.
+                    </p>
+                    <ol className="political-timeline">
+                      {person.congressGroups.map((term) => (
+                        <li key={`${term.title}-${term.period}`}>
+                          <span>{term.period}</span>
+                          <h4>{term.title}</h4>
+                          <Sources sources={[term.source]} />
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
                 )}
                 {person.activity && (
                   <article>
