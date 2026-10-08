@@ -33,7 +33,7 @@
     }
   },
   {
-    "title": "Senador de España",
+    "title": "Miembro del Senado de España",
     "period": "15 de junio de 1977 – 2 de enero de 1979",
     "source": {
       "label": "Rafael Calvo Ortega · Wikidata, cargo y periodo",
@@ -75,6 +75,24 @@
       "label": "Rafael Calvo Ortega · Wikidata, cargo y periodo",
       "url": "https://www.wikidata.org/wiki/Q3417219#P39",
       "kind": "encyclopedic"
+    }
+  },
+  {
+    "period": "1979-03-13 — 1982-08-31",
+    "title": "Diputado en el Congreso por Oviedo · I Legislatura",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=39&idLegislatura=I",
+      "kind": "institutional"
+    }
+  },
+  {
+    "period": "1977-06-15 — 1979-01-02",
+    "title": "Miembro del Senado · Legislatura Constituyente · Electo:  Segovia",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=0&id1=12041",
+      "kind": "institutional"
     }
   }
 ]

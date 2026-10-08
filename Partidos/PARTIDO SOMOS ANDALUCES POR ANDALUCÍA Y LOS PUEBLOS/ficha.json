@@ -10,5 +10,19 @@
     "locality": "Málaga (Málaga)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5763",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q104761002",
+  "aliases": [
+    "Partido Somos Andaluces por Andalucía y los Pueblos",
+    "Partit Som Andalusos per Andalusia i els Pobles"
+  ],
+  "founding": {
+    "date": "2016-01-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q104761002#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

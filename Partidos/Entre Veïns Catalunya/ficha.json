@@ -10,5 +10,21 @@
     "locality": "Reus (Tarragona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6374",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q120411503",
+  "aliases": [
+    "Catalonia Among Neighbors",
+    "Entre Vecinos Catalunya",
+    "Entre Vecinos Cataluña",
+    "Entre Veïns Catalunya"
+  ],
+  "founding": {
+    "date": "2019-03-11",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q120411503#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "401-6",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=401&idLegislatura=VI",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "74ff34a528b2a2880c6236b58d89c0bc2bacbe0d8a986e898f2378ac06cbed59",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "12890",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=9&id1=12890",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "b643d3ee39858c8424bf55c8840c921bb10cb606a3525a190c23c22bc9005885",
+    "error": null
+  }
+]

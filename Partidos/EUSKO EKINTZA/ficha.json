@@ -10,5 +10,18 @@
     "locality": "Barakaldo (Bizkaia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4786",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q25479773",
+  "aliases": [
+    "Eusko Ekintza"
+  ],
+  "founding": {
+    "date": "2012-12-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q25479773#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "id": "registro-6646",
   "name": "ANTICAPITALISTAS ANDALUCIA",
   "fullName": "ANTICAPITALISTAS ANDALUCIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Andalucía. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6646",
     "name": "ANTICAPITALISTAS ANDALUCIA",
@@ -10,5 +10,19 @@
     "locality": "Sanlúcar de Barrameda (Cádiz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6646",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q112795237",
+  "aliases": [
+    "Anticapitalistas Andalucía",
+    "Anticapitalistes Andalusia"
+  ],
+  "founding": {
+    "date": "2020-06-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q112795237#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

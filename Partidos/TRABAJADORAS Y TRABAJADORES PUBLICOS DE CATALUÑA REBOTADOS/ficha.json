@@ -10,5 +10,22 @@
     "locality": "Vallgorguina (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2249",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q66309163",
+  "aliases": [
+    "TPR",
+    "Trabajadora/es Públicos de Cataluña Rebotados",
+    "Trabajadoras y Trabajadores Públicos de Cataluña Rebotados",
+    "Trabajadores Públicos Rebotados",
+    "Treballadores i Treballadors Públics de Catalunya Rebotats"
+  ],
+  "founding": {
+    "date": "1999-09-06",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q66309163#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

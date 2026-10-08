@@ -2,7 +2,7 @@
   "id": "registro-982",
   "name": "PIL",
   "fullName": "PARTIDO DE INDEPENDIENTES DE LANZAROTE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido Político Español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "982",
     "name": "PARTIDO DE INDEPENDIENTES DE LANZAROTE",
@@ -10,5 +10,20 @@
     "locality": "Arrecife (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=982",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1148333",
+  "aliases": [
+    "Partido de Independientes de Lanzarote",
+    "Partit d'Independents de Lanzarote",
+    "Party of Independents from Lanzarote"
+  ],
+  "founding": {
+    "date": "1985-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1148333#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

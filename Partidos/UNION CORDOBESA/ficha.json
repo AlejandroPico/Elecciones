@@ -2,7 +2,7 @@
   "id": "registro-4294",
   "name": "UCOR",
   "fullName": "UNION CORDOBESA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Córdoba, España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4294",
     "name": "UNION CORDOBESA",
@@ -10,5 +10,21 @@
     "locality": "Córdoba (Córdoba)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4294",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q48967536",
+  "aliases": [
+    "Cordobese Union",
+    "UCOR",
+    "Union Cordobesa",
+    "Unión Cordobesa"
+  ],
+  "founding": {
+    "date": "2011-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q48967536#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

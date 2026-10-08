@@ -10,5 +10,23 @@
     "locality": "Alcover (Tarragona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2773",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q110606472",
+  "aliases": [
+    "AC-PM",
+    "Alcoverencs pel Canvi",
+    "Alcoverencs pel Canvi-Progrés Municipal",
+    "ApC",
+    "ApCANVI"
+  ],
+  "website": "https://alcoverencspelcanvi.cat/",
+  "founding": {
+    "date": "1998-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q110606472#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

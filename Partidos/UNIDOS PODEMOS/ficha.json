@@ -2,7 +2,7 @@
   "id": "registro-5793",
   "name": "UNIDOS PODEMOS",
   "fullName": "UNIDOS PODEMOS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Coalición electoral en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5793",
     "name": "UNIDOS PODEMOS",
@@ -10,5 +10,35 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5793",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q24039754",
+  "aliases": [
+    "Elkarrekin Ahal Dugu",
+    "Podemos",
+    "Podemos-IU",
+    "Podemos-IU-Equo",
+    "Podemos–IU",
+    "Podemos–IU–Equo",
+    "Unidos Podemos",
+    "Units Podem"
+  ],
+  "website": "https://lasonrisadeunpais.es/",
+  "founding": {
+    "date": "2016-05-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q24039754#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2023-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q24039754#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

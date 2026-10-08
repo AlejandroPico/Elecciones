@@ -2,7 +2,7 @@
   "id": "registro-3844",
   "name": "AMF",
   "fullName": "ASAMBLEAS MUNICIPALES DE FUERTEVENTURA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3844",
     "name": "ASAMBLEAS MUNICIPALES DE FUERTEVENTURA",
@@ -10,5 +10,9 @@
     "locality": "Puerto del Rosario (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3844",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q122189761",
+  "aliases": [
+    "Asambleas Municipales de Fuerteventura"
+  ]
 }

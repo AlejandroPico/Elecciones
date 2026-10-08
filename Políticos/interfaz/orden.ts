@@ -73,6 +73,7 @@ export function activityOf(p: Person) {
 }
 export function orderPeople(list: Person[], order: Order) {
   return [...list].sort((a, b) => {
+    if (order === "name") return (a.fullName ?? a.name).localeCompare(b.fullName ?? b.name, "es");
     const x = activityOf(a),
       y = activityOf(b);
     let comparison = 0;
@@ -86,6 +87,7 @@ export function orderPeople(list: Person[], order: Order) {
   });
 }
 export function matchesPerson(p: Person, query: string, partyName = "") {
+  if (!query.trim()) return true;
   return normalize(
     [
       p.name,

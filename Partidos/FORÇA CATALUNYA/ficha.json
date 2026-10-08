@@ -10,5 +10,18 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3889",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q101786464",
+  "aliases": [
+    "Força Catalunya"
+  ],
+  "founding": {
+    "date": "2009-05-04",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q101786464#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

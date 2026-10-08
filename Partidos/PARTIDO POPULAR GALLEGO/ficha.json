@@ -10,5 +10,31 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=164",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3322574",
+  "aliases": [
+    "Galician People's Party",
+    "PPG",
+    "Partido Popular Galego",
+    "Partido Popular Gallego",
+    "Partit Popular Gallec"
+  ],
+  "founding": {
+    "date": "1976-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3322574#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3322574#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

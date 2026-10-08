@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "84-3",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=84&idLegislatura=III",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "8424e7ea732a2331e0551d036639d00b2b133523ef7d24c5418fcdc76c43e559",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "11585",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=2&id1=11585",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "84cf7f20230c22cb61c551c2a3824d5daa90660e7a2329cf96074952b5a949db",
+    "error": null
+  }
+]

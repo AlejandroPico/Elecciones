@@ -10,5 +10,19 @@
     "locality": "Mazarrón (Murcia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4175",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q125885338",
+  "aliases": [
+    "Unió Independent de Massarró",
+    "Unión Independiente de Mazarrón"
+  ],
+  "founding": {
+    "date": "2011-01-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q125885338#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "id": "registro-4115",
   "name": "PIRATA.CAT",
   "fullName": "PIRATES DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4115",
     "name": "PIRATES DE CATALUNYA",
@@ -10,5 +10,27 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4115",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1578082",
+  "aliases": [
+    "PIRATA.CAT/XDT",
+    "PIRATES.CAT",
+    "Partido Pirata de Catalunya",
+    "Partit Pirata de Catalunya",
+    "Pirata.cat",
+    "Pirate Party of Catalonia",
+    "Pirates de Catalunya",
+    "Pirates de Catalunya - Per decidir-ho tot",
+    "Pirates de Catalunya – Per decidir-ho tot",
+    "Pirates of Catalonia"
+  ],
+  "founding": {
+    "date": "2010-10-04",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1578082#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

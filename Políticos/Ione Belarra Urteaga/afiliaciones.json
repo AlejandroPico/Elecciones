@@ -9,5 +9,65 @@
       "kind": "encyclopedic"
     },
     "period": "desde 2014"
+  },
+  {
+    "organization": "podemos",
+    "name": "PODEMOS",
+    "period": "2016-01-04 — 2016-07-19",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=93&idLegislatura=XI",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "UP",
+    "period": "2016-07-11 — 2019-05-21",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=181&idLegislatura=XII",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "UP",
+    "period": "2019-05-13 — 2019-12-03",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=138&idLegislatura=XIII",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "UP",
+    "period": "2019-11-22 — 2023-08-17",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=139&idLegislatura=XIV",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "sumar-coalicion-2023",
+    "name": "SUMAR",
+    "period": "Alta: 2023-08-11 · baja no indicada",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=262&idLegislatura=XV",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
   }
 ]

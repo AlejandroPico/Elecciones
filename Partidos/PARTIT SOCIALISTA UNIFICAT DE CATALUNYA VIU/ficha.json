@@ -2,7 +2,7 @@
   "id": "registro-1864",
   "name": "PSUC VIU",
   "fullName": "PARTIT SOCIALISTA UNIFICAT DE CATALUNYA VIU",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1864",
     "name": "PARTIT SOCIALISTA UNIFICAT DE CATALUNYA VIU",
@@ -10,5 +10,20 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1864",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q429078",
+  "aliases": [
+    "PSUC Viu",
+    "PSUC viu",
+    "Partit Socialista Unificat de Catalunya viu"
+  ],
+  "founding": {
+    "date": "1997-06-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q429078#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

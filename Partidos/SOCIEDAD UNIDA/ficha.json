@@ -10,5 +10,20 @@
     "locality": "Cuenca (Cuenca)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6752",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q139737597",
+  "aliases": [
+    "Sociedad Unida",
+    "Societat Unida"
+  ],
+  "website": "https://sociedadunida.es/",
+  "founding": {
+    "date": "2021-06-11",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q139737597#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

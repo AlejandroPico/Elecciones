@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "10079",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=4&id1=10079",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "chamber": "senado",
+    "key": "10079",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=4&id1=10079",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "09aa41ad8f714fe334175dbe2645fff9a1de2fcedca535edb1c804a237d5b78e",
+    "error": null
+  }
+]

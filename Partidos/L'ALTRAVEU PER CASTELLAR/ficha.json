@@ -10,5 +10,19 @@
     "locality": "Castellar del Vallès (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4313",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20108298",
+  "aliases": [
+    "L'Altraveu per Castellar",
+    "L’AxC"
+  ],
+  "founding": {
+    "date": "2007-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20108298#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

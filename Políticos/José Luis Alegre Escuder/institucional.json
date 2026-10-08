@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "10534",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=7&id1=10534",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "chamber": "senado",
+    "key": "10534",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=7&id1=10534",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "231291bf603e6cb25c9263b6f84393938509d7c7b5d0321755db4593e3030c62",
+    "error": null
+  }
+]

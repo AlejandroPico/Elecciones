@@ -10,5 +10,25 @@
     "locality": "Zamora (Zamora)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=468",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3781331",
+  "aliases": [
+    "PREPAL",
+    "Partido Regionalista del Pais Leones",
+    "Partido Regionalista del Pais Leonés",
+    "Partido Regionalista del País Leones",
+    "Partido Regionalista del País Leonés",
+    "Partit Regionalista del País Lleonès",
+    "Regionalist Party of the Leonese Country",
+    "Salamanca-Zamora-León PREPAL"
+  ],
+  "founding": {
+    "date": "1980-09-18",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3781331#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

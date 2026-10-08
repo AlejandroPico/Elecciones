@@ -10,5 +10,26 @@
     "locality": "Burgos (Burgos)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3532",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8196665",
+  "aliases": [
+    "ACAL",
+    "ACAL (Alternativa por Castilla y Leon)",
+    "ACAL (Alternativa por Castilla y León)",
+    "Acal",
+    "Acal (alternativa por castilla y leon)",
+    "Alternativa por Castilla y Leon",
+    "Alternativa por Castilla y León",
+    "Alternativa por castilla y leon",
+    "Alternativa por castilla y león"
+  ],
+  "founding": {
+    "date": "2007-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8196665#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

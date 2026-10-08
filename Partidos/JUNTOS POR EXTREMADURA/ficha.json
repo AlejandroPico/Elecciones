@@ -10,5 +10,20 @@
     "locality": "Cáceres (Cáceres)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6816",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q120400645",
+  "aliases": [
+    "JUEX",
+    "Juntos por Extremadura",
+    "Junts per Extremadura"
+  ],
+  "founding": {
+    "date": "2021-11-30",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q120400645#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,20 @@
     "locality": "Lugo (Lugo)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=822",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3391800",
+  "aliases": [
+    "Galicia Unida",
+    "Galícia Unida",
+    "Partido Galicia Unida"
+  ],
+  "founding": {
+    "date": "1986-12-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3391800#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

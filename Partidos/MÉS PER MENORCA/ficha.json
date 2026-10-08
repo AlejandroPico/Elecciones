@@ -2,7 +2,7 @@
   "id": "registro-6162",
   "name": "MxMe",
   "fullName": "MÉS PER MENORCA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6162",
     "name": "MÉS PER MENORCA",
@@ -10,5 +10,20 @@
     "locality": "Ma¿-Mah¿n (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6162",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20101171",
+  "aliases": [
+    "Més Menorca",
+    "Més per Menorca"
+  ],
+  "website": "https://www.mespermenorca.cat/",
+  "founding": {
+    "date": "2014-07-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20101171#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

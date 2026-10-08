@@ -1,0 +1,38 @@
+[
+  {
+    "organization": null,
+    "name": "US-PSP",
+    "period": "1977-07-04 — 1979-01-02",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=221&idLegislatura=C",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "1979-03-20 — 1982-08-31",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=323&idLegislatura=I",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "1982-11-05 — 1984-10-26",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=8&idLegislatura=II",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  }
+]

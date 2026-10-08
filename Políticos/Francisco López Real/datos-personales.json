@@ -1,0 +1,19 @@
+{
+  "birthDate": "1913-04-27",
+  "birthYear": 1913,
+  "birth": "27/04/1913",
+  "personalSources": [
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=94&idLegislatura=IV",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · datos personales",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10243-5.xml",
+      "kind": "institutional"
+    }
+  ],
+  "deathDate": "2004-05-07",
+  "deathYear": 2004
+}

@@ -6,11 +6,12 @@ import type { Plugin } from "vite";
 export function partyCatalogPlugin(): Plugin {
   const publicId = "virtual:partidos-fichas",
     resolvedId = "\0" + publicId;
-  let projectRoot = "";
+  let projectRoot = "", watching = false;
   return {
     name: "elecciones-partidos",
     configResolved(config) {
       projectRoot = config.root;
+      watching = config.command === "serve" && config.mode !== "test";
     },
     resolveId(id) {
       if (id === publicId) return resolvedId;
@@ -19,7 +20,7 @@ export function partyCatalogPlugin(): Plugin {
       if (id !== resolvedId) return;
       const directory = join(projectRoot, "Partidos");
       const folders = (await readdir(directory, { withFileTypes: true }))
-        .filter((d) => d.isDirectory() && d.name !== "interfaz")
+        .filter((d) => d.isDirectory() && !["interfaz", "herramientas", "revisiones"].includes(d.name))
         .sort((a, b) => a.name.localeCompare(b.name, "es"));
       const files: Record<string, unknown> = {};
       for (let offset = 0; offset < folders.length; offset += 64) {
@@ -27,13 +28,13 @@ export function partyCatalogPlugin(): Plugin {
           folders.slice(offset, offset + 64).map(async (folder) => {
             const path = join(directory, folder.name);
             for (const name of (await readdir(path)).filter((n) =>
-              n.endsWith(".json"),
+              ["ficha.json", "fuentes.json", "historia.json", "dirigentes.json", "programas.json", "logotipo.json", "resultados.json", "documentacion.json"].includes(n),
             )) {
               const file = join(path, name);
               files[`../${folder.name}/${name}`] = JSON.parse(
                 await readFile(file, "utf8"),
               );
-              this.addWatchFile(file);
+              if (watching) this.addWatchFile(file);
             }
           }),
         );

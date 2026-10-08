@@ -10,5 +10,20 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6615",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64777691",
+  "aliases": [
+    "Democratic League",
+    "Liga Democrática",
+    "Lliga Democràtica"
+  ],
+  "founding": {
+    "date": "2019-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64777691#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,19 @@
     "locality": "Sant Josep de sa Talaia (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4172",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q111628492",
+  "aliases": [
+    "Alternativa Insular"
+  ],
+  "website": "https://ahoranotequejes.es/",
+  "founding": {
+    "date": "2010-11-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q111628492#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

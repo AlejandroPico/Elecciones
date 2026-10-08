@@ -2,7 +2,7 @@
   "id": "registro-234",
   "name": "ESTAT CATALA",
   "fullName": "ESTAT CATALA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "234",
     "name": "ESTAT CATALA",
@@ -10,5 +10,24 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=234",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3042973",
+  "aliases": [
+    "Acció Municipal Democràtica",
+    "Estado Catalan",
+    "Estado Catalán",
+    "Estat Catala",
+    "Estat Català",
+    "Estat Catalá"
+  ],
+  "website": "https://www.estatcatala.cat/",
+  "founding": {
+    "date": "1922-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3042973#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

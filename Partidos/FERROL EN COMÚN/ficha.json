@@ -10,5 +10,19 @@
     "locality": "Ferrol (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5488",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20054885",
+  "aliases": [
+    "Ferrol en Comun",
+    "Ferrol en Común"
+  ],
+  "founding": {
+    "date": "2015-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20054885#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

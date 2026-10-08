@@ -1,0 +1,38 @@
+[
+  {
+    "organization": null,
+    "name": "PSdeG-PSOE-progresistas",
+    "period": "2000-03-30 — 2004-01-20",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=326&idLegislatura=VII",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "PsdeG-PSOE",
+    "period": "2004-03-26 — 2008-01-15",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=211&idLegislatura=VIII",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "2008-03-26 — 2011-12-13",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=243&idLegislatura=IX",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  }
+]

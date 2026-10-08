@@ -2,7 +2,7 @@
   "id": "registro-71",
   "name": "CDC",
   "fullName": "CONVERGÈNCIA DEMOCRÀTICA DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "71",
     "name": "CONVERGÈNCIA DEMOCRÀTICA DE CATALUNYA",
@@ -10,5 +10,37 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=71",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1129443",
+  "aliases": [
+    "CDC",
+    "Convergencia",
+    "Convergencia Democratica de Catalunya",
+    "Convergencia Democràtica de Catalunya",
+    "Convergencia Democrática de Catalunya",
+    "Convergencia Democrática de Cataluña",
+    "Convergència",
+    "Convergència Democràtica",
+    "Convergència Democràtica de Catalunya",
+    "Democratic Convergence of Catalonia",
+    "Kataluniako Konbergentzia Demokratikoa"
+  ],
+  "founding": {
+    "date": "1974-11-17",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1129443#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2016-07-08",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1129443#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

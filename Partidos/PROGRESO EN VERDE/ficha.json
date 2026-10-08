@@ -2,7 +2,7 @@
   "id": "registro-6640",
   "name": "PEV",
   "fullName": "PROGRESO EN VERDE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español ecologista y animalista. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6640",
     "name": "PROGRESO EN VERDE",
@@ -10,5 +10,20 @@
     "locality": "Palma (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6640",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q115379031",
+  "aliases": [
+    "PEV",
+    "Progreso en Verde"
+  ],
+  "website": "http://progresoenverde.es/",
+  "founding": {
+    "date": "2020-03-03",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q115379031#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

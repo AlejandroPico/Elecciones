@@ -1,0 +1,98 @@
+[
+  {
+    "organization": null,
+    "name": "CP",
+    "period": "1986-07-07 — 1989-09-02",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=66&idLegislatura=III",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "1996-03-15 — 2000-01-18",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=123&idLegislatura=VI",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular (pp)",
+    "period": "1991-07-10 — 1993-04-13",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular (pp)",
+    "period": "1995-07-12 — 1996-03-12",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular (pp)",
+    "period": "1991-07-10 — 1995-07-11",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular (Pp)",
+    "period": "1991-07-10 — 1993-04-13",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular (Pp)",
+    "period": "1995-07-12 — 1996-03-12",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular (Pp)",
+    "period": "1991-07-10 — 1995-07-11",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  }
+]

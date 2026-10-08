@@ -12,5 +12,24 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1765",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q885433",
+  "aliases": [
+    "BNG",
+    "Bloc Nacionalista Galego",
+    "Bloc Nacionalista Gallec",
+    "Bloque Nacionalista Galego",
+    "Bloque Nacionalista Gallego",
+    "Galician Nationalist Bloc",
+    "Galiziako Bloke Nazionalista"
+  ],
+  "founding": {
+    "date": "1982-09-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q885433#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

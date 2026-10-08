@@ -10,5 +10,28 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=548",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q46958648",
+  "aliases": [
+    "Christian Democracy",
+    "Democracia Cristiana"
+  ],
+  "founding": {
+    "date": "1978-02-05",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q46958648#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q46958648#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

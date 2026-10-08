@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "305-14",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=305&idLegislatura=XIV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0abd2b4eea38890bf095900e49d39515d8f6824b46e575265947ba0ba3335bf9",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "14445",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=14445",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "f391fd19ffb47dca9cfb023a5db320b665916e98af5af8f225c224b9c012a92a",
+    "error": null
+  }
+]

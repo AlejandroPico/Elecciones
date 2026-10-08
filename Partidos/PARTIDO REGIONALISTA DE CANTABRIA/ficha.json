@@ -2,7 +2,7 @@
   "id": "registro-362",
   "name": "P.R.C.",
   "fullName": "PARTIDO REGIONALISTA DE CANTABRIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "362",
     "name": "PARTIDO REGIONALISTA DE CANTABRIA",
@@ -11,5 +11,27 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=362",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://prc.es/"
+  "website": "https://prc.es/",
+  "wikidata": "Q2366462",
+  "aliases": [
+    "Kantabriako Alderdi Erregionalista",
+    "PRC",
+    "Partido Regionalista Cantabro",
+    "Partido Regionalista Cántabro",
+    "Partido Regionalista de Cantabria",
+    "Partido Regionalista de Cantabria、PRC",
+    "Partido Rexionalista Cántabro",
+    "Partido Rexionalista de Cantabria",
+    "Partit Regionalista de Cantàbria",
+    "Regionalist Party of Cantabria"
+  ],
+  "founding": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2366462#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

@@ -2,7 +2,7 @@
   "id": "registro-4061",
   "name": "ESOS",
   "fullName": "EIVISSA SOSTENIBLE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de ámbito ibicenco nacido en abril de 2010. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4061",
     "name": "EIVISSA SOSTENIBLE",
@@ -10,5 +10,19 @@
     "locality": "Sant Josep de sa Talaia (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4061",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q113004975",
+  "aliases": [
+    "ESOS",
+    "Eivissa Sostenible"
+  ],
+  "founding": {
+    "date": "2010-04-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q113004975#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

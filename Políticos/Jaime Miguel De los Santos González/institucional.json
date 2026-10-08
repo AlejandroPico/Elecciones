@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "270-15",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=270&idLegislatura=XV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "254949aa480437b053d8c9b0bc27d6bd78bc93b88bafa82608a3993ae02bf33d",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "19506",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=19506",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "af24bb5bc05f94c3b278fbf25cb9546e7f78e1f8a85f003511229f6945ae9e83",
+    "error": null
+  }
+]

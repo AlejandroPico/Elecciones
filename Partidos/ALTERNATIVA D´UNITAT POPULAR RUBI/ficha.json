@@ -10,5 +10,21 @@
     "locality": "Rubí (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7191",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q96140674",
+  "aliases": [
+    "AUP",
+    "Alternativa d'Unitat Popular",
+    "Alternativa d'Unitat Popular Rubí"
+  ],
+  "website": "https://www.auprubi.cat",
+  "founding": {
+    "date": "2014-10-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q96140674#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

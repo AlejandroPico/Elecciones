@@ -2,7 +2,7 @@
   "id": "registro-287",
   "name": "A.C.",
   "fullName": "ACCION COMUNISTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "287",
     "name": "ACCION COMUNISTA",
@@ -10,5 +10,30 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=287",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8186928",
+  "aliases": [
+    "Accion Comunista",
+    "Accion comunista",
+    "Acció Comunista",
+    "Acción Comunista"
+  ],
+  "founding": {
+    "date": "1964-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8186928#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8186928#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

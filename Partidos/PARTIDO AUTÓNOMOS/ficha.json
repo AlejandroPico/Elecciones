@@ -10,5 +10,22 @@
     "locality": "Torremolinos (Málaga)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6681",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q106350745",
+  "aliases": [
+    "PARTIDO AUTÓNOMOS",
+    "Partido Autónomos",
+    "Partit Autònoms",
+    "Self-employed Party"
+  ],
+  "website": "https://www.partidoautonomos.es/",
+  "founding": {
+    "date": "2020-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q106350745#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

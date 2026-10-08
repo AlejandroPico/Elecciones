@@ -2,7 +2,7 @@
   "id": "registro-1154",
   "name": "CIUDADANOS PORTUENSES",
   "fullName": "CIUDADANOS PORTUENSES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Antiguo partido político local. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1154",
     "name": "CIUDADANOS PORTUENSES",
@@ -10,5 +10,29 @@
     "locality": "Puerto de Santa María, El (Cádiz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1154",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6447965",
+  "aliases": [
+    "CP",
+    "Ciudadanos Portuenses",
+    "IP"
+  ],
+  "founding": {
+    "date": "1991-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6447965#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2015-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6447965#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

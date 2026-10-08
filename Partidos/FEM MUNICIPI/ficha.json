@@ -10,5 +10,18 @@
     "locality": "Esterri d'Àneu (Lleida)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5403",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q108522684",
+  "aliases": [
+    "Fem Municipi"
+  ],
+  "founding": {
+    "date": "2015-04-01",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q108522684#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

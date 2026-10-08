@@ -2,7 +2,7 @@
   "id": "registro-3944",
   "name": "CDeI",
   "fullName": "CIUDADANOS DEMOCRATAS E INDEPENDIENTES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3944",
     "name": "CIUDADANOS DEMOCRATAS E INDEPENDIENTES",
@@ -10,5 +10,22 @@
     "locality": "Pozoblanco (Córdoba)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3944",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q28044920",
+  "aliases": [
+    "CDeI",
+    "Ciudadanos Democratas e Independientes",
+    "Ciudadanos Demócratas e Independientes",
+    "Partido Ciudadanos Democratas e Independientes",
+    "Partido Ciudadanos Demócratas e Independientes"
+  ],
+  "founding": {
+    "date": "2009-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q28044920#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

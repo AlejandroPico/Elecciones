@@ -2,7 +2,7 @@
   "id": "registro-4887",
   "name": "BDN",
   "fullName": "BLOC DEMOCRATIC NACIONAL",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político catalán presentado el 2013. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4887",
     "name": "BLOC DEMOCRATIC NACIONAL",
@@ -10,5 +10,15 @@
     "locality": "Besalú (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4887",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q64768632",
+  "aliases": [
+    "Bloc Democràtic Nacional",
+    "FNC",
+    "Frente Nacional de Cataluña",
+    "Front Nacional de Catalunya",
+    "Front Nacional de Catalunya (2013)",
+    "Front de Catalunya",
+    "Kataluniako Fronte Nazionala"
+  ]
 }

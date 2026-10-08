@@ -2,7 +2,7 @@
   "id": "registro-4321",
   "name": "FORO ASTURIAS",
   "fullName": "FORO ASTURIAS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4321",
     "name": "FORO ASTURIAS",
@@ -11,5 +11,27 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4321",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://foroasturias.es/"
+  "website": "https://foroasturias.es/",
+  "wikidata": "Q1437906",
+  "aliases": [
+    "Asturias Foroa",
+    "Asturias Forum",
+    "FAC",
+    "Foro Asturias",
+    "Foro Asturias Ciudadanos",
+    "Foro de Ciudadanos",
+    "Foru Asturies",
+    "Forum of Citizens",
+    "Fòrum Astúries",
+    "Fòrum de Ciutadans"
+  ],
+  "founding": {
+    "date": "2011-01-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1437906#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

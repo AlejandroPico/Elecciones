@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "223-14",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=223&idLegislatura=XIV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "ecf2b5fd0cb874279e74cfe01b2bc46615c13cbb53ce25a4e445368bdd5bb127",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "19900",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=19900",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "eff6f2a21e2eef9e5806aff11a06181a7b45d3d353f32f0b01638a2778779111",
+    "error": null
+  }
+]

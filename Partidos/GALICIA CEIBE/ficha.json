@@ -2,7 +2,7 @@
   "id": "registro-498",
   "name": "GALICIA CEIBE",
   "fullName": "GALICIA CEIBE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español independentista de ámbito gallego. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "498",
     "name": "GALICIA CEIBE",
@@ -10,5 +10,37 @@
     "locality": "Vigo (Pontevedra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=498",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3307639",
+  "aliases": [
+    "GC",
+    "GC-OLN",
+    "Galicia Ceibe",
+    "Galicia Ceibe-OLN",
+    "Galicia Ceive",
+    "Galicia Ceive OLN",
+    "Galicia Ceive-OLN",
+    "Galiza Ceibe-OLN",
+    "Galiza Ceive",
+    "Galiza Ceive OLN",
+    "Galiza Ceive-OLN"
+  ],
+  "founding": {
+    "date": "1980-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3307639#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1988-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3307639#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,26 @@
     "locality": "Sabadell (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4666",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3752759",
+  "aliases": [
+    "Corrent Roig",
+    "Corrente Vermella",
+    "Corriente Roja",
+    "Korronte Gorria",
+    "M.C.R.",
+    "MCR",
+    "Moviment Corrent Roig",
+    "Movimiento Corriente Roja"
+  ],
+  "website": "https://www.corrienteroja.net/",
+  "founding": {
+    "date": "2002-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3752759#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

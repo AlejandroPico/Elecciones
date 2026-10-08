@@ -2,7 +2,7 @@
   "id": "registro-7377",
   "name": "RECORTES CERO",
   "fullName": "RECORTES CERO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Candidatura electoral en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7377",
     "name": "RECORTES CERO",
@@ -10,5 +10,18 @@
     "locality": "Leganés (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7377",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q30596000",
+  "aliases": [
+    "Recortes Cero",
+    "Recortes Cero - Grup Verd",
+    "Recortes Cero - Grupo Verde",
+    "Recortes Cero-GV",
+    "Recortes Cero-Grupo Verde",
+    "Retallades Zero",
+    "Retallades Zero - Grup Verd",
+    "Zero Cuts - Green Group",
+    "Zero Murrizketa - Talde Berdea"
+  ],
+  "website": "https://recortesceroes.wordpress.com/"
 }

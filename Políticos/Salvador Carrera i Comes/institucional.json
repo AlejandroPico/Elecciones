@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "218-5",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=218&idLegislatura=V",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "3355b54b4594ca46cdfcbe66c9fe497745a38ec6b11501fcc60c8f5b968b340c",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10029",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=6&id1=10029",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "2129c258dad1adcd021c2a32bfe3997bc22f97d8273042d4fef794f7977b3e0e",
+    "error": null
+  }
+]

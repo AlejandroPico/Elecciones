@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowLeft,
   ArrowRight,
@@ -31,14 +31,18 @@ import {
   matchesAffiliation,
 } from "./vinculaciones";
 type Route = { kind: "person" | "party" | "office"; id: string };
+const organizationsById = new Map(organizations.map((o) => [o.id, o]));
+const options = affiliationOptions(people, organizations);
 export default function Archive({
   initialRoute,
   close,
   openParty,
+  onNavigate,
 }: {
   initialRoute?: Route;
   close?: () => void;
   openParty?: (id: string) => void;
+  onNavigate?: (route?: Route) => void;
 }) {
   const [order, setOrder] = useState<Order>("name");
   const [search, setSearch] = useState("");
@@ -47,7 +51,7 @@ export default function Archive({
     initialRoute ? [initialRoute] : [],
   );
   const heading = useRef<HTMLHeadingElement>(null);
-  const route = history.at(-1);
+  const route = onNavigate ? initialRoute : history.at(-1);
   const person = route?.kind === "person" ? findPerson(route.id) : undefined;
   const party =
     route?.kind === "party"
@@ -60,28 +64,31 @@ export default function Archive({
   const relatedParty = person
     ? organizations.find((p) => p.id === person.organization)
     : undefined;
-  const foundPeople = orderPeople(
+  const foundPeople = useMemo(() => orderPeople(
     people.filter(
       (p) =>
         matchesPerson(
           p,
           search,
-          organizations.find((o) => o.id === p.organization)?.fullName,
+          p.organization ? organizationsById.get(p.organization)?.fullName : undefined,
         ) && matchesAffiliation(p, filter),
     ),
     order,
-  );
+  ), [search, filter, order]);
   const { visibleCount, sentinel } = useInfiniteList(
     foundPeople.length,
-    `${search}|${filter}|${order}|${route?.id ?? ""}`,
+    `${search}|${filter}|${order}`,
+    40,
+    !route,
   );
   function go(kind: Route["kind"], id: string) {
-    setHistory((h) => [...h, { kind, id }]);
+    if (onNavigate) onNavigate({ kind, id });
+    else setHistory((h) => [...h, { kind, id }]);
   }
   useEffect(() => {
     if (route) {
       heading.current?.focus({ preventScroll: true });
-      heading.current?.scrollIntoView({
+      if (!onNavigate) heading.current?.scrollIntoView({
         block: "nearest",
         behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
           ? "instant"
@@ -110,7 +117,7 @@ export default function Archive({
               onChange={(e) => setFilter(e.target.value)}
             >
               <option value="all">Todas las vinculaciones</option>
-              {affiliationOptions(people, organizations).map((o) => (
+              {options.map((o) => (
                 <option key={o.value} value={o.value}>
                   {o.label}
                 </option>
@@ -171,7 +178,7 @@ export default function Archive({
           <button
             className="text-button archive-back"
             onClick={() =>
-              history.length === 1 && close
+              onNavigate ? (close ? close() : onNavigate(undefined)) : history.length === 1 && close
                 ? close()
                 : setHistory((h) => h.slice(0, -1))
             }
@@ -305,6 +312,9 @@ export default function Archive({
                           <dd>{person.birth}</dd>
                         </div>
                       )}
+                      {person.birthNote && (
+                        <div><dt>Contraste de fuentes</dt><dd>{person.birthNote}</dd></div>
+                      )}
                       {person.deathYear ? (
                         <div>
                           <dt>Fallecimiento</dt>
@@ -321,7 +331,7 @@ export default function Archive({
                           </dd>
                         </div>
                       ) : (
-                        person.birthDate && (
+                        person.birthDate && ageAt(person.birthDate) <= 110 && (
                           <div>
                             <dt>Edad</dt>
                             <dd>{ageAt(person.birthDate)} años</dd>
@@ -345,6 +355,14 @@ export default function Archive({
                     {!!person.formationSources?.length && (
                       <Sources sources={person.formationSources} />
                     )}
+                  </article>
+                )}
+                {!!person.institutionalBiography?.length && (
+                  <article>
+                    <h3>Datos biográficos institucionales</h3>
+                    {person.institutionalBiography.map((item, i) => (
+                      <div key={i}><p>{item.text}</p><Sources sources={[item.source]} /></div>
+                    ))}
                   </article>
                 )}
                 {(person.summary || person.timeline.length > 0) && (
@@ -387,29 +405,24 @@ export default function Archive({
                   </article>
                 )}
                 {person.offices.map((id) => {
-                  const o = offices.find((o) => o.id === id)!;
+                  const o = offices.find((o) => o.id === id);
+                  if (!o) return null;
+                  const ownTerms = o.members.filter(
+                    (member) => findPerson(member.person)?.id === person.id,
+                  );
+                  if (!ownTerms.length) return null;
                   return (
                     <article key={id}>
                       <span className="eyebrow">RELACIONES POR CARGO</span>
                       <h3>{o.name}</h3>
-                      <div className="relation-nodes">
-                        {o.members.map((m, i) => (
-                          <button
-                            key={`${m.person}-${i}`}
-                            className={
-                              findPerson(m.person)?.id === person.id
-                                ? "current"
-                                : ""
-                            }
-                            disabled={findPerson(m.person)?.id === person.id}
-                            onClick={() => go("person", m.person)}
-                          >
+                      <ol className="political-timeline">
+                        {ownTerms.map((m, i) => (
+                          <li key={`${m.period}-${i}`}>
                             <span>{m.period}</span>
-                            <strong>{findPerson(m.person)?.name}</strong>
-                            <ArrowRight size={14} />
-                          </button>
+                            <h4>{o.name}</h4>
+                          </li>
                         ))}
-                      </div>
+                      </ol>
                     </article>
                   );
                 })}

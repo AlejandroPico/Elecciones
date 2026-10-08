@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "370-7",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=370&idLegislatura=VII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "b6cfedd56e7a49a3d9812c772f6ebf4259cb677eeac4eabcfc0fde25945c0a5f",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "17053",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=17053",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "17053",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=17053",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "9d08b01505b6ac07f9d3fb3a79cc8dd3b5ff4164f97950294e3047c87d6f8d07",
+    "error": null
+  }
+]

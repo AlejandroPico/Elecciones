@@ -10,5 +10,29 @@
     "locality": "Lugo (Lugo)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1805",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3328003",
+  "aliases": [
+    "Esquerda Nacionalista",
+    "Izquierda Nacionalista",
+    "Nationalist Left"
+  ],
+  "founding": {
+    "date": "1992-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328003#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2012-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328003#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

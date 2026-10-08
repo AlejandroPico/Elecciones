@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "320-10",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=320&idLegislatura=X",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "b7b1d6c1e95df16c41292d6979ea67249f3ae9ad9b4f77d988b73b28ce36849a",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10477",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=10477",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "642af582e9e89a4f68c6e6173664a8a46a3fff2579cbe07fed277c7d8e1b8e82",
+    "error": null
+  }
+]

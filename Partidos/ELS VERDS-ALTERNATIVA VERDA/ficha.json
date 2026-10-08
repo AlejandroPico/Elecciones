@@ -10,5 +10,22 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2248",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11919085",
+  "aliases": [
+    "EV-AV",
+    "Els Verds - Alternativa Verda",
+    "Els Verds – Alternativa Verda",
+    "Els Verds-Alternativa Verda",
+    "The Greens–Green Alternative"
+  ],
+  "founding": {
+    "date": "1999-09-09",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11919085#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

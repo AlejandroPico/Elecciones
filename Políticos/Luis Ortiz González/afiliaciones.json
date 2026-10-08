@@ -38,5 +38,77 @@
       "url": "https://es.wikipedia.org/wiki/Luis_Ortiz_Gonz%C3%A1lez",
       "kind": "encyclopedic"
     }
+  },
+  {
+    "organization": "registro-282",
+    "name": "UCD",
+    "period": "1982-11-10 — 1986-07-15",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=137&idLegislatura=II",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "CP",
+    "period": "1986-07-10 — 1989-09-02",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=263&idLegislatura=III",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "1993-06-21 — 1996-01-09",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=180&idLegislatura=V",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "1996-03-13 — 2000-04-05",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=51&idLegislatura=VI",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "2000-03-29 — 2004-04-02",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=295&idLegislatura=VII",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "Partido Popular",
+    "period": "1989-10-29 — 1993-06-28",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=4&id1=10105",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
   }
 ]

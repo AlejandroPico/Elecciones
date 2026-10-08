@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "69-3",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=69&idLegislatura=III",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "ad2351d9e41f1bb31535526f1d348ca19494581d6a761fc3d3aafaefd146fdbd",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "12107",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=0&id1=12107",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "9bd5407c25e8539fe4e2460aaf43ad94f0975a6df2c25dfa93b9f1d5934f27d8",
+    "error": null
+  }
+]

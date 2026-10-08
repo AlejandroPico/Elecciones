@@ -2,7 +2,7 @@
   "id": "registro-2547",
   "name": "G.I.A.L.",
   "fullName": "GRUPO INDEPENDIENTE POR ALMERIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito provincial. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2547",
     "name": "GRUPO INDEPENDIENTE POR ALMERIA",
@@ -10,5 +10,20 @@
     "locality": "Almería (Almería)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2547",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5484906",
+  "aliases": [
+    "GIAL",
+    "Grupo Independiente por Almeria",
+    "Grupo Independiente por Almería"
+  ],
+  "founding": {
+    "date": "2002-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5484906#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

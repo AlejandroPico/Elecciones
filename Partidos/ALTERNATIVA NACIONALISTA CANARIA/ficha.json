@@ -10,5 +10,21 @@
     "locality": "Agüimes (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3385",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5398117",
+  "aliases": [
+    "Alternativa Nacionalista Canaria",
+    "Alternativa Nacionalista Canària",
+    "Canarian Nationalist Alternative"
+  ],
+  "website": "https://alternativanacionalistacanaria.org/",
+  "founding": {
+    "date": "2007-02-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5398117#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

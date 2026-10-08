@@ -2,7 +2,7 @@
   "id": "registro-3779",
   "name": "UPYD",
   "fullName": "UNION PROGRESO Y DEMOCRACIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3779",
     "name": "UNION PROGRESO Y DEMOCRACIA",
@@ -10,5 +10,42 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3779",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1144342",
+  "aliases": [
+    "Batasuna, Aurrerapena eta Demokrazia",
+    "Progress and Democracy Union",
+    "UPD",
+    "UPYD",
+    "UPyD",
+    "Unidad Progreso y Democracia",
+    "Unidad, Progreso y Democracia",
+    "Union Progress and Democracy",
+    "Union, Progreso y Democracia",
+    "Union, Progress and Democracy",
+    "Unió Progrés i Democràcia",
+    "Unió, Progrés i Democràcia",
+    "Unión Progreso e Democracia",
+    "Unión Progreso y Democracia",
+    "Unión, Progreso e Democracia",
+    "Unión, Progreso y Democracia"
+  ],
+  "founding": {
+    "date": "2007-09-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1144342#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2020-12-06",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1144342#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

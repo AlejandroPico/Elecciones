@@ -10,5 +10,30 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1050",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9056464",
+  "aliases": [
+    "Nationalist Valencian Party",
+    "PVN",
+    "Partit Valencia Nacionalista",
+    "Partit Valencià Nacionalista"
+  ],
+  "founding": {
+    "date": "1990-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056464#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2000-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056464#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

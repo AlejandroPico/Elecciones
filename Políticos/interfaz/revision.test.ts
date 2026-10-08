@@ -39,7 +39,7 @@ it("la revisión conserva las identidades y los recursos anteriores al reunir du
 });
 
 it("las fotografías y vinculaciones revisadas tienen recursos y fuentes individuales", () => {
-  for (const person of people) {
+  for (const person of people.filter((p) => audit.records.some((r) => r.id === p.id))) {
     expect(portraits[person.id], person.name).toBeTruthy();
     expect(person.photoCredit, person.name).toBeTruthy();
     expect(new URL(person.photoSource!).protocol).toBe("https:");

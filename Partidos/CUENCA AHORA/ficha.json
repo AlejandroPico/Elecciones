@@ -10,5 +10,20 @@
     "locality": "Horcajo de Santiago (Cuenca)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7072",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q125885163",
+  "aliases": [
+    "Conca Ara",
+    "Cuenca Ahora"
+  ],
+  "website": "https://cuencaahora.org/",
+  "founding": {
+    "date": "2023-02-16",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q125885163#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,19 @@
     "locality": "Béjar (Salamanca)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5912",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q110949334",
+  "aliases": [
+    "Tu Hi Aportes",
+    "Tú Aportas"
+  ],
+  "founding": {
+    "date": "2017-09-07",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q110949334#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

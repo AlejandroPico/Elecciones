@@ -10,5 +10,21 @@
     "locality": "Vic (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1500",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q119686188",
+  "aliases": [
+    "E.I.O.",
+    "EIO",
+    "Entesa d'Independents d'Osona",
+    "Entesa dels Independents d'Osona"
+  ],
+  "founding": {
+    "date": "1995-08-02",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q119686188#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

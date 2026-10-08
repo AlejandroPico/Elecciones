@@ -2,7 +2,7 @@
   "id": "registro-4733",
   "name": "CxG",
   "fullName": "COMPROMISO POR GALICIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito gallego. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4733",
     "name": "COMPROMISO POR GALICIA",
@@ -10,5 +10,22 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4733",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8348855",
+  "aliases": [
+    "Commitment to Galicia",
+    "Compromiso por Galicia",
+    "Compromiso por Galicia.",
+    "Compromís per Galícia",
+    "CxG"
+  ],
+  "founding": {
+    "date": "2012-05-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8348855#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

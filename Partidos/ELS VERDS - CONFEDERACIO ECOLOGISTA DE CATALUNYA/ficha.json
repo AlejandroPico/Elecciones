@@ -10,5 +10,25 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1391",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11919086",
+  "aliases": [
+    "EV-CEC",
+    "Els Verds (Confederació Ecologista de Catalunya)",
+    "Els Verds - Confederacio Ecologista de Catalunya",
+    "Els Verds - Confederació Ecologista de Catalunya",
+    "Els Verds-CEC",
+    "Els Verds-Confederació Ecologista de Catalunya",
+    "Els Verds–Confederació Ecologista de Catalunya",
+    "The Greens–Ecologist Confederation of Catalonia"
+  ],
+  "founding": {
+    "date": "1994-03-04",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11919086#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

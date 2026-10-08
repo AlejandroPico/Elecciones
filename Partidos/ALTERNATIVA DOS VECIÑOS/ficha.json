@@ -10,5 +10,20 @@
     "locality": "Oleiros (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1204",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5666553",
+  "aliases": [
+    "Alternativa dos Veciños",
+    "Neighbors' Alternative"
+  ],
+  "website": "https://alternativadosvecinos.org/",
+  "founding": {
+    "date": "1983-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5666553#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

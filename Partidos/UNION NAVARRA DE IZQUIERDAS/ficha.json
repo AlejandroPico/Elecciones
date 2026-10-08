@@ -2,7 +2,7 @@
   "id": "registro-363",
   "name": "U.N.A.I.",
   "fullName": "UNION NAVARRA DE IZQUIERDAS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de izquierdas en Navarra. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "363",
     "name": "UNION NAVARRA DE IZQUIERDAS",
@@ -10,5 +10,34 @@
     "locality": "Barañáin/Barañain (Navarra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=363",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9091762",
+  "aliases": [
+    "Navarrese Left Union",
+    "UNAI",
+    "Union Navarra de Izquierda",
+    "Union Navarra de Izquierdas",
+    "Unió Navarresa d'Esquerres",
+    "Unió Navarresa d’Esquerres",
+    "Unión Navarra de Izquierda",
+    "Unión Navarra de Izquierdas"
+  ],
+  "founding": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9091762#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1982-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9091762#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

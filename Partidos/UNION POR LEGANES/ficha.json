@@ -11,5 +11,21 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2700",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.uleg.net/"
+  "website": "https://www.uleg.net/",
+  "wikidata": "Q6157189",
+  "aliases": [
+    "Union por Leganes",
+    "Union por Leganés",
+    "Unió per Leganés",
+    "Unión por Leganés"
+  ],
+  "founding": {
+    "date": "2003-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6157189#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

@@ -10,5 +10,20 @@
     "locality": "Argentona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4790",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q134301783",
+  "aliases": [
+    "Tots per Argentona",
+    "TxA"
+  ],
+  "website": "https://totsperargentona.cat/",
+  "founding": {
+    "date": "2006-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q134301783#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "id": "registro-7150",
   "name": "PLRi",
   "fullName": "POR LA RIOJA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político regionalista de La Rioja (España). La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7150",
     "name": "POR LA RIOJA",
@@ -10,5 +10,21 @@
     "locality": "Logroño (Rioja, La)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7150",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q135670238",
+  "aliases": [
+    "PRLI",
+    "PRLi",
+    "Por La Rioja"
+  ],
+  "website": "https://porlarioja.com/",
+  "founding": {
+    "date": "2023-02-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q135670238#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

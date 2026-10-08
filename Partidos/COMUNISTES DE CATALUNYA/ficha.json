@@ -2,7 +2,7 @@
   "id": "registro-526",
   "name": "COMUNISTES.CAT",
   "fullName": "COMUNISTES DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político comunista catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "526",
     "name": "COMUNISTES DE CATALUNYA",
@@ -10,5 +10,24 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=526",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q19833223",
+  "aliases": [
+    "C*",
+    "Communists of Catalonia",
+    "Comunistas de Cataluña",
+    "Comunistes de Catalunya",
+    "K*",
+    "Kataluniako Komunistak"
+  ],
+  "website": "https://comunistes.cat/",
+  "founding": {
+    "date": "2014-11-01",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q19833223#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

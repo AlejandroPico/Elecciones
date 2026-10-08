@@ -2,7 +2,7 @@
   "id": "registro-5059",
   "name": "MDyC",
   "fullName": "MOVIMIENTO POR LA DIGNIDAD Y LA CIUDADANÍA DE CEUTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político progresista español, de ámbito ceutí. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5059",
     "name": "MOVIMIENTO POR LA DIGNIDAD Y LA CIUDADANÍA DE CEUTA",
@@ -10,5 +10,23 @@
     "locality": "Ceuta (Ceuta)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5059",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q25383737",
+  "aliases": [
+    "MDyC",
+    "Movement for Dignity and Citizenship",
+    "Moviment per la Dignitat i la Ciutadania de Ceuta",
+    "Movimiento por la Dignidad y la Ciudadanía",
+    "Movimiento por la Dignidad y la Ciudadanía de Ceuta"
+  ],
+  "website": "https://www.mdycceuta.com/",
+  "founding": {
+    "date": "2014-10-27",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q25383737#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

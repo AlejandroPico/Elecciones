@@ -2,7 +2,7 @@
   "id": "registro-7402",
   "name": "IZQESP",
   "fullName": "IZQUIERDA ESPAÑOLA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7402",
     "name": "IZQUIERDA ESPAÑOLA",
@@ -10,5 +10,26 @@
     "locality": "Morata de Tajuña (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7402",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q124168370",
+  "aliases": [
+    "El Jacobino",
+    "Espainiako Ezkerra",
+    "Esquerda Española",
+    "Esquerra Espanyola",
+    "Gaztelania Ezkerra",
+    "IE",
+    "IZQESP",
+    "IzqEsp",
+    "Izquierda Española"
+  ],
+  "founding": {
+    "date": "2023-12-27",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q124168370#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

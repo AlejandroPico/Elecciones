@@ -10,5 +10,21 @@
     "locality": "Molins de Rei (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5556",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q66087977",
+  "aliases": [
+    "Unidos Sí",
+    "Unidos por la Solidaridad Internacional",
+    "United Yes",
+    "Units Sí"
+  ],
+  "founding": {
+    "date": "2015-07-03",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q66087977#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

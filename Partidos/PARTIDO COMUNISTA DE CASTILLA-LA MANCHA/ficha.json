@@ -2,7 +2,7 @@
   "id": "registro-798",
   "name": "PARTIDO COMUNISTA DE CASTILLA-LA MANCHA",
   "fullName": "PARTIDO COMUNISTA DE CASTILLA-LA MANCHA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "798",
     "name": "PARTIDO COMUNISTA DE CASTILLA-LA MANCHA",
@@ -10,5 +10,19 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=798",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5154376",
+  "aliases": [
+    "Communist Party of Castile-La Mancha",
+    "Partido Comunista de Castilla - La Mancha"
+  ],
+  "founding": {
+    "date": "1921-11-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5154376#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

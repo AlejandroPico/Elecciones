@@ -10,5 +10,27 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1890",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20106586",
+  "aliases": [
+    "Front pel País Valencià"
+  ],
+  "founding": {
+    "date": "1998-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20106586#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2000-07-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20106586#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

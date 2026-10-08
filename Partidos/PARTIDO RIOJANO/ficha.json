@@ -2,7 +2,7 @@
   "id": "registro-605",
   "name": "PR+",
   "fullName": "PARTIDO RIOJANO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de La Rioja, España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "605",
     "name": "PARTIDO RIOJANO",
@@ -11,5 +11,20 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=605",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.partidoriojano.es/"
+  "website": "https://www.partidoriojano.es/",
+  "wikidata": "Q507226",
+  "aliases": [
+    "Partido Riojano",
+    "Riojan Party",
+    "Union por La Rioja"
+  ],
+  "founding": {
+    "date": "1982-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q507226#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

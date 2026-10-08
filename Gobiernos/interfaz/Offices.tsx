@@ -5,13 +5,17 @@ import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
 import { Portrait } from "../../Políticos/interfaz/Retrato";
 export default function Offices({
   openPerson,
+  selectedOffice,
+  openOffice,
 }: {
   openPerson: (id: string) => void;
+  selectedOffice?: string;
+  openOffice?: (id?: string) => void;
 }) {
   const [search, setSearch] = useState("");
   const [group, setGroup] = useState("all");
   const [selected, setSelected] = useState<string | null>(null);
-  const office = offices.find((o) => o.id === selected);
+  const office = offices.find((o) => o.id === (openOffice ? selectedOffice : selected));
   const priority = [
     "Gobierno",
     "Cortes Generales",
@@ -37,7 +41,7 @@ export default function Offices({
         <>
           <button
             className="text-button archive-back"
-            onClick={() => setSelected(null)}
+            onClick={() => openOffice ? openOffice() : setSelected(null)}
           >
             <ArrowLeft size={16} />
             Volver a cargos
@@ -130,7 +134,7 @@ export default function Offices({
                   <h2>{g}</h2>
                   <div className="office-list">
                     {found.map((o) => (
-                      <button key={o.id} onClick={() => setSelected(o.id)}>
+                      <button key={o.id} onClick={() => openOffice ? openOffice(o.id) : setSelected(o.id)}>
                         <span>
                           {o.name}
                           {o.department && <em>{o.department}</em>}

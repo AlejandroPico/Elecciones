@@ -1,0 +1,26 @@
+[
+  {
+    "organization": "registro-2425",
+    "name": "CIU",
+    "period": "1993-06-21 — 1996-03-27",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=222&idLegislatura=V",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "Unió Democràtica de Catalunya",
+    "period": "2000-03-12 — 2002-11-20",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=7&id1=10032",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  }
+]

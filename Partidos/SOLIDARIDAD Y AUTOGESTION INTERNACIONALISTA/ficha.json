@@ -10,5 +10,21 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2959",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63759527",
+  "aliases": [
+    "Nazioarteko Elkartasuna eta Autogestioa",
+    "SAIn",
+    "Solidaridad y Autogestión Internacionalista",
+    "Solidaritat i Autogestió Internacionalista"
+  ],
+  "founding": {
+    "date": "2004-03-31",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63759527#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

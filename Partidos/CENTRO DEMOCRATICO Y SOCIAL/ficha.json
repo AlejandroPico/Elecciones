@@ -2,7 +2,7 @@
   "id": "registro-560",
   "name": "C.D.S.",
   "fullName": "CENTRO DEMOCRATICO Y SOCIAL",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "560",
     "name": "CENTRO DEMOCRATICO Y SOCIAL",
@@ -10,5 +10,34 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=560",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q788345",
+  "aliases": [
+    "CDS",
+    "Centre Democràtic i Social",
+    "Centro Democratico y Social",
+    "Centro Democrático y Social",
+    "Centro Democrático y Social (España)",
+    "Centro Democrático y Social de España",
+    "Democratic and Social Centre",
+    "Zentro Demokratiko eta Soziala"
+  ],
+  "founding": {
+    "date": "1982-07-20",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q788345#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2006-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q788345#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

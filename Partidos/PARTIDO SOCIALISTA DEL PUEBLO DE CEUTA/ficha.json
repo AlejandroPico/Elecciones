@@ -10,5 +10,19 @@
     "locality": "Ceuta (Ceuta)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=752",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3328775",
+  "aliases": [
+    "Partido Socialista del Pueblo de Ceuta",
+    "Socialist Party of the People of Ceuta"
+  ],
+  "founding": {
+    "date": "1985-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328775#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

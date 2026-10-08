@@ -2,7 +2,7 @@
   "id": "registro-7196",
   "name": "VF-NG / VFN-Gurea",
   "fullName": "VOLUNTAD FORAL-NABARRA GUREA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en Navarra. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7196",
     "name": "VOLUNTAD FORAL-NABARRA GUREA",
@@ -10,5 +10,21 @@
     "locality": "Zizur Mayor/Zizur Nagusia (Navarra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7196",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q123347057",
+  "aliases": [
+    "Nabarra Gurea",
+    "Voluntad Foral",
+    "Voluntad Foral-Nabarra Gurea"
+  ],
+  "website": "https://www.voluntadforal-nabarragurea.com/",
+  "founding": {
+    "date": "2023-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q123347057#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

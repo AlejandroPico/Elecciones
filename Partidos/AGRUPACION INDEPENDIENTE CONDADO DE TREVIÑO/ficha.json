@@ -2,7 +2,7 @@
   "id": "registro-3028",
   "name": "A.I.C.T.",
   "fullName": "AGRUPACION INDEPENDIENTE CONDADO DE TREVIÑO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político burgalés que busca la anexión de Treviño por parte de Álava. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3028",
     "name": "AGRUPACION INDEPENDIENTE CONDADO DE TREVIÑO",
@@ -10,5 +10,21 @@
     "locality": "Condado de Treviño (Burgos)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3028",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5660107",
+  "aliases": [
+    "AICT",
+    "Agrupación Independiente Condado de Treviño",
+    "Independent Group of the Condado de Treviño",
+    "Vasquistas treviñeses"
+  ],
+  "founding": {
+    "date": "1991-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5660107#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

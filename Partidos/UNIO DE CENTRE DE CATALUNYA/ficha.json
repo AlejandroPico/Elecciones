@@ -2,7 +2,7 @@
   "id": "registro-334",
   "name": "U.C.C.",
   "fullName": "UNIO DE CENTRE DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "334",
     "name": "UNIO DE CENTRE DE CATALUNYA",
@@ -10,5 +10,37 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=334",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9091698",
+  "aliases": [
+    "Centre Union of Catalonia",
+    "Unio de Centre Catala",
+    "Unio de Centre Català",
+    "Unio de Centre de Catalunya",
+    "Unio del Centre de Catalunya",
+    "Uniò de Centre Catala",
+    "Uniò de Centre Català",
+    "Uniò de Centre de Catalunya",
+    "Unió de Centre de Catalunya",
+    "Unió del Centre de Catalunya",
+    "Unión de Centro de Cataluña"
+  ],
+  "founding": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9091698#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1981-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9091698#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,18 @@
     "locality": "Barrios, Los (Cádiz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5873",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q135087812",
+  "aliases": [
+    "Los Barrios 100x100"
+  ],
+  "founding": {
+    "date": "2015-06-15",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q135087812#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

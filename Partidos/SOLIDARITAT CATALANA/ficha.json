@@ -10,5 +10,28 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=448",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5798106",
+  "aliases": [
+    "Catalan Solidarity",
+    "Solidaritat Catalana"
+  ],
+  "founding": {
+    "date": "1980-02-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5798106#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1980-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5798106#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

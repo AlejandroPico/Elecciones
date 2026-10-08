@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "10468",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=7&id1=10468",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "84da5200a9c973489688adbe131ee7ca5bd4c7d2590743808e669accd58c9507",
+    "error": null
+  },
+  {
+    "chamber": "congreso",
+    "key": "22-1",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=22&idLegislatura=I",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "e2bed864b9d7f6def150a88e1e5223d2152aa821ceb197e66362f94fef9dc90a",
+    "error": null
+  }
+]

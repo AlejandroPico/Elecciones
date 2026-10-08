@@ -10,5 +10,20 @@
     "locality": "Cambre (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3895",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q18417068",
+  "aliases": [
+    "Union por Cambre",
+    "Unión por Cambre"
+  ],
+  "website": "https://www.unionxcambre.com/",
+  "founding": {
+    "date": "2009-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q18417068#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

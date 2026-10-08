@@ -2,7 +2,7 @@
   "id": "registro-4777",
   "name": "EL PI",
   "fullName": "EL PI - PROPOSTA PER LES ILLES BALEARS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en las Baleares. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4777",
     "name": "EL PI - PROPOSTA PER LES ILLES BALEARS",
@@ -11,5 +11,23 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4777",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.el-pi.com/"
+  "website": "https://www.el-pi.com/",
+  "wikidata": "Q173240",
+  "aliases": [
+    "El Pi",
+    "El Pi-Proposta per les Illes Balears",
+    "Proposal for the Islands",
+    "Proposta per les Illes",
+    "Proposta per les Illes Balears",
+    "Propuesta por las Islas"
+  ],
+  "founding": {
+    "date": "2012-12-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q173240#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

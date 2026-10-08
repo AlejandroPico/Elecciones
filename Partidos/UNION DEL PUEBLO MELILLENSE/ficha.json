@@ -10,5 +10,29 @@
     "locality": "Melilla (Melilla)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=721",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6157182",
+  "aliases": [
+    "Melillan People's Union",
+    "Union del Pueblo Melillense",
+    "Unión del Pueblo Melillense"
+  ],
+  "founding": {
+    "date": "1985-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6157182#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2003-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6157182#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

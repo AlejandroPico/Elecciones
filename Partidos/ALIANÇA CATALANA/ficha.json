@@ -2,7 +2,7 @@
   "id": "registro-6659",
   "name": "ALIANÇA.CAT",
   "fullName": "ALIANÇA CATALANA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político independentista catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6659",
     "name": "ALIANÇA CATALANA",
@@ -11,5 +11,22 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6659",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://aliancacatalana.cat/"
+  "website": "https://aliancacatalana.cat/",
+  "wikidata": "Q100407262",
+  "aliases": [
+    "AC",
+    "Aliança Catalana",
+    "Aliança.cat",
+    "Catalan Alliance",
+    "Katalan Aliantza"
+  ],
+  "founding": {
+    "date": "2020-07-20",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q100407262#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

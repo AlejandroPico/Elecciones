@@ -10,5 +10,29 @@
     "locality": "Zaragoza (Zaragoza)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=665",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3573170",
+  "aliases": [
+    "Moviment Nacionalista Aragonès",
+    "Movimiento Nacionalista Aragones",
+    "Movimiento Nacionalista Aragonés"
+  ],
+  "founding": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3573170#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1983-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3573170#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

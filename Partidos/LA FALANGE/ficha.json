@@ -2,7 +2,7 @@
   "id": "registro-2061",
   "name": "FE",
   "fullName": "LA FALANGE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2061",
     "name": "LA FALANGE",
@@ -10,5 +10,23 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2061",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9018531",
+  "aliases": [
+    "FE La Falange",
+    "FE-La Falange",
+    "FE/La Falange",
+    "La Falange",
+    "La Falange (FE)"
+  ],
+  "website": "https://lafalange.org/",
+  "founding": {
+    "date": "1999-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9018531#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "337-0",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=337&idLegislatura=C",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "760a03fba7a44dc9c46dd9a343bb9a7233449edba0ab8c6ebfdff613757f9ed1",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10823",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=3&id1=10823",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "e9bb3c5981be0ee43d3df5d659dcaad3a45ea6f3c9519c57a1344e80eaaf2868",
+    "error": null
+  }
+]

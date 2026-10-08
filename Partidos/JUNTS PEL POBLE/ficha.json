@@ -10,5 +10,19 @@
     "locality": "Bisbal d'Empordà, La (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6107",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64017494",
+  "aliases": [
+    "Junts pel Poble",
+    "JxPoble-JUNTS"
+  ],
+  "founding": {
+    "date": "2018-11-30",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64017494#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

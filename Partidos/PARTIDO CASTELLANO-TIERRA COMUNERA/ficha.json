@@ -2,7 +2,7 @@
   "id": "registro-3867",
   "name": "PCAS-TC",
   "fullName": "PARTIDO CASTELLANO-TIERRA COMUNERA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3867",
     "name": "PARTIDO CASTELLANO-TIERRA COMUNERA",
@@ -10,5 +10,22 @@
     "locality": "Burgos (Burgos)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3867",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6063925",
+  "aliases": [
+    "Castilian Party-Commoners' Land",
+    "PCAS-TC",
+    "Partido Castellano-Terra Comuneira",
+    "Partido Castellano-Tierra Comunera"
+  ],
+  "website": "https://partidocastellano.org/",
+  "founding": {
+    "date": "2009-01-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6063925#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

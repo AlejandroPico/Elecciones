@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "111-9",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=111&idLegislatura=IX",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "4a25ed37aa5895f89904e567647dd65f3af05ccc9a6fc43c105717f29bd768ad",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10422",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=6&id1=10422",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "67c63e1fefcbb8867b2fb6cf303953cd0dfa97935d9338d75ee33a4638b084d6",
+    "error": null
+  }
+]

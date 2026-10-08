@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "16968",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=13&id1=16968",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "16968",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=13&id1=16968",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "f38fd86271ffbd8b72db09d522cfcf9abf908365ada54d1dfd60c4761664a74e",
+    "error": null
+  }
+]

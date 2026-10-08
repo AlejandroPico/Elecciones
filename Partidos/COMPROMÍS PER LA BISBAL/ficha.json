@@ -10,5 +10,22 @@
     "locality": "Bisbal d'Empordà, La (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5484",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63485739",
+  "aliases": [
+    "Compromís per la Bisbal",
+    "Compromís per la Bisbal-Junts per Catalunya",
+    "Compromís x la Bisbal",
+    "CxLB",
+    "CxLB-JxCAT-JUNTS"
+  ],
+  "founding": {
+    "date": "2015-04-09",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63485739#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

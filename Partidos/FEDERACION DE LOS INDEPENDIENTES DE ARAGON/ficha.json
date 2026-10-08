@@ -10,5 +10,22 @@
     "locality": "Zaragoza (Zaragoza)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3128",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5857408",
+  "aliases": [
+    "Federacion de Independientes de Aragon",
+    "Federació dels Independents d'Aragó",
+    "Federación de los Independientes de Aragón",
+    "Federation of Independents of Aragon"
+  ],
+  "website": "http://www.fia-independientes.es/",
+  "founding": {
+    "date": "2006-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5857408#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

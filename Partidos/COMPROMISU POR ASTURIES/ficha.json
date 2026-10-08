@@ -2,7 +2,7 @@
   "id": "registro-4878",
   "name": "CxAsturies",
   "fullName": "COMPROMISU POR ASTURIES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Formación política de ámbito asturiano. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4878",
     "name": "COMPROMISU POR ASTURIES",
@@ -10,5 +10,27 @@
     "locality": "Oviedo (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4878",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5780151",
+  "aliases": [
+    "Compromisu por Asturies"
+  ],
+  "founding": {
+    "date": "2012-06-23",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5780151#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2014-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5780151#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

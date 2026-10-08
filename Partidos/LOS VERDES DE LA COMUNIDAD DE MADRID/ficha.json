@@ -10,5 +10,21 @@
     "locality": "San Sebastián de los Reyes (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=815",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q7738243",
+  "aliases": [
+    "Los Verdes Comunidad de Madrid",
+    "Los Verdes de la Comunidad de Madrid",
+    "Los Verdes-Comunidad de Madrid",
+    "The Greens of the Madrid Community"
+  ],
+  "founding": {
+    "date": "1995-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q7738243#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

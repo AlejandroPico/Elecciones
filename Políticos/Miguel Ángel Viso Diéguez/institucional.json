@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "103-12",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=103&idLegislatura=XII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0a57a50a24a8f7b4471cd21aab63e4373672376085a01ed828afea9b64a67882",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "18123",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18123",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "779039cf46ba7727717d9e575885a56d9729085ec36f3b0803ad81ecff900fd3",
+    "error": null
+  }
+]

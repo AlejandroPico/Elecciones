@@ -10,5 +10,19 @@
     "locality": "Zaragoza (Zaragoza)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3586",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6063929",
+  "aliases": [
+    "Partido Ciudadanos Unidos de Aragon",
+    "Partido Ciudadanos Unidos de Aragón"
+  ],
+  "founding": {
+    "date": "2007-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6063929#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

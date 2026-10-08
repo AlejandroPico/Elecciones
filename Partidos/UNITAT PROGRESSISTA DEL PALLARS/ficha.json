@@ -10,5 +10,20 @@
     "locality": "Esterri d'Àneu (Lleida)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2228",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q119686027",
+  "aliases": [
+    "U.P.D.P.",
+    "UPDP",
+    "Unitat Progressista del Pallars"
+  ],
+  "founding": {
+    "date": "1999-04-27",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q119686027#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

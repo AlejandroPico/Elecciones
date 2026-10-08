@@ -8,5 +8,29 @@
       "url": "https://es.wikipedia.org/wiki/Isabel_Cela%C3%A1",
       "kind": "encyclopedic"
     }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "2019-05-16 — 2019-09-24",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=272&idLegislatura=XIII",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "registro-1356",
+    "name": "PSE-EE-PSOE",
+    "period": "2019-11-28 — 2020-02-21",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=299&idLegislatura=XIV",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
   }
 ]

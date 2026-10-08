@@ -2,7 +2,7 @@
   "id": "registro-411",
   "name": "PFE",
   "fullName": "PARTIDO FEMINISTA DE ESPAÑA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político feminista. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "411",
     "name": "PARTIDO FEMINISTA DE ESPAÑA",
@@ -10,5 +10,24 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=411",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3395152",
+  "aliases": [
+    "Espainiako Alderdi Feminista",
+    "Feminist Party of Spain",
+    "PFE",
+    "Partido Feminista de Espana",
+    "Partido Feminista de España",
+    "Partit Feminista d'Espanya"
+  ],
+  "website": "https://partidofeminista.es/",
+  "founding": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3395152#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

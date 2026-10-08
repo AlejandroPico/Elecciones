@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1055",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q107613638",
+  "aliases": [
+    "CRC",
+    "Centre Radical de Catalunya"
+  ],
+  "founding": {
+    "date": "1991-01-10",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q107613638#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

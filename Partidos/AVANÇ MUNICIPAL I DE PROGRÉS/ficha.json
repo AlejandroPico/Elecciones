@@ -10,5 +10,19 @@
     "locality": "Badalona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5382",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63887022",
+  "aliases": [
+    "AvMP",
+    "Avanç Municipal i de Progrés"
+  ],
+  "founding": {
+    "date": "2015-04-08",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63887022#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

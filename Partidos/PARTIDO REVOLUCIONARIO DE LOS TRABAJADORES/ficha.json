@@ -2,7 +2,7 @@
   "id": "registro-1586",
   "name": "P.R.T.",
   "fullName": "PARTIDO REVOLUCIONARIO DE LOS TRABAJADORES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español fundado en 1994 y disuelto en 2001. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1586",
     "name": "PARTIDO REVOLUCIONARIO DE LOS TRABAJADORES",
@@ -10,5 +10,13 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1586",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q9056307",
+  "aliases": [
+    "PRT",
+    "Partido Revolucionario de los Trabajadores",
+    "Partido Revolucionario de los Trabajadores (Espana)",
+    "Partit Revolucionari dels Treballadors",
+    "Workers' Revolutionary Party"
+  ]
 }

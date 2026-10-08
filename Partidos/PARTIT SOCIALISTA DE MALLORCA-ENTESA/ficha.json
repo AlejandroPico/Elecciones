@@ -2,7 +2,7 @@
   "id": "registro-120",
   "name": "PSM-ENTESA",
   "fullName": "PARTIT SOCIALISTA DE MALLORCA-ENTESA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito mallorquín. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "120",
     "name": "PARTIT SOCIALISTA DE MALLORCA-ENTESA",
@@ -10,5 +10,30 @@
     "locality": "Palma (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=120",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1232624",
+  "aliases": [
+    "PSM-Entesa",
+    "PSM-eV",
+    "Partido Socialista de Mallorca",
+    "Partit Socialista de Mallorca",
+    "Partit Socialista de Mallorca Entesa Nacionalista",
+    "Partit Socialista de Mallorca Esquerra Nacionalista",
+    "Partit Socialista de Mallorca Nacionalistes de Mallorca",
+    "Partit Socialista de Mallorca-Entesa",
+    "Partit Socialista de Mallorca-Entesa Nacionalista",
+    "Partit Socialista de Mallorca-Esquerra Nacionalista",
+    "Partit Socialista de Mallorca-Nacionalistes de Mallorca",
+    "Partit Socialista de les Illes",
+    "Socialist Party of Majorca"
+  ],
+  "founding": {
+    "date": "1977-03-28",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1232624#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

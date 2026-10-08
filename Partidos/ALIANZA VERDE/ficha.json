@@ -2,7 +2,7 @@
   "id": "registro-6770",
   "name": "ALIANZA VERDE",
   "fullName": "ALIANZA VERDE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido ecologista y ecosocialista de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6770",
     "name": "ALIANZA VERDE",
@@ -11,5 +11,22 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6770",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://alianzaverde.es/"
+  "website": "https://alianzaverde.es/",
+  "wikidata": "Q107181558",
+  "aliases": [
+    "Aliantza Berdea",
+    "Aliantza Berdea (Espainia)",
+    "Alianza Verde",
+    "Aliança Verda",
+    "Green Alliance"
+  ],
+  "founding": {
+    "date": "2021-06-10",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q107181558#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

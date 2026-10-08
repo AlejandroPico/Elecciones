@@ -10,5 +10,35 @@
     "locality": "Vigo (Pontevedra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=172",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3327308",
+  "aliases": [
+    "AN-PG",
+    "ANPG",
+    "An pg",
+    "Asamblea Nacional Popular Galega",
+    "Asamblea Nacional-Popular Galega",
+    "Asemblea Nacional Popular Galega",
+    "Asemblea Nacional-Popular Galega",
+    "Asemblea nacional popular galega",
+    "Galician National-Popular Assembly"
+  ],
+  "founding": {
+    "date": "1975-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3327308#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1982-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3327308#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

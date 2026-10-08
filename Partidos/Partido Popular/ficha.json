@@ -12,5 +12,27 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=244",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q185088",
+  "aliases": [
+    "Alderdi Popularra",
+    "Espainiako Alderdi Popular",
+    "Espainiako Alderdi Popularra",
+    "PP",
+    "Partido Popular",
+    "Partit Popular",
+    "Partit Popular d'Espanya",
+    "Partit Popular espanyol",
+    "People's Party",
+    "populares"
+  ],
+  "founding": {
+    "date": "1989-01-20",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q185088#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

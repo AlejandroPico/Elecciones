@@ -10,5 +10,21 @@
     "locality": "Torroella de Montgrí (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4098",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64495238",
+  "aliases": [
+    "COET",
+    "Coordinadora COET",
+    "Coordinadora L'Estartit i Torroella",
+    "L'Estartit and Torroella Coordinator"
+  ],
+  "founding": {
+    "date": "2010-11-05",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64495238#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

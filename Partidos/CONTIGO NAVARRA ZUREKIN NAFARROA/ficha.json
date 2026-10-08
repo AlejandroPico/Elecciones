@@ -10,5 +10,21 @@
     "locality": "Burlada/Burlata (Navarra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7037",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q113138142",
+  "aliases": [
+    "Contigo Navarra",
+    "Contigo Navarra-Zurekin Nafarroa",
+    "Zurekin Nafarroa"
+  ],
+  "website": "https://contigozurekin.org/",
+  "founding": {
+    "date": "2022-07-02",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q113138142#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

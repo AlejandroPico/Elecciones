@@ -2,7 +2,7 @@
   "id": "registro-6927",
   "name": "ALM",
   "fullName": "ALMERIENSES - REGIONALISTAS PRO ALMERÍA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Almería. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6927",
     "name": "ALMERIENSES - REGIONALISTAS PRO ALMERÍA",
@@ -10,5 +10,23 @@
     "locality": "Almería (Almería)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6927",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q113652737",
+  "aliases": [
+    "Almeriencs–Regionalistes pro-Almeria",
+    "Almerienses",
+    "Almerienses- Regionalistas pro Almería",
+    "Almerienses-Regionalistas pro Almería",
+    "Almerienses–Regionalists for Almería"
+  ],
+  "website": "https://www.proalmerienses.es/",
+  "founding": {
+    "date": "2022-06-17",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q113652737#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

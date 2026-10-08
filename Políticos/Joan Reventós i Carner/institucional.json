@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "175-1",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=175&idLegislatura=I",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0a3af64484c26e52912fb0055eba2430ac05165420792277375df9d11dd9235c",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10355",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=5&id1=10355",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "df6e95974e22fd0a71a4bc462c627c021f1d4187e88fba441965097c651678ca",
+    "error": null
+  }
+]

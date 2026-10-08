@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "225-13",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=225&idLegislatura=XIII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "d0a88a2229340a727cf55144b89cc02885304aca065698db8868dffa0a067667",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "19325",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=19325",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "19325",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=19325",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "4028e408a4f84687e54b3de6d5c7146b1c436da064b9bc337555c7a965c501bb",
+    "error": null
+  }
+]

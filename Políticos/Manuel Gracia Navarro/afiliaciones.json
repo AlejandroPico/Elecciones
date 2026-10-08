@@ -1,0 +1,86 @@
+[
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "1979-03-15 — 1982-06-17",
+    "kind": "association",
+    "source": {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=151&idLegislatura=I",
+      "kind": "institutional"
+    },
+    "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "Partido Socialista Obrero Español (psoe)",
+    "period": "1977-06-15 — 1979-01-02",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10402-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Partido Socialista Obrero Español (psoe)",
+    "period": "1990-07-30 — 1993-04-13",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10402-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": null,
+    "name": "Partido Socialista Obrero Español de Andalucía (psoe-a)",
+    "period": "1990-07-30 — 1994-08-07",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10402-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Partido Socialista Obrero Español (Psoe)",
+    "period": "1977-06-15 — 1979-01-02",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10402-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Partido Socialista Obrero Español (Psoe)",
+    "period": "1990-07-30 — 1993-04-13",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10402-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": null,
+    "name": "Partido Socialista Obrero Español de Andalucía (Psoe-A)",
+    "period": "1990-07-30 — 1994-08-07",
+    "kind": "membership",
+    "source": {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10402-5.xml",
+      "kind": "institutional"
+    },
+    "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  }
+]

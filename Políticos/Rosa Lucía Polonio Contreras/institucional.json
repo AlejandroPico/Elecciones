@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "196-8",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=196&idLegislatura=VIII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "f7a21d7f7f3965999410339fa5a77731de52ef2a2d70ff74a30f9d671af0391d",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "15545",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15545",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "3e0856b0c7a415c4dbb7c852b58e6a0ad32b06dbd8bba03f291dc36c041e6afe",
+    "error": null
+  }
+]

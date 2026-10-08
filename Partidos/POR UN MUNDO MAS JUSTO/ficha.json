@@ -2,7 +2,7 @@
   "id": "registro-2940",
   "name": "MUNDO+JUSTO",
   "fullName": "POR UN MUNDO MAS JUSTO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2940",
     "name": "POR UN MUNDO MAS JUSTO",
@@ -10,5 +10,33 @@
     "locality": "Mérida (Badajoz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2940",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3325935",
+  "aliases": [
+    "Bidezko Mundurantz",
+    "Bidezko Mundurantz-Por un Mundo Mas Justo",
+    "Bidezko Mundurantz-Por un Mundo Más Justo",
+    "For a Fairer World",
+    "M+J",
+    "PUM+J",
+    "Partido por un Mundo mas Justo",
+    "Partido por un Mundo más Justo",
+    "Per un Mon Mes Just",
+    "Per un Món Més Just",
+    "Per un món més just",
+    "Por un Mundo Más Justo",
+    "Por un Mundo mas Justo",
+    "Por un Mundo máis Xusto",
+    "Por un Mundo más Justo"
+  ],
+  "website": "https://www.porunmundomasjusto.es/",
+  "founding": {
+    "date": "2004-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3325935#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

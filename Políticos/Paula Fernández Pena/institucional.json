@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "379-15",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=379&idLegislatura=XV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "61d8354c50996847d5fa89682a575c902cf8b465d022ea7146dc57c9a7ab539a",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "15905",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15905",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "9abd20861d7c856299db32b384112053e611c791d60a338950fc582baa8efe66",
+    "error": null
+  }
+]

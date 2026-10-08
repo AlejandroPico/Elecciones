@@ -2,7 +2,7 @@
   "id": "registro-758",
   "name": "U.P.L.",
   "fullName": "UNION DEL PUEBLO LEONES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido Político en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "758",
     "name": "UNION DEL PUEBLO LEONES",
@@ -11,5 +11,28 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=758",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.upl.es/"
+  "website": "https://www.upl.es/",
+  "wikidata": "Q3323345",
+  "aliases": [
+    "Leonese People's Union",
+    "Leongo herriaren batasuna",
+    "UPL",
+    "Union Leonesista",
+    "Union del Pueblo Leones",
+    "Union del Pueblo Leonés",
+    "Unió del Poble Lleonès",
+    "Unión Leonesista",
+    "Unión del Pueblo Leones",
+    "Unión del Pueblo Leonés",
+    "Unión do Pobo Leonés"
+  ],
+  "founding": {
+    "date": "1986-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3323345#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

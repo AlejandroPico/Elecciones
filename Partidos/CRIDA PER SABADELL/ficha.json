@@ -2,7 +2,7 @@
   "id": "registro-5300",
   "name": "CpSBD",
   "fullName": "CRIDA PER SABADELL",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Coalición asamblearia de izquierdas de Sabadell. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5300",
     "name": "CRIDA PER SABADELL",
@@ -10,5 +10,20 @@
     "locality": "Sabadell (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5300",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q23498852",
+  "aliases": [
+    "Crida per Sabadell",
+    "La Crida"
+  ],
+  "website": "https://cridapersabadell.cat/",
+  "founding": {
+    "date": "2014-11-24",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q23498852#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

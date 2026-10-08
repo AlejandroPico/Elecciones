@@ -2,7 +2,7 @@
   "id": "registro-315",
   "name": "PAR",
   "fullName": "PARTIDO ARAGONES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "315",
     "name": "PARTIDO ARAGONES",
@@ -11,5 +11,29 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=315",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.partidoaragones.es/"
+  "website": "https://www.partidoaragones.es/",
+  "wikidata": "Q2054574",
+  "aliases": [
+    "Aragonese Party",
+    "PAR",
+    "Partido Aragones",
+    "Partido Aragones Regionalista",
+    "Partido Aragonés",
+    "Partido Aragonés Regionalista",
+    "Partido aragones",
+    "Partido aragones regionalista",
+    "Partido aragonés",
+    "Partido aragonés regionalista",
+    "Partit Aragonès",
+    "Partit Aragonès Regionalista"
+  ],
+  "founding": {
+    "date": "1978-01-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2054574#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

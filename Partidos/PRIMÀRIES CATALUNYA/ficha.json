@@ -10,5 +10,18 @@
     "locality": "Moià (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6649",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q59489484",
+  "aliases": [
+    "Primàries Catalunya"
+  ],
+  "founding": {
+    "date": "2018-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q59489484#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

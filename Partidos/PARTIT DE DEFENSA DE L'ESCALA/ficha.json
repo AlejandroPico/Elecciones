@@ -10,5 +10,19 @@
     "locality": "Escala, L' (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2002",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q90005666",
+  "aliases": [
+    "Partit de Defensa de l'Escala",
+    "Partit en Defensa de l'Escala"
+  ],
+  "founding": {
+    "date": "1999-01-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q90005666#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

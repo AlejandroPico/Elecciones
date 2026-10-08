@@ -2,7 +2,7 @@
   "id": "registro-5185",
   "name": "PROCÉS CONSTITUENT",
   "fullName": "PROCÉS CONSTITUENT",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político nacionalista catalán en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5185",
     "name": "PROCÉS CONSTITUENT",
@@ -10,5 +10,22 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5185",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11942853",
+  "aliases": [
+    "Proceso Constituyente en Cataluña",
+    "Procés Constituent",
+    "Procés Constituent a Catalunya",
+    "Prozesu Konstituziogilea"
+  ],
+  "website": "https://www.procesconstituent.cat/",
+  "founding": {
+    "date": "2013-04-11",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11942853#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

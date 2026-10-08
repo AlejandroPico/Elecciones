@@ -2,7 +2,7 @@
   "id": "registro-5737",
   "name": "DEMÒCRATES",
   "fullName": "DEMÒCRATES DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito autonómico catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5737",
     "name": "DEMÒCRATES DE CATALUNYA",
@@ -11,5 +11,21 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5737",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.democrates.cat/"
+  "website": "https://www.democrates.cat/",
+  "wikidata": "Q20667002",
+  "aliases": [
+    "DC",
+    "Democrats of Catalonia",
+    "Demòcrates",
+    "Demòcrates de Catalunya"
+  ],
+  "founding": {
+    "date": "2015-07-12",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20667002#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

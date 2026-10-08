@@ -2,7 +2,7 @@
   "id": "registro-1729",
   "name": "D.N.",
   "fullName": "DEMOCRACIA NACIONAL",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de extrema derecha. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1729",
     "name": "DEMOCRACIA NACIONAL",
@@ -10,5 +10,21 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1729",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q603477",
+  "aliases": [
+    "Democracia Naciona",
+    "Democracia Nacional",
+    "National Democracy"
+  ],
+  "website": "https://www.democracianacional.es/",
+  "founding": {
+    "date": "1995-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q603477#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

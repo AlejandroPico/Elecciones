@@ -10,5 +10,19 @@
     "locality": "Escorial, El (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7428",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q125884890",
+  "aliases": [
+    "Espacio Amplio",
+    "Espai Ample"
+  ],
+  "founding": {
+    "date": "2024-04-11",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q125884890#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

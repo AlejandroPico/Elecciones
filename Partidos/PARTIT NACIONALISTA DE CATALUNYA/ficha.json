@@ -2,7 +2,7 @@
   "id": "registro-318",
   "name": "P.N.C.",
   "fullName": "PARTIT NACIONALISTA DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "318",
     "name": "PARTIT NACIONALISTA DE CATALUNYA",
@@ -10,5 +10,26 @@
     "locality": "Girona (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=318",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q94143183",
+  "aliases": [
+    "Kataluniako Alderdi Nazionalista",
+    "NPC",
+    "National Party of Catalonia",
+    "Nationalist Party of Catalonia",
+    "PNC",
+    "Partido Nacionalista de Cataluña",
+    "Partit Nacionalista de Catalunya",
+    "PnC"
+  ],
+  "website": "https://www.pnc.cat/",
+  "founding": {
+    "date": "2020-04-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q94143183#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

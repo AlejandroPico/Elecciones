@@ -10,5 +10,28 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=314",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9056142",
+  "aliases": [
+    "Nationalist Party of Castile and León",
+    "PANCAL",
+    "Partido Autonomico Nacionalista de Castilla y Leon",
+    "Partido Autonomico Nacionalista de Castilla y León",
+    "Partido Autonómico Nacionalista de Castilla y León",
+    "Partido Nacionalista de Castilla y Leon",
+    "Partido Nacionalista de Castilla y León",
+    "Partido Nacionalista de Castilla y León-Unión Reformista Ciudadana",
+    "Partido Nacionalista de Castilla-León",
+    "Partit Autonòmic Nacionalista de Castella-Lleó",
+    "Partit Nacionalista de Castella i Lleó-Unió Reformista Ciutadana"
+  ],
+  "founding": {
+    "date": "1978-03-28",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056142#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

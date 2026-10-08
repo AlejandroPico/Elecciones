@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "351-10",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=351&idLegislatura=X",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "d55c14bbde4198ea50fa8244ba48d59c83066995a12ef41e94ca38e11e8fd6f9",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10414",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=6&id1=10414",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "b8d813d9715a491dc15677b3154fcfe77ab13c8c60ac5929c7f232686aee91af",
+    "error": null
+  }
+]

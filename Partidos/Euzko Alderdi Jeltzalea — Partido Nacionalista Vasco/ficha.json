@@ -12,5 +12,43 @@
     "locality": "Bilbao (Bizkaia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=170",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q43093",
+  "aliases": [
+    "Alderdi Jeltzalea",
+    "Basque Nationalist Party",
+    "Comunion Nacionalista Vasca",
+    "Comunión Nacionalista Vasca",
+    "EAJ",
+    "EAJ - PNB",
+    "EAJ PNV",
+    "EAJ-PNB",
+    "EAJ-PNV",
+    "EAJ/PNB",
+    "EAJ/PNV",
+    "Euskadi Europan",
+    "Eusko Alderdi Jeltzale",
+    "Eusko Alderdi Jeltzalea",
+    "Euzko Alderdi Jeltzale",
+    "Euzko Alderdi Jeltzalea",
+    "Euzko Alderdi Jeltzalea - Partido Nacionalista Vasco",
+    "Euzko Alderdi Jeltzalea Partido Nacionalista Vasco",
+    "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco",
+    "PNB",
+    "PNV",
+    "PNV EAJ",
+    "PNV-EAJ",
+    "Partido Nacionalista Vasco",
+    "Partido Nacionalista Vasco-Euzko Alderdi Jeltzalea",
+    "Partit Nacionalista Basc"
+  ],
+  "founding": {
+    "date": "1895-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q43093#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

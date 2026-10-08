@@ -10,5 +10,20 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=975",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9022916",
+  "aliases": [
+    "Green List",
+    "Lista Verde",
+    "Llista Verda"
+  ],
+  "founding": {
+    "date": "1989-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9022916#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

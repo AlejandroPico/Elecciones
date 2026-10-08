@@ -10,5 +10,32 @@
     "locality": "Ourense (Ourense)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=676",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3306652",
+  "aliases": [
+    "CG",
+    "Coalicion Galega",
+    "Coalició Gallega",
+    "Coalición Galega",
+    "Galician Coalition"
+  ],
+  "website": "https://coaliciongalega.webnode.es/",
+  "founding": {
+    "date": "1983-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3306652#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2012-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3306652#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

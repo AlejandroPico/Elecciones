@@ -2,7 +2,7 @@
   "id": "registro-7030",
   "name": "ANDALUSI",
   "fullName": "PARTIDO ANDALUSI",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7030",
     "name": "PARTIDO ANDALUSI",
@@ -10,5 +10,21 @@
     "locality": "Algeciras (Cádiz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7030",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q126959971",
+  "aliases": [
+    "Andalusi Party",
+    "Partido Andalusí",
+    "Partit Andalusí"
+  ],
+  "website": "https://partidoandalusi.wordpress.com/",
+  "founding": {
+    "date": "2023-03-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q126959971#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

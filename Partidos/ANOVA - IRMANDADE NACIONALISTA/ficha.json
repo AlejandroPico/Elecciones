@@ -2,7 +2,7 @@
   "id": "registro-4793",
   "name": "AINA",
   "fullName": "ANOVA - IRMANDADE NACIONALISTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español nacionalista gallego. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4793",
     "name": "ANOVA - IRMANDADE NACIONALISTA",
@@ -11,5 +11,20 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4793",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.anova.gal/"
+  "website": "https://www.anova.gal/",
+  "wikidata": "Q3327928",
+  "aliases": [
+    "ANOVA-Irmandade Nacionalista",
+    "Anova - Irmandade Nacionalista",
+    "Anova-Nationalist Brotherhood"
+  ],
+  "founding": {
+    "date": "2012-07-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3327928#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

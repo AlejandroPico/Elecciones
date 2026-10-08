@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "15244",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15244",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "5ae8ac57f007959c76e854100df298b6f6994f3df9e069a4216db96be40d40b7",
+    "error": null
+  },
+  {
+    "chamber": "congreso",
+    "key": "46-14",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=46&idLegislatura=XIV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "e229e0f1e3af9d377a0d1f915458c382bbd4c0ec6533dc7cbfc9be714ab4dccb",
+    "error": null
+  }
+]

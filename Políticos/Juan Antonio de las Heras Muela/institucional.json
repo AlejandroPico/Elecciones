@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "13930",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=13930",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "13930",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=13930",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "341e82808d1d00b67d75dea8c1d87b4f9c7b75179b8f25abd28b3956445217a1",
+    "error": null
+  }
+]

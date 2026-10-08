@@ -10,5 +10,20 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1410",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q119686409",
+  "aliases": [
+    "Federación de la Plataforma de los Independientes de España",
+    "PIE",
+    "Plataforma de los Independientes de España"
+  ],
+  "founding": {
+    "date": "1994-04-20",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q119686409#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

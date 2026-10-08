@@ -10,5 +10,21 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3791",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q67155366",
+  "aliases": [
+    "PDLPEA",
+    "Partido de los Pensionistas en Acción",
+    "Partit dels Pensionistes en Acció"
+  ],
+  "website": "https://partidodelospensionistasenaccion.wordpress.com/",
+  "founding": {
+    "date": "2007-11-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q67155366#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

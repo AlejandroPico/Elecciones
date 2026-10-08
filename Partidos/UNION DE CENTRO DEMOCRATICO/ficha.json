@@ -2,7 +2,7 @@
   "id": "registro-282",
   "name": "U.C.D.",
   "fullName": "UNION DE CENTRO DEMOCRATICO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "282",
     "name": "UNION DE CENTRO DEMOCRATICO",
@@ -10,5 +10,23 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=282",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q549209",
+  "aliases": [
+    "UCD",
+    "Union of the Democratic Centre",
+    "Unió de Centre Democràtic",
+    "Unión de Centro Democrático",
+    "Unión de Centro Democrático、UCD",
+    "Zentro Demokratikoaren Batasuna"
+  ],
+  "dissolution": {
+    "date": "1983-02-18",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q549209#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

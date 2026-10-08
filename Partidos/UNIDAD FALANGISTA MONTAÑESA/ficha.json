@@ -10,5 +10,19 @@
     "locality": "Santoña (Cantabria)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=435",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q7884819",
+  "aliases": [
+    "Unidad Falangista Montanesa",
+    "Unidad Falangista Montañesa"
+  ],
+  "founding": {
+    "date": "1980-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q7884819#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,18 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1821",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q69962235",
+  "aliases": [
+    "Esquerda Unida Galega"
+  ],
+  "founding": {
+    "date": "1997-09-01",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q69962235#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "4-1",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=4&idLegislatura=I",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "25f1ac3aaadb1c96be7473bd5cf95e4c8f42dd347702b54ee87293ccb49c35cf",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10535",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=6&id1=10535",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "chamber": "senado",
+    "key": "10535",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=6&id1=10535",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0c3056f58570e49e7ad509fa2f733c3288ba82184357a18e03731e70e7a787ae",
+    "error": null
+  }
+]

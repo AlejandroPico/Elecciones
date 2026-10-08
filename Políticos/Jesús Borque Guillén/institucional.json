@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "315-3",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=315&idLegislatura=III",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "fbe890e024092d6aeec521f47200a7b3a2078e132411683a288a4ea23f395bfa",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "11740",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=1&id1=11740",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "aa40e2485795a05215abfecb64bc7ebea0d7e8bd5ee7c5b6085376f16e6c84fd",
+    "error": null
+  }
+]

@@ -5,6 +5,7 @@ import { election, candidacies } from "../../Elecciones";
 import { organizations } from "./catalogo";
 import type { Organization } from "../../Políticos/interfaz/datos/tipos";
 import { useInfiniteList } from "../../src/app/useInfiniteList";
+import { compareParties, electoralResult, normalizeParty } from "./orden";
 function Tile({
   party,
   openParty,
@@ -46,39 +47,63 @@ export default function Programs({
 }) {
   const [query, setQuery] = useState("");
   const [province, setProvince] = useState("all");
+  const [order, setOrder] = useState("seats");
+  const [coverage, setCoverage] = useState("all");
   const confirmedIds = new Set(
     (candidacies as { organization: string }[]).map((c) => c.organization),
   );
-  const normal = (s: string) =>
-    s
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
-      .toLowerCase();
   const provinceOf = (p: Organization) =>
     p.registration?.locality.match(/\(([^()]+)\)$/)?.[1];
   const filtered = organizations.filter(
     (p) =>
-      normal(
-        `${p.name} ${p.fullName} ${p.registration?.locality ?? ""}`,
-      ).includes(normal(query).trim()) &&
-      (province === "all" || provinceOf(p) === province),
+      normalizeParty(
+        `${p.name} ${p.fullName} ${(p.aliases ?? []).join(" ")} ${p.registration?.locality ?? ""}`,
+      ).includes(normalizeParty(query).trim()) &&
+      (province === "all" || provinceOf(p) === province) &&
+      (coverage === "all" ||
+        (coverage === "seats" && (electoralResult(p)?.seats ?? 0) > 0) ||
+        (coverage === "votes" && electoralResult(p)?.seats === 0) ||
+        (coverage === "unknown" && !electoralResult(p)) ||
+        (coverage === "logo" && !!p.logo) ||
+        (coverage === "historical" && !!p.dissolution)),
   );
-  const confirmed = filtered.filter((p) => confirmedIds.has(p.id));
+  const confirmed = filtered.filter((p) => confirmedIds.has(p.id)).sort(compareParties(order));
   const others = filtered
     .filter((p) => !confirmedIds.has(p.id))
-    .sort(
-      (a, b) =>
-        Number(!!b.logo) - Number(!!a.logo) ||
-        a.fullName.localeCompare(b.fullName, "es"),
-    );
+    .sort(compareParties(order));
   const { visibleCount, sentinel } = useInfiniteList(
     others.length,
-    `${query}|${province}`,
+    `${query}|${province}|${order}|${coverage}`,
     60,
   );
   return (
     <>
-      <div className="programs-head">
+      <div className="party-controls">
+        <label className="archive-search">
+          <Search size={16} />
+          <input type="search" aria-label="Buscar partido" placeholder="Buscar partido o localidad" value={query} onChange={(e) => setQuery(e.target.value)} />
+        </label>
+        <select aria-label="Filtrar partidos por provincia de inscripción" value={province} onChange={(e) => setProvince(e.target.value)}>
+          <option value="all">Todas las provincias</option>
+          {[...new Set(organizations.map(provinceOf).filter(Boolean))].sort((a, b) => a!.localeCompare(b!, "es")).map((p) => <option key={p}>{p}</option>)}
+        </select>
+        <select aria-label="Filtrar partidos por información disponible" value={coverage} onChange={(e) => setCoverage(e.target.value)}>
+          <option value="all">Todos los partidos</option>
+          <option value="seats">Con escaños · generales 2023</option>
+          <option value="votes">Sin escaños · generales 2023</option>
+          <option value="unknown">Sin resultado incorporado</option>
+          <option value="logo">Con logotipo</option>
+          <option value="historical">Disolución documentada</option>
+        </select>
+        <select aria-label="Ordenar partidos" value={order} onChange={(e) => setOrder(e.target.value)}>
+          <option value="seats">Escaños · generales 2023</option>
+          <option value="votes">Votos · generales 2023</option>
+          <option value="oldest">Antigüedad · antiguos primero</option>
+          <option value="newest">Antigüedad · recientes primero</option>
+          <option value="name">Nombre · A–Z</option>
+        </select>
+      </div>
+      <div className="programs-head party-candidatures-head">
         <h2>Candidaturas de esta elección</h2>
         <a href={election.source} target="_blank" rel="noreferrer">
           Convocatoria · BOE <ArrowUpRight size={14} />
@@ -105,33 +130,10 @@ export default function Programs({
           Registro del Interior <ArrowUpRight size={14} />
         </a>
       </div>
-      <div className="party-controls">
-        <label className="archive-search">
-          <Search size={16} />
-          <input
-            type="search"
-            aria-label="Buscar partido"
-            placeholder="Buscar partido o localidad"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-          />
-        </label>
-        <select
-          aria-label="Filtrar partidos por provincia de inscripción"
-          value={province}
-          onChange={(e) => setProvince(e.target.value)}
-        >
-          <option value="all">Todas las provincias</option>
-          {[...new Set(organizations.map(provinceOf).filter(Boolean))]
-            .sort((a, b) => a!.localeCompare(b!, "es"))
-            .map((p) => (
-              <option key={p}>{p}</option>
-            ))}
-        </select>
-      </div>
       <p className="party-directory-note">
-        La inscripción no acredita actividad actual ni candidatura. Web y
-        logotipo se muestran cuando están documentados.
+        Escaños y votos: generales de 2023. Antigüedad: fundación documentada;
+        en su ausencia, inscripción. Las coaliciones conservan sus propios
+        resultados. La inscripción no acredita actividad actual ni candidatura.
       </p>
       <div className="logo-grid">
         {others.slice(0, visibleCount).map((p) => (

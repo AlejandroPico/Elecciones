@@ -10,5 +10,18 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5105",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q23807433",
+  "aliases": [
+    "Som Valencians"
+  ],
+  "founding": {
+    "date": "2014-12-03",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q23807433#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

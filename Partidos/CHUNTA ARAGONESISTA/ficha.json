@@ -2,7 +2,7 @@
   "id": "registro-810",
   "name": "CHA",
   "fullName": "CHUNTA ARAGONESISTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político nacionalista aragonés. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "810",
     "name": "CHUNTA ARAGONESISTA",
@@ -11,5 +11,28 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=810",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.chunta.org/"
+  "website": "https://www.chunta.org/",
+  "wikidata": "Q1089640",
+  "aliases": [
+    "C H A",
+    "C. H. A.",
+    "C.H.A.",
+    "CHA",
+    "ChA",
+    "Cha",
+    "Chunta",
+    "Chunta Aragonesista",
+    "Chunta aragonesista",
+    "Unidad Aragonesa Chunta Aragonesista",
+    "Unidad Aragonesa-Chunta Aragonesista"
+  ],
+  "founding": {
+    "date": "1986-06-29",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1089640#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

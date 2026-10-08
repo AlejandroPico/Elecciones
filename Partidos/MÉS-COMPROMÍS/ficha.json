@@ -2,7 +2,7 @@
   "id": "registro-1869",
   "name": "MÉS-COMPROMÍS",
   "fullName": "MÉS-COMPROMÍS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Federación de partidos española de ámbito valenciano. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1869",
     "name": "MÉS-COMPROMÍS",
@@ -10,5 +10,22 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1869",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q108047697",
+  "aliases": [
+    "More–Commitment",
+    "Més",
+    "Més - Compromís",
+    "Més Compromís"
+  ],
+  "website": "https://mes.compromis.net/",
+  "founding": {
+    "date": "2021-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q108047697#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

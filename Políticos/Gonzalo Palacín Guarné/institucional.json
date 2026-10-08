@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "321-12",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=321&idLegislatura=XII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "d0784d517b3c5b858d15598e884b4d85fe44a039818fe8e10c91b06b80b17e5a",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "18345",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18345",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "007a986b7d2dd79883e47ec96375bc77de6a9412f94cc0d3d0c06d0e68aa6169",
+    "error": null
+  }
+]

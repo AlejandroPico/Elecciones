@@ -10,5 +10,20 @@
     "locality": "Figueres (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6135",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q66087806",
+  "aliases": [
+    "CFi",
+    "Canviem Figueres",
+    "Canviem Figueres - Plataforma de Veïns pel Canvi"
+  ],
+  "founding": {
+    "date": "2018-11-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q66087806#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -101,12 +101,29 @@ function Hemicycle() {
 }
 export default function Governments({
   openPerson,
+  selectedSnapshot,
+  openGovernment,
+  active = true,
 }: {
   openPerson: (id: string) => void;
+  selectedSnapshot?: string;
+  openGovernment?: (id: string) => void;
+  active?: boolean;
 }) {
   const [mode, setMode] = useState<"governments" | "timeline">("governments");
-  const [position, setPosition] = useState(chronology.length - 1);
+  const [position, setPosition] = useState(() => {
+    const selected = chronology.findIndex((c) => c.id === selectedSnapshot);
+    return selected >= 0 ? selected : chronology.length - 1;
+  });
   const [playing, setPlaying] = useState(false);
+  useEffect(() => {
+    if (!active) { setPlaying(false); return; }
+    if (openGovernment) {
+      const next = chronology.findIndex((c) => c.id === selectedSnapshot);
+      setPosition(next >= 0 ? next : chronology.length - 1);
+      setPlaying(false);
+    }
+  }, [selectedSnapshot, active]);
   const current = chronology[position];
   const government = current.government;
   const president = current.members.find((m) => m.level === "president");
@@ -135,6 +152,7 @@ export default function Governments({
   function choose(id: string) {
     setPlaying(false);
     setPosition(chronology.findIndex((c) => c.id === id));
+    openGovernment?.(id);
   }
   const personNode = (m: Member, className = "") => {
     const p = findPerson(m.person);
@@ -142,7 +160,10 @@ export default function Governments({
       <button
         key={m.person + m.role}
         className={`government-node ${className}`}
-        onClick={() => openPerson(m.person)}
+        onClick={() => {
+          if (selectedSnapshot !== current.id) openGovernment?.(current.id);
+          openPerson(m.person);
+        }}
         aria-label={`Ficha de ${p?.name ?? m.name}, ${m.role}`}
       >
         <div className="government-portrait">

@@ -10,5 +10,18 @@
     "locality": "Ourense (Ourense)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5855",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q61380628",
+  "aliases": [
+    "Adelante"
+  ],
+  "founding": {
+    "date": "2017-01-09",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q61380628#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

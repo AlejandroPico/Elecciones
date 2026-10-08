@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "270-9",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=270&idLegislatura=IX",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "c84482b1f42d9abadf3b840502a936e5df4d65de6d27468c1e4ead60fe681006",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "19061",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=19061",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "19061",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=19061",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "bca5f7a0086aa85225c5e4733b992f236b4c313760ad9d2e0f89b0783b7a17de",
+    "error": null
+  }
+]

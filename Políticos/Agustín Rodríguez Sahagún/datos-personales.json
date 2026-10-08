@@ -1,7 +1,7 @@
 {
-  "birthDate": "1932-03-27",
+  "birthDate": "1932-04-27",
   "birthYear": 1932,
-  "birth": "27 de marzo de 1932 · Ávila",
+  "birth": "27/04/1932",
   "personalSources": [
     {
       "label": "Agustín Rodríguez Sahagún · Wikipedia",
@@ -17,8 +17,14 @@
       "label": "Agustín Rodríguez Sahagún · Wikidata, fallecimiento",
       "url": "https://www.wikidata.org/wiki/Q2827364#P570",
       "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=57&idLegislatura=III",
+      "kind": "institutional"
     }
   ],
   "deathDate": "1991-10-13",
-  "deathYear": 1991
+  "deathYear": 1991,
+  "birthNote": "La ficha del Congreso indica 27 de abril; algunas referencias enciclopédicas indican marzo, incluso dentro del mismo artículo. Se conserva la fecha de la ficha institucional."
 }

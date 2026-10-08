@@ -10,5 +10,19 @@
     "locality": "Cangas (Pontevedra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6588",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5406044",
+  "aliases": [
+    "Alternativa Canguesa de Esquerdas",
+    "Cangas Left Alternative"
+  ],
+  "founding": {
+    "date": "2007-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5406044#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

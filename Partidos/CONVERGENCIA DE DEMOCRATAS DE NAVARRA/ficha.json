@@ -2,7 +2,7 @@
   "id": "registro-1695",
   "name": "CDN",
   "fullName": "CONVERGENCIA DE DEMOCRATAS DE NAVARRA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito navarro. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1695",
     "name": "CONVERGENCIA DE DEMOCRATAS DE NAVARRA",
@@ -10,5 +10,38 @@
     "locality": "Pamplona/Iruña (Navarra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1695",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3751152",
+  "aliases": [
+    "CDN",
+    "Convergencia de Democratas Navarros",
+    "Convergencia de Democratas de Navarra",
+    "Convergencia de Democratas de Navarra - CDN",
+    "Convergencia de Democratas de Navarra CDN",
+    "Convergencia de Demócratas Navarros",
+    "Convergencia de Demócratas de Navarra",
+    "Convergencia de Demócratas de Navarra - CDN",
+    "Convergencia de Demócratas de Navarra CDN",
+    "Convergència de Demòcrates de Navarra",
+    "Democrats Convergence of Navarre",
+    "Nafarroako Demokraten Konbergentzia"
+  ],
+  "founding": {
+    "date": "1995-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3751152#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2011-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3751152#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

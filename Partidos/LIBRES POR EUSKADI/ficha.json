@@ -10,5 +10,22 @@
     "locality": "Vitoria-Gasteiz (Araba/Álava)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6117",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q106554299",
+  "aliases": [
+    "EaL",
+    "Euskadiren Aldeko Libreak",
+    "Free for Euskadi",
+    "Libres por Euskadi",
+    "LxE"
+  ],
+  "founding": {
+    "date": "2018-09-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q106554299#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

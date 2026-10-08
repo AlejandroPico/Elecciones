@@ -2,7 +2,7 @@
   "id": "registro-3706",
   "name": "centrados",
   "fullName": "CENTRADOS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3706",
     "name": "CENTRADOS",
@@ -10,5 +10,20 @@
     "locality": "Segovia (Segovia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3706",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63762605",
+  "aliases": [
+    "Centrados",
+    "Centrats"
+  ],
+  "website": "https://www.centrados.es/",
+  "founding": {
+    "date": "2007-03-29",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63762605#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

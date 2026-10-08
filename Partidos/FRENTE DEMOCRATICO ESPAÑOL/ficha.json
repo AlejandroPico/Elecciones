@@ -10,5 +10,28 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2497",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q55471820",
+  "aliases": [
+    "FDE",
+    "Frente Democrático Español"
+  ],
+  "founding": {
+    "date": "2002-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q55471820#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2008-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q55471820#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

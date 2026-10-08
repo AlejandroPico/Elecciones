@@ -10,5 +10,21 @@
     "locality": "Sant Feliu de Guíxols (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1993",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64263859",
+  "aliases": [
+    "All for Sant Feliu",
+    "TSF",
+    "Tots per Sant Feliu"
+  ],
+  "website": "https://totspersantfeliu.blogspot.com/",
+  "founding": {
+    "date": "1999-01-15",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64263859#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

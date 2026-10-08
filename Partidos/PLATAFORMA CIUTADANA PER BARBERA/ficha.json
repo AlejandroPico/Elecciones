@@ -2,7 +2,7 @@
   "id": "registro-2837",
   "name": "PCPB",
   "fullName": "PLATAFORMA CIUTADANA PER BARBERA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Cataluña.. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2837",
     "name": "PLATAFORMA CIUTADANA PER BARBERA",
@@ -10,5 +10,19 @@
     "locality": "Barberà del Vallès (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2837",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q24214635",
+  "aliases": [
+    "Plataforma Ciudadana per Barbera",
+    "Plataforma Ciutadana per Barberà"
+  ],
+  "founding": {
+    "date": "2003-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q24214635#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

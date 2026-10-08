@@ -10,5 +10,22 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6028",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q106340035",
+  "aliases": [
+    "3edadenacción",
+    "Seniors in Action",
+    "Tercera Edad en Acción",
+    "Tercera Edat en Acció"
+  ],
+  "website": "https://3edad.org/",
+  "founding": {
+    "date": "2018-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q106340035#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

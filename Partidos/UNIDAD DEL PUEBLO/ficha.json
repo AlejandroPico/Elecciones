@@ -10,5 +10,23 @@
     "locality": "Santa Lucía de Tirajana (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1882",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3753791",
+  "aliases": [
+    "Herriaren Batasuna",
+    "UP",
+    "Unidad del Pueblo",
+    "Unitat del Poble",
+    "Unity of the People"
+  ],
+  "website": "http://www.unidaddelpueblo.info/",
+  "founding": {
+    "date": "1998-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3753791#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

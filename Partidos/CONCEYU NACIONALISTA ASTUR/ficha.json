@@ -2,7 +2,7 @@
   "id": "registro-341",
   "name": "C.N.A.",
   "fullName": "CONCEYU NACIONALISTA ASTUR",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido nacionalista asturiano. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "341",
     "name": "CONCEYU NACIONALISTA ASTUR",
@@ -10,5 +10,28 @@
     "locality": "Mieres (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=341",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3321337",
+  "aliases": [
+    "Asturian Nationalist Council",
+    "Conceyu Nacionalista Astur"
+  ],
+  "founding": {
+    "date": "1976-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3321337#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1981-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3321337#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

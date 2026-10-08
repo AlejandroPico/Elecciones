@@ -10,5 +10,23 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1420",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q78940469",
+  "aliases": [
+    "Citizen Independent Platform of Catalonia",
+    "PICC",
+    "Plataforma Independent Ciutadana Catalunya",
+    "Plataforma Independent Ciutadana de Catalunya",
+    "Plataforma Independiente Ciudadana Catalunya",
+    "Plataforma Independiente Ciudadana de Catalunya"
+  ],
+  "founding": {
+    "date": "1994-03-28",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q78940469#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

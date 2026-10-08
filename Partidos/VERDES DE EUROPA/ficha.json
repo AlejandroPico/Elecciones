@@ -10,5 +10,19 @@
     "locality": "Villena (Alicante/Alacant)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2282",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63761274",
+  "aliases": [
+    "Verdes de Europa",
+    "Verds d'Europa"
+  ],
+  "founding": {
+    "date": "2000-01-24",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63761274#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

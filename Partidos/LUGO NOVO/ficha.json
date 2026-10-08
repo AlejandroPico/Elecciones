@@ -10,5 +10,18 @@
     "locality": "Lugo (Lugo)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5620",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20054890",
+  "aliases": [
+    "Lugonovo"
+  ],
+  "founding": {
+    "date": "2015-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20054890#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

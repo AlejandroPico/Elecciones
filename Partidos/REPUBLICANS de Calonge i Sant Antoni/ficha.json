@@ -10,5 +10,20 @@
     "locality": "Calonge i Sant Antoni (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6565",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63886380",
+  "aliases": [
+    "REPUBLICANS dCiSA",
+    "Republicans - TE",
+    "Republicans de Calonge i Sant Antoni"
+  ],
+  "founding": {
+    "date": "2019-04-04",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63886380#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

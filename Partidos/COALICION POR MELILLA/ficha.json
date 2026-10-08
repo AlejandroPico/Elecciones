@@ -2,7 +2,7 @@
   "id": "registro-1735",
   "name": "CpM",
   "fullName": "COALICION POR MELILLA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1735",
     "name": "COALICION POR MELILLA",
@@ -10,5 +10,22 @@
     "locality": "Melilla (Melilla)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1735",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5137945",
+  "aliases": [
+    "Coalicion por Melilla",
+    "Coalició per Melilla",
+    "Coalición por Melilla",
+    "Coalición por Melilla (CpM)",
+    "Coalition for Melilla"
+  ],
+  "founding": {
+    "date": "1995-10-02",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5137945#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

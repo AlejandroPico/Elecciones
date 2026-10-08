@@ -2,7 +2,7 @@
   "id": "registro-2351",
   "name": "D.O.",
   "fullName": "DEMOCRACIA OURENSANA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político orensano de ámbito provincial. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2351",
     "name": "DEMOCRACIA OURENSANA",
@@ -10,5 +10,25 @@
     "locality": "Ourense (Ourense)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2351",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q47090326",
+  "aliases": [
+    "DO",
+    "Democracia Orensana",
+    "Democracia Ourensana",
+    "Democràcia Orensana",
+    "Democràcia Ourensana",
+    "Ourensan Democracy",
+    "Ourensetar Demokrazia"
+  ],
+  "website": "https://democraciaourensana.es/",
+  "founding": {
+    "date": "2001-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q47090326#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

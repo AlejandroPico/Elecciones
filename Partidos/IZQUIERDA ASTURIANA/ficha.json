@@ -2,7 +2,7 @@
   "id": "registro-1285",
   "name": "IAS",
   "fullName": "IZQUIERDA ASTURIANA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito de Asturias. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1285",
     "name": "IZQUIERDA ASTURIANA",
@@ -10,5 +10,20 @@
     "locality": "Oviedo (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1285",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3307624",
+  "aliases": [
+    "Asturian Left",
+    "Esquerra Asturiana",
+    "Izquierda Asturiana"
+  ],
+  "founding": {
+    "date": "1992-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3307624#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

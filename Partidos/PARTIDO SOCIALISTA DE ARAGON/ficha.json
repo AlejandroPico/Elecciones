@@ -2,7 +2,7 @@
   "id": "registro-106",
   "name": "P.S.A.",
   "fullName": "PARTIDO SOCIALISTA DE ARAGON",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "(1976-1983) antiguo partido político español  de ámbito aragonés. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "106",
     "name": "PARTIDO SOCIALISTA DE ARAGON",
@@ -10,5 +10,34 @@
     "locality": "Zaragoza (Zaragoza)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=106",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3571603",
+  "aliases": [
+    "Aliança Socialista d'Aragó",
+    "Aragoiko Alderdi Sozialista",
+    "Partido Socialista de Aragon",
+    "Partido Socialista de Aragón",
+    "Partit Socialista Aragonès",
+    "Partit Socialista d'Aragó",
+    "Partit Socialista d’Aragó",
+    "Socialist Party of Aragon"
+  ],
+  "founding": {
+    "date": "1976-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3571603#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1983-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3571603#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

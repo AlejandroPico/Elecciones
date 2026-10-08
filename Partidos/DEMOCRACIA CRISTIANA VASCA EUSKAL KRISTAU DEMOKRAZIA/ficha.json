@@ -2,7 +2,7 @@
   "id": "registro-78",
   "name": "D.C.V.-E.K.D.",
   "fullName": "DEMOCRACIA CRISTIANA VASCA EUSKAL KRISTAU DEMOKRAZIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español (1976-1977). La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "78",
     "name": "DEMOCRACIA CRISTIANA VASCA EUSKAL KRISTAU DEMOKRAZIA",
@@ -10,5 +10,33 @@
     "locality": "Donostia/San Sebastián (Gipuzkoa)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=78",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3751732",
+  "aliases": [
+    "Basque Christian Democracy",
+    "DCV",
+    "Democracia Cristiana Vasca",
+    "Democracia Cristiana Vasca - Euskal Kristau Demokrazia",
+    "Democracia Cristiana Vasca Euskal Kristau Demokrazia",
+    "Democràcia Cristiana Basca",
+    "Euskal Kristau Demokrazia"
+  ],
+  "founding": {
+    "date": "1976-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3751732#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3751732#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

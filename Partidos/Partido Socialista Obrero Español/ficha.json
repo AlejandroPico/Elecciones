@@ -12,5 +12,35 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=46",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q138198",
+  "aliases": [
+    "Espainiako Alderdi Sozialista",
+    "Espainiako Alderdi Sozialista Langilea",
+    "Espainiako Langile Alderdi Sozialista",
+    "Espainiako Langileen Alderdi Sozialista",
+    "Grupo Socialista",
+    "PSOE",
+    "Partido Socialista Espanol",
+    "Partido Socialista Español",
+    "Partido Socialista Obreiro Español",
+    "Partido Socialista Obrero Espanol",
+    "Partido Socialista Obrero Español",
+    "Partido Socialista de Espana",
+    "Partido Socialista de España",
+    "Partit Socialista Espanyol",
+    "Partit Socialista Obrer Espanyol",
+    "Spanish Socialist Party",
+    "Spanish Socialist Workers' Party",
+    "Spanish Workers' Socialist Party"
+  ],
+  "founding": {
+    "date": "1879-05-02",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q138198#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

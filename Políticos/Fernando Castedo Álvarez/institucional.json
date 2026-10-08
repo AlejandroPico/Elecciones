@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "288-4",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=288&idLegislatura=IV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "932c7c77d627419f58d2ea964de9b28053664d0bb35f9c6e3676bd78e5aefe86",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10776",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=3&id1=10776",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "877422cd76d77cc423613d6f54474915166c286c4315e0cdce6aa0acb0ec5f8b",
+    "error": null
+  }
+]

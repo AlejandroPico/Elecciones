@@ -2,7 +2,7 @@
   "id": "registro-789",
   "name": "PARTIDO COMUNISTA DE ASTURIAS",
   "fullName": "PARTIDO COMUNISTA DE ASTURIAS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Asturias, España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "789",
     "name": "PARTIDO COMUNISTA DE ASTURIAS",
@@ -10,5 +10,24 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=789",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q4894568",
+  "aliases": [
+    "Asturiasko Alderdi Komunista",
+    "Communist Party of Asturias",
+    "Frente de la Izquierda",
+    "Partido Comunista de Asturias",
+    "Partit Comunista d'Astúries",
+    "Partit Comunista d’Astúries"
+  ],
+  "website": "https://pcasturias.org/",
+  "founding": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q4894568#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,27 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=345",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2880542",
+  "aliases": [
+    "Frente Nacional de Alianza Libre"
+  ],
+  "founding": {
+    "date": "1968-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2880542#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2880542#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

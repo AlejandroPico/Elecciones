@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "18325",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18325",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "18325",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18325",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0b010548861452129a077660acde8bc622f2c431235a85715d0adcc007b1f1f4",
+    "error": null
+  }
+]

@@ -10,5 +10,19 @@
     "locality": "Amposta (Tarragona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6626",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q105324395",
+  "aliases": [
+    "Som Terres de l'Ebre",
+    "We Are the Ebre Lands"
+  ],
+  "founding": {
+    "date": "2019-10-15",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q105324395#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

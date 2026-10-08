@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "345-7",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=345&idLegislatura=VII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "c1e82f05b71a00b77d43b38d732895f6a79c7dbb6033a2d8a1f7788b5a6ad594",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "14206",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=14206",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "a1b91a5939755bb92dcdb3af3d5b62d08d8a44e5eb9465d4fb1778b7660ebba8",
+    "error": null
+  }
+]

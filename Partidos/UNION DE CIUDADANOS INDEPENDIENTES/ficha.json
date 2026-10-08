@@ -2,7 +2,7 @@
   "id": "registro-4787",
   "name": "UCIN",
   "fullName": "UNION DE CIUDADANOS INDEPENDIENTES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4787",
     "name": "UNION DE CIUDADANOS INDEPENDIENTES",
@@ -10,5 +10,20 @@
     "locality": "Alcázar de San Juan (Ciudad Real)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4787",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q53958727",
+  "aliases": [
+    "Unió de Ciutadans Independents",
+    "Unión de Ciudadanos Independientes"
+  ],
+  "website": "https://www.ucin.es/",
+  "founding": {
+    "date": "2012-10-20",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q53958727#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

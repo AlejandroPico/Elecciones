@@ -2,7 +2,7 @@
   "id": "registro-5877",
   "name": "PL-PPCC",
   "fullName": "POBLE LLIURE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Organización política española pancatalanista. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5877",
     "name": "POBLE LLIURE",
@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5877",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q18820056",
+  "aliases": [
+    "Poble Lliure"
+  ],
+  "website": "https://www.poblelliure.cat/",
+  "founding": {
+    "date": "2014-11-30",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q18820056#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

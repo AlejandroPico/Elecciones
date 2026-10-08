@@ -2,7 +2,7 @@
   "id": "registro-5837",
   "name": "LLIURES",
   "fullName": "LLIURES. DEFENSANT LES LLIBERTATS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Cataluña. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5837",
     "name": "LLIURES. DEFENSANT LES LLIBERTATS",
@@ -10,5 +10,28 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5837",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q43215292",
+  "aliases": [
+    "Lliures",
+    "Lliures. Defensant les llibertats"
+  ],
+  "founding": {
+    "date": "2017-06-16",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q43215292#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2022-01-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q43215292#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

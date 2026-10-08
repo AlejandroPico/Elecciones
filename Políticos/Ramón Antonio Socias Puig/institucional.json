@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "193-11",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=193&idLegislatura=XI",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "9557657ccad3c189955a26996cd66307d12310978528f3c8b6dffc594196f2e3",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10202",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=7&id1=10202",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "065883758fe7df1a77c0d6912ea872256bac3629aa4d68a4142ecfc01591aee2",
+    "error": null
+  }
+]

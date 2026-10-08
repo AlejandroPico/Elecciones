@@ -10,5 +10,18 @@
     "locality": "Porto do Son (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2512",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q12382843",
+  "aliases": [
+    "Alternativa Veciñal de Porto do Son"
+  ],
+  "founding": {
+    "date": "2002-12-12",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q12382843#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

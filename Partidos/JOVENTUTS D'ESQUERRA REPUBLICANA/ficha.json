@@ -2,7 +2,7 @@
   "id": "registro-1382",
   "name": "Jovent Republicà",
   "fullName": "JOVENTUTS D'ESQUERRA REPUBLICANA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Organización política juvenil. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1382",
     "name": "JOVENTUTS D'ESQUERRA REPUBLICANA",
@@ -10,5 +10,28 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1382",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2091511",
+  "aliases": [
+    "Ezker Errepublikarraren Gaztediak",
+    "JERC",
+    "Jovent Republicà",
+    "Joventuts d'Esquerra",
+    "Joventuts d'Esquerra Republicana",
+    "Joventuts d'Esquerra Republicana de Catalunya",
+    "Juventudes de Esquerra Republicana de Catalunya",
+    "Republican Youth",
+    "Republican Youth of Catalonia",
+    "Young Republican Left of Catalonia"
+  ],
+  "website": "https://www.joventrepublica.cat/",
+  "founding": {
+    "date": "1931-10-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2091511#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,27 @@
     "locality": "Noia (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1310",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3328483",
+  "aliases": [
+    "Alternativa Galega"
+  ],
+  "founding": {
+    "date": "1993-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328483#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1993-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328483#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

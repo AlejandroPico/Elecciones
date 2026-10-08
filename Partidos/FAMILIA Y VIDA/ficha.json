@@ -10,5 +10,24 @@
     "locality": "Pozuelo de Alarcón (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2428",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3752709",
+  "aliases": [
+    "Familia y Vida",
+    "Family and Life Party",
+    "Família i Vida",
+    "PFyV",
+    "Partido Familia y Vida",
+    "Partit Família i Vida"
+  ],
+  "website": "https://partidofamiliayvida.es/",
+  "founding": {
+    "date": "2002-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3752709#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

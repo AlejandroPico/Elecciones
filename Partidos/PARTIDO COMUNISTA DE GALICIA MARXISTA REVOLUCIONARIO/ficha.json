@@ -10,5 +10,29 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=735",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6063953",
+  "aliases": [
+    "Partido Comunista de Galicia",
+    "Partido Comunista de Galicia (Marxista-Revolucionario)",
+    "Partit Comunista de Galícia-Marxista Revolucionari"
+  ],
+  "founding": {
+    "date": "1985-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6063953#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1991-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6063953#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,18 @@
     "locality": "Boiro (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5483",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q117315376",
+  "aliases": [
+    "Boiro Novo"
+  ],
+  "founding": {
+    "date": "2014-12-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q117315376#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

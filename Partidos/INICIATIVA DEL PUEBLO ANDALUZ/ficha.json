@@ -2,7 +2,7 @@
   "id": "registro-5954",
   "name": "IdPA",
   "fullName": "INICIATIVA DEL PUEBLO ANDALUZ",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de ámbito andaluz. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5954",
     "name": "INICIATIVA DEL PUEBLO ANDALUZ",
@@ -10,5 +10,21 @@
     "locality": "Sevilla (Sevilla)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5954",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63761258",
+  "aliases": [
+    "IdPA",
+    "Iniciativa del Poble Andalús",
+    "Iniciativa del Pueblo Andaluz"
+  ],
+  "website": "https://iniciativadelpuebloandaluz.org/",
+  "founding": {
+    "date": "2016-02-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63761258#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

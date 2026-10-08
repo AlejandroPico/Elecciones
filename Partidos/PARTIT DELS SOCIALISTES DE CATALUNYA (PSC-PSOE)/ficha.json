@@ -2,7 +2,7 @@
   "id": "registro-351",
   "name": "PSC",
   "fullName": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "351",
     "name": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
@@ -10,5 +10,28 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=351",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2055003",
+  "aliases": [
+    "Kataluniako Sozialisten Alderdia",
+    "PSC",
+    "PSC-PSOE",
+    "Partido de los Socialistas Catalanes",
+    "Partido de los Socialistas de Cataluña",
+    "Partido dos Socialistas de Cataluña",
+    "Partit dels Socialistes de Catalunya",
+    "Partit dels Socialistes de Catalunya (PSC-PSOE)",
+    "Partits dels Socialistes de Catalunya",
+    "Socialists' Party of Catalonia"
+  ],
+  "website": "https://www.socialistes.cat/",
+  "founding": {
+    "date": "1978-07-16",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2055003#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,23 @@
     "locality": "Mislata (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=292",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9056452",
+  "aliases": [
+    "PSUPV",
+    "Partido Socialista Unificado del Pais Valenciano",
+    "Partido Socialista Unificado del País Valenciano",
+    "Partit Socialista Unificat del Pais Valencia",
+    "Partit Socialista Unificat del País Valencià",
+    "Unified Socialist Party of the Valencian Country"
+  ],
+  "founding": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056452#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,21 @@
     "locality": "Cervera (Lleida)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2609",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64681761",
+  "aliases": [
+    "IS",
+    "IS-AM",
+    "InSe",
+    "Independents de la Segarra"
+  ],
+  "founding": {
+    "date": "2003-02-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64681761#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

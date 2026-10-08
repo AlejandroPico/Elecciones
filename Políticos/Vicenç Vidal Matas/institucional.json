@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "192-15",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=192&idLegislatura=XV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0b3c0f55cc2a4685d4c2d7a243c3ec202eb9725f1fb87d7c8d9dabb1eacd33a0",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "18645",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18645",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "5f337ace0e9e8cdbcdefb5b09f99af46a83ae858cc2d3fbd4addd89da4266463",
+    "error": null
+  }
+]

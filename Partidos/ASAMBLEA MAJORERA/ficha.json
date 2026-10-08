@@ -2,7 +2,7 @@
   "id": "registro-595",
   "name": "A.M.",
   "fullName": "ASAMBLEA MAJORERA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "595",
     "name": "ASAMBLEA MAJORERA",
@@ -10,5 +10,29 @@
     "locality": "Puerto del Rosario (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=595",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11679990",
+  "aliases": [
+    "Asamblea Majorera",
+    "Majorera Assembly"
+  ],
+  "website": "https://asambleamajorera.com/?password-protected=login&redirect_to=https%3A%2F%2Fwww.asambleamajorera.com%2F",
+  "founding": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11679990#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1995-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11679990#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

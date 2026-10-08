@@ -10,5 +10,20 @@
     "locality": "Pobla, Sa (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4422",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9022440",
+  "aliases": [
+    "Liga Regionalista de las Islas Baleares",
+    "Lliga Regionalista de les Illes Balears",
+    "Regionalist League of the Balearic Islands"
+  ],
+  "founding": {
+    "date": "2011-02-28",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9022440#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

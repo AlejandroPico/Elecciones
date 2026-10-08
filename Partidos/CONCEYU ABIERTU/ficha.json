@@ -2,7 +2,7 @@
   "id": "registro-3459",
   "name": "CONCEYU ABIERTU",
   "fullName": "CONCEYU ABIERTU",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito asturiano. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3459",
     "name": "CONCEYU ABIERTU",
@@ -10,5 +10,18 @@
     "locality": "Noreña (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3459",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8349072",
+  "aliases": [
+    "Conceyu Abiertu"
+  ],
+  "founding": {
+    "date": "2011-01-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8349072#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

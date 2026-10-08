@@ -10,5 +10,20 @@
     "locality": "Zamora (Zamora)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5255",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q54823780",
+  "aliases": [
+    "Ahora Decide",
+    "Ara Decideix",
+    "Orain Erabaki"
+  ],
+  "founding": {
+    "date": "2015-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q54823780#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,21 @@
     "locality": "Bisbal d'Empordà, La (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6205",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63487173",
+  "aliases": [
+    "Tots per la Bisbal",
+    "Tots per la Bisbal - Tots Empordà",
+    "TxLB - TE"
+  ],
+  "website": "http://www.totsxlabisbal.cat/",
+  "founding": {
+    "date": "2018-11-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63487173#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "birthDate": "1953-08-04",
+  "birthYear": 1953,
+  "birth": "04/08/1953",
+  "personalSources": [
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=123&idLegislatura=VI",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · datos personales",
+      "url": "https://www.senado.es/general/senadores/SEN-1-10382-5.xml",
+      "kind": "institutional"
+    }
+  ],
+  "deathDate": "2010-10-06",
+  "deathYear": 2010
+}

@@ -10,5 +10,19 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=791",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5154411",
+  "aliases": [
+    "Communist Party of La Rioja",
+    "Partido Comunista de La Rioja"
+  ],
+  "founding": {
+    "date": "1986-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5154411#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

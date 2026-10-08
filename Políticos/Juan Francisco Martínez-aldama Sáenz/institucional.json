@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "15211",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=15211",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "15211",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=15211",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "d32fb9ae85b818da69c9c9356279062e209454e2e0e5333b2fd3db668ab90896",
+    "error": null
+  }
+]

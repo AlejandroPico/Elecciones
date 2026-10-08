@@ -10,5 +10,18 @@
     "locality": "Palma (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1262",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q61988069",
+  "aliases": [
+    "Els Verds de les Illes Balears"
+  ],
+  "founding": {
+    "date": "1991-11-25",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q61988069#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

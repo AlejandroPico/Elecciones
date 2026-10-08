@@ -10,5 +10,19 @@
     "locality": "Santa Cristina d'Aro (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4446",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64495384",
+  "aliases": [
+    "Emprenedors per Santa Cristina",
+    "Entrepreneurs for Santa Cristina"
+  ],
+  "founding": {
+    "date": "2011-03-28",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64495384#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

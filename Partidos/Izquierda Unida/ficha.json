@@ -12,5 +12,26 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1309",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q623740",
+  "aliases": [
+    "Coalición Izquierda Unida",
+    "Esquerra Unida",
+    "Ezker Batua",
+    "IU",
+    "Izquierda Unida",
+    "Izquierda Unida de Espana",
+    "Izquierda Unida de España",
+    "Izquierda Unida-Los Verdes: La Izquierda Plural",
+    "United Left"
+  ],
+  "founding": {
+    "date": "1986-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q623740#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

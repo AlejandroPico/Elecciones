@@ -10,5 +10,22 @@
     "locality": "León (León)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3095",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11698017",
+  "aliases": [
+    "Leonese Autonomist Party–Leonesist Unity",
+    "Partido Autonomista Leones - Unidad Leonesista",
+    "Partido Autonomista Leonés - Unidad Leonesista",
+    "Partido Autonomista Leonés - Unión Leonesista",
+    "Partit Autonomista Lleonès - Unitat Lleonesista"
+  ],
+  "founding": {
+    "date": "2005-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11698017#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

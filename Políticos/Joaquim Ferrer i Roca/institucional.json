@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "10009",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=6&id1=10009",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "d6bc4e7fec0e690db1df912c20d742defdaff32358f8ce347ac7072c0b879421",
+    "error": null
+  },
+  {
+    "chamber": "congreso",
+    "key": "375-2",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=375&idLegislatura=II",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "64559228573924ceeebd0ebea2c6efd8ef61d668e54b9b57cf2318d20bce35d1",
+    "error": null
+  }
+]

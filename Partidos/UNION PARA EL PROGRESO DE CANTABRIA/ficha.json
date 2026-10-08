@@ -10,5 +10,24 @@
     "locality": "Santander (Cantabria)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1078",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9091825",
+  "aliases": [
+    "UPCA",
+    "Union for the Progress of Cantabria",
+    "Union para el Progreso de Cantabria",
+    "Union para el progreso de Cantabria",
+    "Unió per al Progrés de Cantàbria",
+    "Unión para el Progreso de Cantabria",
+    "Unión para el progreso de Cantabria"
+  ],
+  "founding": {
+    "date": "1991-01-23",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9091825#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "id": "registro-991",
   "name": "A.P.U.",
   "fullName": "ASSEMBLEIA DO POVO UNIDO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político independentista gallego en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "991",
     "name": "ASSEMBLEIA DO POVO UNIDO",
@@ -10,5 +10,28 @@
     "locality": "Ferrol (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=991",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3313706",
+  "aliases": [
+    "APU",
+    "Assembleia do Povo Unido"
+  ],
+  "founding": {
+    "date": "1989-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3313706#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1995-02-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3313706#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

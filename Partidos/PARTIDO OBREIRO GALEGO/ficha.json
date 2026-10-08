@@ -10,5 +10,29 @@
     "locality": "Coruña, A (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=320",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3306992",
+  "aliases": [
+    "Galician Workers' Party",
+    "POG",
+    "Partido Obreiro Galego"
+  ],
+  "founding": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3306992#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1980-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3306992#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

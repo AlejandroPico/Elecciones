@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3986",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q56556337",
+  "aliases": [
+    "AdG",
+    "Alternativa de Govern"
+  ],
+  "founding": {
+    "date": "2010-04-12",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q56556337#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

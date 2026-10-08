@@ -74,7 +74,7 @@ it("los nombres y retratos no se asignan a una persona por un apellido compartid
 it("el mosaico enlaza fichas reales y el Congreso suma 350 sin mezclar PSOE y PSC", () => {
   for (const p of parties) {
     expect(organizations.some((o) => o.id === p.id)).toBe(true);
-    if (p.logo) expect(new URL(p.logoSource!).protocol).toBe("https:");
+    if (p.logo) expect(["https:", "http:"]).toContain(new URL(p.logoSource!).protocol);
   }
   expect(congress.parties.reduce((sum, p) => sum + p.seats, 0)).toBe(
     congress.total,

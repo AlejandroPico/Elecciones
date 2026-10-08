@@ -2,7 +2,7 @@
   "id": "registro-462",
   "name": "PCEU",
   "fullName": "PARTIDO COMUNISTA DE ESPAÑA UNIFICADO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "462",
     "name": "PARTIDO COMUNISTA DE ESPAÑA UNIFICADO",
@@ -10,5 +10,32 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=462",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3133156",
+  "aliases": [
+    "PCEU",
+    "Partido Comunista de Espana Unificado",
+    "Partido Comunista de España Unificado",
+    "Partido Comunista de España-Unificado",
+    "Partit Comunista d'Espanya Unificat",
+    "Unified Communist Party of Spain"
+  ],
+  "founding": {
+    "date": "1980-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3133156#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1984-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3133156#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

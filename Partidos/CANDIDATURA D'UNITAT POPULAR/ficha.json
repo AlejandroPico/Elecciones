@@ -2,7 +2,7 @@
   "id": "registro-1107",
   "name": "C.U.P.",
   "fullName": "CANDIDATURA D'UNITAT POPULAR",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político independentista catalán de izquierda. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1107",
     "name": "CANDIDATURA D'UNITAT POPULAR",
@@ -11,5 +11,25 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1107",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://cup.cat/"
+  "website": "https://cup.cat/",
+  "wikidata": "Q130761",
+  "aliases": [
+    "CUP",
+    "Candidatura d'Unitat Popular",
+    "Candidatura de Unidad Popular",
+    "Candidaturas de Unidad Popular",
+    "Candidaturas de Unitat Popular",
+    "Candidatures d'Unitat Popular",
+    "Herri Batasuneko Hautagaitza",
+    "Popular Unity Candidacy"
+  ],
+  "founding": {
+    "date": "1986-12-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q130761#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

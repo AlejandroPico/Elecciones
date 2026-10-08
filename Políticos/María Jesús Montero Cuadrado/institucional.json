@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "337-15",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=337&idLegislatura=XV",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "75ad9cc5aef1a72bc053fe798ffc439abf45da99c6ee28f3e5ec463d7d8c0129",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "20034",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=20034",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "a3d87e770fdba8278502daac1187ba4a313bc968566da059b93946f7c5e767f2",
+    "error": null
+  }
+]

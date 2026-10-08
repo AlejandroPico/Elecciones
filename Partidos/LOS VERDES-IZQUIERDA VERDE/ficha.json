@@ -2,7 +2,7 @@
   "id": "registro-2445",
   "name": "LOS VERDES-IZQUIERDA VERDE",
   "fullName": "LOS VERDES-IZQUIERDA VERDE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Coalición electoral. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2445",
     "name": "LOS VERDES-IZQUIERDA VERDE",
@@ -10,5 +10,23 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2445",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3490138",
+  "aliases": [
+    "Els Verds - Les Esquerres dels Pobles",
+    "Federation of The Greens–Green Left",
+    "Los Verdes - Las Izquierdas de los Pueblos",
+    "Los Verdes Las Izquierdas de los Pueblos",
+    "Los Verdes-Izquierda Verde",
+    "Los Verdes-Las Izquierdas de los Pueblos"
+  ],
+  "founding": {
+    "date": "1999-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3490138#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

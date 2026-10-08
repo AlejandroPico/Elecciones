@@ -10,5 +10,32 @@
     "locality": "Cáceres (Cáceres)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=997",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3328621",
+  "aliases": [
+    "Extremadura Regional Party",
+    "PRE",
+    "PREX",
+    "Partido Regionalista Extremeno",
+    "Partido Regionalista Extremeño",
+    "Partido Regionalista de Extremadura"
+  ],
+  "founding": {
+    "date": "1990-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328621#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1996-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3328621#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

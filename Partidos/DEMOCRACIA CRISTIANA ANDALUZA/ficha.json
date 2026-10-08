@@ -2,7 +2,7 @@
   "id": "registro-300",
   "name": "DCA",
   "fullName": "DEMOCRACIA CRISTIANA ANDALUZA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "300",
     "name": "DEMOCRACIA CRISTIANA ANDALUZA",
@@ -10,5 +10,9 @@
     "locality": "Cádiz (Cádiz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=300",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q46993651",
+  "aliases": [
+    "Democracia Cristiana Andaluza"
+  ]
 }

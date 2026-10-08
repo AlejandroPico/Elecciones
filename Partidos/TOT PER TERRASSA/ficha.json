@@ -2,7 +2,7 @@
   "id": "registro-6053",
   "name": "TxT",
   "fullName": "TOT PER TERRASSA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de ámbito local de Terrassa (España). La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6053",
     "name": "TOT PER TERRASSA",
@@ -10,5 +10,20 @@
     "locality": "Terrassa (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6053",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64141092",
+  "aliases": [
+    "Tot per Terrassa",
+    "TxT"
+  ],
+  "website": "https://totperterrassa.cat/",
+  "founding": {
+    "date": "2018-05-28",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64141092#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "363-6",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=363&idLegislatura=VI",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "64bd682e1b602b6c1920ac1ae6ff21813ca0176c96e8b0439cb39be5675977d6",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "10705",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=3&id1=10705",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "chamber": "senado",
+    "key": "10705",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=3&id1=10705",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "3f6960b8e8bd2643dfcf425a0dab56ac72554e0794ff3e3996ad717f536537c6",
+    "error": null
+  }
+]

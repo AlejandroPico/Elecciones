@@ -2,7 +2,7 @@
   "id": "registro-7160",
   "name": "EGUZKILORE",
   "fullName": "EGUZKILORE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Navarra, España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7160",
     "name": "EGUZKILORE",
@@ -10,5 +10,9 @@
     "locality": "Valle de Ollo/Ollaran (Navarra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7160",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q123347023",
+  "aliases": [
+    "Eguzkilore"
+  ]
 }

@@ -40,16 +40,10 @@ import { createAdvanceClock } from "../../Elecciones/interfaz/cuestionario/avanc
 const Programs = lazy(() => import("../../Partidos/interfaz/Programs"));
 import { contexts } from "../../Elecciones/Generales Noviembre 2026/contextos";
 import favicon from "../../favicon.svg";
+import { useNavigation, type View, type Entry } from "./navigation";
 const Archive = lazy(() => import("../../Políticos/interfaz/Archive"));
 const Governments = lazy(() => import("../../Gobiernos/interfaz/Governments"));
 const Offices = lazy(() => import("../../Gobiernos/interfaz/Offices"));
-type View =
-  | "survey"
-  | "results"
-  | "programs"
-  | "archive"
-  | "offices"
-  | "governments";
 type Modal = "method" | "privacy" | "about" | "reset" | "context" | null;
 type Theme = "auto" | "morning" | "afternoon" | "night";
 const choices = [
@@ -89,13 +83,12 @@ function Dialog({
 export default function App() {
   const [answers, setAnswers] = useState<Answers>({});
   const [index, setIndex] = useState(0);
-  const [view, setView] = useState<View>("survey");
+  const navigation = useNavigation();
+  const { view, entry: archiveEntry } = navigation.route;
+  const setView = (nextView: View) => navigation.navigate({ view: nextView });
   const [modal, setModal] = useState<Modal>(null);
   const [mobileMenu, setMobileMenu] = useState(() => window.innerWidth > 720);
   const [surveyMenu, setSurveyMenu] = useState(false);
-  const [archiveEntry, setArchiveEntry] = useState<
-    { kind: "person" | "party"; id: string } | undefined
-  >();
   const [themeMode, setThemeMode] = useState<Theme>("auto");
   const [clock, setClock] = useState(new Date());
   const [activeCategory, setActiveCategory] = useState(categories[0].id);
@@ -239,9 +232,14 @@ export default function App() {
     </div>
   );
   function openArchive(kind: "person" | "party", id: string) {
-    setArchiveEntry({ kind, id });
-    openView(kind === "party" ? "programs" : "archive");
+    openEntry({ kind, id });
   }
+  function openEntry(entry?: Entry) {
+    cancelAdvance();
+    navigation.navigate({ view: entry ? entry.kind === "party" ? "programs" : entry.kind === "office" ? "offices" : entry.kind === "government" ? "governments" : "archive" : view, entry });
+    if (window.innerWidth <= 720) setMobileMenu(false);
+  }
+  useEffect(() => { cancelAdvance(); setModal(null); }, [navigation.route]);
   const themes = [
     { id: "auto", name: "Automático", icon: Clock3 },
     { id: "morning", name: "Mañana", icon: Sunrise },
@@ -252,7 +250,10 @@ export default function App() {
   const ThemeIcon = themes[themeIndex].icon;
   return (
     <>
-      <a href="#content" className="skip-link">
+      <a href="#content" className="skip-link" onClick={(event) => {
+        event.preventDefault();
+        document.getElementById("content")?.focus();
+      }}>
         Saltar al contenido
       </a>
       <button
@@ -301,8 +302,6 @@ export default function App() {
                     setSurveyMenu(!surveyMenu);
                     return;
                   }
-                  if (item.id === "archive" || item.id === "programs")
-                    setArchiveEntry(undefined);
                   openView(item.id);
                 }}
                 aria-expanded={item.id === "survey" ? surveyMenu : undefined}
@@ -357,6 +356,7 @@ export default function App() {
       </aside>
       <main
         id="content"
+        tabIndex={-1}
         className={`main-content ${mobileMenu ? "navigation-open" : "navigation-closed"} ${view === "survey" ? "survey-view" : ""}`}
       >
         {view === "survey" && (
@@ -562,18 +562,20 @@ export default function App() {
             </span>
           }
         >
-          {view === "programs" && (
-            <div className="section-content">
+          {navigation.visited.has("programs") && (
+            <div className="section-content" hidden={view !== "programs"}>
               <h1 className="section-title">Partidos</h1>
+              <Suspense fallback={<span className="sr-only" role="status">Cargando partidos</span>}>
               {archiveEntry?.kind === "party" ? (
                 <Archive
-                  key={archiveEntry.id}
-                  initialRoute={archiveEntry}
-                  close={() => setArchiveEntry(undefined)}
+                  initialRoute={{ kind: "party", id: archiveEntry.id }}
+                  onNavigate={openEntry}
+                  close={() => openView("programs")}
                 />
-              ) : (
+              ) : null}
+              <div hidden={archiveEntry?.kind === "party"}>
                 <Programs openParty={(id) => openArchive("party", id)} />
-              )}
+              </div>
               <details className="positions-import result-card prose">
                 <summary>Posiciones documentadas</summary>
 
@@ -621,32 +623,35 @@ export default function App() {
                   </details>
                 ))}
               </details>
+              </Suspense>
             </div>
           )}
-          {view === "archive" && (
-            <div className="section-content">
+          {navigation.visited.has("archive") && (
+            <div className="section-content" hidden={view !== "archive"}>
               <h1 className="section-title">Archivo político</h1>
+              <Suspense fallback={<span className="sr-only" role="status">Cargando archivo</span>}>
               <Archive
-                key={
-                  archiveEntry
-                    ? `${archiveEntry.kind}-${archiveEntry.id}`
-                    : "directory"
-                }
-                initialRoute={archiveEntry}
+                initialRoute={view === "archive" && archiveEntry?.kind === "person" ? {kind: "person", id: archiveEntry.id} : undefined}
+                onNavigate={openEntry}
                 openParty={(id) => openArchive("party", id)}
               />
+              </Suspense>
             </div>
           )}
-          {view === "governments" && (
-            <div className="section-content">
+          {navigation.visited.has("governments") && (
+            <div className="section-content" hidden={view !== "governments"}>
               <h1 className="section-title">Gobiernos</h1>
-              <Governments openPerson={(id) => openArchive("person", id)} />
+              <Suspense fallback={<span className="sr-only" role="status">Cargando gobiernos</span>}>
+              <Governments openPerson={(id) => openArchive("person", id)} active={view === "governments"} selectedSnapshot={view === "governments" ? archiveEntry?.id : undefined} openGovernment={(id) => navigation.navigate({view:"governments",entry:{kind:"government",id}})} />
+              </Suspense>
             </div>
           )}
-          {view === "offices" && (
-            <div className="section-content">
+          {navigation.visited.has("offices") && (
+            <div className="section-content" hidden={view !== "offices"}>
               <h1 className="section-title">Cargos e historia</h1>
-              <Offices openPerson={(id) => openArchive("person", id)} />
+              <Suspense fallback={<span className="sr-only" role="status">Cargando cargos</span>}>
+              <Offices openPerson={(id) => openArchive("person", id)} selectedOffice={view === "offices" ? archiveEntry?.id : undefined} openOffice={(id) => { cancelAdvance(); navigation.navigate({ view: "offices", entry: id ? {kind: "office", id} : undefined }); }} />
+              </Suspense>
             </div>
           )}
         </Suspense>
@@ -710,7 +715,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.5.0</dd>
+                  <dd>0.6.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -718,7 +723,7 @@ export default function App() {
                 </div>
                 <div>
                   <dt>Actualización</dt>
-                  <dd>7 de octubre de 2026</dd>
+                  <dd>8 de octubre de 2026</dd>
                 </div>
               </dl>
               <nav className="about-links">

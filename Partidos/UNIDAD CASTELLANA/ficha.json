@@ -2,7 +2,7 @@
   "id": "registro-2380",
   "name": "Ud.Ca",
   "fullName": "UNIDAD CASTELLANA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2380",
     "name": "UNIDAD CASTELLANA",
@@ -10,5 +10,21 @@
     "locality": "Ciudad Real (Ciudad Real)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2380",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11704891",
+  "aliases": [
+    "Castilian Unity",
+    "Unidad Castellana",
+    "Unitat Castellana"
+  ],
+  "website": "https://unidadcastellana.wordpress.com/",
+  "founding": {
+    "date": "2001-12-20",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11704891#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

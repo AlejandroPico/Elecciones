@@ -2,7 +2,7 @@
   "id": "registro-5908",
   "name": "ELS UNITS",
   "fullName": "UNITS PER AVANÇAR",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5908",
     "name": "UNITS PER AVANÇAR",
@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5908",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q30633075",
+  "aliases": [
+    "Units per Avançar"
+  ],
+  "website": "https://www.unitsperavancar.cat",
+  "founding": {
+    "date": "2017-06-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q30633075#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

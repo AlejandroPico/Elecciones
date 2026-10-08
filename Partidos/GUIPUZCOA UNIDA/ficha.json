@@ -10,5 +10,21 @@
     "locality": "Donostia/San Sebastián (Gipuzkoa)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=203",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3822618",
+  "aliases": [
+    "GU",
+    "Guipuzcoa Unida",
+    "Guipúzcoa Unida",
+    "United Gipuzkoa"
+  ],
+  "founding": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3822618#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

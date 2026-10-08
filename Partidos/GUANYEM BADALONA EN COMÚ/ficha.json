@@ -2,7 +2,7 @@
   "id": "registro-5346",
   "name": "GBeC",
   "fullName": "GUANYEM BADALONA EN COMÚ",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Cataluña. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5346",
     "name": "GUANYEM BADALONA EN COMÚ",
@@ -10,5 +10,19 @@
     "locality": "Badalona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5346",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20104947",
+  "aliases": [
+    "Ganemos Badalona en Común",
+    "Guanyem Badalona en Comú"
+  ],
+  "founding": {
+    "date": "2015-03-18",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20104947#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

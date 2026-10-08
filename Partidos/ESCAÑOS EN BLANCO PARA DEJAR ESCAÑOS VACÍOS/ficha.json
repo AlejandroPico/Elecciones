@@ -2,7 +2,7 @@
   "id": "registro-4086",
   "name": "ESCAÑOS EN BLANCO",
   "fullName": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Plataforma Politica Española. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4086",
     "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
@@ -11,5 +11,28 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4086",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://escanos.org/"
+  "website": "https://escanos.org/",
+  "wikidata": "Q3752721",
+  "aliases": [
+    "Aulki Zuriak",
+    "Blank Seats",
+    "Escanos en Branco",
+    "Escaños en Blanco",
+    "Escaños en Blanco-Para dejar Escaños Vacios",
+    "Escaños en blanco",
+    "Escons a Blanco-Per deixar Escons Buits",
+    "Escons en Blanc",
+    "Escons en Blanc per deixar escons buits",
+    "Escons en blanc-Ciudadanos en Blanco",
+    "White Seats"
+  ],
+  "founding": {
+    "date": "2010-07-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3752721#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

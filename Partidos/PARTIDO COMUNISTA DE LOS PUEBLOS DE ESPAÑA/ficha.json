@@ -2,7 +2,7 @@
   "id": "registro-625",
   "name": "P.C.P.E.",
   "fullName": "PARTIDO COMUNISTA DE LOS PUEBLOS DE ESPAÑA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "625",
     "name": "PARTIDO COMUNISTA DE LOS PUEBLOS DE ESPAÑA",
@@ -11,5 +11,35 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=625",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://pcpe.es/"
+  "website": "https://pcpe.es/",
+  "wikidata": "Q2386352",
+  "aliases": [
+    "Communist Party of the People of Spain",
+    "Communist Party of the Peoples of Spain",
+    "Espainiako Herrietako Alderdi Komunista",
+    "P C P E",
+    "P C P E.",
+    "P C P. E.",
+    "P C P.E.",
+    "P C. P. E.",
+    "P C.P.E.",
+    "P. C. P. E.",
+    "P.C.P.E.",
+    "PCPE",
+    "Partido Comunista de los Pueblos de Espana",
+    "Partido Comunista de los Pueblos de España",
+    "Partido Comunista de los Pueblos de España-Euskal Komunistak",
+    "Partido Comunista dos Pobos de España",
+    "Partit Comunista dels Pobles d'Espanya",
+    "Partit Comunista dels Pobles d’Espanya"
+  ],
+  "founding": {
+    "date": "1984-12-15",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2386352#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

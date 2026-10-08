@@ -10,5 +10,20 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=858",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q77028519",
+  "aliases": [
+    "Els Verds",
+    "Els Verds-Federació Progresista",
+    "Els Verds-Federació Progressista"
+  ],
+  "founding": {
+    "date": "1987-04-02",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q77028519#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

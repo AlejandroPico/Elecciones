@@ -10,5 +10,18 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2908",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6064044",
+  "aliases": [
+    "Partido Europeo Liberal"
+  ],
+  "founding": {
+    "date": "2001-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6064044#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

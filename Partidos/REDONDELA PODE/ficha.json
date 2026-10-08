@@ -10,5 +10,18 @@
     "locality": "Redondela (Pontevedra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5423",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20547098",
+  "aliases": [
+    "Redondela Pode"
+  ],
+  "founding": {
+    "date": "2015-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20547098#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

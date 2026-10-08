@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4147",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q69985421",
+  "aliases": [
+    "Democracia Efectiva",
+    "Democràcia Efectiva"
+  ],
+  "founding": {
+    "date": "2011-02-17",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q69985421#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

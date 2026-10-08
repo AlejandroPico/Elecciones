@@ -2,7 +2,7 @@
   "id": "registro-1437",
   "name": "PCPC",
   "fullName": "PARTIT COMUNISTA DEL POBLE DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido comunista catalán.. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1437",
     "name": "PARTIT COMUNISTA DEL POBLE DE CATALUNYA",
@@ -10,5 +10,26 @@
     "locality": "Santa Coloma de Gramenet (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1437",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5154467",
+  "aliases": [
+    "Communist Party of the Catalan People",
+    "PCPC",
+    "Partido Comunista del Pueblo de Cataluna",
+    "Partido Comunista del Pueblo de Cataluña",
+    "Partit Comunista Del Poble de Catalunya",
+    "Partit Comunista del Poble Català",
+    "Partit Comunista del Poble de Catalunya",
+    "Partit comunista del poble de catalunya"
+  ],
+  "website": "https://www.pcpc.cat/",
+  "founding": {
+    "date": "1994-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5154467#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

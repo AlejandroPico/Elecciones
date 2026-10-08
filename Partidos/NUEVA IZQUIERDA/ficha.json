@@ -2,7 +2,7 @@
   "id": "registro-648",
   "name": "N.I.",
   "fullName": "NUEVA IZQUIERDA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "648",
     "name": "NUEVA IZQUIERDA",
@@ -10,5 +10,36 @@
     "locality": "Donostia/San Sebastián (Gipuzkoa)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=648",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3395201",
+  "aliases": [
+    "Democratic Party of the New Left",
+    "Nova Esquerra",
+    "Nueva Izquierda",
+    "PDNI",
+    "Partido Democratico Nueva Izquierda",
+    "Partido Democratico de la Nueva Izquierda",
+    "Partido Democrático Nueva Izquierda",
+    "Partido Democrático de la Nueva Izquierda",
+    "Partit Democràtic Nova Esquerra",
+    "Partit Democràtic de la Nova Esquerra"
+  ],
+  "founding": {
+    "date": "1997-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3395201#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2001-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3395201#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

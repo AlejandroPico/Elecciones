@@ -10,5 +10,20 @@
     "locality": "Girona (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6209",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64018065",
+  "aliases": [
+    "GGI",
+    "Guanyem Girona"
+  ],
+  "website": "https://guanyemgirona.cat/",
+  "founding": {
+    "date": "2018-10-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64018065#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

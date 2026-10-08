@@ -2,7 +2,7 @@
   "id": "registro-6620",
   "name": "ADELANTE ANDALUCÍA",
   "fullName": "ADELANTE ANDALUCÍA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6620",
     "name": "ADELANTE ANDALUCÍA",
@@ -11,5 +11,20 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6620",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://adelanteandalucia.org/"
+  "website": "https://adelanteandalucia.org/",
+  "wikidata": "Q107536339",
+  "aliases": [
+    "Adelante Andalucía",
+    "Aurrera Andaluzia",
+    "Endavant Andalusia"
+  ],
+  "founding": {
+    "date": "2018-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q107536339#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

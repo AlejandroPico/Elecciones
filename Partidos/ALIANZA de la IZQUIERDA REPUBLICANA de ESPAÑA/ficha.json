@@ -10,5 +10,20 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6810",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q118792909",
+  "aliases": [
+    "Alianza de la Izquierda Republicana de España",
+    "Aliança de l'Esquerra Republicana d'Espanya"
+  ],
+  "website": "https://www.aire-laizquierda.es/",
+  "founding": {
+    "date": "2021-11-30",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q118792909#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "17043",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=17043",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "17043",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=12&id1=17043",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "9d6e253ab13f4bfb3873fa9f84f9f5e112869aeca86ab6828b07118826eea3a9",
+    "error": null
+  }
+]

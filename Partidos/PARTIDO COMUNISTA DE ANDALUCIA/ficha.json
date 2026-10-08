@@ -2,7 +2,7 @@
   "id": "registro-790",
   "name": "PARTIDO COMUNISTA DE ANDALUCIA",
   "fullName": "PARTIDO COMUNISTA DE ANDALUCIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político comunista andaluz. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "790",
     "name": "PARTIDO COMUNISTA DE ANDALUCIA",
@@ -10,5 +10,23 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=790",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5154327",
+  "aliases": [
+    "Andaluziako Alderdi Komunista",
+    "Communist Party of Andalusia",
+    "Partido Comunista de Andalucia",
+    "Partido Comunista de Andalucía",
+    "Partit Comunista d'Andalusia"
+  ],
+  "website": "https://www.pcandalucia.org/",
+  "founding": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5154327#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

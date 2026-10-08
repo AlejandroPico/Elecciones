@@ -2,7 +2,7 @@
   "id": "registro-699",
   "name": "VERDES o LOS  VERDES o LV",
   "fullName": "LOS VERDES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "699",
     "name": "LOS VERDES",
@@ -10,5 +10,38 @@
     "locality": "Lorcha/Orxa, l' (Alicante/Alacant)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=699",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1124937",
+  "aliases": [
+    "Berdeak",
+    "Confederacion de Los Verdes",
+    "Confederacion de los Verdes",
+    "Confederacion de los Verdes de Espana",
+    "Confederacion de los Verdes de España",
+    "Confederació dels Verds",
+    "Confederación de Los Verdes",
+    "Confederación de los Verdes",
+    "Confederación de los Verdes de Espana",
+    "Confederación de los Verdes de España",
+    "Conferacion de Los Verdes",
+    "Conferación de Los Verdes",
+    "Els Verds (Espanya)",
+    "Federacion Los Verdes",
+    "Federación Los Verdes",
+    "Los Verdes",
+    "Los Verdes (Espana)",
+    "Los Verdes (España)",
+    "Los Verdes-Partido Verde Canario",
+    "the Greens"
+  ],
+  "website": "https://verdes.info/",
+  "founding": {
+    "date": "1984-09-23",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1124937#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

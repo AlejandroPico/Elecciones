@@ -2,7 +2,7 @@
   "id": "registro-762",
   "name": "PAS",
   "fullName": "PARTIU ASTURIANISTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito de Asturias. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "762",
     "name": "PARTIU ASTURIANISTA",
@@ -10,5 +10,22 @@
     "locality": "Gijón (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=762",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q794247",
+  "aliases": [
+    "PAS",
+    "Partit Asturianista",
+    "Partiu Asturianista",
+    "Partíu Asturianista"
+  ],
+  "website": "http://asturianista.es/",
+  "founding": {
+    "date": "1985-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q794247#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

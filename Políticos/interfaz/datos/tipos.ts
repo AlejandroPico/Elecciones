@@ -42,11 +42,13 @@ export type Person = {
   photoDate?: string;
   birth?: string;
   birthDate?: string | null;
+  birthNote?: string;
   birthYear?: number | null;
   deathYear?: number | null;
   deathDate?: string;
   personalSources?: Reference[];
   education?: string[];
+  institutionalBiography?: { text: string; source: Reference }[];
   formationSources?: Reference[];
   timeline: { period: string; title: string; source: Reference }[];
   dossier?: Dossier[];
@@ -78,6 +80,26 @@ export type Organization = {
   logo?: string;
   logoSource?: string;
   logoBackground?: string;
+  wikidata?: string;
+  aliases?: string[];
+  founding?: { date: string; precision: number; source: Reference };
+  dissolution?: { date: string; precision: number; source: Reference };
+  electoralResults?: {
+    election: string;
+    date: string;
+    chamber: "congreso" | "senado";
+    votes?: number;
+    seats?: number;
+    candidature: string;
+    source: Reference;
+  }[];
+  publicResources?: {
+    title: string;
+    url: string;
+    kind: "programa" | "historia" | "estatutos" | "transparencia" | "organización";
+    date?: string;
+    format?: string;
+  }[];
   legacyIds?: string[];
   registration?: {
     id: string;

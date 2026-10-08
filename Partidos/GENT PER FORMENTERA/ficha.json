@@ -10,5 +10,19 @@
     "locality": "Formentera (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3246",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11682069",
+  "aliases": [
+    "Gent per Formentera"
+  ],
+  "website": "https://www.gentxformentera.org/",
+  "founding": {
+    "date": "2006-10-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11682069#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

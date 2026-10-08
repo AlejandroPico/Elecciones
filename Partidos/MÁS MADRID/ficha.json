@@ -2,7 +2,7 @@
   "id": "registro-6237",
   "name": "MÁS MADRID",
   "fullName": "MÁS MADRID",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de la Comunidad de Madrid (España). La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6237",
     "name": "MÁS MADRID",
@@ -11,5 +11,20 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6237",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://masmadrid.org/"
+  "website": "https://masmadrid.org/",
+  "wikidata": "Q59986766",
+  "aliases": [
+    "Máis Madrid",
+    "Más Madrid",
+    "Més Madrid"
+  ],
+  "founding": {
+    "date": "2018-11-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q59986766#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

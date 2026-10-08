@@ -10,5 +10,23 @@
     "locality": "Valladolid (Valladolid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2273",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3322766",
+  "aliases": [
+    "Castilian Left",
+    "Gaztelau Ezkerra",
+    "IzCa",
+    "Izquierda Castellana",
+    "Partido Izquierda Castellana"
+  ],
+  "website": "https://izca.net/",
+  "founding": {
+    "date": "2002-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3322766#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

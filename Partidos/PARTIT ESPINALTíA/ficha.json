@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1817",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q66309165",
+  "aliases": [
+    "PE",
+    "Partit Espinaltià"
+  ],
+  "founding": {
+    "date": "1997-06-12",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q66309165#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

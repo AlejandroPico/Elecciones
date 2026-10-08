@@ -10,5 +10,19 @@
     "locality": "Viladecans (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6270",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q96943619",
+  "aliases": [
+    "A Tu Lado Vecinos Municipalistas"
+  ],
+  "website": "https://vecinosmunicipalistasviladecans.com/",
+  "founding": {
+    "date": "2019-02-18",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q96943619#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

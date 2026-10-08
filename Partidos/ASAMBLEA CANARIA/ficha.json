@@ -10,5 +10,30 @@
     "locality": "Palmas de Gran Canaria, Las (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=517",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8206150",
+  "aliases": [
+    "Asamblea Canaria",
+    "Asamblea Canaria Izquierda Nacionalista Canaria",
+    "Asamblea Canaria-Izquierda Nacionalista Canaria",
+    "Canarian Assembly"
+  ],
+  "founding": {
+    "date": "1982-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8206150#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1987-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8206150#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

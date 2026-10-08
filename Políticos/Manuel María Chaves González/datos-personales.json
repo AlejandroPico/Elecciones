@@ -1,7 +1,7 @@
 {
-  "birth": "7 de julio de 1945 · Ceuta",
   "birthDate": "1945-07-07",
   "birthYear": 1945,
+  "birth": "7 de julio de 1945 · Ceuta",
   "personalSources": [
     {
       "label": "Ministerio de Cultura · PARES, Manuel Chaves",
@@ -16,6 +16,11 @@
       "label": "Manuel Chaves · Wikidata, nacimiento",
       "url": "https://www.wikidata.org/wiki/Q708774#P569",
       "kind": "encyclopedic"
+    },
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=252&idLegislatura=X",
+      "kind": "institutional"
     }
   ]
 }

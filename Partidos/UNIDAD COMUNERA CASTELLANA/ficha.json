@@ -10,5 +10,18 @@
     "locality": "Frómista (Palencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=599",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5852065",
+  "aliases": [
+    "Unidad Comunera Castellana"
+  ],
+  "founding": {
+    "date": "1983-02-14",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5852065#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

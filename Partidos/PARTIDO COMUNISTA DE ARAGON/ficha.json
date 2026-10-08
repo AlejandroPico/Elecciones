@@ -2,7 +2,7 @@
   "id": "registro-458",
   "name": "P.C.A.",
   "fullName": "PARTIDO COMUNISTA DE ARAGON",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en Aragon, España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "458",
     "name": "PARTIDO COMUNISTA DE ARAGON",
@@ -10,5 +10,22 @@
     "locality": "Zaragoza (Zaragoza)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=458",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3573249",
+  "aliases": [
+    "Communist Party of Aragon",
+    "Partido Comunista de Aragon",
+    "Partido Comunista de Aragón",
+    "Partit Comunista d'Aragó",
+    "Partit Comunista d’Aragó"
+  ],
+  "founding": {
+    "date": "1982-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3573249#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

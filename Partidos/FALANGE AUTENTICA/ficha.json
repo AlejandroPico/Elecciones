@@ -2,7 +2,7 @@
   "id": "registro-2419",
   "name": "FAu",
   "fullName": "FALANGE AUTENTICA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2419",
     "name": "FALANGE AUTENTICA",
@@ -10,5 +10,25 @@
     "locality": "Alicante/Alacant (Alicante/Alacant)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2419",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3780794",
+  "aliases": [
+    "Authentic Phalanx",
+    "F.A.",
+    "Falange Autentica",
+    "Falange Auténtica",
+    "La autentica",
+    "La auténtica",
+    "The authentic"
+  ],
+  "website": "https://www.falange-autentica.es/",
+  "founding": {
+    "date": "2002-04-30",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3780794#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

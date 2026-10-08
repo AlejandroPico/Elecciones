@@ -2,7 +2,7 @@
   "id": "registro-3881",
   "name": "ALER",
   "fullName": "ALTERNATIBA ERAIKITZEN",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3881",
     "name": "ALTERNATIBA ERAIKITZEN",
@@ -10,5 +10,21 @@
     "locality": "Bilbao (Bizkaia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3881",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2840410",
+  "aliases": [
+    "Alternatiba",
+    "Alternatiba (alderdia)",
+    "Alternatiba Eraikitzen"
+  ],
+  "website": "https://alternatiba.eus/es/",
+  "founding": {
+    "date": "2008-12-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2840410#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

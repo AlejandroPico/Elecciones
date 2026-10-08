@@ -10,5 +10,19 @@
     "locality": "Benidorm (Alicante/Alacant)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6463",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q105325103",
+  "aliases": [
+    "Alianza C V",
+    "Alianza por el Comercio y la Vivienda"
+  ],
+  "founding": {
+    "date": "2019-03-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q105325103#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

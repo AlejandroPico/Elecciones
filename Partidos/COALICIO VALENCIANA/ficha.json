@@ -10,5 +10,34 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2972",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2981071",
+  "aliases": [
+    "CVa",
+    "Coalicio",
+    "Coalicio Valenciana",
+    "Coalicion Valenciana",
+    "Coalició",
+    "Coalició Valenciana",
+    "Coalición Valenciana",
+    "Valencian Coalition"
+  ],
+  "founding": {
+    "date": "2004-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2981071#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "2011-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2981071#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -10,5 +10,29 @@
     "locality": "Granada (Granada)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=719",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9056344",
+  "aliases": [
+    "Partido Socialista del Pueblo Andaluz",
+    "Partido socialista del pueblo andaluz",
+    "Partit Socialista del Poble Andalús"
+  ],
+  "founding": {
+    "date": "1986-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056344#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1987-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056344#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

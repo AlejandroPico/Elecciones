@@ -10,5 +10,19 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=928",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q19716133",
+  "aliases": [
+    "Partido Andaluz de Cataluña",
+    "Partit Andalús de Catalunya"
+  ],
+  "founding": {
+    "date": "1988-02-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q19716133#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

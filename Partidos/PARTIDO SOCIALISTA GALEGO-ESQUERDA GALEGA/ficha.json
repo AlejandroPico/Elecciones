@@ -10,5 +10,32 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=983",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3296785",
+  "aliases": [
+    "Galician Socialist Party-Galician Left",
+    "PSG EG",
+    "PSG-EG",
+    "Partido Socialista Galego Esquerda Galega",
+    "Partido Socialista Galego-Esquerda Galega",
+    "Partit Socialista Gallec-Esquerda Galega"
+  ],
+  "founding": {
+    "date": "1984-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3296785#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1993-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3296785#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

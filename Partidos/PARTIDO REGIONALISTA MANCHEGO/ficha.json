@@ -10,5 +10,18 @@
     "locality": "Albacete (Albacete)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=594",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q6064288",
+  "aliases": [
+    "Partido Regionalista Manchego"
+  ],
+  "founding": {
+    "date": "1983-01-15",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q6064288#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

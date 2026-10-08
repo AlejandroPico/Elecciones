@@ -7,14 +7,8 @@ export { organizations, logos } from "../../../Partidos/interfaz/catalogo";
 import type { Person, Reference } from "./tipos";
 export type { Person, Organization, Reference } from "./tipos";
 import candidacyData from "../../../Elecciones/Generales Noviembre 2026/candidaturas.json";
-const personFiles = import.meta.glob<unknown>("../../*/*.json", {
-  eager: true,
-  import: "default",
-});
-const photos = import.meta.glob<string>(
-  "../../*/retrato.{jpg,jpeg,png,webp,svg,gif}",
-  { eager: true, query: "?url", import: "default" },
-);
+import personFiles from "virtual:personas-fichas";
+import photos from "virtual:personas-retratos";
 function read<T>(
   files: Record<string, unknown>,
   folder: string,
@@ -23,10 +17,10 @@ function read<T>(
 ): T {
   return (files[`${folder}/${file}`] as T | undefined) ?? fallback;
 }
-function sections(files: Record<string, unknown>, folder: string) {
-  return Object.keys(files)
-    .filter((p) => p.startsWith(`${folder}/`))
-    .map((p) => p.split("/").at(-1)!);
+const folderSections = new Map<string, string[]>();
+for (const path of Object.keys(personFiles)) {
+  const end = path.lastIndexOf("/"), folder = path.slice(0, end);
+  folderSections.set(folder, [...(folderSections.get(folder) ?? []), path.slice(end + 1)]);
 }
 export const portraits: Record<string, string> = {};
 export const people: Person[] = Object.entries(personFiles)
@@ -67,7 +61,7 @@ export const people: Person[] = Object.entries(personFiles)
         ]),
       ],
       folder,
-      sections: sections(personFiles, folder),
+      sections: folderSections.get(folder) ?? [],
       ...(image && portraits[meta.id]
         ? {
             portrait: meta.id,
@@ -104,11 +98,11 @@ export const people: Person[] = Object.entries(personFiles)
         [],
       ),
       references: read<Reference[]>(personFiles, folder, "fuentes.json", []),
+      institutionalBiography: read<Person["institutionalBiography"]>(personFiles, folder, "biografia-institucional.json", []),
     };
   })
   .sort((a, b) => a.fullName!.localeCompare(b.fullName!, "es"));
-export function findPerson(id: string) {
-  return people.find((p) => p.id === id || p.legacyIds?.includes(id));
-}
+const peopleById = new Map(people.flatMap((p) => [p.id, ...(p.legacyIds ?? [])].map((id) => [id, p] as const)));
+export function findPerson(id: string) { return peopleById.get(id); }
 export const candidacies = candidacyData;
 export const reviewedAt = "8 de octubre de 2026";

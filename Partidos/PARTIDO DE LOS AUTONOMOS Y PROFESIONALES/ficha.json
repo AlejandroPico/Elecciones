@@ -10,5 +10,20 @@
     "locality": "Coruña, A (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1733",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q96943565",
+  "aliases": [
+    "AU.TO.NO.MO",
+    "Partido de los Autónomos y Profesionales",
+    "Partit dels Autònoms i Professionals"
+  ],
+  "founding": {
+    "date": "1995-10-06",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q96943565#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

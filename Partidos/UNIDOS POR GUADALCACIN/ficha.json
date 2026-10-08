@@ -2,7 +2,7 @@
   "id": "registro-7076",
   "name": "UPGU",
   "fullName": "UNIDOS POR GUADALCACIN",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partído político. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "7076",
     "name": "UNIDOS POR GUADALCACIN",
@@ -10,5 +10,9 @@
     "locality": "Jerez de la Frontera (Cádiz)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7076",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q117303987",
+  "aliases": [
+    "Unidos por Guadalcacín"
+  ]
 }

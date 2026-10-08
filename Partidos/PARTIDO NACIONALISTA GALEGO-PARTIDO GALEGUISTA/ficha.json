@@ -10,5 +10,26 @@
     "locality": "Vigo (Pontevedra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=819",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3306974",
+  "aliases": [
+    "Galician Nationalist Party-Galicianist Party",
+    "PNG PG",
+    "PNG-PG",
+    "Partido Nacionalista Galego",
+    "Partido Nacionalista Galego Partido Galeguista",
+    "Partido Nacionalista Galego-Partido Galeguista",
+    "Partido Nacionalista Gallego",
+    "Partit Nacionalista Gallec",
+    "Partit Nacionalista Gallec-Partit Galleguista"
+  ],
+  "founding": {
+    "date": "1987-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3306974#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

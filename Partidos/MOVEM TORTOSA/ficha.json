@@ -10,5 +10,19 @@
     "locality": "Tortosa (Tarragona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5203",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20108520",
+  "aliases": [
+    "Movem Tortosa"
+  ],
+  "website": "https://movemtortosa.cat/",
+  "founding": {
+    "date": "2014-07-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20108520#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

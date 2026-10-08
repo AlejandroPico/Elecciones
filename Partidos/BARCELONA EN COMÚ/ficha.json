@@ -2,7 +2,7 @@
   "id": "registro-5201",
   "name": "BComú",
   "fullName": "BARCELONA EN COMÚ",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5201",
     "name": "BARCELONA EN COMÚ",
@@ -11,5 +11,24 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5201",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://barcelonaencomu.cat/"
+  "website": "https://barcelonaencomu.cat/",
+  "wikidata": "Q18219058",
+  "aliases": [
+    "BComú",
+    "Barcelona en Comu",
+    "Barcelona en Comun",
+    "Barcelona en Comú",
+    "Barcelona en Común",
+    "Barcelona en comú",
+    "Comuns de Barcelona"
+  ],
+  "founding": {
+    "date": "2014-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q18219058#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

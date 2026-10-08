@@ -2,7 +2,7 @@
   "id": "registro-227",
   "name": "PCAN",
   "fullName": "PARTIDO CANTONAL DE CARTAGENA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "227",
     "name": "PARTIDO CANTONAL DE CARTAGENA",
@@ -10,5 +10,23 @@
     "locality": "Cartagena (Murcia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=227",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q5033985",
+  "aliases": [
+    "Cantonal Party",
+    "PCAN",
+    "Partido Cantonal",
+    "Partido Cantonal de Cartagena",
+    "Partit Cantonal"
+  ],
+  "website": "http://www.partidocantonal.com",
+  "founding": {
+    "date": "1976-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q5033985#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

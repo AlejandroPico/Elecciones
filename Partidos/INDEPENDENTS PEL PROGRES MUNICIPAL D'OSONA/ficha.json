@@ -10,5 +10,20 @@
     "locality": "Vic (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=911",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q119686077",
+  "aliases": [
+    "I.P.M.O.",
+    "IPMO",
+    "Independents pel Progrés Municipal d'Osona"
+  ],
+  "founding": {
+    "date": "1987-04-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q119686077#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

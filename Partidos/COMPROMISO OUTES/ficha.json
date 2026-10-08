@@ -10,5 +10,19 @@
     "locality": "Outes (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6067",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q124098047",
+  "aliases": [
+    "Compromiso Outes"
+  ],
+  "website": "http://compromisooutes.gal/",
+  "founding": {
+    "date": "2018-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q124098047#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

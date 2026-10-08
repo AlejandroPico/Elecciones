@@ -10,5 +10,22 @@
     "locality": "Villalbilla (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=469",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3395598",
+  "aliases": [
+    "Falangist Movement of Spain",
+    "MFE",
+    "Movimiento Falangista Español",
+    "Movimiento Falangista de Espana",
+    "Movimiento Falangista de España"
+  ],
+  "founding": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3395598#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

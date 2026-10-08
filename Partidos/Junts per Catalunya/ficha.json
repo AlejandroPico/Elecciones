@@ -12,5 +12,21 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6102",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q97155800",
+  "aliases": [
+    "Junts",
+    "Junts per Catalunya",
+    "Junts x Catalunya",
+    "JxCat"
+  ],
+  "founding": {
+    "date": "2020-07-25",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q97155800#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

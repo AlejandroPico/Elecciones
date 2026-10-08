@@ -10,5 +10,21 @@
     "locality": "Fraga (Huesca)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7188",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q138035138",
+  "aliases": [
+    "ETXSBC",
+    "Entre Todos Bajo / Baix Cinca",
+    "Entre Todos Bajo/Baix Cinca",
+    "Entre Tots Baix Cinca"
+  ],
+  "founding": {
+    "date": "2023-03-31",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q138035138#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "id": "registro-937",
   "name": "PCPA",
   "fullName": "PARTIDO COMUNISTA DEL PUEBLO ANDALUZ",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito andaluz. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "937",
     "name": "PARTIDO COMUNISTA DEL PUEBLO ANDALUZ",
@@ -10,5 +10,21 @@
     "locality": "Aznalcóllar (Sevilla)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=937",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9056169",
+  "aliases": [
+    "PCPA",
+    "Partido Comunista del Pueblo Andaluz",
+    "Partido comunista del pueblo andaluz",
+    "Partit Comunista del Poble Andalús"
+  ],
+  "founding": {
+    "date": "1984-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9056169#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

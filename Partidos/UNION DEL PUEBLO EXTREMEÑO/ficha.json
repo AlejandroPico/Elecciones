@@ -10,5 +10,21 @@
     "locality": "Plasencia (Cáceres)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3542",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9091812",
+  "aliases": [
+    "Union del Pueblo Extremeno",
+    "Union del Pueblo Extremeño",
+    "Unión del Pueblo Extremeno",
+    "Unión del Pueblo Extremeño"
+  ],
+  "founding": {
+    "date": "2007-03-02",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9091812#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

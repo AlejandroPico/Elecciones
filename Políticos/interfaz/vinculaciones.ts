@@ -1,4 +1,10 @@
 import type { Person, Organization } from "./datos/tipos";
+const organizationMaps = new WeakMap<Organization[], Map<string, Organization>>();
+function organizationMap(organizations: Organization[]) {
+  let index = organizationMaps.get(organizations);
+  if (!index) { index = new Map(organizations.map((o) => [o.id, o])); organizationMaps.set(organizations, index); }
+  return index;
+}
 function normalize(value: string) {
   return value
     .normalize("NFD")
@@ -25,16 +31,15 @@ export function affiliationOptions(
   organizations: Organization[],
 ) {
   const values = new Map<string, string>();
+  const index = organizationMap(organizations);
   for (const person of people) {
     if (person.organization) {
-      const party = organizations.find((o) => o.id === person.organization);
+      const party = index.get(person.organization);
       if (party) values.set(party.id, party.name);
     }
     for (const affiliation of person.affiliations ?? []) {
       if (affiliation.kind === "independent") continue;
-      const party = organizations.find(
-        (o) => o.id === affiliation.organization,
-      );
+      const party = affiliation.organization ? index.get(affiliation.organization) : undefined;
       values.set(affiliationKey(affiliation), party?.name ?? affiliation.name);
     }
   }
@@ -47,13 +52,14 @@ export function affiliationLabel(
   organizations: Organization[],
 ) {
   const affiliations = person.affiliations ?? [];
+  const index = organizationMap(organizations);
   const names = [
     ...new Set(
       affiliations
         .filter((a) => a.kind !== "independent")
         .map((a) => {
           const name =
-            organizations.find((o) => o.id === a.organization)?.name ?? a.name;
+            (a.organization ? index.get(a.organization)?.name : undefined) ?? a.name;
           return a.kind === "association" ? `Vinculación con ${name}` : name;
         }),
     ),
@@ -62,7 +68,7 @@ export function affiliationLabel(
     return "Independiente" + (names.length ? ` · ${names.join(" · ")}` : "");
   if (names.length) return names.join(" · ");
   return (
-    organizations.find((o) => o.id === person.organization)?.name ??
+    (person.organization ? index.get(person.organization)?.name : undefined) ??
     "Vinculación pendiente"
   );
 }

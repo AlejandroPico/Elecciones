@@ -2,7 +2,7 @@
   "id": "registro-60",
   "name": "PSUC",
   "fullName": "PARTIT SOCIALISTA UNIFICAT DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "60",
     "name": "PARTIT SOCIALISTA UNIFICAT DE CATALUNYA",
@@ -10,5 +10,34 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=60",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2630934",
+  "aliases": [
+    "Kataluniako Alderdi Sozialista Batua",
+    "PSUC",
+    "Partido Socialista Unificado de Cataluna",
+    "Partido Socialista Unificado de Cataluña",
+    "Partit Socialista Unificat de Catalunya",
+    "Partit Socialista d'Unificació de Catalunya",
+    "Unified Socialist Party of Catalonia"
+  ],
+  "website": "http://psuc.cat/",
+  "founding": {
+    "date": "1936-07-23",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2630934#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1997-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2630934#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

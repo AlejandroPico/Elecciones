@@ -2,7 +2,7 @@
   "id": "registro-6308",
   "name": "XAV",
   "fullName": "POR ÁVILA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6308",
     "name": "POR ÁVILA",
@@ -11,5 +11,20 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6308",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://poravila.es/"
+  "website": "https://poravila.es/",
+  "wikidata": "Q64075351",
+  "aliases": [
+    "For Ávila",
+    "Per Àvila",
+    "Por Ávila"
+  ],
+  "founding": {
+    "date": "2019-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64075351#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

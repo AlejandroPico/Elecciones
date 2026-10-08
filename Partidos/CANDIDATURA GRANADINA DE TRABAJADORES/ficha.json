@@ -2,7 +2,7 @@
   "id": "registro-507",
   "name": "C.G.T.",
   "fullName": "CANDIDATURA GRANADINA DE TRABAJADORES",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito granadino. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "507",
     "name": "CANDIDATURA GRANADINA DE TRABAJADORES",
@@ -10,5 +10,11 @@
     "locality": "Granada (Granada)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=507",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q108587745",
+  "aliases": [
+    "CGT",
+    "Candidatura Granadina de Trabajadores",
+    "Candidatura Granadina de Treballadors"
+  ]
 }

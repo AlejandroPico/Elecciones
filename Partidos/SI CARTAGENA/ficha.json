@@ -2,7 +2,7 @@
   "id": "registro-6896",
   "name": "SI CARTAGENA",
   "fullName": "SI CARTAGENA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6896",
     "name": "SI CARTAGENA",
@@ -10,5 +10,19 @@
     "locality": "Cartagena (Murcia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6896",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q128017027",
+  "aliases": [
+    "Sí Cartagena"
+  ],
+  "website": "https://grupomunicipalmixtosicartagena.es",
+  "founding": {
+    "date": "2022-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q128017027#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

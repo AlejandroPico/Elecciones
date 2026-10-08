@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "senado",
+    "key": "15287",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15287",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "chamber": "senado",
+    "key": "15287",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15287",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "007391641eb8755f8c198ca4178802b8a26d4332e5348fe518ab6daf48f8d322",
+    "error": null
+  }
+]

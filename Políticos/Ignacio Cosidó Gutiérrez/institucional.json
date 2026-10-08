@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "140-10",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=140&idLegislatura=X",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "24c036728c273d3b361ee423b28b87ad9ab144241895c23cc9edf69272c722e1",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "12882",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=13&id1=12882",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "12882",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=13&id1=12882",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "7d94b2f31c8f842fe7eefd00532b3158b8ff5abfc726c0be36cdffa187b1798a",
+    "error": null
+  }
+]

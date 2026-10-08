@@ -10,5 +10,23 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2889",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3822555",
+  "aliases": [
+    "Cannabis Party",
+    "Partido Cannabis",
+    "Partido Cannabis por la Legalizacion y Normalizacion",
+    "Partido Cannabis por la Legalizacion y Normalización",
+    "Partido Cannabis por la Legalización y Normalización",
+    "Partit Cannabis per la Legalització i Normalització"
+  ],
+  "founding": {
+    "date": "2003-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3822555#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

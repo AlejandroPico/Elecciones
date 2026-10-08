@@ -2,7 +2,7 @@
   "id": "registro-3887",
   "name": "PUYALÓN",
   "fullName": "PUYALÓN DE CUCHAS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político aragonés. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3887",
     "name": "PUYALÓN DE CUCHAS",
@@ -10,5 +10,22 @@
     "locality": "Zaragoza (Zaragoza)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3887",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3571340",
+  "aliases": [
+    "Puyalon",
+    "Puyalon de Cuchas",
+    "Puyalón",
+    "Puyalón de Cuchas"
+  ],
+  "website": "https://puyalon.org/",
+  "founding": {
+    "date": "2010-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3571340#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

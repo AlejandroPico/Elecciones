@@ -1,0 +1,870 @@
+[
+  {
+    "id": "aitor-esteban",
+    "previousId": "congreso-304-15",
+    "names": [
+      "Luis Aitor Esteban Bravo",
+      "Aitor Esteban Bravo"
+    ],
+    "birthDate": "1962-06-21",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "2f6800a09df9c3d51e99f823e909f1d210c458867d7d198481279e04e765e93a"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "c98098c2e2e465c185379c2f0d8f0184f7a5427666007ab303954924f39231d5"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "13ca82c899d81a9a9771bed69881f7cf8e693408678296ef1d7a71e6df3004bc"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "a66098a335a871fe87a91503fdaf06c144502c66326fa861c8f8e074054bf1f7"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "ffde94c6dbf2fcdece431801a375f7dc1f2924f6da1aee2e0c86ec476e506e96"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "ec560c8f76ada7f56fa223d26dd840303e878a7de9b47dd9f0c8f0f6f670a0f4"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "a15f34c7c513fd0666c3249b0fe38f86db7c36e1d77ffdaf181fa992e126ce4b"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "242521de9cae83a7f343fa65442aa9fa84aa215736509cf95bc26847664415b5"
+      }
+    ]
+  },
+  {
+    "id": "senado-10468",
+    "previousId": "congreso-22-1",
+    "names": [
+      "Ángel Antonio Franco Gutiez",
+      "Angel Franco Gútiez"
+    ],
+    "birthDate": "1945-12-09",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "79319fe3074c955dfa92b0d724d2ae03b5694dd4a9ae3e68e7e2e871324141b6"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "e671d5080d6544625df493cf5db60e83bb80a80a9853eff891eca02ca8afab71"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "b82e95b51a88c52a949d8f27a93c1f74e463512e6198cce8a6a76ac205791d14"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "faa4321d0b4f19bb6f93b4ffb8764e46ccfdbc29c2ffc9011c029baa25bd9ce4"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "cc31f23985a917b1408e49ea453cc376f901f546a2312428d06d4d830844359d"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "143df6aa5d3231f89c87661725991fb1a471f1fad577dab6d3259c1fc65ea233"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "c027554487611884508189aab2e2b5ff48fec9b4b34957cd6813970e2cfb7cce"
+      }
+    ]
+  },
+  {
+    "id": "congreso-65-15",
+    "previousId": "senado-12969",
+    "names": [
+      "Carmen Fúnez de Gregorio",
+      "María del Carmen Fúnez de Gregorio"
+    ],
+    "birthDate": "1975-10-20",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "e04aff40653161c7c8523fa3adf09837b9b4c1b080ff8166d27d9a470c986899"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "9ebab9d789859e71f301c04ba8049f10bec5daabe53a12df6529cbb21a19a459"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "879459cc77994828962f13eb0d7f434f2f9d8cd13677fd108c5b0d4307c628e0"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "81a44a191be77c6ed433fd09ebb5bb63f0a7e58e71ecef9e9490e19c4df8c4ca"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "2bc4ef2c9cd317c0179fed1bcb7a59b9541643984a03c3c6ebf0fbd4ca4995a7"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "aad06d544e6fc83937cd4b8072168838b17642ec239810fc74b3c6a848b595c2"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "b05944f2a5177a518bb28e29fc7b9890b1c713af6be3d3a2b04500f995e27432"
+      }
+    ]
+  },
+  {
+    "id": "eduardo-zaplana-hernandez-soro",
+    "previousId": "congreso-68-9",
+    "names": [
+      "Eduardo Andrés Julio Zaplana Hernández-Soro",
+      "Eduardo Zaplana Hernández-Soro"
+    ],
+    "birthDate": "1956-04-03",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "d40e3f3418b8b947b37d74f186b4a47f72674e3021729dc54b714f74ac083bee"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "32bbc7a84c20943aeb13bc24adf51738237b79182ecca705db4a973b10cc2085"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "d43624c5b95cb2f78159e7399ab82dfb4e175f0fdc6727851533b1a05c8d7280"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "babc341f555b17b40a9e2a4de01e590d57937cd0aba8258eb4ca7658a7809ecb"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "5626134ba77f4e6b9c9ff6111877155e8f5b81c1760e210c3a8219072766ccb8"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "858b31a6aee10f82babdffa93b0a5b5ef23a0098060b1b3c77db1767354a0606"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "de9c3346069255085ec0a1329d46927530a6fd44424a2ecdbdb1e0f8a05f4503"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "e3a6d7eff4aaa20a037fe56cc7d6a8c69ab6fc8f362cbec59336194fd9fd307a"
+      }
+    ]
+  },
+  {
+    "id": "senado-10270",
+    "previousId": "congreso-153-2",
+    "names": [
+      "Felipe Guardiola Sellés",
+      "Felipe Guillermo Guardiola Selles"
+    ],
+    "birthDate": "1951-09-27",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "81be46a0c20ecfd95a929ad5e5b2b15c0e2573bf280a5ba5f146522617d3c125"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "e9088089c5302cda836d445c03dd26464f7c25c85e970be440d1b46559279b43"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "ef8fd0c6377274b2f1b73388a53efe56b712bbc629b9d642cef229fd45b69e16"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "d14ebbb9b2b8595f705c77d9541eb765097c4c0d51ac81bbbc63808768a2e735"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "81685c175836c3e53c6cee5363eb1c768a268aaf13c01e61f7dbac3b4f49c151"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "fd2f371f264ec141bedc955a22355fd499fd8d58a0ff6c6758dda67851fd0b25"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "c69d68b38a32aa4c37ca7a23d8991822baa130a79b05cdcfd7bd575e2accf3ea"
+      }
+    ]
+  },
+  {
+    "id": "congreso-356-5",
+    "previousId": "congreso-384-3",
+    "names": [
+      "Rafael María García-Rico Fernández",
+      "Rafael García Fernández"
+    ],
+    "birthDate": "1962-12-05",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "ebe7e960586a670fd7e68d6144fb4f788942eea38d80bdec22fbee109c7296b6"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "9bf50d421afc6766dca335dd455a494b89ef8cbfd25feecd40e9e1a738a7c2ee"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "ebfff263b2bd23f8a01deabb086df469f50cb61f9fc674b9ca60534685821c35"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "cf52bdcfec7c249e74ac7590b57bf7bc0a18e24c79b7c67062804c2fe787bdf0"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "16175144e7d0e3075f33fc7ea251cb4f3f2bb34c00fea4ea5e929ca0318e94eb"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "47858c4d5fb479ca46a76ad244ed9aab404bd1bcce4c9dd8685c2308147c6e80"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "bd3387fe52afe1cdfb1680b5d943c8920105444243b3ac061a6fa91b47c9e53e"
+      }
+    ]
+  },
+  {
+    "id": "francisco-caamano-dominguez",
+    "previousId": "congreso-66-10",
+    "names": [
+      "Francisco Caamaño Domínguez",
+      "Francisco Manuel Caamaño Domínguez"
+    ],
+    "birthDate": "1963-01-08",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "cbcd134c4c7e80c8ec4d71b23ccd627a503998b45e50d449e37d04818859969e"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "068c7e5be2e7caae3c49780ffbea93e19e68fefdeae12aec5f59df6561ab3966"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "9acc11a842d1ac6e02fdca8ea8f57264764a3ce3edbcaf6927173b2909a938f5"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "d6f1a8313acb99bb145ebb0eacb0c52e33f7feb7625982cce9435a40358387b5"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "e2a449075dcad83ef6cc9003c0d2cdf00f828a194ba6f0887d87acb87cb8fd61"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "2a7d58e710d1dceff1a8194c75f3ab41dbc0874caa0676a30a06109cb2eadf76"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "7f92947b1738fea7b98247a66283ec07a9cb8b267379e000cb3452de273df79e"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "1bfa05d499fb28619cdf43c11f8148e1d0a61b89542b48812bb67d477ad98e66"
+      }
+    ]
+  },
+  {
+    "id": "francisco-fernandez-ordonez",
+    "previousId": "congreso-249-3",
+    "names": [
+      "Francisco Fernández Ordóñez",
+      "Francisco José Fernández Ordóñez"
+    ],
+    "birthDate": "1930-06-22",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "bbd17a73ff2ea66596974314304748d1d35bddc0f779009eac7b27ca6dbe8928"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "3c5b7c1d2068c6389a84a20958a9635f03783898a48525051ba4b5505439884b"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "a37f96d2b3509e74bf9c482b41ddf8695bd4c4ba81125118d2fb1d7772c1a202"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "3e7f5849b70b64629b7447e48f441776c388b10b4a2a3127eca1fd718838e1a1"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "ff59ef1c4dd4310760a668e13d1183768460c8d75ba6fdde1d3ec716ec35d099"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "a5388c937d7fa1da953977da34f30ea32bd20a794f45ab841f8a3dc79da517fd"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "1140817e43373e314a744309041e1eb002a22471cdade26d104af50a12bbcbd6"
+      }
+    ]
+  },
+  {
+    "id": "congreso-379-15",
+    "previousId": "senado-15905",
+    "names": [
+      "Paula Fernández Pena",
+      "Paula María Fernández Pena"
+    ],
+    "birthDate": "1971-01-29",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "4c427bda59ae23ad6ca68037fa9b41c1b9b805866ceb9b4dcf14155782c08cab"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "c8bfb0301c4b26fb28846a840767ea33e536b6e3bf6051ee2b6125776d5aa158"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "de79f6c3ada036531b9af5c5b93f0c836b6ea2094328dc4ca103f1705043d66f"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "9412cf613ed490df585bdb44fc56fcede442c66aec8b91f35a6e1d766d0d39c4"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "deb3fea2931829a9e0eaf26646e0098fa530bfd041f8bb18b4d240914a3127ab"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "e16b84934be838bd7f9ed3458ae8691c0ca9d35862d37781144ef541f99f7998"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "446fa0c2034deb65a39346eb25808c229fa2145a774e3bba66687501f43a53af"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "b37767a68341c05b62e4b1e1124ea80b167f4f50da4211f5cb96b3a5acc422fa"
+      }
+    ]
+  },
+  {
+    "id": "senado-10009",
+    "previousId": "congreso-375-2",
+    "names": [
+      "Joaquim Ferrer i Roca",
+      "Joaquím Ferrer Roca"
+    ],
+    "birthDate": "1937-10-18",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "5414c0b2b742b672c9f0ba33771224e39c922dc81aa1877036f3df572832c885"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "db9f684e9dc351516b5d552633fb0ef684dc53e7d7b6bf6c581db8b12cb28b59"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "f25581055b3320707d37adbadb417deb5be2fc41a649258b6d3f47d86586d468"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "cdc57661a0d5e442db4f4d6b799e4b859157fbef1a0785bb82bb7d668cd54608"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "636ddf23eb06b4340afb19f5c29ff2d14682d6c61fd7b4a1b776a83e0881c560"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "5cc81b454579fb37e809d47b733e8a98dfa788b007e52c283c0022adbb28fac3"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "88a0f252ac0e107d41798e8d4fef9931932ca789e3bc9a72b1c0f05961a75cbd"
+      }
+    ]
+  },
+  {
+    "id": "juan-lerma-blasco",
+    "previousId": "congreso-77-2",
+    "names": [
+      "Juan Lerma Blasco",
+      "Juan Francisco Lerma Blasco"
+    ],
+    "birthDate": "1951-07-15",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "e4d9eea025df790e7ae29cdaa65a20125aa55a9d2d37820d1a49129b4de76a5a"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "e81fa9b1a0f66fd0362bc99c91cc8c9b169ec0bf5e692f1067abce58f38613ba"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "dc4b71dfff3ec90753e537da065fe6669a979112ca9317162b04d7850bfbfac3"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "cfa57187c55782905bacf885d9dd15a2e55f77759ad5d552c284b3b1826e8612"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "65986e2649d63817cdf46fc87b316973e2c3ae9c13719de0fafa5a2c59f7b0f2"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "909b0407ae010453a753fabd43ff1c76842571e95219b6fa21e95b9547bc529b"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "0f0960d10ba7dda4ecf4d57f7e872118bd5000c0d2efd6c76fccc2c25b082f4d"
+      }
+    ]
+  },
+  {
+    "id": "senado-10562",
+    "previousId": "congreso-277-10",
+    "names": [
+      "Vicente Liliano Ferrer Roselló",
+      "Vicente Ferrer Roselló"
+    ],
+    "birthDate": "1959-07-09",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "b922b2dc25c2e222e4fe26829bdca29a4b6b1e7fbb01435d58116121da0bb29d"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "cb8d7539a7827822d41b4dd7c6343279835aa545640adb69a99f450b37fa9ac2"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "0938438d648f20bb8b95b1be9fd0b3688f0fcea0039724e05e92b3d33b0b88d4"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "9e5c8ee2b1af1008bf657496251e8a139dd29d6358f85201149cec427a783292"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "86c64ec8c72d877b7441ed854ad996b6a139c4affdcbeab1c221d2b4b8f34db7"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "77e20e4d54ebd3791d25ba57bf4e684e5140758f26973264754675fab8cdb3c4"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "775b1b015cdc2682d754c7252b30e7830d94561ed4c5155443ca02dd5771c934"
+      }
+    ]
+  },
+  {
+    "id": "leopoldo-calvo-sotelo-y-bustelo",
+    "previousId": "congreso-372-2",
+    "names": [
+      "Leopoldo Ramón Pedro Calvo-Sotelo y Bustelo",
+      "Leopoldo Calvo-Sotelo Bustelo"
+    ],
+    "birthDate": "1926-04-14",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "cfd6ea942ba01e5885048c0bbee0d60d779f5c9c514318fa938c842bc3c3a2e0"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "90461e14d324cb36a95b18a1e72160eb556e84db69556f2acc28c7ca55c5945e"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "e1f058f6320f68fcf520432a434e928b3af84ff6f21c09b028f07321e888fea3"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "58a095306992eb044e100e95bd3f41173003fd108b2b488e0db0adf7f81851eb"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "e259ae966dcad76e704592823e1b93d08b279df6824a0294bb5fdafe6cf16477"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "9475d3d9d71ba440274ef178a1e376014e460863e1d3e3bdfa1ba861e4331380"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "3a282ee76e87e695840ebff40f12beac0b63a38d714d6aed9986e6bc6e445147"
+      }
+    ]
+  },
+  {
+    "id": "manuel-chaves-gonzalez",
+    "previousId": "congreso-252-10",
+    "names": [
+      "Manuel María Chaves González",
+      "Manuel Chaves González"
+    ],
+    "birthDate": "1945-07-07",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "b3f6b4ee12b2b9cc7b561498cf39b5b75d8fcc52838ebf1bacd595adeec3384e"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "cfa1a88947df9c22b7c5cb143ee37d84affa25a216b5effd71c3a2526ac8c19d"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "39b3b1bdc28ca5ef860e5ffe987288c69ac3eab1abfe73b2fb24d87e03dfa83e"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "5ef3d8537a6375ad4bd63211f2548150823c721a8d2e995f55a7e38ae3192041"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "28caba267ab12d4bee7d676e02c0ddf6fb8ae96c753a36c03570e7d44abb3ef1"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "505a4f44c455edd25ba64d28ab093324587ec39f0a1bfc0f512bb4feac8e5d99"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "9d3db3747b9388eb05b7e83818da32d7eac23b19745d7b3fdaba5888d9a0effa"
+      }
+    ]
+  },
+  {
+    "id": "senado-15244",
+    "previousId": "congreso-46-14",
+    "names": [
+      "María de los Ángeles Marra Domínguez",
+      "María Ángeles Marra Domínguez"
+    ],
+    "birthDate": "1966-01-31",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "6d2531e752ca3d2a90ceaaf363a0f2f14ce1e43ddc744aa2537bfd02833bf154"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "6b7fcce77ac223e24b048af5590fd646fa336abdc6b82afacab924451c70e794"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "a5043bc372647c7233e953db9a0df50e455fee8f72a572081a7ebb63dc47d4ba"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "65ac4f2c83052cea6e26cb4fdaa7ab1d106264f19355d4b4284aca9a1dbc16b0"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "3a8d6ff4440ea9746d61f0458a15c637b4b55ea97150d8dfa4f05acd4b08b767"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "80266fe93ca39a5db0f4e6422f94fd9f0f00aa65f9a88a9c0b9e6a3ca9dfafa7"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "6290a0e8f06232030ab00944463a34530b7399ea66a690633ecf496447a562fc"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "35ef6e9e126b57f513c4c4fbc4ff98dd3c6ca7f815a9849db9ea2fedddc7ec93"
+      }
+    ]
+  },
+  {
+    "id": "senado-10492",
+    "previousId": "congreso-86-9",
+    "names": [
+      "Octavio José Granado Martínez",
+      "Octavio Granado Martínez"
+    ],
+    "birthDate": "1959-04-09",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "a7c653ad3c1077146ff647ab9dd289c736d2d35bb03969ca0a325e89a58a6390"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "cc0a9242610af68234abd0cf89399c881acf7a0ab3cf6c7b9af2005f9c9c5c5a"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "58db2698795e75bc45a386490af2b347e11e579be7511c07f88a69f2bbe6b372"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "411994b1265ae53fcfa3fbd695605ea7e6079821e2bd4b0f6c658b9aebb11dcd"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "3441d6695a0c9a999bddcb56e66762f563a48def6c8ea1d1aab15427b5adba60"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "063132d0634187334dd1164ee588079807015ca3a8e50f71b9228741c87ede49"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "0f24f667308bf9841301fce3ddf1ed06a87323fe8fddd6a3b248703d0c07f59d"
+      }
+    ]
+  },
+  {
+    "id": "oriol-junqueras",
+    "previousId": "congreso-333-13",
+    "names": [
+      "Oriol Junqueras i Vies",
+      "Oriol Junqueras Vies"
+    ],
+    "birthDate": "1969-04-11",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "08141f4b1fc61179fb40576398340f0740b124112b6bb91fb654edaf15c56a9a"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "8d315bc656f767a631c3e25e29ffae0bd573ad94e3610ca17147f825a4fd6a18"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "b3efeed513647fc905c481851758076499806d5105142fa484a63452d1447e2f"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "0ad632d63e729de15e51077d6f9bc90a2d24ad3187cbdbc2bbc7061cf2c6727d"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "8ea58ff2b7fb4898715a503b8ab7baa4f8727be1f2dbc4448cc12f962881645b"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "d60448640aa80887513ff419116f7f8340d9d714b8b49bc7453e177d65cbc7d3"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "7c043b3002232b5940466b1789722307896aff913773e3de3a0edaf275bc50ce"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "f645eeabb2579124e2989701dfec731fe95f3e69afdc86ed4c6cf2b0f6d9525d"
+      }
+    ]
+  },
+  {
+    "id": "senado-10368",
+    "previousId": "congreso-147-7",
+    "names": [
+      "Ramon Companys i Sanfeliú",
+      "Ramón Companys Sanfeliu"
+    ],
+    "birthDate": "1949-09-07",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "9b16af7e9589992f5414015673d64673293ff67d5e747b312875bea1cb521475"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "b7ef741e24e59c5348709ab0828a327ae5af000bfc5dd2998c455c6686dcc1f2"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "0f98174d926bbb286f8732e97f872864921c34245b3c6a2bb64dae37cd628f8b"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "f5a35ac388a43a187703bf60f29a51f41eb06a4c91aa145909cb5b36dfca6aa8"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "34c496dd39b7c8e9863148c145d98306633dfcf826547b418356bfce01ee9368"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "616d065a4b7b2cf7a809bb65403f2cd14acabe7b72fdb3cfbe07733ed64bc704"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "86a29898a8efcdc169b0c26fbb5cfb2c22cf39053994bfbdacde3f1e4b93e6cf"
+      }
+    ]
+  },
+  {
+    "id": "senado-10500",
+    "previousId": "congreso-282-7",
+    "names": [
+      "Ricardo Manuel Bueno Fernández",
+      "Ricardo Bueno Fernández"
+    ],
+    "birthDate": "1940-04-24",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "64d358a3e5c12b75a0a0bd60e236b1f4849a91dbad0b6b86ecb8c25fc5caeb0b"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "752b1b72fd008dc5d2cf6448648cd0d8b623f8dfcc53ef3c8b8353cd61a82575"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "beab00569f0b37604e20c71ee05e22e6b7805e151d1cfc5ca88785ffce9320ca"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "39a8343d2ef36116956202b2d41df5acc483c9360c52843940ae87829d18762a"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "e7999165944e0815c9eadc253aef18002117a818995472388f03220c046d8e45"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "45277735f2f083453b1ab1fbc19d1adf344ca3837abaaf8d416575a494bdb3b5"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "3ad5c23fca616dd976107337e0fa1f1d0a761ce97c01ac4cca21c0b017f7c7ff"
+      }
+    ]
+  },
+  {
+    "id": "santiago-carrillo",
+    "previousId": "congreso-293-2",
+    "names": [
+      "Santiago José Carrillo Solares",
+      "Santiago Carrillo Solares"
+    ],
+    "birthDate": "1915-01-18",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "2df946ed9efd268d26c16ec5223ba13106cd15b5a8da798ec2dc79fbdd2d365f"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "5b36cc8109f8a6aef92ff7951b852c1a44f85050ca3b8accd09929b65612f09c"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "b57f56d8c3bda9bd8f59a98e9e5fe77709e00aa3078c33b3f0ab64cfd644d9f2"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "9a2143199c06414fbf7dcf038e2a93b2a49ccdafe1e230e90312eb0127cff31c"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "853d5de9837a32e76e8813c944ae392018d986642072260c833f2564ea9fe156"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "4776b2382e0f3bd6143063c8d54473993736a0e01440d81cab1fd38919a9d2ee"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "150fe679c30946070ef977a2ddccae70442255a3994c756cbddf914979314a23"
+      }
+    ]
+  },
+  {
+    "id": "congreso-182-6",
+    "previousId": "senado-10262",
+    "names": [
+      "Gustavo-Adolfo Alcalde Sánchez",
+      "Gustavo Alcalde Sánchez"
+    ],
+    "birthDate": "1955-08-16",
+    "evidence": "Nombre completo compatible y fecha de nacimiento coincidente; fuentes individuales conservadas.",
+    "resources": [
+      {
+        "file": "afiliaciones.json",
+        "sha256": "49b26be9adb076679e3d3ea5df53baca70cf814a40c5891e812933a78cdcda5e"
+      },
+      {
+        "file": "biografia-institucional.json",
+        "sha256": "b37789efa8b0929e9d721519214793dba1dc39603315d476c2fb3eeebc4a429d"
+      },
+      {
+        "file": "datos-personales.json",
+        "sha256": "1baf33625e2ea4634b9047fb127fdaf341bc7447f379677fad4ab5a630174c5e"
+      },
+      {
+        "file": "fuentes.json",
+        "sha256": "7f656db47cac5b9ea513122f01bad07c68d45fa8c34554ac2399eadbe1da52ed"
+      },
+      {
+        "file": "institucional.json",
+        "sha256": "ed94a4ba1a8c297127ae644ee58868509bfba3a0dc6146376b481bb9ce0d11c3"
+      },
+      {
+        "file": "retrato.jpg",
+        "sha256": "76b3bf635b1691c450ac44d696ca1fb90902fe65a255795d8c7596f8d50344be"
+      },
+      {
+        "file": "retrato.json",
+        "sha256": "aa23a3875418a1fd589d0271f7f8a0717a74053a832f763085ad7b73e819c2fb"
+      },
+      {
+        "file": "trayectoria.json",
+        "sha256": "c13440adf7a19d37aac6c1b86876dcce1690b2eeadc159756432cb19ce134c45"
+      }
+    ]
+  }
+]

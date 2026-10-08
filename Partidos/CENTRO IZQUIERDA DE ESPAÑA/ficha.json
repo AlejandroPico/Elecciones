@@ -10,5 +10,21 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5797",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q32567778",
+  "aliases": [
+    "Centro Izquierda Nacional",
+    "Centro Izquierda de España",
+    "dCIDE"
+  ],
+  "website": "https://www.dcide.org.es/",
+  "founding": {
+    "date": "2017-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q32567778#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

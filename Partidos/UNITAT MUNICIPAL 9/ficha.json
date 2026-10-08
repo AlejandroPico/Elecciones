@@ -10,5 +10,19 @@
     "locality": "Sant Pere de Ribes (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1610",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20104547",
+  "aliases": [
+    "UM9",
+    "Unitat Municipal 9"
+  ],
+  "founding": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20104547#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

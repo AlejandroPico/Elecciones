@@ -2,7 +2,7 @@
   "id": "registro-1986",
   "name": "CPP",
   "fullName": "CIUTADANS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1986",
     "name": "CIUTADANS",
@@ -10,5 +10,47 @@
     "locality": "Caldes d'Estrac (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1986",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1393123",
+  "aliases": [
+    "C's",
+    "Citizens",
+    "Citizens (Spanish political party)",
+    "Citizens Party",
+    "Citizens – Party of the Citizenry",
+    "Ciudadanos",
+    "Ciudadanos - Partido de la Ciudadania",
+    "Ciudadanos - Partido de la Ciudadanía",
+    "Ciudadanos - Partido de la ciudadanía",
+    "Ciudadanos Partido de la ciudadania",
+    "Ciudadanos Partido de la ciudadanía",
+    "Ciudadanos-Partido de la Ciudadania",
+    "Ciudadanos-Partido de la Ciudadanía",
+    "Ciutadans",
+    "Ciutadans - Partido de la Ciudadania",
+    "Ciutadans - Partido de la Ciudadanía",
+    "Ciutadans - Partit de la Ciutadania",
+    "Ciutadans Partido de la Ciudadania",
+    "Ciutadans Partido de la Ciudadanía",
+    "Ciutadans, Partit de la Ciutadania",
+    "Ciutadans-Partido de la Ciudadania",
+    "Ciutadans-Partido de la Ciudadanía",
+    "Ciutadans-Partido de la Ciutadanía",
+    "Ciutadans-Partit de la Ciutadania",
+    "Cs",
+    "Herritarrak",
+    "Partido de la Ciudadania",
+    "Partido de la Ciudadanía",
+    "Partit de la Ciutadania"
+  ],
+  "website": "https://www.ciudadanos-cs.org/",
+  "founding": {
+    "date": "2006-03-04",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1393123#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

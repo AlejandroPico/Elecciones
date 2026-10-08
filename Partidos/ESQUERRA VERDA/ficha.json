@@ -2,7 +2,7 @@
   "id": "registro-1996",
   "name": "EV",
   "fullName": "ESQUERRA VERDA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político ecologista español de ámbito catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1996",
     "name": "ESQUERRA VERDA",
@@ -10,5 +10,21 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1996",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q105946706",
+  "aliases": [
+    "EV",
+    "Esquerra Verda",
+    "Green Left"
+  ],
+  "website": "http://www.esquerraverda.cat/",
+  "founding": {
+    "date": "2021-03-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q105946706#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

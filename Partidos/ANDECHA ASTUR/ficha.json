@@ -2,7 +2,7 @@
   "id": "registro-1091",
   "name": "ANDECHA",
   "fullName": "ANDECHA ASTUR",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1091",
     "name": "ANDECHA ASTUR",
@@ -10,5 +10,20 @@
     "locality": "Oviedo (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1091",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3293760",
+  "aliases": [
+    "AA",
+    "Andecha Astur"
+  ],
+  "website": "https://www.andecha.org/",
+  "founding": {
+    "date": "1990-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3293760#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

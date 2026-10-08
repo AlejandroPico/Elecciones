@@ -2,7 +2,7 @@
   "id": "registro-629",
   "name": "P.R.D.",
   "fullName": "PARTIDO REFORMISTA DEMOCRATICO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "629",
     "name": "PARTIDO REFORMISTA DEMOCRATICO",
@@ -10,5 +10,31 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=629",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3395147",
+  "aliases": [
+    "Democratic Reformist",
+    "Operació reformista",
+    "Partido Reformista Democratico",
+    "Partido Reformista Democrático",
+    "Partit Reformista Democràtic"
+  ],
+  "founding": {
+    "date": "1984-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3395147#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1986-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3395147#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

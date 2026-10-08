@@ -10,5 +10,20 @@
     "locality": "Palafrugell (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1661",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64091438",
+  "aliases": [
+    "AMC",
+    "Acció Municipal de Catalunya",
+    "Partit Acció Municipal de Catalunya"
+  ],
+  "founding": {
+    "date": "1995-03-31",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64091438#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

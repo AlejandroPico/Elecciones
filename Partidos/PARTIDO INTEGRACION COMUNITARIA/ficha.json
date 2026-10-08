@@ -10,5 +10,20 @@
     "locality": "Azuqueca de Henares (Guadalajara)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4654",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q110949317",
+  "aliases": [
+    "Partido Integración Comunitaria",
+    "Partido de Integración Comunitaria",
+    "Partit Integració Comunitària"
+  ],
+  "founding": {
+    "date": "2011-07-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q110949317#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

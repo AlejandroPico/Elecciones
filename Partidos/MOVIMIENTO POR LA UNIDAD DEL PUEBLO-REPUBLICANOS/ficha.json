@@ -10,5 +10,21 @@
     "locality": "Elche/Elx (Alicante/Alacant)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3394",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9035538",
+  "aliases": [
+    "Movement for People's Unity–Republicans",
+    "Movimiento por la Unidad del Pueblo - Republicanos",
+    "Movimiento por la Unidad del Pueblo Republicanos",
+    "Movimiento por la Unidad del Pueblo-Republicanos"
+  ],
+  "founding": {
+    "date": "2003-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9035538#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

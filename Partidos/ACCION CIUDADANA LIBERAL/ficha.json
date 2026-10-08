@@ -10,5 +10,31 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=317",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3323445",
+  "aliases": [
+    "ACL",
+    "Accion Ciudadana Liberal",
+    "Acció Ciutadana Liberal",
+    "Acción Ciudadana Liberal",
+    "Liberal Citizens Action"
+  ],
+  "founding": {
+    "date": "1978-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3323445#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3323445#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

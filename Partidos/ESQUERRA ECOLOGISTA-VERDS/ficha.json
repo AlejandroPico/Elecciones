@@ -10,5 +10,19 @@
     "locality": "Hospitalet de Llobregat, L' (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2465",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q15983909",
+  "aliases": [
+    "Els Verds - Esquerra Ecologista",
+    "Esquerra Ecologista-Verds"
+  ],
+  "founding": {
+    "date": "2001-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q15983909#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

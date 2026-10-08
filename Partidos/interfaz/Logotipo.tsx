@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { logos } from "./catalogo";
 import type { Organization } from "../../Políticos/interfaz/datos/tipos";
 export function PartyLogo({
@@ -9,6 +9,7 @@ export function PartyLogo({
   className?: string;
 }) {
   const [failed, setFailed] = useState(false);
+  useEffect(() => setFailed(false), [party.id, logos[party.id]]);
   return logos[party.id] && !failed ? (
     <img
       className={className}
@@ -20,7 +21,7 @@ export function PartyLogo({
   ) : (
     <span
       className="party-logo-pending"
-      aria-label={`${party.fullName}. Logotipo pendiente`}
+      aria-label={`${party.fullName}. Sin logotipo documentado`}
     >
       <strong>
         {party.name.length <= 15

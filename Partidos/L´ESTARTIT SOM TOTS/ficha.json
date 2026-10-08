@@ -10,5 +10,22 @@
     "locality": "Torroella de Montgrí (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3945",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q64495355",
+  "aliases": [
+    "El Estartit Somos Todos",
+    "L'EST",
+    "L'Estartit Som Tots",
+    "LEST",
+    "We All Are L'Estartit"
+  ],
+  "founding": {
+    "date": "2009-11-13",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q64495355#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

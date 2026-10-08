@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "131-12",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=131&idLegislatura=XII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "c2cd1c510952ed5bef79502d4428e56b0dd20e8c208610e8368ae9b983a526fc",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "15385",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=13&id1=15385",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "chamber": "senado",
+    "key": "15385",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=13&id1=15385",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "7c7a69d7b930aa9349223209d4a6e918a87df7f874ee09eeb08f7f104e0e914a",
+    "error": null
+  }
+]

@@ -10,5 +10,19 @@
     "locality": "Roses (Girona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5167",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q78925672",
+  "aliases": [
+    "Gent del Poble de Roses",
+    "People from Roses"
+  ],
+  "founding": {
+    "date": "2014-12-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q78925672#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

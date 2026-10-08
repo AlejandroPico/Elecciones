@@ -10,5 +10,20 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6495",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q106350775",
+  "aliases": [
+    "Orden y Ley",
+    "Ordre i Llei",
+    "POLE"
+  ],
+  "founding": {
+    "date": "2019-06-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q106350775#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

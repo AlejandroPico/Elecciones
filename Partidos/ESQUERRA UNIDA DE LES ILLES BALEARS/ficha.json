@@ -2,7 +2,7 @@
   "id": "registro-1775",
   "name": "EUIB",
   "fullName": "ESQUERRA UNIDA DE LES ILLES BALEARS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido Político de las Islas Baleares. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1775",
     "name": "ESQUERRA UNIDA DE LES ILLES BALEARS",
@@ -10,5 +10,21 @@
     "locality": "Palma (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1775",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8560779",
+  "aliases": [
+    "EUIB",
+    "Esquerra Unida de les Illes Balears",
+    "United Left of the Balearic Islands"
+  ],
+  "website": "https://euib.org/",
+  "founding": {
+    "date": "1996-11-06",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8560779#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

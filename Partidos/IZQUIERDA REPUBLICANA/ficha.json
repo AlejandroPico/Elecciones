@@ -2,7 +2,7 @@
   "id": "registro-294",
   "name": "I.R.",
   "fullName": "IZQUIERDA REPUBLICANA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español fundado en 1977. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "294",
     "name": "IZQUIERDA REPUBLICANA",
@@ -10,5 +10,22 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=294",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3099344",
+  "aliases": [
+    "IR",
+    "Izquierda Republicana",
+    "Izquierda Republicana (1977)",
+    "Republican Left"
+  ],
+  "website": "https://izqrepublicana.es/",
+  "founding": {
+    "date": "1977-11-10",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3099344#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

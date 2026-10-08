@@ -2,7 +2,7 @@
   "id": "registro-205",
   "name": "U.P.G.",
   "fullName": "UNION DO POVO GALEGO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político comunista y nacionalista gallego en España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "205",
     "name": "UNION DO POVO GALEGO",
@@ -10,5 +10,26 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=205",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q2742082",
+  "aliases": [
+    "Galician People's Union",
+    "Galiziar Herriaren Batasuna",
+    "UPG",
+    "Union do Pobo Galego",
+    "Union do Povo Galego",
+    "Unió del Poble Gallec",
+    "Unión do Pobo Galego",
+    "Unión do Povo Galego"
+  ],
+  "website": "https://upg.gal/",
+  "founding": {
+    "date": "1963-11-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q2742082#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

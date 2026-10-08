@@ -2,7 +2,7 @@
   "id": "registro-964",
   "name": "CATALUNYA LLIURE",
   "fullName": "CATALUNYA LLIURE",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Coalición electoral española de ideología independentista catalana. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "964",
     "name": "CATALUNYA LLIURE",
@@ -10,5 +10,29 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=964",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3313721",
+  "aliases": [
+    "Cataluna Libre",
+    "Catalunya Lliure",
+    "Cataluña Libre"
+  ],
+  "founding": {
+    "date": "1989-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3313721#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1996-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3313721#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

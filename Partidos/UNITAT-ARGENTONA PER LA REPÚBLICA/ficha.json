@@ -2,7 +2,7 @@
   "id": "registro-6451",
   "name": "UNITAT",
   "fullName": "UNITAT-ARGENTONA PER LA REPÚBLICA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Argentona (Cataluña). La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6451",
     "name": "UNITAT-ARGENTONA PER LA REPÚBLICA",
@@ -10,5 +10,20 @@
     "locality": "Argentona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6451",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q87108034",
+  "aliases": [
+    "Unitat",
+    "Unitat Argentona per la República",
+    "Unitat-Argentona per la República"
+  ],
+  "founding": {
+    "date": "2019-03-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q87108034#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

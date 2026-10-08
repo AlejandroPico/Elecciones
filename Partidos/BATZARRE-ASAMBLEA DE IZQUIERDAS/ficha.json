@@ -2,7 +2,7 @@
   "id": "registro-1118",
   "name": "BATZARRE",
   "fullName": "BATZARRE-ASAMBLEA DE IZQUIERDAS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito navarro. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1118",
     "name": "BATZARRE-ASAMBLEA DE IZQUIERDAS",
@@ -10,5 +10,20 @@
     "locality": "Pamplona/Iruña (Navarra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1118",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q385005",
+  "aliases": [
+    "Batzarre",
+    "Batzarre-Asamblea de Izquierdas",
+    "Batzarre-Assemblea d'Esquerres"
+  ],
+  "founding": {
+    "date": "1987-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q385005#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

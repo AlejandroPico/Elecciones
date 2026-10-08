@@ -10,5 +10,19 @@
     "locality": "Jávea/Xàbia (Alicante/Alacant)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2078",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q11913503",
+  "aliases": [
+    "BLOC-Centristes",
+    "Centristes de Xàbia"
+  ],
+  "founding": {
+    "date": "1999-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q11913503#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

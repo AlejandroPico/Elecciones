@@ -10,5 +10,20 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=690",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q66293908",
+  "aliases": [
+    "Ecological Party of Catalonia",
+    "Partido Ecologista de Cataluña",
+    "Partit Ecologista de Catalunya"
+  ],
+  "founding": {
+    "date": "1984-12-03",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q66293908#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

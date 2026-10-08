@@ -10,5 +10,20 @@
     "locality": "Avilés (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3767",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q110949330",
+  "aliases": [
+    "Partido Unionista Estado de España",
+    "Partit Unionista Estat d'Espanya",
+    "State of Spain Unionist Party"
+  ],
+  "founding": {
+    "date": "2007-10-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q110949330#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

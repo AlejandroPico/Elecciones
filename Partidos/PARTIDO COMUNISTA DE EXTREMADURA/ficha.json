@@ -2,7 +2,7 @@
   "id": "registro-794",
   "name": "PARTIDO COMUNISTA DE EXTREMADURA",
   "fullName": "PARTIDO COMUNISTA DE EXTREMADURA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de Extremadura, España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "794",
     "name": "PARTIDO COMUNISTA DE EXTREMADURA",
@@ -10,5 +10,10 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=794",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q5154380",
+  "aliases": [
+    "Communist Party of Extremadura",
+    "Partido Comunista de Extremadura"
+  ]
 }

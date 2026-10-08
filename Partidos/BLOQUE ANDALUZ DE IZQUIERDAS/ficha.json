@@ -2,7 +2,7 @@
   "id": "registro-3229",
   "name": "BAI",
   "fullName": "BLOQUE ANDALUZ DE IZQUIERDAS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "3229",
     "name": "BLOQUE ANDALUZ DE IZQUIERDAS",
@@ -10,5 +10,31 @@
     "locality": "Málaga (Málaga)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3229",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8347650",
+  "aliases": [
+    "Bloque Andaluz de Izquierdas",
+    "CUT",
+    "CUT BAI",
+    "CUT-BAI",
+    "Candidatura Unitaria de Trabajadores",
+    "Colectivo de Unidad de los Trabajadores - Bloque Andaluz de Izquierdas",
+    "Colectivo de Unidad de los Trabajadores Bloque Andaluz de Izquierdas",
+    "Colectivo de Unidad de los Trabajadores por un Bloque Andaluz de Izquierda",
+    "Colectivo de Unidad de los Trabajadores-Bloque Andaluz de Izquierdas",
+    "Colectivo de unidad de los trabajadores",
+    "Colectivo de unidad de los trabajadores - bloque andaluz de izquierdas",
+    "Collective for the Unity of Workers - Andalusian Left Bloc",
+    "Col·lectiu d'Unitat dels Treballadors - Bloc Andalús d'Esquerres",
+    "Unitarian Candidacy of Workers"
+  ],
+  "founding": {
+    "date": "1979-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8347650#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -2,7 +2,7 @@
   "id": "registro-5798",
   "name": "IZAR",
   "fullName": "IZQUIERDA ANTICAPITALISTA REVOLUCIONARIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político en españa. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5798",
     "name": "IZQUIERDA ANTICAPITALISTA REVOLUCIONARIA",
@@ -10,5 +10,22 @@
     "locality": "Granada (Granada)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5798",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q39047686",
+  "aliases": [
+    "Esquerra Anticapitalista Revolucionària",
+    "IZAR",
+    "Izquierda Anticapitalista Revolucionaria",
+    "Revolutionary Anticapitalist Left"
+  ],
+  "website": "https://izarrevolucion.com/",
+  "founding": {
+    "date": "2015-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q39047686#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

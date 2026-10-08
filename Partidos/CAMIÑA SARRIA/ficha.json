@@ -10,5 +10,18 @@
     "locality": "Sarria (Lugo)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=7320",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q115463471",
+  "aliases": [
+    "Camiña Sarria"
+  ],
+  "founding": {
+    "date": "2019-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q115463471#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

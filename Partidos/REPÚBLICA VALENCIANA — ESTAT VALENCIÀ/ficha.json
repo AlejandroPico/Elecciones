@@ -10,5 +10,21 @@
     "locality": "Manises (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=3804",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q28829033",
+  "aliases": [
+    "República Valenciana-Estat Valencià",
+    "República Valenciana-Partit Valencianista Europeu",
+    "República Valenciana/Partit Valencianiste Europeu"
+  ],
+  "website": "https://republicavalenciana.org/",
+  "founding": {
+    "date": "2007-11-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q28829033#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

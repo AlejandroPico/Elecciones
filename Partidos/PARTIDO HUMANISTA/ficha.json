@@ -2,7 +2,7 @@
   "id": "registro-686",
   "name": "PH",
   "fullName": "PARTIDO HUMANISTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "686",
     "name": "PARTIDO HUMANISTA",
@@ -10,5 +10,23 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=686",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3751846",
+  "aliases": [
+    "Alderdi Humanista",
+    "Humanist Party",
+    "Partido Humanista",
+    "Partido Humanista de Espana",
+    "Partido Humanista de España",
+    "Partit Humanista"
+  ],
+  "founding": {
+    "date": "1984-05-16",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3751846#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

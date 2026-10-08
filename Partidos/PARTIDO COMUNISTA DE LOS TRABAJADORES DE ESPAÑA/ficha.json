@@ -2,7 +2,7 @@
   "id": "registro-6040",
   "name": "PCTE",
   "fullName": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político comunista español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6040",
     "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
@@ -10,5 +10,25 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6040",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q62600823",
+  "aliases": [
+    "Communist Party of the Workers of Spain",
+    "ELAK",
+    "Espainiako Langileen Alderdi Komunista",
+    "PCTE",
+    "Partido Comunista de los Trabajadores de España",
+    "Partido Comunista dos Traballadores de España",
+    "Partit Comunista dels Treballadors d'Espanya"
+  ],
+  "website": "https://www.pcte.es/",
+  "founding": {
+    "date": "2019-03-03",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q62600823#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

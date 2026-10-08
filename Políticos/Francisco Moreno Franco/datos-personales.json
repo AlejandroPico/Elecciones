@@ -1,0 +1,18 @@
+{
+  "birthDate": "1949-07-08",
+  "birthYear": 1949,
+  "birth": "08/07/1949",
+  "personalSources": [
+    {
+      "label": "Congreso de los Diputados · ficha individual",
+      "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=99&idLegislatura=VI",
+      "kind": "institutional"
+    },
+    {
+      "label": "Senado de España · ficha individual",
+      "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=5&id1=10398",
+      "kind": "institutional"
+    }
+  ],
+  "birthNote": "El Senado indica 8 de julio de 1949; el Congreso publica 8 de junio. Se conserva el dato del Senado y se enlazan ambas fuentes."
+}

@@ -2,7 +2,7 @@
   "id": "registro-4803",
   "name": "MEScat",
   "fullName": "MOVIMENT D´ESQUERRES DE CATALUNYA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ideología socialdemócrata e independentista catalán. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4803",
     "name": "MOVIMENT D´ESQUERRES DE CATALUNYA",
@@ -10,5 +10,23 @@
     "locality": "Barcelona (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4803",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20103988",
+  "aliases": [
+    "Leftwing Movement",
+    "MES",
+    "MES, Moviment d'Esquerres",
+    "Moviment d'Esquerres",
+    "Moviment d'Esquerres de Catalunya"
+  ],
+  "website": "https://mesesquerres.cat/",
+  "founding": {
+    "date": "2015-01-24",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20103988#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

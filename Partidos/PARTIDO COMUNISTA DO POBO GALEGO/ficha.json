@@ -2,7 +2,7 @@
   "id": "registro-1330",
   "name": "P.C.P.G.",
   "fullName": "PARTIDO COMUNISTA DO POBO GALEGO",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ámbito gallego. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1330",
     "name": "PARTIDO COMUNISTA DO POBO GALEGO",
@@ -10,5 +10,21 @@
     "locality": "Moaña (Pontevedra)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1330",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3297052",
+  "aliases": [
+    "Communist Party of the Galician People",
+    "PCPG",
+    "Partido Comunista do Pobo Galego",
+    "Partido Comunista do Povo Galego"
+  ],
+  "founding": {
+    "date": "1984-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3297052#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

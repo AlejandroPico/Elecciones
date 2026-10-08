@@ -10,5 +10,28 @@
     "locality": "Manacor (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1390",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8350501",
+  "aliases": [
+    "Convergencia Balear",
+    "Convergència Balear"
+  ],
+  "founding": {
+    "date": "1991-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8350501#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1995-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8350501#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

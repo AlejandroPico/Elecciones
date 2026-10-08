@@ -1,0 +1,26 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "295-12",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=295&idLegislatura=XII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "0c4676c7a870a5aba9b09ddca5019bf56a1719cb30db65e31d5ba061d0f8759c",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "18099",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18099",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "chamber": "senado",
+    "key": "18099",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18099",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "743c13f6e6f783f3a4d055c4cc1f23eb577ef95e07bc429337051cc594a53bf9",
+    "error": null
+  }
+]

@@ -2,7 +2,7 @@
   "id": "registro-6975",
   "name": "NC-bc",
   "fullName": "NUEVA CANARIAS - BLOQUE CANARISTA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "6975",
     "name": "NUEVA CANARIAS - BLOQUE CANARISTA",
@@ -11,5 +11,25 @@
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6975",
     "checkedAt": "2026-10-07"
   },
-  "website": "https://www.nuevacanariasbc.org/"
+  "website": "https://www.nuevacanariasbc.org/",
+  "wikidata": "Q693300",
+  "aliases": [
+    "Kanaria Berria",
+    "New Canaries",
+    "Nova Canàries",
+    "Nueva Canarias",
+    "Nueva Canarias Bloque Canarista",
+    "Nueva Canarias Nueva Gran Canaria",
+    "Nueva Canarias-Bloque Canarista",
+    "Nueva Canarias-Nueva Gran Canaria"
+  ],
+  "founding": {
+    "date": "2005-02-26",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q693300#P571",
+      "kind": "encyclopedic"
+    }
+  }
 }

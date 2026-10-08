@@ -10,5 +10,20 @@
     "locality": "Zamora (Zamora)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6394",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q110949332",
+  "aliases": [
+    "For Zamora",
+    "Per Zamora",
+    "Por Zamora"
+  ],
+  "founding": {
+    "date": "2019-03-11",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q110949332#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

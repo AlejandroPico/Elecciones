@@ -10,5 +10,19 @@
     "locality": "Ponferrada (León)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6790",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q110949237",
+  "aliases": [
+    "El Bierzo Existe",
+    "El Bierzo Existeix"
+  ],
+  "founding": {
+    "date": "2021-08-19",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q110949237#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

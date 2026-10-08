@@ -12,5 +12,24 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4940",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q16059622",
+  "aliases": [
+    "Ahal Dugu",
+    "Ahal dugu",
+    "PDM",
+    "Podem",
+    "Podemos",
+    "podemita",
+    "podemitas"
+  ],
+  "founding": {
+    "date": "2014-03-11",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q16059622#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

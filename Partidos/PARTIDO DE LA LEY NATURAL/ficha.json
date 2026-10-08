@@ -10,5 +10,22 @@
     "locality": "Madrid (Madrid)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1308",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q66309157",
+  "aliases": [
+    "La Ley Natural",
+    "La Llei Natural",
+    "PNL",
+    "Partido de la Ley Natural",
+    "Partit de la Llei Natural"
+  ],
+  "founding": {
+    "date": "1992-07-22",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q66309157#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

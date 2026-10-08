@@ -10,5 +10,20 @@
     "locality": "Berga (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4872",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q20106330",
+  "aliases": [
+    "Catalan Democratic Movement",
+    "Moviment Demòcrata Català",
+    "Movimiento Demócrata Catalán"
+  ],
+  "founding": {
+    "date": "2014-03-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q20106330#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

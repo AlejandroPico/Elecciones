@@ -10,5 +10,19 @@
     "locality": "Arrecife (Palmas, Las)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1793",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q693310",
+  "aliases": [
+    "Partido Nacionalista de Lanzarote",
+    "Partit Nacionalista de Lanzarote"
+  ],
+  "founding": {
+    "date": "1996-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q693310#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

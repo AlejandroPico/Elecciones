@@ -10,5 +10,24 @@
     "locality": "Santa Cruz de Tenerife (Santa Cruz de Tenerife)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1306",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1054248",
+  "aliases": [
+    "Centre Canari",
+    "Centre Canari Independent",
+    "Centre Canari Nacionalista",
+    "Centro Canario",
+    "Centro Canario Independiente",
+    "Centro Canario Nacionalista",
+    "Nationalist Canarian Centre"
+  ],
+  "founding": {
+    "date": "1992-09-15",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1054248#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

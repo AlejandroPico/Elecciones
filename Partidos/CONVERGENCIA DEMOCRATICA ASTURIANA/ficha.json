@@ -10,5 +10,19 @@
     "locality": "Oviedo (Asturias)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2018",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q8350498",
+  "aliases": [
+    "Convergencia Democratica Asturiana",
+    "Convergencia Democrática Asturiana"
+  ],
+  "founding": {
+    "date": "1999-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q8350498#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

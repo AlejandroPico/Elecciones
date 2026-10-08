@@ -2,7 +2,7 @@
   "id": "registro-807",
   "name": "EUSKO ALKARTASUNA",
   "fullName": "EUSKO ALKARTASUNA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político independentista vasco con implantación en España y Francia. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "807",
     "name": "EUSKO ALKARTASUNA",
@@ -10,5 +10,22 @@
     "locality": "Donostia/San Sebastián (Gipuzkoa)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=807",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q1125061",
+  "aliases": [
+    "Basque Solidarity",
+    "EA",
+    "Eusko Alkartasun",
+    "Eusko Alkartasuna"
+  ],
+  "website": "https://www.euskoalkartasuna.eus/",
+  "founding": {
+    "date": "1986-09-04",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q1125061#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

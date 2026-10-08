@@ -2,7 +2,7 @@
   "id": "registro-967",
   "name": "F.P.G.",
   "fullName": "FRENTE POPULAR GALEGA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español nacionalista gallego. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "967",
     "name": "FRENTE POPULAR GALEGA",
@@ -10,5 +10,23 @@
     "locality": "Santiago de Compostela (Coruña, A)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=967",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3291820",
+  "aliases": [
+    "FPG",
+    "Frente Popular Galega",
+    "Frente Popular Galego",
+    "Fronte Popular Galega",
+    "Galician People's Front",
+    "Galiziar Herri Frontea"
+  ],
+  "founding": {
+    "date": "1986-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3291820#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

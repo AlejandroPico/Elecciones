@@ -10,5 +10,40 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=100",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q3551892",
+  "aliases": [
+    "Democratic Union of the Valencian Country",
+    "UDPV",
+    "Unio Democratica del Pais Valencia",
+    "Unio Democratica del Pais Valencià",
+    "Unio Democratica del País Valencia",
+    "Unio Democratica del País Valencià",
+    "Unio Democràtica del Pais Valencià",
+    "Unio Democràtica del País Valencià",
+    "Unió Democratica del Pais Valencia",
+    "Unió Democratica del Pais Valencià",
+    "Unió Democratica del País Valencia",
+    "Unió Democratica del País Valencià",
+    "Unió Democràtica del Pais Valencià",
+    "Unió Democràtica del País Valencià"
+  ],
+  "founding": {
+    "date": "1962-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3551892#P571",
+      "kind": "encyclopedic"
+    }
+  },
+  "dissolution": {
+    "date": "1977-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q3551892#P576",
+      "kind": "encyclopedic"
+    }
   }
 }

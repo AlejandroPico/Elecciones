@@ -10,5 +10,19 @@
     "locality": "Vic (Barcelona)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5762",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q80125769",
+  "aliases": [
+    "Som Identitaris"
+  ],
+  "website": "http://www.somidentitaris.cat/",
+  "founding": {
+    "date": "2016-07-01",
+    "precision": 10,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q80125769#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

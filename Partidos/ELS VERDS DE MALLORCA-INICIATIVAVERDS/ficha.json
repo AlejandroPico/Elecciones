@@ -2,7 +2,7 @@
   "id": "registro-1913",
   "name": "EVM-IV",
   "fullName": "ELS VERDS DE MALLORCA-INICIATIVAVERDS",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "1913",
     "name": "ELS VERDS DE MALLORCA-INICIATIVAVERDS",
@@ -10,5 +10,18 @@
     "locality": "Palma (Illes Balears)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1913",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q69951198",
+  "aliases": [
+    "Els Verds de Mallorca - IniciativaVerds"
+  ],
+  "founding": {
+    "date": "1998-07-24",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q69951198#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

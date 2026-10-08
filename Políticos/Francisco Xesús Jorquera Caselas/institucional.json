@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "290-10",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=290&idLegislatura=X",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "ee90b830f7ece4132505a525b99f4dea6200ca275ffd5d448ab6355f07fd5a9c",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "13185",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=8&id1=13185",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "d8bc37cb3754222f4c26593b11d6ce1bf08205564138814c59a9a5f66d6f2913",
+    "error": null
+  }
+]

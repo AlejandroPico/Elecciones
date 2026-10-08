@@ -2,7 +2,7 @@
   "id": "registro-2997",
   "name": "VERDSEQUO",
   "fullName": "VERDS EQUO DEL PAÍS VALENCIÀ",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político español de ideología ecologista y valencianista. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "2997",
     "name": "VERDS EQUO DEL PAÍS VALENCIÀ",
@@ -10,5 +10,25 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=2997",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q18397954",
+  "aliases": [
+    "Els Verds",
+    "Greens Equo of the Valencian Country",
+    "Verds",
+    "Verds - Compromís",
+    "Verds Equo",
+    "Verds Equo del País Valencià",
+    "Verds-Equo País Valencià"
+  ],
+  "website": "https://verds.compromis.net/",
+  "founding": {
+    "date": "2014-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q18397954#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

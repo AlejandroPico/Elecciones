@@ -2,7 +2,7 @@
   "id": "registro-5910",
   "name": "CONTIGO",
   "fullName": "CONTIGO SOMOS DEMOCRACIA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político de España. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "5910",
     "name": "CONTIGO SOMOS DEMOCRACIA",
@@ -10,5 +10,21 @@
     "locality": "València (Valencia/Vàlencia)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=5910",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q60321212",
+  "aliases": [
+    "CONTIGO",
+    "CSD",
+    "Contigo Somos Democracia"
+  ],
+  "website": "https://www.contigosomosdemocracia.es/",
+  "founding": {
+    "date": "2017-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q60321212#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

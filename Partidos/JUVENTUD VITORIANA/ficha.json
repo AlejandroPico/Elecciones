@@ -10,5 +10,20 @@
     "locality": "Vitoria-Gasteiz (Araba/Álava)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=1136",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q9016873",
+  "aliases": [
+    "Gasteiztar Gazteria",
+    "JV",
+    "Juventud Vitoriana"
+  ],
+  "founding": {
+    "date": "1991-01-01",
+    "precision": 9,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q9016873#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

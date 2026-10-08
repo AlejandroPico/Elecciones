@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "351-13",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=351&idLegislatura=XIII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "1d11eb88429562d93f0672a6e7b1c2c19ff03d35bfbebee5c43d8272f012afa3",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "12676",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=12676",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "cb67ebc3ca1a4353b832f1721b2e4b59ec8f27ece1b6e7e2198ec907e4efc704",
+    "error": null
+  }
+]

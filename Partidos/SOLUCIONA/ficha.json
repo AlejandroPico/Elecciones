@@ -2,7 +2,7 @@
   "id": "registro-4854",
   "name": "SOLUCIONA",
   "fullName": "SOLUCIONA",
-  "summary": "Formación incluida en la consulta del Registro de Partidos Políticos. La inscripción no acredita actividad política actual ni participación en estas elecciones.",
+  "summary": "Partido político Andalúz. La ficha conserva la inscripción y enlaza las fuentes documentadas.",
   "registration": {
     "id": "4854",
     "name": "SOLUCIONA",
@@ -10,5 +10,9 @@
     "locality": "Málaga (Málaga)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=4854",
     "checkedAt": "2026-10-07"
-  }
+  },
+  "wikidata": "Q108582889",
+  "aliases": [
+    "Soluciona"
+  ]
 }

@@ -10,5 +10,21 @@
     "locality": "Granada (Granada)",
     "source": "https://servicio.mir.es/nfrontal/webpartido_politico/partido_politicoDatos.html?nmformacion=6421",
     "checkedAt": "2026-10-07"
+  },
+  "wikidata": "Q63762644",
+  "aliases": [
+    "JUFUDI",
+    "Partido de Jubilados por el Futuro",
+    "Partido de Jubilados por el Futuro, Dignidad y Democracia",
+    "Partit de Jubilats pel Futur, Dignitat i Democràcia"
+  ],
+  "founding": {
+    "date": "2019-03-21",
+    "precision": 11,
+    "source": {
+      "label": "Wikidata · fecha documentada",
+      "url": "https://www.wikidata.org/wiki/Q63762644#P571",
+      "kind": "encyclopedic"
+    }
   }
 }

@@ -1,0 +1,18 @@
+[
+  {
+    "chamber": "congreso",
+    "key": "357-7",
+    "source": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=357&idLegislatura=VII",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "a170bef57d5deeaabd0cf27bedb313f2af4d4ed59d6e2bdc11e2dc3996778f1e",
+    "error": null
+  },
+  {
+    "chamber": "senado",
+    "key": "18121",
+    "source": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=14&id1=18121",
+    "checkedAt": "2026-10-08",
+    "sourceSha256": "308fce9d22613ea9ef1fb0b73a7d8a14a0efb83e51b0a98c940ee87fc87d6494",
+    "error": null
+  }
+]
