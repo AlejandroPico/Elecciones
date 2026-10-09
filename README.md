@@ -1,6 +1,8 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.10.0 · 9 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.11.0 · 9 de octubre de 2026.
+
+La Comunitat Valenciana incorpora el Consell y Les Corts desde 1983: catorce etapas presidenciales, once legislaturas y 669 fichas institucionales consultadas. Se añaden 610 identidades al catálogo y 592 retratos. El Consell actual y los 99 diputados vigentes tienen fotografía; las 18 ausencias históricas quedan identificadas. Cada mandato, grupo, cargo, comisión y fuente vive en su carpeta correspondiente. Cobertura y límites en [el archivo valenciano](Gobiernos/Autonomías/Comunitat%20Valenciana/README.md).
 
 Madrid incorpora Gobierno y Asamblea desde 1983, con trece legislaturas, catorce etapas del Ejecutivo y las fichas personales enlazadas. Comparte cronología, organigrama y visor parlamentario con Cataluña. Las fuentes históricas que no permiten reconstruir una composición diaria se presentan como archivo nominal, con sus limitaciones documentadas en `Gobiernos/Autonomías/Madrid/README.md`. El menú lateral permite recorrer las autonomías con rueda, tacto y teclado, sin barra visual y con indicación de contenido pendiente.
 
@@ -78,7 +80,7 @@ La distribución es **esquemática**, no un plano de asientos físicos. El plano
 
 `Gobiernos/Congreso/<ordinal> Legislatura/` contiene composiciones y fuentes. La carpeta Constituyente se llama `Legislatura Constituyente`. En cada carpeta de `Políticos/` están `mandatos-congreso.json`, `grupos-congreso.json` y, cuando corresponde, `cargos-congreso.json`. Se contrastaron quince mandatos con variantes de nombre y fechas de nacimiento coincidentes en dos fichas oficiales; la revisión se conserva en `Gobiernos/revisiones/2026-10-08-congreso/`. Los cargos de la Mesa se integran en la única sección personal «Relaciones por cargo».
 
-«Gobiernos autonómicos» ofrece las 17 comunidades y Ceuta y Melilla, con Gobierno y Parlamento (Asamblea en las ciudades). Cataluña tiene contenido documentado; los demás territorios conservan sus rutas pendientes. «Cargos e historia» conserva su entrada independiente. El historial permite volver desde una ficha al punto parlamentario que se estaba consultando.
+«Gobiernos autonómicos» ofrece las 17 comunidades y Ceuta y Melilla, con Gobierno y Parlamento (Asamblea en las ciudades). Cataluña, Madrid y la Comunitat Valenciana tienen contenido documentado; los demás territorios conservan sus rutas pendientes. «Cargos e historia» conserva su entrada independiente. El historial permite volver desde una ficha al punto parlamentario que se estaba consultando.
 
 ## Hemiciclos y Cataluña · 0.9
 

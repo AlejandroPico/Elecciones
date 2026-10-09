@@ -3,5 +3,20 @@
     "label": "Congreso de los Diputados · ficha individual",
     "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=316&idLegislatura=X",
     "kind": "institutional"
+  },
+  {
+    "label": "Les Corts · ficha institucional",
+    "url": "https://www.cortsvalencianes.es/es/composicion/diputados/viii/juste_picon_maria_belen/0af3a1d74ce1b46f9871d8734f06598c",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consell · fuente del cargo",
+    "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_II",
+    "kind": "encyclopedic"
+  },
+  {
+    "label": "Les Corts · grupo parlamentario y fechas de alta y baja",
+    "url": "https://www.cortsvalencianes.es/es/composicion/diputados?legislature=VIII&historic=1",
+    "kind": "institutional"
   }
 ]

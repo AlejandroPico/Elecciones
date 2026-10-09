@@ -158,8 +158,11 @@ export default function RegionalInstitution({
     ).values(),
   ];
   const mesa =
-    pp?.board.filter((m) => pp.currentOnly || catalanTermAt(m, current.date)) ??
-    [];
+    pp?.board.filter((m) =>
+      m.observedAt
+        ? m.observedAt === current.date
+        : pp.currentOnly || catalanTermAt(m, current.date),
+    ) ?? [];
   return (
     <div
       className={`government-archive congress-archive catalonia-archive ${config.id}-archive`}
@@ -355,10 +358,25 @@ export default function RegionalInstitution({
               }
             />
           )}
-          <section className="congress-board">
-            <h2>{config.board}</h2>
-            <div className="congress-board-grid">{mesa.map(node)}</div>
-          </section>
+          {!!mesa.length && (
+            <section className="congress-board">
+              <h2>{config.board}</h2>
+              <div className="congress-board-grid">{mesa.map(node)}</div>
+            </section>
+          )}
+          {!!pp.archiveBoard?.length && (
+            <details className="senate-senators">
+              <summary>{config.board} · archivo de la legislatura</summary>
+              <p className="small-note">
+                Cargos documentados en la publicación institucional de 2024.
+                Incluye relevos; no representa una composición simultánea ni
+                atribuye fechas individuales no publicadas.
+              </p>
+              <div className="congress-board-grid">
+                {pp.archiveBoard.map(node)}
+              </div>
+            </details>
+          )}
         </>
       )}
       <Sources
@@ -370,7 +388,7 @@ export default function RegionalInstitution({
             url: current.period.source,
           },
           ...(pp?.endSource
-            ? [{ label: "Disolución de la Cámara", url: pp.endSource }]
+            ? [{ label: "Final de la legislatura", url: pp.endSource }]
             : []),
           ...config.sources,
         ]}

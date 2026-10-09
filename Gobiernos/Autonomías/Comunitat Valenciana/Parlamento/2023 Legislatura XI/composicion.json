@@ -1,0 +1,2453 @@
+{
+  "id": "valencia-corts-11",
+  "label": "Legislatura XI",
+  "start": "2023-06-26",
+  "end": null,
+  "checkedAt": "2026-10-09",
+  "source": "https://www.cortsvalencianes.es/es/composicion/diputados?legislature=XI&historic=1",
+  "capacity": 99,
+  "currentOnly": false,
+  "note": "Altas, bajas y grupos publicados por Les Corts. Las bajas se publican como último día de pertenencia. Las vacantes y las fechas discrepantes del registro se conservan; no se asignan asientos físicos. El registro individual incluye altas anteriores o posteriores a la sesión constitutiva; se conservan sus fechas originales, sin atribuirles una sesión parlamentaria.",
+  "records": [
+    {
+      "person": "valencia-ramon-abad-soler",
+      "name": "Ramón Abad Soler",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/abad_soler_ramon/14e506aa72d70d597b755db69897d454",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-salvador-aguilella-ramos",
+      "name": "Salvador Aguilella Ramos",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/aguilella_ramos_salvador/7a90000d9960e85f6a30cc5266c78c84",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-luis-aguirre-larrauri",
+      "name": "José Luis Aguirre Larrauri",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/aguirre_larrauri_jose_luis/02ae71c8e8dd56a163d019465443166d",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-29"
+    },
+    {
+      "person": "valencia-jesus-albiol-talaya",
+      "name": "Jesús Albiol Talaya",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/albiol_talaya_jesus/630c05f386273f073d04d47bc68d6a57",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-ignacio-jose-aleixandre-aleixandre",
+      "name": "Ignacio José Aleixandre Aleixandre",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/aleixandre_aleixandre_ignacio_jose/7422f819592729e31e0a9a5e05434111",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2024-01-30",
+      "end": null
+    },
+    {
+      "person": "valencia-joaquin-maria-ales-estrella",
+      "name": "Joaquín María Alés Estrella",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ales_estrella_joaquin_maria/8d7c19fdea18bc3d312884b041e59123",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-wenceslao-alos-valls",
+      "name": "Wenceslao Alós Valls",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/alos_valls_wenceslao/a12fe3e998f2faeb61a08887c626c538",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-monica-alvaro-cerezo",
+      "name": "Mónica Álvaro Cerezo",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/alvaro_cerezo_monica/01d9f858b9b54660098060e7d6a90cb7",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-jose-amigo-laguarda",
+      "name": "María José Amigó Laguarda",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/amigo_laguarda_maria_jose/d163bb44951c4276030339689575058b",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-alicia-andujar-dura",
+      "name": "Alicia Andújar Durá",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/andujar_dura_alicia/d9786f9873097c344577c4272117be04",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-candela-angles-querol",
+      "name": "Candela Anglés Querol",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/angles_querol_candela/5f519c2d76455f5d0caab5eceb06bf3c",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-consuelo-angulo-luna",
+      "name": "María Consuelo Angulo Luna",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/angulo_luna_maria_consuelo/46bdc180ff02e95c0bdff74910919e8a",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-12-18",
+      "end": null
+    },
+    {
+      "person": "congreso-247-14",
+      "name": "Joan Baldoví Roda",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/baldovi_roda_joan_josep/a49a07f8c0a306f0be940f9473579b74",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-marta-barrachina-mateu",
+      "name": "Marta Barrachina Mateu",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/barrachina_mateu_marta/8a55b93ce7356da924e65b07adc2a21d",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "congreso-205-12",
+      "name": "Miguel Barrachina Ros",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/barrachina_ros_miguel/7688e129ef350f78887af0f0535b3e4b",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2024-07-16"
+    },
+    {
+      "person": "valencia-francisca-bartual-bermell",
+      "name": "Francisca Bartual Bermell",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bartual_bermell_francisca/a915da294d6be24f6278e9a7cd17925a",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "congreso-64-12",
+      "name": "Elena María Bastidas Bono",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bastidas_bono_elena_maria/a556a967528c40a208523cf700d1a73f",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-ana-maria-bellver-alcantara",
+      "name": "Ana María Bellver Alcántara",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bellver_alcantara_ana_maria/7552b271f3adc4719248887b308b0689",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-19",
+      "end": null
+    },
+    {
+      "person": "valencia-ana-besalduch-besalduch",
+      "name": "Ana Besalduch Besalduch",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/besalduch_besalduch_ana/e56249b5beaebd961c6e21213f7ef04d",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "congreso-228-14",
+      "name": "Vicente Betoret Coll",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/betoret_coll_vicente/802349dec6176f815e96ab76ac5c68c5",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-ernesto-blanch-marin",
+      "name": "Ernesto Blanch Marín",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/blanch_marin_ernesto/644e683b12f8f892f11ee5e60ec73b57",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-juan-bordera-roma",
+      "name": "Juan Bordera Romá",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bordera_roma_juan/acb86fe099f83c904ca8fdd4fde14b9e",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-sonia-borruey-montolio",
+      "name": "Sonia Borruey Montolio",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/borruey_montolio_sonia/4afe48eb819c6ea3d1d963d664820824",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": "2026-02-03"
+    },
+    {
+      "person": "valencia-gabriela-bravo-san-estanislao",
+      "name": "Gabriela Bravo San Estanislao",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bravo_san_estanislao_gabriela/160541990f49927c56170471d3a00914",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2025-01-22"
+    },
+    {
+      "person": "valencia-pablo-gustavo-broseta-dupre",
+      "name": "Pablo Gustavo Broseta Dupré",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/broseta_dupre_pablo_gustavo/47461a72eae8545f7f3b82b182417213",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2024-01-18"
+    },
+    {
+      "person": "senado-18565",
+      "name": "Josefina Antonia Bueno Alonso",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bueno_alonso_josefina_antonia/c612d34419f53c0b6c4e13845224e54f",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-09-09"
+    },
+    {
+      "person": "valencia-mercedes-caballero-hueso",
+      "name": "Mercedes Caballero Hueso",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/caballero_hueso_mercedes/0f8051d8f31f74db98792b7b28b9ec43",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-jose-calabuig-vanyo",
+      "name": "María José Calabuig Vanyó",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/calabuig_vanyo_maria_jose/a8697d170151b9854a47cd0057cdb5e5",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-raquel-camara-landete",
+      "name": "Raquel Cámara Landete",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/camara_landete_raquel/cb0af9470474050df2a7168ad9c9e904",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2026-02-18",
+      "end": null
+    },
+    {
+      "person": "valencia-felipe-javier-carrasco-torres",
+      "name": "Felipe Javier Carrasco Torres",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/carrasco_torres_felipe_javier/fc4c6c348a9c35f08a764d914dc8c5bf",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-29"
+    },
+    {
+      "person": "valencia-alfredo-cesareo-castello-saez",
+      "name": "Alfredo Cesáreo Castelló Sáez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/castello_saez_alfredo_cesareo/b30f7aacc1ac2a2c82272b0d145ee2c9",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "congreso-329-9",
+      "name": "María José Catalá Verdet",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/catala_verdet_maria_jose/8f5ee5374fa10c8381be83b5f2c164b6",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-laura-chulia-serra",
+      "name": "Laura Chuliá Serra",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/chulia_serra_laura/e0a762dabd3a90f9bd301b316e730340",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-chulvi-espanol",
+      "name": "José Chulvi Español",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/chulvi_espanol_jose/f5a747543aab0bb013aa7fd3ba85a50b",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-noelia-ciscar-martinez",
+      "name": "Noelia Císcar Martínez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ciscar_martinez_noelia/ae8c5f31bd01d2b4fe5cf4d8dc62545c",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-carmen-contelles-llopis",
+      "name": "María Carmen Contelles Llopis",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/contelles_llopis_maria_carmen/0ac8666d2dcad5c62a1c1a46afff4879",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-de-los-angeles-criado-gonzalbez",
+      "name": "María de los Ángeles Criado Gonzálbez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/criado_gonzalbez_maria_de_los_angeles/1a4ed74b0988ef8a88b6bac7896db5e0",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-antonio-diaz-fernandez",
+      "name": "José Antonio Díaz Fernández",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/diaz_fernandez_jose_antonio/6a26a976a98fb83de940bcc927c75bc0",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-eduardo-jorge-dolon-sanchez",
+      "name": "Eduardo Jorge Dolón Sánchez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/dolon_sanchez_eduardo_jorge/f3b3871b1265f2813c0455e6c12df7b1",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-del-rosario-escrig-llinares",
+      "name": "María del Rosario Escrig Llinares",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/escrig_llinares_maria_del_rosario/fd6f3f27c929a19b6ab4d3ee5a194d5a",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-29"
+    },
+    {
+      "person": "espana",
+      "name": "Arcadi España García",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/espana_garcia_arcadi/cd1f7f673a4476ab1d46bb3ff9560919",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-12-05"
+    },
+    {
+      "person": "valencia-paula-virginia-espinosa-gimenez",
+      "name": "Paula Virgínia Espinosa Giménez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/espinosa_gimenez_paula_virginia/84f1bdf9e5261705ddb4f0c11ae95d8b",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-carlos-esteve-aparicio",
+      "name": "Carlos Esteve Aparicio",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/esteve_aparicio_carlos/0e3833abae65cabc1e04efda872089d7",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "congreso-108-15",
+      "name": "Alberto Fabra Part",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fabra_part_alberto/88084b62a947eeec01ff833a017820d8",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "valencia-susana-fabregat-carrasquer",
+      "name": "Susana Fabregat Carrasquer",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fabregat_carrasquer_susana/a1b4117a613cabc28299ddd8a895d411",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-08-15"
+    },
+    {
+      "person": "valencia-sofia-fernandez-aparicio",
+      "name": "Sofía Fernández Aparicio",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fernandez_aparicio_sofia/71bcfcb525537ab1a3e771ef1404f14f",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-10-25",
+      "end": null
+    },
+    {
+      "person": "valencia-ernesto-fernandez-pardo",
+      "name": "Ernesto Fernández Pardo",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fernandez_pardo_ernesto/0557c9b27600af77a066c206a1888dd5",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-09-08"
+    },
+    {
+      "person": "valencia-alejo-font-de-mora-rullan",
+      "name": "Alejo Font de Mora Rullán",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/font_de_mora_rullan_alejo/d23d8198c129f4f38c9efa014095fe53",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2024-09-23",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-fores-sanz",
+      "name": "José Forés Sanz",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fores_sanz_jose/363cb0d1d018035be2ce0d3dd94dd08f",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-gerard-fullana-martinez",
+      "name": "Gerard Fullana Martínez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fullana_martinez_gerard/d31a8c149d0919e093db4e37b21651aa",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-del-mar-galceran-gadea",
+      "name": "María del Mar Galcerán Gadea",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/galceran_gadea_maria_del_mar/74e7a04464ec60753e08d00c92fd0e43",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-teresa-garcia-madrid",
+      "name": "María Teresa García Madrid",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/garcia_madrid_maria_teresa/d5569b6db7f2a0438ab63f77d1ca2357",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-beatriz-gasco-enriquez",
+      "name": "Beatriz Gascó Enríquez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gasco_enriquez_beatriz/23b3c40600cda23fb0e9bac612fb5aa8",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-antoni-francesc-gaspar-ramos",
+      "name": "Antoni Francesc Gaspar Ramos",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gaspar_ramos_antoni_francesc/c854dd84c3c2e850ed4cce635e540bf5",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-luisa-gayo-madera",
+      "name": "María Luisa Gayo Madera",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gayo_madera_maria_luisa/b27f3627e7552a5cadf74e7d977d7737",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-andrea-gigante-melego",
+      "name": "Andrea Gigante Melego",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gigante_melego_andrea/2c9dd0c2151fbe2f5ba4cab33f82db23",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-10-03",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-domingo-giner-beltran",
+      "name": "José Domingo Giner Beltrán",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/giner_beltran_jose_domingo/b2a830265b3f092f4d6218075b0901a1",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-gomez-garcia",
+      "name": "María Gómez García",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gomez_garcia_maria/6938441d4097bd3f41346c63b2d4495e",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-silvia-gomez-rey",
+      "name": "Silvia Gómez Rey",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gomez_rey_silvia/e68c18e259b70c89e2b0197df85ed387",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-magdalena-maria-gonzalez-la-red",
+      "name": "Magdalena María González La Red",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gonzalez_la_red_magdalena_maria/59e4eac3f2df40960f3990b9205bdaf5",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-ramon-gonzalez-de-zarate-unamuno",
+      "name": "José Ramón González de Zárate Unamuno",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gonzalez_de_zarate_unamuno_jose_ramon/3676a4e7e411c284c2db84e7eaf02c2e",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-vicent-granel-cabedo",
+      "name": "Vicent Granel Cabedo",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/granel_cabedo_vicent/28659511b404396bcbf8d11ad63b68c4",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2024-07-10",
+      "end": null
+    },
+    {
+      "person": "valencia-javier-gutierrez-martin",
+      "name": "Javier Gutiérrez Martín",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gutierrez_martin_javier/d412ca3a60da0357e3939b322c79328e",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-ruben-ibanez-bordonau",
+      "name": "Rubén Ibáñez Bordonau",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ibanez_bordonau_ruben/050b07f0c117898473011bf737810662",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-08-26"
+    },
+    {
+      "person": "valencia-rocio-ibanez-candelera",
+      "name": "Rocío Ibáñez Candelera",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ibanez_candelera_rocio/5decc3b3ced261e07bc15ae20bad3b70",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-ana-belen-juarez-pastor",
+      "name": "Ana Belén Juárez Pastor",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/juarez_pastor_ana_belen/539fa7dcf6011965f1d727a3bfc799aa",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2024-03-13",
+      "end": null
+    },
+    {
+      "person": "valencia-carlos-laguna-asensi",
+      "name": "Carlos Laguna Asensi",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/laguna_asensi_carlos/e2d8c06f8ce2e34a79d5cb15a83c379d",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-10-06"
+    },
+    {
+      "person": "valencia-jesus-antonio-lecha-tena",
+      "name": "Jesús Antonio Lecha Tena",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/lecha_tena_jesus_antonio/e3b2502645d9dd61db18364abd797f61",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-maria-llanos-pitarch",
+      "name": "José María Llanos Pitarch",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/llanos_pitarch_jose_maria/88d9b6cffb6e6e0e1d499322b24b9006",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-adoracion-llop-monton",
+      "name": "Adoración Llop Montón",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/llop_monton_adoracion/87f5c37757f4d4faec390cccb7215e59",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-julia-maria-llopis-noheda",
+      "name": "Julia María Llopis Noheda",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/llopis_noheda_julia_maria/c49430f119f51f9a3281cf5ade3f3d19",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-david-bernardo-lopez-lluch",
+      "name": "David Bernardo López Lluch",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/lopez_lluch_david_bernardo/8d4979c237b4da37ae4651c58173cdec",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2024-03-06"
+    },
+    {
+      "person": "valencia-jose-luis-lorenz-andres",
+      "name": "José Luis Lorenz Andrés",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/lorenz_andres_jose_luis/33196b0e2b986b4ef033f4d6785a70d6",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-veronica-marcos-puig",
+      "name": "Verónica Marcos Puig",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/marcos_puig_veronica/4befcd47989565d8ab3d9ef65d9b7ebc",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-del-carmen-martinez-clemor",
+      "name": "María del Carmen Martínez Clemor",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_clemor_maria_del_carmen/830dbc19265692af0c9ea073394e54c9",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-luis-martinez-fuentes",
+      "name": "Luis Martínez Fuentes",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_fuentes_luis/68895633730c3cdf9cd6d9a6291c66d8",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-cristina-martinez-garcia",
+      "name": "Cristina Martínez García",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_garcia_cristina/be5d7de42f88a4811f27df1769d9ed50",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "congreso-218-15",
+      "name": "Carmen Martínez Ramírez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_ramirez_carmen/678e4d800c1059ade0d7e6bd987e428a",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-08-10"
+    },
+    {
+      "person": "valencia-maria-nieves-martinez-tarazona",
+      "name": "María Nieves Martínez Tarazona",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_tarazona_maria_nieves/9f6f0fd8fb7b8ec4b80b1c6951f78ef2",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-19",
+      "end": null
+    },
+    {
+      "person": "valencia-vicent-marza-ibanez",
+      "name": "Vicent Marzà Ibáñez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/marza_ibanez_vicent/872da0ae339c7099fe0446f37686592a",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2024-06-28"
+    },
+    {
+      "person": "valencia-aitana-joana-mas-mas",
+      "name": "Aitana Joana Mas Mas",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mas_mas_aitana_joana/95102e2466e7f2d31493a844b53087e4",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-de-los-llanos-masso-linares",
+      "name": "María de los Llanos Massó Linares",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/masso_linares_maria_de_los_llanos/50b62395136e98bd1d3b5c191a508355",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "carlos-mazon",
+      "name": "Carlos Arturo Mazón Guixot",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mazon_guixot_carlos_arturo/1c8a8943e5d69c215a32b4e229b75ee7",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-ruth-maria-merino-pena",
+      "name": "Ruth María Merino Peña",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/merino_pena_ruth_maria/1c977010a78e681a76b183d63f98c974",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "valencia-miguel-minguez-perez",
+      "name": "Miguel Mínguez Pérez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/minguez_perez_miguel/b8817cf49adbe95714c620c3c1a2c78e",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "valencia-vicente-jose-mompo-aledo",
+      "name": "Vicente José Mompó Aledo",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mompo_aledo_vicente_jose/17f7072c91192468218df753d09c7d95",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "valencia-benjamin-mompo-peruga",
+      "name": "Benjamín Mompó Peruga",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mompo_peruga_benjamin/2fa9a687cb008794e7d0b1457d349593",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-12-19",
+      "end": null
+    },
+    {
+      "person": "valencia-michel-montaner-berbel",
+      "name": "Michel Montaner Berbel",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/montaner_berbel_michel/502e5a1fac82e85f3bc1f1150aff0365",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-munoz-lladro",
+      "name": "José Muñoz Lladró",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/munoz_lladro_jose/300120688addd8e2abfb4bfdd78a2530",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-david-munoz-perez",
+      "name": "David Muñoz Pérez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/munoz_perez_david/779d09ce8ff3f318677a1ba2aeafe0b8",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-munoz-salvador",
+      "name": "José Muñoz Salvador",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/munoz_salvador_jose/21388d4c40c6f090ac04d5c13a0824fb",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-rosario-navalon-garcia",
+      "name": "María Rosario Navalón García",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/navalon_garcia_maria_rosario/be1eb9a22b69481fafa518d6d9b4ee3d",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "congreso-254-8",
+      "name": "Isaura Navarro Casillas",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/navarro_casillas_isaura/19671dbd5959a180191c492455b7a323",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-luisa-navarro-forcada",
+      "name": "María Luisa Navarro Forcada",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/navarro_forcada_maria_luisa/e6c9b462efcd0b78cc731f96380d433c",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "senado-19817",
+      "name": "Eva Ortiz Vilella",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ortiz_vilella_eva/4f6ba6e0c9a3e801ac870a60162bfd5d",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-08-01"
+    },
+    {
+      "person": "congreso-210-15",
+      "name": "Julia Parra Aparicio",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/parra_aparicio_julia/9ccc020a02cfb87742fe4265848ee95c",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "valencia-miguel-pascual-perez",
+      "name": "Miguel Pascual Pérez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pascual_perez_miguel/624e0654ad6b2f95f0fa639332ae3c78",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-fernando-pastor-llorens",
+      "name": "Fernando Pastor Llorens",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pastor_llorens_fernando/c7fff7b455a6d18e9ee80465c8e59218",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-dolores-pena-villaescusa",
+      "name": "Dolores Peña Villaescusa",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pena_villaescusa_dolores/e1316c8e6c793c2c42844429e308cdd3",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-lucia-peral-mateos",
+      "name": "Lucía Peral Mateos",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/peral_mateos_lucia/8a8706e9aa6bb4ead8790bf96e711189",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-manuel-perez-fenoll",
+      "name": "Manuel Pérez Fenoll",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/perez_fenoll_manuel/6fbdc475600ed1a423f0b369070ed8a9",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "juanfran-perez-llorca",
+      "name": "Juan Francisco Pérez Llorca",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/perez_llorca_juan_francisco/3a8c3d3be5b3d510ea39429617ede0b0",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-rosa-peris-cervera",
+      "name": "Rosa Peris Cervera",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/peris_cervera_rosa/6618d2f25f5118a06fb3a18e95023bf1",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-nuria-pina-huertas",
+      "name": "Núria Pina Huertas",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pina_huertas_nuria/f2d2539d967af445c73fb1c4093d0247",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jesus-pla-herrero",
+      "name": "Jesús Pla Herrero",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pla_herrero_jesus/2e9c558fbbd13e0e16704f7674e21d0f",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "senado-17066",
+      "name": "Salomé Pradas Ten",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pradas_ten_salome/00d788fd702512fc691bb5c1bb754fda",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "congreso-17-10",
+      "name": "Joaquín Francisco Puig Ferrer",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/puig_ferrer_ximo/b9a61c6654e871077f24ca57a5529c63",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-12-19"
+    },
+    {
+      "person": "valencia-maria-teresa-ramirez-jurado",
+      "name": "María Teresa Ramírez Jurado",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ramirez_jurado_maria_teresa/cf05c4919e5d310ac916026435e30350",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-romina-maria-del-rey-tormos",
+      "name": "Romina María del Rey Tormos",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/rey_tormos_romina_maria_del/848fe2ff0d4f2b465aef9ca7ca0a0061",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2025-02-19",
+      "end": null
+    },
+    {
+      "person": "valencia-dolores-roch-cazorla",
+      "name": "Dolores Roch Cazorla",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/roch_cazorla_dolores/a0644da1b302c0950410822c72a867f8",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-francesc-roig-oliver",
+      "name": "Francesc Roig Oliver",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/roig_oliver_francesc/b2f7344348ea21d7636bb315b495b2e7",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-antonio-rovira-jover",
+      "name": "José Antonio Rovira Jover",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/rovira_jover_jose_antonio/099dc9aa21651ab85d83179b59fc8289",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-28"
+    },
+    {
+      "person": "valencia-pedro-ruiz-castell",
+      "name": "Pedro Ruiz Castell",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ruiz_castell_pedro/55625ff952ba3758f52f577a00b08863",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-12-18",
+      "end": null
+    },
+    {
+      "person": "valencia-veronica-ruiz-escrig",
+      "name": "Verònica Ruiz Escrig",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ruiz_escrig_veronica/cee894ff61146f09bb05642a8ac5ad8a",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-salas-maldonado",
+      "name": "José Salas Maldonado",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/salas_maldonado_jose/ff746dfd0f9c3b1bf53fa631c3729271",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": null
+    },
+    {
+      "person": "valencia-maria-jose-salvador-rubert",
+      "name": "María José Salvador Rubert",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/salvador_rubert_maria_jose/9107223d2314a3e488c77cac83fd150e",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-yaissel-sanchez-orta",
+      "name": "Yaissel Sánchez Orta",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/sanchez_orta_yaissel/4f8851af6bb85aaeae867dac96dcd40a",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-francisco-javier-sendra-mengual",
+      "name": "Francisco Javier Sendra Mengual",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/sendra_mengual_francisco_javier/3b62c9805c817afa96408273af9b9d28",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-07-29"
+    },
+    {
+      "person": "valencia-rafael-simo-sancho",
+      "name": "Rafael Simó Sancho",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/simo_sancho_rafael/f1564c5b4820f07749691b89865aeaab",
+      "constituency": "Castellón",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-laura-soler-azorin",
+      "name": "Laura Soler Azorín",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/soler_azorin_laura/938cbeb9d9a52027ac059bc7435788ec",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-victor-soler-beneyto",
+      "name": "Víctor Soler Beneyto",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/soler_beneyto_victor/d0e0b98bcfd5dd8644f66e0113d8ff8d",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-vicente-todoli-masquefa",
+      "name": "José Vicente Todolí Masquefa",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/todoli_masquefa_jose_vicente/4f474e6806e901a13c60b6c5ee73f590",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-09-20",
+      "end": "2023-10-03"
+    },
+    {
+      "person": "valencia-nathalie-torres-garcia",
+      "name": "Nathalie Torres García",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/torres_garcia_nathalie/a7a759060d10cd315995ba2f9fca16de",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-rebeca-mariola-torro-soler",
+      "name": "Rebeca Mariola Torró Soler",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/torro_soler_rebeca_mariola/a0d5bd339db07b1acd58aea965537c35",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": "2023-12-05"
+    },
+    {
+      "person": "valencia-miriam-turiel-molla",
+      "name": "Miriam Turiel Mollá",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/turiel_molla_miriam/2eaf7fc8c0f5a6209bae8a51201c7489",
+      "constituency": "Valencia",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-ana-vega-campos",
+      "name": "Ana Vega Campos",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/vega_campos_ana/ba526901b3070048086de06d8ab3074f",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-mario-elias-villar-garcia",
+      "name": "Mario Elías Villar García",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/villar_garcia_mario_elias/0213888fead59ad3105761b593ef7335",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    },
+    {
+      "person": "valencia-jose-juan-zaplana-lopez",
+      "name": "José Juan Zaplana López",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/zaplana_lopez_jose_juan/c42fc3925eea9704d2d5a14467546657",
+      "constituency": "Alicante",
+      "role": "Diputado/a de Les Corts",
+      "start": "2023-07-07",
+      "end": null
+    }
+  ],
+  "board": [
+    {
+      "person": "valencia-maria-de-los-llanos-masso-linares",
+      "name": "María de los Llanos Massó Linares",
+      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
+      "constituency": "Castellón",
+      "role": "Presidenta de Les Corts",
+      "start": "2026-10-09",
+      "end": null,
+      "observedAt": "2026-10-09",
+      "period": "Composición publicada · 2026-10-09"
+    },
+    {
+      "person": "valencia-alfredo-cesareo-castello-saez",
+      "name": "Alfredo Cesáreo Castelló Sáez",
+      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
+      "constituency": "Valencia",
+      "role": "Vicepresidente primero de Les Corts",
+      "start": "2026-10-09",
+      "end": null,
+      "observedAt": "2026-10-09",
+      "period": "Composición publicada · 2026-10-09"
+    },
+    {
+      "person": "valencia-magdalena-maria-gonzalez-la-red",
+      "name": "Magdalena María González La Red",
+      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
+      "constituency": "Valencia",
+      "role": "Vicepresidenta segunda de Les Corts",
+      "start": "2026-10-09",
+      "end": null,
+      "observedAt": "2026-10-09",
+      "period": "Composición publicada · 2026-10-09"
+    },
+    {
+      "person": "valencia-victor-soler-beneyto",
+      "name": "Víctor Soler Beneyto",
+      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
+      "constituency": "Valencia",
+      "role": "Secretario  primero de Les Corts",
+      "start": "2026-10-09",
+      "end": null,
+      "observedAt": "2026-10-09",
+      "period": "Composición publicada · 2026-10-09"
+    },
+    {
+      "person": "valencia-maria-jose-amigo-laguarda",
+      "name": "María José Amigó Laguarda",
+      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
+      "constituency": "Valencia",
+      "role": "Secretaria segunda de Les Corts",
+      "start": "2026-10-09",
+      "end": null,
+      "observedAt": "2026-10-09",
+      "period": "Composición publicada · 2026-10-09"
+    }
+  ],
+  "archiveBoard": [
+    {
+      "person": "valencia-maria-de-los-llanos-masso-linares",
+      "name": "María de los Llanos Massó Linares",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "constituency": "Comunitat Valenciana",
+      "role": "Presidenta de Les Corts",
+      "start": null,
+      "end": null,
+      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+    },
+    {
+      "person": "valencia-alfredo-cesareo-castello-saez",
+      "name": "Alfredo Cesáreo Castelló Sáez",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "constituency": "Comunitat Valenciana",
+      "role": "Vicepresidente primero de Les Corts",
+      "start": null,
+      "end": null,
+      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+    },
+    {
+      "person": "valencia-gabriela-bravo-san-estanislao",
+      "name": "Gabriela Bravo San Estanislao",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "constituency": "Comunitat Valenciana",
+      "role": "Vicepresidenta segunda de Les Corts",
+      "start": null,
+      "end": null,
+      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+    },
+    {
+      "person": "valencia-victor-soler-beneyto",
+      "name": "Víctor Soler Beneyto",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "constituency": "Comunitat Valenciana",
+      "role": "Secretario primero de Les Corts",
+      "start": null,
+      "end": null,
+      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+    },
+    {
+      "person": "valencia-maria-jose-amigo-laguarda",
+      "name": "María José Amigó Laguarda",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "constituency": "Comunitat Valenciana",
+      "role": "Secretaria segunda de Les Corts",
+      "start": null,
+      "end": null,
+      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Socialista",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados?legislature=XI&historic=1",
+      "members": [
+        {
+          "person": "valencia-ramon-abad-soler",
+          "name": "Ramón Abad Soler",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/abad_soler_ramon/14e506aa72d70d597b755db69897d454",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-alicia-andujar-dura",
+          "name": "Alicia Andújar Durá",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/andujar_dura_alicia/d9786f9873097c344577c4272117be04",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-consuelo-angulo-luna",
+          "name": "María Consuelo Angulo Luna",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/angulo_luna_maria_consuelo/46bdc180ff02e95c0bdff74910919e8a",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-12-18",
+          "end": null
+        },
+        {
+          "person": "valencia-ana-besalduch-besalduch",
+          "name": "Ana Besalduch Besalduch",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/besalduch_besalduch_ana/e56249b5beaebd961c6e21213f7ef04d",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-ernesto-blanch-marin",
+          "name": "Ernesto Blanch Marín",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/blanch_marin_ernesto/644e683b12f8f892f11ee5e60ec73b57",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-sonia-borruey-montolio",
+          "name": "Sonia Borruey Montolio",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/borruey_montolio_sonia/4afe48eb819c6ea3d1d963d664820824",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": "2026-02-03"
+        },
+        {
+          "person": "valencia-gabriela-bravo-san-estanislao",
+          "name": "Gabriela Bravo San Estanislao",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bravo_san_estanislao_gabriela/160541990f49927c56170471d3a00914",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2025-01-22"
+        },
+        {
+          "person": "senado-18565",
+          "name": "Josefina Antonia Bueno Alonso",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bueno_alonso_josefina_antonia/c612d34419f53c0b6c4e13845224e54f",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-09-09"
+        },
+        {
+          "person": "valencia-mercedes-caballero-hueso",
+          "name": "Mercedes Caballero Hueso",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/caballero_hueso_mercedes/0f8051d8f31f74db98792b7b28b9ec43",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-raquel-camara-landete",
+          "name": "Raquel Cámara Landete",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/camara_landete_raquel/cb0af9470474050df2a7168ad9c9e904",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2026-02-18",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-chulvi-espanol",
+          "name": "José Chulvi Español",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/chulvi_espanol_jose/f5a747543aab0bb013aa7fd3ba85a50b",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-antonio-diaz-fernandez",
+          "name": "José Antonio Díaz Fernández",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/diaz_fernandez_jose_antonio/6a26a976a98fb83de940bcc927c75bc0",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "espana",
+          "name": "Arcadi España García",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/espana_garcia_arcadi/cd1f7f673a4476ab1d46bb3ff9560919",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-12-05"
+        },
+        {
+          "person": "valencia-sofia-fernandez-aparicio",
+          "name": "Sofía Fernández Aparicio",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fernandez_aparicio_sofia/71bcfcb525537ab1a3e771ef1404f14f",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-10-25",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-teresa-garcia-madrid",
+          "name": "María Teresa García Madrid",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/garcia_madrid_maria_teresa/d5569b6db7f2a0438ab63f77d1ca2357",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-antoni-francesc-gaspar-ramos",
+          "name": "Antoni Francesc Gaspar Ramos",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gaspar_ramos_antoni_francesc/c854dd84c3c2e850ed4cce635e540bf5",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-silvia-gomez-rey",
+          "name": "Silvia Gómez Rey",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gomez_rey_silvia/e68c18e259b70c89e2b0197df85ed387",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-rocio-ibanez-candelera",
+          "name": "Rocío Ibáñez Candelera",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ibanez_candelera_rocio/5decc3b3ced261e07bc15ae20bad3b70",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-ana-belen-juarez-pastor",
+          "name": "Ana Belén Juárez Pastor",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/juarez_pastor_ana_belen/539fa7dcf6011965f1d727a3bfc799aa",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2024-03-13",
+          "end": null
+        },
+        {
+          "person": "valencia-carlos-laguna-asensi",
+          "name": "Carlos Laguna Asensi",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/laguna_asensi_carlos/e2d8c06f8ce2e34a79d5cb15a83c379d",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-10-06"
+        },
+        {
+          "person": "valencia-david-bernardo-lopez-lluch",
+          "name": "David Bernardo López Lluch",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/lopez_lluch_david_bernardo/8d4979c237b4da37ae4651c58173cdec",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2024-03-06"
+        },
+        {
+          "person": "valencia-jose-luis-lorenz-andres",
+          "name": "José Luis Lorenz Andrés",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/lorenz_andres_jose_luis/33196b0e2b986b4ef033f4d6785a70d6",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-cristina-martinez-garcia",
+          "name": "Cristina Martínez García",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_garcia_cristina/be5d7de42f88a4811f27df1769d9ed50",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-218-15",
+          "name": "Carmen Martínez Ramírez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_ramirez_carmen/678e4d800c1059ade0d7e6bd987e428a",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-08-10"
+        },
+        {
+          "person": "valencia-miguel-minguez-perez",
+          "name": "Miguel Mínguez Pérez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/minguez_perez_miguel/b8817cf49adbe95714c620c3c1a2c78e",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "valencia-benjamin-mompo-peruga",
+          "name": "Benjamín Mompó Peruga",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mompo_peruga_benjamin/2fa9a687cb008794e7d0b1457d349593",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-12-19",
+          "end": null
+        },
+        {
+          "person": "valencia-michel-montaner-berbel",
+          "name": "Michel Montaner Berbel",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/montaner_berbel_michel/502e5a1fac82e85f3bc1f1150aff0365",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-munoz-lladro",
+          "name": "José Muñoz Lladró",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/munoz_lladro_jose/300120688addd8e2abfb4bfdd78a2530",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-rosario-navalon-garcia",
+          "name": "María Rosario Navalón García",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/navalon_garcia_maria_rosario/be1eb9a22b69481fafa518d6d9b4ee3d",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-luisa-navarro-forcada",
+          "name": "María Luisa Navarro Forcada",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/navarro_forcada_maria_luisa/e6c9b462efcd0b78cc731f96380d433c",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-rosa-peris-cervera",
+          "name": "Rosa Peris Cervera",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/peris_cervera_rosa/6618d2f25f5118a06fb3a18e95023bf1",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-nuria-pina-huertas",
+          "name": "Núria Pina Huertas",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pina_huertas_nuria/f2d2539d967af445c73fb1c4093d0247",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-17-10",
+          "name": "Joaquín Francisco Puig Ferrer",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/puig_ferrer_ximo/b9a61c6654e871077f24ca57a5529c63",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-12-19"
+        },
+        {
+          "person": "valencia-romina-maria-del-rey-tormos",
+          "name": "Romina María del Rey Tormos",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/rey_tormos_romina_maria_del/848fe2ff0d4f2b465aef9ca7ca0a0061",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2025-02-19",
+          "end": null
+        },
+        {
+          "person": "valencia-pedro-ruiz-castell",
+          "name": "Pedro Ruiz Castell",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ruiz_castell_pedro/55625ff952ba3758f52f577a00b08863",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-12-18",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-jose-salvador-rubert",
+          "name": "María José Salvador Rubert",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/salvador_rubert_maria_jose/9107223d2314a3e488c77cac83fd150e",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-yaissel-sanchez-orta",
+          "name": "Yaissel Sánchez Orta",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/sanchez_orta_yaissel/4f8851af6bb85aaeae867dac96dcd40a",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-rafael-simo-sancho",
+          "name": "Rafael Simó Sancho",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/simo_sancho_rafael/f1564c5b4820f07749691b89865aeaab",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-laura-soler-azorin",
+          "name": "Laura Soler Azorín",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/soler_azorin_laura/938cbeb9d9a52027ac059bc7435788ec",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-rebeca-mariola-torro-soler",
+          "name": "Rebeca Mariola Torró Soler",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/torro_soler_rebeca_mariola/a0d5bd339db07b1acd58aea965537c35",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-12-05"
+        },
+        {
+          "person": "valencia-mario-elias-villar-garcia",
+          "name": "Mario Elías Villar García",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/villar_garcia_mario_elias/0213888fead59ad3105761b593ef7335",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        }
+      ]
+    },
+    {
+      "name": "Popular",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados?legislature=XI&historic=1",
+      "members": [
+        {
+          "person": "valencia-salvador-aguilella-ramos",
+          "name": "Salvador Aguilella Ramos",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/aguilella_ramos_salvador/7a90000d9960e85f6a30cc5266c78c84",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-ignacio-jose-aleixandre-aleixandre",
+          "name": "Ignacio José Aleixandre Aleixandre",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/aleixandre_aleixandre_ignacio_jose/7422f819592729e31e0a9a5e05434111",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2024-01-30",
+          "end": null
+        },
+        {
+          "person": "valencia-wenceslao-alos-valls",
+          "name": "Wenceslao Alós Valls",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/alos_valls_wenceslao/a12fe3e998f2faeb61a08887c626c538",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-candela-angles-querol",
+          "name": "Candela Anglés Querol",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/angles_querol_candela/5f519c2d76455f5d0caab5eceb06bf3c",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-marta-barrachina-mateu",
+          "name": "Marta Barrachina Mateu",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/barrachina_mateu_marta/8a55b93ce7356da924e65b07adc2a21d",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "congreso-205-12",
+          "name": "Miguel Barrachina Ros",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/barrachina_ros_miguel/7688e129ef350f78887af0f0535b3e4b",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2024-07-16"
+        },
+        {
+          "person": "valencia-francisca-bartual-bermell",
+          "name": "Francisca Bartual Bermell",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bartual_bermell_francisca/a915da294d6be24f6278e9a7cd17925a",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-64-12",
+          "name": "Elena María Bastidas Bono",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bastidas_bono_elena_maria/a556a967528c40a208523cf700d1a73f",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-228-14",
+          "name": "Vicente Betoret Coll",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/betoret_coll_vicente/802349dec6176f815e96ab76ac5c68c5",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-pablo-gustavo-broseta-dupre",
+          "name": "Pablo Gustavo Broseta Dupré",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/broseta_dupre_pablo_gustavo/47461a72eae8545f7f3b82b182417213",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2024-01-18"
+        },
+        {
+          "person": "valencia-felipe-javier-carrasco-torres",
+          "name": "Felipe Javier Carrasco Torres",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/carrasco_torres_felipe_javier/fc4c6c348a9c35f08a764d914dc8c5bf",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-29"
+        },
+        {
+          "person": "valencia-alfredo-cesareo-castello-saez",
+          "name": "Alfredo Cesáreo Castelló Sáez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/castello_saez_alfredo_cesareo/b30f7aacc1ac2a2c82272b0d145ee2c9",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-329-9",
+          "name": "María José Catalá Verdet",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/catala_verdet_maria_jose/8f5ee5374fa10c8381be83b5f2c164b6",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-laura-chulia-serra",
+          "name": "Laura Chuliá Serra",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/chulia_serra_laura/e0a762dabd3a90f9bd301b316e730340",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-noelia-ciscar-martinez",
+          "name": "Noelia Císcar Martínez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ciscar_martinez_noelia/ae8c5f31bd01d2b4fe5cf4d8dc62545c",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-carmen-contelles-llopis",
+          "name": "María Carmen Contelles Llopis",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/contelles_llopis_maria_carmen/0ac8666d2dcad5c62a1c1a46afff4879",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-eduardo-jorge-dolon-sanchez",
+          "name": "Eduardo Jorge Dolón Sánchez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/dolon_sanchez_eduardo_jorge/f3b3871b1265f2813c0455e6c12df7b1",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-del-rosario-escrig-llinares",
+          "name": "María del Rosario Escrig Llinares",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/escrig_llinares_maria_del_rosario/fd6f3f27c929a19b6ab4d3ee5a194d5a",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-29"
+        },
+        {
+          "person": "congreso-108-15",
+          "name": "Alberto Fabra Part",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fabra_part_alberto/88084b62a947eeec01ff833a017820d8",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "valencia-susana-fabregat-carrasquer",
+          "name": "Susana Fabregat Carrasquer",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fabregat_carrasquer_susana/a1b4117a613cabc28299ddd8a895d411",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-08-15"
+        },
+        {
+          "person": "valencia-ernesto-fernandez-pardo",
+          "name": "Ernesto Fernández Pardo",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fernandez_pardo_ernesto/0557c9b27600af77a066c206a1888dd5",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-09-08"
+        },
+        {
+          "person": "valencia-alejo-font-de-mora-rullan",
+          "name": "Alejo Font de Mora Rullán",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/font_de_mora_rullan_alejo/d23d8198c129f4f38c9efa014095fe53",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2024-09-23",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-fores-sanz",
+          "name": "José Forés Sanz",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fores_sanz_jose/363cb0d1d018035be2ce0d3dd94dd08f",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-del-mar-galceran-gadea",
+          "name": "María del Mar Galcerán Gadea",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/galceran_gadea_maria_del_mar/74e7a04464ec60753e08d00c92fd0e43",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-beatriz-gasco-enriquez",
+          "name": "Beatriz Gascó Enríquez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gasco_enriquez_beatriz/23b3c40600cda23fb0e9bac612fb5aa8",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-luisa-gayo-madera",
+          "name": "María Luisa Gayo Madera",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gayo_madera_maria_luisa/b27f3627e7552a5cadf74e7d977d7737",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-andrea-gigante-melego",
+          "name": "Andrea Gigante Melego",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gigante_melego_andrea/2c9dd0c2151fbe2f5ba4cab33f82db23",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-10-03",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-domingo-giner-beltran",
+          "name": "José Domingo Giner Beltrán",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/giner_beltran_jose_domingo/b2a830265b3f092f4d6218075b0901a1",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-gomez-garcia",
+          "name": "María Gómez García",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gomez_garcia_maria/6938441d4097bd3f41346c63b2d4495e",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-magdalena-maria-gonzalez-la-red",
+          "name": "Magdalena María González La Red",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gonzalez_la_red_magdalena_maria/59e4eac3f2df40960f3990b9205bdaf5",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-ramon-gonzalez-de-zarate-unamuno",
+          "name": "José Ramón González de Zárate Unamuno",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gonzalez_de_zarate_unamuno_jose_ramon/3676a4e7e411c284c2db84e7eaf02c2e",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-javier-gutierrez-martin",
+          "name": "Javier Gutiérrez Martín",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/gutierrez_martin_javier/d412ca3a60da0357e3939b322c79328e",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-ruben-ibanez-bordonau",
+          "name": "Rubén Ibáñez Bordonau",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ibanez_bordonau_ruben/050b07f0c117898473011bf737810662",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-08-26"
+        },
+        {
+          "person": "valencia-jesus-antonio-lecha-tena",
+          "name": "Jesús Antonio Lecha Tena",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/lecha_tena_jesus_antonio/e3b2502645d9dd61db18364abd797f61",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-adoracion-llop-monton",
+          "name": "Adoración Llop Montón",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/llop_monton_adoracion/87f5c37757f4d4faec390cccb7215e59",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-veronica-marcos-puig",
+          "name": "Verónica Marcos Puig",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/marcos_puig_veronica/4befcd47989565d8ab3d9ef65d9b7ebc",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-del-carmen-martinez-clemor",
+          "name": "María del Carmen Martínez Clemor",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_clemor_maria_del_carmen/830dbc19265692af0c9ea073394e54c9",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-luis-martinez-fuentes",
+          "name": "Luis Martínez Fuentes",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_fuentes_luis/68895633730c3cdf9cd6d9a6291c66d8",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-nieves-martinez-tarazona",
+          "name": "María Nieves Martínez Tarazona",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/martinez_tarazona_maria_nieves/9f6f0fd8fb7b8ec4b80b1c6951f78ef2",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-19",
+          "end": null
+        },
+        {
+          "person": "carlos-mazon",
+          "name": "Carlos Arturo Mazón Guixot",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mazon_guixot_carlos_arturo/1c8a8943e5d69c215a32b4e229b75ee7",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-ruth-maria-merino-pena",
+          "name": "Ruth María Merino Peña",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/merino_pena_ruth_maria/1c977010a78e681a76b183d63f98c974",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "valencia-vicente-jose-mompo-aledo",
+          "name": "Vicente José Mompó Aledo",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mompo_aledo_vicente_jose/17f7072c91192468218df753d09c7d95",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "senado-19817",
+          "name": "Eva Ortiz Vilella",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ortiz_vilella_eva/4f6ba6e0c9a3e801ac870a60162bfd5d",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-08-01"
+        },
+        {
+          "person": "congreso-210-15",
+          "name": "Julia Parra Aparicio",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/parra_aparicio_julia/9ccc020a02cfb87742fe4265848ee95c",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "valencia-fernando-pastor-llorens",
+          "name": "Fernando Pastor Llorens",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pastor_llorens_fernando/c7fff7b455a6d18e9ee80465c8e59218",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-dolores-pena-villaescusa",
+          "name": "Dolores Peña Villaescusa",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pena_villaescusa_dolores/e1316c8e6c793c2c42844429e308cdd3",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-lucia-peral-mateos",
+          "name": "Lucía Peral Mateos",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/peral_mateos_lucia/8a8706e9aa6bb4ead8790bf96e711189",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-manuel-perez-fenoll",
+          "name": "Manuel Pérez Fenoll",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/perez_fenoll_manuel/6fbdc475600ed1a423f0b369070ed8a9",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "juanfran-perez-llorca",
+          "name": "Juan Francisco Pérez Llorca",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/perez_llorca_juan_francisco/3a8c3d3be5b3d510ea39429617ede0b0",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "senado-17066",
+          "name": "Salomé Pradas Ten",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pradas_ten_salome/00d788fd702512fc691bb5c1bb754fda",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "valencia-dolores-roch-cazorla",
+          "name": "Dolores Roch Cazorla",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/roch_cazorla_dolores/a0644da1b302c0950410822c72a867f8",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-antonio-rovira-jover",
+          "name": "José Antonio Rovira Jover",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/rovira_jover_jose_antonio/099dc9aa21651ab85d83179b59fc8289",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-28"
+        },
+        {
+          "person": "valencia-jose-salas-maldonado",
+          "name": "José Salas Maldonado",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/salas_maldonado_jose/ff746dfd0f9c3b1bf53fa631c3729271",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": null
+        },
+        {
+          "person": "valencia-francisco-javier-sendra-mengual",
+          "name": "Francisco Javier Sendra Mengual",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/sendra_mengual_francisco_javier/3b62c9805c817afa96408273af9b9d28",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-29"
+        },
+        {
+          "person": "valencia-victor-soler-beneyto",
+          "name": "Víctor Soler Beneyto",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/soler_beneyto_victor/d0e0b98bcfd5dd8644f66e0113d8ff8d",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-vicente-todoli-masquefa",
+          "name": "José Vicente Todolí Masquefa",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/todoli_masquefa_jose_vicente/4f474e6806e901a13c60b6c5ee73f590",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-20",
+          "end": "2023-10-03"
+        },
+        {
+          "person": "valencia-jose-juan-zaplana-lopez",
+          "name": "José Juan Zaplana López",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/zaplana_lopez_jose_juan/c42fc3925eea9704d2d5a14467546657",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        }
+      ]
+    },
+    {
+      "name": "Vox Cortes Valencianas",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados?legislature=XI&historic=1",
+      "members": [
+        {
+          "person": "valencia-jose-luis-aguirre-larrauri",
+          "name": "José Luis Aguirre Larrauri",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/aguirre_larrauri_jose_luis/02ae71c8e8dd56a163d019465443166d",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2023-07-29"
+        },
+        {
+          "person": "valencia-jesus-albiol-talaya",
+          "name": "Jesús Albiol Talaya",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/albiol_talaya_jesus/630c05f386273f073d04d47bc68d6a57",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-joaquin-maria-ales-estrella",
+          "name": "Joaquín María Alés Estrella",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ales_estrella_joaquin_maria/8d7c19fdea18bc3d312884b041e59123",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-ana-maria-bellver-alcantara",
+          "name": "Ana María Bellver Alcántara",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bellver_alcantara_ana_maria/7552b271f3adc4719248887b308b0689",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-09-19",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-de-los-angeles-criado-gonzalbez",
+          "name": "María de los Ángeles Criado Gonzálbez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/criado_gonzalbez_maria_de_los_angeles/1a4ed74b0988ef8a88b6bac7896db5e0",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-maria-llanos-pitarch",
+          "name": "José María Llanos Pitarch",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/llanos_pitarch_jose_maria/88d9b6cffb6e6e0e1d499322b24b9006",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-julia-maria-llopis-noheda",
+          "name": "Julia María Llopis Noheda",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/llopis_noheda_julia_maria/c49430f119f51f9a3281cf5ade3f3d19",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-de-los-llanos-masso-linares",
+          "name": "María de los Llanos Massó Linares",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/masso_linares_maria_de_los_llanos/50b62395136e98bd1d3b5c191a508355",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-david-munoz-perez",
+          "name": "David Muñoz Pérez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/munoz_perez_david/779d09ce8ff3f318677a1ba2aeafe0b8",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jose-munoz-salvador",
+          "name": "José Muñoz Salvador",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/munoz_salvador_jose/21388d4c40c6f090ac04d5c13a0824fb",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-miguel-pascual-perez",
+          "name": "Miguel Pascual Pérez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pascual_perez_miguel/624e0654ad6b2f95f0fa639332ae3c78",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-teresa-ramirez-jurado",
+          "name": "María Teresa Ramírez Jurado",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ramirez_jurado_maria_teresa/cf05c4919e5d310ac916026435e30350",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-miriam-turiel-molla",
+          "name": "Miriam Turiel Mollá",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/turiel_molla_miriam/2eaf7fc8c0f5a6209bae8a51201c7489",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-ana-vega-campos",
+          "name": "Ana Vega Campos",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/vega_campos_ana/ba526901b3070048086de06d8ab3074f",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        }
+      ]
+    },
+    {
+      "name": "Compromís",
+      "source": "https://www.cortsvalencianes.es/es/composicion/diputados?legislature=XI&historic=1",
+      "members": [
+        {
+          "person": "valencia-monica-alvaro-cerezo",
+          "name": "Mónica Álvaro Cerezo",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/alvaro_cerezo_monica/01d9f858b9b54660098060e7d6a90cb7",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-jose-amigo-laguarda",
+          "name": "María José Amigó Laguarda",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/amigo_laguarda_maria_jose/d163bb44951c4276030339689575058b",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-247-14",
+          "name": "Joan Baldoví Roda",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/baldovi_roda_joan_josep/a49a07f8c0a306f0be940f9473579b74",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-juan-bordera-roma",
+          "name": "Juan Bordera Romá",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/bordera_roma_juan/acb86fe099f83c904ca8fdd4fde14b9e",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-maria-jose-calabuig-vanyo",
+          "name": "María José Calabuig Vanyó",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/calabuig_vanyo_maria_jose/a8697d170151b9854a47cd0057cdb5e5",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-paula-virginia-espinosa-gimenez",
+          "name": "Paula Virgínia Espinosa Giménez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/espinosa_gimenez_paula_virginia/84f1bdf9e5261705ddb4f0c11ae95d8b",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-carlos-esteve-aparicio",
+          "name": "Carlos Esteve Aparicio",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/esteve_aparicio_carlos/0e3833abae65cabc1e04efda872089d7",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-gerard-fullana-martinez",
+          "name": "Gerard Fullana Martínez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/fullana_martinez_gerard/d31a8c149d0919e093db4e37b21651aa",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-vicent-granel-cabedo",
+          "name": "Vicent Granel Cabedo",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/granel_cabedo_vicent/28659511b404396bcbf8d11ad63b68c4",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2024-07-10",
+          "end": null
+        },
+        {
+          "person": "valencia-vicent-marza-ibanez",
+          "name": "Vicent Marzà Ibáñez",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/marza_ibanez_vicent/872da0ae339c7099fe0446f37686592a",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": "2024-06-28"
+        },
+        {
+          "person": "valencia-aitana-joana-mas-mas",
+          "name": "Aitana Joana Mas Mas",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/mas_mas_aitana_joana/95102e2466e7f2d31493a844b53087e4",
+          "constituency": "Alicante",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "congreso-254-8",
+          "name": "Isaura Navarro Casillas",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/navarro_casillas_isaura/19671dbd5959a180191c492455b7a323",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-jesus-pla-herrero",
+          "name": "Jesús Pla Herrero",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/pla_herrero_jesus/2e9c558fbbd13e0e16704f7674e21d0f",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-francesc-roig-oliver",
+          "name": "Francesc Roig Oliver",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/roig_oliver_francesc/b2f7344348ea21d7636bb315b495b2e7",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-veronica-ruiz-escrig",
+          "name": "Verònica Ruiz Escrig",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/ruiz_escrig_veronica/cee894ff61146f09bb05642a8ac5ad8a",
+          "constituency": "Castellón",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        },
+        {
+          "person": "valencia-nathalie-torres-garcia",
+          "name": "Nathalie Torres García",
+          "source": "https://www.cortsvalencianes.es/es/composicion/diputados/xi/torres_garcia_nathalie/a7a759060d10cd315995ba2f9fca16de",
+          "constituency": "Valencia",
+          "role": "Diputado/a de Les Corts",
+          "start": "2023-07-07",
+          "end": null
+        }
+      ]
+    }
+  ],
+  "nominalOnly": false
+}

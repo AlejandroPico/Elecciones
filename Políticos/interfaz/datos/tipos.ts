@@ -68,6 +68,10 @@ export type Person = {
   madridOffices?: { title: string; period: string; source: Reference }[];
   madridGroups?: { title: string; period: string; source: Reference }[];
   madridCommittees?: { title: string; period: string; source: Reference }[];
+  valencianMandates?: { title: string; period: string; source: Reference }[];
+  valencianOffices?: { title: string; period: string; source: Reference }[];
+  valencianGroups?: { title: string; period: string; source: Reference }[];
+  valencianCommittees?: { title: string; period: string; source: Reference }[];
 };
 export type PoliticalActivity = {
   state: "active" | "historical" | "unknown";

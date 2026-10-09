@@ -14,7 +14,6 @@ import {
   people,
   findPerson,
   offices,
-  reviewedAt,
   type Person,
   type Reference,
 } from "./datos/catalogo";
@@ -536,6 +535,44 @@ export default function Archive({
                     </ol>
                   </article>
                 )}
+                {!!person.valencianGroups?.length && (
+                  <article>
+                    <h3>Adscripciones en Les Corts</h3>
+                    <p className="small-note">
+                      Grupos del periodo documentado; su pertenencia no acredita
+                      por sí sola afiliación partidista.
+                    </p>
+                    <ol className="political-timeline">
+                      {person.valencianGroups.map((term) => (
+                        <li
+                          key={`${term.title}-${term.period}-${term.source.url}`}
+                        >
+                          <span>{term.period}</span>
+                          <h4>{term.title}</h4>
+                          <Sources sources={[term.source]} />
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
+                {!!person.valencianCommittees?.length && (
+                  <article>
+                    <details className="regional-committees">
+                      <summary>Comisiones de Les Corts</summary>
+                      <ol className="political-timeline">
+                        {person.valencianCommittees.map((term) => (
+                          <li
+                            key={`${term.title}-${term.period}-${term.source.url}`}
+                          >
+                            <span>{term.period}</span>
+                            <h4>{term.title}</h4>
+                            <Sources sources={[term.source]} />
+                          </li>
+                        ))}
+                      </ol>
+                    </details>
+                  </article>
+                )}
                 {!!person.madridCommittees?.length && (
                   <article>
                     <details className="regional-committees">
@@ -594,8 +631,7 @@ export default function Archive({
                     <Sources sources={person.references} />
                     <p className="small-note">
                       Trayectoria resumida; no es una evaluación de gestión ni
-                      un historial exhaustivo de actuaciones. Datos revisados el{" "}
-                      {reviewedAt}.
+                      un historial exhaustivo de actuaciones.
                     </p>
                   </article>
                 )}

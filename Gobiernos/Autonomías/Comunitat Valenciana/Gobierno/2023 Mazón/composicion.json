@@ -1,0 +1,258 @@
+{
+  "id": "valencia-consell-13",
+  "label": "Mazón",
+  "name": "Consell de la Generalitat Valenciana",
+  "start": "2023-07-17",
+  "end": "2025-12-02",
+  "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+  "terms": [
+    {
+      "name": "Carlos Arturo Mazón Guixot",
+      "role": "President de la Generalitat",
+      "level": "president",
+      "start": "2023-07-17",
+      "end": "2025-12-02",
+      "source": "https://www.ces.gva.es/sites/default/files/2023-10/ACTIVIDADES%20DEL%20COMIT%C3%89%20REV.112.pdf",
+      "person": "carlos-mazon",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Vicente José Barrera Simó",
+      "role": "Vicepresidente primero y conseller de Cultura y Deporte",
+      "level": "vice",
+      "start": "2023-07-20",
+      "end": "2024-07-11",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/07/11/pdf/2024_6992_es.pdf",
+      "person": "valencia-vicente-barrera-simo",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Susana Camarero Benítez",
+      "role": "Vicepresidenta segunda, consellera de Servicios Sociales, Igualdad y Vivienda y secretaria del Consell",
+      "level": "vice",
+      "start": "2023-07-20",
+      "end": "2024-07-12",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "person": "congreso-287-10",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Ruth María Merino Peña",
+      "role": "Consellera de Hacienda, Economía y Administración Pública y portavoz del Consell",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2024-11-22",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "person": "valencia-ruth-maria-merino-pena",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Elisa María Núñez Sánchez",
+      "role": "Consellera de Justicia e Interior",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2024-07-11",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/07/11/pdf/2024_6992_es.pdf",
+      "person": "valencia-elisa-maria-nunez-sanchez",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Marciano Gómez Gómez",
+      "role": "Conseller de Sanidad",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "valencia-marciano-gomez-gomez",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "José Antonio Rovira Jover",
+      "role": "Conseller de Educación, Universidades y Empleo",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2024-07-12",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "person": "valencia-jose-antonio-rovira-jover",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "José Luis Aguirre Larrauri",
+      "role": "Conseller de Agricultura, Ganadería y Pesca",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2024-07-11",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/07/11/pdf/2024_6992_es.pdf",
+      "person": "valencia-jose-luis-aguirre-larrauri",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Salomé Pradas Ten",
+      "role": "Consellera de Medio Ambiente, Agua, Infraestructuras y Territorio",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2024-07-12",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "person": "senado-17066",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Nuria Montes de Diego",
+      "role": "Consellera de Innovación, Industria, Comercio y Turismo",
+      "level": "minister",
+      "start": "2023-07-20",
+      "end": "2024-11-22",
+      "source": "https://dogv.gva.es/datos/2023/07/19/pdf/2023_8241.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "person": "valencia-nuria-montes-de-diego",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Susana Camarero Benítez",
+      "role": "Vicepresidenta y consellera de Servicios Sociales, Igualdad y Vivienda y secretaria del Consell",
+      "level": "vice",
+      "start": "2024-07-12",
+      "end": "2024-11-22",
+      "source": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "person": "congreso-287-10",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Salomé Pradas Ten",
+      "role": "Consellera de Justicia e Interior",
+      "level": "minister",
+      "start": "2024-07-12",
+      "end": "2024-11-22",
+      "source": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "person": "senado-17066",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "José Antonio Rovira Jover",
+      "role": "Conseller de Educación, Cultura, Universidades y Empleo",
+      "level": "minister",
+      "start": "2024-07-12",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "valencia-jose-antonio-rovira-jover",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Miguel Barrachina Ros",
+      "role": "Conseller de Agricultura, Agua, Ganadería y Pesca",
+      "level": "minister",
+      "start": "2024-07-12",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "congreso-205-12",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Vicente Martínez Mus",
+      "role": "Conseller de Medio Ambiente, Infraestructuras y Territorio",
+      "level": "minister",
+      "start": "2024-07-12",
+      "end": "2025-11-04",
+      "source": "https://dogv.gva.es/datos/consolidacion/2024/2024_7011_20240717_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/11/04/pdf/2025_45304_es.pdf",
+      "person": "senado-19066",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Susana Camarero Benítez",
+      "role": "Vicepresidenta primera y consellera de Servicios Sociales, Igualdad y Vivienda, secretaria y portavoz del Consell",
+      "level": "vice",
+      "start": "2024-11-23",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "congreso-287-10",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Francisco José Gan Pampols",
+      "role": "Vicepresidente segundo y conseller para la Recuperación Económica y Social",
+      "level": "vice",
+      "start": "2024-11-23",
+      "end": "2025-11-04",
+      "source": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/11/04/pdf/2025_45304_es.pdf",
+      "person": "valencia-francisco-jose-gan-pampols",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Ruth María Merino Peña",
+      "role": "Consellera de Hacienda y Economía",
+      "level": "minister",
+      "start": "2024-11-23",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "valencia-ruth-maria-merino-pena",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Nuria Martínez Sanchis",
+      "role": "Consellera de Justicia y Administración Pública",
+      "level": "minister",
+      "start": "2024-11-23",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "valencia-nuria-martinez-sanchis",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Juan Carlos Valderrama Zurián",
+      "role": "Conseller de Emergencias e Interior",
+      "level": "minister",
+      "start": "2024-11-23",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "valencia-juan-carlos-valderrama-zurian",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "María Ángela Cano García",
+      "role": "Consellera de Innovación, Industria, Comercio y Turismo",
+      "level": "minister",
+      "start": "2024-11-23",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2024/11/22/pdf/2024_12367_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "valencia-marian-cano-garcia",
+      "constituency": "Comunitat Valenciana"
+    },
+    {
+      "name": "Vicente Martínez Mus",
+      "role": "Vicepresidente segundo y conseller para la Recuperación Económica y Social y de Medio Ambiente, Infraestructuras y Territorio",
+      "level": "vice",
+      "start": "2025-11-05",
+      "end": "2025-12-03",
+      "source": "https://dogv.gva.es/datos/2025/11/04/pdf/2025_45304_es.pdf",
+      "endBasis": "https://dogv.gva.es/datos/2025/12/03/pdf/2025_49244_es.pdf",
+      "person": "senado-19066",
+      "constituency": "Comunitat Valenciana"
+    }
+  ],
+  "archiveTerms": [],
+  "incidents": [
+    "Los nombramientos de 2023 surten efecto el 20 de julio; los ceses de los tres miembros de Vox, el 11 de julio de 2024. La reorganización del 12 de julio entra en vigor ese mismo día. Los nombramientos publicados el 22 de noviembre de 2024 y el 4 de noviembre de 2025 producen efecto al día siguiente. Se preservan las vacantes de un día previstas por estos decretos.",
+    "El cese de la presidencia no se toma como cese de cada conseller: los cargos que siguen en funciones se documentan hasta el 3 de diciembre de 2025, según el Decreto 17/2025.",
+    "El inicio de la etapa corresponde a la toma de posesión del president, documentada en la fuente de su cargo; no a la formación del gabinete."
+  ],
+  "checkedAt": "2026-10-09"
+}

@@ -4,6 +4,7 @@ import territories from "../Autonomías/territorios.json";
 export { territories };
 const Catalonia = lazy(() => import("./Catalonia"));
 const Madrid = lazy(() => import("./Madrid"));
+const Valencia = lazy(() => import("./Valencia"));
 export function autonomyEntry(
   region: string,
   section: "government" | "parliament",
@@ -103,7 +104,9 @@ export function AutonomyMenu({
                     >
                       {territory.kind === "ciudad" || territory.id === "madrid"
                         ? "Asamblea"
-                        : "Parlamento"}
+                        : territory.id === "valencia"
+                          ? "Les Corts"
+                          : "Parlamento"}
                     </button>
                   </div>
                 </div>
@@ -136,12 +139,14 @@ export default function Autonomies({
       ? Catalonia
       : route?.territory.id === "madrid"
         ? Madrid
-        : undefined;
+        : route?.territory.id === "valencia"
+          ? Valencia
+          : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">
         {route
-          ? `${route.territory.name} · ${route.section === "government" ? "Gobierno" : route.territory.kind === "ciudad" || route.territory.id === "madrid" ? "Asamblea" : "Parlamento"}`
+          ? `${route.territory.name} · ${route.section === "government" ? "Gobierno" : route.territory.kind === "ciudad" || route.territory.id === "madrid" ? "Asamblea" : route.territory.id === "valencia" ? "Les Corts" : "Parlamento"}`
           : "Gobiernos autonómicos"}
       </h1>
       {Institution && route ? (

@@ -71,8 +71,8 @@ export default function Hemicycle({
   note: string;
   openPerson: (id: string) => void;
 }) {
-  const chamberOf = `${chamber.startsWith("Asamblea") ? "de la" : "del"} ${chamber}`;
-  const chamberIn = `${chamber.startsWith("Asamblea") ? "en la" : "en el"} ${chamber}`;
+  const chamberOf = `${chamber.startsWith("Asamblea") ? "de la" : chamber.startsWith("Les ") ? "de" : "del"} ${chamber}`;
+  const chamberIn = `${chamber.startsWith("Asamblea") ? "en la" : chamber.startsWith("Les ") ? "en" : "en el"} ${chamber}`;
   const headingId = useId();
   const positions = groups.flatMap((group) =>
     group.members.map((member) => ({ member, group })),

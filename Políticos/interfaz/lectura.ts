@@ -35,6 +35,10 @@ export function personCatalogPlugin(): Plugin {
     "cargos-madrid.json",
     "grupos-madrid.json",
     "comisiones-madrid.json",
+    "mandatos-valencia.json",
+    "cargos-valencia.json",
+    "grupos-valencia.json",
+    "comisiones-valencia.json",
   ]);
   async function collect(watch?: (file: string) => void) {
     const directory = join(root, "Políticos");
@@ -96,7 +100,7 @@ export function personCatalogPlugin(): Plugin {
                 join(root, "Políticos", folder.name),
               ))
                 if (
-                  /^retrato(?:-madrid)?\.(jpg|jpeg|png|webp|svg|gif)$/.test(
+                  /^retrato(?:-madrid|-valencia)?\.(jpg|jpeg|png|webp|svg|gif)$/.test(
                     file,
                   )
                 )
