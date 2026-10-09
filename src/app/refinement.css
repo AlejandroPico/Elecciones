@@ -524,6 +524,7 @@
   scrollbar-width: none;
   -ms-overflow-style: none;
   touch-action: pan-y;
+  overscroll-behavior-y: contain;
   -webkit-overflow-scrolling: touch;
 }
 .sidebar .main-nav::-webkit-scrollbar {
