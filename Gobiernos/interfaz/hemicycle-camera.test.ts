@@ -4,9 +4,26 @@ import {
   homeCamera,
   revealPoint,
   zoomCamera,
+  wheelCamera,
 } from "./hemicycle-camera";
 
 describe("Visor del hemiciclo", () => {
+  it("deja desplazar la página al reducir desde el 100 %, pero permite ampliar", () => {
+    expect(wheelCamera(homeCamera, 80, 300, 200)).toBeNull();
+    expect(wheelCamera(homeCamera, 0, 300, 200)).toBeNull();
+    expect(wheelCamera(homeCamera, -80, 300, 200)?.zoom).toBeGreaterThan(1);
+  });
+  it("la rueda conserva el punto bajo el puntero y respeta los límites", () => {
+    const camera = wheelCamera(homeCamera, -100, 300, 200)!;
+    expect(300 * camera.zoom + camera.x).toBeCloseTo(300);
+    expect(200 * camera.zoom + camera.y).toBeCloseTo(200);
+    expect(wheelCamera(zoomCamera(homeCamera, 4), -100, 300, 200)?.zoom).toBe(
+      4,
+    );
+    expect(wheelCamera(zoomCamera(homeCamera, 1.01), 100, 300, 200)).toEqual(
+      homeCamera,
+    );
+  });
   it("amplía alrededor del centro y conserva ese punto", () => {
     const camera = zoomCamera(homeCamera, 2);
     expect(camera).toEqual({ zoom: 2, x: -520, y: -275 });

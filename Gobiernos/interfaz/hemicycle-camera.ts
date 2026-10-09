@@ -22,6 +22,17 @@ export function zoomCamera(
     y: y - (y - camera.y) * ratio,
   });
 }
+// null deja la rueda al documento cuando no queda ampliación que reducir.
+export function wheelCamera(
+  camera: Camera,
+  delta: number,
+  x: number,
+  y: number,
+): Camera | null {
+  if (!delta || (delta > 0 && camera.zoom <= 1)) return null;
+  const step = Math.min(150, Math.max(-150, delta));
+  return zoomCamera(camera, camera.zoom * Math.exp(-step * 0.002), x, y);
+}
 export function revealPoint(
   camera: Camera,
   point: { x: number; y: number },

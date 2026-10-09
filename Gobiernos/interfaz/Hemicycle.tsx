@@ -2,14 +2,19 @@ import { useEffect, useId, useRef, useState } from "react";
 import { Minus, Plus, RotateCcw, Search } from "lucide-react";
 import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
 import { Portrait } from "../../Políticos/interfaz/Retrato";
-import Sources from "../../src/app/Sources";
 import { dateLabel } from "./government-model";
+import {
+  compactGroupLabel,
+  memberConstituency,
+  memberParty,
+} from "./hemicycle-person";
 import { congressDiagramPoints, congressGroupColor } from "./congress-model";
 import {
   constrainCamera,
   homeCamera,
   revealPoint,
   zoomCamera,
+  wheelCamera,
   type Camera,
 } from "./hemicycle-camera";
 import "./congress.css";
@@ -79,7 +84,8 @@ export default function Hemicycle({
   const [camera, setCamera] = useState<Camera>(homeCamera);
   const [dragging, setDragging] = useState(false);
   const svg = useRef<SVGSVGElement>(null);
-  const inspector = useRef<HTMLElement>(null);
+  const cameraRef = useRef(camera);
+  cameraRef.current = camera;
   const refs = useRef<(SVGGElement | null)[]>([]);
   const drag = useRef<{
     id: number;
@@ -91,6 +97,8 @@ export default function Hemicycle({
   const suppressClick = useRef(false);
   const selected = positions.find((p) => p.member.person === selectedId);
   const person = selected && findPerson(selected.member.person);
+  const constituency = selected && memberConstituency(selected.member, person);
+  const party = selected && memberParty(selected.member, person, date);
   const matches = (p: (typeof positions)[number]) =>
     matchesMember(p.member, p.group.id, filters, query);
   const found = positions.filter(matches);
@@ -101,8 +109,32 @@ export default function Hemicycle({
     setFocusIndex(0);
   }, [date, label, chamber]);
   useEffect(() => {
-    inspector.current?.scrollTo({ top: 0 });
-  }, [selectedId]);
+    const element = svg.current;
+    if (!element) return;
+    function wheel(event: WheelEvent) {
+      if (!event.deltaY) return;
+      const matrix = element!.getScreenCTM();
+      if (!matrix) return;
+      const point = new DOMPoint(event.clientX, event.clientY).matrixTransform(
+        matrix.inverse(),
+      );
+      const delta =
+        event.deltaY *
+        (event.deltaMode === 1
+          ? 16
+          : event.deltaMode === 2
+            ? element!.clientHeight
+            : 1);
+      const next = wheelCamera(cameraRef.current, delta, point.x, point.y);
+      if (!next) return;
+      event.preventDefault();
+      cameraRef.current = next;
+      setCamera(next);
+    }
+    // React delega la rueda como pasiva; el visor necesita detener el scroll al ampliar.
+    element.addEventListener("wheel", wheel, { passive: false });
+    return () => element.removeEventListener("wheel", wheel);
+  }, []);
   function focus(index: number) {
     setFocusIndex(index);
     setCamera((c) => revealPoint(c, points[index]));
@@ -181,7 +213,7 @@ export default function Hemicycle({
             viewBox="0 0 1040 550"
             preserveAspectRatio="xMidYMid meet"
             role="group"
-            aria-label={`Hemiciclo esquemático del ${chamber}. ${total} mandatos. Flechas: recorrer personas. Enter: abrir ficha. Zoom con los botones; arrastrar para desplazar.`}
+            aria-label={`Hemiciclo esquemático del ${chamber}. ${total} mandatos. Flechas: recorrer personas. Enter: abrir ficha. Zoom con la rueda o los botones; arrastrar para desplazar.`}
             onPointerDown={(e) => {
               if (e.button !== 0) return;
               drag.current = {
@@ -333,109 +365,88 @@ export default function Hemicycle({
             </g>
           </svg>
         </div>
+      </div>
+      <div className="hemicycle-details">
+        <div
+          className="seat-legend congress-group-legend"
+          role="group"
+          aria-label={`Seleccionar grupos del ${chamber}`}
+        >
+          {groups.map((g) => (
+            <button
+              key={g.id}
+              title={g.name}
+              aria-pressed={filters.includes(g.id)}
+              onClick={() =>
+                setFilters((current) =>
+                  current.includes(g.id)
+                    ? current.filter((id) => id !== g.id)
+                    : [...current, g.id],
+                )
+              }
+            >
+              <i style={{ background: congressGroupColor(g.name) }} />
+              <span>{compactGroupLabel(g.label)}</span>
+              <b>{g.members.length}</b>
+            </button>
+          ))}
+        </div>
         <aside
-          ref={inspector}
           className="congress-inspector"
           aria-label={`Persona seleccionada en el ${chamber}`}
           aria-live="polite"
           aria-atomic="true"
         >
           {selected ? (
-            <>
+            <button
+              className="hemicycle-person-card"
+              onClick={() => openPerson(selected.member.person)}
+              aria-label={`Abrir ficha de ${selected.member.name}`}
+            >
               <div className="congress-deputy-portrait">
                 {person ? (
                   <Portrait person={person} />
                 ) : (
-                  <span>{selected.member.name}</span>
+                  <span aria-hidden="true">
+                    {selected.member.name
+                      .split(" ")
+                      .map((n) => n[0])
+                      .slice(0, 2)
+                      .join("")}
+                  </span>
                 )}
               </div>
-              <h3>{selected.member.name}</h3>
-              <p style={{ color: congressGroupColor(selected.group.name) }}>
-                {selected.group.label}
-              </p>
-              <dl>
-                {selected.member.constituency && (
-                  <>
-                    <dt>Circunscripción</dt>
-                    <dd>{selected.member.constituency}</dd>
-                  </>
+              <div className="hemicycle-person-info">
+                <h3>{selected.member.name}</h3>
+                {constituency && (
+                  <p className="hemicycle-constituency">{constituency}</p>
                 )}
-                <dt>Alta del mandato</dt>
-                <dd>
-                  {selected.member.start
-                    ? dateLabel(selected.member.start)
-                    : "No publicada"}
-                </dd>
-                {selected.member.end && (
-                  <>
-                    <dt>Baja del mandato</dt>
-                    <dd>{dateLabel(selected.member.end)}</dd>
-                  </>
+                <p
+                  className="hemicycle-person-group"
+                  title={selected.group.name}
+                >
+                  <i
+                    style={{
+                      background: congressGroupColor(selected.group.name),
+                    }}
+                  />
+                  {compactGroupLabel(selected.group.label)}
+                </p>
+                {party && (
+                  <p className="hemicycle-person-party">
+                    <span>{party.label}:</span> {party.name}
+                  </p>
                 )}
-                {selected.member.formation && (
-                  <>
-                    <dt>Candidatura electoral</dt>
-                    <dd>{selected.member.formation}</dd>
-                  </>
-                )}
-              </dl>
-              <button
-                className="text-button"
-                onClick={() => openPerson(selected.member.person)}
-              >
-                Ver ficha
-              </button>
-              <Sources
-                sources={[
-                  {
-                    label: `Ficha oficial · ${chamber}`,
-                    url: selected.member.source,
-                  },
-                  {
-                    label: "Adscripción parlamentaria",
-                    url: selected.group.source,
-                  },
-                ]}
-              />
-            </>
+              </div>
+            </button>
           ) : (
-            <>
+            <div className="hemicycle-person-empty">
               <span className="eyebrow">{chamber}</span>
               <h3>{label}</h3>
               <p>{dateLabel(date)}</p>
-              <span className="congress-inspector-count">
-                {total}
-                <small>mandatos documentados</small>
-              </span>
-              <p className="small-note">
-                Nombre y ficha de cada persona al señalar su posición.
-              </p>
-            </>
+            </div>
           )}
         </aside>
-      </div>
-      <div
-        className="seat-legend congress-group-legend"
-        role="group"
-        aria-label={`Seleccionar grupos del ${chamber}`}
-      >
-        {groups.map((g) => (
-          <button
-            key={g.id}
-            aria-pressed={filters.includes(g.id)}
-            onClick={() =>
-              setFilters((current) =>
-                current.includes(g.id)
-                  ? current.filter((id) => id !== g.id)
-                  : [...current, g.id],
-              )
-            }
-          >
-            <i style={{ background: congressGroupColor(g.name) }} />
-            <span>{g.label}</span>
-            <b>{g.members.length}</b>
-          </button>
-        ))}
       </div>
       {filtering && (
         <div className="congress-search-results" aria-live="polite">

@@ -86,12 +86,6 @@
   max-width: 340px;
   font-size: 12px;
 }
-.congress-diagram-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 230px;
-  gap: 28px;
-  align-items: start;
-}
 .congress-diagram {
   width: 100%;
   height: 100%;
@@ -104,12 +98,13 @@
   cursor: grabbing;
 }
 .hemicycle-widget {
-  height: 430px;
+  width: 100%;
+  aspect-ratio: 1040 / 590;
   min-width: 0;
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  background: var(--surface);
+  background: transparent;
 }
 .hemicycle-widget > svg {
   min-height: 0;
@@ -161,40 +156,69 @@
   font-size: 13px;
   letter-spacing: 2px;
 }
+.hemicycle-details {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  gap: 32px;
+  align-items: start;
+  border-top: 1px solid var(--line);
+  padding: 20px 0;
+}
 .congress-inspector {
-  border-left: 1px solid var(--line);
-  padding-left: 24px;
-  height: 430px;
-  min-height: 0;
-  overflow-y: auto;
-  scrollbar-gutter: stable;
-  overscroll-behavior: contain;
+  min-width: 0;
   font-size: 12px;
 }
+.hemicycle-person-card {
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr);
+  gap: 18px;
+  width: 100%;
+  padding: 0;
+  text-align: left;
+  align-items: start;
+}
+.hemicycle-person-info {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
 .congress-inspector h3 {
-  font-size: 19px;
+  font-size: 17px;
   line-height: 1.4;
   font-weight: 500;
-  margin: 16px 0 8px;
+  margin: 0 0 6px;
 }
 .congress-inspector p {
-  margin: 8px 0 20px;
-}
-.congress-inspector dl {
-  margin: 20px 0;
-}
-.congress-inspector dt {
-  font-size: 10px;
-  color: var(--muted);
-  margin-top: 12px;
-}
-.congress-inspector dd {
-  margin: 3px 0;
+  font-size: 11px;
   line-height: 1.5;
+  margin: 5px 0;
+}
+.hemicycle-constituency {
+  color: var(--muted);
+}
+.hemicycle-person-group {
+  display: flex;
+  align-items: baseline;
+  gap: 7px;
+}
+.hemicycle-person-group i {
+  width: 7px;
+  height: 7px;
+  flex: none;
+}
+.hemicycle-person-party > span {
+  color: var(--muted);
+}
+.hemicycle-person-empty {
+  min-height: 112px;
+  padding: 8px 0;
+}
+.hemicycle-person-empty .eyebrow {
+  display: block;
+  margin-bottom: 6px;
 }
 .congress-deputy-portrait {
-  height: 155px;
-  width: 125px;
+  height: 112px;
+  width: 84px;
   overflow: hidden;
   background: var(--surface);
 }
@@ -204,23 +228,24 @@
   object-fit: cover;
   object-position: center 18%;
 }
-.congress-inspector-count {
-  display: block;
-  font-size: 52px;
-  margin: 48px 0;
+.congress-hemicycle .congress-group-legend {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4px 22px;
+  margin: 0;
 }
-.congress-inspector-count small {
-  display: block;
-  font-size: 10px;
-  color: var(--muted);
-}
-.congress-group-legend {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  margin: 18px 0;
-}
-.congress-group-legend button {
+.congress-hemicycle .congress-group-legend button {
+  min-width: 0;
   text-align: left;
-  font-size: 11px;
+  font-size: 10px;
+  line-height: 1.4;
+  padding: 6px 0;
+}
+.congress-group-legend i,
+.congress-group-legend b {
+  flex: none;
+}
+.congress-group-legend span {
+  overflow-wrap: anywhere;
 }
 .congress-search-results {
   display: flex;
@@ -257,15 +282,6 @@
 .congress-board-grid .government-node strong {
   font-size: 12px;
 }
-@media (max-width: 1250px) {
-  .congress-diagram-layout {
-    grid-template-columns: minmax(0, 1fr) 190px;
-    gap: 18px;
-  }
-  .congress-inspector {
-    padding-left: 18px;
-  }
-}
 @media (max-width: 950px) {
   .congress-archive .government-time {
     display: block;
@@ -276,24 +292,13 @@
   .congress-archive .government-time > p {
     margin-top: 8px;
   }
-  .congress-diagram-layout {
+  .hemicycle-details {
     grid-template-columns: 1fr;
+    gap: 20px;
   }
   .congress-inspector {
-    min-height: 0;
-    height: 270px;
-    border-left: 0;
-    border-top: 1px solid var(--line);
-    padding: 20px 0;
+    grid-row: 1;
   }
-  .congress-inspector .congress-inspector-count {
-    margin: 16px 0;
-  }
-  .congress-deputy-portrait {
-    float: left;
-    margin-right: 22px;
-  }
-  .congress-group-legend,
   .congress-board-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -308,12 +313,11 @@
   .congress-graph-heading {
     display: block;
   }
-  .congress-group-legend,
   .congress-board-grid {
     grid-template-columns: 1fr;
   }
   .hemicycle-widget {
-    height: 300px;
+    aspect-ratio: 1040 / 660;
   }
 }
 @media (prefers-reduced-motion: reduce) {
