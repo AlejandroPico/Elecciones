@@ -7,6 +7,12 @@
       "label": "Congreso de los Diputados · ficha individual",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=92&idLegislatura=XII",
       "kind": "institutional"
+    },
+    {
+      "label": "Asamblea de Madrid · ficha individual",
+      "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2058&legislatura=13",
+      "kind": "institutional"
     }
-  ]
+  ],
+  "birthNote": "Se utiliza 1967-04-22. El registro de la Asamblea publica 1966-04-22; el registro anterior del Congreso o Senado publica 1967-04-22. Se conservan ambas fuentes para explicar la discrepancia."
 }

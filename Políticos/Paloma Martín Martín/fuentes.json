@@ -3,5 +3,30 @@
     "label": "Senado de España · ficha individual",
     "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=15&id1=19954",
     "kind": "institutional"
+  },
+  {
+    "label": "Asamblea de Madrid · archivo oficial",
+    "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1064&legislatura=13",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1064&legislatura=13",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2019/08/20/BOCM-20190820-8.PDF",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "http://www.bocm.es/boletin/CM_Orden_BOCM/2021/06/21/BOCM-20210621-4.PDF",
+    "kind": "institutional"
   }
 ]

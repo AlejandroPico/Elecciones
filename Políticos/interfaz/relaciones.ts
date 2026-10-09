@@ -36,6 +36,11 @@ export function ownOfficeTerms(person: Person) {
   );
   return terms
     .concat(
+      (person.madridOffices ?? []).map((term) => ({
+        name: term.title,
+        period: term.period,
+        source: term.source,
+      })),
       (person.catalanOffices ?? []).map((term) => ({
         name: term.title,
         period: term.period,

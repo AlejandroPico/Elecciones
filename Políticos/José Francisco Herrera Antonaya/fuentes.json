@@ -3,5 +3,15 @@
     "label": "Congreso de los Diputados · ficha individual",
     "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=372&idLegislatura=VII",
     "kind": "institutional"
+  },
+  {
+    "label": "Asamblea de Madrid · archivo oficial",
+    "url": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+    "kind": "institutional"
   }
 ]

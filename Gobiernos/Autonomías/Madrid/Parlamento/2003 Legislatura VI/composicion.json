@@ -1,0 +1,2365 @@
+{
+  "id": "madrid-asamblea-6",
+  "label": "Legislatura VI",
+  "start": "2003-06-10",
+  "end": "2003-08-28",
+  "checkedAt": "2026-10-09",
+  "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-vi",
+  "capacity": 111,
+  "currentOnly": false,
+  "note": "Altas, bajas y adscripciones documentadas por la Asamblea. Los registros antiguos tienen lagunas y fechas discrepantes, detalladas en el informe de fuentes. Después de una disolución, el registro de mandatos no equivale a un Pleno en funcionamiento.",
+  "records": [
+    {
+      "person": "madrid-maria-teresa-saez-laguna",
+      "name": "María Teresa Sáez Laguna",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1565&legislatura=6",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2003-06-23",
+      "end": "2003-10-27"
+    },
+    {
+      "person": "madrid-eduardo-tamayo-barrena",
+      "name": "Eduardo Tamayo Barrena",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1705&legislatura=6",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2003-06-23",
+      "end": "2003-10-27"
+    },
+    {
+      "person": "madrid-francisco-hernandez-ballesteros",
+      "name": "Francisco Hernández Ballesteros",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-02-06",
+      "end": "2003-05-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-manuel-del-hoyo-aguilera",
+      "name": "Manuel del Hoyo Aguilera",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-04-01",
+      "end": "2003-05-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-14885",
+      "name": "Francisco José Granados Lerena",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-05-27",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-juan-jose-guemes-barrios",
+      "name": "Juan José Güemes Barrios",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-05-27",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-patrocinio-las-heras-pinilla",
+      "name": "María Patrocinio las Heras Pinilla",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-05-27",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-adolfo-navarro-munoz",
+      "name": "Adolfo Navarro Muñoz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-adolfo-pinedo-simal",
+      "name": "Adolfo Piñedo Simal",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alberto-lopez-viejo",
+      "name": "Alberto López Viejo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alejandro-lucas-fernandez-martin",
+      "name": "Alejandro Lucas Fernández Martín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alicia-acebes-carabano",
+      "name": "Alicia Acebes Carabaño",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alvaro-moraga-valiente",
+      "name": "Álvaro Moraga Valiente",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alvaro-ramon-renedo-sedano",
+      "name": "Álvaro Ramón Renedo Sedano",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-ana-arroyo-veneroso",
+      "name": "Ana Arroyo Veneroso",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-andres-rojo-cubero",
+      "name": "Andrés Rojo Cubero",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-antonio-chazarra-montiel",
+      "name": "Antonio Chazarra Montiel",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-370-5",
+      "name": "Antonio Fernández Gordillo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-12679",
+      "name": "Antonio Germán Beteta Barreda",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-14386",
+      "name": "Beatriz María Elorriaga Pisarik",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-benjamin-martin-vasco",
+      "name": "Benjamín Martín Vasco",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-carlos-clemente-aguado",
+      "name": "Carlos Clemente Aguado",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "carlos-westendorp-y-cabeza",
+      "name": "Carlos Westendorp y Cabeza",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-carmen-garcia-rojas",
+      "name": "Carmen García Rojas",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-coloman-trabado-perez",
+      "name": "Colomán Trabado Pérez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-concepcion-lostau-martinez",
+      "name": "Concepción Lostau Martínez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-cristina-cifuentes-cuencas",
+      "name": "Cristina Cifuentes Cuencas",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-david-perez-garcia",
+      "name": "David Pérez García",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-dolores-rodriguez-gabucio",
+      "name": "Dolores Rodríguez Gabucio",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-12680",
+      "name": "Eduardo Cuenca Cañizares",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-eduardo-oficialdegui-alonso-de-celada",
+      "name": "Eduardo Oficialdegui Alonso de Celada",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-eduardo-sanchez-gatell",
+      "name": "Eduardo Sánchez Gatell",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-elena-de-utrilla-palombi",
+      "name": "Elena de Utrilla Palombi",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-enrique-echegoyen-vera",
+      "name": "Enrique Echegoyen Vera",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10423",
+      "name": "Esperanza Aguirre Gil de Biedma",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-eustaquio-jimenez-molero",
+      "name": "Eustaquio Jiménez Molero",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-fausto-fernandez-diaz",
+      "name": "Fausto Fernández Díaz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-federico-jimenez-de-parga-maseda",
+      "name": "Federico Jiménez de Parga Maseda",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-fernando-martinez-vidal",
+      "name": "Fernando Martínez Vidal",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-cabaco-lopez",
+      "name": "Francisco Cabaco López",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-contreras-lorenzo",
+      "name": "Francisco Contreras Lorenzo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-de-borja-carabante-muntada",
+      "name": "Francisco de Borja Carabante Muntada",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-de-borja-sarasola-jaudenes",
+      "name": "Francisco de Borja Sarasola Jáudenes",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-garrido-hernandez",
+      "name": "Francisco Garrido Hernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-hernandez-ballesteros",
+      "name": "Francisco Hernández Ballesteros",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-javier-gomez-gomez",
+      "name": "Francisco Javier Gómez Gómez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-javier-rodriguez-rodriguez",
+      "name": "Francisco Javier Rodríguez Rodríguez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-helena-almazan-vicario",
+      "name": "Helena Almazán Vicario",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-ines-alberdi-alonso",
+      "name": "Inés Alberdi Alonso",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-isabel-gema-gonzalez-gonzalez",
+      "name": "Isabel Gema González González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jacobo-ramon-beltran-pedreira",
+      "name": "Jacobo Ramón Beltrán Pedreira",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jesus-adriano-valverde-bocanegra",
+      "name": "Jesús Adriano Valverde Bocanegra",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-16425",
+      "name": "Jesús Fermosel Díaz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jorge-garcia-castano",
+      "name": "Jorge García Castaño",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jorge-gomez-moreno",
+      "name": "Jorge Gómez Moreno",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-antonio-diaz-martinez",
+      "name": "José Antonio Díaz Martínez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-cabrera-orellana",
+      "name": "José Cabrera Orellana",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-16445",
+      "name": "José Carmelo Cepeda García de León",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-guillermo-marin-calvo",
+      "name": "José Guillermo Marín Calvo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-89-14",
+      "name": "José Ignacio Echániz Salgado",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-13165",
+      "name": "José Ignacio Echeverría Echániz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-luis-garcia-sanchez",
+      "name": "José Luis García Sánchez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-120-14",
+      "name": "José Manuel Franco Pardo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-maria-de-federico-corral",
+      "name": "José María de Federico Corral",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-juan-antonio-ruiz-castillo",
+      "name": "Juan Antonio Ruiz Castillo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-12690",
+      "name": "Juan Soler-Espiauba Gallo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10417",
+      "name": "Juan Van-Halen Acedo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-laura-de-esteban-martin",
+      "name": "Laura de Esteban Martín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-408-10",
+      "name": "Lucila María Corral Ruiz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-luis-del-olmo-florez",
+      "name": "Luis del Olmo Flórez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-121-5",
+      "name": "Luis Eduardo Cortés Muñoz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-luis-manuel-partida-brunete",
+      "name": "Luis Manuel Partida Brunete",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-13365",
+      "name": "Luis Peral Guerra",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-luis-suarez-machota",
+      "name": "Luis Suárez Machota",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10620",
+      "name": "Marcos Sanz Agüero",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-margarita-maria-ferre-luparia",
+      "name": "Margarita María Ferré Luparia",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-antonia-garcia-fernandez",
+      "name": "María Antonia García Fernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-68-10",
+      "name": "María Caridad García Álvarez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-374-10",
+      "name": "María Carmen Rodríguez Flores",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-127-7",
+      "name": "María  Concepción Dancausa Treviño",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-de-la-rosa-rosa-ignacio",
+      "name": "María de la Rosa Rosa Ignacio",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-de-los-angeles-martinez-herrando",
+      "name": "María de los Ángeles Martínez Herrando",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-37-12",
+      "name": "María Carmen Álvarez-Arenas Cisneros",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-del-pilar-liebana-montijano",
+      "name": "María del Pilar Liébana Montijano",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-16185",
+      "name": "María Encarnación Moya Nieto",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-14385",
+      "name": "María Gádor Ongil Cores",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-isabel-manzano-martinez",
+      "name": "María Isabel Manzano Martínez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-isabel-martinez-cubells-yraola",
+      "name": "María Isabel Martínez-Cubells Yraola",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-isabel-redondo-alcaide",
+      "name": "María Isabel Redondo Alcaide",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-maravillas-martinez-doncel",
+      "name": "María Maravillas Martínez Doncel",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-19385",
+      "name": "María Paloma Adrados Gautier",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-paz-martin-lozano",
+      "name": "María Paz Martín Lozano",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-reyes-montiel-mesa",
+      "name": "María Reyes Montiel Mesa",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-soledad-mestre-garcia",
+      "name": "María Soledad Mestre García",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-miguel-angel-reneses-gonzalez-solares",
+      "name": "Miguel Angel Reneses González-Solares",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-12692",
+      "name": "Miguel Ángel Villanueva González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-modesto-nolla-estrada",
+      "name": "Modesto Nolla Estrada",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-oliva-cristina-garcia-robredo",
+      "name": "Oliva Cristina García Robredo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-oscar-jose-monterrubio-rodriguez",
+      "name": "Óscar José Monterrubio Rodríguez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pablo-abejas-juarez",
+      "name": "Pablo Abejas Juárez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pablo-morillo-casals",
+      "name": "Pablo Morillo Casals",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-19954",
+      "name": "Paloma Martín Martín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-39-3",
+      "name": "Pedro Feliciano Sabando Suárez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pedro-garcia-blanco-saceda",
+      "name": "Pedro García-Blanco Saceda",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-236-15",
+      "name": "Pedro Muñoz Abrines",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pilar-buso-borus",
+      "name": "Pilar Busó Borús",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-rafael-gomez-montoya",
+      "name": "Rafael Gómez Montoya",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-229-15",
+      "name": "Rafael Simancas Simancas",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-regino-garcia-badell-arias",
+      "name": "Regino García-Badell Arias",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10217",
+      "name": "Rosa María Posada Chapado",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-13386",
+      "name": "Ruth Porta Cantoni",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-sonsoles-trinidad-aboin-aboin",
+      "name": "Sonsoles Trinidad Aboín Aboín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-sylvia-ensenat-de-carlos",
+      "name": "Sylvia Enseñat de Carlos",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "2003-06-09",
+      "end": "2003-10-27",
+      "body": "Asamblea de Madrid"
+    }
+  ],
+  "board": [
+    {
+      "person": "madrid-francisco-cabaco-lopez",
+      "name": "Francisco Cabaco López",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=241&legislatura=8",
+      "constituency": "Madrid",
+      "role": "Vicepresidente Primero",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    },
+    {
+      "person": "madrid-alberto-lopez-viejo",
+      "name": "Alberto López Viejo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=976&legislatura=8",
+      "constituency": "Madrid",
+      "role": "Vicepresidente Segundo",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    },
+    {
+      "person": "madrid-jose-guillermo-marin-calvo",
+      "name": "José Guillermo Marín Calvo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1037&legislatura=6",
+      "constituency": "Madrid",
+      "role": "Vicepresidente Tercero",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    },
+    {
+      "person": "congreso-127-7",
+      "name": "María  Concepción Dancausa Treviño",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=402&legislatura=6",
+      "constituency": "Madrid",
+      "role": "Presidenta",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    },
+    {
+      "person": "senado-13165",
+      "name": "José Ignacio Echeverría Echániz",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=452&legislatura=10",
+      "constituency": "Madrid",
+      "role": "Secretario Primero",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    },
+    {
+      "person": "madrid-sylvia-ensenat-de-carlos",
+      "name": "Sylvia Enseñat de Carlos",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=458&legislatura=6",
+      "constituency": "Madrid",
+      "role": "Secretaria Tercera",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    },
+    {
+      "person": "madrid-maria-isabel-manzano-martinez",
+      "name": "María Isabel Manzano Martínez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1019&legislatura=6",
+      "constituency": "Madrid",
+      "role": "Secretaria Segunda",
+      "body": "Mesa de la Asamblea",
+      "start": "2003-06-10",
+      "end": "2003-11-11"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Grupo Parlamentario Mixto",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-vi",
+      "members": [
+        {
+          "person": "madrid-maria-teresa-saez-laguna",
+          "name": "María Teresa Sáez Laguna",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1565&legislatura=6",
+          "constituency": "Madrid",
+          "start": "2003-06-23",
+          "end": "2003-10-27"
+        },
+        {
+          "person": "madrid-eduardo-tamayo-barrena",
+          "name": "Eduardo Tamayo Barrena",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1705&legislatura=6",
+          "constituency": "Madrid",
+          "start": "2003-06-23",
+          "end": "2003-10-27"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Socialista-progresistas",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-vi",
+      "members": [
+        {
+          "person": "madrid-francisco-hernandez-ballesteros",
+          "name": "Francisco Hernández Ballesteros",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-02-06",
+          "end": "2003-05-26",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Popular",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-vi",
+      "members": [
+        {
+          "person": "madrid-manuel-del-hoyo-aguilera",
+          "name": "Manuel del Hoyo Aguilera",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-04-01",
+          "end": "2003-05-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-14885",
+          "name": "Francisco José Granados Lerena",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-05-27",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-juan-jose-guemes-barrios",
+          "name": "Juan José Güemes Barrios",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-05-27",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alberto-lopez-viejo",
+          "name": "Alberto López Viejo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alvaro-moraga-valiente",
+          "name": "Álvaro Moraga Valiente",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alvaro-ramon-renedo-sedano",
+          "name": "Álvaro Ramón Renedo Sedano",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-12679",
+          "name": "Antonio Germán Beteta Barreda",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-14386",
+          "name": "Beatriz María Elorriaga Pisarik",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-benjamin-martin-vasco",
+          "name": "Benjamín Martín Vasco",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-carlos-clemente-aguado",
+          "name": "Carlos Clemente Aguado",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-coloman-trabado-perez",
+          "name": "Colomán Trabado Pérez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-concepcion-lostau-martinez",
+          "name": "Concepción Lostau Martínez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-cristina-cifuentes-cuencas",
+          "name": "Cristina Cifuentes Cuencas",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-david-perez-garcia",
+          "name": "David Pérez García",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-eduardo-oficialdegui-alonso-de-celada",
+          "name": "Eduardo Oficialdegui Alonso de Celada",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-elena-de-utrilla-palombi",
+          "name": "Elena de Utrilla Palombi",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10423",
+          "name": "Esperanza Aguirre Gil de Biedma",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-federico-jimenez-de-parga-maseda",
+          "name": "Federico Jiménez de Parga Maseda",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-fernando-martinez-vidal",
+          "name": "Fernando Martínez Vidal",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-de-borja-carabante-muntada",
+          "name": "Francisco de Borja Carabante Muntada",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-de-borja-sarasola-jaudenes",
+          "name": "Francisco de Borja Sarasola Jáudenes",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-javier-rodriguez-rodriguez",
+          "name": "Francisco Javier Rodríguez Rodríguez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-isabel-gema-gonzalez-gonzalez",
+          "name": "Isabel Gema González González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jacobo-ramon-beltran-pedreira",
+          "name": "Jacobo Ramón Beltrán Pedreira",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jesus-adriano-valverde-bocanegra",
+          "name": "Jesús Adriano Valverde Bocanegra",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-16425",
+          "name": "Jesús Fermosel Díaz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-cabrera-orellana",
+          "name": "José Cabrera Orellana",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-89-14",
+          "name": "José Ignacio Echániz Salgado",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-13165",
+          "name": "José Ignacio Echeverría Echániz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-maria-de-federico-corral",
+          "name": "José María de Federico Corral",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-12690",
+          "name": "Juan Soler-Espiauba Gallo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10417",
+          "name": "Juan Van-Halen Acedo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-laura-de-esteban-martin",
+          "name": "Laura de Esteban Martín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-luis-del-olmo-florez",
+          "name": "Luis del Olmo Flórez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-121-5",
+          "name": "Luis Eduardo Cortés Muñoz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-luis-manuel-partida-brunete",
+          "name": "Luis Manuel Partida Brunete",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-13365",
+          "name": "Luis Peral Guerra",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-374-10",
+          "name": "María Carmen Rodríguez Flores",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-127-7",
+          "name": "María  Concepción Dancausa Treviño",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-37-12",
+          "name": "María Carmen Álvarez-Arenas Cisneros",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-del-pilar-liebana-montijano",
+          "name": "María del Pilar Liébana Montijano",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-14385",
+          "name": "María Gádor Ongil Cores",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-isabel-martinez-cubells-yraola",
+          "name": "María Isabel Martínez-Cubells Yraola",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-isabel-redondo-alcaide",
+          "name": "María Isabel Redondo Alcaide",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-19385",
+          "name": "María Paloma Adrados Gautier",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-12692",
+          "name": "Miguel Ángel Villanueva González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-oliva-cristina-garcia-robredo",
+          "name": "Oliva Cristina García Robredo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pablo-abejas-juarez",
+          "name": "Pablo Abejas Juárez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pablo-morillo-casals",
+          "name": "Pablo Morillo Casals",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-19954",
+          "name": "Paloma Martín Martín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-236-15",
+          "name": "Pedro Muñoz Abrines",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pilar-buso-borus",
+          "name": "Pilar Busó Borús",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-regino-garcia-badell-arias",
+          "name": "Regino García-Badell Arias",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10217",
+          "name": "Rosa María Posada Chapado",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-sonsoles-trinidad-aboin-aboin",
+          "name": "Sonsoles Trinidad Aboín Aboín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-sylvia-ensenat-de-carlos",
+          "name": "Sylvia Enseñat de Carlos",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Socialista",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-vi",
+      "members": [
+        {
+          "person": "madrid-maria-patrocinio-las-heras-pinilla",
+          "name": "María Patrocinio las Heras Pinilla",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-05-27",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-adolfo-navarro-munoz",
+          "name": "Adolfo Navarro Muñoz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-adolfo-pinedo-simal",
+          "name": "Adolfo Piñedo Simal",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alejandro-lucas-fernandez-martin",
+          "name": "Alejandro Lucas Fernández Martín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alicia-acebes-carabano",
+          "name": "Alicia Acebes Carabaño",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-ana-arroyo-veneroso",
+          "name": "Ana Arroyo Veneroso",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-andres-rojo-cubero",
+          "name": "Andrés Rojo Cubero",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-antonio-chazarra-montiel",
+          "name": "Antonio Chazarra Montiel",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-370-5",
+          "name": "Antonio Fernández Gordillo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "carlos-westendorp-y-cabeza",
+          "name": "Carlos Westendorp y Cabeza",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-carmen-garcia-rojas",
+          "name": "Carmen García Rojas",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-dolores-rodriguez-gabucio",
+          "name": "Dolores Rodríguez Gabucio",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-eduardo-sanchez-gatell",
+          "name": "Eduardo Sánchez Gatell",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-enrique-echegoyen-vera",
+          "name": "Enrique Echegoyen Vera",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-eustaquio-jimenez-molero",
+          "name": "Eustaquio Jiménez Molero",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-cabaco-lopez",
+          "name": "Francisco Cabaco López",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-contreras-lorenzo",
+          "name": "Francisco Contreras Lorenzo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-garrido-hernandez",
+          "name": "Francisco Garrido Hernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-javier-gomez-gomez",
+          "name": "Francisco Javier Gómez Gómez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-helena-almazan-vicario",
+          "name": "Helena Almazán Vicario",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-ines-alberdi-alonso",
+          "name": "Inés Alberdi Alonso",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jorge-gomez-moreno",
+          "name": "Jorge Gómez Moreno",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-antonio-diaz-martinez",
+          "name": "José Antonio Díaz Martínez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-16445",
+          "name": "José Carmelo Cepeda García de León",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-luis-garcia-sanchez",
+          "name": "José Luis García Sánchez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-120-14",
+          "name": "José Manuel Franco Pardo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-juan-antonio-ruiz-castillo",
+          "name": "Juan Antonio Ruiz Castillo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-408-10",
+          "name": "Lucila María Corral Ruiz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10620",
+          "name": "Marcos Sanz Agüero",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-antonia-garcia-fernandez",
+          "name": "María Antonia García Fernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-de-la-rosa-rosa-ignacio",
+          "name": "María de la Rosa Rosa Ignacio",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-de-los-angeles-martinez-herrando",
+          "name": "María de los Ángeles Martínez Herrando",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-16185",
+          "name": "María Encarnación Moya Nieto",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-isabel-manzano-martinez",
+          "name": "María Isabel Manzano Martínez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-maravillas-martinez-doncel",
+          "name": "María Maravillas Martínez Doncel",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-paz-martin-lozano",
+          "name": "María Paz Martín Lozano",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-soledad-mestre-garcia",
+          "name": "María Soledad Mestre García",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-modesto-nolla-estrada",
+          "name": "Modesto Nolla Estrada",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-oscar-jose-monterrubio-rodriguez",
+          "name": "Óscar José Monterrubio Rodríguez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-39-3",
+          "name": "Pedro Feliciano Sabando Suárez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pedro-garcia-blanco-saceda",
+          "name": "Pedro García-Blanco Saceda",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-rafael-gomez-montoya",
+          "name": "Rafael Gómez Montoya",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-229-15",
+          "name": "Rafael Simancas Simancas",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-13386",
+          "name": "Ruth Porta Cantoni",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario de Izquierda Unida",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-vi",
+      "members": [
+        {
+          "person": "senado-12680",
+          "name": "Eduardo Cuenca Cañizares",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-fausto-fernandez-diaz",
+          "name": "Fausto Fernández Díaz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jorge-garcia-castano",
+          "name": "Jorge García Castaño",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-guillermo-marin-calvo",
+          "name": "José Guillermo Marín Calvo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-luis-suarez-machota",
+          "name": "Luis Suárez Machota",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-margarita-maria-ferre-luparia",
+          "name": "Margarita María Ferré Luparia",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-68-10",
+          "name": "María Caridad García Álvarez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-reyes-montiel-mesa",
+          "name": "María Reyes Montiel Mesa",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-miguel-angel-reneses-gonzalez-solares",
+          "name": "Miguel Angel Reneses González-Solares",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "2003-06-09",
+          "end": "2003-10-27",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    }
+  ],
+  "endSource": "https://www.asambleamadrid.es/la-asamblea/historia",
+  "nominalOnly": false
+}

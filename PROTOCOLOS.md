@@ -125,7 +125,15 @@ En la ficha personal, reunir todos los periodos propios en una única sección �
 - Los cambios fechados de grupo, mandato, Mesa y fechas exactas de gabinete generan instantáneas. Las fechas mensuales de gabinete conservan esa precisión en la etiqueta y en la comparación; no inventar un nombramiento el día 1. La falta de adscripción fechada se muestra como tal, sin reutilizar la última adscripción para épocas anteriores.
 - El hemiciclo es un diagrama de personas únicas, agrupadas para lectura. **No asignar números de asiento físico por orden alfabético, tamaño de grupo ni candidatura.** `physicalSeating` registra la fuente pendiente y la fecha de consulta. Solo incorporar un plano real cuando haya posiciones fechadas y acreditadas. Los excesos temporales del inventario histórico se conservan y señalan; las posiciones sin mandato acreditado no se presentan como vacantes verificadas.
 - `#/congreso/congress/<composición>` y `#/autonomias/autonomy/<territorio:sección>` usan el historial central. Abrir una persona desde el Congreso conserva primero la composición que se estaba viendo, incluidos los pasos reproducidos. Mantener búsqueda y filtros al retroceder.
-- `Gobiernos/Autonomías/territorios.json` contiene las 17 comunidades y las dos ciudades autónomas, con IDs estables sin tildes. El menú distingue Gobierno y Parlamento; Ceuta y Melilla usan Asamblea. Cataluña está documentada; las demás rutas siguen pendientes y no deben mostrar datos de otro territorio.
+- `Gobiernos/Autonomías/territorios.json` contiene las 17 comunidades y las dos ciudades autónomas, con IDs estables sin tildes. El menú distingue Gobierno y Parlamento; Madrid, Ceuta y Melilla usan Asamblea. Cataluña y Madrid están documentadas; las demás rutas siguen pendientes y no deben mostrar datos de otro territorio.
+
+## Madrid y navegación lateral
+
+- Madrid sigue el mismo patrón de carpetas regionales. Las dos legislaturas de 2003 son VI y VII, con IDs distintos. Las etiquetas con `/` se escriben con `y` en el nombre de carpeta para evitar rutas accidentales. Los IDs siguen estables.
+- `mandatos-madrid.json`, `cargos-madrid.json`, `grupos-madrid.json` y `comisiones-madrid.json` pertenecen a la persona. El lector virtual debe admitir esos nombres y las imágenes `retrato-madrid.jpg`; crear archivos sin registrarlos en el lector impide mostrarlos en la web.
+- No deducir militancia a partir del grupo ni retirada a partir de la última legislatura. Conservar las discrepancias biográficas con ambas fuentes. No fusionar homónimos; las correspondencias explícitas se registran en `identidades.json`.
+- Los cuadros históricos sin intervalo diario usan `archiveTerms` y aparecen separados de la composición simultánea. Un registro parlamentario que supera la capacidad de escaños usa `nominalOnly`: conservar nombres y fuentes sin inventar un reparto. Las anomalías del CSV y los documentos contrastados quedan en `fuentes/`.
+- La navegación lateral utiliza desplazamiento nativo con rueda, tacto y teclado, con la barra visual oculta. Los indicadores de continuación y el degradado aparecen únicamente cuando queda contenido en esa dirección. La cabecera y la apariencia permanecen fuera del área desplazable. Respetar la reducción de movimiento.
 
 ## Cataluña y panel parlamentario
 

@@ -7,6 +7,12 @@
       "label": "Congreso de los Diputados · ficha individual",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=395&idLegislatura=X",
       "kind": "institutional"
+    },
+    {
+      "label": "Asamblea de Madrid · ficha individual",
+      "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1468&legislatura=2",
+      "kind": "institutional"
     }
-  ]
+  ],
+  "birthNote": "Se utiliza 1947-12-18. El registro de la Asamblea publica 1947-12-08; el registro anterior del Congreso o Senado publica 1947-12-18. Se conservan ambas fuentes para explicar la discrepancia."
 }

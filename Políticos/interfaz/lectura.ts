@@ -31,6 +31,10 @@ export function personCatalogPlugin(): Plugin {
     "mandatos-catalunya.json",
     "cargos-catalunya.json",
     "grupos-catalunya.json",
+    "mandatos-madrid.json",
+    "cargos-madrid.json",
+    "grupos-madrid.json",
+    "comisiones-madrid.json",
   ]);
   async function collect(watch?: (file: string) => void) {
     const directory = join(root, "Políticos");
@@ -74,7 +78,7 @@ export function personCatalogPlugin(): Plugin {
     async load(id) {
       if (id === "\0" + photosId) {
         if (!testing)
-          return `export default Object.fromEntries(Object.entries(import.meta.glob('/Políticos/*/retrato.{jpg,jpeg,png,webp,svg,gif}', {eager:true,query:'?url',import:'default'})).map(([path,url]) => ['../../'+path.slice('/Políticos/'.length),url]));`;
+          return `export default Object.fromEntries(Object.entries(import.meta.glob('/Políticos/*/retrato*.{jpg,jpeg,png,webp,svg,gif}', {eager:true,query:'?url',import:'default'})).map(([path,url]) => ['../../'+path.slice('/Políticos/'.length),url]));`;
         const photos: Record<string, string> = {};
         // Las pruebas de datos comprueban el recurso real sin ejecutar un módulo
         // de JavaScript por cada una de las miles de imágenes.
@@ -91,7 +95,11 @@ export function personCatalogPlugin(): Plugin {
               for (const file of await readdir(
                 join(root, "Políticos", folder.name),
               ))
-                if (/^retrato\.(jpg|jpeg|png|webp|svg|gif)$/.test(file))
+                if (
+                  /^retrato(?:-madrid)?\.(jpg|jpeg|png|webp|svg|gif)$/.test(
+                    file,
+                  )
+                )
                   photos[`../../${folder.name}/${file}`] = join(
                     root,
                     "Políticos",

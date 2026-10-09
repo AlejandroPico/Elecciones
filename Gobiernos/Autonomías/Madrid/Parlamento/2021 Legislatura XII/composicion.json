@@ -1,0 +1,2854 @@
+{
+  "id": "madrid-asamblea-12",
+  "label": "Legislatura XII",
+  "start": "2021-06-08",
+  "end": "2023-06-13",
+  "checkedAt": "2026-10-09",
+  "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-xii",
+  "capacity": 136,
+  "currentOnly": false,
+  "note": "Altas, bajas y adscripciones documentadas por la Asamblea. Los registros antiguos tienen lagunas y fechas discrepantes, detalladas en el informe de fuentes. Después de una disolución, el registro de mandatos no equivale a un Pleno en funcionamiento.",
+  "records": [
+    {
+      "person": "senado-12690",
+      "name": "Juan Soler-Espiauba Gallo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1688&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=236&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "congreso-236-15",
+      "name": "Pedro Muñoz Abrines",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1201&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19385",
+      "name": "María Paloma Adrados Gautier",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=17&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-16445",
+      "name": "José Carmelo Cepeda García de León",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=337&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jose-luis-garcia-sanchez",
+      "name": "José Luis García Sánchez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=634&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19954",
+      "name": "Paloma Martín Martín",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1064&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-alvaro-moraga-valiente",
+      "name": "Álvaro Moraga Valiente",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1162&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-david-perez-garcia",
+      "name": "David Pérez García",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1346&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-isabel-redondo-alcaide",
+      "name": "María Isabel Redondo Alcaide",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1431&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-maria-nadia-alvarez-padilla",
+      "name": "María Nadia Álvarez Padilla",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=70&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "madrid-jose-maria-arribas-del-barrio",
+      "name": "José María Arribas del Barrio",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=106&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-18625",
+      "name": "Ana Camins Martínez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=266&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19804",
+      "name": "Enrique Ruiz Escudero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1540&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-pilar-sanchez-acera",
+      "name": "Pilar Sánchez Acera",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1591&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2022-12-12"
+    },
+    {
+      "person": "congreso-341-15",
+      "name": "María Eugenia Carballedo Berlanga",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=286&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-sonia-conejero-palero",
+      "name": "Sonia Conejero Palero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=368&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "isabel-diaz-ayuso",
+      "name": "Isabel Natividad Díaz Ayuso",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=409&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-francisco-javier-fernandez-lasquetty-blanc",
+      "name": "Francisco Javier Fernández-Lasquetty Blanc",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=523&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-carlos-gonzalez-pereira",
+      "name": "Carlos González Pereira",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=772&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "senado-16045",
+      "name": "Íñigo Henríquez de Luna Losada",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=823&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19505",
+      "name": "Eduardo Raboso García-Baquero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1410&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "congreso-272-12",
+      "name": "Tania Sánchez Melero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1612&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "senado-19802",
+      "name": "Alfonso Carlos Serrano Sánchez-Capuchino",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1672&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-acin-carrera",
+      "name": "María Acín Carrera",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2026&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-alvaro-ballarin-valcarcel",
+      "name": "Álvaro Ballarín Valcárcel",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=141&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jazmin-beirak-ulanosky",
+      "name": "Jazmín Beirak Ulanosky",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=168&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "garcia",
+      "name": "Mónica García Gómez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=593&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-diego-cruz-torrijos",
+      "name": "Diego Cruz Torrijos",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=394&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-emilio-delgado-orgaz",
+      "name": "Emilio Delgado Orgaz",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=406&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-18605",
+      "name": "Eduardo Fernández Rubiño",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=510&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-beatriz-gimeno-reinoso",
+      "name": "Beatriz Gimeno Reinoso",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=686&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-santiago-eduardo-gutierrez-benito",
+      "name": "Santiago Eduardo Gutiérrez Benito",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=810&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-raquel-huerta-bravo",
+      "name": "Raquel Huerta Bravo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=859&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-carlos-izquierdo-torres",
+      "name": "Carlos Izquierdo Torres",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=879&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "pilar-llop-cuenca",
+      "name": "María Pilar Llop Cuenca",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=939&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-12"
+    },
+    {
+      "person": "senado-19807",
+      "name": "Juan Lobato Gandarias",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=940&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-del-carmen-lopez-ruiz",
+      "name": "María del Carmen López Ruiz",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=971&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-15",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-marta-marban-de-frutos",
+      "name": "Marta Marbán de Frutos",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1026&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-hugo-martinez-abarca",
+      "name": "Hugo Martínez Abarca",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1075&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-maria-del-carmen-mena-romero",
+      "name": "María del Carmen Mena Romero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1122&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-17985",
+      "name": "Jacinto Morano González",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1168&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "congreso-373-15",
+      "name": "José Enrique Núñez Guijarro",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1249&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-alberto-oliver-gomez-de-la-vega",
+      "name": "Alberto Oliver Gómez de la Vega",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1905&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-enrique-matias-ossorio-crespo",
+      "name": "Enrique Matías Ossorio Crespo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1290&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-angel-ramos-sanchez",
+      "name": "Ángel Ramos Sánchez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1421&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-enrique-rico-garcia-hierro",
+      "name": "Enrique Rico García Hierro",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1449&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-nicolas-rodriguez-garcia",
+      "name": "Nicolás Rodríguez García",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1482&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2022-12-15",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-alejandro-sanchez-perez",
+      "name": "Alejandro Sánchez Pérez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1615&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-diego-sanjuanbenito-bonal",
+      "name": "Diego Sanjuanbenito Bonal",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1631&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-begona-estefania-suarez-menendez",
+      "name": "Begoña Estefanía Suárez Menéndez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2020&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-agustin-vinagre-alcazar",
+      "name": "Agustín Vinagre Alcázar",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1815&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-12-02",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-rocio-albert-lopez",
+      "name": "Rocío Albert López",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2106&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "madrid-carolina-alonso-alonso",
+      "name": "Carolina Alonso Alonso",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2100&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-loreto-arenillas-gomez",
+      "name": "Loreto Arenillas Gómez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2130&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jose-ignacio-arias-moreno",
+      "name": "José Ignacio Arias Moreno",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2103&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-isabel-aymerich-d-olhaberriague",
+      "name": "Isabel Aymerich D´Olhaberriague",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2050&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-11-18"
+    },
+    {
+      "person": "madrid-maria-carmen-barahona-prol",
+      "name": "María Carmen Barahona Prol",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2043&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-marta-bernardo-llorente",
+      "name": "Marta Bernardo Llorente",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2055&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-sergio-brabezo-carballo",
+      "name": "Sergio Brabezo Carballo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2073&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-mariano-calabuig-martinez",
+      "name": "Mariano Calabuig Martínez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2090&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-carmen-castell-diaz",
+      "name": "María Carmen Castell Díaz",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2062&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2022-11-14"
+    },
+    {
+      "person": "madrid-ana-maria-cuartero-lorenzo",
+      "name": "Ana María Cuartero Lorenzo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2089&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jaime-maria-de-berenguer-de-santiago",
+      "name": "Jaime María de Berenguer de Santiago",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2095&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "congreso-270-15",
+      "name": "Jaime Miguel De los Santos González",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1918&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-pedro-maria-corral-corral",
+      "name": "Pedro María Corral Corral",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2115&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jorge-arturo-cutillas-cordon",
+      "name": "Jorge Arturo Cutillas Cordón",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2088&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-ana-davila-ponce-de-leon-municio",
+      "name": "Ana Dávila-Ponce de León Municio",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2323&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-matilde-isabel-diaz-ojeda",
+      "name": "Matilde Isabel Díaz Ojeda",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2048&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-carlos-diaz-pache-gosende",
+      "name": "Carlos Díaz-Pache Gosende",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2064&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-12"
+    },
+    {
+      "person": "madrid-maria-yolanda-estrada-madrid",
+      "name": "María Yolanda Estrada Madrid",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2063&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-fernando-fernandez-lara",
+      "name": "Fernando Fernández Lara",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2052&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-diego-figuera-alvarez",
+      "name": "Diego Figuera Álvarez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2078&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-paloma-garcia-villa",
+      "name": "Paloma García Villa",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2283&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-17",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19525",
+      "name": "Pablo Gómez Perpinyà",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2082&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-cristina-gonzalez-alvarez",
+      "name": "Cristina González Álvarez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2049&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-javier-guardiola-arevalo",
+      "name": "Javier Guardiola Arévalo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2054&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-pablo-gutierrez-de-cabiedes-hidalgo-de-caviedes",
+      "name": "Pablo Gutiérrez de Cabiedes Hidalgo de Caviedes",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2092&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-lorena-heras-sedano",
+      "name": "Lorena Heras Sedano",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2114&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19806",
+      "name": "María Yolanda Ibarrola de la Fuente",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=866&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "congreso-356-15",
+      "name": "Hana Jalloul Muro",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2051&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-gador-pilar-joya-verde",
+      "name": "Gádor Pilar Joya Verde",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2096&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-vanessa-lillo-gomez",
+      "name": "Vanessa Lillo Gómez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2099&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jose-virgilio-menendez-medrano",
+      "name": "José Virgilio Menéndez Medrano",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2286&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-rocio-monasterio-san-martin",
+      "name": "Rocío Monasterio San Martín",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2086&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-lorena-morales-porro",
+      "name": "Lorena Morales Porro",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2047&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jorge-moruno-danzi",
+      "name": "Jorge Moruno Danzi",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2083&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-almudena-negro-konrad",
+      "name": "Almudena Negro Konrad",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2061&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-pastor-valdes",
+      "name": "María Pastor Valdés",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2084&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-javier-perez-gallardo",
+      "name": "Javier Pérez Gallardo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2094&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-alodia-perez-munoz",
+      "name": "Alodia Pérez Muñoz",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2081&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-esther-platero-san-roman",
+      "name": "Esther Platero San Román",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2285&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-daniel-portero-de-la-torre",
+      "name": "Daniel Portero de la Torre",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2059&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jorge-rodrigo-dominguez",
+      "name": "Jorge Rodrigo Domínguez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2007&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-alicia-veronica-rubio-calle",
+      "name": "Alicia Verónica Rubio Calle",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2091&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jose-luis-ruiz-bartolome",
+      "name": "José Luis Ruiz Bartolomé",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2105&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-antonio-sanchez-dominguez",
+      "name": "Antonio Sánchez Domínguez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2122&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-soledad-sanchez-maroto",
+      "name": "Soledad Sánchez Maroto",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2097&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-jose-antonio-sanchez-serrano",
+      "name": "José Antonio Sánchez Serrano",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2039&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "congreso-92-12",
+      "name": "Alicia Sánchez-Camacho Pérez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2058&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-hector-tejero-franco",
+      "name": "Héctor Tejero Franco",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2080&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-paloma-tejero-toledo",
+      "name": "Paloma Tejero Toledo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2322&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-02-27"
+    },
+    {
+      "person": "madrid-gonzalo-babe-romero",
+      "name": "Gonzalo Babé Romero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2354&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-manuel-bautista-monjon",
+      "name": "Manuel Bautista Monjón",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2374&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "madrid-manuela-maria-bergerot-uncal",
+      "name": "Manuela María Bergerot Uncal",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2355&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19803",
+      "name": "María Mar Blanco Garrido",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2351&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "senado-19805",
+      "name": "Miriam Bravo Sánchez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2396&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-jesus-angel-celada-perez",
+      "name": "Jesús Ángel Celada Pérez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2349&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-ana-collado-jimenez",
+      "name": "Ana Collado Jiménez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2370&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-juan-carlos-carretero-carretero",
+      "name": "Juan Carlos Carretero Carretero",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2380&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-28"
+    },
+    {
+      "person": "madrid-ignacio-catala-martinez",
+      "name": "Ignacio Catalá Martínez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2395&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-15",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-orlando-chacon-tabares",
+      "name": "Orlando Chacón Tabares",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2382&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-mirina-cortes-ortega",
+      "name": "Mirina Cortés Ortega",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2398&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-alberto-escribano-garcia",
+      "name": "Alberto Escribano García",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2399&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-lucia-soledad-fernandez-alonso",
+      "name": "Lucía Soledad Fernández Alonso",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2377&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-belen-fernandez-salinero-garcia",
+      "name": "María Belén Fernández-Salinero García",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2449&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2022-11-17",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-francisco-galeote-perea",
+      "name": "Francisco Galeote Perea",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2376&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-miguel-angel-garcia-martin",
+      "name": "Miguel Ángel García Martín",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2112&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "madrid-carlos-gonzalez-maestre",
+      "name": "Carlos González Maestre",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2368&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-carla-isabel-greciano-barrado",
+      "name": "Carla Isabel Greciano Barrado",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2381&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-alejandra-jacinto-uranga",
+      "name": "Alejandra Jacinto Uranga",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=880&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-enrique-lopez-lopez",
+      "name": "Enrique López López",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2109&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "congreso-313-11",
+      "name": "Irene Lozano Domingo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2348&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-11-22"
+    },
+    {
+      "person": "madrid-serigne-mbaye-diouf",
+      "name": "Serigne Mbaye Diouf",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2367&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-silvia-monterrubio-hernando",
+      "name": "Silvia Monterrubio Hernando",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2418&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-12-02",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-agustin-moreno-garcia",
+      "name": "Agustín Moreno García",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2363&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-maria-del-mar-nicolas-robledano",
+      "name": "María del Mar Nicolás Robledano",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2401&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-carlos-novillo-piris",
+      "name": "Carlos Novillo Piris",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2108&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "madrid-janette-novo-castillo",
+      "name": "Janette Novo Castillo",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2373&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "congreso-343-15",
+      "name": "Noelia Núñez González",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2365&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-javier-padilla-bernaldez",
+      "name": "Javier Padilla Bernáldez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2302&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-gonzalo-pastor-barahona",
+      "name": "Gonzalo Pastor Barahona",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2352&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-03-27"
+    },
+    {
+      "person": "madrid-juan-antonio-pena-ochoa",
+      "name": "Juan Antonio Peña Ochoa",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2406&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-09-16",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-juana-beatriz-perez-abraham",
+      "name": "Juana Beatriz Pérez Abraham",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2356&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-maria-de-las-mercedes-perez-gonzalez",
+      "name": "María de las Mercedes Pérez González",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2477&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2023-03-02",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-ignacio-jose-pezuela-cabanes",
+      "name": "Ignacio José Pezuela Cabañes",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2379&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-judit-piquet-flores",
+      "name": "Judit Piquet Flores",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2378&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-miriam-rabaneda-gudiel",
+      "name": "Miriam Rabaneda Gudiel",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2402&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-miguel-angel-recuenco-checa",
+      "name": "Miguel Ángel Recuenco Checa",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2403&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-santiago-jose-rivero-cruz",
+      "name": "Santiago José Rivero Cruz",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2384&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-encarnacion-rivero-flor",
+      "name": "Encarnación Rivero Flor",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2366&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-esther-rodriguez-moreno",
+      "name": "Esther Rodríguez Moreno",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2357&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jesus-santos-gimeno",
+      "name": "Jesús Santos Gimeno",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2364&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-carlos-segura-gutierrez",
+      "name": "Carlos Segura Gutiérrez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2371&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-alejandra-serrano-fernandez",
+      "name": "Alejandra Serrano Fernández",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2375&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-enrique-serrano-sanchez-tembleque",
+      "name": "Enrique Serrano Sánchez-Tembleque",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2383&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-alicia-torija-lopez",
+      "name": "Alicia Torija López",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1724&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    },
+    {
+      "person": "madrid-luis-miguel-torres-hernandez",
+      "name": "Luis Miguel Torres Hernández",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2360&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2021-07-05"
+    },
+    {
+      "person": "madrid-elisa-adela-vigil-gonzalez",
+      "name": "Elisa Adela Vigil González",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2358&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-manuela-villa-acosta",
+      "name": "Manuela Villa Acosta",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2350&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jose-manuel-zarzoso-revenga",
+      "name": "José Manuel Zarzoso Revenga",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2404&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "body": "Asamblea de Madrid",
+      "start": "2021-07-15",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-teresa-de-jesus-zurita-ramon",
+      "name": "Teresa de Jesús Zurita Ramón",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2359&legislatura=12",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-05-28"
+    }
+  ],
+  "board": [
+    {
+      "person": "madrid-jose-maria-arribas-del-barrio",
+      "name": "José María Arribas del Barrio",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=106&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Secretario Primero",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "congreso-341-15",
+      "name": "María Eugenia Carballedo Berlanga",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=286&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Presidenta",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-diego-cruz-torrijos",
+      "name": "Diego Cruz Torrijos",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=394&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Secretario Segundo",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jose-ignacio-arias-moreno",
+      "name": "José Ignacio Arias Moreno",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2103&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Vicepresidente Segundo",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-jorge-rodrigo-dominguez",
+      "name": "Jorge Rodrigo Domínguez",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2007&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Vicepresidente Primero",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-francisco-galeote-perea",
+      "name": "Francisco Galeote Perea",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2376&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Secretario Tercero",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    },
+    {
+      "person": "madrid-esther-rodriguez-moreno",
+      "name": "Esther Rodríguez Moreno",
+      "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2357&legislatura=13",
+      "constituency": "Madrid",
+      "role": "Vicepresidenta Tercera",
+      "body": "Asamblea de Madrid",
+      "start": "2021-06-08",
+      "end": "2023-06-12"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Grupo Parlamentario Popular de la Asamblea de Madrid",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-xii",
+      "members": [
+        {
+          "person": "senado-12690",
+          "name": "Juan Soler-Espiauba Gallo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1688&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-10510",
+          "name": "Tomás Pedro Burgos Beteta",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=236&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "congreso-236-15",
+          "name": "Pedro Muñoz Abrines",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1201&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-19385",
+          "name": "María Paloma Adrados Gautier",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=17&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-19954",
+          "name": "Paloma Martín Martín",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1064&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-alvaro-moraga-valiente",
+          "name": "Álvaro Moraga Valiente",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1162&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-david-perez-garcia",
+          "name": "David Pérez García",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1346&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-isabel-redondo-alcaide",
+          "name": "María Isabel Redondo Alcaide",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1431&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-maria-nadia-alvarez-padilla",
+          "name": "María Nadia Álvarez Padilla",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=70&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "madrid-jose-maria-arribas-del-barrio",
+          "name": "José María Arribas del Barrio",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=106&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-18625",
+          "name": "Ana Camins Martínez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=266&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-19804",
+          "name": "Enrique Ruiz Escudero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1540&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "congreso-341-15",
+          "name": "María Eugenia Carballedo Berlanga",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=286&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "isabel-diaz-ayuso",
+          "name": "Isabel Natividad Díaz Ayuso",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=409&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-francisco-javier-fernandez-lasquetty-blanc",
+          "name": "Francisco Javier Fernández-Lasquetty Blanc",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=523&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-carlos-gonzalez-pereira",
+          "name": "Carlos González Pereira",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=772&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "senado-19505",
+          "name": "Eduardo Raboso García-Baquero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1410&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-19802",
+          "name": "Alfonso Carlos Serrano Sánchez-Capuchino",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1672&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-alvaro-ballarin-valcarcel",
+          "name": "Álvaro Ballarín Valcárcel",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=141&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-carlos-izquierdo-torres",
+          "name": "Carlos Izquierdo Torres",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=879&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-marta-marban-de-frutos",
+          "name": "Marta Marbán de Frutos",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1026&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "congreso-373-15",
+          "name": "José Enrique Núñez Guijarro",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1249&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-enrique-matias-ossorio-crespo",
+          "name": "Enrique Matías Ossorio Crespo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1290&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-angel-ramos-sanchez",
+          "name": "Ángel Ramos Sánchez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1421&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-diego-sanjuanbenito-bonal",
+          "name": "Diego Sanjuanbenito Bonal",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1631&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-rocio-albert-lopez",
+          "name": "Rocío Albert López",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2106&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "madrid-sergio-brabezo-carballo",
+          "name": "Sergio Brabezo Carballo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2073&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-carmen-castell-diaz",
+          "name": "María Carmen Castell Díaz",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2062&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2022-11-14"
+        },
+        {
+          "person": "congreso-270-15",
+          "name": "Jaime Miguel De los Santos González",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1918&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-pedro-maria-corral-corral",
+          "name": "Pedro María Corral Corral",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2115&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-ana-davila-ponce-de-leon-municio",
+          "name": "Ana Dávila-Ponce de León Municio",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2323&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-carlos-diaz-pache-gosende",
+          "name": "Carlos Díaz-Pache Gosende",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2064&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-12"
+        },
+        {
+          "person": "madrid-maria-yolanda-estrada-madrid",
+          "name": "María Yolanda Estrada Madrid",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2063&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-lorena-heras-sedano",
+          "name": "Lorena Heras Sedano",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2114&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-19806",
+          "name": "María Yolanda Ibarrola de la Fuente",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=866&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "madrid-jose-virgilio-menendez-medrano",
+          "name": "José Virgilio Menéndez Medrano",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2286&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-almudena-negro-konrad",
+          "name": "Almudena Negro Konrad",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2061&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-esther-platero-san-roman",
+          "name": "Esther Platero San Román",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2285&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-daniel-portero-de-la-torre",
+          "name": "Daniel Portero de la Torre",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2059&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jorge-rodrigo-dominguez",
+          "name": "Jorge Rodrigo Domínguez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2007&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jose-antonio-sanchez-serrano",
+          "name": "José Antonio Sánchez Serrano",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2039&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "congreso-92-12",
+          "name": "Alicia Sánchez-Camacho Pérez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2058&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-paloma-tejero-toledo",
+          "name": "Paloma Tejero Toledo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2322&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-02-27"
+        },
+        {
+          "person": "madrid-manuel-bautista-monjon",
+          "name": "Manuel Bautista Monjón",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2374&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "senado-19803",
+          "name": "María Mar Blanco Garrido",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2351&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-19805",
+          "name": "Miriam Bravo Sánchez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2396&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-ana-collado-jimenez",
+          "name": "Ana Collado Jiménez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2370&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-juan-carlos-carretero-carretero",
+          "name": "Juan Carlos Carretero Carretero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2380&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-28"
+        },
+        {
+          "person": "madrid-ignacio-catala-martinez",
+          "name": "Ignacio Catalá Martínez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2395&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-07-15",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-orlando-chacon-tabares",
+          "name": "Orlando Chacón Tabares",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2382&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-mirina-cortes-ortega",
+          "name": "Mirina Cortés Ortega",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2398&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-alberto-escribano-garcia",
+          "name": "Alberto Escribano García",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2399&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-lucia-soledad-fernandez-alonso",
+          "name": "Lucía Soledad Fernández Alonso",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2377&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-belen-fernandez-salinero-garcia",
+          "name": "María Belén Fernández-Salinero García",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2449&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2022-11-17",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-francisco-galeote-perea",
+          "name": "Francisco Galeote Perea",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2376&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-miguel-angel-garcia-martin",
+          "name": "Miguel Ángel García Martín",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2112&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "madrid-carlos-gonzalez-maestre",
+          "name": "Carlos González Maestre",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2368&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-carla-isabel-greciano-barrado",
+          "name": "Carla Isabel Greciano Barrado",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2381&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-enrique-lopez-lopez",
+          "name": "Enrique López López",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2109&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-del-mar-nicolas-robledano",
+          "name": "María del Mar Nicolás Robledano",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2401&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-carlos-novillo-piris",
+          "name": "Carlos Novillo Piris",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2108&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "madrid-janette-novo-castillo",
+          "name": "Janette Novo Castillo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2373&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "congreso-343-15",
+          "name": "Noelia Núñez González",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2365&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-juan-antonio-pena-ochoa",
+          "name": "Juan Antonio Peña Ochoa",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2406&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-09-16",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-juana-beatriz-perez-abraham",
+          "name": "Juana Beatriz Pérez Abraham",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2356&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-de-las-mercedes-perez-gonzalez",
+          "name": "María de las Mercedes Pérez González",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2477&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2023-03-02",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-ignacio-jose-pezuela-cabanes",
+          "name": "Ignacio José Pezuela Cabañes",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2379&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-judit-piquet-flores",
+          "name": "Judit Piquet Flores",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2378&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-miriam-rabaneda-gudiel",
+          "name": "Miriam Rabaneda Gudiel",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2402&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-miguel-angel-recuenco-checa",
+          "name": "Miguel Ángel Recuenco Checa",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2403&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-encarnacion-rivero-flor",
+          "name": "Encarnación Rivero Flor",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2366&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-carlos-segura-gutierrez",
+          "name": "Carlos Segura Gutiérrez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2371&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-alejandra-serrano-fernandez",
+          "name": "Alejandra Serrano Fernández",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2375&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-enrique-serrano-sanchez-tembleque",
+          "name": "Enrique Serrano Sánchez-Tembleque",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2383&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-luis-miguel-torres-hernandez",
+          "name": "Luis Miguel Torres Hernández",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2360&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-05"
+        },
+        {
+          "person": "madrid-elisa-adela-vigil-gonzalez",
+          "name": "Elisa Adela Vigil González",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2358&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jose-manuel-zarzoso-revenga",
+          "name": "José Manuel Zarzoso Revenga",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2404&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-15",
+          "end": "2023-06-12"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Socialista",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-xii",
+      "members": [
+        {
+          "person": "senado-16445",
+          "name": "José Carmelo Cepeda García de León",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=337&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jose-luis-garcia-sanchez",
+          "name": "José Luis García Sánchez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=634&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-pilar-sanchez-acera",
+          "name": "Pilar Sánchez Acera",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1591&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2022-12-12"
+        },
+        {
+          "person": "madrid-sonia-conejero-palero",
+          "name": "Sonia Conejero Palero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=368&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-diego-cruz-torrijos",
+          "name": "Diego Cruz Torrijos",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=394&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "pilar-llop-cuenca",
+          "name": "María Pilar Llop Cuenca",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=939&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-07-12"
+        },
+        {
+          "person": "senado-19807",
+          "name": "Juan Lobato Gandarias",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=940&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-del-carmen-lopez-ruiz",
+          "name": "María del Carmen López Ruiz",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=971&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-07-15",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-maria-del-carmen-mena-romero",
+          "name": "María del Carmen Mena Romero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1122&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-enrique-rico-garcia-hierro",
+          "name": "Enrique Rico García Hierro",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1449&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-nicolas-rodriguez-garcia",
+          "name": "Nicolás Rodríguez García",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1482&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2022-12-15",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-begona-estefania-suarez-menendez",
+          "name": "Begoña Estefanía Suárez Menéndez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2020&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-agustin-vinagre-alcazar",
+          "name": "Agustín Vinagre Alcázar",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1815&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-12-02",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-isabel-aymerich-d-olhaberriague",
+          "name": "Isabel Aymerich D´Olhaberriague",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2050&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-11-18"
+        },
+        {
+          "person": "madrid-maria-carmen-barahona-prol",
+          "name": "María Carmen Barahona Prol",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2043&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-marta-bernardo-llorente",
+          "name": "Marta Bernardo Llorente",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2055&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-matilde-isabel-diaz-ojeda",
+          "name": "Matilde Isabel Díaz Ojeda",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2048&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-fernando-fernandez-lara",
+          "name": "Fernando Fernández Lara",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2052&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-cristina-gonzalez-alvarez",
+          "name": "Cristina González Álvarez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2049&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-javier-guardiola-arevalo",
+          "name": "Javier Guardiola Arévalo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2054&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "congreso-356-15",
+          "name": "Hana Jalloul Muro",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2051&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-lorena-morales-porro",
+          "name": "Lorena Morales Porro",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2047&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jesus-angel-celada-perez",
+          "name": "Jesús Ángel Celada Pérez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2349&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "congreso-313-11",
+          "name": "Irene Lozano Domingo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2348&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2021-11-22"
+        },
+        {
+          "person": "madrid-silvia-monterrubio-hernando",
+          "name": "Silvia Monterrubio Hernando",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2418&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-12-02",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-gonzalo-pastor-barahona",
+          "name": "Gonzalo Pastor Barahona",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2352&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-03-27"
+        },
+        {
+          "person": "madrid-santiago-jose-rivero-cruz",
+          "name": "Santiago José Rivero Cruz",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2384&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-manuela-villa-acosta",
+          "name": "Manuela Villa Acosta",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2350&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Vox en Madrid",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-xii",
+      "members": [
+        {
+          "person": "senado-16045",
+          "name": "Íñigo Henríquez de Luna Losada",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=823&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jose-ignacio-arias-moreno",
+          "name": "José Ignacio Arias Moreno",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2103&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-mariano-calabuig-martinez",
+          "name": "Mariano Calabuig Martínez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2090&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-ana-maria-cuartero-lorenzo",
+          "name": "Ana María Cuartero Lorenzo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2089&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jaime-maria-de-berenguer-de-santiago",
+          "name": "Jaime María de Berenguer de Santiago",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2095&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-jorge-arturo-cutillas-cordon",
+          "name": "Jorge Arturo Cutillas Cordón",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2088&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-pablo-gutierrez-de-cabiedes-hidalgo-de-caviedes",
+          "name": "Pablo Gutiérrez de Cabiedes Hidalgo de Caviedes",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2092&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-gador-pilar-joya-verde",
+          "name": "Gádor Pilar Joya Verde",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2096&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-rocio-monasterio-san-martin",
+          "name": "Rocío Monasterio San Martín",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2086&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-javier-perez-gallardo",
+          "name": "Javier Pérez Gallardo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2094&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-alicia-veronica-rubio-calle",
+          "name": "Alicia Verónica Rubio Calle",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2091&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jose-luis-ruiz-bartolome",
+          "name": "José Luis Ruiz Bartolomé",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2105&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-gonzalo-babe-romero",
+          "name": "Gonzalo Babé Romero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2354&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Más Madrid",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-xii",
+      "members": [
+        {
+          "person": "congreso-272-12",
+          "name": "Tania Sánchez Melero",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1612&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-maria-acin-carrera",
+          "name": "María Acín Carrera",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2026&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jazmin-beirak-ulanosky",
+          "name": "Jazmín Beirak Ulanosky",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=168&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "garcia",
+          "name": "Mónica García Gómez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=593&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-emilio-delgado-orgaz",
+          "name": "Emilio Delgado Orgaz",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=406&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "senado-18605",
+          "name": "Eduardo Fernández Rubiño",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=510&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-santiago-eduardo-gutierrez-benito",
+          "name": "Santiago Eduardo Gutiérrez Benito",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=810&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-raquel-huerta-bravo",
+          "name": "Raquel Huerta Bravo",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=859&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-hugo-martinez-abarca",
+          "name": "Hugo Martínez Abarca",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1075&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-alberto-oliver-gomez-de-la-vega",
+          "name": "Alberto Oliver Gómez de la Vega",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1905&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-alejandro-sanchez-perez",
+          "name": "Alejandro Sánchez Pérez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1615&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-loreto-arenillas-gomez",
+          "name": "Loreto Arenillas Gómez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2130&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-diego-figuera-alvarez",
+          "name": "Diego Figuera Álvarez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2078&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "senado-19525",
+          "name": "Pablo Gómez Perpinyà",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2082&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-jorge-moruno-danzi",
+          "name": "Jorge Moruno Danzi",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2083&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-maria-pastor-valdes",
+          "name": "María Pastor Valdés",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2084&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-alodia-perez-munoz",
+          "name": "Alodia Pérez Muñoz",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2081&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-antonio-sanchez-dominguez",
+          "name": "Antonio Sánchez Domínguez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2122&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-hector-tejero-franco",
+          "name": "Héctor Tejero Franco",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2080&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-manuela-maria-bergerot-uncal",
+          "name": "Manuela María Bergerot Uncal",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2355&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-javier-padilla-bernaldez",
+          "name": "Javier Padilla Bernáldez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2302&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-esther-rodriguez-moreno",
+          "name": "Esther Rodríguez Moreno",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2357&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-alicia-torija-lopez",
+          "name": "Alicia Torija López",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1724&legislatura=13",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-teresa-de-jesus-zurita-ramon",
+          "name": "Teresa de Jesús Zurita Ramón",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2359&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Unidas Podemos",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-xii",
+      "members": [
+        {
+          "person": "madrid-beatriz-gimeno-reinoso",
+          "name": "Beatriz Gimeno Reinoso",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=686&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "senado-17985",
+          "name": "Jacinto Morano González",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1168&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-carolina-alonso-alonso",
+          "name": "Carolina Alonso Alonso",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2100&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-paloma-garcia-villa",
+          "name": "Paloma García Villa",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2283&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-17",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-vanessa-lillo-gomez",
+          "name": "Vanessa Lillo Gómez",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2099&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-soledad-sanchez-maroto",
+          "name": "Soledad Sánchez Maroto",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2097&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-alejandra-jacinto-uranga",
+          "name": "Alejandra Jacinto Uranga",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=880&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        },
+        {
+          "person": "madrid-serigne-mbaye-diouf",
+          "name": "Serigne Mbaye Diouf",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2367&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-agustin-moreno-garcia",
+          "name": "Agustín Moreno García",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2363&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-05-28"
+        },
+        {
+          "person": "madrid-jesus-santos-gimeno",
+          "name": "Jesús Santos Gimeno",
+          "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2364&legislatura=12",
+          "constituency": "Madrid",
+          "start": "2021-06-08",
+          "end": "2023-06-12"
+        }
+      ]
+    }
+  ],
+  "nominalOnly": false
+}

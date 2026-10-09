@@ -64,6 +64,10 @@ export type Person = {
   catalanMandates?: { title: string; period: string; source: Reference }[];
   catalanOffices?: { title: string; period: string; source: Reference }[];
   catalanGroups?: { title: string; period: string; source: Reference }[];
+  madridMandates?: { title: string; period: string; source: Reference }[];
+  madridOffices?: { title: string; period: string; source: Reference }[];
+  madridGroups?: { title: string; period: string; source: Reference }[];
+  madridCommittees?: { title: string; period: string; source: Reference }[];
 };
 export type PoliticalActivity = {
   state: "active" | "historical" | "unknown";

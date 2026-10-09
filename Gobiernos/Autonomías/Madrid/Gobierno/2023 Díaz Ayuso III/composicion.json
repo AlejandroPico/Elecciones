@@ -1,0 +1,148 @@
+{
+  "id": "madrid-gobierno-diaz-ayuso-iii",
+  "label": "Díaz Ayuso III",
+  "name": "Isabel Natividad Díaz Ayuso",
+  "start": "2023-06-23",
+  "end": null,
+  "source": "https://www.comunidad.madrid/gobierno/equipo-gobierno",
+  "terms": [
+    {
+      "name": "Isabel Natividad Díaz Ayuso",
+      "role": "Presidencia de la Comunidad de Madrid",
+      "level": "president",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/23/BOCM-20230623-42.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "isabel-diaz-ayuso",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Miguel Ángel García Martín",
+      "role": "Consejería de Presidencia, Justicia y Administración Local",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-2.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-miguel-angel-garcia-martin",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Rocío Albert López",
+      "role": "Consejería de Economía, Hacienda y Empleo",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-rocio-albert-lopez",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Miguel López-Valverde Argüeso",
+      "role": "Consejería de Digitalización",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-5.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-miguel-lopez-valverde-argueso",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Emilio Viciana Duro",
+      "role": "Consejería de Educación, Ciencia y Universidades",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": "2026-02-16",
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-8.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Cese por Decreto 5/2026 de 16 de febrero.",
+      "endSource": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/02/17/BOCM-20260217-1.PDF",
+      "person": "madrid-emilio-viciana-duro",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Jorge Rodrigo Domínguez",
+      "role": "Consejería de Vivienda, Transportes e Infraestructuras",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-4.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-jorge-rodrigo-dominguez",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Fátima Matute Teresa",
+      "role": "Consejería de Sanidad",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-7.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-fatima-matute-teresa",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Carlos Novillo Piris",
+      "role": "Consejería de Medio Ambiente, Agricultura e Interior",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-6.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-carlos-novillo-piris",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Ana Dávila-Ponce de León Municio",
+      "role": "Consejería de Familia, Juventud y Asuntos Sociales",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-9.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-ana-davila-ponce-de-leon-municio",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "Mariano de Paco Serrano",
+      "role": "Consejería de Cultura, Turismo y Deporte",
+      "level": "minister",
+      "start": "2023-06-23",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/26/BOCM-20230626-10.PDF",
+      "chronologySource": "https://en.wikipedia.org/wiki/Third_government_of_Isabel_D%C3%ADaz_Ayuso",
+      "endBasis": "Límite del cuadro histórico de composición; conserva suplencias hasta el siguiente gabinete.",
+      "person": "madrid-mariano-de-paco-serrano",
+      "constituency": "Madrid"
+    },
+    {
+      "name": "María Mercedes Zarzalejo Carbajo",
+      "role": "Consejería de Educación, Ciencia y Universidades",
+      "level": "minister",
+      "start": "2026-02-16",
+      "end": null,
+      "source": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/02/17/BOCM-20260217-2.PDF",
+      "dateBasis": "Decreto de nombramiento 7/2026 de 16 de febrero, publicado el 17.",
+      "person": "madrid-maria-mercedes-zarzalejo-carbajo",
+      "constituency": "Madrid"
+    }
+  ],
+  "archiveTerms": [],
+  "incidents": [
+    "Nombramientos enlazados al BOCM cuando el documento confirma a la persona. La cronología complementaria procede del cuadro histórico; se distingue de la fecha de firma del decreto y de la toma de posesión.",
+    "El nombramiento de Mercedes Zarzalejo está fechado el 16 de febrero de 2026 y publicado el 17; no se utiliza la fecha de noticias posteriores."
+  ],
+  "checkedAt": "2026-10-09"
+}

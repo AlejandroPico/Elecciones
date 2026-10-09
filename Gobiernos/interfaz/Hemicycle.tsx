@@ -71,6 +71,8 @@ export default function Hemicycle({
   note: string;
   openPerson: (id: string) => void;
 }) {
+  const chamberOf = `${chamber.startsWith("Asamblea") ? "de la" : "del"} ${chamber}`;
+  const chamberIn = `${chamber.startsWith("Asamblea") ? "en la" : "en el"} ${chamber}`;
   const headingId = useId();
   const positions = groups.flatMap((group) =>
     group.members.map((member) => ({ member, group })),
@@ -160,7 +162,7 @@ export default function Hemicycle({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Buscar persona o circunscripción"
-            aria-label={`Buscar en el hemiciclo del ${chamber}`}
+            aria-label={`Buscar en el hemiciclo ${chamberOf}`}
           />
         </label>
         {filtering && (
@@ -180,12 +182,12 @@ export default function Hemicycle({
           <div
             className="hemicycle-zoom"
             role="group"
-            aria-label={`Zoom del ${chamber}`}
+            aria-label={`Zoom ${chamberOf}`}
           >
             <button
               className="icon-button"
               disabled={camera.zoom <= 1}
-              aria-label={`Alejar hemiciclo del ${chamber}`}
+              aria-label={`Alejar hemiciclo ${chamberOf}`}
               onClick={() => setCamera((c) => zoomCamera(c, c.zoom / 1.3))}
             >
               <Minus size={15} />
@@ -194,14 +196,14 @@ export default function Hemicycle({
             <button
               className="icon-button"
               disabled={camera.zoom >= 4}
-              aria-label={`Acercar hemiciclo del ${chamber}`}
+              aria-label={`Acercar hemiciclo ${chamberOf}`}
               onClick={() => setCamera((c) => zoomCamera(c, c.zoom * 1.3))}
             >
               <Plus size={15} />
             </button>
             <button
               className="icon-button"
-              aria-label={`Restablecer hemiciclo del ${chamber}`}
+              aria-label={`Restablecer hemiciclo ${chamberOf}`}
               onClick={() => setCamera(homeCamera)}
             >
               <RotateCcw size={14} />
@@ -213,7 +215,7 @@ export default function Hemicycle({
             viewBox="0 0 1040 550"
             preserveAspectRatio="xMidYMid meet"
             role="group"
-            aria-label={`Hemiciclo esquemático del ${chamber}. ${total} mandatos. Flechas: recorrer personas. Enter: abrir ficha. Zoom con la rueda o los botones; arrastrar para desplazar.`}
+            aria-label={`Hemiciclo esquemático ${chamberOf}. ${total} mandatos. Flechas: recorrer personas. Enter: abrir ficha. Zoom con la rueda o los botones; arrastrar para desplazar.`}
             onPointerDown={(e) => {
               if (e.button !== 0) return;
               drag.current = {
@@ -370,7 +372,7 @@ export default function Hemicycle({
         <div
           className="seat-legend congress-group-legend"
           role="group"
-          aria-label={`Seleccionar grupos del ${chamber}`}
+          aria-label={`Seleccionar grupos ${chamberOf}`}
         >
           {groups.map((g) => (
             <button
@@ -393,7 +395,7 @@ export default function Hemicycle({
         </div>
         <aside
           className="congress-inspector"
-          aria-label={`Persona seleccionada en el ${chamber}`}
+          aria-label={`Persona seleccionada ${chamberIn}`}
           aria-live="polite"
           aria-atomic="true"
         >

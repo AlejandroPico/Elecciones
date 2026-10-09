@@ -3,5 +3,35 @@
     "label": "Congreso de los Diputados · ficha individual",
     "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=232&idLegislatura=VIII",
     "kind": "institutional"
+  },
+  {
+    "label": "Asamblea de Madrid · archivo oficial",
+    "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=931&legislatura=4",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=931&legislatura=4",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1983-16666",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1987-17054",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-18122",
+    "kind": "institutional"
   }
 ]

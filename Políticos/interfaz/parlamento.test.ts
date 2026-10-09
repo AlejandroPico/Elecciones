@@ -1,6 +1,7 @@
 import { expect, it } from "vitest";
 import audit from "../revisiones/2026-10-08-parlamento/informe.json";
 import catalanAudit from "../../Gobiernos/revisiones/2026-10-08-catalunya/informe.json";
+import madridAudit from "../../Gobiernos/revisiones/2026-10-09-madrid/informe.json";
 import { people, portraits, findPerson } from "./datos/catalogo";
 import { matchesAffiliation } from "./vinculaciones";
 
@@ -17,7 +18,9 @@ it("incluye cada identidad del Congreso y Senado desde 1977 con su fuente indivi
   );
   expect(catalanAudit.baselinePeople).toBe(audit.uniquePeople);
   expect(people).toHaveLength(
-    audit.uniquePeople + catalanAudit.newPeople.length,
+    audit.uniquePeople +
+      catalanAudit.newPeople.length +
+      madridAudit.newPeople.length,
   );
   for (const r of audit.records) {
     const person = findPerson(r.id);
@@ -51,7 +54,7 @@ it("los retratos corresponden a recursos documentados y las ausencias quedan ide
       .filter((p) => !portraits[p.id])
       .map((p) => p.id)
       .sort(),
-  ).toEqual(catalanAudit.missingPortraits.map((p) => p.id).sort());
+  ).toEqual(madridAudit.allMissingPortraits);
 });
 
 it("reúne identidades de ambas cámaras y explica las discrepancias sin inventar precisión", () => {

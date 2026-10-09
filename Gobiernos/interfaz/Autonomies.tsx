@@ -3,6 +3,7 @@ import { ChevronDown, Landmark } from "lucide-react";
 import territories from "../Autonomías/territorios.json";
 export { territories };
 const Catalonia = lazy(() => import("./Catalonia"));
+const Madrid = lazy(() => import("./Madrid"));
 export function autonomyEntry(
   region: string,
   section: "government" | "parliament",
@@ -100,7 +101,9 @@ export function AutonomyMenu({
                         openSection(autonomyEntry(territory.id, "parliament"))
                       }
                     >
-                      {territory.kind === "ciudad" ? "Asamblea" : "Parlamento"}
+                      {territory.kind === "ciudad" || territory.id === "madrid"
+                        ? "Asamblea"
+                        : "Parlamento"}
                     </button>
                   </div>
                 </div>
@@ -128,23 +131,29 @@ export default function Autonomies({
     if (active) setLast(selected);
   }, [selected, active]);
   const route = readAutonomyEntry(active ? selected : last);
+  const Institution =
+    route?.territory.id === "cataluna"
+      ? Catalonia
+      : route?.territory.id === "madrid"
+        ? Madrid
+        : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">
         {route
-          ? `${route.territory.name} · ${route.section === "government" ? "Gobierno" : route.territory.kind === "ciudad" ? "Asamblea" : "Parlamento"}`
+          ? `${route.territory.name} · ${route.section === "government" ? "Gobierno" : route.territory.kind === "ciudad" || route.territory.id === "madrid" ? "Asamblea" : "Parlamento"}`
           : "Gobiernos autonómicos"}
       </h1>
-      {route?.territory.id === "cataluna" ? (
+      {Institution && route ? (
         <Suspense
           fallback={
             <span className="sr-only" role="status">
-              Cargando Cataluña
+              Cargando {route.territory.name}
             </span>
           }
         >
-          <Catalonia
-            key={route.section}
+          <Institution
+            key={`${route.territory.id}:${route.section}`}
             section={route.section as "government" | "parliament"}
             selected={route.snapshot}
             openSection={openSection}

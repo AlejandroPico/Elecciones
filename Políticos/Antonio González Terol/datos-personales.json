@@ -1,12 +1,17 @@
 {
-  "birthDate": "1976-08-23",
-  "birthYear": 1976,
-  "birth": "23/08/1976",
+  "birthDate": "1978-08-23",
+  "birthYear": 1978,
   "personalSources": [
     {
       "label": "Congreso de los Diputados · ficha individual",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=166&idLegislatura=XIV",
       "kind": "institutional"
+    },
+    {
+      "label": "Asamblea de Madrid · ficha individual",
+      "url": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=781&legislatura=10",
+      "kind": "institutional"
     }
-  ]
+  ],
+  "birthNote": "Se utiliza 1978-08-23. El registro de la Asamblea publica 1978-08-23; el registro anterior del Congreso o Senado publica 1976-08-23. Se conservan ambas fuentes para explicar la discrepancia."
 }

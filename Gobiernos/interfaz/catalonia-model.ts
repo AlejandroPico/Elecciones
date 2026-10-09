@@ -4,6 +4,7 @@ export type CatalanTerm = HemicycleMember & {
   role: string;
   level?: "president" | "vice" | "minister";
   endBasis?: string;
+  period?: string;
 };
 export type CatalanGovernment = {
   id: string;
@@ -15,6 +16,7 @@ export type CatalanGovernment = {
   source: string;
   terms: CatalanTerm[];
   incidents: string[];
+  archiveTerms?: CatalanTerm[];
 };
 export type CatalanParliament = {
   id: string;
@@ -24,6 +26,9 @@ export type CatalanParliament = {
   checkedAt: string;
   source: string;
   currentOnly: boolean;
+  endSource?: string;
+  capacity?: number;
+  nominalOnly?: boolean;
   note: string;
   records: CatalanTerm[];
   board: CatalanTerm[];

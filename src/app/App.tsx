@@ -41,6 +41,7 @@ const Programs = lazy(() => import("../../Partidos/interfaz/Programs"));
 import { contexts } from "../../Elecciones/Generales Noviembre 2026/contextos";
 import favicon from "../../favicon.svg";
 import { useNavigation, type View, type Entry } from "./navigation";
+import ScrollNavigation from "./ScrollNavigation";
 const Archive = lazy(() => import("../../Políticos/interfaz/Archive"));
 const Governments = lazy(() => import("../../Gobiernos/interfaz/Governments"));
 const Senate = lazy(() => import("../../Gobiernos/interfaz/Senate"));
@@ -313,7 +314,7 @@ export default function App() {
           <br />
           Noviembre 2026
         </div>
-        <nav className="main-nav" aria-label="Secciones">
+        <ScrollNavigation>
           {(
             [
               { id: "survey", name: "Cuestionario", icon: ListChecks },
@@ -418,7 +419,7 @@ export default function App() {
             selected={view === "autonomies" ? archiveEntry?.id : undefined}
             openSection={(id) => openEntry({ kind: "autonomy", id })}
           />
-        </nav>
+        </ScrollNavigation>
         <div className="sidebar-bottom">
           <button
             className="appearance-cycle quiet-button"

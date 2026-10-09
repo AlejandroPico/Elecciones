@@ -1,0 +1,74 @@
+[
+  {
+    "person": "congreso-395-10",
+    "field": "birthDate",
+    "existing": "1947-12-18",
+    "assembly": "1947-12-08",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1468&legislatura=2",
+    "preferred": "1947-12-18",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "senado-10038",
+    "field": "birthDate",
+    "existing": "1943-07-31",
+    "assembly": "1948-01-24",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1657&legislatura=3",
+    "preferred": "1943-07-31",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "congreso-36-12",
+    "field": "birthDate",
+    "existing": "1942-12-13",
+    "assembly": "1944-12-13",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=916&legislatura=4",
+    "preferred": "1942-12-13",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "senado-10039",
+    "field": "birthDate",
+    "existing": "1955-01-30",
+    "assembly": "1955-05-30",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1&legislatura=4",
+    "preferred": "1955-01-30",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "senado-10413",
+    "field": "birthDate",
+    "existing": "1932-09-19",
+    "assembly": "1952-09-19",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1240&legislatura=4",
+    "preferred": "1932-09-19",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "congreso-166-14",
+    "field": "birthDate",
+    "existing": "1976-08-23",
+    "assembly": "1978-08-23",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=781&legislatura=10",
+    "preferred": "1978-08-23",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "congreso-373-15",
+    "field": "birthDate",
+    "existing": "1974-03-16",
+    "assembly": "1974-03-14",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=1249&legislatura=13",
+    "preferred": "1974-03-16",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  },
+  {
+    "person": "congreso-92-12",
+    "field": "birthDate",
+    "existing": "1967-04-22",
+    "assembly": "1966-04-22",
+    "source": "https://www.asambleamadrid.es/composicion/diputados/ficha-del-diputado?diputado=2058&legislatura=13",
+    "preferred": "1967-04-22",
+    "reason": "La ficha individual de la Asamblea contradice la fecha previamente publicada. Se conserva la fecha del Congreso o Senado, salvo González Terol: 1978 coincide en la Asamblea y en su biografía contrastada. La discrepancia no representa una persona distinta."
+  }
+]

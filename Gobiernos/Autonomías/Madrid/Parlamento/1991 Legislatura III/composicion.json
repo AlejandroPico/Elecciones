@@ -1,0 +1,2267 @@
+{
+  "id": "madrid-asamblea-3",
+  "label": "Legislatura III",
+  "start": "1991-06-20",
+  "end": "1995-06-22",
+  "checkedAt": "2026-10-09",
+  "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-iii",
+  "capacity": 101,
+  "currentOnly": false,
+  "note": "El registro oficial contiene intervalos superpuestos que superan el número de escaños de esta legislatura. Se ofrece el archivo nominal con sus fuentes; no se reconstruye un hemiciclo diario ni se seleccionan personas arbitrariamente para hacerlo cuadrar.",
+  "records": [
+    {
+      "person": "madrid-adolfo-de-luxan-melendez",
+      "name": "Adolfo de Luxán Meléndez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-adolfo-gilaberte-fernandez",
+      "name": "Adolfo Gilaberte Fernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-adolfo-pinedo-simal",
+      "name": "Adolfo Piñedo Simal",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-agapito-ramos-cuenca",
+      "name": "Agapito Ramos Cuenca",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alberto-lopez-viejo",
+      "name": "Alberto López Viejo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "alberto-ruiz-gallardon-jimenez",
+      "name": "Alberto Ruiz-Gallardón Jiménez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alejandro-lucas-fernandez-martin",
+      "name": "Alejandro Lucas Fernández Martín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-alfonso-sacristan-alonso",
+      "name": "Alfonso Sacristán Alonso",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "ana-mato-adrover",
+      "name": "Ana Mato Adrover",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-angel-luis-del-castillo-gordo",
+      "name": "Ángel Luis del Castillo Gordo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-antonio-aviles-trigo",
+      "name": "Antonio Avilés Trigo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-antonio-chazarra-montiel",
+      "name": "Antonio Chazarra Montiel",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-12679",
+      "name": "Antonio Germán Beteta Barreda",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-asuncion-lopez-blanco",
+      "name": "Asunción López Blanco",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-berta-labarga-bustos",
+      "name": "Berta Labarga Bustos",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-blanca-nieves-de-la-cierva-y-de-hoces",
+      "name": "Blanca Nieves de la Cierva y de Hoces",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-bonifacio-de-santiago-prieto",
+      "name": "Bonifacio de Santiago Prieto",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-candida-o-shea-suarez-inclan",
+      "name": "Cándida O'Shea Suárez-Inclán",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-carmen-ferrero-torres",
+      "name": "Carmen Ferrero Torres",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-carmen-torralba-gonzalez",
+      "name": "Carmen Torralba González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-cristina-cifuentes-cuencas",
+      "name": "Cristina Cifuentes Cuencas",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-96-8",
+      "name": "Dolores García-Hierro Caraballo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-eduardo-duque-fernandez-de-pinedo",
+      "name": "Eduardo Duque Fernández de Pinedo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-eduardo-garcia-fernandez",
+      "name": "Eduardo García Fernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-elvira-domingo-ortiz",
+      "name": "Elvira Domingo Ortiz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-ernolando-parra-gellida",
+      "name": "Ernolando Parra Gellida",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-eulalia-garcia-sanchez",
+      "name": "Eulalia García Sánchez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-fermin-lucas-jimenez",
+      "name": "Fermín Lucas Jiménez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10039",
+      "name": "Fernando Abad Bécquer",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-fernando-utande-martinez",
+      "name": "Fernando Utande Martínez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10038",
+      "name": "Francisca Sauquillo Pérez del Arco",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-cabaco-lopez",
+      "name": "Francisco Cabaco López",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-javier-doz-orrit",
+      "name": "Francisco Javier Doz Orrit",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-javier-ledesma-bartret",
+      "name": "Francisco Javier Ledesma Bartret",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-francisco-javier-rodriguez-rodriguez",
+      "name": "Francisco Javier Rodríguez Rodríguez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-guillermo-jimenez-ramos",
+      "name": "Guillermo Jiménez Ramos",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-hilario-correa-rodriguez",
+      "name": "Hilario Correa Rodríguez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-ignacio-del-rio-garcia-de-sola",
+      "name": "Ignacio del Río García de Sola",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10055",
+      "name": "Isabel Vilallonga Elviro",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-380-8",
+      "name": "Ismael Bardisa Jordá",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-111-9",
+      "name": "Jaime Lissavetzky Díez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jaime-ramon-ruiz-reig",
+      "name": "Jaime Ramón Ruiz Reig",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jesus-adriano-valverde-bocanegra",
+      "name": "Jesús Adriano Valverde Bocanegra",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10034",
+      "name": "Jesús Pedroche Nieto",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jesus-perez-gonzalez",
+      "name": "Jesús Pérez González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jesus-santisteban-saez",
+      "name": "Jesús Santisteban Sáez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-232-8",
+      "name": "Joaquín Leguina Herrán",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-118-15",
+      "name": "José Antonio Bermúdez de Castro Fernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-antonio-moral-santin",
+      "name": "José Antonio Moral Santín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-antonio-sainz-garcia",
+      "name": "José Antonio Sainz García",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-lopez-lopez",
+      "name": "José López López",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-luis-alvarez-de-francisco",
+      "name": "José Luis Álvarez de Francisco",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-luis-fernandez-rioja",
+      "name": "José Luis Fernández Rioja",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-luis-garcia-alonso",
+      "name": "José Luis García Alonso",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-luis-moreno-casas",
+      "name": "José Luis Moreno Casas",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-luis-navarro-coronado",
+      "name": "José Luis Navarro Coronado",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-maria-de-federico-corral",
+      "name": "José María de Federico Corral",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-maria-de-la-torre-y-montoro",
+      "name": "José María de la Torre y Montoro",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-martin-crespo-diaz",
+      "name": "José Martín-Crespo Díaz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-jose-ramon-garcia-menendez",
+      "name": "José Ramón García Menéndez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-355-9",
+      "name": "Juan Antonio Barrio de Penagos",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-juan-antonio-candil-martin",
+      "name": "Juan Antonio Candil Martín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-juan-antonio-ruiz-castillo",
+      "name": "Juan Antonio Ruiz Castillo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-juan-jose-layda-ferrer",
+      "name": "Juan José Layda Ferrer",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-juan-sanchez-fernandez",
+      "name": "Juan Sánchez Fernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-12690",
+      "name": "Juan Soler-Espiauba Gallo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10417",
+      "name": "Juan Van-Halen Acedo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-julio-pacheco-benito",
+      "name": "Julio Pacheco Benito",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-laura-de-esteban-martin",
+      "name": "Laura de Esteban Martín",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-luis-alonso-novo",
+      "name": "Luis Alonso Novo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-121-5",
+      "name": "Luis Eduardo Cortés Muñoz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-luis-manuel-partida-brunete",
+      "name": "Luis Manuel Partida Brunete",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-luis-miguel-maza-alcazar",
+      "name": "Luis Miguel Maza Alcázar",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-324-15",
+      "name": "Manuel Cobo Vega",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-manuel-jesus-casero-nuno",
+      "name": "Manuel Jesús Casero Nuño",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-manuel-jose-rodriguez-gonzalez",
+      "name": "Manuel José Rodríguez González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-manuel-juan-corvo-gonzalez",
+      "name": "Manuel Juan Corvo González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10620",
+      "name": "Marcos Sanz Agüero",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-37-12",
+      "name": "María Carmen Álvarez-Arenas Cisneros",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-felisa-romero-verdugo",
+      "name": "María Felisa Romero Verdugo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-pilar-fernandez-rodriguez",
+      "name": "María Pilar Fernández Rodríguez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-serrano-fernandez",
+      "name": "María Serrano Fernández",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-36-12",
+      "name": "María Teresa de Lara Carbó",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-teresa-garcia-siso-pardo",
+      "name": "María Teresa García-Siso Pardo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-teresa-martinez-pardo",
+      "name": "María Teresa Martínez Pardo",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maria-teresa-nevado-bueno",
+      "name": "María Teresa Nevado Bueno",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-matias-castejon-nunez",
+      "name": "Matías Castejón Núñez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-maximo-alonso-arranz",
+      "name": "Máximo Alonso Arranz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-miguel-montabes-calle",
+      "name": "Miguel Montabes Calle",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pablo-luis-corbalan-marlasca",
+      "name": "Pablo Luis Corbalán Marlasca",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-paloma-fernandez-fontecha-torres",
+      "name": "Paloma Fernández-Fontecha Torres",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-paloma-garcia-romero",
+      "name": "Paloma García Romero",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pedro-arguelles-salaverria",
+      "name": "Pedro Argüelles Salaverría",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pedro-diez-olazabal",
+      "name": "Pedro Díez Olazábal",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10171",
+      "name": "Pedro Luis Calvo Poch",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "congreso-236-15",
+      "name": "Pedro Muñoz Abrines",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pedro-nunez-morgades",
+      "name": "Pedro Núñez Morgades",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pedro-ruiz-munoz",
+      "name": "Pedro Ruiz Muñoz",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-pilar-buso-borus",
+      "name": "Pilar Busó Borús",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputada",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10216",
+      "name": "Pío García-escudero Márquez",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-rafael-de-lorenzo-garcia",
+      "name": "Rafael de Lorenzo García",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-ramon-espinar-gallego",
+      "name": "Ramón Espinar Gallego",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-roberto-sanz-pinacho",
+      "name": "Roberto Sanz Pinacho",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-salvador-cardenete-ros",
+      "name": "Salvador Cardenete Ros",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-salvador-torrecilla-montal",
+      "name": "Salvador Torrecilla Montal",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10251",
+      "name": "Teófilo Serrano Beltrán",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-timoteo-mayoral-marques",
+      "name": "Timoteo Mayoral Marqués",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-tomas-casado-gonzalez",
+      "name": "Tomás Casado González",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-tomas-fernandez-bonilla",
+      "name": "Tomás Fernández Bonilla",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "senado-10510",
+      "name": "Tomás Pedro Burgos Beteta",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    },
+    {
+      "person": "madrid-valentin-gomez-garcia",
+      "name": "Valentín Gómez García",
+      "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+      "constituency": "Madrid",
+      "role": "Diputado",
+      "start": "1991-06-20",
+      "end": "1995-06-26",
+      "body": "Asamblea de Madrid"
+    }
+  ],
+  "board": [],
+  "groups": [
+    {
+      "name": "Grupo Parlamentario de Izquierda Unida",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-iii",
+      "members": [
+        {
+          "person": "madrid-adolfo-de-luxan-melendez",
+          "name": "Adolfo de Luxán Meléndez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-adolfo-gilaberte-fernandez",
+          "name": "Adolfo Gilaberte Fernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-javier-doz-orrit",
+          "name": "Francisco Javier Doz Orrit",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10055",
+          "name": "Isabel Vilallonga Elviro",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jaime-ramon-ruiz-reig",
+          "name": "Jaime Ramón Ruiz Reig",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-juan-antonio-candil-martin",
+          "name": "Juan Antonio Candil Martín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-luis-alonso-novo",
+          "name": "Luis Alonso Novo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pedro-diez-olazabal",
+          "name": "Pedro Díez Olazábal",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-salvador-torrecilla-montal",
+          "name": "Salvador Torrecilla Montal",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Socialista",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-iii",
+      "members": [
+        {
+          "person": "madrid-adolfo-pinedo-simal",
+          "name": "Adolfo Piñedo Simal",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-agapito-ramos-cuenca",
+          "name": "Agapito Ramos Cuenca",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alejandro-lucas-fernandez-martin",
+          "name": "Alejandro Lucas Fernández Martín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-alfonso-sacristan-alonso",
+          "name": "Alfonso Sacristán Alonso",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-angel-luis-del-castillo-gordo",
+          "name": "Ángel Luis del Castillo Gordo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-antonio-chazarra-montiel",
+          "name": "Antonio Chazarra Montiel",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-berta-labarga-bustos",
+          "name": "Berta Labarga Bustos",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-carmen-ferrero-torres",
+          "name": "Carmen Ferrero Torres",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-96-8",
+          "name": "Dolores García-Hierro Caraballo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-eduardo-garcia-fernandez",
+          "name": "Eduardo García Fernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-elvira-domingo-ortiz",
+          "name": "Elvira Domingo Ortiz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-ernolando-parra-gellida",
+          "name": "Ernolando Parra Gellida",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-eulalia-garcia-sanchez",
+          "name": "Eulalia García Sánchez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10039",
+          "name": "Fernando Abad Bécquer",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10038",
+          "name": "Francisca Sauquillo Pérez del Arco",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-cabaco-lopez",
+          "name": "Francisco Cabaco López",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-javier-ledesma-bartret",
+          "name": "Francisco Javier Ledesma Bartret",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-guillermo-jimenez-ramos",
+          "name": "Guillermo Jiménez Ramos",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-hilario-correa-rodriguez",
+          "name": "Hilario Correa Rodríguez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-111-9",
+          "name": "Jaime Lissavetzky Díez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jesus-perez-gonzalez",
+          "name": "Jesús Pérez González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jesus-santisteban-saez",
+          "name": "Jesús Santisteban Sáez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-232-8",
+          "name": "Joaquín Leguina Herrán",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-antonio-sainz-garcia",
+          "name": "José Antonio Sainz García",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-luis-fernandez-rioja",
+          "name": "José Luis Fernández Rioja",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-luis-garcia-alonso",
+          "name": "José Luis García Alonso",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-ramon-garcia-menendez",
+          "name": "José Ramón García Menéndez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-355-9",
+          "name": "Juan Antonio Barrio de Penagos",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-juan-antonio-ruiz-castillo",
+          "name": "Juan Antonio Ruiz Castillo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-juan-jose-layda-ferrer",
+          "name": "Juan José Layda Ferrer",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-juan-sanchez-fernandez",
+          "name": "Juan Sánchez Fernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-luis-miguel-maza-alcazar",
+          "name": "Luis Miguel Maza Alcázar",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-manuel-jesus-casero-nuno",
+          "name": "Manuel Jesús Casero Nuño",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-manuel-juan-corvo-gonzalez",
+          "name": "Manuel Juan Corvo González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10620",
+          "name": "Marcos Sanz Agüero",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-felisa-romero-verdugo",
+          "name": "María Felisa Romero Verdugo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-pilar-fernandez-rodriguez",
+          "name": "María Pilar Fernández Rodríguez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-serrano-fernandez",
+          "name": "María Serrano Fernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-teresa-nevado-bueno",
+          "name": "María Teresa Nevado Bueno",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-matias-castejon-nunez",
+          "name": "Matías Castejón Núñez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maximo-alonso-arranz",
+          "name": "Máximo Alonso Arranz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pablo-luis-corbalan-marlasca",
+          "name": "Pablo Luis Corbalán Marlasca",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pedro-ruiz-munoz",
+          "name": "Pedro Ruiz Muñoz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-rafael-de-lorenzo-garcia",
+          "name": "Rafael de Lorenzo García",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-ramon-espinar-gallego",
+          "name": "Ramón Espinar Gallego",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10251",
+          "name": "Teófilo Serrano Beltrán",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-timoteo-mayoral-marques",
+          "name": "Timoteo Mayoral Marqués",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-tomas-fernandez-bonilla",
+          "name": "Tomás Fernández Bonilla",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-valentin-gomez-garcia",
+          "name": "Valentín Gómez García",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Popular",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-iii",
+      "members": [
+        {
+          "person": "madrid-alberto-lopez-viejo",
+          "name": "Alberto López Viejo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "alberto-ruiz-gallardon-jimenez",
+          "name": "Alberto Ruiz-Gallardón Jiménez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "ana-mato-adrover",
+          "name": "Ana Mato Adrover",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-antonio-aviles-trigo",
+          "name": "Antonio Avilés Trigo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-12679",
+          "name": "Antonio Germán Beteta Barreda",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-blanca-nieves-de-la-cierva-y-de-hoces",
+          "name": "Blanca Nieves de la Cierva y de Hoces",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-bonifacio-de-santiago-prieto",
+          "name": "Bonifacio de Santiago Prieto",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-candida-o-shea-suarez-inclan",
+          "name": "Cándida O'Shea Suárez-Inclán",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-carmen-torralba-gonzalez",
+          "name": "Carmen Torralba González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-cristina-cifuentes-cuencas",
+          "name": "Cristina Cifuentes Cuencas",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-eduardo-duque-fernandez-de-pinedo",
+          "name": "Eduardo Duque Fernández de Pinedo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-fermin-lucas-jimenez",
+          "name": "Fermín Lucas Jiménez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-fernando-utande-martinez",
+          "name": "Fernando Utande Martínez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-francisco-javier-rodriguez-rodriguez",
+          "name": "Francisco Javier Rodríguez Rodríguez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-ignacio-del-rio-garcia-de-sola",
+          "name": "Ignacio del Río García de Sola",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-380-8",
+          "name": "Ismael Bardisa Jordá",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jesus-adriano-valverde-bocanegra",
+          "name": "Jesús Adriano Valverde Bocanegra",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10034",
+          "name": "Jesús Pedroche Nieto",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-118-15",
+          "name": "José Antonio Bermúdez de Castro Fernández",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-lopez-lopez",
+          "name": "José López López",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-luis-alvarez-de-francisco",
+          "name": "José Luis Álvarez de Francisco",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-luis-moreno-casas",
+          "name": "José Luis Moreno Casas",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-luis-navarro-coronado",
+          "name": "José Luis Navarro Coronado",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-maria-de-federico-corral",
+          "name": "José María de Federico Corral",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-maria-de-la-torre-y-montoro",
+          "name": "José María de la Torre y Montoro",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-martin-crespo-diaz",
+          "name": "José Martín-Crespo Díaz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-12690",
+          "name": "Juan Soler-Espiauba Gallo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10417",
+          "name": "Juan Van-Halen Acedo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-laura-de-esteban-martin",
+          "name": "Laura de Esteban Martín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-121-5",
+          "name": "Luis Eduardo Cortés Muñoz",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-luis-manuel-partida-brunete",
+          "name": "Luis Manuel Partida Brunete",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-324-15",
+          "name": "Manuel Cobo Vega",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-manuel-jose-rodriguez-gonzalez",
+          "name": "Manuel José Rodríguez González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-37-12",
+          "name": "María Carmen Álvarez-Arenas Cisneros",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-36-12",
+          "name": "María Teresa de Lara Carbó",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-teresa-garcia-siso-pardo",
+          "name": "María Teresa García-Siso Pardo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-miguel-montabes-calle",
+          "name": "Miguel Montabes Calle",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-paloma-fernandez-fontecha-torres",
+          "name": "Paloma Fernández-Fontecha Torres",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-paloma-garcia-romero",
+          "name": "Paloma García Romero",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pedro-arguelles-salaverria",
+          "name": "Pedro Argüelles Salaverría",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10171",
+          "name": "Pedro Luis Calvo Poch",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "congreso-236-15",
+          "name": "Pedro Muñoz Abrines",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pedro-nunez-morgades",
+          "name": "Pedro Núñez Morgades",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-pilar-buso-borus",
+          "name": "Pilar Busó Borús",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10216",
+          "name": "Pío García-escudero Márquez",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-roberto-sanz-pinacho",
+          "name": "Roberto Sanz Pinacho",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-salvador-cardenete-ros",
+          "name": "Salvador Cardenete Ros",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-tomas-casado-gonzalez",
+          "name": "Tomás Casado González",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "senado-10510",
+          "name": "Tomás Pedro Burgos Beteta",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario de Izquierda Unida-Los Verdes",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-iii",
+      "members": [
+        {
+          "person": "madrid-asuncion-lopez-blanco",
+          "name": "Asunción López Blanco",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-jose-antonio-moral-santin",
+          "name": "José Antonio Moral Santín",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        },
+        {
+          "person": "madrid-maria-teresa-martinez-pardo",
+          "name": "María Teresa Martínez Pardo",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputada",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario AP-PDP-UL",
+      "source": "https://www.asambleamadrid.es/la-asamblea/historia/legislatura-iii",
+      "members": [
+        {
+          "person": "madrid-julio-pacheco-benito",
+          "name": "Julio Pacheco Benito",
+          "source": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+          "constituency": "Madrid",
+          "role": "Diputado",
+          "start": "1991-06-20",
+          "end": "1995-06-26",
+          "body": "Asamblea de Madrid"
+        }
+      ]
+    }
+  ],
+  "nominalOnly": true
+}

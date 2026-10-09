@@ -1,6 +1,8 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.7.0 · 8 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.10.0 · 9 de octubre de 2026.
+
+Madrid incorpora Gobierno y Asamblea desde 1983, con trece legislaturas, catorce etapas del Ejecutivo y las fichas personales enlazadas. Comparte cronología, organigrama y visor parlamentario con Cataluña. Las fuentes históricas que no permiten reconstruir una composición diaria se presentan como archivo nominal, con sus limitaciones documentadas en `Gobiernos/Autonomías/Madrid/README.md`. El menú lateral permite recorrer las autonomías con rueda, tacto y teclado, sin barra visual y con indicación de contenido pendiente.
 
 Cuestionario de 48 preguntas piloto, 8 temas y 16 ejes. Ficha centrada de esquinas rectas, respuestas sin cajetines, importancia y omisión. Cada pregunta permite ampliar su contexto. «Mi perfil» se actualiza con las respuestas. Al responder, una microbarra de tres segundos permite ajustar la importancia antes del avance automático. Cambiar la respuesta o la importancia no reinicia ese plazo; navegar cancela el avance pendiente. La última respuesta abre el perfil.
 

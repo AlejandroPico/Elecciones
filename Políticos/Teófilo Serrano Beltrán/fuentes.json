@@ -3,5 +3,15 @@
     "label": "Senado de España · ficha individual",
     "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=5&id1=10251",
     "kind": "institutional"
+  },
+  {
+    "label": "Asamblea de Madrid · archivo oficial",
+    "url": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+    "kind": "institutional"
+  },
+  {
+    "label": "Cargo en Madrid · fuente del registro",
+    "url": "https://ctyp.asambleamadrid.es/static/doc/opendata/SGP_ADMIN.OPENDATA_OCUPACIONES_ASAMBLEA.csv",
+    "kind": "institutional"
   }
 ]

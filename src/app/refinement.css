@@ -508,10 +508,85 @@
 }
 
 /* Las listas territoriales desplazan solo la navegación, manteniendo apariencia accesible. */
-.sidebar .main-nav { flex-shrink: 1; min-height: 0; overflow-y: auto; scrollbar-width: thin; }
-.sidebar .brand, .sidebar .election-name, .sidebar-bottom { flex-shrink: 0; }
-.autonomy-menu .survey-tree .survey-tree > div { margin-left: 12px; }
-.main-nav .autonomy-menu > button { font-size: 11px; }
-.sidebar .main-nav { gap: 4px; }
-.main-nav > .navigation-item > button { padding: 10px 8px; }
-.main-nav .survey-tree button[aria-current="page"] { color: var(--accent); }
+.sidebar .navigation-scroll {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+}
+.sidebar {
+  overflow: hidden;
+}
+.sidebar .main-nav {
+  display: block;
+  height: 100%;
+  min-height: 0;
+  overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  touch-action: pan-y;
+  -webkit-overflow-scrolling: touch;
+}
+.sidebar .main-nav::-webkit-scrollbar {
+  display: none;
+}
+.navigation-scroll-content {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-block: 12px;
+}
+.navigation-scroll.has-above .main-nav {
+  mask-image: linear-gradient(to bottom, transparent, black 20px);
+}
+.navigation-scroll.has-below .main-nav {
+  mask-image: linear-gradient(to top, transparent, black 20px);
+}
+.navigation-scroll.has-above.has-below .main-nav {
+  mask-image: linear-gradient(
+    to bottom,
+    transparent,
+    black 20px,
+    black calc(100% - 20px),
+    transparent
+  );
+}
+.navigation-scroll-hint {
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 34px;
+  height: 20px;
+  padding: 0;
+  border: 0;
+  display: grid;
+  place-items: center;
+  color: var(--accent);
+  background: var(--sidebar);
+}
+.navigation-scroll-hint.above {
+  top: -3px;
+}
+.navigation-scroll-hint.below {
+  bottom: -3px;
+}
+.sidebar .brand,
+.sidebar .election-name,
+.sidebar-bottom {
+  flex-shrink: 0;
+}
+.autonomy-menu .survey-tree .survey-tree > div {
+  margin-left: 12px;
+}
+.main-nav .autonomy-menu > button {
+  font-size: 11px;
+}
+.sidebar .main-nav {
+  gap: 4px;
+}
+.navigation-scroll-content > .navigation-item > button {
+  padding: 10px 8px;
+}
+.main-nav .survey-tree button[aria-current="page"] {
+  color: var(--accent);
+}
