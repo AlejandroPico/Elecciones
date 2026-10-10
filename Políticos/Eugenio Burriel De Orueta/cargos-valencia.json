@@ -1,20 +1,66 @@
 [
   {
-    "title": "Conseller/a de Obras Públicas, Urbanismo y Transportes · Generalitat Valenciana",
-    "period": "Etapa Lerma II · fechas individuales pendientes de contraste",
+    "title": "Conseller de Obras Públicas, Urbanismo y Transportes · Generalitat Valenciana",
+    "period": "1989-12-30 — 1991-07-14",
+    "start": "1989-12-30",
+    "end": "1991-07-15",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_II_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/18851?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26453?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Conseller/a de Obras Públicas, Urbanismo y Transportes · Generalitat Valenciana",
-    "period": "Etapa Lerma III · fechas individuales pendientes de contraste",
+    "title": "Miembro del Consell; cartera asignada por el Decreto 11/1991 · Generalitat Valenciana",
+    "period": "1991-07-15 — 1991-07-15",
+    "start": "1991-07-15",
+    "end": "1991-07-16",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_III_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26453?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26478?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Obras Públicas, Urbanismo y Transportes · Generalitat Valenciana",
+    "period": "1991-07-16 — 1993-07-12",
+    "start": "1991-07-16",
+    "end": "1993-07-13",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26478?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35292?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Obras Públicas, Urbanismo y Transportes · Generalitat Valenciana",
+    "period": "1993-07-13 — 1995-07-04",
+    "start": "1993-07-13",
+    "end": "1995-07-05",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35292?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/44378?lang=es",
+      "kind": "institutional"
     }
   }
 ]

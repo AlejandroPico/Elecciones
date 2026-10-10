@@ -1,11 +1,34 @@
 [
   {
-    "title": "Conseller/a de Cultura, Educación y Ciencia · Generalitat Valenciana",
-    "period": "Etapa Lerma III · fechas individuales pendientes de contraste",
+    "title": "Miembro del Consell; cartera asignada por el Decreto 11/1991 · Generalitat Valenciana",
+    "period": "1991-07-15 — 1991-07-15",
+    "start": "1991-07-15",
+    "end": "1991-07-16",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_III_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26453?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26478?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Cultura, Educación y Ciencia · Generalitat Valenciana",
+    "period": "1991-07-16 — 1993-07-11",
+    "start": "1991-07-16",
+    "end": "1993-07-12",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26478?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35266?lang=es",
+      "kind": "institutional"
     }
   }
 ]

@@ -1,20 +1,36 @@
 [
   {
-    "title": "Secretario primero de Les Corts",
-    "period": "Legislatura V · cargo documentado en la publicación institucional de 2024",
+    "title": "Secretaría primera de Les Corts",
+    "period": "2000-04-05 — 2003-03-31",
+    "start": "2000-04-05",
+    "end": "2003-04-01",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/1960082.pdf",
       "kind": "institutional"
-    }
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   },
   {
-    "title": "Secretario primero de Les Corts",
-    "period": "Legislatura VI · cargo documentado en la publicación institucional de 2024",
+    "title": "Secretaría primera de Les Corts",
+    "period": "2003-06-12 — 2007-04-02",
+    "start": "2003-06-12",
+    "end": "2007-04-03",
     "source": {
-      "label": "Les Corts · Mesa histórica",
+      "label": "Les Corts · composición y relevos de la Mesa",
       "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "kind": "institutional"
-    }
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   }
 ]

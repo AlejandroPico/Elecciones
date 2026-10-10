@@ -1,37 +1,81 @@
 [
   {
-    "title": "Conseller/a de Cultura, Educación y Ciencia · Generalitat Valenciana",
-    "period": "Etapa Zaplana I · fechas individuales pendientes de contraste",
+    "title": "Miembro del Consell; cartera asignada por el Decreto 3/1997 · Generalitat Valenciana",
+    "period": "1997-02-21 — 1997-02-21",
+    "start": "1997-02-21",
+    "end": "1997-02-22",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_IV_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52227?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52252?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Cultura, Educación y Ciencia · Generalitat Valenciana",
+    "period": "1997-02-22 — 1999-01-22",
+    "start": "1997-02-22",
+    "end": "1999-01-23",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52252?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/77666?lang=es",
+      "kind": "institutional"
     }
   },
   {
     "title": "President de la Generalitat · Generalitat Valenciana",
-    "period": "2003-06-20 – 2007-06-26",
+    "period": "2003-06-20 — 2007-06-26",
+    "start": "2003-06-20",
+    "end": "2007-06-27",
     "source": {
-      "label": "Les Corts · ficha institucional",
+      "label": "Generalitat · etapa presidencial",
       "url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VI%20%20000030&idioma=es_ES",
       "kind": "institutional"
-    }
-  },
-  {
-    "title": "President de la Generalitat · Generalitat Valenciana",
-    "period": "2007-06-27 – 2011-06-20",
-    "source": {
-      "label": "Les Corts · ficha institucional",
-      "url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII%20000030&idioma=es_ES",
+    },
+    "endSource": {
+      "label": "Generalitat · límite de la etapa presidencial",
+      "url": "https://dogv.gva.es/dogv-portal-frontend/es/legislatiu",
       "kind": "institutional"
     }
   },
   {
     "title": "President de la Generalitat · Generalitat Valenciana",
-    "period": "2011-06-21 – 2011-07-27",
+    "period": "2007-06-27 — 2011-06-20",
+    "start": "2007-06-27",
+    "end": "2011-06-21",
     "source": {
-      "label": "Les Corts · ficha institucional",
+      "label": "Generalitat · etapa presidencial",
+      "url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VII%20000030&idioma=es_ES",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Generalitat · límite de la etapa presidencial",
+      "url": "https://dogv.gva.es/dogv-portal-frontend/es/legislatiu",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "President de la Generalitat · Generalitat Valenciana",
+    "period": "2011-06-21 — 2011-07-27",
+    "start": "2011-06-21",
+    "end": "2011-07-28",
+    "source": {
+      "label": "Generalitat · etapa presidencial",
       "url": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VIII000030&idioma=es_ES",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Generalitat · límite de la etapa presidencial",
+      "url": "https://dogv.gva.es/dogv-portal-frontend/es/legislatiu",
       "kind": "institutional"
     }
   }

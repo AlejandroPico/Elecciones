@@ -1,11 +1,18 @@
 [
   {
-    "title": "Conseller/a de Administración Pública · Generalitat Valenciana",
-    "period": "Etapa Lerma II · fechas individuales pendientes de contraste",
+    "title": "Conseller de Administración Pública y secretario del Consell · Generalitat Valenciana",
+    "period": "1987-07-27 — 1989-09-17",
+    "start": "1987-07-27",
+    "end": "1989-09-18",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_II_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/17697?lang=es",
+      "kind": "institutional"
     }
   }
 ]

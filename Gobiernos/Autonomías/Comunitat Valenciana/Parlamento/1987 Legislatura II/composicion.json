@@ -946,59 +946,69 @@
       "end": "1991-06-19"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "congreso-164-2",
       "name": "Antonio García Miralles",
+      "role": "Presidencia de Les Corts",
+      "start": "1987-07-02",
+      "end": "1991-04-02",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura II · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-7965",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-vicent-enric-soler-marco",
       "name": "Vicent Enric Soler Marco",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "1987-07-02",
+      "end": "1991-04-02",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura II · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-7965",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-rafael-maluenda-verdu",
       "name": "Rafael Maluenda Verdú",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "1987-07-02",
+      "end": "1991-04-02",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura II · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-7965",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-juli-millet-espana",
       "name": "Juli Millet España",
+      "role": "Secretaría primera de Les Corts",
+      "start": "1987-07-02",
+      "end": "1991-04-02",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura II · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-7965",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-daniel-ansuategui-ramo",
       "name": "Daniel Ansuátegui Ramo",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "1987-07-02",
+      "end": "1991-04-02",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura II · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-7965",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Alianza Popular",
@@ -1980,5 +1990,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1991-7965",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

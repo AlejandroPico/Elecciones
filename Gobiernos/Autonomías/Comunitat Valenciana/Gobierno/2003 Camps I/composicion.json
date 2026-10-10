@@ -4,7 +4,7 @@
   "name": "Consell de la Generalitat Valenciana",
   "start": "2003-06-20",
   "end": "2007-06-27",
-  "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
+  "source": "https://dogv.gva.es/dogv-portal-frontend/es/legislatiu",
   "terms": [
     {
       "name": "Francisco Enrique Camps Ortiz",
@@ -15,244 +15,825 @@
       "source": "https://www.cortsvalencianes.es/publicaciones-CV/obtenerHtmlDS?f_clave_dscv=VI%20%20000030&idioma=es_ES",
       "person": "congreso-254-7",
       "constituency": "Comunitat Valenciana"
-    }
-  ],
-  "archiveTerms": [
-    {
-      "name": "Alejandro Font de Mora Turón",
-      "role": "Conseller de Presidencia",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "valencia-alejandro-font-de-mora-turon",
-      "constituency": "Comunitat Valenciana"
     },
     {
-      "name": "Gerardo Camps Devesa",
-      "role": "Conseller de Economía, de Hacienda y de Empleo",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "congreso-156-12",
-      "constituency": "Comunitat Valenciana"
+      "name": "José Joaquín Ripoll Serrano",
+      "person": "senado-10411",
+      "role": "Vicepresidente y secretario del Consell",
+      "level": "vice",
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
-      "name": "José Víctor Campos Guinot",
-      "role": "Conseller de Justicia y de Administraciones Públicas",
+      "name": "Vicente Rambla Momplet",
+      "person": "valencia-vicente-rambla-momplet",
+      "role": "Conseller de Economía, Hacienda y Empleo",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "valencia-jose-victor-campos-guinot",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
       "name": "José Ramón García Antón",
-      "role": "Conseller de Infraestructuras y de Transportes",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
       "person": "valencia-jose-ramon-garcia-anton",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Esteban González Pons",
-      "role": "Conseller de Cultura, de Educación y de Deportes",
+      "role": "Conseller de Obras Públicas, Urbanismo y Transportes",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "congreso-66-15",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
-      "name": "Vicente Rambla Momplet",
+      "name": "Manuel Tarancón Fandos",
+      "person": "valencia-manuel-tarancon-fandos",
+      "role": "Conseller de Cultura y Educación",
+      "level": "minister",
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Serafín Castellano Gómez",
+      "person": "valencia-serafin-castellano-gomez",
       "role": "Conseller de Sanidad",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "valencia-vicente-rambla-momplet",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
-      "name": "Miguel Ignacio Peralta Viñes",
-      "role": "Conseller de Industria, de Comercio y de Turismo",
+      "name": "Fernando Vicente Castelló Boronat",
+      "person": "congreso-261-8",
+      "role": "Conseller de Industria, Comercio y Energía",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "congreso-288-9",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
-      "name": "Gema Amor Pérez",
-      "role": "Conseller de Agricultura, de Pesca y de Alimentación",
+      "name": "María Angels Ramón-Llin Martínez",
+      "person": "valencia-maria-angels-ramon-llin-martinez",
+      "role": "Consellera de Agricultura, Pesca y Alimentación",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
-      "person": "valencia-gema-amor-perez",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Fernando Modrego Caballero",
+      "person": "valencia-fernando-modrego-caballero",
+      "role": "Conseller de Medio Ambiente",
+      "level": "minister",
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Carlos Javier González Cepeda",
+      "person": "valencia-carlos-javier-gonzalez-cepeda",
+      "role": "Conseller de Justicia y Administraciones Públicas",
+      "level": "minister",
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
       "name": "Rafael Blasco Castany",
-      "role": "Conseller de Territorio y de Vivienda",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
       "person": "valencia-rafael-blasco-castany",
-      "constituency": "Comunitat Valenciana"
+      "role": "Conseller de Bienestar Social",
+      "level": "minister",
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
       "name": "Alicia de Miguel García",
-      "role": "Conseller de Bienestar Social",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Composición inicial (21 de junio de 2003) · composición histórica documentada",
       "person": "valencia-alicia-de-miguel-garcia",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "José Víctor Campos Guinot",
-      "role": "Vicepresidente",
-      "level": "vice",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "valencia-jose-victor-campos-guinot",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Miguel Ignacio Peralta Viñes",
-      "role": "Conseller de Justicia y de Administraciones Públicas",
+      "role": "Consellera portavoz del Consell",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "congreso-288-9",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-20",
+      "end": "2003-06-21",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/118375?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final.",
+      "appointmentStart": "2002-07-25",
+      "appointmentEnd": "2003-06-21",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     },
     {
       "name": "Alejandro Font de Mora Turón",
-      "role": "Conseller de Cultura, de Educación y de Deportes",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
       "person": "valencia-alejandro-font-de-mora-turon",
-      "constituency": "Comunitat Valenciana"
+      "role": "Conseller de Presidencia, secretario y portavoz del Consell",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
     },
     {
-      "name": "Justo Nieto Nieto",
-      "role": "Conseller de Empresa, de Universidades y de Ciencia",
+      "name": "Gerardo Camps Devesa",
+      "person": "congreso-156-12",
+      "role": "Conseller de Economía, Hacienda y Empleo",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "valencia-justo-nieto-nieto",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
     },
     {
-      "name": "María Milagrosa Martínez Navarro",
-      "role": "Conseller de Turismo",
+      "name": "José Víctor Campos Guinot",
+      "person": "valencia-jose-victor-campos-guinot",
+      "role": "Conseller de Justicia y Administraciones Públicas",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "valencia-maria-milagrosa-martinez-navarro",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
     },
     {
-      "name": "Juan Gabriel Cotino Ferrer",
-      "role": "Conseller de Agricultura, de Pesca y de Alimentación",
+      "name": "José Ramón García Antón",
+      "person": "valencia-jose-ramon-garcia-anton",
+      "role": "Conseller de Infraestructuras y Transporte",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "valencia-juan-gabriel-cotino-ferrer",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Esteban González Pons",
-      "role": "Conseller de Relaciones Institucionales y de Comunicación",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "congreso-66-15",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Gema Amor Pérez",
-      "role": "Conseller de Cooperación y de Participación",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
-      "person": "valencia-gema-amor-perez",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Rafael Blasco Castany",
-      "role": "Conseller de Sanidad",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 30 de mayo de 2006 · composición histórica documentada",
-      "person": "valencia-rafael-blasco-castany",
-      "constituency": "Comunitat Valenciana"
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
     },
     {
       "name": "Esteban González Pons",
-      "role": "Conseller de Territorio y de Vivienda",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 30 de mayo de 2006 · composición histórica documentada",
       "person": "congreso-66-15",
-      "constituency": "Comunitat Valenciana"
+      "role": "Conseller de Cultura, Educación y Deporte",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
     },
     {
       "name": "Vicente Rambla Momplet",
-      "role": "Conseller de Relaciones Institucionales y de Comunicación",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "period": "Reorganización del 30 de mayo de 2006 · composición histórica documentada",
       "person": "valencia-vicente-rambla-momplet",
-      "constituency": "Comunitat Valenciana"
+      "role": "Conseller de Sanidad",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "Miguel Ignacio Peralta Viñes",
+      "person": "congreso-288-9",
+      "role": "Conseller de Industria, Comercio y Turismo",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "Gema Amor Pérez",
+      "person": "valencia-gema-amor-perez",
+      "role": "Consellera de Agricultura, Pesca y Alimentación",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "Rafael Blasco Castany",
+      "person": "valencia-rafael-blasco-castany",
+      "role": "Conseller de Territorio y Vivienda",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "Alicia de Miguel García",
+      "person": "valencia-alicia-de-miguel-garcia",
+      "role": "Consellera de Bienestar Social",
+      "level": "minister",
+      "start": "2003-06-21",
+      "end": "2004-08-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/132118?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/132020?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "Miguel Ignacio Peralta Viñes",
+      "person": "congreso-288-9",
+      "role": "Conseller de Justicia y Administraciones Públicas",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2005-10-28",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/163485?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "José Víctor Campos Guinot",
+      "person": "valencia-jose-victor-campos-guinot",
+      "role": "Vicepresidente y secretario del Consell",
+      "level": "vice",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Gerardo Camps Devesa",
+      "person": "congreso-156-12",
+      "role": "Conseller de Economía, Hacienda y Empleo",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "José Ramón García Antón",
+      "person": "valencia-jose-ramon-garcia-anton",
+      "role": "Conseller de Infraestructuras y Transporte",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Alejandro Font de Mora Turón",
+      "person": "valencia-alejandro-font-de-mora-turon",
+      "role": "Conseller de Cultura, Educación y Deporte",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Vicente Rambla Momplet",
+      "person": "valencia-vicente-rambla-momplet",
+      "role": "Conseller de Sanidad",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Justo Nieto Nieto",
+      "person": "valencia-justo-nieto-nieto",
+      "role": "Conseller de Empresa, Universidad y Ciencia",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Juan Gabriel Cotino Ferrer",
+      "person": "valencia-juan-gabriel-cotino-ferrer",
+      "role": "Conseller de Agricultura, Pesca y Alimentación",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Rafael Blasco Castany",
+      "person": "valencia-rafael-blasco-castany",
+      "role": "Conseller de Territorio y Vivienda",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Alicia de Miguel García",
+      "person": "valencia-alicia-de-miguel-garcia",
+      "role": "Consellera de Bienestar Social",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "María Milagrosa Martínez Navarro",
+      "person": "valencia-maria-milagrosa-martinez-navarro",
+      "role": "Consellera de Turismo",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Esteban González Pons",
+      "person": "congreso-66-15",
+      "role": "Conseller sin cartera de Relaciones Institucionales y Comunicación y portavoz",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Gema Amor Pérez",
+      "person": "valencia-gema-amor-perez",
+      "role": "Consellera sin cartera de Cooperación y Participación",
+      "level": "minister",
+      "start": "2004-08-27",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "Miguel Ignacio Peralta Viñes",
+      "person": "congreso-288-9",
+      "role": "Conseller de Justicia, Interior y Administraciones Públicas",
+      "level": "minister",
+      "start": "2005-10-28",
+      "end": "2006-05-30",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/163485?lang=es",
+      "startNote": "Fecha de aprobación, según la disposición final.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final."
+    },
+    {
+      "name": "María Milagrosa Martínez Navarro",
+      "person": "valencia-maria-milagrosa-martinez-navarro",
+      "role": "Consellera de Turismo",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-14",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189018?lang=es",
+      "endNote": "Fecha de aprobación, según la disposición final."
+    },
+    {
+      "name": "José Víctor Campos Guinot",
+      "person": "valencia-jose-victor-campos-guinot",
+      "role": "Vicepresidente y secretario del Consell",
+      "level": "vice",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Gerardo Camps Devesa",
+      "person": "congreso-156-12",
+      "role": "Conseller de Economía, Hacienda y Empleo",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Miguel Ignacio Peralta Viñes",
+      "person": "congreso-288-9",
+      "role": "Conseller de Justicia, Interior y Administraciones Públicas",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "José Ramón García Antón",
+      "person": "valencia-jose-ramon-garcia-anton",
+      "role": "Conseller de Infraestructuras y Transporte",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Alejandro Font de Mora Turón",
+      "person": "valencia-alejandro-font-de-mora-turon",
+      "role": "Conseller de Cultura, Educación y Deporte",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Rafael Blasco Castany",
+      "person": "valencia-rafael-blasco-castany",
+      "role": "Conseller de Sanidad",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Justo Nieto Nieto",
+      "person": "valencia-justo-nieto-nieto",
+      "role": "Conseller de Empresa, Universidad y Ciencia",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Juan Gabriel Cotino Ferrer",
+      "person": "valencia-juan-gabriel-cotino-ferrer",
+      "role": "Conseller de Agricultura, Pesca y Alimentación",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Esteban González Pons",
+      "person": "congreso-66-15",
+      "role": "Conseller de Territorio y Vivienda",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Alicia de Miguel García",
+      "person": "valencia-alicia-de-miguel-garcia",
+      "role": "Consellera de Bienestar Social",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Vicente Rambla Momplet",
+      "person": "valencia-vicente-rambla-momplet",
+      "role": "Conseller sin cartera de Relaciones Institucionales y Comunicación y portavoz",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
+    },
+    {
+      "name": "Gema Amor Pérez",
+      "person": "valencia-gema-amor-perez",
+      "role": "Consellera sin cartera de Cooperación y Participación",
+      "level": "minister",
+      "start": "2006-05-30",
+      "end": "2007-06-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "startNote": "Fecha de publicación, según la disposición final.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/147039?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "endNote": "Fecha de publicación, según la disposición final.",
+      "appointmentStart": "2006-05-30",
+      "appointmentEnd": "2007-06-29",
+      "periodNote": "Intervalo mostrado dentro de esta etapa presidencial; el nombramiento individual puede comenzar antes o terminar después."
     }
   ],
+  "archiveTerms": [],
   "incidents": [
-    "Las consejerías y sus reorganizaciones se conservan en el archivo de la etapa. La fuente secundaria documenta composiciones y cambios; el intervalo diario de cada nombramiento sigue pendiente de contraste con el DOGV.",
-    "El inicio de la etapa corresponde a la toma de posesión del president, documentada en la fuente de su cargo; no a la formación del gabinete."
+    "Nombramientos, ceses, cambios de cartera y asignaciones temporales contrastados con el articulado del DOGV. Se distingue la fecha del decreto de la entrada en vigor indicada en su disposición final.",
+    "Los titulares salientes pueden continuar en funciones tras la toma de posesión del nuevo president. El cambio de etapa presidencial no se interpreta como cese individual."
   ],
-  "checkedAt": "2026-10-09"
+  "checkedAt": "2026-10-10"
 }

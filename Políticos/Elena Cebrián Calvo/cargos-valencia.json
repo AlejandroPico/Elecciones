@@ -1,11 +1,18 @@
 [
   {
-    "title": "Consellera de Agricultura, de Medio Ambiente, de Cambio Climático y de Desarrollo Rural · Generalitat Valenciana",
-    "period": "Composición · composición histórica documentada",
+    "title": "Consellera de Agricultura, Medio Ambiente, Cambio Climático y Desarrollo Rural · Generalitat Valenciana",
+    "period": "2015-06-29 — 2019-06-16",
+    "start": "2015-06-29",
+    "end": "2019-06-17",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_I",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/294632?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/337871?lang=es",
+      "kind": "institutional"
     }
   }
 ]

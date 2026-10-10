@@ -1,20 +1,51 @@
 [
   {
-    "title": "Vicepresidente segundo de Les Corts",
-    "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024",
+    "title": "Miembro del Consell; cartera asignada por el Decreto 20/1993 · Generalitat Valenciana",
+    "period": "1993-07-12 — 1993-07-12",
+    "start": "1993-07-12",
+    "end": "1993-07-13",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35274?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35292?lang=es",
       "kind": "institutional"
     }
   },
   {
-    "title": "Conseller/a de Trabajo y Asuntos Sociales · Generalitat Valenciana",
-    "period": "Etapa Lerma III · fechas individuales pendientes de contraste",
+    "title": "Conseller de Trabajo y Asuntos Sociales · Generalitat Valenciana",
+    "period": "1993-07-13 — 1995-07-04",
+    "start": "1993-07-13",
+    "end": "1995-07-05",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_III_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35292?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/44378?lang=es",
+      "kind": "institutional"
     }
+  },
+  {
+    "title": "Vicepresidencia segunda de Les Corts",
+    "period": "1995-12-30 — 1999-04-19",
+    "start": "1995-12-30",
+    "end": "1999-04-20",
+    "source": {
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   }
 ]

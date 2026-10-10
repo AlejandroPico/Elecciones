@@ -1166,111 +1166,66 @@
     {
       "person": "valencia-maria-de-los-llanos-masso-linares",
       "name": "María de los Llanos Massó Linares",
-      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
-      "constituency": "Castellón",
-      "role": "Presidenta de Les Corts",
-      "start": "2026-10-09",
+      "role": "Presidencia de Les Corts",
+      "start": "2023-06-26",
       "end": null,
-      "observedAt": "2026-10-09",
-      "period": "Composición publicada · 2026-10-09"
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "constituency": "Comunitat Valenciana",
+      "slot": 0
     },
     {
       "person": "valencia-alfredo-cesareo-castello-saez",
       "name": "Alfredo Cesáreo Castelló Sáez",
-      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
-      "constituency": "Valencia",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": "2026-10-09",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2023-06-26",
       "end": null,
-      "observedAt": "2026-10-09",
-      "period": "Composición publicada · 2026-10-09"
-    },
-    {
-      "person": "valencia-magdalena-maria-gonzalez-la-red",
-      "name": "Magdalena María González La Red",
-      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
-      "constituency": "Valencia",
-      "role": "Vicepresidenta segunda de Les Corts",
-      "start": "2026-10-09",
-      "end": null,
-      "observedAt": "2026-10-09",
-      "period": "Composición publicada · 2026-10-09"
-    },
-    {
-      "person": "valencia-victor-soler-beneyto",
-      "name": "Víctor Soler Beneyto",
-      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
-      "constituency": "Valencia",
-      "role": "Secretario  primero de Les Corts",
-      "start": "2026-10-09",
-      "end": null,
-      "observedAt": "2026-10-09",
-      "period": "Composición publicada · 2026-10-09"
-    },
-    {
-      "person": "valencia-maria-jose-amigo-laguarda",
-      "name": "María José Amigó Laguarda",
-      "source": "https://www.cortsvalencianes.es/es/composicion/organos/mesa",
-      "constituency": "Valencia",
-      "role": "Secretaria segunda de Les Corts",
-      "start": "2026-10-09",
-      "end": null,
-      "observedAt": "2026-10-09",
-      "period": "Composición publicada · 2026-10-09"
-    }
-  ],
-  "archiveBoard": [
-    {
-      "person": "valencia-maria-de-los-llanos-masso-linares",
-      "name": "María de los Llanos Massó Linares",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidenta de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
-    },
-    {
-      "person": "valencia-alfredo-cesareo-castello-saez",
-      "name": "Alfredo Cesáreo Castelló Sáez",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
-      "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+      "slot": 1
     },
     {
       "person": "valencia-gabriela-bravo-san-estanislao",
       "name": "Gabriela Bravo San Estanislao",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2023-06-26",
+      "end": "2025-01-21",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta segunda de Les Corts",
-      "start": null,
+      "slot": 2,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/12_Cronica_Parlamentaria.pdf"
+    },
+    {
+      "person": "valencia-magdalena-maria-gonzalez-la-red",
+      "name": "Magdalena María González La Red",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2025-03-26",
       "end": null,
-      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/12_Cronica_Parlamentaria.pdf",
+      "constituency": "Valencia",
+      "slot": 2
     },
     {
       "person": "valencia-victor-soler-beneyto",
       "name": "Víctor Soler Beneyto",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2023-06-26",
+      "end": null,
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+      "slot": 3
     },
     {
       "person": "valencia-maria-jose-amigo-laguarda",
       "name": "María José Amigó Laguarda",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2023-06-26",
+      "end": null,
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024"
+      "slot": 4
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Socialista",
@@ -2449,5 +2404,6 @@
       ]
     }
   ],
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

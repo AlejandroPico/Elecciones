@@ -159,3 +159,9 @@ for r in photo_results:
 audit={'checkedAt':CHECKED,'baselinePeople':len(baseline),'newPeople':sorted(set(new)),'cortsProfiles':len(profiles),'profileErrors':read(CACHE/'errors.json',[]),'identityMapping':mapping,'birthConflicts':conflicts,'governments':len(governments),'legislatures':[{'id':p['id'],'mandates':len(p['records']),'nominalOnly':p['nominalOnly'],'capacity':p['capacity']} for p in parliaments],'dateIssues':date_issues,'portraitsAdded':sum((p['folder']/'retrato-valencia.jpg').exists() for p in people.values()),'portraitErrors':errors,'missingPortraits':[{'id':id,'name':people[id]['meta']['name']} for id in sorted(involved) if not read(people[id]['folder']/'retrato.json')],'allMissingPortraits':sorted(id for id,p in people.items() if not read(p['folder']/'retrato.json'))}
 write(BASE/'Gobiernos/revisiones/2026-10-09-valencia/informe.json',audit)
 print('Valencia',len(governments),'etapas',len(profiles),'fichas oficiales',len(set(new)),'personas nuevas',audit['portraitsAdded'],'retratos añadidos',len(errors),'incidencias de retrato',flush=True)
+
+# Las transcripciones diarias contrastadas tienen prioridad sobre los cuadros
+# nominales iniciales. Aplicarlas también al regenerar la incorporación.
+if (DEST/'fuentes/consell-historico.json').exists():
+    import runpy
+    runpy.run_path(str(BASE/'Gobiernos/herramientas/integrar-cronologia-valencia.py'), run_name='__main__')

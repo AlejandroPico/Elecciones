@@ -1,20 +1,35 @@
 [
   {
-    "title": "Vicepresidenta primera de Les Corts",
-    "period": "Legislatura X · cargo documentado en la publicación institucional de 2024",
+    "title": "Consellera de Vivienda, Obras Públicas y Vertebración del Territorio · Generalitat Valenciana",
+    "period": "2015-06-29 — 2019-05-15",
+    "start": "2015-06-29",
+    "end": "2019-05-16",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/294632?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/336826?lang=es",
       "kind": "institutional"
     }
   },
   {
-    "title": "Consellera de Vivienda, de Obras Públicas y de Vertebración del Territorio · Generalitat Valenciana",
-    "period": "Composición · composición histórica documentada",
+    "title": "Vicepresidencia primera de Les Corts",
+    "period": "2019-05-16 — 2023-04-03",
+    "start": "2019-05-16",
+    "end": "2023-04-04",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_I",
-      "kind": "encyclopedic"
-    }
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   }
 ]

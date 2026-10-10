@@ -1,11 +1,18 @@
 [
   {
-    "title": "Conseller/a de Agricultura, Pesca y Alimentación · Generalitat Valenciana",
-    "period": "Etapa Zaplana I · fechas individuales pendientes de contraste",
+    "title": "Conseller de Agricultura, Pesca y Alimentación · Generalitat Valenciana",
+    "period": "1999-01-15 — 1999-07-21",
+    "start": "1999-01-15",
+    "end": "1999-07-22",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_IV_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/77423?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/83940?lang=es",
+      "kind": "institutional"
     }
   }
 ]

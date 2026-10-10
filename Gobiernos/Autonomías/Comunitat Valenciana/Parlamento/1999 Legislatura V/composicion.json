@@ -982,69 +982,80 @@
       "end": "2002-07-10"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "valencia-marcela-miro-perez",
       "name": "Marcela Miró Pérez",
+      "role": "Presidencia de Les Corts",
+      "start": "1999-07-09",
+      "end": "2003-04-01",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidenta de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura V · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-rosa-maria-barrieras-mombru",
       "name": "Rosa María Barrieras Mombrú",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "1999-07-09",
+      "end": "2003-04-01",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura V · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-antonio-moreno-carrasco",
       "name": "Antonio Moreno Carrasco",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "1999-07-09",
+      "end": "2003-04-01",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura V · cargo documentado en la publicación institucional de 2024"
-    },
-    {
-      "person": "valencia-juan-manuel-cabot-saval",
-      "name": "Juan Manuel Cabot Saval",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
-      "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura V · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-287-10",
       "name": "Susana Camarero Benítez",
+      "role": "Secretaría primera de Les Corts",
+      "start": "1999-07-09",
+      "end": "2000-04-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura V · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://dialnet.unirioja.es/descarga/articulo/1960082.pdf"
+    },
+    {
+      "person": "valencia-juan-manuel-cabot-saval",
+      "name": "Juan Manuel Cabot Saval",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2000-04-05",
+      "end": "2003-04-01",
+      "source": "https://dialnet.unirioja.es/descarga/articulo/1960082.pdf",
+      "constituency": "Comunitat Valenciana",
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-carmen-ninet-pena",
       "name": "Carmen Ninet Peña",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "1999-07-09",
+      "end": "2003-04-01",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura V · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Socialista-Progressistes",
@@ -2044,5 +2055,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

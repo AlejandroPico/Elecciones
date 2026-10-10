@@ -1126,79 +1126,91 @@
       "end": "2011-06-10"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "valencia-maria-milagrosa-martinez-navarro",
       "name": "María Milagrosa Martínez Navarro",
+      "role": "Presidencia de Les Corts",
+      "start": "2007-06-14",
+      "end": "2011-03-29",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidenta de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5618",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-55-5",
       "name": "José Cholbi Diego",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2007-06-14",
+      "end": "2009-03-02",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/215-264_corts_21.pdf"
     },
     {
       "person": "senado-17445",
       "name": "Antonio Ángel Clemente Olivert",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2009-03-04",
+      "end": "2009-11-10",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/215-264_corts_21.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://dialnet.unirioja.es/descarga/articulo/3409526.pdf"
     },
     {
       "person": "valencia-rafael-maluenda-verdu",
       "name": "Rafael Maluenda Verdú",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2009-11-11",
+      "end": "2011-03-29",
+      "source": "https://dialnet.unirioja.es/descarga/articulo/3409526.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5618",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-isabel-escudero-pitarch",
       "name": "Isabel Escudero Pitarch",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2007-06-14",
+      "end": "2011-03-29",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5618",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-maria-fernanda-vidal-causanilles",
       "name": "María Fernanda Vidal Causanilles",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2007-06-14",
+      "end": "2011-03-29",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5618",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-394-10",
       "name": "Antoni Such Botella",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2007-06-14",
+      "end": "2011-03-29",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VII · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5618",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Agrupació de Diputats i Diputades no adscrits",
@@ -2354,5 +2366,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-5618",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

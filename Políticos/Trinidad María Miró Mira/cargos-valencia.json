@@ -1,11 +1,18 @@
 [
   {
-    "title": "Conseller de Cultura y de Deportes · Generalitat Valenciana",
-    "period": "Composición inicial (29 de junio de 2007) · composición histórica documentada",
+    "title": "Consellera de Cultura y Deporte · Generalitat Valenciana",
+    "period": "2007-06-29 — 2011-06-21",
+    "start": "2007-06-29",
+    "end": "2011-06-22",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_II",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/247834?lang=es",
+      "kind": "institutional"
     }
   }
 ]

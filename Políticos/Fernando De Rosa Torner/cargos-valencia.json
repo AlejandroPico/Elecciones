@@ -1,11 +1,18 @@
 [
   {
-    "title": "Conseller de Justicia y de Administraciones Públicas · Generalitat Valenciana",
-    "period": "Composición inicial (29 de junio de 2007) · composición histórica documentada",
+    "title": "Conseller de Justicia y Administraciones Públicas · Generalitat Valenciana",
+    "period": "2007-06-29 — 2008-09-17",
+    "start": "2007-06-29",
+    "end": "2008-09-18",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_II",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/207798?lang=es",
+      "kind": "institutional"
     }
   }
 ]

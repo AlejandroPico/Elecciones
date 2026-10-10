@@ -1,11 +1,19 @@
 [
   {
-    "title": "Presidente de Les Corts",
-    "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024",
+    "title": "Presidencia de Les Corts",
+    "period": "2015-06-11 — 2015-07-02",
+    "start": "2015-06-11",
+    "end": "2015-07-03",
     "source": {
-      "label": "Les Corts · Mesa histórica",
+      "label": "Les Corts · composición y relevos de la Mesa",
       "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "kind": "institutional"
-    }
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf",
+      "kind": "institutional"
+    },
+    "note": "Fecha del relevo documentado. La crónica no precisa el día de renuncia a la Presidencia; no equivale a la baja posterior como diputado."
   }
 ]

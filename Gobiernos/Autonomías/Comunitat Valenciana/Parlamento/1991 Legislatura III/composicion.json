@@ -874,59 +874,69 @@
       "end": "1995-06-21"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "congreso-164-2",
       "name": "Antonio García Miralles",
+      "role": "Presidencia de Les Corts",
+      "start": "1991-06-18",
+      "end": "1995-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura III · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-8137",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-vicent-enric-soler-marco",
       "name": "Vicent Enric Soler Marco",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "1991-06-18",
+      "end": "1995-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura III · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-8137",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-194-4",
       "name": "Juan Antonio Montesinos García",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "1991-06-18",
+      "end": "1995-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura III · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-8137",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-juli-millet-espana",
       "name": "Juli Millet España",
+      "role": "Secretaría primera de Les Corts",
+      "start": "1991-06-18",
+      "end": "1995-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura III · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-8137",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-enrique-gomez-guarner",
       "name": "Enrique Gómez Guarner",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "1991-06-18",
+      "end": "1995-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura III · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-8137",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Popular",
@@ -1824,5 +1834,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-8137",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

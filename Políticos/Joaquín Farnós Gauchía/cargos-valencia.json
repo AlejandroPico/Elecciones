@@ -1,11 +1,50 @@
 [
   {
-    "title": "Conseller/a de Sanidad y Consumo · Generalitat Valenciana",
-    "period": "Etapa Zaplana I · fechas individuales pendientes de contraste",
+    "title": "Miembro del Consell; cartera asignada por el Decreto 14/1995 · Generalitat Valenciana",
+    "period": "1995-07-05 — 1995-07-05",
+    "start": "1995-07-05",
+    "end": "1995-07-06",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_IV_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/44378?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/44395?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Sanidad y Consumo · Generalitat Valenciana",
+    "period": "1995-07-06 — 1997-02-21",
+    "start": "1995-07-06",
+    "end": "1997-02-22",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/44395?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52252?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Sanidad · Generalitat Valenciana",
+    "period": "1997-02-22 — 1999-07-21",
+    "start": "1997-02-22",
+    "end": "1999-07-22",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52252?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/83940?lang=es",
+      "kind": "institutional"
     }
   }
 ]

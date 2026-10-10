@@ -4,7 +4,7 @@
   "name": "Consell de la Generalitat Valenciana",
   "start": "1983-06-28",
   "end": "1987-07-27",
-  "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
+  "source": "https://dogv.gva.es/dogv-portal-frontend/es/legislatiu",
   "terms": [
     {
       "name": "Joan Lerma Blasco",
@@ -15,156 +15,346 @@
       "source": "https://roderic.uv.es/bitstream/10550/73197/1/1983%20Joan%20Lerma%20primer%20presidente%20GV.pdf",
       "person": "senado-10560",
       "constituency": "Comunitat Valenciana"
-    }
-  ],
-  "archiveTerms": [
+    },
     {
       "name": "Felipe Guardiola Sellés",
-      "role": "Vicepresidente Conseller de Interior",
-      "level": "vice",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
       "person": "senado-10270",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Rafael Blasco Castany",
-      "role": "Conseller de Presidencia",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
-      "person": "valencia-rafael-blasco-castany",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Antonio Birlanga Casanova",
-      "role": "Conseller de Economía y de Hacienda",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
-      "person": "valencia-antonio-birlanga-casanova",
-      "constituency": "Comunitat Valenciana"
+      "role": "Vicepresidente y conseller de Gobernación",
+      "level": "vice",
+      "start": "1983-06-28",
+      "end": "1985-07-23",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4942?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
     },
     {
       "name": "Vicente Llombart Rosa",
-      "role": "Conseller de Obras Públicas, de Urbanismo y de Transportes",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
       "person": "valencia-vicente-llombart-rosa",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Ciprià Císcar Casabán",
-      "role": "Conseller de Cultura, de Educación y de Ciencia",
+      "role": "Conseller de Obras Públicas, Urbanismo y Transportes",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
-      "person": "congreso-351-12",
-      "constituency": "Comunitat Valenciana"
+      "start": "1983-06-28",
+      "end": "1985-07-23",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4943?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
     },
     {
       "name": "Miguel Antonio Millana Sansaturio",
-      "role": "Conseller de Sanidad, de Trabajo y de Seguridad Social",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
       "person": "valencia-miguel-antonio-millana-sansaturio",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Segundo Bru Parra",
-      "role": "Conseller de Industria, de Comercio y de Turismo",
+      "role": "Conseller de Sanidad, Seguridad Social y Trabajo",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
-      "person": "senado-12762",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Luis Font de Mora Montesinos",
-      "role": "Conseller de Agricultura, de Pesca y de Alimentación",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
-      "person": "valencia-luis-font-de-mora-montesinos",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Felipe Guardiola Sellés",
-      "role": "Vicepresidente",
-      "level": "vice",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Reorganización del 24 de julio de 1985 · composición histórica documentada",
-      "person": "senado-10270",
-      "constituency": "Comunitat Valenciana"
-    },
-    {
-      "name": "Vicent Enric Soler Marco",
-      "role": "Conseller de Administración Pública",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Reorganización del 24 de julio de 1985 · composición histórica documentada",
-      "person": "valencia-vicent-enric-soler-marco",
-      "constituency": "Comunitat Valenciana"
+      "start": "1983-06-28",
+      "end": "1985-07-23",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4944?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
     },
     {
       "name": "Rafael Blasco Castany",
-      "role": "Conseller de Obras Públicas, de Urbanismo y de Transportes",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Reorganización del 24 de julio de 1985 · composición histórica documentada",
       "person": "valencia-rafael-blasco-castany",
-      "constituency": "Comunitat Valenciana"
+      "role": "Conseller de Presidencia y secretario del Consell",
+      "level": "minister",
+      "start": "1983-06-28",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
     },
     {
-      "name": "Joaquín Colomer Sala",
-      "role": "Conseller de Sanidad y de Consumo",
+      "name": "Antonio Birlanga Casanova",
+      "person": "valencia-antonio-birlanga-casanova",
+      "role": "Conseller de Economía y Hacienda",
       "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Reorganización del 24 de julio de 1985 · composición histórica documentada",
-      "person": "valencia-joaquin-colomer-sala",
-      "constituency": "Comunitat Valenciana"
+      "start": "1983-06-28",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Ciprià Císcar Casabán",
+      "person": "congreso-351-12",
+      "role": "Conseller de Cultura, Educación y Ciencia",
+      "level": "minister",
+      "start": "1983-06-28",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Segundo Bru Parra",
+      "person": "senado-12762",
+      "role": "Conseller de Industria, Comercio y Turismo",
+      "level": "minister",
+      "start": "1983-06-28",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Luis Font de Mora Montesinos",
+      "person": "valencia-luis-font-de-mora-montesinos",
+      "role": "Conseller de Agricultura, Pesca y Alimentación",
+      "level": "minister",
+      "start": "1983-06-28",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "startNote": "Fecha del acto de asignación de funciones.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/1891?lang=es",
+        "https://dogv.gva.es/dogv-portal/disposicion/1885?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Vicent Enric Soler Marco",
+      "person": "valencia-vicent-enric-soler-marco",
+      "role": "Miembro del Consell; cartera asignada por el Decreto 22/1985",
+      "level": "minister",
+      "start": "1985-07-23",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4945?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
     },
     {
       "name": "Miguel Doménech Pastor",
-      "role": "Conseller de Trabajo y de Seguridad Social",
-      "level": "minister",
-      "start": null,
-      "end": null,
-      "source": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "period": "Reorganización del 24 de julio de 1985 · composición histórica documentada",
       "person": "valencia-miguel-domenech-pastor",
-      "constituency": "Comunitat Valenciana"
+      "role": "Miembro del Consell; cartera asignada por el Decreto 22/1985",
+      "level": "minister",
+      "start": "1985-07-23",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4946?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Joaquín Colomer Sala",
+      "person": "valencia-joaquin-colomer-sala",
+      "role": "Miembro del Consell; cartera asignada por el Decreto 22/1985",
+      "level": "minister",
+      "start": "1985-07-23",
+      "end": "1985-07-25",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4947?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Segundo Bru Parra",
+      "person": "senado-12762",
+      "role": "Conseller de Industria, Comercio y Turismo",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-02-19",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/9208?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Vicent Enric Soler Marco",
+      "person": "valencia-vicent-enric-soler-marco",
+      "role": "Conseller de Administración Pública y secretario del Consell",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-01",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10413?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Miguel Doménech Pastor",
+      "person": "valencia-miguel-domenech-pastor",
+      "role": "Conseller de Trabajo y Seguridad Social",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-01",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10415?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Antonio Birlanga Casanova",
+      "person": "valencia-antonio-birlanga-casanova",
+      "role": "Conseller de Economía y Hacienda",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Rafael Blasco Castany",
+      "person": "valencia-rafael-blasco-castany",
+      "role": "Conseller de Obras Públicas y Urbanismo",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Ciprià Císcar Casabán",
+      "person": "congreso-351-12",
+      "role": "Conseller de Cultura, Educación y Ciencia",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Joaquín Colomer Sala",
+      "person": "valencia-joaquin-colomer-sala",
+      "role": "Conseller de Sanidad y Consumo",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Luis Font de Mora Montesinos",
+      "person": "valencia-luis-font-de-mora-montesinos",
+      "role": "Conseller de Agricultura y Pesca",
+      "level": "minister",
+      "start": "1985-07-25",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/4956?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [
+        "https://dogv.gva.es/dogv-portal/disposicion/4958?lang=es"
+      ],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Andrés García Reche",
+      "person": "valencia-andres-garcia-reche",
+      "role": "Conseller de Industria, Comercio y Turismo",
+      "level": "minister",
+      "start": "1987-02-19",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/9208?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
+    },
+    {
+      "name": "Miguel Doménech Pastor",
+      "person": "valencia-miguel-domenech-pastor",
+      "role": "Conseller de Trabajo y Seguridad Social; asume temporalmente Administración Pública",
+      "level": "minister",
+      "start": "1987-07-01",
+      "end": "1987-07-27",
+      "source": "https://dogv.gva.es/dogv-portal/disposicion/10415?lang=es",
+      "startNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia.",
+      "additionalSources": [],
+      "constituency": "Comunitat Valenciana",
+      "endBasis": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "endNote": "Fecha del acto de nombramiento o cese; no se atribuye una fecha de ceremonia."
     }
   ],
+  "archiveTerms": [],
   "incidents": [
-    "Las consejerías y sus reorganizaciones se conservan en el archivo de la etapa. La fuente secundaria documenta composiciones y cambios; el intervalo diario de cada nombramiento sigue pendiente de contraste con el DOGV.",
-    "El inicio de la etapa corresponde a la toma de posesión del president, documentada en la fuente de su cargo; no a la formación del gabinete."
+    "Nombramientos, ceses, cambios de cartera y asignaciones temporales contrastados con el articulado del DOGV. Se distingue la fecha del decreto de la entrada en vigor indicada en su disposición final.",
+    "Los titulares salientes pueden continuar en funciones tras la toma de posesión del nuevo president. El cambio de etapa presidencial no se interpreta como cese individual."
   ],
-  "checkedAt": "2026-10-09"
+  "checkedAt": "2026-10-10"
 }

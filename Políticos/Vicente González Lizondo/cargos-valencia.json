@@ -1,10 +1,17 @@
 [
   {
-    "title": "Presidente de Les Corts",
-    "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024",
+    "title": "Presidencia de Les Corts",
+    "period": "1995-06-20 — 1996-12-22",
+    "start": "1995-06-20",
+    "end": "1996-12-23",
     "source": {
-      "label": "Les Corts · Mesa histórica",
+      "label": "Les Corts · composición y relevos de la Mesa",
       "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf",
       "kind": "institutional"
     }
   }

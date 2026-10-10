@@ -48,7 +48,7 @@ it("enlaza las once legislaturas y las catorce etapas valencianas con identidade
     }
 });
 
-it("muestra 99 diputados con retrato, cuatro grupos y la Mesa observada sin retrotraerla", () => {
+it("muestra 99 diputados con retrato y reconstruye los relevos y vacantes de la Mesa", () => {
   const p = valenciaParliaments[0],
     date = p.checkedAt;
   const members = valenciaMembersAt(p, date);
@@ -60,14 +60,79 @@ it("muestra 99 diputados con retrato, cuatro grupos y la Mesa observada sin retr
       .sort((a, b) => b - a),
   ).toEqual([40, 31, 15, 13]);
   for (const m of members) expect(portraits[m.person], m.name).toBeTruthy();
-  expect(p.board).toHaveLength(5);
-  expect(p.board.every((t) => t.observedAt === date && t.start === date)).toBe(
-    true,
+  const at = (d: string) => p.board.filter((t) => catalanTermAt(t, d));
+  expect(at("2024-01-01")).toHaveLength(5);
+  expect(at("2025-01-20").some((t) => t.name.includes("Gabriela"))).toBe(true);
+  expect(at("2025-01-21")).toHaveLength(4);
+  expect(at("2025-03-25")).toHaveLength(4);
+  expect(at("2025-03-26")).toHaveLength(5);
+  expect(at(date).some((t) => t.name.includes("Magdalena"))).toBe(true);
+  for (const parliament of valenciaParliaments) {
+    expect(parliament.archiveBoard).toHaveLength(0);
+    for (const d of regionalDates(parliament, parliament.board)) {
+      const board = parliament.board.filter((t) => catalanTermAt(t, d));
+      expect(board.length, `${parliament.label} ${d}`).toBeLessThanOrEqual(5);
+      expect(new Set(board.map((t) => t.role)).size).toBe(board.length);
+    }
+  }
+});
+
+it("mantiene las vacantes históricas de la Mesa sin confundir cargo y escaño", () => {
+  const fifth = valenciaParliaments.find((p) => p.label === "Legislatura V")!;
+  const at = (d: string) => fifth.board.filter((t) => catalanTermAt(t, d));
+  expect(at("2000-04-02").some((t) => t.name.includes("Camarero"))).toBe(true);
+  expect(at("2000-04-03")).toHaveLength(4);
+  expect(at("2000-04-05")).toHaveLength(5);
+  const ninth = valenciaParliaments.find((p) => p.label === "Legislatura IX")!;
+  expect(
+    ninth.board.filter((t) => catalanTermAt(t, "2018-03-08")),
+  ).toHaveLength(4);
+  expect(
+    ninth.board.filter((t) => catalanTermAt(t, "2018-04-04")),
+  ).toHaveLength(5);
+});
+
+it("reconstruye las carteras históricas y sus suplencias con intervalos diarios", () => {
+  const second = valenciaGovernments.find((g) => g.label === "Lerma I")!;
+  expect(second.archiveTerms).toHaveLength(0);
+  expect(
+    second.terms.find(
+      (t) => t.name.includes("Doménech") && catalanTermAt(t, "1987-07-01"),
+    )?.role,
+  ).toContain("temporalmente Administración Pública");
+  const fabra = valenciaGovernments.find((g) => g.label === "Fabra")!;
+  const at = (d: string) => fabra.terms.filter((t) => catalanTermAt(t, d));
+  expect(at("2011-12-30").find((t) => t.name.includes("Johnson"))?.role).toBe(
+    "Consellera de Turismo, Cultura y Deporte",
   );
-  expect(p.board.some((t) => catalanTermAt(t, "2024-01-01"))).toBe(false);
-  expect(p.archiveBoard!.every((t) => t.start === null && t.end === null)).toBe(
-    true,
-  );
+  expect(at("2012-11-29").some((t) => t.name.includes("Vela"))).toBe(true);
+  expect(at("2012-11-30").some((t) => t.name.includes("Vela"))).toBe(false);
+  expect(
+    at("2012-11-30").find((t) => t.name.includes("Císcar"))?.role,
+  ).toContain("temporalmente Hacienda");
+  const puig = valenciaGovernments.find((g) => g.label === "Puig II")!;
+  expect(
+    puig.terms.some(
+      (t) => t.name.includes("Oltra") && catalanTermAt(t, "2022-06-29"),
+    ),
+  ).toBe(false);
+  expect(
+    puig.terms.some(
+      (t) => t.name.includes("Aitana") && catalanTermAt(t, "2022-06-29"),
+    ),
+  ).toBe(false);
+  expect(
+    puig.terms.some(
+      (t) => t.name.includes("Aitana") && catalanTermAt(t, "2022-06-30"),
+    ),
+  ).toBe(true);
+  for (const g of valenciaGovernments.filter((g) => g.start < "2023-07-17")) {
+    expect(g.archiveTerms, g.label).toHaveLength(0);
+    for (const t of g.terms) {
+      expect(t.start, t.name).toBeTruthy();
+      expect(t.end && t.start! < t.end, t.name).toBe(true);
+    }
+  }
 });
 
 it("corta el Pleno en las disoluciones y diferencia las credenciales de la constitución", () => {
@@ -96,7 +161,7 @@ it("distingue la toma de posesión presidencial de los efectos de los decretos d
   expect(mazon.start).toBe("2023-07-17");
   expect(
     mazon.terms.filter((t) => catalanTermAt(t, "2023-07-19")),
-  ).toHaveLength(1);
+  ).toHaveLength(11);
   expect(
     mazon.terms.filter((t) => catalanTermAt(t, "2023-07-20")),
   ).toHaveLength(10);
@@ -133,6 +198,13 @@ it("distingue la toma de posesión presidencial de los efectos de los decretos d
     );
   }
   expect(findPerson("valencia-ximo-puig-ferrer")?.id).toBe("congreso-17-10");
+  expect(
+    findPerson("valencia-jose-luis-olivas-martinez")?.valencianOffices?.some(
+      (t) =>
+        t.title.startsWith("President de la Generalitat") &&
+        t.period.startsWith("2002-07-24"),
+    ),
+  ).toBe(true);
   // Una identidad compartida con el Congreso conserva sus mandatos nacionales,
   // pero el encabezado debe reflejar el cargo valenciano vigente.
   expect(findPerson("congreso-247-14")?.role).toBe(

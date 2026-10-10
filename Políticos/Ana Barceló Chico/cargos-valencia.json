@@ -1,29 +1,51 @@
 [
   {
-    "title": "Vicepresidenta segunda de Les Corts",
-    "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024",
+    "title": "Consellera de Sanidad Universal y Salud Pública · Generalitat Valenciana",
+    "period": "2018-06-07 — 2019-06-16",
+    "start": "2018-06-07",
+    "end": "2019-06-17",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/325987?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/337871?lang=es",
       "kind": "institutional"
     }
   },
   {
-    "title": "Consellera de Sanidad Universal y de Salud Pública · Generalitat Valenciana",
-    "period": "Composición · composición histórica documentada",
+    "title": "Consellera de Sanidad Universal y Salud Pública · Generalitat Valenciana",
+    "period": "2019-06-17 — 2022-05-13",
+    "start": "2019-06-17",
+    "end": "2022-05-14",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_I",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/337871?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/372558?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Consellera de Sanidad Universal y de Salud Pública · Generalitat Valenciana",
-    "period": "Composición inicial (17 de junio de 2019) · composición histórica documentada",
+    "title": "Vicepresidencia segunda de Les Corts",
+    "period": "2014-09-23 — 2015-03-30",
+    "start": "2014-09-23",
+    "end": "2015-03-31",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_II",
-      "kind": "encyclopedic"
-    }
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   }
 ]

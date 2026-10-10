@@ -1,11 +1,18 @@
 [
   {
-    "title": "Conseller de Obras Públicas, de Urbanismo y de Transportes · Generalitat Valenciana",
-    "period": "Composición inicial (28 de junio de 1983) · composición histórica documentada",
+    "title": "Conseller de Obras Públicas, Urbanismo y Transportes · Generalitat Valenciana",
+    "period": "1983-06-28 — 1985-07-22",
+    "start": "1983-06-28",
+    "end": "1985-07-23",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Lerma_I",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/1892?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/4943?lang=es",
+      "kind": "institutional"
     }
   }
 ]

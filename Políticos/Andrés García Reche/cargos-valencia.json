@@ -1,20 +1,66 @@
 [
   {
-    "title": "Conseller/a de Industria, Comercio y Turismo · Generalitat Valenciana",
-    "period": "Etapa Lerma II · fechas individuales pendientes de contraste",
+    "title": "Conseller de Industria, Comercio y Turismo · Generalitat Valenciana",
+    "period": "1987-02-19 — 1987-07-26",
+    "start": "1987-02-19",
+    "end": "1987-07-27",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_II_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/9208?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Conseller/a de Industria, Comercio y Turismo · Generalitat Valenciana",
-    "period": "Etapa Lerma III · fechas individuales pendientes de contraste",
+    "title": "Conseller de Industria, Comercio y Turismo · Generalitat Valenciana",
+    "period": "1987-07-27 — 1991-07-14",
+    "start": "1987-07-27",
+    "end": "1991-07-15",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_III_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/10595?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26453?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Miembro del Consell; cartera asignada por el Decreto 11/1991 · Generalitat Valenciana",
+    "period": "1991-07-15 — 1991-07-15",
+    "start": "1991-07-15",
+    "end": "1991-07-16",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26453?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26478?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Industria, Comercio y Turismo · Generalitat Valenciana",
+    "period": "1991-07-16 — 1993-07-11",
+    "start": "1991-07-16",
+    "end": "1993-07-12",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/26478?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/35267?lang=es",
+      "kind": "institutional"
     }
   }
 ]

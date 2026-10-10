@@ -1,29 +1,50 @@
 [
   {
-    "title": "Vicepresidenta segunda de Les Corts",
-    "period": "Legislatura XI · cargo documentado en la publicación institucional de 2024",
+    "title": "Consellera de Justicia, Administración Pública, Reformas Democráticas y Libertades Públicas · Generalitat Valenciana",
+    "period": "2015-06-29 — 2019-06-16",
+    "start": "2015-06-29",
+    "end": "2019-06-17",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/294632?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/337871?lang=es",
       "kind": "institutional"
     }
   },
   {
-    "title": "Consellera de Justicia, de Administraciones Públicas, de Reformas Democráticas y de Libertades Públicas · Generalitat Valenciana",
-    "period": "Composición · composición histórica documentada",
+    "title": "Consellera de Justicia, Interior y Administración Pública · Generalitat Valenciana",
+    "period": "2019-06-17 — 2023-07-06",
+    "start": "2019-06-17",
+    "end": "2023-07-07",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_I",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/337871?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/388657?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Consellera de Justicia, de Interior y de Administración Pública · Generalitat Valenciana",
-    "period": "Composición inicial (17 de junio de 2019) · composición histórica documentada",
+    "title": "Vicepresidencia segunda de Les Corts",
+    "period": "2023-06-26 — 2025-01-20",
+    "start": "2023-06-26",
+    "end": "2025-01-21",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_II",
-      "kind": "encyclopedic"
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/12_Cronica_Parlamentaria.pdf",
+      "kind": "institutional"
     }
   }
 ]

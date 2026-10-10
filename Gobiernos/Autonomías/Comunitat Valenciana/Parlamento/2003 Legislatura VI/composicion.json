@@ -937,59 +937,69 @@
       "end": "2003-07-04"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "congreso-295-5",
       "name": "Julio Francisco de España Moya",
+      "role": "Presidencia de Les Corts",
+      "start": "2003-06-12",
+      "end": "2007-04-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VI · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-55-5",
       "name": "José Cholbi Diego",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2003-06-12",
+      "end": "2007-04-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VI · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-isabel-escudero-pitarch",
       "name": "Isabel Escudero Pitarch",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2003-06-12",
+      "end": "2007-04-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VI · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-juan-manuel-cabot-saval",
       "name": "Juan Manuel Cabot Saval",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2003-06-12",
+      "end": "2007-04-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VI · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-carmen-ninet-pena",
       "name": "Carmen Ninet Peña",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2003-06-12",
+      "end": "2007-04-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VI · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Popular",
@@ -1944,5 +1954,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-7024",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

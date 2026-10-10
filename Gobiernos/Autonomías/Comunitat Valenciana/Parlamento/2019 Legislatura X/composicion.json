@@ -1198,59 +1198,69 @@
       "end": "2023-06-27"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "senado-19963",
       "name": "Enric Xavier Morera Català",
+      "role": "Presidencia de Les Corts",
+      "start": "2019-05-16",
+      "end": "2023-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura X · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-maria-jose-salvador-rubert",
       "name": "María José Salvador Rubert",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2019-05-16",
+      "end": "2023-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura X · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-jorge-bellver-casana",
       "name": "Jorge Bellver Casaña",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2019-05-16",
+      "end": "2023-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura X · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-cristina-cabedo-laborda",
       "name": "Cristina Cabedo Laborda",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2019-05-16",
+      "end": "2023-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura X · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-luis-arquillos-cruz",
       "name": "Luis Arquillos Cruz",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2019-05-16",
+      "end": "2023-04-04",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura X · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Vox",
@@ -2490,5 +2500,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

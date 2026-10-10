@@ -1171,99 +1171,113 @@
       "end": "2015-04-01"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "valencia-juan-gabriel-cotino-ferrer",
       "name": "Juan Gabriel Cotino Ferrer",
+      "role": "Presidencia de Les Corts",
+      "start": "2011-06-09",
+      "end": "2014-10-13",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf"
     },
     {
       "person": "valencia-alejandro-font-de-mora-turon",
       "name": "Alejandro Font de Mora Turón",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Presidencia de Les Corts",
+      "start": "2014-10-15",
+      "end": "2015-03-31",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-alejandro-font-de-mora-turon",
       "name": "Alejandro Font de Mora Turón",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2011-06-09",
+      "end": "2014-10-15",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf"
     },
     {
       "person": "valencia-rafael-maluenda-verdu",
       "name": "Rafael Maluenda Verdú",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2014-10-15",
+      "end": "2015-03-31",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-257-4",
       "name": "Ángel Luna González",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2011-06-09",
+      "end": "2014-07-29",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf"
     },
     {
       "person": "valencia-ana-barcelo-chico",
       "name": "Ana Barceló Chico",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2014-09-23",
+      "end": "2015-03-31",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/corts_28-llibre_p233-270.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-angelica-gemma-such-ronda",
       "name": "Angelica Gemma Such Ronda",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2011-06-09",
+      "end": "2012-10-10",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://es.wikipedia.org/wiki/VIII_Legislatura_de_la_Comunidad_Valenciana"
     },
     {
       "person": "senado-17445",
       "name": "Antonio Ángel Clemente Olivert",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2012-10-17",
+      "end": "2015-03-31",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/yearbook/doc/Anuari%2027_comp.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-218-15",
       "name": "Carmen Martínez Ramírez",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2011-06-09",
+      "end": "2015-03-31",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Socialista",
@@ -2458,5 +2472,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3454",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

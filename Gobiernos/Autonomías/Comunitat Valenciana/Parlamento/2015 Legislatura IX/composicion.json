@@ -1117,89 +1117,103 @@
       "end": "2019-05-17"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "valencia-francesc-colomer-sanchez",
       "name": "Francesc Colomer Sánchez",
+      "role": "Presidencia de Les Corts",
+      "start": "2015-06-11",
+      "end": "2015-07-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf",
+      "endNote": "Fecha del relevo documentado. La crónica no precisa el día de renuncia a la Presidencia; no equivale a la baja posterior como diputado."
     },
     {
       "person": "senado-19963",
       "name": "Enric Xavier Morera Català",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Presidencia de Les Corts",
+      "start": "2015-07-03",
+      "end": "2019-03-05",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "senado-19963",
       "name": "Enric Xavier Morera Català",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2015-06-11",
+      "end": "2015-07-03",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf"
     },
     {
       "person": "congreso-218-15",
       "name": "Carmen Martínez Ramírez",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "2015-07-03",
+      "end": "2019-03-05",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-alejandro-font-de-mora-turon",
       "name": "Alejandro Font de Mora Turón",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "2015-06-11",
+      "end": "2019-03-05",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "senado-18545",
       "name": "Emilio Argüeso Torres",
+      "role": "Secretaría primera de Les Corts",
+      "start": "2015-06-11",
+      "end": "2019-03-05",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-marc-pallares-piquer",
       "name": "Marc Pallarès Piquer",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2015-06-11",
+      "end": "2018-03-08",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/Anuari32GarciaMengual.pdf"
     },
     {
       "person": "valencia-irene-rosario-gomez-santos",
       "name": "Irene Rosario Gómez Santos",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "2018-04-04",
+      "end": "2019-03-05",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/Anuari32GarciaMengual.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretaria segunda de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Podemos - Podem",
@@ -2346,5 +2360,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

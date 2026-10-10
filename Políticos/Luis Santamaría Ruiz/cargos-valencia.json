@@ -1,11 +1,18 @@
 [
   {
-    "title": "Conseller de Interior y de Justicia · Generalitat Valenciana",
-    "period": "Reorganización del 29 de mayo de 2014 · composición histórica documentada",
+    "title": "Conseller de Gobernación y Justicia · Generalitat Valenciana",
+    "period": "2014-06-12 — 2015-06-28",
+    "start": "2014-06-12",
+    "end": "2015-06-29",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Fabra",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/282303?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/294632?lang=es",
+      "kind": "institutional"
     }
   }
 ]

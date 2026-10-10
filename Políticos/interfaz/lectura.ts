@@ -99,11 +99,7 @@ export function personCatalogPlugin(): Plugin {
               for (const file of await readdir(
                 join(root, "Políticos", folder.name),
               ))
-                if (
-                  /^retrato(?:-madrid|-valencia)?\.(jpg|jpeg|png|webp|svg|gif)$/.test(
-                    file,
-                  )
-                )
+                if (/^retrato[^/\\]*\.(jpg|jpeg|png|webp|svg|gif)$/.test(file))
                   photos[`../../${folder.name}/${file}`] = join(
                     root,
                     "Políticos",

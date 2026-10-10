@@ -1,28 +1,49 @@
 [
   {
-    "title": "Secretaria primera de Les Corts",
-    "period": "Legislatura VIII · cargo documentado en la publicación institucional de 2024",
+    "title": "Consellera de Turismo · Generalitat Valenciana",
+    "period": "2007-06-29 — 2009-08-26",
+    "start": "2007-06-29",
+    "end": "2009-08-27",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/221689?lang=es",
       "kind": "institutional"
     }
   },
   {
-    "title": "Conseller de Turismo · Generalitat Valenciana",
-    "period": "Composición inicial (29 de junio de 2007) · composición histórica documentada",
+    "title": "Consellera de Bienestar Social · Generalitat Valenciana",
+    "period": "2009-08-27 — 2011-06-08",
+    "start": "2009-08-27",
+    "end": "2011-06-09",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_II",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/221689?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/247221?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Conseller de Bienestar Social · Generalitat Valenciana",
-    "period": "Reorganización del 31 de agosto de 2009 · composición histórica documentada",
+    "title": "Secretaría primera de Les Corts",
+    "period": "2011-06-09 — 2012-10-09",
+    "start": "2011-06-09",
+    "end": "2012-10-10",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_II",
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://es.wikipedia.org/wiki/VIII_Legislatura_de_la_Comunidad_Valenciana",
       "kind": "encyclopedic"
     }
   }

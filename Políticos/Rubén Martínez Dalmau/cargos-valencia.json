@@ -1,11 +1,18 @@
 [
   {
-    "title": "Vicepresidente segundo Conseller de Vivienda y de Arquitectura Bioclimática · Generalitat Valenciana",
-    "period": "Composición inicial (17 de junio de 2019) · composición histórica documentada",
+    "title": "Vicepresidente segundo y conseller de Vivienda y Arquitectura Bioclimática · Generalitat Valenciana",
+    "period": "2019-06-17 — 2021-09-09",
+    "start": "2019-06-17",
+    "end": "2021-09-10",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Puig_II",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/337871?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/362776?lang=es",
+      "kind": "institutional"
     }
   }
 ]

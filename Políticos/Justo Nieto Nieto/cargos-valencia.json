@@ -1,11 +1,34 @@
 [
   {
-    "title": "Conseller de Empresa, de Universidades y de Ciencia · Generalitat Valenciana",
-    "period": "Reorganización del 27 de agosto de 2004 · composición histórica documentada",
+    "title": "Conseller de Empresa, Universidad y Ciencia · Generalitat Valenciana",
+    "period": "2004-08-27 — 2006-05-29",
+    "start": "2004-08-27",
+    "end": "2006-05-30",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_I",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/147055?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Conseller de Empresa, Universidad y Ciencia · Generalitat Valenciana",
+    "period": "2006-05-30 — 2007-06-28",
+    "start": "2006-05-30",
+    "end": "2007-06-29",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/172299?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/189709?lang=es",
+      "kind": "institutional"
     }
   }
 ]

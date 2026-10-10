@@ -3,6 +3,7 @@ import audit from "../revisiones/2026-10-08-parlamento/informe.json";
 import catalanAudit from "../../Gobiernos/revisiones/2026-10-08-catalunya/informe.json";
 import madridAudit from "../../Gobiernos/revisiones/2026-10-09-madrid/informe.json";
 import valenciaAudit from "../../Gobiernos/revisiones/2026-10-09-valencia/informe.json";
+import valenciaSupplement from "../../Gobiernos/revisiones/2026-10-10-valencia/informe.json";
 import { people, portraits, findPerson } from "./datos/catalogo";
 import { matchesAffiliation } from "./vinculaciones";
 
@@ -56,7 +57,15 @@ it("los retratos corresponden a recursos documentados y las ausencias quedan ide
       .filter((p) => !portraits[p.id])
       .map((p) => p.id)
       .sort(),
-  ).toEqual(valenciaAudit.allMissingPortraits);
+  ).toEqual(valenciaSupplement.allMissingPortraits);
+  expect(valenciaSupplement.errors).toHaveLength(0);
+  for (const row of valenciaSupplement.portraitsCompleted) {
+    const person = people.find(
+      (p) => p.fullName === row.name || p.name === row.name,
+    );
+    expect(person, row.name).toBeTruthy();
+    expect(portraits[person!.id], row.name).toBeTruthy();
+  }
 });
 
 it("reúne identidades de ambas cámaras y explica las discrepancias sin inventar precisión", () => {

@@ -1,29 +1,51 @@
 [
   {
-    "title": "Presidenta de Les Corts",
-    "period": "Legislatura V · cargo documentado en la publicación institucional de 2024",
+    "title": "Consellera de Cultura, Educación y Ciencia · Generalitat Valenciana",
+    "period": "1996-05-07 — 1997-02-21",
+    "start": "1996-05-07",
+    "end": "1997-02-22",
     "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/48088?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52252?lang=es",
       "kind": "institutional"
     }
   },
   {
-    "title": "Conseller/a de Cultura, Educación y Ciencia · Generalitat Valenciana",
-    "period": "Etapa Zaplana I · fechas individuales pendientes de contraste",
+    "title": "Consellera de Bienestar Social · Generalitat Valenciana",
+    "period": "1997-02-22 — 1999-07-08",
+    "start": "1997-02-22",
+    "end": "1999-07-09",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_IV_Legislatura",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/52252?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/83399?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Conseller/a de Bienestar Social · Generalitat Valenciana",
-    "period": "Etapa Zaplana I · fechas individuales pendientes de contraste",
+    "title": "Presidencia de Les Corts",
+    "period": "1999-07-09 — 2003-03-31",
+    "start": "1999-07-09",
+    "end": "2003-04-01",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://ca.wikipedia.org/wiki/Consell_de_la_Generalitat_Valenciana_a_la_IV_Legislatura",
-      "kind": "encyclopedic"
-    }
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-6497",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   }
 ]

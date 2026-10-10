@@ -1,29 +1,52 @@
 [
   {
-    "title": "Presidente de Les Corts",
-    "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024",
+    "title": "Presidencia de Les Corts",
+    "period": "2015-07-03 — 2019-03-04",
+    "start": "2015-07-03",
+    "end": "2019-03-05",
     "source": {
-      "label": "Les Corts · Mesa histórica",
+      "label": "Les Corts · composición y relevos de la Mesa",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3114",
+      "kind": "institutional"
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
+  },
+  {
+    "title": "Vicepresidencia primera de Les Corts",
+    "period": "2015-06-11 — 2015-07-02",
+    "start": "2015-06-11",
+    "end": "2015-07-03",
+    "source": {
+      "label": "Les Corts · composición y relevos de la Mesa",
       "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/429_461_cronica_marco.pdf",
       "kind": "institutional"
     }
   },
   {
-    "title": "Vicepresidente primero de Les Corts",
-    "period": "Legislatura IX · cargo documentado en la publicación institucional de 2024",
+    "title": "Presidencia de Les Corts",
+    "period": "2019-05-16 — 2023-04-03",
+    "start": "2019-05-16",
+    "end": "2023-04-04",
     "source": {
-      "label": "Les Corts · Mesa histórica",
+      "label": "Les Corts · composición y relevos de la Mesa",
       "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "kind": "institutional"
-    }
-  },
-  {
-    "title": "Presidente de Les Corts",
-    "period": "Legislatura X · cargo documentado en la publicación institucional de 2024",
-    "source": {
-      "label": "Les Corts · Mesa histórica",
-      "url": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+    },
+    "endSource": {
+      "label": "Les Corts · relevo o límite del Pleno",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-8472",
       "kind": "institutional"
-    }
+    },
+    "note": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
   }
 ]

@@ -1153,89 +1153,102 @@
       "end": "1999-04-21"
     }
   ],
-  "board": [],
-  "archiveBoard": [
+  "board": [
     {
       "person": "congreso-232-5",
       "name": "Vicente González Lizondo",
+      "role": "Presidencia de Les Corts",
+      "start": "1995-06-20",
+      "end": "1996-12-23",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf"
     },
     {
       "person": "valencia-hector-villalba-chirivella",
       "name": "Héctor Villalba Chirivella",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Presidencia de Les Corts",
+      "start": "1997-02-12",
+      "end": "1999-04-20",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Temes11.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Presidente de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 0,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-rosa-maria-barrieras-mombru",
       "name": "Rosa María Barrieras Mombrú",
+      "role": "Vicepresidencia primera de Les Corts",
+      "start": "1995-06-20",
+      "end": "1999-04-20",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidenta primera de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 1,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "congreso-24-5",
       "name": "Luis Berenguer Fuster",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "1995-06-20",
+      "end": "1995-12-28",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf"
     },
     {
       "person": "valencia-francisco-javier-sanahuja-sanchis",
       "name": "Francisco Javier Sanahuja Sanchis",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Vicepresidencia segunda de Les Corts",
+      "start": "1995-12-30",
+      "end": "1999-04-20",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Vicepresidente segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 2,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-enrique-gomez-guarner",
       "name": "Enrique Gómez Guarner",
+      "role": "Secretaría primera de Les Corts",
+      "start": "1995-06-20",
+      "end": "1996-07-19",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf"
     },
     {
       "person": "valencia-martin-l-quiros-palau",
       "name": "Martín L. Quirós Palau",
-      "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
+      "role": "Secretaría primera de Les Corts",
+      "start": "1996-09-23",
+      "end": "1999-04-20",
+      "source": "https://www.cortsvalencianes.es/sites/default/files/media/file_author/213_actividad.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario primero de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 3,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     },
     {
       "person": "valencia-juli-millet-espana",
       "name": "Juli Millet España",
+      "role": "Secretaría segunda de Les Corts",
+      "start": "1995-06-20",
+      "end": "1999-04-20",
       "source": "https://www.cortsvalencianes.es/sites/default/files/publication_book/doc/Semblants_0.pdf.pdf",
       "constituency": "Comunitat Valenciana",
-      "role": "Secretario segundo de Les Corts",
-      "start": null,
-      "end": null,
-      "period": "Legislatura IV · cargo documentado en la publicación institucional de 2024"
+      "slot": 4,
+      "endBasis": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
+      "endNote": "Límite de la representación del Pleno de esta legislatura. No se atribuye un cese en la Diputación Permanente."
     }
   ],
+  "archiveBoard": [],
   "groups": [
     {
       "name": "Popular",
@@ -2418,5 +2431,6 @@
     }
   ],
   "endSource": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-8726",
-  "nominalOnly": false
+  "nominalOnly": false,
+  "boardNote": "Composición inicial contrastada con el libro institucional de miembros de las Mesas; fechas de constitución y relevos con las crónicas parlamentarias. Fin excluido. Los límites de legislatura delimitan la representación del Pleno, no la continuidad de la Diputación Permanente. No se confunde renuncia a un cargo de Mesa con renuncia al escaño."
 }

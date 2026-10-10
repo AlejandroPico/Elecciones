@@ -1,29 +1,66 @@
 [
   {
-    "title": "Conseller de Justicia y de Administraciones Públicas · Generalitat Valenciana",
-    "period": "Composición inicial (29 de junio de 2007) · composición histórica documentada",
+    "title": "Consellera de Justicia y Administraciones Públicas · Generalitat Valenciana",
+    "period": "2008-09-18 — 2009-08-26",
+    "start": "2008-09-18",
+    "end": "2009-08-27",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_II",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/207798?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/221689?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Vicepresidenta, secretario del Consell Consellera de Presidencia · Generalitat Valenciana",
-    "period": "Composición · composición histórica documentada",
+    "title": "Consellera de Justicia y Administraciones Públicas y portavoz del Consell · Generalitat Valenciana",
+    "period": "2009-08-27 — 2011-06-21",
+    "start": "2009-08-27",
+    "end": "2011-06-22",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Camps_III",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/221689?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/247834?lang=es",
+      "kind": "institutional"
     }
   },
   {
-    "title": "Vicepresidenta, secretario del Consell Consellera de Presidencia · Generalitat Valenciana",
-    "period": "Composición inicial (28 de julio de 2011) · composición histórica documentada",
+    "title": "Vicepresidenta, consellera de Presidencia y secretaria del Consell · Generalitat Valenciana",
+    "period": "2011-06-22 — 2011-07-27",
+    "start": "2011-06-22",
+    "end": "2011-07-28",
     "source": {
-      "label": "Consell · fuente del cargo",
-      "url": "https://fr.wikipedia.org/wiki/Gouvernement_Fabra",
-      "kind": "encyclopedic"
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/247834?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/248998?lang=es",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Vicepresidenta, consellera de Presidencia y secretaria del Consell · Generalitat Valenciana",
+    "period": "2011-07-28 — 2011-12-29",
+    "start": "2011-07-28",
+    "end": "2011-12-30",
+    "source": {
+      "label": "DOGV · nombramientos y ceses del Consell",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/248998?lang=es",
+      "kind": "institutional"
+    },
+    "endSource": {
+      "label": "DOGV · efectos del cese o reasignación",
+      "url": "https://dogv.gva.es/dogv-portal/disposicion/253508?lang=es",
+      "kind": "institutional"
     }
   }
 ]
