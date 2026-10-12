@@ -1,0 +1,26 @@
+{
+  "id": "melilla-gobierno-1999-07-05",
+  "label": "Gobierno 1999",
+  "name": "Melilla · Mustafa Hamed Moh Mohamed",
+  "start": "1999-07-05",
+  "end": "2000-07-19",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/boe/dias/1999/07/06/pdfs/A25656-25656.pdf",
+  "terms": [
+    {
+      "person": "melilla-mustafa-hamed-moh-mohamed",
+      "name": "Mustafa Hamed Moh Mohamed",
+      "role": "Presidencia de Melilla",
+      "source": "https://www.boe.es/boe/dias/1999/07/06/pdfs/A25656-25656.pdf",
+      "start": "1999-07-05",
+      "end": "2000-07-19",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías de esta etapa todavía requieren contraste de sus nombramientos y relevos; el organigrama identifica únicamente la presidencia documentada."
+  ],
+  "archiveTerms": []
+}

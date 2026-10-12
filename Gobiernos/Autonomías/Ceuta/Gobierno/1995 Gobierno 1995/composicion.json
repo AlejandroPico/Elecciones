@@ -1,0 +1,26 @@
+{
+  "id": "ceuta-gobierno-1995-06-19",
+  "label": "Gobierno 1995",
+  "name": "Ceuta · Basilio Fernández López",
+  "start": "1995-06-19",
+  "end": "1996-07-24",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-14894",
+  "terms": [
+    {
+      "person": "ceuta-basilio-fernandez-lopez",
+      "name": "Basilio Fernandez Lopez",
+      "role": "Presidencia de Ceuta",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1995-14894",
+      "start": "1995-06-19",
+      "end": "1996-07-24",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías de esta etapa todavía requieren contraste de sus nombramientos y relevos; el organigrama identifica únicamente la presidencia documentada."
+  ],
+  "archiveTerms": []
+}

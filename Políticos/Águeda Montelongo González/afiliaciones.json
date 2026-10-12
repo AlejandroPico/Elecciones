@@ -10,5 +10,41 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · G.P. Popular",
+    "period": "Legislatura VII · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/07022/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · GP Popular",
+    "period": "Legislatura VIII · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/08033/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · Diputados no adscritos",
+    "period": "Legislatura IX · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/09020/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
   }
 ]

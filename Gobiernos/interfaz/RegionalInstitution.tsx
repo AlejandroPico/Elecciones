@@ -136,7 +136,12 @@ export default function RegionalInstitution({
   const pp = !government
     ? catalanParliaments.find((p) => p.id === current.period.id)
     : undefined;
-  const cabinet = gp?.terms.filter((m) => catalanTermAt(m, current.date)) ?? [];
+  const cabinet =
+    gp?.terms.filter((m) =>
+      m.observedAt
+        ? m.observedAt === current.date
+        : catalanTermAt(m, current.date),
+    ) ?? [];
   // Cada persona aparece una vez en el organigrama; acumular competencias, no duplicar retratos.
   const members = [
     ...new Map(
@@ -263,7 +268,13 @@ export default function RegionalInstitution({
           <span>{dateLabel(steps[0].date)}</span>
           <span>{dateLabel(steps.at(-1)!.date)}</span>
         </div>
-        {gp && (
+        {gp?.currentOnly && (
+          <p className="small-note">
+            Composición consultada el {dateLabel(gp.checkedAt)}. No se proyecta
+            este organigrama hacia fechas anteriores.
+          </p>
+        )}
+        {gp && !gp.currentOnly && (
           <p className="small-note">
             Composición según las fuentes de cada cargo. El cierre sin cese
             individual corresponde a la siguiente composición documentada; no

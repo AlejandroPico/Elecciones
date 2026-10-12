@@ -46,5 +46,41 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · clasificación del informe ICI: Partido Popular",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura3_1991-1995.pdf",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · G.P. Popular",
+    "period": "Legislatura IV · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/04012/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · G.P. Popular",
+    "period": "Legislatura V · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/05012/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
   }
 ]

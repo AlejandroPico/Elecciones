@@ -1,0 +1,965 @@
+{
+  "id": "canarias-parlamento-8",
+  "label": "Legislatura VIII",
+  "start": "2011-05-22",
+  "end": "2015-05-24",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+  "capacity": 60,
+  "currentOnly": false,
+  "nominalOnly": true,
+  "note": "Marco por fechas electorales, no por altas individuales. El archivo nominal incluye los relevos publicados; no reconstruye una ocupación diaria ni el asiento físico.",
+  "records": [
+    {
+      "person": "canarias-felipe-afonso-el-jaber",
+      "name": "Felipe Afonso El Jaber",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08047/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-265-15",
+      "name": "Asier Antona Gómez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08026/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-alpidio-armas-gonzalez",
+      "name": "Alpidio Armas González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08001/",
+      "start": "2011-06-21",
+      "end": "2014-01-13",
+      "constituency": null
+    },
+    {
+      "person": "canarias-jose-ignacio-alvaro-lavandera",
+      "name": "José Ignacio Álvaro Lavandera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08061/",
+      "start": "2011-07-29",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-jose-miguel-barragan-cabrera",
+      "name": "José Miguel Barragán Cabrera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08036/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-milagros-bethencourt-aguilar",
+      "name": "Milagros Bethencourt Aguilar",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08007/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Gomera",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-279-6",
+      "name": "Miguel Cabrera Pérez-Camacho",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08013/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-isaac-castellano-san-gines",
+      "name": "Isaac Castellano San Ginés",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08060/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-11313",
+      "name": "Antonio Ángel Castro Córdobez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08027/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-victor-tomas-chinea-mendoza",
+      "name": "Víctor Tomás Chinea Mendoza",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08006/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Gomera",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-16645",
+      "name": "Julio Cruz Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08004/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Gomera",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-fernando-ensenat-bueno",
+      "name": "Fernando Enseñat Bueno",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08068/",
+      "start": "2012-07-17",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-18200",
+      "name": "Francisco Manuel Fajardo Palarea",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08053/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-manuel-fernandez-gonzalez",
+      "name": "Manuel Fernández González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08011/",
+      "start": "2011-06-21",
+      "end": "2015-01-21",
+      "constituency": null
+    },
+    {
+      "person": "canarias-fernando-figuereo-force",
+      "name": "Fernando Figuereo Force",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08055/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-domingo-fuentes-curbelo",
+      "name": "Domingo Fuentes Curbelo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08031/",
+      "start": "2011-06-21",
+      "end": "2011-07-18",
+      "constituency": null
+    },
+    {
+      "person": "canarias-encarna-galvan-gonzalez",
+      "name": "Encarna Galván González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08064/",
+      "start": "2011-09-09",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-ana-gonzalez-gonzalez",
+      "name": "Ana González González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08072/",
+      "start": "2014-01-27",
+      "end": null,
+      "constituency": "El Hierro",
+      "formation": "Coalición Canaria",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-jose-miguel-gonzalez-hernandez",
+      "name": "José Miguel González Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08021/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-ignacio-gonzalez-santiago",
+      "name": "Ignacio González Santiago",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08022/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-407-7",
+      "name": "Ana María Guerra Galván",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08066/",
+      "start": "2011-12-13",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-gloria-del-pilar-gutierrez-arteaga",
+      "name": "Gloria del Pilar Gutiérrez Arteaga",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08071/",
+      "start": "2013-11-11",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-nicolas-gutierrez-oramas",
+      "name": "Nicolás Gutiérrez Oramas",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08037/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-rita-isabel-gomez-castro",
+      "name": "Rita Isabel Gómez Castro",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08024/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-juan-ramon-hernandez-gomez",
+      "name": "Juan Ramón Hernández Gómez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08029/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-carmen-rosa-hernandez-jorge",
+      "name": "Carmen Rosa Hernández Jorge",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08052/",
+      "start": "2011-06-21",
+      "end": "2014-08-31",
+      "constituency": null
+    },
+    {
+      "person": "senado-12826",
+      "name": "Juan Pedro Hernández Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08059/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-327-11",
+      "name": "Francisco Hernández Spínola",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08008/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-esther-nuria-herrera-aguilar",
+      "name": "Esther Nuria Herrera Aguilar",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08062/",
+      "start": "2011-07-29",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Agrup. Herreña Independiente",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-luis-ibarra-betancort",
+      "name": "Luis Ibarra Betancort",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08042/",
+      "start": "2011-06-21",
+      "end": "2011-08-12",
+      "constituency": null
+    },
+    {
+      "person": "canarias-rosa-guadalupe-jerez-padilla",
+      "name": "Rosa Guadalupe Jerez Padilla",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08005/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Gomera",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-miguel-jesus-jorge-blanco",
+      "name": "Miguel Jesús Jorge Blanco",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08046/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-maria-del-mar-julios-reyes",
+      "name": "María del Mar Julios Reyes",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08038/",
+      "start": "2011-06-21",
+      "end": "2015-01-27",
+      "constituency": null
+    },
+    {
+      "person": "canarias-pedro-francisco-justo-brito",
+      "name": "Pedro Francisco Justo Brito",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08073/",
+      "start": "2014-09-04",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Nueva Canarias",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-antonio-luengo-barreto",
+      "name": "Antonio Luengo Barreto",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08074/",
+      "start": "2015-01-27",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-francisca-luengo-orol",
+      "name": "Francisca Luengo Orol",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08040/",
+      "start": "2011-06-21",
+      "end": "2011-08-22",
+      "constituency": null
+    },
+    {
+      "person": "senado-10199",
+      "name": "Josefa Luzardo Romano",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08045/",
+      "start": "2011-06-21",
+      "end": "2011-07-18",
+      "constituency": null
+    },
+    {
+      "person": "canarias-flora-marrero-ramos",
+      "name": "Flora Marrero Ramos",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08020/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-pedro-m-martin-dominguez",
+      "name": "Pedro M. Martín Domínguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08010/",
+      "start": "2011-06-21",
+      "end": "2013-10-21",
+      "constituency": null
+    },
+    {
+      "person": "canarias-fabian-ataman-martin-martin",
+      "name": "Fabián Atamán Martín Martín",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08056/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Nueva Canarias",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-emilio-mayoral-fernandez",
+      "name": "Emilio Mayoral Fernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08041/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-313-7",
+      "name": "Águeda Montelongo González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08033/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-jose-javier-morales-febles",
+      "name": "José Javier Morales Febles",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08003/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "El Hierro",
+      "formation": "Agrup. Herreña Independiente - Coalición Canaria",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-maria-del-carmen-morales-hernandez",
+      "name": "María del Carmen Morales Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08069/",
+      "start": "2013-02-05",
+      "end": null,
+      "constituency": "El Hierro",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-12825",
+      "name": "Claudina Morales Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08035/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-emilio-moreno-bravo",
+      "name": "Emilio Moreno Bravo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08014/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-jose-gilberto-moreno-garcia",
+      "name": "José Gilberto Moreno García",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08075/",
+      "start": "2015-02-24",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-victor-moreno-del-rosario",
+      "name": "Víctor Moreno del Rosario",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08048/",
+      "start": "2011-06-21",
+      "end": "2013-07-14",
+      "constituency": null
+    },
+    {
+      "person": "canarias-jesus-morera-molina",
+      "name": "Jesús Morera Molina",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08065/",
+      "start": "2011-09-09",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-12830",
+      "name": "María Australia Navarro de Paz",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08043/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-maria-isabel-onate-munoz",
+      "name": "María Isabel Oñate Muñoz",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08015/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-agustin-padron-benitez",
+      "name": "Agustín Padrón Benítez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08002/",
+      "start": "2011-06-21",
+      "end": "2013-01-18",
+      "constituency": null
+    },
+    {
+      "person": "canarias-maria-dolores-padron-rodriguez",
+      "name": "María Dolores Padrón Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08009/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-101-9",
+      "name": "José Luis Perestelo Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08028/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-maria-victoria-ponce-perez",
+      "name": "María Victoria Ponce Pérez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08070/",
+      "start": "2013-07-29",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-maria-teresa-pulido-garcia",
+      "name": "María Teresa Pulido García",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08067/",
+      "start": "2011-12-13",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-nieves-rosa-pulido-rodriguez",
+      "name": "Nieves Rosa Pulido Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08030/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-astrid-maria-perez-batista",
+      "name": "Astrid María Pérez Batista",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08054/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-jose-miguel-perez-garcia",
+      "name": "José Miguel Pérez García",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08039/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-10194",
+      "name": "Manuel Marcos Pérez Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08023/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "La Palma",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-belinda-ramirez-espinosa",
+      "name": "Belinda Ramírez Espinosa",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08032/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Fuerteventura",
+      "formation": "Partido Socialista Obrero Español",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-316-8",
+      "name": "Paulino Rivero Baute",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08016/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-17525",
+      "name": "Jorge Alberto Rodríguez Pérez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08049/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-240-8",
+      "name": "Román Rodríguez Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08051/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Nueva Canarias",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-ines-nieves-rojas-de-leon",
+      "name": "Inés Nieves Rojas de León",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08057/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "congreso-28-8",
+      "name": "María Mercedes Roldós Caballero",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08044/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-jose-miguel-ruano-leon",
+      "name": "José Miguel Ruano León",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08017/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-juan-de-san-genaro-santana-reyes",
+      "name": "Juan de San Genaro Santana Reyes",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08034/",
+      "start": "2011-06-21",
+      "end": "2012-07-01",
+      "constituency": null
+    },
+    {
+      "person": "jose-manuel-soria-lopez",
+      "name": "José Manuel Soria López",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08050/",
+      "start": "2011-06-21",
+      "end": "2011-11-29",
+      "constituency": null
+    },
+    {
+      "person": "canarias-cristina-tavio-ascanio",
+      "name": "Cristina Tavío Ascanio",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08012/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-maria-luisa-zamora-rodriguez",
+      "name": "María Luisa Zamora Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08018/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Tenerife",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "senado-15066",
+      "name": "Miguel Zerolo Aguilar",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08019/",
+      "start": "2011-06-21",
+      "end": "2011-07-18",
+      "constituency": null
+    },
+    {
+      "person": "senado-15337",
+      "name": "María Rosa de Haro Brito",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08025/",
+      "start": "2011-06-21",
+      "end": "2011-11-29",
+      "constituency": null
+    },
+    {
+      "person": "canarias-david-de-la-hoz-fernandez",
+      "name": "David de la Hoz Fernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08058/",
+      "start": "2011-06-21",
+      "end": null,
+      "constituency": "Lanzarote",
+      "formation": "Coalición Canaria - Partido Nacionalista Canario - Centro Canario Nacionalista",
+      "formationLabel": "Formación indicada por la Cámara"
+    },
+    {
+      "person": "canarias-aurora-jesus-del-rosario-vela",
+      "name": "Aurora Jesús del Rosario Vela",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08063/",
+      "start": "2011-07-29",
+      "end": null,
+      "constituency": "Gran Canaria",
+      "formation": "Partido Popular",
+      "formationLabel": "Formación indicada por la Cámara"
+    }
+  ],
+  "board": [],
+  "groups": [],
+  "archivedComposition": {
+    "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+    "checkedAt": "2026-10-12",
+    "note": "Última relación nominal conservada por la API del Parlamento, agrupada según las fichas publicadas. Incluye únicamente los nombres que el Pleno archivado identifica; las posiciones no identificadas quedan sin atribuir. No es una reconstrucción diaria de la legislatura.",
+    "groups": [
+      {
+        "name": "GP Popular",
+        "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+        "members": [
+          "canarias-felipe-afonso-el-jaber",
+          "congreso-265-15",
+          "canarias-milagros-bethencourt-aguilar",
+          "congreso-279-6",
+          "canarias-fernando-ensenat-bueno",
+          "canarias-fernando-figuereo-force",
+          "congreso-407-7",
+          "canarias-miguel-jesus-jorge-blanco",
+          "canarias-antonio-luengo-barreto",
+          "congreso-313-7",
+          "canarias-maria-del-carmen-morales-hernandez",
+          "canarias-emilio-moreno-bravo",
+          "senado-12830",
+          "canarias-maria-isabel-onate-munoz",
+          "canarias-maria-victoria-ponce-perez",
+          "canarias-maria-teresa-pulido-garcia",
+          "canarias-astrid-maria-perez-batista",
+          "senado-17525",
+          "congreso-28-8",
+          "canarias-cristina-tavio-ascanio",
+          "canarias-aurora-jesus-del-rosario-vela"
+        ]
+      },
+      {
+        "name": "GP Nacionalista Canario (CC-PNC-CCN)",
+        "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+        "members": [
+          "canarias-jose-miguel-barragan-cabrera",
+          "canarias-isaac-castellano-san-gines",
+          "senado-11313",
+          "canarias-victor-tomas-chinea-mendoza",
+          "canarias-jose-miguel-gonzalez-hernandez",
+          "canarias-ignacio-gonzalez-santiago",
+          "canarias-nicolas-gutierrez-oramas",
+          "canarias-juan-ramon-hernandez-gomez",
+          "senado-12826",
+          "canarias-esther-nuria-herrera-aguilar",
+          "canarias-flora-marrero-ramos",
+          "canarias-jose-javier-morales-febles",
+          "senado-12825",
+          "canarias-jose-gilberto-moreno-garcia",
+          "congreso-101-9",
+          "congreso-316-8",
+          "canarias-ines-nieves-rojas-de-leon",
+          "canarias-jose-miguel-ruano-leon",
+          "canarias-maria-luisa-zamora-rodriguez",
+          "canarias-david-de-la-hoz-fernandez"
+        ]
+      },
+      {
+        "name": "GP Socialista Canario",
+        "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+        "members": [
+          "senado-16645",
+          "senado-18200",
+          "canarias-encarna-galvan-gonzalez",
+          "canarias-ana-gonzalez-gonzalez",
+          "canarias-gloria-del-pilar-gutierrez-arteaga",
+          "canarias-rita-isabel-gomez-castro",
+          "congreso-327-11",
+          "canarias-rosa-guadalupe-jerez-padilla",
+          "canarias-emilio-mayoral-fernandez",
+          "canarias-jesus-morera-molina",
+          "canarias-maria-dolores-padron-rodriguez",
+          "canarias-jose-miguel-perez-garcia",
+          "senado-10194",
+          "canarias-belinda-ramirez-espinosa",
+          "canarias-jose-ignacio-alvaro-lavandera"
+        ]
+      },
+      {
+        "name": "GP Mixto",
+        "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+        "members": [
+          "canarias-pedro-francisco-justo-brito",
+          "canarias-fabian-ataman-martin-martin",
+          "congreso-240-8"
+        ]
+      },
+      {
+        "name": "Diputados no adscritos",
+        "source": "https://www.parcan.es/composicion/diputados/busqueda_alfabetico/8/",
+        "members": [
+          "canarias-nieves-rosa-pulido-rodriguez"
+        ]
+      }
+    ]
+  },
+  "archiveBoard": [
+    {
+      "person": "senado-11313",
+      "name": "Antonio Ángel Castro Córdobez",
+      "role": "El Presidente",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08027/",
+      "start": null,
+      "end": null,
+      "period": "Mesa de la legislatura VIII · registro consultado"
+    },
+    {
+      "person": "senado-16645",
+      "name": "Julio Cruz Hernández",
+      "role": "Vicepresidente Primero",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08004/",
+      "start": null,
+      "end": null,
+      "period": "Mesa de la legislatura VIII · registro consultado"
+    },
+    {
+      "person": "canarias-manuel-fernandez-gonzalez",
+      "name": "Manuel Fernández González",
+      "role": "Vicepresidente Segundo",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08011/",
+      "start": null,
+      "end": null,
+      "period": "Mesa de la legislatura VIII · registro consultado"
+    },
+    {
+      "person": "canarias-jose-miguel-gonzalez-hernandez",
+      "name": "José Miguel González Hernández",
+      "role": "Secretario Primero",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08021/",
+      "start": null,
+      "end": null,
+      "period": "Mesa de la legislatura VIII · registro consultado"
+    },
+    {
+      "person": "congreso-313-7",
+      "name": "Águeda Montelongo González",
+      "role": "Secretaria Segunda",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08033/",
+      "start": null,
+      "end": null,
+      "period": "Mesa de la legislatura VIII · registro consultado"
+    },
+    {
+      "person": "canarias-cristina-tavio-ascanio",
+      "name": "Cristina Tavío Ascanio",
+      "role": "Miembro de la Mesa del Parlamento",
+      "source": "https://www.parcan.es/composicion/diputados/diputado/08012/",
+      "start": null,
+      "end": null,
+      "period": "Mesa de la legislatura VIII · registro consultado"
+    }
+  ],
+  "archiveBoardNote": "Miembros de la Mesa identificados por la API institucional. Se conserva la denominación de la ficha cuando publica el cargo; no se asignan fechas individuales ni puestos no especificados."
+}

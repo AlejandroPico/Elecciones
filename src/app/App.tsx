@@ -727,6 +727,7 @@ export default function App() {
                 }
               >
                 <Archive
+                  active={view === "archive"}
                   initialRoute={
                     view === "archive" && archiveEntry?.kind === "person"
                       ? { kind: "person", id: archiveEntry.id }
@@ -921,7 +922,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.13.0</dd>
+                  <dd>0.14.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

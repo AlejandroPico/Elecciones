@@ -5,6 +5,7 @@ import madridAudit from "../../Gobiernos/revisiones/2026-10-09-madrid/informe.js
 import valenciaAudit from "../../Gobiernos/revisiones/2026-10-09-valencia/informe.json";
 import valenciaSupplement from "../../Gobiernos/revisiones/2026-10-10-valencia/informe.json";
 import andaluciaAudit from "../../Gobiernos/revisiones/2026-10-12-andalucia/informe.json";
+import atlanticoAudit from "../revisiones/2026-10-12-atlantico/informe.json";
 import { people, portraits, findPerson } from "./datos/catalogo";
 import { matchesAffiliation } from "./vinculaciones";
 
@@ -25,7 +26,8 @@ it("incluye cada identidad del Congreso y Senado desde 1977 con su fuente indivi
       catalanAudit.newPeople.length +
       madridAudit.newPeople.length +
       valenciaAudit.newPeople.length +
-      andaluciaAudit.newPeople.length,
+      andaluciaAudit.newPeople.length +
+      atlanticoAudit.newPeople,
   );
   for (const r of audit.records) {
     const person = findPerson(r.id);
@@ -59,7 +61,7 @@ it("los retratos corresponden a recursos documentados y las ausencias quedan ide
       .filter((p) => !portraits[p.id])
       .map((p) => p.id)
       .sort(),
-  ).toEqual(andaluciaAudit.allMissingPortraits);
+  ).toEqual(atlanticoAudit.allMissingPortraits);
   expect(valenciaSupplement.errors).toHaveLength(0);
   for (const row of valenciaSupplement.portraitsCompleted) {
     const person = people.find(

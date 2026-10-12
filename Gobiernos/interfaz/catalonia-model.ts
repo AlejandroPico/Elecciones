@@ -18,6 +18,7 @@ export type CatalanGovernment = {
   terms: CatalanTerm[];
   incidents: string[];
   archiveTerms?: CatalanTerm[];
+  currentOnly?: boolean;
 };
 export type CatalanParliament = {
   id: string;

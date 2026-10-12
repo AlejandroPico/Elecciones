@@ -1,0 +1,26 @@
+[
+  {
+    "organization": "vox",
+    "name": "Ceuta · candidatura VOX",
+    "period": "Elecciones · 2019-05-26",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04201905_TOTA.zip",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "vox",
+    "name": "Ceuta · Vox",
+    "period": "Consulta · 2026-10-12",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.ceuta.es/gobiernodeceuta/index.php/el-gobierno/la-asamblea",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  }
+]

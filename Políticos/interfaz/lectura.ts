@@ -43,6 +43,9 @@ export function personCatalogPlugin(): Plugin {
     "cargos-andalucia.json",
     "grupos-andalucia.json",
     "comisiones-andalucia.json",
+    "mandatos-autonomias.json",
+    "cargos-autonomias.json",
+    "grupos-autonomias.json",
   ]);
   async function collect(watch?: (file: string) => void) {
     const directory = join(root, "Políticos");

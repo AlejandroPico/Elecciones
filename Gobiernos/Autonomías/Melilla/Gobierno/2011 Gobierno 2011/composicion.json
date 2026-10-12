@@ -1,0 +1,117 @@
+{
+  "id": "melilla-gobierno-2011-07-04",
+  "label": "Gobierno 2011",
+  "name": "Melilla · Juan José Imbroda Ortiz",
+  "start": "2011-07-04",
+  "end": "2015-07-06",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/boe/dias/2011/07/05/pdfs/BOE-A-2011-11516.pdf",
+  "terms": [
+    {
+      "person": "senado-12833",
+      "name": "Juan José Imbroda Ortiz",
+      "role": "Presidencia de Melilla",
+      "source": "https://www.boe.es/boe/dias/2011/07/05/pdfs/BOE-A-2011-11516.pdf",
+      "start": "2011-07-04",
+      "end": "2015-07-06",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Se conservan los nombramientos iniciales localizados en los boletines oficiales. No se proyectan como una composición simultánea durante toda la etapa; los ceses y relevos no fechados requieren contraste individual."
+  ],
+  "archiveTerms": [
+    {
+      "person": "melilla-miguel-marin-cobos",
+      "name": "Miguel Marín Cobos",
+      "role": "Vicepresidencia primera y Consejería de Fomento, Juventud y Deportes",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-daniel-conesa-minguez",
+      "name": "Daniel Conesa Minguez",
+      "role": "Vicepresidencia segunda y Consejería de Economía y Hacienda",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-esther-donoso-garcia-sacristan",
+      "name": "Esther Donoso Garcia Sacristan",
+      "role": "Consejería de Presidencia y Participación Ciudadana",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-catalina-muriel-garcia",
+      "name": "Catalina Muriel Garcia",
+      "role": "Consejería de Administraciones Públicas",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-jose-angel-perez-calabuig",
+      "name": "José Ángel Pérez Calabuig",
+      "role": "Consejería de Medio Ambiente",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-simi-chocron-chocron",
+      "name": "Simi Chocron Chocron",
+      "role": "Consejería de Cultura y Festejos",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-antonio-miranda-montilla",
+      "name": "Antonio Miranda Montilla",
+      "role": "Consejería de Educación y Colectivos Sociales",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-maria-antonia-garbin-espigares",
+      "name": "Maria Antonia Garbin Espigares",
+      "role": "Consejería de Bienestar Social y Sanidad",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    },
+    {
+      "person": "melilla-francisco-javier-calderon-carrillo",
+      "name": "Francisco Javier Calderón Carrillo",
+      "role": "Consejería de Seguridad Ciudadana",
+      "source": "https://www.senado.es/brsweb/CALEX/textos/pdf/parlagobi.pdf",
+      "start": null,
+      "end": null,
+      "period": "Cuadro del Senado · enero de 2014",
+      "level": "minister"
+    }
+  ]
+}

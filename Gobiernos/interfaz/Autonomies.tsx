@@ -6,6 +6,9 @@ const Catalonia = lazy(() => import("./Catalonia"));
 const Madrid = lazy(() => import("./Madrid"));
 const Valencia = lazy(() => import("./Valencia"));
 const Andalucia = lazy(() => import("./Andalucia"));
+const Canarias = lazy(() => import("./Canarias"));
+const Ceuta = lazy(() => import("./Ceuta"));
+const Melilla = lazy(() => import("./Melilla"));
 export function autonomyEntry(
   region: string,
   section: "government" | "parliament",
@@ -144,7 +147,13 @@ export default function Autonomies({
           ? Valencia
           : route?.territory.id === "andalucia"
             ? Andalucia
-            : undefined;
+            : route?.territory.id === "canarias"
+              ? Canarias
+              : route?.territory.id === "ceuta"
+                ? Ceuta
+                : route?.territory.id === "melilla"
+                  ? Melilla
+                  : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">

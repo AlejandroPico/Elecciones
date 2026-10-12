@@ -46,5 +46,17 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · G.P. Socialista Canario",
+    "period": "Legislatura VII · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/07074/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
   }
 ]

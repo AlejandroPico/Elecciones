@@ -46,5 +46,53 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · G.P. Socialista Canario",
+    "period": "Legislatura V · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/05068/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · GP Socialista Canario",
+    "period": "Legislatura IX · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/09050/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · GP Socialista Canario",
+    "period": "Legislatura X · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/10042/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · GP Socialista Canario",
+    "period": "Legislatura XI · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/11054/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
   }
 ]

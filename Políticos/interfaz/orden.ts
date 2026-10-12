@@ -1,6 +1,33 @@
 import { governmentCatalog, type Person } from "./datos/catalogo";
 import { activityRank, personActivity } from "./actividad";
-export type Order = "name" | "recent" | "oldest" | "rank";
+export type Order = "random" | "name" | "recent" | "oldest" | "rank";
+
+/** Rechaza el sobrante de 2³² para que cada índice tenga la misma probabilidad. */
+export function randomIndex(
+  size: number,
+  draw = () => crypto.getRandomValues(new Uint32Array(1))[0],
+) {
+  if (!Number.isInteger(size) || size < 1 || size > 2 ** 32)
+    throw new RangeError("Tamaño del sorteo fuera de rango");
+  const limit = Math.floor(2 ** 32 / size) * size;
+  let value: number;
+  do value = draw();
+  while (value >= limit);
+  return value % size;
+}
+
+/** Fisher–Yates: una permutación por visita, compartida por todos sus filtros. */
+export function randomPeopleOrder(
+  list: Pick<Person, "id">[],
+  draw?: () => number,
+) {
+  const ids = list.map((p) => p.id);
+  for (let i = ids.length - 1; i > 0; i--) {
+    const j = randomIndex(i + 1, draw);
+    [ids[i], ids[j]] = [ids[j], ids[i]];
+  }
+  return new Map(ids.map((id, index) => [id, index]));
+}
 function normalize(s: string) {
   return s
     .normalize("NFD")
@@ -72,11 +99,20 @@ export function activityOf(p: Person) {
     ],
   };
 }
-export function orderPeople(list: Person[], order: Order) {
+export function orderPeople(
+  list: Person[],
+  order: Order,
+  randomOrder?: ReadonlyMap<string, number>,
+) {
+  const ranks =
+    order === "random" ? (randomOrder ?? randomPeopleOrder(list)) : undefined;
   return [...list].sort((a, b) => {
-    const status = activityRank[personActivity(a)] - activityRank[personActivity(b)];
+    const status =
+      activityRank[personActivity(a)] - activityRank[personActivity(b)];
     if (status) return status;
-    if (order === "name") return (a.fullName ?? a.name).localeCompare(b.fullName ?? b.name, "es");
+    if (ranks) return ranks.get(a.id)! - ranks.get(b.id)!;
+    if (order === "name")
+      return (a.fullName ?? a.name).localeCompare(b.fullName ?? b.name, "es");
     const x = activityOf(a),
       y = activityOf(b);
     let comparison = 0;

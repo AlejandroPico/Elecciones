@@ -3,5 +3,50 @@
     "label": "Congreso de los Diputados · ficha individual",
     "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=390&idLegislatura=XII",
     "kind": "institutional"
+  },
+  {
+    "label": "Miembro electo de la Asamblea de Ceuta",
+    "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04200305_TOTA.zip",
+    "kind": "institutional"
+  },
+  {
+    "label": "Copia verificable de los microdatos de Interior · archivo público",
+    "url": "https://raw.githubusercontent.com/JaimeObregon/infoelectoral/main/files/municipales/04200305_TOTA/04040305.DAT",
+    "kind": "encyclopedic"
+  },
+  {
+    "label": "Miembro electo de la Asamblea de Ceuta",
+    "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04201905_TOTA.zip",
+    "kind": "institutional"
+  },
+  {
+    "label": "Copia verificable de los microdatos de Interior · archivo público",
+    "url": "https://raw.githubusercontent.com/JaimeObregon/infoelectoral/main/files/municipales/04201905_TOTA/04041905.DAT",
+    "kind": "encyclopedic"
+  },
+  {
+    "label": "Miembro de la Asamblea de Ceuta",
+    "url": "https://www.ceuta.es/gobiernodeceuta/index.php/el-gobierno/la-asamblea",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejería de Hacienda, Transición Económica y Transformación Digital",
+    "url": "https://www.ceuta.es/gobiernodeceuta/index.php/el-gobierno/el-equipo/28-paginas/8973-kissy-chandiramani",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejera de juventud, deportes y nuevas tecnologías",
+    "url": "https://www.ceuta.es/ceuta/component/jdownloads/finish/376-junio/2362-bocce-extra-9-21-06-2007?Itemid=0",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejería de Fomento y Medio Ambiente",
+    "url": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+    "kind": "institutional"
+  },
+  {
+    "label": "Vicepresidencia segunda · Hacienda, Transición Económica y Transformación Digital",
+    "url": "https://www.ceuta.es/gobiernodeceuta/index.php/el-gobierno/el-equipo/28-paginas/8973-kissy-chandiramani",
+    "kind": "institutional"
   }
 ]

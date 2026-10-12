@@ -19,6 +19,7 @@ export type HemicycleMember = {
   source: string;
   constituency?: string;
   formation?: string;
+  formationLabel?: string;
 };
 export type HemicycleGroup = {
   id: string;

@@ -1,0 +1,50 @@
+[
+  {
+    "legislatura": 10,
+    "apellido1": "Dávila",
+    "apellido2": "Mamely",
+    "nombre": "Rosa Elena",
+    "alta_cargo": "2019-06-25",
+    "baja_cargo": null
+  },
+  {
+    "legislatura": 10,
+    "apellido1": "González",
+    "apellido2": "Cabrera",
+    "nombre": "Jorge Tomás",
+    "alta_cargo": "2019-06-25",
+    "baja_cargo": null
+  },
+  {
+    "legislatura": 10,
+    "apellido1": "González",
+    "apellido2": "González",
+    "nombre": "María Esther",
+    "alta_cargo": "2019-06-25",
+    "baja_cargo": null
+  },
+  {
+    "legislatura": 10,
+    "apellido1": "Matos",
+    "apellido2": "Expósito",
+    "nombre": "Gustavo Adolfo",
+    "alta_cargo": "2019-06-25",
+    "baja_cargo": null
+  },
+  {
+    "legislatura": 10,
+    "apellido1": "Navarro",
+    "apellido2": "de Paz",
+    "nombre": "María Australia",
+    "alta_cargo": "2022-09-12",
+    "baja_cargo": null
+  },
+  {
+    "legislatura": 10,
+    "apellido1": "Reverón",
+    "apellido2": "González",
+    "nombre": "Luz",
+    "alta_cargo": "2019-06-25",
+    "baja_cargo": "2022-09-12"
+  }
+]

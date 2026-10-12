@@ -19,7 +19,13 @@ import {
 } from "./datos/catalogo";
 import { ageAt } from "./edad";
 import { useInfiniteList } from "../../src/app/useInfiniteList";
-import { activityOf, matchesPerson, orderPeople, type Order } from "./orden";
+import {
+  activityOf,
+  matchesPerson,
+  orderPeople,
+  randomPeopleOrder,
+  type Order,
+} from "./orden";
 import PartyDetail from "../../Partidos/interfaz/Ficha";
 import { Portrait } from "./Retrato";
 import {
@@ -39,17 +45,30 @@ type Route = { kind: "person" | "party" | "office"; id: string };
 const organizationsById = new Map(organizations.map((o) => [o.id, o]));
 const options = affiliationOptions(people, organizations);
 export default function Archive({
+  active = true,
   initialRoute,
   close,
   openParty,
   onNavigate,
 }: {
+  active?: boolean;
   initialRoute?: Route;
   close?: () => void;
   openParty?: (id: string) => void;
   onNavigate?: (route?: Route) => void;
 }) {
-  const [order, setOrder] = useState<Order>("name");
+  const [order, setOrder] = useState<Order>("random");
+  const [randomOrder, setRandomOrder] = useState(() =>
+    randomPeopleOrder(people),
+  );
+  const wasActive = useRef(active);
+  useEffect(() => {
+    if (active && !wasActive.current) {
+      setOrder("random");
+      setRandomOrder(randomPeopleOrder(people));
+    }
+    wasActive.current = active;
+  }, [active]);
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState("all");
   const [activityFilter, setActivityFilter] = useState<ActivityState | "all">(
@@ -88,8 +107,9 @@ export default function Archive({
             (activityFilter === "all" || personActivity(p) === activityFilter),
         ),
         order,
+        randomOrder,
       ),
-    [search, filter, order, activityFilter],
+    [search, filter, order, activityFilter, randomOrder],
   );
   const { visibleCount, sentinel } = useInfiniteList(
     foundPeople.length,
@@ -157,8 +177,14 @@ export default function Archive({
             <select
               aria-label="Ordenar personas"
               value={order}
-              onChange={(e) => setOrder(e.target.value as Order)}
+              onChange={(e) => {
+                const next = e.target.value as Order;
+                if (next === "random")
+                  setRandomOrder(randomPeopleOrder(people));
+                setOrder(next);
+              }}
             >
+              <option value="random">Aleatorio</option>
               <option value="name">Nombre · A–Z</option>
               <option value="recent">Actividad más reciente</option>
               <option value="oldest">Actividad más antigua</option>
@@ -487,6 +513,26 @@ export default function Archive({
                     <ol className="political-timeline">
                       {person.congressGroups.map((term) => (
                         <li key={`${term.title}-${term.period}`}>
+                          <span>{term.period}</span>
+                          <h4>{term.title}</h4>
+                          <Sources sources={[term.source]} />
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
+                {!!person.regionalGroups?.length && (
+                  <article>
+                    <h3>Candidaturas y grupos autonómicos</h3>
+                    <p className="small-note">
+                      Relación electoral o parlamentaria del periodo indicado;
+                      no acredita por sí sola militancia en un partido.
+                    </p>
+                    <ol className="political-timeline">
+                      {person.regionalGroups.map((term) => (
+                        <li
+                          key={`${term.title}-${term.period}-${term.source.url}`}
+                        >
                           <span>{term.period}</span>
                           <h4>{term.title}</h4>
                           <Sources sources={[term.source]} />

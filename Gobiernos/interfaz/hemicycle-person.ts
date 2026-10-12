@@ -1,6 +1,11 @@
 import type { Person } from "../../Políticos/interfaz/datos/tipos";
 
-type Member = { source: string; constituency?: string; formation?: string };
+type Member = {
+  source: string;
+  constituency?: string;
+  formation?: string;
+  formationLabel?: string;
+};
 
 export function memberConstituency(
   member: Member,
@@ -56,7 +61,11 @@ export function memberParty(
       label: "Afiliación documentada",
       name: [...new Set(undated.map((a) => a.name))].join(" · "),
     };
-  if (member.formation) return { label: "Candidatura", name: member.formation };
+  if (member.formation)
+    return {
+      label: member.formationLabel ?? "Candidatura",
+      name: member.formation,
+    };
   return undefined;
 }
 

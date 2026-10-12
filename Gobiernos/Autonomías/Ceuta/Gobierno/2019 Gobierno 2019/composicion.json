@@ -1,0 +1,97 @@
+{
+  "id": "ceuta-gobierno-2019-06-18",
+  "label": "Gobierno 2019",
+  "name": "Ceuta · Juan Jesús Vivas Lara",
+  "start": "2019-06-18",
+  "end": "2023-06-19",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-9182",
+  "terms": [
+    {
+      "person": "ceuta-juan-jesus-vivas-lara",
+      "name": "Juan Jesús Vivas Lara",
+      "role": "Presidencia de Ceuta",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-9182",
+      "start": "2019-06-18",
+      "end": "2023-06-19",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Se conservan los nombramientos iniciales localizados en los boletines oficiales. No se proyectan como una composición simultánea durante toda la etapa; los ceses y relevos no fechados requieren contraste individual."
+  ],
+  "archiveTerms": [
+    {
+      "person": "ceuta-maria-isabel-deu-del-olmo",
+      "name": "Maria Isabel Deu del Olmo",
+      "role": "Vicepresidencia y Consejería de Presidencia y Gobernación",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    },
+    {
+      "person": "ceuta-carlos-rontome-romero",
+      "name": "Carlos Rontomé Romero",
+      "role": "Consejería de Educación y Cultura",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    },
+    {
+      "person": "congreso-390-12",
+      "name": "Kissy Chandiramani Ramesh",
+      "role": "Consejería de Fomento y Medio Ambiente",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    },
+    {
+      "person": "ceuta-francisco-javier-guerrero-gallego",
+      "name": "Francisco Javier Guerrero Gallego",
+      "role": "Consejería de Sanidad, Servicios Sociales e Igualdad",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    },
+    {
+      "person": "ceuta-alberto-ramon-gaitan-rodriguez",
+      "name": "Alberto Ramón Gaitán Rodríguez",
+      "role": "Consejería de Economía, Hacienda y Administración Pública y Portavocía",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    },
+    {
+      "person": "ceuta-lorena-miranda-dorado",
+      "name": "Lorena Miranda Dorado",
+      "role": "Consejería de Juventud y Deporte",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    },
+    {
+      "person": "ceuta-yamal-dris-mojtar",
+      "name": "Yamal Dris Mojtar",
+      "role": "Consejería de Servicios Urbanos y Patrimonio Natural",
+      "source": "https://www.ceuta.es/gobiernodeceuta/index.php/noticia/42-presidencia/10692-el-presidente-define-la-organizacion-y-funciones-de-las-nuevas-consejerias",
+      "start": null,
+      "end": null,
+      "period": "Nombramiento · 2019-06-22 · cese individual no reconstruido",
+      "level": "minister"
+    }
+  ]
+}

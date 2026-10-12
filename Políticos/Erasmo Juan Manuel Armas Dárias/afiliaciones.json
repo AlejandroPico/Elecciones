@@ -10,5 +10,29 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · clasificación del informe ICI: Partido Socialista Obrero Español",
+    "period": "Legislatura II",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura2_1987-1991.pdf",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "psoe",
+    "name": "Canarias · clasificación del informe ICI: Partido Socialista Obrero Español",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura3_1991-1995.pdf",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
   }
 ]

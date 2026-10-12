@@ -1,0 +1,26 @@
+{
+  "id": "melilla-gobierno-1995-06-19",
+  "label": "Gobierno 1995",
+  "name": "Melilla · Ignacio Velázquez Rivera",
+  "start": "1995-06-19",
+  "end": "1998-03-03",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/boe/dias/1995/06/20/pdfs/A18469-18469.pdf",
+  "terms": [
+    {
+      "person": "melilla-ignacio-velazquez-rivera",
+      "name": "Ignacio Velazquez Rivera",
+      "role": "Presidencia de Melilla",
+      "source": "https://www.boe.es/boe/dias/1995/06/20/pdfs/A18469-18469.pdf",
+      "start": "1995-06-19",
+      "end": "1998-03-03",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías de esta etapa todavía requieren contraste de sus nombramientos y relevos; el organigrama identifica únicamente la presidencia documentada."
+  ],
+  "archiveTerms": []
+}

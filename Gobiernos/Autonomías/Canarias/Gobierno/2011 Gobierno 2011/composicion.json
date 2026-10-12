@@ -1,0 +1,117 @@
+{
+  "id": "canarias-gobierno-2011-07-06",
+  "label": "Gobierno 2011",
+  "name": "Canarias · Paulino Rivero Baute",
+  "start": "2011-07-06",
+  "end": "2015-07-08",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/boe/dias/2011/07/07/pdfs/BOE-A-2011-11644.pdf",
+  "terms": [
+    {
+      "person": "congreso-316-8",
+      "name": "Paulino Rivero Baute",
+      "role": "Presidencia de Canarias",
+      "source": "https://www.boe.es/boe/dias/2011/07/07/pdfs/BOE-A-2011-11644.pdf",
+      "start": "2011-07-06",
+      "end": "2015-07-08",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías proceden del cuadro histórico del Instituto Canario de Igualdad. Las barras separan titulares sucesivos sin fechar individualmente sus relevos; se conservan como archivo, no como un gabinete simultáneo. El cuadro incluye cargos suprimidos y etapas provisionales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "canarias-juan-ramon-hernandez-gomez",
+      "name": "Juan Ramón Hernández Gómez",
+      "role": "Consejería de Agricultura, Ganadería, Pesca, Aguas",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-ines-nieves-rojas-de-leon",
+      "name": "Inés Nieves Rojas de León",
+      "role": "Consejería de Cultura, Deportes, Política Social, Vivienda",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-javier-gonzalez-ortiz",
+      "name": "Javier González Ortiz",
+      "role": "Consejería de Economía, Hacienda, Seguridad",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-jose-miguel-perez-garcia",
+      "name": "José Miguel Pérez García",
+      "role": "Consejería de Educación, Universidades y Sostenibilidad",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-margarita-ramos",
+      "name": "Margarita Ramos",
+      "role": "Consejería de Empleo, Industria y Comercio",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-francisca-luengo-orol",
+      "name": "Francisca Luengo Orol",
+      "role": "Consejería de Empleo, Industria y Comercio",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-domingo-berriel-martinez",
+      "name": "Domingo Berriel Martínez",
+      "role": "Consejería de Obras Públicas, Transportes y Política territorial",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "congreso-327-11",
+      "name": "Francisco Hernández Spínola",
+      "role": "Consejería de Presidencia, Justicia e Igualdad",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    },
+    {
+      "person": "canarias-brigida-mendoza-betancor",
+      "name": "Brígida Mendoza Betancor",
+      "role": "Consejería de Sanidad",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Gobcan_1983-2019.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura VIII · intervalo individual no precisado",
+      "level": "minister"
+    }
+  ]
+}

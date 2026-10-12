@@ -1,0 +1,787 @@
+{
+  "id": "canarias-parlamento-1",
+  "label": "Legislatura I",
+  "start": "1983-05-08",
+  "end": "1987-06-10",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+  "capacity": 60,
+  "currentOnly": false,
+  "nominalOnly": true,
+  "note": "Marco por fechas electorales, no por altas individuales. El archivo nominal incluye los relevos publicados; no reconstruye una ocupación diaria ni el asiento físico.",
+  "records": [
+    {
+      "person": "congreso-163-4",
+      "name": "Álvaro Argany Fajardo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-maria-dolores-palliser-diez",
+      "name": "María Dolores Palliser Díez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10741",
+      "name": "José Francisco Armas Pérez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-antonio-asensio-lopez",
+      "name": "Antonio Asensio López",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-augusto-pablo-brito-soto",
+      "name": "Augusto Pablo Brito Soto",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-pedro-cabrera-hernandez",
+      "name": "Pedro Cabrera Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-leopoldo-cabrera-lasso",
+      "name": "Leopoldo Cabrera Lasso",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-vicente-ferran-olmos",
+      "name": "José Vicente Ferrán Olmos",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-antonio-garcia-deniz",
+      "name": "José Antonio García Déniz",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-domingo-gonzalez-chaparro",
+      "name": "Domingo González Chaparro",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10824",
+      "name": "Pedro Guerra Cabrera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-vicente-hernandez-diaz",
+      "name": "José Vicente Hernández Díaz",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-manuel-hernandez-suarez",
+      "name": "José Manuel Hernández Suárez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10281",
+      "name": "Ramón Jerez Herrera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-maximino-isidro-jimenez-fumero",
+      "name": "Maximino Isidro Jiménez Fumero",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-juan-alberto-martin-martin",
+      "name": "Juan Alberto Martín Martín",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "congreso-193-6",
+      "name": "Antonio Martinón Cejas",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-medina-jimenez",
+      "name": "José Medina Jiménez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-abilio-fidel-monterrey-gutierrez",
+      "name": "Abilio Fidel Monterrey Gutiérrez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-bernardo-navarro-valdivielso",
+      "name": "Bernardo Navarro Valdivielso",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10200",
+      "name": "Santiago Pérez García",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-luis-perez-martin",
+      "name": "José Luis Pérez Martín",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-enrique-perez-parrilla",
+      "name": "Enrique Pérez Parrilla",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10944",
+      "name": "Juan Ramírez Montero",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-rolando-rodriguez-garcia",
+      "name": "Rolando Rodríguez García",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10375",
+      "name": "José Juan Rodríguez Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "jeronimo-saavedra-acevedo",
+      "name": "Jerónimo Saavedra Acevedo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-pedro-santana-arencibia",
+      "name": "José Pedro Santana Arencibia",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-orlando-suarez-curbelo",
+      "name": "Orlando Suárez Curbelo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-alonso-lino-oswaldo-trujillo-trujillo",
+      "name": "Alonso Lino Oswaldo Trujillo Trujillo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-pedro-acosta-lorenzo",
+      "name": "Pedro Acosta Lorenzo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-francisco-jose-alonso-valeron",
+      "name": "Francisco José Alonso Valerón",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-11661",
+      "name": "Vicente Álvarez Pedreira",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-juan-jacinto-artiles-ramirez",
+      "name": "Juan Jacinto Artiles Ramírez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-antonio-cabrera-barrera",
+      "name": "Antonio Cabrera Barrera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-manuel-de-la-cueva-fernandez",
+      "name": "Manuel De la Cueva Fernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-manuel-fernandez-gonzalez",
+      "name": "Manuel Fernández González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-ferrer-perdomo",
+      "name": "José Ferrer Perdomo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-ramon-lorenzo-gonzalez-de-mesa-machado",
+      "name": "Ramón Lorenzo González de Mesa Machado",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10840",
+      "name": "Elviro Blas Hernández Reboso",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "congreso-18-0",
+      "name": "César Llorens Bargés",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-francisco-jose-manrique-de-lara-y-llarena",
+      "name": "Francisco José Manrique de Lara y Llarena",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-francisco-marcos-hernandez",
+      "name": "Francisco Marcos Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-andres-agustin-miranda-hernandez",
+      "name": "Andrés Agustín Miranda Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-miguel-rafael-perdigon-cabrera",
+      "name": "Miguel Rafael Perdigón Cabrera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-sarbelio-perez-pulido",
+      "name": "Sarbelio Pérez Pulido",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-juan-luis-rodriguez-rodriguez",
+      "name": "Juan Luis Rodríguez Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-jose-miguel-suarez-gil",
+      "name": "José Miguel Suárez Gil",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-antonio-vega-pereira",
+      "name": "Antonio Vega Pereira",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-manuel-acevedo-bishop",
+      "name": "Manuel Acevedo Bishop",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-eugenio-cabrera-montelongo",
+      "name": "Eugenio Cabrera Montelongo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-fernando-manuel-fernandez-martin",
+      "name": "Fernando Manuel Fernández Martín",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10197",
+      "name": "Domingo González Arroyo",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-10310",
+      "name": "Jesús Morales Morales",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "congreso-308-5",
+      "name": "Lorenzo Olarte Cullén",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-11305",
+      "name": "Miguel Cabrera Cabrera",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-miguel-angel-pizarro-lozano",
+      "name": "Miguel Ángel Pizarro Lozano",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-antonio-rodriguez-marichal",
+      "name": "Antonio Rodríguez Marichal",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-gonzalo-angulo-gonzalez",
+      "name": "Gonzalo Angulo González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-oswaldo-narciso-brito-gonzalez",
+      "name": "Oswaldo Narciso Brito González",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-esteban-bethencourt-gamez",
+      "name": "Esteban Bethencourt Gámez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-domingo-gerardo-herrera-rodriguez",
+      "name": "Domingo Gerardo Herrera Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-juan-padron-morales",
+      "name": "Juan Padrón Morales",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "senado-11948",
+      "name": "Gregorio Toledo Rodríguez",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    },
+    {
+      "person": "canarias-antonio-sanjuan-hernandez",
+      "name": "Antonio Sanjuán Hernández",
+      "role": "Miembro del Parlamento de Canarias",
+      "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I",
+      "endBasis": "Intervalo individual no publicado en el cuadro nominal."
+    }
+  ],
+  "board": [],
+  "groups": [],
+  "archivedComposition": {
+    "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+    "checkedAt": "2026-10-12",
+    "note": "Cuadro nominal del Instituto Canario de Igualdad. Se excluyen del esquema los diputados con baja expresamente anotada; se conservan en el archivo. La clasificación partidista del informe no se equipara a una adscripción diaria a un grupo parlamentario.",
+    "groups": [
+      {
+        "name": "Partido Socialista Obrero Español",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "congreso-163-4",
+          "canarias-maria-dolores-palliser-diez",
+          "senado-10741",
+          "canarias-augusto-pablo-brito-soto",
+          "canarias-pedro-cabrera-hernandez",
+          "canarias-leopoldo-cabrera-lasso",
+          "canarias-jose-vicente-ferran-olmos",
+          "canarias-jose-antonio-garcia-deniz",
+          "canarias-domingo-gonzalez-chaparro",
+          "senado-10824",
+          "canarias-jose-manuel-hernandez-suarez",
+          "senado-10281",
+          "canarias-maximino-isidro-jimenez-fumero",
+          "canarias-juan-alberto-martin-martin",
+          "canarias-jose-medina-jimenez",
+          "canarias-abilio-fidel-monterrey-gutierrez",
+          "canarias-bernardo-navarro-valdivielso",
+          "senado-10200",
+          "canarias-jose-luis-perez-martin",
+          "canarias-enrique-perez-parrilla",
+          "senado-10944",
+          "canarias-rolando-rodriguez-garcia",
+          "senado-10375",
+          "jeronimo-saavedra-acevedo",
+          "canarias-jose-pedro-santana-arencibia",
+          "canarias-orlando-suarez-curbelo",
+          "canarias-alonso-lino-oswaldo-trujillo-trujillo"
+        ]
+      },
+      {
+        "name": "Federación de partidos de Alianza Popular, Partido Demócrata Popular y Unión Liberal",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "canarias-pedro-acosta-lorenzo",
+          "canarias-francisco-jose-alonso-valeron",
+          "senado-11661",
+          "canarias-juan-jacinto-artiles-ramirez",
+          "canarias-antonio-cabrera-barrera",
+          "canarias-manuel-de-la-cueva-fernandez",
+          "canarias-manuel-fernandez-gonzalez",
+          "canarias-jose-ferrer-perdomo",
+          "canarias-ramon-lorenzo-gonzalez-de-mesa-machado",
+          "senado-10840",
+          "canarias-francisco-jose-manrique-de-lara-y-llarena",
+          "canarias-francisco-marcos-hernandez",
+          "canarias-andres-agustin-miranda-hernandez",
+          "canarias-miguel-rafael-perdigon-cabrera",
+          "canarias-juan-luis-rodriguez-rodriguez",
+          "canarias-jose-miguel-suarez-gil",
+          "canarias-antonio-vega-pereira"
+        ]
+      },
+      {
+        "name": "Centro Democrático Social",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "canarias-manuel-acevedo-bishop",
+          "canarias-eugenio-cabrera-montelongo",
+          "canarias-fernando-manuel-fernandez-martin",
+          "senado-10197",
+          "senado-10310",
+          "congreso-308-5"
+        ]
+      },
+      {
+        "name": "Asamblea Majorera",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "senado-11305",
+          "canarias-miguel-angel-pizarro-lozano",
+          "canarias-antonio-rodriguez-marichal"
+        ]
+      },
+      {
+        "name": "Unión del Pueblo Canario–Asamblea Canaria–Izquierda Canaria",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "canarias-gonzalo-angulo-gonzalez",
+          "canarias-oswaldo-narciso-brito-gonzalez"
+        ]
+      },
+      {
+        "name": "Agrupación Gomera Independiente",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "canarias-esteban-bethencourt-gamez",
+          "canarias-domingo-gerardo-herrera-rodriguez"
+        ]
+      },
+      {
+        "name": "Agrupación Herreña Independiente",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "canarias-juan-padron-morales"
+        ]
+      },
+      {
+        "name": "Coalición Convergencia Nacionalista Canaria",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "senado-11948"
+        ]
+      },
+      {
+        "name": "Partido Comunista de Canarias",
+        "source": "https://www.gobiernodecanarias.org/igualdad/documentos/estadisticas/Esta_Parcan_Legislatura1_1983-1987.pdf",
+        "members": [
+          "canarias-antonio-sanjuan-hernandez"
+        ]
+      }
+    ]
+  }
+}

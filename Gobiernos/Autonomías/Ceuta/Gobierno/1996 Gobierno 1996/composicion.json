@@ -1,0 +1,26 @@
+{
+  "id": "ceuta-gobierno-1996-07-24",
+  "label": "Gobierno 1996",
+  "name": "Ceuta · Jesús Cayetano Fortes Ramos",
+  "start": "1996-07-24",
+  "end": "1999-08-26",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1996-17016",
+  "terms": [
+    {
+      "person": "ceuta-jesus-cayetano-fortes-ramos",
+      "name": "Jesus Cayetano Fortes Ramos",
+      "role": "Presidencia de Ceuta",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1996-17016",
+      "start": "1996-07-24",
+      "end": "1999-08-26",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías de esta etapa todavía requieren contraste de sus nombramientos y relevos; el organigrama identifica únicamente la presidencia documentada."
+  ],
+  "archiveTerms": []
+}

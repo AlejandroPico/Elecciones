@@ -10,5 +10,41 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · G.P. Popular",
+    "period": "Legislatura IV · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/04027/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · G.P. Popular",
+    "period": "Legislatura V · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/05027/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
+  },
+  {
+    "organization": "pp",
+    "name": "Canarias · G.P. Popular",
+    "period": "Legislatura VI · adscripción del registro consultado",
+    "kind": "association",
+    "source": {
+      "label": "Candidatura o formación indicada por la fuente institucional",
+      "url": "https://www.parcan.es/composicion/diputados/diputado/06019/",
+      "kind": "institutional"
+    },
+    "note": "Relación electoral o parlamentaria documentada; no acredita por sí sola militancia."
   }
 ]

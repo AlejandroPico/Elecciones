@@ -76,6 +76,9 @@ export type Person = {
   andalusianOffices?: { title: string; period: string; source: Reference }[];
   andalusianGroups?: { title: string; period: string; source: Reference }[];
   andalusianCommittees?: { title: string; period: string; source: Reference }[];
+  regionalMandates?: { title: string; period: string; source: Reference }[];
+  regionalOffices?: { title: string; period: string; source: Reference }[];
+  regionalGroups?: { title: string; period: string; source: Reference }[];
 };
 export type PoliticalActivity = {
   state: "active" | "historical" | "unknown";

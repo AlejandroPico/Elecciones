@@ -1,0 +1,26 @@
+{
+  "id": "melilla-gobierno-1998-03-03",
+  "label": "Gobierno 1998",
+  "name": "Melilla · Enrique Palacios Hernández",
+  "start": "1998-03-03",
+  "end": "1999-07-05",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/boe/dias/1998/03/04/pdfs/A07416-07416.pdf",
+  "terms": [
+    {
+      "person": "melilla-enrique-palacios-hernandez",
+      "name": "Enrique Palacios Hernandez",
+      "role": "Presidencia de Melilla",
+      "source": "https://www.boe.es/boe/dias/1998/03/04/pdfs/A07416-07416.pdf",
+      "start": "1998-03-03",
+      "end": "1999-07-05",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías de esta etapa todavía requieren contraste de sus nombramientos y relevos; el organigrama identifica únicamente la presidencia documentada."
+  ],
+  "archiveTerms": []
+}

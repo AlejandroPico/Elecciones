@@ -1,0 +1,75 @@
+{
+  "checkedAt": "2026-10-12",
+  "coverage": {
+    "Canarias": {
+      "Gobierno": {
+        "periods": 15,
+        "currentPeople": 13,
+        "currentMissingPortraits": []
+      },
+      "Parlamento": {
+        "periods": 11,
+        "currentPeople": 70,
+        "currentMissingPortraits": []
+      }
+    },
+    "Ceuta": {
+      "Gobierno": {
+        "periods": 10,
+        "currentPeople": 8,
+        "currentMissingPortraits": []
+      },
+      "Parlamento": {
+        "periods": 8,
+        "currentPeople": 25,
+        "currentMissingPortraits": [
+          "ceuta-mina-mohamed-laarbi",
+          "ceuta-juan-sergio-redondo-pacheco",
+          "ceuta-carlos-francisco-verdejo-ferrer",
+          "ceuta-francisco-jose-ruiz-enriquez",
+          "ceuta-ana-belen-cifuentes-canovas",
+          "ceuta-fatima-hamed-hossain",
+          "ceuta-nadia-mohamed-abdel-lah",
+          "ceuta-mohamed-mohamed-ali-duas",
+          "ceuta-mohamed-mustafa-ahmed",
+          "ceuta-julia-alejandra-ferreras-guerra",
+          "ceuta-mohamed-navil-rahal-abdelkrim",
+          "ceuta-fidda-mustafa-hossain",
+          "ceuta-hikma-mohamed-mohamed"
+        ]
+      }
+    },
+    "Melilla": {
+      "Gobierno": {
+        "periods": 10,
+        "currentPeople": 9,
+        "currentMissingPortraits": []
+      },
+      "Parlamento": {
+        "periods": 8,
+        "currentPeople": 25,
+        "currentMissingPortraits": [
+          "melilla-fatima-mohamed-kaddur",
+          "melilla-rachid-bussian-mohamed",
+          "melilla-dunia-al-mansouri-umpierrez",
+          "melilla-emilio-guerra-munoz",
+          "melilla-javier-da-costa-solis",
+          "melilla-jose-miguel-tasende-souto",
+          "melilla-rafael-robles-reina",
+          "melilla-maria-jose-aguilar-silvetti",
+          "melilla-francisco-villena-hernandez",
+          "melilla-nasera-al-lal-mohamed",
+          "melilla-fadwa-abelhadj-benlafki",
+          "melilla-amin-azmani-mohamed-mohamed",
+          "melilla-riduan-moh-abdelkader",
+          "melilla-maria-cecilia-gonzalez-casas",
+          "melilla-diego-francisco-munoz-jaen",
+          "melilla-pedro-maria-fernandez-anton"
+        ]
+      }
+    }
+  },
+  "peopleReviewed": 789,
+  "newPeople": 670,
+  "portraitsFromThisImport": 292
+}

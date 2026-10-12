@@ -8,5 +8,15 @@
     "label": "Senado de España · ficha individual",
     "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=13967",
     "kind": "institutional"
+  },
+  {
+    "label": "Miembro electo de la Asamblea de Melilla",
+    "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04200705_TOTA.zip",
+    "kind": "institutional"
+  },
+  {
+    "label": "Copia verificable de los microdatos de Interior · archivo público",
+    "url": "https://raw.githubusercontent.com/JaimeObregon/infoelectoral/main/files/municipales/04200705_TOTA/04040705.DAT",
+    "kind": "encyclopedic"
   }
 ]

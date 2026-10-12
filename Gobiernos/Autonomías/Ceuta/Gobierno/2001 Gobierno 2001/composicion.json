@@ -1,0 +1,26 @@
+{
+  "id": "ceuta-gobierno-2001-02-07",
+  "label": "Gobierno 2001",
+  "name": "Ceuta · Juan Jesús Vivas Lara",
+  "start": "2001-02-07",
+  "end": "2003-06-16",
+  "checkedAt": "2026-10-12",
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-2714",
+  "terms": [
+    {
+      "person": "ceuta-juan-jesus-vivas-lara",
+      "name": "Juan Jesús Vivas Lara",
+      "role": "Presidencia de Ceuta",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-2714",
+      "start": "2001-02-07",
+      "end": "2003-06-16",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento documentado en el BOE; no fecha de retirada personal."
+    }
+  ],
+  "incidents": [
+    "El eje utiliza las fechas de los reales decretos de nombramiento. Elección, publicación y toma de posesión pueden ser posteriores o anteriores; no se equiparan automáticamente.",
+    "Las consejerías de esta etapa todavía requieren contraste de sus nombramientos y relevos; el organigrama identifica únicamente la presidencia documentada."
+  ],
+  "archiveTerms": []
+}
