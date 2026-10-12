@@ -7,7 +7,11 @@ import {
   andaluciaGovernmentChronology,
   andaluciaParliamentChronology,
 } from "./andalucia-model";
-import { catalanTermAt, regionalDates } from "./catalonia-model";
+import {
+  archivedGroups,
+  catalanTermAt,
+  regionalDates,
+} from "./catalonia-model";
 import { findPerson, portraits } from "../../Políticos/interfaz/datos/catalogo";
 import { ownOfficeTerms } from "../../Políticos/interfaz/relaciones";
 import audit from "../revisiones/2026-10-12-andalucia/informe.json";
@@ -52,6 +56,15 @@ it("no convierte los registros históricos de sustituciones en plenos de más de
   for (const p of andaluciaParliaments.slice(1)) {
     expect(p.nominalOnly).toBe(true);
     expect(p.currentOnly).toBe(false);
+    const groups = archivedGroups(p);
+    const members = groups.flatMap((g) => g.members);
+    expect(members.length).toBe(p.label === "Legislatura VIII" ? 108 : 109);
+    expect(new Set(members.map((m) => m.person)).size).toBe(members.length);
+    expect(
+      members.every((m) => p.records.some((r) => r.person === m.person)),
+    ).toBe(true);
+    expect(p.archivedComposition?.source).toBe(p.source);
+    expect(p.archivedComposition?.note).toContain("no fecha esta composición");
     expect(p.records.length).toBeGreaterThan(109);
     expect(p.records.every((t) => t.start === null && t.end === null)).toBe(
       true,
@@ -62,6 +75,21 @@ it("no convierte los registros históricos de sustituciones en plenos de más de
       andaluciaParliamentChronology.some((s) => s.period.id === p.id),
     ).toBe(true);
   }
+});
+
+it("conserva las adscripciones desconocidas y separa los relevos del hemiciclo archivado", () => {
+  const xi = andaluciaParliaments.find((p) => p.label === "Legislatura XI")!;
+  expect(
+    archivedGroups(xi).find((g) => g.name === "Sin grupo publicado")?.members,
+  ).toHaveLength(12);
+  const i = andaluciaParliaments.find((p) => p.label === "Legislatura I")!;
+  expect(i.records.some((m) => m.name.includes("Escuredo"))).toBe(true);
+  expect(
+    archivedGroups(i)
+      .flatMap((g) => g.members)
+      .some((m) => m.name.includes("Escuredo")),
+  ).toBe(false);
+  expect(archivedGroups(andaluciaParliaments[0])).toEqual([]);
 });
 
 it("recoge el relevo de julio en la Mesa y distingue los representantes con voz de los siete cargos electos", () => {

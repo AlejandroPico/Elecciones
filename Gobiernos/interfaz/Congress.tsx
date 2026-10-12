@@ -1,3 +1,4 @@
+import DragRail from "./DragRail";
 import { useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
@@ -128,7 +129,7 @@ export default function Congress({
           </button>
         </div>
       </div>
-      <div
+      <DragRail
         className="government-library"
         aria-label="Biblioteca de legislaturas del Congreso"
       >
@@ -150,7 +151,7 @@ export default function Congress({
             <strong>{leg.label}</strong>
           </button>
         ))}
-      </div>
+      </DragRail>
       {mode === "legislatures" && (
         <div className="congress-executive-filter">
           <select

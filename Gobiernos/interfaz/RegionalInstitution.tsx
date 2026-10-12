@@ -1,3 +1,4 @@
+import DragRail from "./DragRail";
 import { useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
@@ -8,6 +9,7 @@ import { dateLabel } from "./government-model";
 import {
   catalanTermAt,
   catalanGroupsAt,
+  archivedGroups,
   type CatalanTerm,
   type CatalanGovernment,
   type CatalanParliament,
@@ -193,7 +195,7 @@ export default function RegionalInstitution({
           </button>
         </div>
       </div>
-      <div
+      <DragRail
         className="government-library"
         aria-label={`Biblioteca del ${government ? "Gobierno" : "Parlamento"} de ${config.name}`}
       >
@@ -210,7 +212,7 @@ export default function RegionalInstitution({
             <strong>{p.label}</strong>
           </button>
         ))}
-      </div>
+      </DragRail>
       <section className="government-time">
         <div className="time-heading">
           <div>
@@ -324,26 +326,43 @@ export default function RegionalInstitution({
       )}
       {pp && (
         <>
+          {pp.archivedComposition && (
+            <Hemicycle
+              chamber={config.chamber}
+              label={`${pp.label} · composición archivada`}
+              date={current.date}
+              dateCaption="Composición archivada de la legislatura"
+              groups={archivedGroups(pp)}
+              capacity={pp.capacity}
+              openPerson={person}
+              note={`${pp.archivedComposition.note} Distribución esquemática por grupos; no asigna asientos físicos.`}
+            />
+          )}
           {pp.nominalOnly ? (
-            <section className="regional-nominal-archive">
-              <h2>Registro histórico de la legislatura</h2>
-              <p className="small-note">{pp.note}</p>
-              <div className="congress-board-grid">
-                {[
-                  ...new Map(
-                    pp.records.map((m) => [
-                      m.person,
-                      {
-                        ...m,
-                        role: "Registro institucional",
-                        start: null,
-                        end: null,
-                      },
-                    ]),
-                  ).values(),
-                ].map(node)}
-              </div>
-            </section>
+            <details className="senate-senators regional-nominal-archive">
+              <summary>
+                Participantes de la legislatura · incluidos los relevos
+              </summary>
+              <section className="regional-nominal-archive">
+                <h2>Registro histórico de la legislatura</h2>
+                <p className="small-note">{pp.note}</p>
+                <div className="congress-board-grid">
+                  {[
+                    ...new Map(
+                      pp.records.map((m) => [
+                        m.person,
+                        {
+                          ...m,
+                          role: "Registro institucional",
+                          start: null,
+                          end: null,
+                        },
+                      ]),
+                    ).values(),
+                  ].map(node)}
+                </div>
+              </section>
+            </details>
           ) : (
             <Hemicycle
               chamber={config.chamber}

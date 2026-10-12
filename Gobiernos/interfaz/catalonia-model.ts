@@ -30,6 +30,12 @@ export type CatalanParliament = {
   endSource?: string;
   capacity?: number;
   nominalOnly?: boolean;
+  archivedComposition?: {
+    source: string;
+    checkedAt: string;
+    note: string;
+    groups: { name: string; source: string; members: string[] }[];
+  };
   note: string;
   records: CatalanTerm[];
   board: CatalanTerm[];
@@ -138,6 +144,28 @@ export function catalanGroupsAt(
     .map((g) => ({
       ...g,
       members: g.members.sort((a, b) => a.name.localeCompare(b.name, "es")),
+    }))
+    .sort(
+      (a, b) =>
+        b.members.length - a.members.length ||
+        a.name.localeCompare(b.name, "es"),
+    );
+}
+
+/** Una referencia archivada sin fecha nunca sustituye los mandatos diarios. */
+export function archivedGroups(period: CatalanParliament): HemicycleGroup[] {
+  const records = new Map(
+    period.records.map((member) => [member.person, member]),
+  );
+  return (period.archivedComposition?.groups ?? [])
+    .map((group) => ({
+      ...group,
+      id: group.name,
+      label: group.name.replace(/^(?:Grupo Parlamentario |G\.[Pp]\.\s*)/, ""),
+      members: group.members
+        .map((id) => records.get(id))
+        .filter((member): member is CatalanTerm => !!member)
+        .sort((a, b) => a.name.localeCompare(b.name, "es")),
     }))
     .sort(
       (a, b) =>

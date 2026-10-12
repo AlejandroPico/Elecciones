@@ -1,3 +1,4 @@
+import DragRail from "./DragRail";
 import { useEffect, useState } from "react";
 import {
   ArrowUpRight,
@@ -123,7 +124,10 @@ export default function Governments({
           </button>
         </div>
       </div>
-      <div className="government-library" aria-label="Biblioteca de gobiernos">
+      <DragRail
+        className="government-library"
+        aria-label="Biblioteca de gobiernos"
+      >
         {governments.map((g) => (
           <button
             className={g.id === government.id ? "active" : ""}
@@ -134,7 +138,7 @@ export default function Governments({
             <strong>{g.legislature}</strong>
           </button>
         ))}
-      </div>
+      </DragRail>
       <section className="government-time">
         <div className="time-heading">
           <div>

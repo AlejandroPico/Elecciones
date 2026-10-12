@@ -7,6 +7,8 @@ en su formato original, sin recortes ni generación de rostros.
 import collections, concurrent.futures, datetime, hashlib, importlib.util, io, json, pathlib, re, sys, unicodedata
 spec=importlib.util.spec_from_file_location('ad',pathlib.Path(__file__).with_name('consultar-andalucia.py'))
 ad=importlib.util.module_from_spec(spec);spec.loader.exec_module(ad)
+snapshot_spec=importlib.util.spec_from_file_location('snapshot',pathlib.Path(__file__).with_name('documentar-hemiciclos-andalucia.py'))
+snapshot=importlib.util.module_from_spec(snapshot_spec);snapshot_spec.loader.exec_module(snapshot)
 from PIL import Image
 DEST=pathlib.Path('Gobiernos/Autonomías/Andalucía');CACHE=ad.CACHE;CHECKED=ad.CHECKED
 AUDIT=pathlib.Path('Gobiernos/revisiones/2026-10-12-andalucia')
@@ -119,6 +121,7 @@ for leg in range(1,14):
    if 'Comisión' in o['organ'] or 'comisión' in o['organ']:committees[id].append(record)
    else:offices[id].append(record)
  source=ps[0]['listSource'];data={'id':'andalucia-parlamento-'+str(leg),'label':label,'start':starts[leg-1],'end':starts[leg] if leg<13 else None,'checkedAt':CHECKED,'source':source,'chronologySource':chronology,'capacity':109,'currentOnly':leg==13,'nominalOnly':leg<13,'note':'La lista histórica reúne todas las personas que participaron, incluidas las sustituciones. No publica intervalos individuales de escaño: se conserva el registro nominal, sin reconstruir un Pleno simultáneo. Las fechas del selector delimitan la biblioteca por sesiones constitutivas, no por disoluciones.' if leg<13 else 'Composición vigente publicada por el Parlamento, consultada el 12 de octubre de 2026. La pertenencia a un grupo no acredita por sí sola militancia en un partido.','records':records,'board':board,'archiveBoard':board if leg==13 else [],'archiveBoardNote':'Historial fechado de la Mesa de esta legislatura. Los representantes de grupos tienen voz y no voto; se distinguen de los siete cargos electos.','groups':[{'name':name,'source':source,'members':rs} for name,rs in grouped.items()]}
+ if leg<13:data['archivedComposition']=snapshot.composition(data,ps,mapping)
  ad.write(DEST/'Parlamento'/f'{starts[leg-1][:4]} {label}'/'composicion.json',data);parliaments.append(data)
 # Etapas presidenciales: publicación del nombramiento cuando no hay una toma de
 # posesión contrastada; desde 2009 se citan los actos institucionales disponibles.

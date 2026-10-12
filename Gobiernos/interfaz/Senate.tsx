@@ -1,3 +1,4 @@
+import DragRail from "./DragRail";
 import { useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
@@ -158,7 +159,7 @@ export default function Senate({
           </button>
         </div>
       </div>
-      <div
+      <DragRail
         className="government-library"
         aria-label="Biblioteca de legislaturas del Senado"
       >
@@ -179,7 +180,7 @@ export default function Senate({
             <strong>{leg.label}</strong>
           </button>
         ))}
-      </div>
+      </DragRail>
       <section className="government-time">
         <div className="time-heading">
           <div>

@@ -91,15 +91,10 @@
   height: 100%;
   display: block;
   overflow: hidden;
-  touch-action: none;
-  cursor: grab;
-}
-.congress-diagram.dragging {
-  cursor: grabbing;
 }
 .hemicycle-widget {
   width: 100%;
-  aspect-ratio: 1040 / 590;
+  aspect-ratio: 1040 / 550;
   min-width: 0;
   display: flex;
   flex-direction: column;
@@ -110,41 +105,45 @@
   min-height: 0;
   flex: 1;
 }
-.hemicycle-zoom {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 6px;
-  padding: 6px;
-  flex: none;
-}
-.hemicycle-zoom > span {
-  color: var(--muted);
-  font-size: 10px;
-  min-width: 38px;
-  text-align: center;
-  font-variant-numeric: tabular-nums;
-}
-.hemicycle-zoom .icon-button {
-  width: 28px;
-  height: 28px;
-  padding: 0;
+.hemicycle-tiers {
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1;
+  opacity: 0.45;
+  pointer-events: none;
 }
 .congress-position {
   cursor: pointer;
   transition: opacity 0.35s;
   outline: none;
 }
-.congress-position rect {
-  transition: stroke 0.2s;
+.congress-seat {
+  stroke: var(--surface);
+  stroke-width: 0.7;
 }
-.congress-position.selected rect,
-.congress-position:focus rect {
-  stroke: var(--text);
-  stroke-width: 3;
+.congress-seat-detail {
+  fill: none;
+  stroke: var(--surface);
+  stroke-width: 0.8;
+  opacity: 0.7;
+  pointer-events: none;
+}
+.congress-seat-halo {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 1.5;
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+.congress-position.selected .congress-seat-halo,
+.congress-position:focus .congress-seat-halo {
+  opacity: 1;
 }
 .congress-vacancy {
-  fill: var(--line);
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1;
 }
 .congress-total {
   fill: var(--text);
@@ -316,12 +315,10 @@
   .congress-board-grid {
     grid-template-columns: 1fr;
   }
-  .hemicycle-widget {
-    aspect-ratio: 1040 / 660;
-  }
 }
 @media (prefers-reduced-motion: reduce) {
-  .congress-position {
+  .congress-position,
+  .congress-seat-halo {
     transition: none;
   }
 }
