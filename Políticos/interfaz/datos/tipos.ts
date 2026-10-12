@@ -72,6 +72,10 @@ export type Person = {
   valencianOffices?: { title: string; period: string; source: Reference }[];
   valencianGroups?: { title: string; period: string; source: Reference }[];
   valencianCommittees?: { title: string; period: string; source: Reference }[];
+  andalusianMandates?: { title: string; period: string; source: Reference }[];
+  andalusianOffices?: { title: string; period: string; source: Reference }[];
+  andalusianGroups?: { title: string; period: string; source: Reference }[];
+  andalusianCommittees?: { title: string; period: string; source: Reference }[];
 };
 export type PoliticalActivity = {
   state: "active" | "historical" | "unknown";

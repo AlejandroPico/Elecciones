@@ -1,6 +1,8 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.11.1 · 10 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.12.0 · 12 de octubre de 2026.
+
+Andalucía incorpora dieciséis etapas presidenciales de la Junta y las trece legislaturas desde 1982, con 1.602 fichas parlamentarias consultadas y los cargos, grupos, comisiones y fuentes individuales. El Gobierno y los 109 diputados vigentes tienen retrato. La Mesa conserva sus relevos fechados, incluidos los representantes de grupos con voz y sin voto. Comparte navegación, cronología, organigrama y visor parlamentario con las demás comunidades. Los registros históricos sin intervalos individuales se muestran como archivo nominal; no se convierten en composiciones simultáneas. Cobertura y límites en [el archivo andaluz](Gobiernos/Autonomías/Andalucía/README.md).
 
 La Comunitat Valenciana incorpora el Consell y Les Corts desde 1983: catorce etapas presidenciales, once legislaturas y 669 fichas institucionales consultadas. La revisión complementaria fecha las carteras de las doce primeras etapas mediante 95 eventos contrastados del DOGV, incorpora 69 intervalos históricos de la Mesa y recupera 14 de los 18 retratos pendientes. El Consell actual y los 99 diputados vigentes tienen fotografía. Cada mandato, grupo, cargo, comisión y fuente vive en su carpeta correspondiente. Cobertura y límites en [el archivo valenciano](Gobiernos/Autonomías/Comunitat%20Valenciana/README.md).
 
@@ -80,7 +82,7 @@ La distribución es **esquemática**, no un plano de asientos físicos. El plano
 
 `Gobiernos/Congreso/<ordinal> Legislatura/` contiene composiciones y fuentes. La carpeta Constituyente se llama `Legislatura Constituyente`. En cada carpeta de `Políticos/` están `mandatos-congreso.json`, `grupos-congreso.json` y, cuando corresponde, `cargos-congreso.json`. Se contrastaron quince mandatos con variantes de nombre y fechas de nacimiento coincidentes en dos fichas oficiales; la revisión se conserva en `Gobiernos/revisiones/2026-10-08-congreso/`. Los cargos de la Mesa se integran en la única sección personal «Relaciones por cargo».
 
-«Gobiernos autonómicos» ofrece las 17 comunidades y Ceuta y Melilla, con Gobierno y Parlamento (Asamblea en las ciudades). Cataluña, Madrid y la Comunitat Valenciana tienen contenido documentado; los demás territorios conservan sus rutas pendientes. «Cargos e historia» conserva su entrada independiente. El historial permite volver desde una ficha al punto parlamentario que se estaba consultando.
+«Gobiernos autonómicos» ofrece las 17 comunidades y Ceuta y Melilla, con Gobierno y Parlamento (Asamblea en las ciudades). Cataluña, Madrid, la Comunitat Valenciana y Andalucía tienen contenido documentado; los demás territorios conservan sus rutas pendientes. «Cargos e historia» conserva su entrada independiente. El historial permite volver desde una ficha al punto parlamentario que se estaba consultando.
 
 ## Hemiciclos y Cataluña · 0.9
 

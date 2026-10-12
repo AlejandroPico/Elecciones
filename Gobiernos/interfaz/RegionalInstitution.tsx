@@ -111,7 +111,7 @@ export default function RegionalInstitution({
     return (
       <button
         className="government-node"
-        key={member.person + member.role}
+        key={`${member.person}:${member.role}:${member.start ?? member.period}:${member.end}`}
         onClick={() => person(member.person)}
       >
         <div className="government-portrait">
@@ -161,7 +161,7 @@ export default function RegionalInstitution({
     pp?.board.filter((m) =>
       m.observedAt
         ? m.observedAt === current.date
-        : pp.currentOnly || catalanTermAt(m, current.date),
+        : catalanTermAt(m, current.date),
     ) ?? [];
   return (
     <div
@@ -368,9 +368,13 @@ export default function RegionalInstitution({
             <details className="senate-senators">
               <summary>{config.board} · archivo de la legislatura</summary>
               <p className="small-note">
-                Cargos documentados en la publicación institucional de 2024.
-                Incluye relevos; no representa una composición simultánea ni
-                atribuye fechas individuales no publicadas.
+                {pp.archiveBoardNote ?? (
+                  <>
+                    Cargos documentados en la publicación institucional de 2024.
+                    Incluye relevos; no representa una composición simultánea ni
+                    atribuye fechas individuales no publicadas.
+                  </>
+                )}
               </p>
               <div className="congress-board-grid">
                 {pp.archiveBoard.map(node)}

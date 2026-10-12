@@ -1,0 +1,156 @@
+[
+  {
+    "date": "2010-10-20",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/boja/2010/206/boletin.206.pdf#page=90",
+    "label": "Decreto del Presidente 24/2010: cese de Rosa Aguilar, con efectos en el día de su aprobación.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [
+      "Rosa Aguilar Rivero"
+    ],
+    "members": [],
+    "vice": []
+  },
+  {
+    "date": "2010-10-20",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/boja/2010/206/boletin.206.pdf#page=90",
+    "label": "Decreto del Presidente 25/2010: nombramiento de Josefina Cruz, fecha del acto.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [],
+    "members": [
+      {
+        "nameInSource": "Josefina Cruz Villalón",
+        "role": "Consejera de Obras Públicas y Vivienda"
+      }
+    ],
+    "vice": []
+  },
+  {
+    "date": "2015-01-27",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/boja/2015/17/6",
+    "label": "Decreto de la Presidenta 6/2015: suplencias hasta la constitución del nuevo Consejo.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [],
+    "members": [
+      {
+        "nameInSource": "Manuel Jiménez Barrios",
+        "role": "Consejero de la Presidencia; asume temporalmente Administración Local y Relaciones Institucionales"
+      },
+      {
+        "nameInSource": "María Jesús Serrano Jiménez",
+        "role": "Consejera de Medio Ambiente y Ordenación del Territorio; asume temporalmente Fomento y Vivienda"
+      },
+      {
+        "nameInSource": "Luciano Alonso Alonso",
+        "role": "Consejero de Educación, Cultura y Deporte; asume temporalmente Turismo y Comercio"
+      }
+    ],
+    "vice": []
+  },
+  {
+    "date": "2024-05-03",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/eboja/2024/504/BOJA24-504-00001-44326-01_00301274.pdf",
+    "label": "Decreto del Presidente 5/2024: suplencia en Agricultura.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [],
+    "members": [
+      {
+        "nameInSource": "Ramón Fernández-Pacheco Monterreal",
+        "role": "Consejero de Sostenibilidad, Medio Ambiente y Economía Azul; asume temporalmente Agricultura, Pesca, Agua y Desarrollo Rural"
+      }
+    ],
+    "vice": []
+  },
+  {
+    "date": "2025-10-08",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/boja/2025/510/1",
+    "label": "Decreto del Presidente 4/2025: despacho ordinario de Salud tras el cese.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [],
+    "members": [
+      {
+        "nameInSource": "Antonio Sanz Cabello",
+        "role": "Consejero de la Presidencia, Interior, Diálogo Social y Simplificación Administrativa; asume temporalmente Salud y Consumo"
+      }
+    ],
+    "vice": []
+  },
+  {
+    "date": "2022-07-27",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/boja/2022/526/BOJA22-526-00001-12541-01_00265822.pdf",
+    "label": "Corrección de errores del Decreto 11/2022.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [],
+    "members": [
+      {
+        "nameInSource": "Rocío Blanco Eguren",
+        "role": "Consejera de Empleo, Empresas y Trabajo Autónomo"
+      }
+    ],
+    "vice": []
+  },
+  {
+    "date": "2022-08-08",
+    "basis": "Transcripción del acto original y su cláusula de efectos; no se deduce ceremonia de posesión.",
+    "source": "https://www.juntadeandalucia.es/boja/2022/527/1",
+    "label": "Decreto 13/2022: denominaciones corregidas.",
+    "full": false,
+    "ceaseAll": false,
+    "cease": [],
+    "members": [
+      {
+        "nameInSource": "Rocío Blanco Eguren",
+        "role": "Consejera de Empleo, Empresa y Trabajo Autónomo"
+      },
+      {
+        "nameInSource": "María Dolores López Gabarro",
+        "role": "Consejera de Inclusión Social, Juventud, Familias e Igualdad"
+      },
+      {
+        "nameInSource": "Carmen Crespo Díaz",
+        "role": "Consejera de Agricultura, Pesca, Agua y Desarrollo Rural"
+      }
+    ],
+    "vice": []
+  },
+  {
+    "date": "2026-06-03",
+    "source": "https://www.uco.es/servicios/actualidad/noticiasactualidaddia/item/166238-la-universidad-de-cordoba-declara-tres-dias-de-luto-oficial-por-el-fallecimiento-del-exrector-jose-carlos-gomez-villamandos",
+    "label": "Fallecimiento del 2 de junio de 2026; fin exclusivo al día siguiente.",
+    "basis": "Efectos del acto publicados en la fuente; el fallecimiento se conserva con su fecha institucional.",
+    "members": [],
+    "cease": [
+      "José Carlos Gómez Villamandos"
+    ],
+    "full": false,
+    "ceaseAll": false,
+    "vice": []
+  },
+  {
+    "date": "2026-06-03",
+    "source": "https://www.juntadeandalucia.es/boja/2026/510/1",
+    "label": "Decreto del Presidente 7/2026: suplencia de Universidad tras el fallecimiento del titular.",
+    "basis": "Efectos del acto publicados en la fuente; el fallecimiento se conserva con su fecha institucional.",
+    "members": [
+      {
+        "nameInSource": "Carmen Castillo Mena",
+        "role": "Consejera de Desarrollo Educativo y Formación Profesional; asume temporalmente Universidad, Investigación e Innovación"
+      }
+    ],
+    "cease": [],
+    "full": false,
+    "ceaseAll": false,
+    "vice": []
+  }
+]

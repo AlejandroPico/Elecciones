@@ -157,3 +157,14 @@ En la ficha personal, reunir todos los periodos propios en una única sección �
 - `fuentes/consell-historico.json` contiene eventos revisados del DOGV: fecha efectiva, justificación, fuente, integrantes, ceses y competencias complementarias. Una reasignación completa cierra la composición anterior; una modificación parcial afecta únicamente a las personas expresas. Preservar la continuidad en funciones entre etapas presidenciales. El fallecimiento requiere una fuente que lo acredite, no el posterior nombramiento de un sucesor.
 - `integrar-cronologia-valencia.py` se ejecuta desde la raíz y consume las transcripciones publicadas; no depende de la caché. Actualiza composiciones y cargos en las carpetas personales, conservando mandatos y fuentes anteriores. `incorporar-valencia.py` lo aplica al terminar. Toda modificación de eventos exige volver a ejecutar la integración y comprobar límites, fuentes, vacantes e idempotencia.
 - Las fotografías complementarias usan `retrato-valencia-complementario.<extensión>` en la carpeta personal y `retrato.json` conserva origen, crédito y condiciones publicadas. El lector de pruebas debe admitir los mismos nombres que la compilación. `fuentes/retratos-complementados.json` registra la comprobación individual; las ausencias reales permanecen en la auditoría.
+
+
+## Andalucía · 0.12
+
+Andalucía utiliza `Gobiernos/Autonomías/Andalucía/`, con Gobierno, Parlamento y fuentes, y las secciones personales `mandatos-andalucia.json`, `grupos-andalucia.json`, `cargos-andalucia.json` y `comisiones-andalucia.json`. No colocar contenido biográfico en `src`. La interfaz regional reutiliza el componente compartido; las rutas y el historial mantienen el mismo patrón de las otras comunidades.
+
+El archivo histórico reúne sustituciones y no publica intervalos de escaño: las legislaturas I–XII se presentan como archivo nominal. La XIII es una instantánea vigente y no se proyecta retrospectivamente. Las fechas de las Mesas sí se conservan individualmente; filtrar sus intervalos también cuando los diputados proceden de una instantánea. Separar los representantes con voz y sin voto de los cargos electos.
+
+Las fechas documentales de las etapas presidenciales antiguas no son tomas de posesión deducidas. Leer la cláusula de efectos de cada decreto y conservar suplencias y correcciones de carteras. El cese solo de vicepresidencia no elimina automáticamente una consejería; el cese conjunto sí. El fallecimiento documentado impide prolongar el cargo, aunque la lista de nombramientos se haya publicado antes.
+
+Conservar los retratos originales y su procedencia, sin generar rostros ni sustituir recursos institucionales anteriores. No deducir afiliación por grupo ni jubilación por mandato cerrado. Las discrepancias biográficas y los retratos pendientes permanecen en el informe de revisión. Ver cobertura y precisiones en `Gobiernos/Autonomías/Andalucía/README.md`.

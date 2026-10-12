@@ -535,6 +535,40 @@ export default function Archive({
                     </ol>
                   </article>
                 )}
+                {!!person.andalusianGroups?.length && (
+                  <article>
+                    <h3>Adscripciones en el Parlamento de Andalucía</h3>
+                    <ol className="political-timeline">
+                      {person.andalusianGroups.map((term) => (
+                        <li
+                          key={`${term.title}-${term.period}-${term.source.url}`}
+                        >
+                          <span>{term.period}</span>
+                          <h4>{term.title}</h4>
+                          <Sources sources={[term.source]} />
+                        </li>
+                      ))}
+                    </ol>
+                  </article>
+                )}
+                {!!person.andalusianCommittees?.length && (
+                  <article>
+                    <details className="regional-committees">
+                      <summary>Comisiones del Parlamento de Andalucía</summary>
+                      <ol className="political-timeline">
+                        {person.andalusianCommittees.map((term) => (
+                          <li
+                            key={`${term.title}-${term.period}-${term.source.url}`}
+                          >
+                            <span>{term.period}</span>
+                            <h4>{term.title}</h4>
+                            <Sources sources={[term.source]} />
+                          </li>
+                        ))}
+                      </ol>
+                    </details>
+                  </article>
+                )}
                 {!!person.valencianGroups?.length && (
                   <article>
                     <h3>Adscripciones en Les Corts</h3>

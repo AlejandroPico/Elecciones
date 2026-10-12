@@ -1,12 +1,12 @@
 {
   "state": "active",
-  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
-  "checkedAt": "2026-10-08",
+  "reason": "Participación institucional vigente documentada por la fuente.",
+  "checkedAt": "2026-10-12",
   "sources": [
     {
-      "label": "Juanma Moreno · Wikipedia",
-      "url": "https://es.wikipedia.org/wiki/Juanma_Moreno",
-      "kind": "encyclopedic"
+      "label": "Andalucía · fuente institucional",
+      "url": "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/composicionyfuncionamiento/memoriadecomposiciones.do?accion=Ver+resultados&grupo=3&legislatura=13&modo=confoto&organo=1001&seleccion=diputadosydiputadas&subseleccion=grupo&subsubseleccion=364",
+      "kind": "institutional"
     }
   ]
 }

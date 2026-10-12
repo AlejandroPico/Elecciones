@@ -1,11 +1,16 @@
 {
-  "birthYear": 1976,
-  "birthNote": "La ficha del Parlament publica el año, sin fecha completa.",
   "personalSources": [
     {
       "label": "Parlament de Catalunya · ficha oficial",
       "url": "https://www.parlament.cat/web/composicio/diputats-fitxa/index.html?p_codi=2183&p_legislatura=13",
       "kind": "institutional"
+    },
+    {
+      "label": "Parlamento · memoria histórica, página 400",
+      "url": "https://www.parlamentodeandalucia.es/documents/20121/397974/memoria_XXVaniversario.pdf/b2ef6f02-03ef-30c3-e70a-bc3cece5d8b0?t=1675331357713#page=400",
+      "kind": "institutional"
     }
-  ]
+  ],
+  "birthDate": "1941-04-09",
+  "birthPlace": "La Caridad (Asturias)"
 }

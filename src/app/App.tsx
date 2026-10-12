@@ -921,7 +921,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.8.0</dd>
+                  <dd>0.12.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -929,7 +929,7 @@ export default function App() {
                 </div>
                 <div>
                   <dt>Actualización</dt>
-                  <dd>8 de octubre de 2026</dd>
+                  <dd>12 de octubre de 2026</dd>
                 </div>
               </dl>
               <nav className="about-links">

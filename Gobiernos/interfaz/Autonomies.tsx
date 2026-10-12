@@ -5,6 +5,7 @@ export { territories };
 const Catalonia = lazy(() => import("./Catalonia"));
 const Madrid = lazy(() => import("./Madrid"));
 const Valencia = lazy(() => import("./Valencia"));
+const Andalucia = lazy(() => import("./Andalucia"));
 export function autonomyEntry(
   region: string,
   section: "government" | "parliament",
@@ -141,7 +142,9 @@ export default function Autonomies({
         ? Madrid
         : route?.territory.id === "valencia"
           ? Valencia
-          : undefined;
+          : route?.territory.id === "andalucia"
+            ? Andalucia
+            : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">

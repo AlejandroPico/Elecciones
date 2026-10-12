@@ -34,6 +34,7 @@ export type CatalanParliament = {
   records: CatalanTerm[];
   board: CatalanTerm[];
   archiveBoard?: CatalanTerm[];
+  archiveBoardNote?: string;
   groups: { name: string; source: string; members: CatalanTerm[] }[];
 };
 export const catalanGovernments = Object.values(
