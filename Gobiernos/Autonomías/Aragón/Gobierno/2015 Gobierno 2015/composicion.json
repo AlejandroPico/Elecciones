@@ -1,0 +1,117 @@
+{
+  "id": "aragon-gobierno-2015-07-03",
+  "label": "Gobierno 2015",
+  "start": "2015-07-03",
+  "end": "2019-08-02",
+  "checkedAt": "2026-10-16",
+  "name": "Aragón · Francisco Javier Lambán Montañés",
+  "source": "https://boe.es/boe/dias/2015/07/04/pdfs/BOE-A-2015-7461.pdf",
+  "terms": [
+    {
+      "person": "senado-19984",
+      "name": "Francisco Javier Lambán Montañés",
+      "role": "Presidencia de Aragón",
+      "level": "president",
+      "start": "2015-07-03",
+      "end": "2019-08-02",
+      "source": "https://boe.es/boe/dias/2015/07/04/pdfs/BOE-A-2015-7461.pdf",
+      "endBasis": "Siguiente marco presidencial publicado; no acredita por sí solo la fecha de cese."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "aragon-maria-pilar-ventura-contreras",
+      "name": "María Pilar Ventura Contreras",
+      "role": "Consejera de Departamento de Sanidad",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2018-07-18 — 2019-07-06"
+    },
+    {
+      "person": "congreso-274-9",
+      "name": "Marta Gastón Menal",
+      "role": "Consejera de Departamento de Economía, Industria y Empleo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2019-07-06"
+    },
+    {
+      "person": "congreso-164-6",
+      "name": "Fernando Gimeno Marín",
+      "role": "Consejero de Departamento de Hacienda y Administración Pública",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2019-07-06 — 2019-07-06"
+    },
+    {
+      "person": "aragon-joaquin-olona-blasco",
+      "name": "Joaquín Olona Blasco",
+      "role": "Consejero de Departamento de Desarrollo Rural y Sostenibilidad",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2019-07-06"
+    },
+    {
+      "person": "pilar-alegria",
+      "name": "María del Pilar Alegría Continente",
+      "role": "Consejera de Departamento de Innovación, Investigación y Universidad",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2019-06-15"
+    },
+    {
+      "person": "aragon-maria-victoria-broto-cosculluela",
+      "name": "María Victoria Broto Cosculluela",
+      "role": "Consejera de Departamento de Ciudadanía y Derechos Sociales",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2019-07-06"
+    },
+    {
+      "person": "congreso-19-10",
+      "name": "Vicente Guillén Izquierdo",
+      "role": "Consejero de Departamento de Presidencia",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2019-07-06"
+    },
+    {
+      "person": "aragon-jose-luis-soro-domingo",
+      "name": "José Luis Soro Domingo",
+      "role": "Consejero de Departamento de Vertebración del Territorio, Movilidad y Vivienda",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2019-07-06"
+    },
+    {
+      "person": "senado-20016",
+      "name": "María Teresa Pérez Esteban",
+      "role": "Consejera de Departamento de Educación, Cultura y Deporte",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-04-06 — 2019-07-06"
+    },
+    {
+      "person": "aragon-sebastian-celaya-perez",
+      "name": "Sebastián Celaya Pérez",
+      "role": "Consejero de Departamento de Sanidad",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IX Legislatura 2015/2019 · 2015-07-06 — 2018-07-18"
+    }
+  ],
+  "incidents": [
+    "El marco presidencial utiliza la fecha del decreto de nombramiento; no equivale a la toma de posesión. Las consejerías del archivo no se atribuyen simultaneidad ni fechas individuales desconocidas."
+  ],
+  "currentOnly": false
+}

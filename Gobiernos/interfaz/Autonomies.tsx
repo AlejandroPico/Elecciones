@@ -11,6 +11,8 @@ const Ceuta = lazy(() => import("./Ceuta"));
 const Melilla = lazy(() => import("./Melilla"));
 const CastillaLaMancha = lazy(() => import("./CastillaLaMancha"));
 const CastillaLeon = lazy(() => import("./CastillaLeon"));
+const Aragon = lazy(() => import("./Aragon"));
+const AutonomyMap = lazy(() => import("./AutonomyMap"));
 export function autonomyEntry(
   region: string,
   section: "government" | "parliament",
@@ -27,9 +29,13 @@ export function readAutonomyEntry(id?: string) {
 export function AutonomyMenu({
   selected,
   openSection,
+  openOverview,
+  active,
 }: {
   selected?: string;
   openSection: (id: string) => void;
+  openOverview: () => void;
+  active: boolean;
 }) {
   const route = readAutonomyEntry(selected);
   const [open, setOpen] = useState(!!route);
@@ -46,9 +52,13 @@ export function AutonomyMenu({
   return (
     <div className="navigation-item autonomy-menu">
       <button
-        className={route ? "active" : ""}
+        className={active ? "active" : ""}
         aria-expanded={open}
-        onClick={() => setOpen(!open)}
+        aria-current={active && !route ? "page" : undefined}
+        onClick={() => {
+          setOpen(!open);
+          openOverview();
+        }}
       >
         <Landmark size={17} />
         <span>Gobiernos autonómicos</span>
@@ -159,7 +169,9 @@ export default function Autonomies({
                     ? CastillaLaMancha
                     : route?.territory.id === "castilla-y-leon"
                       ? CastillaLeon
-                      : undefined;
+                      : route?.territory.id === "aragon"
+                        ? Aragon
+                        : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">
@@ -183,6 +195,16 @@ export default function Autonomies({
             openPerson={openPerson}
             active={active}
           />
+        </Suspense>
+      ) : !route ? (
+        <Suspense
+          fallback={
+            <span className="sr-only" role="status">
+              Cargando mapa autonómico
+            </span>
+          }
+        >
+          <AutonomyMap openPerson={openPerson} />
         </Suspense>
       ) : (
         <p className="small-note">Contenido pendiente de incorporar.</p>

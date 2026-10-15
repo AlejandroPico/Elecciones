@@ -47,6 +47,10 @@ La ficha de Pablo Casado incorpora también el procedimiento de información pre
 
 ## Actividad y archivo histórico
 
+La revisión de Aragón del 16 de octubre de 2026 añade 413 identidades y 373 retratos procedentes de fichas institucionales. Conserva todos los IDs anteriores y completa mandatos, grupos, formación breve y cargos propios en las carpetas personales. Se consultaron las doce legislaturas de las Cortes y los organigramas oficiales de sus gobiernos. Las 470 fichas parlamentarias responden correctamente; los retratos que no publica la fuente permanecen identificados en la auditoría. Los archivos nominales y las composiciones se distinguen para no contar sustitutos simultáneamente ni atribuir afiliaciones a partir de un grupo.
+
+El mapa autonómico enlaza las diecinueve presidencias con estas mismas identidades y fotografías; no crea otro catálogo personal. La fecha se presenta como nombramiento del mandato actual, con su decreto enlazado. `Gobiernos/Autonomías/Mapa/` conserva la instantánea y su procedencia.
+
 Personas y partidos conservan todas sus fichas. El orden principal es actividad acreditada, actividad por confirmar y archivo histórico; el orden secundario elegido se aplica dentro de cada grupo. Los filtros permiten consultar los tres estados. No usar edad, ausencia de fotografía, inscripción registral ni fin de una legislatura como prueba de retirada. Un fallecimiento o una disolución documentados sí acreditan el estado histórico. La actividad parlamentaria inmediatamente anterior a una disolución acredita participación reciente, no un escaño vigente tras ella.
 
 `actividad.json` en la carpeta propia conserva `{state, reason, checkedAt, sources}`. Estados: `active`, `historical`, `unknown`. Toda afirmación de actividad actual necesita fuentes individuales o institucionales y fecha de consulta. Una trayectoria cerrada no acredita retirada y queda por confirmar si no hay evidencia adicional. Una trayectoria con periodo abierto sin contraste reciente queda por confirmar. La ausencia de clasificación no elimina ninguna ficha.

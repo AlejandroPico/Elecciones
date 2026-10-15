@@ -1,0 +1,117 @@
+{
+  "id": "aragon-gobierno-2003-07-03",
+  "label": "Gobierno 2003",
+  "start": "2003-07-03",
+  "end": "2007-07-05",
+  "checkedAt": "2026-10-16",
+  "name": "Aragón · Marcelino Iglesias Ricou",
+  "source": "https://boe.es/boe/dias/2003/07/04/pdfs/A26101-26101.pdf",
+  "terms": [
+    {
+      "person": "senado-15045",
+      "name": "Marcelino Iglesias Ricou",
+      "role": "Presidencia de Aragón",
+      "level": "president",
+      "start": "2003-07-03",
+      "end": "2007-07-05",
+      "source": "https://boe.es/boe/dias/2003/07/04/pdfs/A26101-26101.pdf",
+      "endBasis": "Siguiente marco presidencial publicado; no acredita por sí solo la fecha de cese."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "congreso-19-0",
+      "name": "José Angel Biel Rivera",
+      "role": "Vicepresidente y consejero de Presidencia y Relaciones Institucionales",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "congreso-42-5",
+      "name": "Javier Velasco Rodríguez",
+      "role": "Consejero de Obras Públicas, Urbanismo y Transportes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "senado-10264",
+      "name": "Gonzalo Arguilé Laguarta",
+      "role": "Consejero de Agricultura y Alimentación",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-luisa-maria-noeno-ceamanos",
+      "name": "Luisa María Noeno Ceamanos",
+      "role": "Consejera de Salud y Consumo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-alberto-larraz-vileta",
+      "name": "Alberto Larraz Vileta",
+      "role": "Consejero de Economía, Hacienda y Empleo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-jose-arturo-aliaga-lopez",
+      "name": "José Arturo Aliaga López",
+      "role": "Consejero de Industria, Comercio y Turismo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-maria-eva-almunia-badia",
+      "name": "María Eva Almunia Badía",
+      "role": "Consejera de Educación, Cultura y Deporte",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-alfredo-valeriano-bone-pueyo",
+      "name": "Alfredo Valeriano Boné Pueyo",
+      "role": "Consejero de Medio Ambiente",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-angela-abos-ballarin",
+      "name": "Ángela Abós Ballarín",
+      "role": "Consejera de Ciencia, Tecnología y Universidad",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-juan-miguel-ferrer-gorriz",
+      "name": "Juan Miguel Ferrer Górriz",
+      "role": "Consejero de Servicios Sociales y Familia",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "VI Legislatura 2003/2007 · intervalo individual no publicado"
+    }
+  ],
+  "incidents": [
+    "El marco presidencial utiliza la fecha del decreto de nombramiento; no equivale a la toma de posesión. Las consejerías del archivo no se atribuyen simultaneidad ni fechas individuales desconocidas."
+  ],
+  "currentOnly": false
+}

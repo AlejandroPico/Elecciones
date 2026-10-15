@@ -1,0 +1,135 @@
+{
+  "id": "aragon-gobierno-1987-07-27",
+  "label": "Gobierno 1987",
+  "start": "1987-07-27",
+  "end": "1991-07-11",
+  "checkedAt": "2026-10-16",
+  "name": "Aragón · Hipólito Gómez de las Roces",
+  "source": "https://www.boe.es/boe/dias/1987/07/30/pdfs/A23354-23354.pdf",
+  "terms": [
+    {
+      "person": "congreso-349-3",
+      "name": "Hipólito Gómez de las Roces",
+      "role": "Presidencia de Aragón",
+      "level": "president",
+      "start": "1987-07-27",
+      "end": "1991-07-11",
+      "source": "https://www.boe.es/boe/dias/1987/07/30/pdfs/A23354-23354.pdf",
+      "endBasis": "Siguiente marco presidencial publicado; no acredita por sí solo la fecha de cese."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "congreso-19-0",
+      "name": "José Angel Biel Rivera",
+      "role": "Consejero de Presidencia y Relaciones Institucionales",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-ramon-alfonso-galianas",
+      "name": "Ramón Alfonso Galianas",
+      "role": "Consejero de Economía",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1987-04-04 — 1988-11-18"
+    },
+    {
+      "person": "aragon-antonio-laguarta-laguarta",
+      "name": "Antonio Laguarta Laguarta",
+      "role": "Consejero de Economía",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1988-11-18 — 1989-03-13"
+    },
+    {
+      "person": "congreso-64-10",
+      "name": "Santiago Lanzuela Marina",
+      "role": "Consejero de Economía",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1989-03-13 — 1991-11-04"
+    },
+    {
+      "person": "aragon-jose-maria-bescos-ramon",
+      "name": "Jose Maria Bescos Ramon",
+      "role": "Consejero de Hacienda",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-joaquin-maggioni-casadevall",
+      "name": "Joaquin Maggioni Casadevall",
+      "role": "Consejero de Ordenación Territorial, Obras Públicas y Transportes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-javier-alvo-aguado",
+      "name": "Javier Alvo Aguado",
+      "role": "Consejero de Agricultura, Ganadería y Montes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1987-08-04 — 1989-03-13"
+    },
+    {
+      "person": "aragon-jose-urbieta-gale",
+      "name": "José Urbieta Gale",
+      "role": "Consejero de Agricultura, Ganadería y Montes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1989-03-13 — fin no publicado"
+    },
+    {
+      "person": "congreso-308-7",
+      "name": "Luis Acín Boned",
+      "role": "Consejero de Industria, Comercio y Turismo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-ana-maria-cortes-navarro",
+      "name": "Ana María Cortés Navarro",
+      "role": "Consejera de Sanidad, Bienestar Social y Trabajo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-dario-vidal-llisterri",
+      "name": "Darío Vidal Llisterri",
+      "role": "Consejero de Cultura y Educación",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1987-08-04 — 1988-11-18"
+    },
+    {
+      "person": "aragon-enrique-calvo-cabello",
+      "name": "Enrique Calvo Cabello",
+      "role": "Consejero de Cultura y Educación",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "II Legislatura 1987/1991 · 1988-11-17 — fin no publicado"
+    }
+  ],
+  "incidents": [
+    "El marco presidencial utiliza la fecha del decreto de nombramiento; no equivale a la toma de posesión. Las consejerías del archivo no se atribuyen simultaneidad ni fechas individuales desconocidas."
+  ],
+  "currentOnly": false
+}

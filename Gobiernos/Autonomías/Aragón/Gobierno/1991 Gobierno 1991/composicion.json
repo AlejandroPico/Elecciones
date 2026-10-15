@@ -1,0 +1,99 @@
+{
+  "id": "aragon-gobierno-1991-07-11",
+  "label": "Gobierno 1991",
+  "start": "1991-07-11",
+  "end": "1993-09-16",
+  "checkedAt": "2026-10-16",
+  "name": "Aragón · Emilio Eiroa García",
+  "source": "https://boe.es/boe/dias/1991/07/12/pdfs/A23248-23248.pdf",
+  "terms": [
+    {
+      "person": "senado-10323",
+      "name": "Emilio Eiroa García",
+      "role": "Presidencia de Aragón",
+      "level": "president",
+      "start": "1991-07-11",
+      "end": "1993-09-16",
+      "source": "https://boe.es/boe/dias/1991/07/12/pdfs/A23248-23248.pdf",
+      "endBasis": "Siguiente marco presidencial publicado; no acredita por sí solo la fecha de cese."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "congreso-19-0",
+      "name": "José Angel Biel Rivera",
+      "role": "Consejero de Presidencia y Relaciones Institucionales",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "congreso-64-10",
+      "name": "Santiago Lanzuela Marina",
+      "role": "Consejero de Economía y Hacienda",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "congreso-308-7",
+      "name": "Luis Acín Boned",
+      "role": "Consejero de Ordenación Territorial, Obras Públicas y Transportes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-jose-urbieta-gale",
+      "name": "José Urbieta Gale",
+      "role": "Consejero de Agricultura, Ganadería y Montes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "senado-11121",
+      "name": "Rafael Zapatero González",
+      "role": "Consejero de Industria, Comercio y Turismo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-fernando-labena-gallizo",
+      "name": "Fernando Labena Gallizo",
+      "role": "Consejero de Sanidad, Bienestar Social y Trabajo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-blanca-blasco-nogues",
+      "name": "Blanca Blasco Nogues",
+      "role": "Consejera de Cultura y Educación",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-jose-alberto-garcia-atance",
+      "name": "José Alberto García-Atance",
+      "role": "Consejero de Asuntos de la Comunidad Europea",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "III Legislatura 1991/1993 · intervalo individual no publicado"
+    }
+  ],
+  "incidents": [
+    "El marco presidencial utiliza la fecha del decreto de nombramiento; no equivale a la toma de posesión. Las consejerías del archivo no se atribuyen simultaneidad ni fechas individuales desconocidas."
+  ],
+  "currentOnly": false
+}

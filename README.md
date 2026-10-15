@@ -1,6 +1,10 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.15.0 · 15 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.16.0 · 16 de octubre de 2026.
+
+Aragón incorpora las doce legislaturas de sus Cortes y catorce etapas presidenciales, con 470 fichas individuales consultadas. La composición archivada conserva 66 escaños en la I legislatura y 67 en las siguientes, separada del registro de sustituciones. El Gobierno vigente contiene diez titulares; las consejerías históricas proceden del organigrama oficial de Aragón Open Data. Se añaden 413 personas y 373 retratos sin retirar identidades anteriores. Véanse [cobertura y fuentes de Aragón](Gobiernos/Autonomías/Arag%C3%B3n/README.md).
+
+«Gobiernos autonómicos» abre ahora un mapa propio y mantiene el desplegable lateral. Las 50 provincias y Ceuta y Melilla toman el color del partido de la presidencia de su comunidad o ciudad. Cada contorno permite consultar foto, nombre y nombramiento, con enlace a la ficha personal y regreso mediante el historial. Los límites detallados proceden del IGN; Canarias utiliza una inserción y las ciudades se amplían. Los países vecinos se muestran atenuados. [Datos, cartografía y licencias](Gobiernos/Autonomías/Mapa/README.md).
 
 Castilla-La Mancha y Castilla y León incorporan Gobierno y Cortes con la presentación compartida, cronología, filtros y fichas enlazadas. Se consultan las once legislaturas castellanomanchegas (553 fichas de legislatura) y las doce castellanas y leonesas (1.114 fichas), con 33 y 82 miembros en las composiciones vigentes. Los doce y quince nombramientos presidenciales se contrastan con el BOE y el dosier del Senado. Los gabinetes actuales se limitan a la fecha de consulta; los cuadros históricos conservan fuentes primarias y complementos enciclopédicos identificados, sin fingir una reconstrucción diaria completa. Cobertura e incidencias en los archivos de [Castilla-La Mancha](Gobiernos/Autonomías/Castilla-La%20Mancha/README.md) y [Castilla y León](Gobiernos/Autonomías/Castilla%20y%20León/README.md).
 

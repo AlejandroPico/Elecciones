@@ -1,0 +1,99 @@
+{
+  "id": "aragon-gobierno-1983-05-30",
+  "label": "Gobierno 1983",
+  "start": "1983-05-30",
+  "end": "1987-07-27",
+  "checkedAt": "2026-10-16",
+  "name": "Aragón · Santiago Marraco Solana",
+  "source": "https://www.boe.es/boe/dias/1983/06/03/pdfs/A15502-15502.pdf",
+  "terms": [
+    {
+      "person": "congreso-32-2",
+      "name": "Santiago Marraco Solana",
+      "role": "Presidencia de Aragón",
+      "level": "president",
+      "start": "1983-05-30",
+      "end": "1987-07-27",
+      "source": "https://www.boe.es/boe/dias/1983/06/03/pdfs/A15502-15502.pdf",
+      "endBasis": "Siguiente marco presidencial publicado; no acredita por sí solo la fecha de cese."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "aragon-andres-cuartero-moreno",
+      "name": "Andrés Cuartero Moreno",
+      "role": "Consejero de Presidencia y Relaciones Institucionales",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · intervalo individual no publicado"
+    },
+    {
+      "person": "senado-11725",
+      "name": "José Antonio Biescas Ferrer",
+      "role": "Consejero de Economía y Hacienda",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-amador-ortiz-menarguez",
+      "name": "Amador Ortiz Menárguez",
+      "role": "Consejero de Urbanismo, obras Públicas y Transportes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-enrique-lopez-dominguez",
+      "name": "Enrique Lopez Dominguez",
+      "role": "Consejero de Agricultura, Ganadería y Montes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-eulogio-malo-mur",
+      "name": "Eulogio Malo Mur",
+      "role": "Consejero de Industria, Comercio y Turismo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · 1983-06-07 — 1985-07-04"
+    },
+    {
+      "person": "aragon-antonio-sierra-perez",
+      "name": "Antonio Sierra Perez",
+      "role": "Consejero de Industria, Comercio y Turismo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · 1983-07-04 — fin no publicado"
+    },
+    {
+      "person": "congreso-66-9",
+      "name": "Alfredo Francisco Javier Arola Blanquet",
+      "role": "Consejero de Sanidad, Bienestar Social y Trabajo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-jose-ramon-bada-panillo",
+      "name": "José Ramón Bada Panillo",
+      "role": "Consejero de Cultura y Educación",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "I Legislatura 1983/1987 · intervalo individual no publicado"
+    }
+  ],
+  "incidents": [
+    "El marco presidencial utiliza la fecha del decreto de nombramiento; no equivale a la toma de posesión. Las consejerías del archivo no se atribuyen simultaneidad ni fechas individuales desconocidas."
+  ],
+  "currentOnly": false
+}

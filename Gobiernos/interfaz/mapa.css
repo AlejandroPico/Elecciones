@@ -1,0 +1,207 @@
+.autonomy-map {
+  width: 100%;
+}
+.map-caption {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  padding: 2px 0 0;
+}
+.map-caption > :first-child {
+  color: var(--text);
+}
+.political-map {
+  display: block;
+  width: 100%;
+  max-height: calc(100dvh - 205px);
+  min-height: 430px;
+  overflow: visible;
+  margin: 0 auto;
+}
+.map-context {
+  fill: var(--line);
+  stroke: var(--bg);
+  stroke-width: 0.5;
+  pointer-events: none;
+  opacity: 0.62;
+}
+.map-country-labels {
+  fill: var(--subtle);
+  font-size: 13px;
+  letter-spacing: 2px;
+  pointer-events: none;
+}
+.map-small-label {
+  font-size: 10px;
+  letter-spacing: 0.6px;
+}
+.map-provinces path,
+.map-province-raised {
+  stroke: var(--bg);
+  stroke-width: 0.85;
+  stroke-linejoin: round;
+  fill-rule: evenodd;
+}
+.map-provinces path {
+  fill-opacity: 0.9;
+}
+.map-province-raised {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: province-lift 220ms ease-out both;
+  filter: drop-shadow(0 5px 4px #0005);
+  pointer-events: none;
+}
+@keyframes province-lift {
+  from {
+    transform: translateY(0) scale(1);
+  }
+  to {
+    transform: translateY(-4px) scale(1.025);
+  }
+}
+.map-hits path {
+  fill: transparent;
+  stroke: transparent;
+  stroke-width: 1;
+  cursor: pointer;
+  outline: none;
+  fill-rule: evenodd;
+}
+.map-hits path:focus-visible {
+  stroke: var(--text);
+  stroke-width: 2;
+  stroke-dasharray: 3 2;
+}
+.map-insets {
+  fill: var(--muted);
+  font-size: 12px;
+  letter-spacing: 1px;
+  pointer-events: none;
+}
+.map-insets path {
+  stroke: var(--line);
+  stroke-width: 1;
+  fill: none;
+}
+.map-footer {
+  border-top: 1px solid var(--line);
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding-top: 16px;
+  align-items: start;
+}
+.map-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 22px;
+  font-size: 0.74rem;
+  color: var(--muted);
+}
+.map-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.map-legend i {
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+}
+.map-sources {
+  font-size: 0.7rem;
+  color: var(--muted);
+  max-width: 410px;
+}
+.map-sources summary {
+  cursor: pointer;
+  text-align: right;
+}
+.map-sources p {
+  line-height: 1.7;
+}
+.map-sources ul {
+  padding-left: 15px;
+  line-height: 1.9;
+}
+.map-person {
+  position: fixed;
+  z-index: 60;
+  left: 0;
+  top: 0;
+  width: min(370px, calc(100vw - 24px));
+  display: grid;
+  grid-template-columns: 78px minmax(0, 1fr);
+  gap: 15px;
+  padding: 13px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: 0 10px 35px #0003;
+  pointer-events: none;
+}
+.map-person-photo {
+  height: 104px;
+  overflow: hidden;
+  background: var(--accent-soft);
+}
+.map-person-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+}
+.map-person > div:last-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+}
+.map-person small {
+  font-size: 0.64rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
+.map-person strong {
+  font-size: 0.9rem;
+  font-weight: 550;
+  line-height: 1.35;
+}
+.map-person span,
+.map-person time {
+  font-size: 0.68rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+@media (max-width: 720px) {
+  .political-map {
+    min-height: 0;
+    max-height: none;
+    margin: 18px 0 12px;
+  }
+  .map-caption {
+    flex-direction: column;
+    gap: 5px;
+    font-size: 0.7rem;
+  }
+  .map-footer {
+    flex-direction: column;
+  }
+  .map-sources summary {
+    text-align: left;
+  }
+  .map-person {
+    grid-template-columns: 64px minmax(0, 1fr);
+  }
+  .map-person-photo {
+    height: 88px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .map-province-raised {
+    animation: none;
+    transform: none;
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-16",
+  "projection": "Lambert conformal cónica esférica; paralelos 35 y 43; meridiano -3.5. Inserciones con encuadre propio.",
+  "maximumSimplification": 0.075,
+  "viewBox": "0 0 1100 850",
+  "provinces": {
+    "source": "https://www.ign.es/wfs-inspire/unidades-administrativas?service=WFS&version=2.0.0&request=GetFeature&typeNames=au%3AAdministrativeUnit&count=100&outputFormat=application%2Fgeo%2Bjson&srsName=EPSG%3A4258&filter=%3Cfes%3AFilter+xmlns%3Afes%3D%22http%3A%2F%2Fwww.opengis.net%2Ffes%2F2.0%22+xmlns%3Aau%3D%22http%3A%2F%2Finspire.ec.europa.eu%2Fschemas%2Fau%2F4.0%22+xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%3Cfes%3APropertyIsEqualTo%3E%3Cfes%3AValueReference%3Eau%3AnationalLevel%2F%40xlink%3Ahref%3C%2Ffes%3AValueReference%3E%3Cfes%3ALiteral%3Ehttps%3A%2F%2Finspire.ec.europa.eu%2Fcodelist%2FAdministrativeHierarchyLevel%2F3rdOrder%3C%2Ffes%3ALiteral%3E%3C%2Ffes%3APropertyIsEqualTo%3E%3C%2Ffes%3AFilter%3E",
+    "credit": "© Instituto Geográfico Nacional de España",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "catalog": "https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=12408588",
+    "sha256": "e1743dbf69598224411dda9585f608b0ff6d7aad9864d0af82992d0e15938468"
+  },
+  "neighbours": {
+    "source": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_0_countries.geojson",
+    "credit": "Natural Earth",
+    "license": "Dominio público",
+    "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255"
+  }
+}

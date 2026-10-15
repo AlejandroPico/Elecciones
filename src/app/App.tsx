@@ -416,7 +416,9 @@ export default function App() {
             </div>
           ))}
           <AutonomyMenu
+            active={view === "autonomies"}
             selected={view === "autonomies" ? archiveEntry?.id : undefined}
+            openOverview={() => openView("autonomies")}
             openSection={(id) => openEntry({ kind: "autonomy", id })}
           />
         </ScrollNavigation>
@@ -922,7 +924,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.15.0</dd>
+                  <dd>0.16.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -930,7 +932,7 @@ export default function App() {
                 </div>
                 <div>
                   <dt>Actualización</dt>
-                  <dd>12 de octubre de 2026</dd>
+                  <dd>16 de octubre de 2026</dd>
                 </div>
               </dl>
               <nav className="about-links">

@@ -3,5 +3,20 @@
     "label": "Congreso de los Diputados · ficha individual",
     "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=308&idLegislatura=VII",
     "kind": "institutional"
+  },
+  {
+    "label": "Miembro de las Cortes de Aragón",
+    "url": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=284",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejero de Industria, Comercio y Turismo",
+    "url": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejero de Ordenación Territorial, Obras Públicas y Transportes",
+    "url": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+    "kind": "institutional"
   }
 ]

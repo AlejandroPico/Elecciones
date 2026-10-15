@@ -1,12 +1,12 @@
 {
   "state": "active",
-  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
-  "checkedAt": "2026-10-08",
+  "reason": "Titular incluido en la composición institucional consultada.",
+  "checkedAt": "2026-10-16",
   "sources": [
     {
-      "label": "Pilar Alegría · Wikipedia",
-      "url": "https://es.wikipedia.org/wiki/Pilar_Alegr%C3%ADa",
-      "kind": "encyclopedic"
+      "label": "Composición institucional vigente",
+      "url": "https://www.cortesaragon.es/Diputados-y-diputadas.2164.0.html?&no_cache=1",
+      "kind": "institutional"
     }
   ]
 }

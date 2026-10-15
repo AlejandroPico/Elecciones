@@ -1,0 +1,90 @@
+{
+  "id": "aragon-gobierno-1995-07-08",
+  "label": "Gobierno 1995 · 07-08",
+  "start": "1995-07-08",
+  "end": "1999-07-30",
+  "checkedAt": "2026-10-16",
+  "name": "Aragón · Santiago Lanzuela Marina",
+  "source": "https://boe.es/boe/dias/1995/07/11/pdfs/A21139-21139.pdf",
+  "terms": [
+    {
+      "person": "congreso-64-10",
+      "name": "Santiago Lanzuela Marina",
+      "role": "Presidencia de Aragón",
+      "level": "president",
+      "start": "1995-07-08",
+      "end": "1999-07-30",
+      "source": "https://boe.es/boe/dias/1995/07/11/pdfs/A21139-21139.pdf",
+      "endBasis": "Siguiente marco presidencial publicado; no acredita por sí solo la fecha de cese."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "senado-12756",
+      "name": "Manuel Giménez Abad",
+      "role": "Consejero de Presidencia y Relaciones Institucionales",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-jose-maria-rodriguez-jorda",
+      "name": "José María Rodríguez Jordá",
+      "role": "Consejero de Economía, Hacienda y Fomento",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · intervalo individual no publicado"
+    },
+    {
+      "person": "senado-11121",
+      "name": "Rafael Zapatero González",
+      "role": "Consejero de Economía, Hacienda y Fomento",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · 1995-07-12 — 1997-05-09"
+    },
+    {
+      "person": "aragon-jose-vicente-lacasa-azlor",
+      "name": "Jose Vicente Lacasa Azlor",
+      "role": "Consejero de Ordenación Territorial, Obras Públicas y Transportes",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-jose-manuel-lasa-dolhagaray",
+      "name": "José Manuel Lasa Dolhagaray",
+      "role": "Consejero de Agricultura y Medio Ambiente",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-fernando-labena-gallizo",
+      "name": "Fernando Labena Gallizo",
+      "role": "Consejero de Sanidad, Bienestar Social y Trabajo",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · intervalo individual no publicado"
+    },
+    {
+      "person": "aragon-vicente-bielza-de-ory",
+      "name": "Vicente Bielza de Ory",
+      "role": "Consejero de Educación y Cultura",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "start": null,
+      "end": null,
+      "period": "IV Legislatura 1995/1999 · intervalo individual no publicado"
+    }
+  ],
+  "incidents": [
+    "El marco presidencial utiliza la fecha del decreto de nombramiento; no equivale a la toma de posesión. Las consejerías del archivo no se atribuyen simultaneidad ni fechas individuales desconocidas."
+  ],
+  "currentOnly": false
+}
