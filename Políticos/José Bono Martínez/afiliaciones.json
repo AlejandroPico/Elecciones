@@ -64,5 +64,70 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla-La Mancha · GPS",
+    "period": "Legislatura I · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=246",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla-La Mancha · GPS",
+    "period": "Legislatura II · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=335",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla-La Mancha · GPS",
+    "period": "Legislatura III · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=321",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla-La Mancha · GPS",
+    "period": "Legislatura IV · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=302",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla-La Mancha · GPS",
+    "period": "Legislatura V · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=279",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
   }
 ]

@@ -10,5 +10,44 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura VIII · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=482",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura IX · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputado.php?id=530",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura XI · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputado.php?id=586",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
   }
 ]

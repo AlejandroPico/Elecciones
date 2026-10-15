@@ -22,5 +22,31 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura IV · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=4&CodigoPersona=P0128",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura V · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=5&CodigoPersona=P0128",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
   }
 ]

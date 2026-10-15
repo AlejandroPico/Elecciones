@@ -1,0 +1,28 @@
+[
+  {
+    "organization": "cs",
+    "name": "Castilla y León · Ciudadanos",
+    "period": "Legislatura IX · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=9&CodigoPersona=P9058",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": null,
+    "name": "Castilla y León · de Ciudadanos",
+    "period": "Legislatura X · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=10&CodigoPersona=P9058",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  }
+]

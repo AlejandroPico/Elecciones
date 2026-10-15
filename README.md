@@ -1,6 +1,8 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.14.0 · 12 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.15.0 · 15 de octubre de 2026.
+
+Castilla-La Mancha y Castilla y León incorporan Gobierno y Cortes con la presentación compartida, cronología, filtros y fichas enlazadas. Se consultan las once legislaturas castellanomanchegas (553 fichas de legislatura) y las doce castellanas y leonesas (1.114 fichas), con 33 y 82 miembros en las composiciones vigentes. Los doce y quince nombramientos presidenciales se contrastan con el BOE y el dosier del Senado. Los gabinetes actuales se limitan a la fecha de consulta; los cuadros históricos conservan fuentes primarias y complementos enciclopédicos identificados, sin fingir una reconstrucción diaria completa. Cobertura e incidencias en los archivos de [Castilla-La Mancha](Gobiernos/Autonomías/Castilla-La%20Mancha/README.md) y [Castilla y León](Gobiernos/Autonomías/Castilla%20y%20León/README.md).
 
 Andalucía incorpora dieciséis etapas presidenciales de la Junta y las trece legislaturas desde 1982, con 1.602 fichas parlamentarias consultadas y los cargos, grupos, comisiones y fuentes individuales. El Gobierno y los 109 diputados vigentes tienen retrato. La Mesa conserva sus relevos fechados, incluidos los representantes de grupos con voz y sin voto. Comparte navegación, cronología, organigrama y visor parlamentario con las demás comunidades. Las legislaturas históricas ofrecen la composición archivada por la Cámara, sin atribuirle una fecha diaria; el archivo nominal completo conserva también las sustituciones. Cobertura y límites en [el archivo andaluz](Gobiernos/Autonomías/Andalucía/README.md).
 

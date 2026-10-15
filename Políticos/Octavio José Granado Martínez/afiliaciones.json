@@ -250,5 +250,70 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura I · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=1&CodigoPersona=P0039",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura II · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=2&CodigoPersona=P0039",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura III · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=3&CodigoPersona=P0039",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura IV · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=4&CodigoPersona=P0039",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "psoe",
+    "name": "Castilla y León · Socialista",
+    "period": "Legislatura V · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=5&CodigoPersona=P0039",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
   }
 ]

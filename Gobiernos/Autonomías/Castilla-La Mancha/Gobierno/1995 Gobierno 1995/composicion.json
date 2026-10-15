@@ -1,0 +1,82 @@
+{
+  "id": "clm-gobierno-1995-07-03",
+  "label": "Gobierno 1995",
+  "start": "1995-07-03",
+  "end": "1999-07-15",
+  "checkedAt": "2026-10-15",
+  "name": "Castilla-La Mancha · José Bono Martínez",
+  "source": "https://boe.es/boe/dias/1995/07/03/pdfs/A20233-20233.pdf",
+  "terms": [
+    {
+      "person": "jose-bono-martinez",
+      "name": "José Bono Martínez",
+      "role": "Presidencia de Castilla-La Mancha",
+      "source": "https://boe.es/boe/dias/1995/07/03/pdfs/A20233-20233.pdf",
+      "start": "1995-07-03",
+      "end": "1999-07-15",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento presidencial documentado; marco de consulta, no fecha individual de toma de posesión."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "emiliano-garcia-page",
+      "name": "Emiliano García-Page Sánchez",
+      "role": "Portavoz del Gobierno",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_del_Consejo_de_Gobierno_de_la_Junta_de_Comunidades_de_Castilla-La_Mancha#Cuarto_Gobierno_Bono",
+      "start": null,
+      "end": null,
+      "period": "Entre julio de 1995 y mayo de 1999"
+    },
+    {
+      "person": "senado-10164",
+      "name": "Fernando Novo Muñoz",
+      "role": "Consejería de Economía y Hacienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_del_Consejo_de_Gobierno_de_la_Junta_de_Comunidades_de_Castilla-La_Mancha#Cuarto_Gobierno_Bono",
+      "start": null,
+      "end": null,
+      "period": "Entre julio de 1995 y mayo de 1999"
+    },
+    {
+      "person": "congreso-56-8",
+      "name": "Máximo Ramón Díaz-Cano del Rey",
+      "role": "Consejería de Administraciones Públicas",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_del_Consejo_de_Gobierno_de_la_Junta_de_Comunidades_de_Castilla-La_Mancha#Cuarto_Gobierno_Bono",
+      "start": null,
+      "end": null,
+      "period": "Entre julio de 1995 y mayo de 1999"
+    },
+    {
+      "person": "congreso-366-5",
+      "name": "Justo Tomás Zambrana Pineda",
+      "role": "Consejería de Educación y Cultura",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_del_Consejo_de_Gobierno_de_la_Junta_de_Comunidades_de_Castilla-La_Mancha#Cuarto_Gobierno_Bono",
+      "start": null,
+      "end": null,
+      "period": "Entre julio de 1995 y mayo de 1999"
+    },
+    {
+      "person": "congreso-91-7",
+      "name": "Matilde Valentín Navarro",
+      "role": "Consejería de Sanidad",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_del_Consejo_de_Gobierno_de_la_Junta_de_Comunidades_de_Castilla-La_Mancha#Cuarto_Gobierno_Bono",
+      "start": null,
+      "end": null,
+      "period": "Entre julio de 1995 y mayo de 1999"
+    },
+    {
+      "person": "congreso-123-10",
+      "name": "Alejandro Alonso Núñez",
+      "role": "Consejería de Industria y Trabajo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_del_Consejo_de_Gobierno_de_la_Junta_de_Comunidades_de_Castilla-La_Mancha#Cuarto_Gobierno_Bono",
+      "start": null,
+      "end": null,
+      "period": "Entre julio de 1995 y mayo de 1999"
+    }
+  ],
+  "incidents": [
+    "Las fechas del marco corresponden al real decreto de nombramiento. No equivalen por sí solas a toma de posesión ni a ceses individuales.",
+    "El archivo de consejerías reúne titulares y cambios documentados; no es una composición simultánea ni un inventario completo de remodelaciones. Las referencias enciclopédicas complementarias están identificadas en cada enlace."
+  ],
+  "currentOnly": false
+}

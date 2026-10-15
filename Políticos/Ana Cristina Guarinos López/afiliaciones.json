@@ -10,5 +10,57 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura VI · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=86",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura VII · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=401",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura IX · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputado.php?id=513",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura X · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputado.php?id=563",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
   }
 ]

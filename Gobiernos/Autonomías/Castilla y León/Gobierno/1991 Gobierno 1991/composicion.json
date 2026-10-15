@@ -1,0 +1,91 @@
+{
+  "id": "cyl-gobierno-1991-07-08",
+  "label": "Gobierno 1991",
+  "start": "1991-07-08",
+  "end": "1995-07-06",
+  "checkedAt": "2026-10-15",
+  "name": "Castilla y León · Juan José Lucas Giménez",
+  "source": "https://boe.es/boe/dias/1991/07/08/pdfs/A22666-22666.pdf",
+  "terms": [
+    {
+      "person": "senado-12750",
+      "name": "Juan José Lucas Giménez",
+      "role": "Presidencia de Castilla y León",
+      "source": "https://boe.es/boe/dias/1991/07/08/pdfs/A22666-22666.pdf",
+      "start": "1991-07-08",
+      "end": "1995-07-06",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento presidencial documentado; marco de consulta, no fecha individual de toma de posesión."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "congreso-254-3",
+      "name": "César Huidobro Díez",
+      "role": "Consejero de Presidencia y Administraciones Territoriales",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    },
+    {
+      "person": "senado-10469",
+      "name": "Fernando Bécker Zuazua",
+      "role": "Consejero de Economía y Hacienda",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    },
+    {
+      "person": "congreso-10-9",
+      "name": "Jesús Merino Delgado",
+      "role": "Consejero de Fomento",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    },
+    {
+      "person": "cyl-isaias-garcia-monge",
+      "name": "Isaías García Monge",
+      "role": "Consejero de Agricultura y Ganadería",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    },
+    {
+      "person": "cyl-francisco-jambrina-sastre",
+      "name": "Francisco Jambrina Sastre",
+      "role": "Consejero de Medio Ambiente y Ordenación del Territorio",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    },
+    {
+      "person": "senado-10485",
+      "name": "Emilio Zapatero Villalonga",
+      "role": "Consejero de Cultura y Turismo",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    },
+    {
+      "person": "cyl-jose-manuel-fernandez-santiago",
+      "name": "José Manuel Fernández Santiago",
+      "role": "Consejero de Sanidad y Bienestar Social, Portavoz",
+      "source": "http://bocyl.jcyl.es/html/1991/07/11/html/BOCYL-D-11071991-5.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1991"
+    }
+  ],
+  "incidents": [
+    "Las fechas del marco corresponden al real decreto de nombramiento. No equivalen por sí solas a toma de posesión ni a ceses individuales.",
+    "El archivo de consejerías reúne titulares y cambios documentados; no es una composición simultánea ni un inventario completo de remodelaciones. Las referencias enciclopédicas complementarias están identificadas en cada enlace."
+  ],
+  "currentOnly": false
+}

@@ -10,5 +10,31 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "Castilla-La Mancha · GPAP",
+    "period": "Legislatura II · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=332",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla-La Mancha · GPP",
+    "period": "Legislatura III · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.cortesclm.es/web2/paginas/detalle_diputadoOld.php?id=113",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "clm"
   }
 ]

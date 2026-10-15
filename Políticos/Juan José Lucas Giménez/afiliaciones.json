@@ -10,5 +10,44 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla y León · Popular",
+    "period": "Legislatura III · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=3&CodigoPersona=P0048",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla y León · Popular",
+    "period": "Legislatura IV · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=4&CodigoPersona=P0048",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla y León · Popular",
+    "period": "Legislatura V · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=5&CodigoPersona=P0048",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
   }
 ]

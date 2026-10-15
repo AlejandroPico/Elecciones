@@ -1,0 +1,54 @@
+[
+  {
+    "organization": null,
+    "name": "Castilla y León · de Alianza Popular",
+    "period": "Legislatura I · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=1&CodigoPersona=P0061",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla y León · Popular",
+    "period": "Legislatura II · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=2&CodigoPersona=P0061",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla y León · Popular",
+    "period": "Legislatura III · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=3&CodigoPersona=P0061",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  },
+  {
+    "organization": "pp",
+    "name": "Castilla y León · Popular",
+    "period": "Legislatura IV · adscripción publicada",
+    "kind": "association",
+    "source": {
+      "label": "Grupo parlamentario publicado por la Cámara",
+      "url": "https://www.ccyl.es/Organizacion/Procurador?Legislatura=4&CodigoPersona=P0061",
+      "kind": "institutional"
+    },
+    "note": "Adscripción parlamentaria del periodo indicado; no acredita por sí sola militancia.",
+    "territory": "cyl"
+  }
+]

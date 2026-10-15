@@ -1,0 +1,72 @@
+{
+  "clm": {
+    "parliaments": 11,
+    "governments": 12,
+    "currentMembers": 33,
+    "currentCabinet": 13,
+    "archiveCounts": [
+      44,
+      47,
+      47,
+      47,
+      47,
+      47,
+      47,
+      49,
+      30,
+      33,
+      0
+    ],
+    "historicalCabinetCounts": [
+      8,
+      8,
+      9,
+      6,
+      6,
+      8,
+      12,
+      19,
+      8,
+      14,
+      10,
+      0
+    ]
+  },
+  "cyl": {
+    "parliaments": 12,
+    "governments": 15,
+    "currentMembers": 82,
+    "currentCabinet": 12,
+    "archiveCounts": [
+      84,
+      84,
+      84,
+      83,
+      83,
+      81,
+      83,
+      84,
+      84,
+      81,
+      81,
+      0
+    ],
+    "historicalCabinetCounts": [
+      14,
+      7,
+      10,
+      7,
+      7,
+      10,
+      9,
+      9,
+      15,
+      11,
+      10,
+      14,
+      11,
+      15,
+      0
+    ]
+  }
+}

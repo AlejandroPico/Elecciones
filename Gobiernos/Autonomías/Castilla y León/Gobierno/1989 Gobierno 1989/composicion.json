@@ -1,0 +1,91 @@
+{
+  "id": "cyl-gobierno-1989-09-18",
+  "label": "Gobierno 1989",
+  "start": "1989-09-18",
+  "end": "1991-07-08",
+  "checkedAt": "2026-10-15",
+  "name": "Castilla y León · Jesús María Posada Moreno",
+  "source": "https://boe.es/boe/dias/1989/09/18/pdfs/A29330-29330.pdf",
+  "terms": [
+    {
+      "person": "jesus-maria-posada-moreno",
+      "name": "Jesús María Posada Moreno",
+      "role": "Presidencia de Castilla y León",
+      "source": "https://boe.es/boe/dias/1989/09/18/pdfs/A29330-29330.pdf",
+      "start": "1989-09-18",
+      "end": "1991-07-08",
+      "level": "president",
+      "endBasis": "Siguiente nombramiento presidencial documentado; marco de consulta, no fecha individual de toma de posesión."
+    }
+  ],
+  "archiveTerms": [
+    {
+      "person": "senado-10052",
+      "name": "Miguel Pérez Villar",
+      "role": "Vicepresidente primero Consejero de Economía y Hacienda",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    },
+    {
+      "person": "senado-11000",
+      "name": "José Luis Sagredo de Miguel",
+      "role": "Segundo vicepresidente Consejero de Medio Ambiente y Ordenación del Territorio",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    },
+    {
+      "person": "congreso-254-3",
+      "name": "César Huidobro Díez",
+      "role": "Consejero de Presidencia y Administraciones Territoriales",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    },
+    {
+      "person": "cyl-jose-maria-monforte-carrasco",
+      "name": "José María Monforte Carrasco",
+      "role": "Consejero de Fomento",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    },
+    {
+      "person": "cyl-francisco-javier-leon-de-la-riva",
+      "name": "Francisco Javier León de la Riva",
+      "role": "Consejero de Cultura y Bienestar Social",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    },
+    {
+      "person": "cyl-fernando-zamacola-garrido",
+      "name": "Fernando Zamácola Garrido",
+      "role": "Consejero de Agricultura y Ganadería",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    },
+    {
+      "person": "congreso-254-3",
+      "name": "César Huidobro Díez",
+      "role": "Consejero de Agricultura y Ganadería",
+      "source": "http://bocyl.jcyl.es/html/1989/09/21/html/BOCYL-D-21091989-3.do",
+      "start": null,
+      "end": null,
+      "period": "Cuadro histórico del gobierno de 1989"
+    }
+  ],
+  "incidents": [
+    "Las fechas del marco corresponden al real decreto de nombramiento. No equivalen por sí solas a toma de posesión ni a ceses individuales.",
+    "El archivo de consejerías reúne titulares y cambios documentados; no es una composición simultánea ni un inventario completo de remodelaciones. Las referencias enciclopédicas complementarias están identificadas en cada enlace."
+  ],
+  "currentOnly": false
+}
