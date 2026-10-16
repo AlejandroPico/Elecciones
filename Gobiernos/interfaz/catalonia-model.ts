@@ -31,6 +31,9 @@ export type CatalanParliament = {
   endSource?: string;
   capacity?: number;
   nominalOnly?: boolean;
+  /** Preferencia de consulta y fechas contrastadas de archivos con solapamientos en origen. */
+  preferredDate?: string;
+  snapshotDates?: string[];
   archivedComposition?: {
     source: string;
     checkedAt: string;

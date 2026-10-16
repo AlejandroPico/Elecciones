@@ -22,5 +22,44 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "pnv",
+    "name": "GP NV",
+    "period": "1984-03-22 – 1986-09-21",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.legebiltzarra.eus/comparla/c_comparla_alf_L02.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "pais-vasco"
+  },
+  {
+    "organization": null,
+    "name": "GP Mx",
+    "period": "1986-09-21 – 1986-10-01",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.legebiltzarra.eus/comparla/c_comparla_alf_L02.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "pais-vasco"
+  },
+  {
+    "organization": null,
+    "name": "GP EA",
+    "period": "1987-01-08 – 1989-11-21",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.legebiltzarra.eus/comparla/c_comparla_alf_L03.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "pais-vasco"
   }
 ]

@@ -1,12 +1,12 @@
 {
   "state": "active",
-  "reason": "Actividad política documentada en la última legislatura, composición gubernamental o cargo con continuidad contrastada. La disolución de las Cámaras no acredita retirada política.",
-  "checkedAt": "2026-10-08",
+  "reason": "Miembro de la composición institucional vigente consultada.",
+  "checkedAt": "2026-10-16",
   "sources": [
     {
-      "label": "Imanol Pradales · Wikipedia",
-      "url": "https://es.wikipedia.org/wiki/Imanol_Pradales",
-      "kind": "encyclopedic"
+      "label": "Directorio institucional vigente",
+      "url": "https://www.euskadi.eus/lehendakari-imanol-pradales-gil/web01-s1ezaleh/es/",
+      "kind": "institutional"
     }
   ]
 }

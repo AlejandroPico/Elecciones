@@ -7,12 +7,12 @@ import {
   findPerson,
 } from "./datos/catalogo";
 it("todas las relaciones del archivo tienen destino y las etapas tienen fuente", () => {
+  const organizationIds = new Set(organizations.map((o) => o.id));
+  const officeIds = new Set(offices.map((o) => o.id));
   expect(new Set(people.map((p) => p.id)).size).toBe(people.length);
   for (const p of people) {
-    if (p.organization)
-      expect(organizations.some((o) => o.id === p.organization)).toBe(true);
-    for (const id of p.offices)
-      expect(offices.some((o) => o.id === id)).toBe(true);
+    if (p.organization) expect(organizationIds.has(p.organization)).toBe(true);
+    for (const id of p.offices) expect(officeIds.has(id)).toBe(true);
     for (const t of p.timeline)
       expect(new URL(t.source.url).protocol).toBe("https:");
     if (p.portrait) {

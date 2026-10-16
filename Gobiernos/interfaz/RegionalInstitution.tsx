@@ -210,7 +210,15 @@ export default function RegionalInstitution({
             className={p.id === current.period.id ? "active" : ""}
             aria-pressed={p.id === current.period.id}
             onClick={() =>
-              choose(chronology.filter((s) => s.period.id === p.id).at(-1)!.id)
+              choose(
+                chronology.find(
+                  (s) =>
+                    s.period.id === p.id &&
+                    "preferredDate" in p &&
+                    s.date === p.preferredDate,
+                )?.id ??
+                  chronology.filter((s) => s.period.id === p.id).at(-1)!.id,
+              )
             }
           >
             <span>{p.start.slice(0, 4)}</span>
@@ -302,12 +310,14 @@ export default function RegionalInstitution({
                 </div>
               </section>
             )}
-            <section className="government-tier">
-              <h3>{config.executive}</h3>
-              <div className="minister-tier">
-                {members.filter((m) => m.level === "minister").map(node)}
-              </div>
-            </section>
+            {!!members.filter((m) => m.level === "minister").length && (
+              <section className="government-tier">
+                <h3>{config.executive}</h3>
+                <div className="minister-tier">
+                  {members.filter((m) => m.level === "minister").map(node)}
+                </div>
+              </section>
+            )}
           </div>
           {!!gp.incidents.length && (
             <details className="senate-senators">

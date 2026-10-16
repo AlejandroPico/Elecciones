@@ -1,0 +1,28 @@
+[
+  {
+    "organization": null,
+    "name": "UDF",
+    "period": "Legislatura II · Relación nominal publicada 1987-07-23",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamentodenavarra.es/sites/default/files/boletines/B1987201.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "navarra"
+  },
+  {
+    "organization": "upn",
+    "name": "UPN",
+    "period": "Legislatura III · Relación nominal publicada 1991-07-05",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamentodenavarra.es/sites/default/files/boletines/B1991301.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "navarra"
+  }
+]

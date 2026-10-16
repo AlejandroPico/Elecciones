@@ -46,5 +46,44 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "upn",
+    "name": "UPN",
+    "period": "Legislatura V · Relación nominal publicada 1999-07-06",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamentodenavarra.es/sites/default/files/boletines/B1999501.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "navarra"
+  },
+  {
+    "organization": "upn",
+    "name": "UPN",
+    "period": "Legislatura VI · Relación nominal publicada 2003-06-27",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamentodenavarra.es/sites/default/files/boletines/B2003602.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "navarra"
+  },
+  {
+    "organization": "upn",
+    "name": "UPN",
+    "period": "Legislatura VII · Relación nominal publicada 2007-06-25",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamentodenavarra.es/sites/default/files/boletines/B20077001.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "navarra"
   }
 ]
