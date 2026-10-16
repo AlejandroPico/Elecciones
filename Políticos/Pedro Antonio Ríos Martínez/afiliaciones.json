@@ -34,5 +34,44 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": null,
+    "name": "Mixto",
+    "period": "Legislatura I",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-i-legislatura/grupo-parlamentario-mixto/981.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": null,
+    "name": "Mixto",
+    "period": "Legislatura II",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-ii-legislatura/grupo-parlamentario-mixto/974.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": null,
+    "name": "Izquierda Unida",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-iii-legislatura/grupo-parlamentario-de-izquierda-unida/910.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
   }
 ]

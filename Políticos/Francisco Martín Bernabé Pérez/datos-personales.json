@@ -1,12 +1,18 @@
 {
   "birthDate": "1970-04-03",
-  "birthYear": 1970,
+  "birthPlace": "La Unión",
   "birth": "03/04/1970",
   "personalSources": [
     {
       "label": "Congreso de los Diputados · ficha individual",
       "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=67&idLegislatura=XII",
       "kind": "institutional"
+    },
+    {
+      "label": "Nacimiento publicado por la Asamblea Regional de Murcia",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/los-diputados-regionales-ix-legislatura/grupo-parlamentario-popular/8393.html",
+      "kind": "institutional"
     }
-  ]
+  ],
+  "birthYear": 1970
 }

@@ -16,6 +16,10 @@ Revisión: 16 de octubre de 2026. Aplicable a personas y agentes que amplíen es
 
 ## Carpetas y nombres
 
+Murcia se guarda en `Gobiernos/Autonomías/Región de Murcia/`, con `Gobierno/`, `Parlamento/` y `fuentes/`. La carpeta compartida `Parlamento` se presenta como **Asamblea Regional** en la interfaz. Los directorios antiguos contienen bajas y relevos: conservar sus fichas sin sumarlos al Pleno vigente. En XI son 45 titulares, no los 54 nombres acumulados por el directorio. Usar el bloque de trayectoria parlamentaria de la ficha individual para los cambios de grupo; no una referencia biográfica a otra legislatura ni un distintivo desactualizado. En 2026, las fichas de Antelo y Virginia Martínez García documentan su paso al Mixto. Los grupos no acreditan por sí solos militancia.
+
+Las relaciones murcianas archivadas sin fechas individuales se publican como referencias nominales. La III legislatura deja tres escaños sin asignar en el bloque contrastado; no completarlos por conjetura. La IX usa el listado estático que permite identificar 45 miembros y conserva también el directorio posterior. Los cuadros históricos complementarios de consejerías no acreditan intervalos diarios: enlazar su fuente y mostrarlos separados de la composición fechada. El gabinete de mayo de 2026 no se proyecta hacia 2023. Los marcadores «X causó baja» de algunos nombres del archivo son anotaciones, no partes del nombre.
+
 - Toda información específica de una convocatoria pertenece a `Elecciones/<convocatoria>/`.
 - Generales: `Generales <Mes> <AAAA>`, por ejemplo `Generales Noviembre 2026`.
 - Autonómicas: `Autonómicas <territorio oficial> <Mes> <AAAA>`; municipales: `Municipales <territorio> <Mes> <AAAA>`.

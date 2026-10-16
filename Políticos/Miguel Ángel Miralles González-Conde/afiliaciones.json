@@ -1,0 +1,28 @@
+[
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura X",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/diputado/10018/miguel-miralles-gonzalez-conde",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura XI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/diputado/11029/miguel-angel-miralles-gonzalez-conde",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  }
+]

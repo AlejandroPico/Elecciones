@@ -10,5 +10,57 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura I",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-i-legislatura/grupo-parlamentario-socialista/1029.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura II",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-ii-legislatura/grupo-parlamentario-socialista/964.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-iii-legislatura/grupo-parlamentario-socialista/840.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-iv-legislatuta/grupo-parlamentario-socialista/823.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
   }
 ]

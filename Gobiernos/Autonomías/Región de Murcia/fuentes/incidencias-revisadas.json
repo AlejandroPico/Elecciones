@@ -1,0 +1,86 @@
+[
+  {
+    "subject": "Capacidad de la I legislatura",
+    "issue": "El texto y el cuadro de la Asamblea suman 42, aunque la propia página identifica 43 diputados.",
+    "resolution": "Capacidad 43, corroborada por la serie electoral del Centro Regional de Estadística. No trasladar la suma errónea al hemiciclo.",
+    "sources": [
+      "https://www.asambleamurcia.es/content/i-legislatura-1983-1987",
+      "https://econet.carm.es/web/crem/inicio/-/crem/sicrem/PU_datosBasicos/pdf/sec93_3.pdf"
+    ]
+  },
+  {
+    "subject": "Directorio de la III legislatura",
+    "issue": "El bloque nominal de referencia identifica 42 de los 45 escaños. Las bajas y los relevos no permiten reconstruir una composición diaria completa.",
+    "resolution": "Mantener la capacidad y las tres posiciones sin asignar; conservar todos los nombres documentados en el archivo nominal. No identificar las posiciones no contrastadas como vacantes oficiales.",
+    "sources": [
+      "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-iii-legislatura.html"
+    ]
+  },
+  {
+    "subject": "Ángel Pardo Navarro en IV",
+    "issue": "El índice lo coloca entre bajas con rótulo 1995-1996, pero su biografía acredita que fue el sustituto de Ojeda en marzo de 1996.",
+    "resolution": "Incluirlo en el bloque nominal de referencia, sin inventar un intervalo diario.",
+    "sources": [
+      "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-iv-legislatuta.html"
+    ]
+  },
+  {
+    "subject": "Índice de VI",
+    "issue": "Asunción Candel aparece repetida. El único diputado del Mixto se sitúa bajo el epígrafe de bajas pese a constar la etapa 2003-2007.",
+    "resolution": "Una sola identidad y escaño por persona; incluir a Cayetano Jaime Moltó según su ficha y conservar las demás bajas en el archivo.",
+    "sources": [
+      "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-vi-legislatura.html"
+    ]
+  },
+  {
+    "subject": "Marcas editoriales en los nombres de VIII",
+    "issue": "Cinco nombres incorporan el marcador X causó baja.",
+    "resolution": "Retirar exclusivamente la anotación, conservar su baja y resolver la identidad por el nombre y las fuentes individuales.",
+    "sources": [
+      "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-viii-legislatura.html"
+    ]
+  },
+  {
+    "subject": "Cambios de grupo de 2026",
+    "issue": "El directorio y algunas páginas generales conservan distintivos o portavocías anteriores.",
+    "resolution": "Las fichas individuales sitúan a José Ángel Antelo en el Mixto desde el 9 de marzo y a Virginia Martínez García desde el 14 de abril de 2026. María Marín y José Luis Álvarez-Castellanos completan sus cuatro miembros. No confundir pertenencia al Mixto y afiliación a una misma organización.",
+    "sources": [
+      "https://www.asambleamurcia.es/diputado/11003/jose-angel-antelo-paredes",
+      "https://www.asambleamurcia.es/diputado/11024/virginia-martinez-garcia",
+      "https://www.asambleamurcia.es/diputado/11021/maria-marin-martinez",
+      "https://www.asambleamurcia.es/diputado/jose-luis-alvarez-castellanos-rubio"
+    ]
+  },
+  {
+    "subject": "Nombres completos y variantes",
+    "issue": "Los índices emplean nombres abreviados, variantes de apellidos y alguna errata.",
+    "resolution": "Las equivalencias están en identidades-revisadas.json. Maeso, Ojeda, Tomás, Asurmendi, Nicolás, Carreño, García Retegui, Moreno y Rosique se contrastan con nacimiento y trayectoria en sus fichas. El expediente firmado de la Asamblea acredita María Visitación Martínez Martínez; la candidatura oficial de 2023 identifica María de la Concepción Ruiz Caballero. El perfil CARM y el BORM acreditan Víctor Javier Marín Navarro. No fusionar a los dos Patricio Valverde: Megías y Espín son personas diferentes.",
+    "sources": [
+      "https://www.asambleamurcia.es/ACTAS11L/COMISIONES%20ESPECIALES/INFANCIA%20Y%20ADOLESCENCIA/2024/021210-001.pdf",
+      "https://elecciones2023.carm.es/documents/d/guest/papeletas-descargables-voto-cera",
+      "https://www.carm.es/web/pagina?IDCONTENIDO=51268&IDTIPO=11&RASTRO=c%24m25987%2C121%2C50474",
+      "https://www.borm.es/services/anuncio/ano/2024/numero/3644/pdf?id=828673",
+      "https://www.borm.es/services/boletin/92475/pdf"
+    ]
+  },
+  {
+    "subject": "Antonio León Martínez-Campos",
+    "issue": "La tabla enciclopédica escribe Leóz; el directorio parlamentario escribe León.",
+    "resolution": "Usar León, acreditado también en la firma del consejero en Agricultura murciana 1973-1987 y en la orden institucional de 1994. Conservar la variante como equivalencia de búsqueda, sin crear otra persona.",
+    "sources": [
+      "https://www.carm.es/web/descarga?ALIAS=PUBT&ARCHIVO=Texto+Completo+1+Agricultura+murciana+1973-1987.pdf&IDADIC=12627&IDCONTENIDO=17618&RASTRO=c2889%24m58245%2C58256%2C58865",
+      "https://transparencia.carm.es/documents/184026/3498125/2016-AIP-Consejo_cooperacion.pdf/155ea6b7-c460-4858-9fa3-97d6ade250be"
+    ]
+  },
+  {
+    "subject": "Gabinete y consultas protegidas",
+    "issue": "Algunas páginas y descargas de CARM y BORM devuelven una verificación de acceso; ciertas tablas complementarias mantienen cargos y erratas obsoletos.",
+    "resolution": "La verificación no se trata como contenido ni se elude. La composición vigente procede de la comunicación nominal oficial, las páginas institucionales consultables y los decretos indexados del suplemento S6 de 29 de mayo de 2026. Se excluye la tabla enciclopédica de XI. Las relaciones históricas sin intervalos contrastados se muestran como cargos documentados de la etapa, con fuente complementaria explícita.",
+    "sources": [
+      "https://www.carm.es/web/servlet/pagina?IDCONTENIDO=125172&IDTIPO=10&RASTRO=c%24m120%2C126%2C2166",
+      "https://www.borm.es/services/anuncio/ano/2026/numero/2489/pdf?id=843171",
+      "https://www.borm.es/services/anuncio/ano/2026/numero/2491/pdf?id=843173",
+      "https://www.borm.es/services/anuncio/ano/2026/numero/2496/pdf?id=843178"
+    ]
+  }
+]

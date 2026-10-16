@@ -10,5 +10,44 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura VI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-vi-legislatura/grupo-parlamentario-socialista/537.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura VII",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/los-diputados-regionales-vii-legislatura/grupo-parlamentario-socialista/47.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialista",
+    "period": "Legislatura VIII",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/legacy/es/los-diputados-regionales/diputados-viii-legislatura/grupo-parlamentario-socialista/1088.html",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
   }
 ]

@@ -1,0 +1,1285 @@
+{
+  "id": "murcia-parlamento-10",
+  "label": "Legislatura X",
+  "start": "2019-06-11",
+  "end": "2023-06-14",
+  "checkedAt": "2026-10-16",
+  "source": "https://www.asambleamurcia.es/diputados?leg=10",
+  "currentOnly": false,
+  "capacity": 45,
+  "records": [
+    {
+      "person": "murcia-antonia-abenza-campuzano",
+      "name": "Antonia Abenza Campuzano",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10002/antonia-abenza-campuzano",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-gloria-alarcon-garcia",
+      "name": "Gloria Alarcón García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10003/gloria-alarcon-garcia",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-francisco-alvarez-garcia",
+      "name": "Francisco Álvarez García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10004/francisco-alvarez-garcia",
+      "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-antonio-calderon-rodriguez",
+      "name": "Antonio Calderón Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10005/antonio-calderon-rodriguez",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-jose-antonio-campos-bayona",
+      "name": "José Antonio Campos Bayona",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10120/jose-antonio-campos-bayona",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-isabel-campuzano-martinez",
+      "name": "María Isabel Campuzano Martínez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10031/maria-isabel-campuzano-martinez",
+      "formationLabel": "Vox",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-jesus-cano-molina",
+      "name": "Jesús Cano Molina",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10042/jesus-cano-molina",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-francisco-jose-carrera-de-la-fuente",
+      "name": "Francisco José Carrera de la Fuente",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10032/francisco-jose-carrera-de-la-fuente",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-rosalia-casado-lopez",
+      "name": "Rosalía Casado López",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10041/rosalia-casado-lopez",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-alberto-castillo-banos",
+      "name": "Alberto Castillo Baños",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10006/alberto-castillo-banos",
+      "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-antonio-jose-espin-espin",
+      "name": "Antonio José Espín Espín",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10007/antonio-jose-espin-espin",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-del-carmen-fernandez-sanchez",
+      "name": "María del Carmen Fernández Sánchez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10009/maria-del-carmen-fernandez-sanchez",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-isabel-franco-sanchez",
+      "name": "María Isabel Franco Sánchez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10040/maria-isabel-franco-sanchez",
+      "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-miriam-guardiola-salmeron",
+      "name": "Miriam Guardiola Salmerón",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10044/miriam-guardiola-salmeron",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-hernandez-abellan",
+      "name": "María Hernández Abellán",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10119/maria-hernandez-abellan",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-inmaculada-lardin-verdu",
+      "name": "María Inmaculada Lardín Verdú",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10113/maria-inmaculada-lardin-verdu",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-juan-jose-liarte-pedreno",
+      "name": "Juan José Liarte Pedreño",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10033/juan-jose-liarte-pedreno",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-pedro-lopez-hernandez",
+      "name": "Pedro López Hernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10011/pedro-lopez-hernandez",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "fernando-lopez-miras",
+      "name": "Fernando López Miras",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10046/fernando-lopez-miras",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-virginia-lopo-morales",
+      "name": "Virginia Lopo Morales",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10012/virginia-lopo-morales",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "congreso-230-15",
+      "name": "Francisco Lucas Ayala",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10034/francisco-lucas-ayala",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-marin-martinez",
+      "name": "María Marín Martínez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10108/maria-marin-martinez",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-alfonso-martinez-banos",
+      "name": "Alfonso Martínez Baños",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10014/alfonso-martinez-banos",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-consagracion-martinez-munoz",
+      "name": "Consagración Martínez Muñoz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10015/consagracion-martinez-munoz",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-dolores-martinez-pay",
+      "name": "María Dolores Martínez Pay",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10016/maria-dolores-martinez-pay",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-ana-martinez-vidal",
+      "name": "Ana Martínez Vidal",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10039/ana-martinez-vidal",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-victor-martinez-carrasco-guzman",
+      "name": "Víctor Martínez-Carrasco Guzmán",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10017/victor-martinez-carrasco-guzman",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-juan-antonio-mata-tamboleo",
+      "name": "Juan Antonio Mata Tamboleo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10112/juan-antonio-mata-tamboleo",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-del-valle-miguelez-santiago",
+      "name": "María del Valle Miguélez Santiago",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10035/maria-del-valle-miguelez-santiago",
+      "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-miguel-angel-miralles-gonzalez-conde",
+      "name": "Miguel Ángel Miralles González-Conde",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10018/miguel-miralles-gonzalez-conde",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-juan-jose-molina-gallardo",
+      "name": "Juan José Molina Gallardo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10036/juan-jose-molina-gallardo",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-fernando-moreno-garcia",
+      "name": "Fernando Moreno García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10019/fernando-moreno-garcia",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-del-carmen-pelegrin-garcia",
+      "name": "María del Carmen Pelegrín García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10020/maria-del-carmen-pelegrin-garcia",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-jose-antonio-penalver-pardinez",
+      "name": "José Antonio Peñalver Pardínez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10021/jose-antonio-penalver-pardinez",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-sonia-ruiz-escribano",
+      "name": "Sonia Ruiz Escribano",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10022/sonia-ruiz-escribano",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-del-carmen-ruiz-jodar",
+      "name": "María del Carmen Ruiz Jódar",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10023/maria-del-carmen-ruiz-jodar",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-pascual-salvador-hernandez",
+      "name": "Pascual Salvador Hernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10037/pascual-salvador-hernandez",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-magdalena-sanchez-blesa",
+      "name": "María Magdalena Sánchez Blesa",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10024/maria-magdalena-sanchez-blesa",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-isabel-maria-sanchez-ruiz",
+      "name": "Isabel María Sánchez Ruiz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10111/isabel-maria-sanchez-ruiz",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-ramon-sanchez-parra-servet",
+      "name": "Ramón Sánchez-Parra Servet",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10026/ramon-sanchez-parra-servet",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-joaquin-segado-martinez",
+      "name": "Joaquín Segado Martínez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10027/joaquin-segado-martinez",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-manuel-sevilla-nicolas",
+      "name": "Manuel Sevilla Nicolás",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10028/manuel-sevilla-nicolas",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-dolores-valcarcel-jimenez",
+      "name": "María Dolores Valcárcel Jiménez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10030/maria-dolores-valcarcel-jimenez",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-clara-valverde-soto",
+      "name": "Clara Valverde Soto",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10038/clara-valverde-soto",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-helena-vidal-brazales",
+      "name": "Helena Vidal Brazales",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10050/helena-vidal-brazales",
+      "formationLabel": "Adscripción pendiente de contraste",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-javier-celdran-lorente",
+      "name": "Javier Celdrán Lorente",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10043/javier-celdran-lorente",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-diego-conesa-alcaraz",
+      "name": "Diego Conesa Alcaraz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10045/diego-conesa-alcaraz",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-rafael-esteban-palazon",
+      "name": "Rafael Esteban Palazón",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10109/rafael-esteban-palazon",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-gimenez-casalduero",
+      "name": "María Giménez Casalduero",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10008/maria-gimenez-casalduero",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-emilio-ivars-ferrer",
+      "name": "Emilio Ivars Ferrer",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10010/emilio-ivars-ferrer",
+      "formationLabel": "Socialista",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "senado-19912",
+      "name": "Antonio Luengo Zapata",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10013/antonio-luengo-zapata",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-maria-cristina-sanchez-lopez",
+      "name": "María Cristina Sánchez López",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10025/maria-cristina-sanchez-lopez",
+      "formationLabel": "Popular",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    },
+    {
+      "person": "murcia-oscar-urralburu-arza",
+      "name": "Óscar Urralburu Arza",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/diputado/10029/oscar-urralburu-arza",
+      "formationLabel": "Mixto",
+      "constituency": "Región de Murcia",
+      "period": "Legislatura X · directorio institucional"
+    }
+  ],
+  "board": [],
+  "groups": [
+    {
+      "name": "Socialista",
+      "source": "https://www.asambleamurcia.es/diputado/10002/antonia-abenza-campuzano",
+      "members": [
+        {
+          "person": "murcia-antonia-abenza-campuzano",
+          "name": "Antonia Abenza Campuzano",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10002/antonia-abenza-campuzano",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-gloria-alarcon-garcia",
+          "name": "Gloria Alarcón García",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10003/gloria-alarcon-garcia",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-jose-antonio-campos-bayona",
+          "name": "José Antonio Campos Bayona",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10120/jose-antonio-campos-bayona",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-rosalia-casado-lopez",
+          "name": "Rosalía Casado López",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10041/rosalia-casado-lopez",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-antonio-jose-espin-espin",
+          "name": "Antonio José Espín Espín",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10007/antonio-jose-espin-espin",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-del-carmen-fernandez-sanchez",
+          "name": "María del Carmen Fernández Sánchez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10009/maria-del-carmen-fernandez-sanchez",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-hernandez-abellan",
+          "name": "María Hernández Abellán",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10119/maria-hernandez-abellan",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-pedro-lopez-hernandez",
+          "name": "Pedro López Hernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10011/pedro-lopez-hernandez",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-virginia-lopo-morales",
+          "name": "Virginia Lopo Morales",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10012/virginia-lopo-morales",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "congreso-230-15",
+          "name": "Francisco Lucas Ayala",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10034/francisco-lucas-ayala",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-alfonso-martinez-banos",
+          "name": "Alfonso Martínez Baños",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10014/alfonso-martinez-banos",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-consagracion-martinez-munoz",
+          "name": "Consagración Martínez Muñoz",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10015/consagracion-martinez-munoz",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-dolores-martinez-pay",
+          "name": "María Dolores Martínez Pay",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10016/maria-dolores-martinez-pay",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-fernando-moreno-garcia",
+          "name": "Fernando Moreno García",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10019/fernando-moreno-garcia",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-jose-antonio-penalver-pardinez",
+          "name": "José Antonio Peñalver Pardínez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10021/jose-antonio-penalver-pardinez",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-magdalena-sanchez-blesa",
+          "name": "María Magdalena Sánchez Blesa",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10024/maria-magdalena-sanchez-blesa",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-manuel-sevilla-nicolas",
+          "name": "Manuel Sevilla Nicolás",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10028/manuel-sevilla-nicolas",
+          "formationLabel": "Socialista",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        }
+      ]
+    },
+    {
+      "name": "Ciudadanos-Partido de la Ciudadanía",
+      "source": "https://www.asambleamurcia.es/diputado/10004/francisco-alvarez-garcia",
+      "members": [
+        {
+          "person": "murcia-francisco-alvarez-garcia",
+          "name": "Francisco Álvarez García",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10004/francisco-alvarez-garcia",
+          "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-alberto-castillo-banos",
+          "name": "Alberto Castillo Baños",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10006/alberto-castillo-banos",
+          "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-isabel-franco-sanchez",
+          "name": "María Isabel Franco Sánchez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10040/maria-isabel-franco-sanchez",
+          "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-del-valle-miguelez-santiago",
+          "name": "María del Valle Miguélez Santiago",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10035/maria-del-valle-miguelez-santiago",
+          "formationLabel": "Ciudadanos-Partido de la Ciudadanía",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        }
+      ]
+    },
+    {
+      "name": "Popular",
+      "source": "https://www.asambleamurcia.es/diputado/10005/antonio-calderon-rodriguez",
+      "members": [
+        {
+          "person": "murcia-antonio-calderon-rodriguez",
+          "name": "Antonio Calderón Rodríguez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10005/antonio-calderon-rodriguez",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-jesus-cano-molina",
+          "name": "Jesús Cano Molina",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10042/jesus-cano-molina",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-miriam-guardiola-salmeron",
+          "name": "Miriam Guardiola Salmerón",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10044/miriam-guardiola-salmeron",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-inmaculada-lardin-verdu",
+          "name": "María Inmaculada Lardín Verdú",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10113/maria-inmaculada-lardin-verdu",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "fernando-lopez-miras",
+          "name": "Fernando López Miras",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10046/fernando-lopez-miras",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-victor-martinez-carrasco-guzman",
+          "name": "Víctor Martínez-Carrasco Guzmán",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10017/victor-martinez-carrasco-guzman",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-juan-antonio-mata-tamboleo",
+          "name": "Juan Antonio Mata Tamboleo",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10112/juan-antonio-mata-tamboleo",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-miguel-angel-miralles-gonzalez-conde",
+          "name": "Miguel Ángel Miralles González-Conde",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10018/miguel-miralles-gonzalez-conde",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-del-carmen-pelegrin-garcia",
+          "name": "María del Carmen Pelegrín García",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10020/maria-del-carmen-pelegrin-garcia",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-sonia-ruiz-escribano",
+          "name": "Sonia Ruiz Escribano",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10022/sonia-ruiz-escribano",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-del-carmen-ruiz-jodar",
+          "name": "María del Carmen Ruiz Jódar",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10023/maria-del-carmen-ruiz-jodar",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-isabel-maria-sanchez-ruiz",
+          "name": "Isabel María Sánchez Ruiz",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10111/isabel-maria-sanchez-ruiz",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-ramon-sanchez-parra-servet",
+          "name": "Ramón Sánchez-Parra Servet",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10026/ramon-sanchez-parra-servet",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-joaquin-segado-martinez",
+          "name": "Joaquín Segado Martínez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10027/joaquin-segado-martinez",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-dolores-valcarcel-jimenez",
+          "name": "María Dolores Valcárcel Jiménez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10030/maria-dolores-valcarcel-jimenez",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-clara-valverde-soto",
+          "name": "Clara Valverde Soto",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10038/clara-valverde-soto",
+          "formationLabel": "Popular",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        }
+      ]
+    },
+    {
+      "name": "Vox",
+      "source": "https://www.asambleamurcia.es/diputado/10031/maria-isabel-campuzano-martinez",
+      "members": [
+        {
+          "person": "murcia-maria-isabel-campuzano-martinez",
+          "name": "María Isabel Campuzano Martínez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10031/maria-isabel-campuzano-martinez",
+          "formationLabel": "Vox",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        }
+      ]
+    },
+    {
+      "name": "Mixto",
+      "source": "https://www.asambleamurcia.es/diputado/10032/francisco-jose-carrera-de-la-fuente",
+      "members": [
+        {
+          "person": "murcia-francisco-jose-carrera-de-la-fuente",
+          "name": "Francisco José Carrera de la Fuente",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10032/francisco-jose-carrera-de-la-fuente",
+          "formationLabel": "Mixto",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-juan-jose-liarte-pedreno",
+          "name": "Juan José Liarte Pedreño",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10033/juan-jose-liarte-pedreno",
+          "formationLabel": "Mixto",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-maria-marin-martinez",
+          "name": "María Marín Martínez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10108/maria-marin-martinez",
+          "formationLabel": "Mixto",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-ana-martinez-vidal",
+          "name": "Ana Martínez Vidal",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10039/ana-martinez-vidal",
+          "formationLabel": "Mixto",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-juan-jose-molina-gallardo",
+          "name": "Juan José Molina Gallardo",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10036/juan-jose-molina-gallardo",
+          "formationLabel": "Mixto",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        },
+        {
+          "person": "murcia-pascual-salvador-hernandez",
+          "name": "Pascual Salvador Hernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10037/pascual-salvador-hernandez",
+          "formationLabel": "Mixto",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        }
+      ]
+    },
+    {
+      "name": "Adscripción pendiente de contraste",
+      "source": "https://www.asambleamurcia.es/diputado/10050/helena-vidal-brazales",
+      "members": [
+        {
+          "person": "murcia-helena-vidal-brazales",
+          "name": "Helena Vidal Brazales",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Asamblea Regional de Murcia",
+          "source": "https://www.asambleamurcia.es/diputado/10050/helena-vidal-brazales",
+          "formationLabel": "Adscripción pendiente de contraste",
+          "constituency": "Región de Murcia",
+          "period": "Legislatura X · directorio institucional"
+        }
+      ]
+    }
+  ],
+  "note": "Archivo nominal de la Asamblea Regional. Las bajas y los relevos se conservan en las fichas personales; el hemiciclo vigente contiene solo titulares actuales. Los grupos publicados no acreditan por sí solos militancia partidista.",
+  "nominalOnly": true,
+  "archiveBoard": [
+    {
+      "person": "murcia-alberto-castillo-banos",
+      "name": "Alberto Castillo Baños",
+      "start": null,
+      "end": null,
+      "role": "Presidente de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/arm/organos-x/rectores/mesa",
+      "period": "Legislatura X · Mesa archivada por la institución"
+    },
+    {
+      "person": "murcia-miguel-angel-miralles-gonzalez-conde",
+      "name": "Miguel Ángel Miralles González-Conde",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente 1º de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/arm/organos-x/rectores/mesa",
+      "period": "Legislatura X · Mesa archivada por la institución"
+    },
+    {
+      "person": "murcia-gloria-alarcon-garcia",
+      "name": "Gloria Alarcón García",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidenta 2ª de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/arm/organos-x/rectores/mesa",
+      "period": "Legislatura X · Mesa archivada por la institución"
+    },
+    {
+      "person": "murcia-maria-del-carmen-ruiz-jodar",
+      "name": "María del Carmen Ruiz Jódar",
+      "start": null,
+      "end": null,
+      "role": "Secretaria 1ª de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/arm/organos-x/rectores/mesa",
+      "period": "Legislatura X · Mesa archivada por la institución"
+    },
+    {
+      "person": "murcia-antonio-jose-espin-espin",
+      "name": "Antonio José Espín Espín",
+      "start": null,
+      "end": null,
+      "role": "Secretario 2º de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/arm/organos-x/rectores/mesa",
+      "period": "Legislatura X · Mesa archivada por la institución"
+    },
+    {
+      "person": "murcia-francisco-jose-carrera-de-la-fuente",
+      "name": "Francisco José Carrera de la Fuente",
+      "start": null,
+      "end": null,
+      "role": "Secretario primero de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/ACTAS10L/ORGANOS%20DE%20LA%20CAMARA/PLENO/2019/112010-017.pdf",
+      "period": "Mesa acreditada por el acta de 20 de noviembre de 2019"
+    },
+    {
+      "person": "murcia-emilio-ivars-ferrer",
+      "name": "Emilio Ivars Ferrer",
+      "start": null,
+      "end": null,
+      "role": "Secretario segundo de la Asamblea Regional de Murcia",
+      "source": "https://www.asambleamurcia.es/ACTAS10L/ORGANOS%20DE%20LA%20CAMARA/PLENO/2019/112010-017.pdf",
+      "period": "Mesa acreditada por el acta de 20 de noviembre de 2019"
+    }
+  ],
+  "archiveBoardNote": "Cargos documentados en las fichas oficiales de esta legislatura. Incluye relevos; no atribuye simultaneidad ni intervalos diarios desconocidos.",
+  "archivedComposition": {
+    "source": "https://www.asambleamurcia.es/diputados?leg=10",
+    "checkedAt": "2026-10-16",
+    "note": "Relación agrupada del directorio archivado: 45 de 45 escaños identificados. No es una reconstrucción diaria ni una asignación física de asientos.",
+    "groups": [
+      {
+        "name": "Socialista",
+        "source": "https://www.asambleamurcia.es/diputado/10002/antonia-abenza-campuzano",
+        "members": [
+          "murcia-antonia-abenza-campuzano",
+          "murcia-gloria-alarcon-garcia",
+          "murcia-jose-antonio-campos-bayona",
+          "murcia-rosalia-casado-lopez",
+          "murcia-antonio-jose-espin-espin",
+          "murcia-maria-del-carmen-fernandez-sanchez",
+          "murcia-maria-hernandez-abellan",
+          "murcia-pedro-lopez-hernandez",
+          "murcia-virginia-lopo-morales",
+          "congreso-230-15",
+          "murcia-alfonso-martinez-banos",
+          "murcia-consagracion-martinez-munoz",
+          "murcia-maria-dolores-martinez-pay",
+          "murcia-fernando-moreno-garcia",
+          "murcia-jose-antonio-penalver-pardinez",
+          "murcia-maria-magdalena-sanchez-blesa",
+          "murcia-manuel-sevilla-nicolas"
+        ]
+      },
+      {
+        "name": "Ciudadanos-Partido de la Ciudadanía",
+        "source": "https://www.asambleamurcia.es/diputado/10004/francisco-alvarez-garcia",
+        "members": [
+          "murcia-francisco-alvarez-garcia",
+          "murcia-alberto-castillo-banos",
+          "murcia-maria-isabel-franco-sanchez",
+          "murcia-maria-del-valle-miguelez-santiago"
+        ]
+      },
+      {
+        "name": "Popular",
+        "source": "https://www.asambleamurcia.es/diputado/10005/antonio-calderon-rodriguez",
+        "members": [
+          "murcia-antonio-calderon-rodriguez",
+          "murcia-jesus-cano-molina",
+          "murcia-miriam-guardiola-salmeron",
+          "murcia-maria-inmaculada-lardin-verdu",
+          "fernando-lopez-miras",
+          "murcia-victor-martinez-carrasco-guzman",
+          "murcia-juan-antonio-mata-tamboleo",
+          "murcia-miguel-angel-miralles-gonzalez-conde",
+          "murcia-maria-del-carmen-pelegrin-garcia",
+          "murcia-sonia-ruiz-escribano",
+          "murcia-maria-del-carmen-ruiz-jodar",
+          "murcia-isabel-maria-sanchez-ruiz",
+          "murcia-ramon-sanchez-parra-servet",
+          "murcia-joaquin-segado-martinez",
+          "murcia-maria-dolores-valcarcel-jimenez",
+          "murcia-clara-valverde-soto"
+        ]
+      },
+      {
+        "name": "Vox",
+        "source": "https://www.asambleamurcia.es/diputado/10031/maria-isabel-campuzano-martinez",
+        "members": [
+          "murcia-maria-isabel-campuzano-martinez"
+        ]
+      },
+      {
+        "name": "Mixto",
+        "source": "https://www.asambleamurcia.es/diputado/10032/francisco-jose-carrera-de-la-fuente",
+        "members": [
+          "murcia-francisco-jose-carrera-de-la-fuente",
+          "murcia-juan-jose-liarte-pedreno",
+          "murcia-maria-marin-martinez",
+          "murcia-ana-martinez-vidal",
+          "murcia-juan-jose-molina-gallardo",
+          "murcia-pascual-salvador-hernandez"
+        ]
+      },
+      {
+        "name": "Adscripción pendiente de contraste",
+        "source": "https://www.asambleamurcia.es/diputado/10050/helena-vidal-brazales",
+        "members": [
+          "murcia-helena-vidal-brazales"
+        ]
+      }
+    ]
+  }
+}

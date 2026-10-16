@@ -1,6 +1,10 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.20.0 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.21.0 · 16 de octubre de 2026.
+
+## Región de Murcia · 0.21
+
+Murcia incorpora Gobierno y Asamblea Regional: once legislaturas parlamentarias desde 1983 y dieciséis etapas presidenciales desde 1982. Conserva la presentación, la navegación histórica, las Mesas, el hemiciclo y los filtros compartidos. La composición vigente distingue 45 diputados y recoge la remodelación del Ejecutivo de mayo de 2026. La revisión abarca 404 identidades y añade 350 fichas. Los datos y retratos se guardan en `Políticos/`, conservando los identificadores anteriores. Fuentes, correcciones y límites del archivo: [Región de Murcia](Gobiernos/Autonomías/Región%20de%20Murcia/README.md).
 
 ## La Rioja · 0.20
 

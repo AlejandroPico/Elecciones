@@ -1,0 +1,39 @@
+[
+  {
+    "organization": null,
+    "name": "Mixto",
+    "period": "Legislatura X",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleamurcia.es/diputado/10108/maria-marin-martinez",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "murcia"
+  },
+  {
+    "organization": null,
+    "name": "Mixto",
+    "period": "Legislatura XI",
+    "kind": "association",
+    "source": {
+      "label": "Trayectoria publicada por la Asamblea Regional",
+      "url": "https://www.asambleamurcia.es/diputado/11021/maria-marin-martinez",
+      "kind": "institutional"
+    },
+    "territory": "murcia"
+  },
+  {
+    "organization": "podemos",
+    "name": "Podemos",
+    "period": "Dirección regional documentada en la biografía de la XI legislatura",
+    "kind": "association",
+    "source": {
+      "label": "Trayectoria publicada por la Asamblea Regional",
+      "url": "https://www.asambleamurcia.es/diputado/11021/maria-marin-martinez",
+      "kind": "institutional"
+    },
+    "territory": "murcia"
+  }
+]

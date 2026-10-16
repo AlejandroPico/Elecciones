@@ -15,7 +15,7 @@ import conservation from "../revisiones/2026-10-16-rioja/conservacion.json";
 
 it("conserva las fichas anteriores y enlaza once parlamentos y catorce gobiernos riojanos", () => {
   expect(audit.baselinePeople).toBe(12061);
-  expect(people).toHaveLength(audit.totalPeople);
+  expect(people.length).toBeGreaterThanOrEqual(audit.totalPeople);
   for (const id of conservation.baselineIds)
     expect(findPerson(id), id).toBeTruthy();
   expect(rioja.parliaments).toHaveLength(11);
