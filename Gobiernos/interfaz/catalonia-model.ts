@@ -19,6 +19,8 @@ export type CatalanGovernment = {
   incidents: string[];
   archiveTerms?: CatalanTerm[];
   currentOnly?: boolean;
+  /** Fechas de instantáneas nominales verificadas, sin inferir su vigencia diaria. */
+  preferredDate?: string;
 };
 export type CatalanParliament = {
   id: string;

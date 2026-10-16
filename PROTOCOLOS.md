@@ -1,5 +1,11 @@
 # Protocolos de Elecciones
 
+## Galicia y las instantáneas de gabinetes
+
+Galicia utiliza las mismas carpetas regionales, IDs personales y componentes compartidos. Contiene doce legislaturas parlamentarias (71 escaños en I y II, 75 desde III) y catorce etapas presidenciales. Las consejerías con `observedAt` solo se representan en esa fecha acreditada; la cronología incluye esas instantáneas y `preferredDate` selecciona la más reciente. No prolongar un nombramiento de conselleiro durante toda una presidencia. Las fechas presidenciales corresponden a los Reales Decretos de nombramiento, sin llamarlas toma de posesión.
+
+La IX legislatura conserva como referencia la proclamación electoral completa de 2012, identificada como tal; no certifica que cada electo tomase posesión. En V, los quince escaños de la coalición electoral corresponden a trece socialistas y dos integrantes del Mixto. Los relevos, las variantes nominales y las erratas se documentan en `Gobiernos/Autonomías/Galicia/fuentes/`. No reparar años por conjetura ni fusionar personas por parecido. Las fotografías individuales originales y sus créditos viven en `Políticos/`; las ausencias históricas constan en la auditoría. Un texto alternativo desactualizado no acredita la identidad de una fotografía.
+
 Revisión: 16 de octubre de 2026. Aplicable a personas y agentes que amplíen este repositorio.
 
 ## Carpetas y nombres
@@ -125,7 +131,7 @@ En la ficha personal, reunir todos los periodos propios en una única sección �
 - Los cambios fechados de grupo, mandato, Mesa y fechas exactas de gabinete generan instantáneas. Las fechas mensuales de gabinete conservan esa precisión en la etiqueta y en la comparación; no inventar un nombramiento el día 1. La falta de adscripción fechada se muestra como tal, sin reutilizar la última adscripción para épocas anteriores.
 - El hemiciclo es un diagrama de personas únicas, agrupadas para lectura. **No asignar números de asiento físico por orden alfabético, tamaño de grupo ni candidatura.** `physicalSeating` registra la fuente pendiente y la fecha de consulta. Solo incorporar un plano real cuando haya posiciones fechadas y acreditadas. Los excesos temporales del inventario histórico se conservan y señalan; las posiciones sin mandato acreditado no se presentan como vacantes verificadas.
 - `#/congreso/congress/<composición>` y `#/autonomias/autonomy/<territorio:sección>` usan el historial central. Abrir una persona desde el Congreso conserva primero la composición que se estaba viendo, incluidos los pasos reproducidos. Mantener búsqueda y filtros al retroceder.
-- `Gobiernos/Autonomías/territorios.json` contiene las 17 comunidades y las dos ciudades autónomas, con IDs estables sin tildes. El menú distingue Gobierno y Parlamento; Madrid, Ceuta y Melilla usan Asamblea. Cataluña, Madrid, la Comunitat Valenciana, Andalucía, Canarias, Ceuta, Melilla, Castilla-La Mancha y Castilla y León están documentadas; las demás rutas siguen pendientes y no deben mostrar datos de otro territorio.
+- `Gobiernos/Autonomías/territorios.json` contiene las 17 comunidades y las dos ciudades autónomas, con IDs estables sin tildes. El menú distingue Gobierno y Parlamento; Madrid, Ceuta y Melilla usan Asamblea. Cataluña, Madrid, la Comunitat Valenciana, Andalucía, Canarias, Ceuta, Melilla, Castilla-La Mancha, Castilla y León, Aragón, País Vasco, Navarra, Asturias, Cantabria y Galicia están documentadas; las demás rutas siguen pendientes y no deben mostrar datos de otro territorio.
 
 ## Madrid y navegación lateral
 

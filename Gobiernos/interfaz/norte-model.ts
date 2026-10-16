@@ -19,11 +19,24 @@ export function institutions(
     parliaments,
     governmentChronology: governments
       .flatMap((period) =>
-        regionalDates(period, period.terms, period.currentOnly).map((date) => ({
-          id: `${period.id}-${date}`,
-          date,
-          period,
-        })),
+        [
+          ...new Set([
+            ...regionalDates(period, period.terms, period.currentOnly),
+            ...period.terms.flatMap((term) =>
+              term.observedAt &&
+              term.observedAt >= period.start &&
+              (!period.end || term.observedAt < period.end)
+                ? [term.observedAt]
+                : [],
+            ),
+          ]),
+        ]
+          .sort()
+          .map((date) => ({
+            id: `${period.id}-${date}`,
+            date,
+            period,
+          })),
       )
       .sort((a, b) => a.date.localeCompare(b.date)),
     parliamentChronology: parliaments

@@ -1,0 +1,105 @@
+{
+  "id": "galicia-gobierno-10",
+  "label": "Legislatura IX",
+  "name": "Xunta de Galicia · Alberto Núñez Feijóo",
+  "start": "2012-11-29",
+  "end": "2016-11-11",
+  "checkedAt": "2026-10-16",
+  "source": "https://boe.es/boe/dias/2012/11/30/pdfs/BOE-A-2012-14655.pdf",
+  "terms": [
+    {
+      "person": "feijoo",
+      "name": "Alberto Núñez Feijóo",
+      "start": "2012-11-29",
+      "end": "2016-11-11",
+      "role": "Presidente de la Xunta de Galicia",
+      "source": "https://boe.es/boe/dias/2012/11/30/pdfs/BOE-A-2012-14655.pdf",
+      "level": "president"
+    },
+    {
+      "person": "alfonso-rueda",
+      "name": "Alfonso Rueda Valenzuela",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Presidencia, Administracións Públicas e Xustiza",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "senado-18526",
+      "name": "Elena Muñoz Fonteriz",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Facenda",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "galicia-agustin-hernandez-fernandez-de-rojas",
+      "name": "Agustín Hernández Fernández de Rojas",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Medio Ambiente, Territorio e Infraestruturas",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "congreso-349-15",
+      "name": "Francisco José Conde López",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Economía e Industria",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "congreso-214-9",
+      "name": "Jesús Vázquez Abad",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Cultura, Educación e Ordenación Universitaria",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "galicia-rocio-mosquera-alvarez",
+      "name": "Rocío Mosquera Álvarez",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Sanidade",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "galicia-beatriz-mato-otero",
+      "name": "Beatriz Mato Otero",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Traballo e Benestar",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    },
+    {
+      "person": "congreso-197-15",
+      "name": "Rosa Quintana Carballo",
+      "start": null,
+      "end": null,
+      "role": "Conselleira do Medio Rural e do Mar",
+      "source": "https://www.xunta.gal/dog/Publicados/2012/20121203/AnuncioC3B0-021212-0003_gl.html",
+      "level": "minister",
+      "observedAt": "2012-12-03"
+    }
+  ],
+  "incidents": [
+    "La fecha de inicio corresponde al Real Decreto de nombramiento presidencial. Las consejerías solo aparecen en las fechas de las composiciones documentadas; no se prolongan automáticamente durante toda la etapa."
+  ],
+  "archiveTerms": [],
+  "preferredDate": "2012-12-03"
+}

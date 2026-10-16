@@ -1,0 +1,135 @@
+{
+  "id": "galicia-gobierno-12",
+  "label": "Legislatura XI · Feijóo",
+  "name": "Xunta de Galicia · Alberto Núñez Feijóo",
+  "start": "2020-09-03",
+  "end": "2022-05-12",
+  "checkedAt": "2026-10-16",
+  "source": "https://www.boe.es/boe/dias/2020/09/04/pdfs/BOE-A-2020-10196.pdf",
+  "terms": [
+    {
+      "person": "feijoo",
+      "name": "Alberto Núñez Feijóo",
+      "start": "2020-09-03",
+      "end": "2022-05-12",
+      "role": "Presidente de la Xunta de Galicia",
+      "source": "https://www.boe.es/boe/dias/2020/09/04/pdfs/BOE-A-2020-10196.pdf",
+      "level": "president"
+    },
+    {
+      "person": "alfonso-rueda",
+      "name": "Alfonso Rueda Valenzuela",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente primeiro e conselleiro de Presidencia, Xustiza e Turismo",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "vice",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "congreso-349-15",
+      "name": "Francisco José Conde López",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente segundo e conselleiro de Economía, Empresa e Innovación",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "vice",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-valeriano-martinez-garcia",
+      "name": "Valeriano Martínez García",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Facenda e Administración Pública",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "congreso-395-9",
+      "name": "María Ángeles Vázquez Mejuto",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Medio Ambiente, Territorio e Vivenda",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-ethel-maria-vazquez-mourelle",
+      "name": "Ethel Maria Vázquez Mourelle",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Infraestruturas e Mobilidade",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-roman-rodriguez-gonzalez",
+      "name": "Román Rodríguez González",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Cultura, Educación e Universidade",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-maria-jesus-lorenzana-somoza",
+      "name": "María Jesús Lorenzana Somoza",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Emprego e Igualdade",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-julio-garcia-comesana",
+      "name": "Julio García Comesaña",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Sanidade",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-fabiola-garcia-martinez",
+      "name": "Fabiola García Martínez",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Política Social",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "galicia-jose-gonzalez-vazquez",
+      "name": "José González Vázquez",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro do Medio Rural",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    },
+    {
+      "person": "congreso-197-15",
+      "name": "Rosa Quintana Carballo",
+      "start": null,
+      "end": null,
+      "role": "Conselleira do Mar",
+      "source": "https://www.xunta.gal/dog/Publicados/2020/20200907/AnuncioC3B0-060920-3_gl.html",
+      "level": "minister",
+      "observedAt": "2020-09-07"
+    }
+  ],
+  "incidents": [
+    "La fecha de inicio corresponde al Real Decreto de nombramiento presidencial. Las consejerías solo aparecen en las fechas de las composiciones documentadas; no se prolongan automáticamente durante toda la etapa."
+  ],
+  "archiveTerms": [],
+  "preferredDate": "2020-09-07"
+}

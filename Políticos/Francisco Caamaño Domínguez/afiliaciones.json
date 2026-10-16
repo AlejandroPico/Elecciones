@@ -20,5 +20,31 @@
       "kind": "institutional"
     },
     "note": "Formación electoral indicada por el Congreso para esta candidatura. No acredita por sí sola militancia ni vinculación actual."
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialistas de Galicia",
+    "period": "Legislatura IX",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.parlamentodegalicia.es/sitios/web/BibliotecaResultadoAnteriores/9.pdf#page=6",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "galicia"
+  },
+  {
+    "organization": "psoe",
+    "name": "Socialistas de Galicia",
+    "period": "Legislatura IX · proclamación electoral",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.xunta.gal/dog/Publicados/2012/20121107/AnuncioG2453-061112-1_gl.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "galicia"
   }
 ]

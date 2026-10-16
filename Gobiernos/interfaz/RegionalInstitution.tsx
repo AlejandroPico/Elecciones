@@ -361,9 +361,7 @@ export default function RegionalInstitution({
           )}
           {pp.nominalOnly ? (
             <details className="senate-senators regional-nominal-archive">
-              <summary>
-                Participantes de la legislatura · incluidos los relevos
-              </summary>
+              <summary>Archivo nominal de la legislatura</summary>
               <section className="regional-nominal-archive">
                 <h2>Registro histórico de la legislatura</h2>
                 <p className="small-note">{pp.note}</p>
@@ -374,7 +372,7 @@ export default function RegionalInstitution({
                         m.person,
                         {
                           ...m,
-                          role: "Registro institucional",
+                          role: m.role,
                           start: null,
                           end: null,
                         },

@@ -1,0 +1,28 @@
+[
+  {
+    "organization": null,
+    "name": "Mixto",
+    "period": "XII · composición consultada el 2026-10-16",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.parlamentodegalicia.es/Composicion/Deputados/517/armando-ojea-bouzo",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "galicia"
+  },
+  {
+    "organization": "registro-2351",
+    "name": "Democracia Ourensana",
+    "period": "Candidatura electoral de 2024",
+    "kind": "association",
+    "territory": "galicia",
+    "source": {
+      "label": "Candidatura publicada en la biografía parlamentaria",
+      "url": "https://www.parlamentodegalicia.es/Composicion/Deputados/517/armando-ojea-bouzo",
+      "kind": "institutional"
+    },
+    "note": "La biografía institucional documenta la candidatura y su condición de fundador; no se deduce de pertenecer al Grupo Mixto."
+  }
+]

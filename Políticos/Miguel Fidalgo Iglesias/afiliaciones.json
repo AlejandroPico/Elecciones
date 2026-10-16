@@ -10,5 +10,18 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Popular de Galicia",
+    "period": "XII · composición consultada el 2026-10-16",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.parlamentodegalicia.es/Composicion/Deputados/532/miguel-fidalgo-iglesias",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "galicia"
   }
 ]

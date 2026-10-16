@@ -1,0 +1,125 @@
+{
+  "id": "galicia-gobierno-11",
+  "label": "Legislatura X",
+  "name": "Xunta de Galicia · Alberto Núñez Feijóo",
+  "start": "2016-11-11",
+  "end": "2020-09-03",
+  "checkedAt": "2026-10-16",
+  "source": "https://boe.es/boe/dias/2016/11/12/pdfs/BOE-A-2016-10462.pdf",
+  "terms": [
+    {
+      "person": "feijoo",
+      "name": "Alberto Núñez Feijóo",
+      "start": "2016-11-11",
+      "end": "2020-09-03",
+      "role": "Presidente de la Xunta de Galicia",
+      "source": "https://boe.es/boe/dias/2016/11/12/pdfs/BOE-A-2016-10462.pdf",
+      "level": "president"
+    },
+    {
+      "person": "alfonso-rueda",
+      "name": "Alfonso Rueda Valenzuela",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente e conselleiro de Presidencia, Administracións Públicas e Xustiza",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "vice",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "galicia-valeriano-martinez-garcia",
+      "name": "Valeriano Martínez García",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Facenda",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "galicia-beatriz-mato-otero",
+      "name": "Beatriz Mato Otero",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Medio Ambiente e Ordenación do Territorio",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "galicia-ethel-maria-vazquez-mourelle",
+      "name": "Ethel Maria Vázquez Mourelle",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Infraestruturas e Vivenda",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "congreso-349-15",
+      "name": "Francisco José Conde López",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Economía, Emprego e Industria",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "galicia-roman-rodriguez-gonzalez",
+      "name": "Román Rodríguez González",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Cultura, Educación e Ordenación Universitaria",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "galicia-jesus-vazquez-almuina",
+      "name": "Jesús Vázquez Almuíña",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Sanidade",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "senado-19967",
+      "name": "José Manuel Rey Varela",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Política Social",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "congreso-395-9",
+      "name": "María Ángeles Vázquez Mejuto",
+      "start": null,
+      "end": null,
+      "role": "Conselleira do Medio Rural",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    },
+    {
+      "person": "congreso-197-15",
+      "name": "Rosa Quintana Carballo",
+      "start": null,
+      "end": null,
+      "role": "Conselleira do Mar",
+      "source": "https://www.xunta.gal/dog/Publicados/2016/20161114/AnuncioC3B0-131116-3_gl.html",
+      "level": "minister",
+      "observedAt": "2016-11-14"
+    }
+  ],
+  "incidents": [
+    "La fecha de inicio corresponde al Real Decreto de nombramiento presidencial. Las consejerías solo aparecen en las fechas de las composiciones documentadas; no se prolongan automáticamente durante toda la etapa."
+  ],
+  "archiveTerms": [],
+  "preferredDate": "2016-11-14"
+}

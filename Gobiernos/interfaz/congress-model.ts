@@ -147,6 +147,10 @@ export function congressStageContains(
   );
 }
 export function congressGroupColor(name: string) {
+  if (/bloque nacionalista galego|\bbng\b/i.test(name)) return "#65b2cf";
+  if (/en marea|común da esquerda|alternativa galega/i.test(name))
+    return "#a282c4";
+  if (/coalición galega/i.test(name)) return "#559483";
   if (/socialist|\bpsn\b|\bpsoe\b/i.test(name)) return "#cf5360";
   if (/\bcup\b|unitat popular/i.test(name)) return "#d78d4f";
   if (/popular|alianza popular|\bupn\b|\bppn?\b/i.test(name)) return "#579ad0";

@@ -1,0 +1,265 @@
+{
+  "id": "galicia-gobierno-14",
+  "label": "Legislatura XII",
+  "name": "Xunta de Galicia · Alfonso Rueda Valenzuela",
+  "start": "2024-04-11",
+  "end": null,
+  "checkedAt": "2026-10-16",
+  "source": "https://www.boe.es/boe/dias/2024/04/12/pdfs/BOE-A-2024-7204.pdf",
+  "terms": [
+    {
+      "person": "alfonso-rueda",
+      "name": "Alfonso Rueda Valenzuela",
+      "start": "2024-04-11",
+      "end": null,
+      "role": "Presidente de la Xunta de Galicia",
+      "source": "https://www.boe.es/boe/dias/2024/04/12/pdfs/BOE-A-2024-7204.pdf",
+      "level": "president"
+    },
+    {
+      "person": "galicia-diego-calvo-pouso",
+      "name": "Diego Calvo Pouso",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Presidencia, Xustiza e Deportes",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "congreso-395-9",
+      "name": "María Ángeles Vázquez Mejuto",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Medio Ambiente e Cambio Climático",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-roman-rodriguez-gonzalez",
+      "name": "Román Rodríguez González",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Educación, Ciencia, Universidades e Formación Profesional",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-fabiola-garcia-martinez",
+      "name": "Fabiola García Martínez",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Política Social e Igualdade",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-maria-jesus-lorenzana-somoza",
+      "name": "María Jesús Lorenzana Somoza",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Economía e Industria",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-miguel-corgos-lopez-prado",
+      "name": "Miguel Corgos López-Prado",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Facenda e Administración Pública",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-maria-martinez-allegue",
+      "name": "María Martínez Allegue",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Vivenda e Planificación de Infraestruturas",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-antonio-gomez-caamano",
+      "name": "Antonio Gómez Caamaño",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Sanidade",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-jose-lopez-campos",
+      "name": "José López Campos",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Cultura, Lingua e Xuventude",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-jose-gonzalez-vazquez",
+      "name": "José González Vázquez",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Emprego, Comercio e Emigración",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "senado-19868",
+      "name": "María José Gómez Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Conselleira do Medio Rural",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-alfonso-villares-bermudez",
+      "name": "Alfonso Villares Bermúdez",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro do Mar",
+      "source": "https://www.xunta.gal/dog/Publicados/2024/20240414/AnuncioC3B0-140424-3_gl.html",
+      "level": "minister",
+      "observedAt": "2024-04-14"
+    },
+    {
+      "person": "galicia-diego-calvo-pouso",
+      "name": "Diego Calvo Pouso",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Presidencia, Justicia y Deportes",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0350.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "congreso-395-9",
+      "name": "María Ángeles Vázquez Mejuto",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Medio Ambiente y Cambio Climático",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0209.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-roman-rodriguez-gonzalez",
+      "name": "Román Rodríguez González",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Educación, Ciencia, Universidades y Formación Profesional",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0229.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-fabiola-garcia-martinez",
+      "name": "Fabiola García Martínez",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Política Social e Igualdad",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0215.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-maria-jesus-lorenzana-somoza",
+      "name": "María Jesús Lorenzana Somoza",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Economía e Industria",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0356.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-miguel-corgos-lopez-prado",
+      "name": "Miguel Corgos López-Prado",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Hacienda y Administración Pública",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0202.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-maria-martinez-allegue",
+      "name": "María Martínez Allegue",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Vivienda y Planificación de Infraestructuras",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0204.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-antonio-gomez-caamano",
+      "name": "Antonio Gómez Caamaño",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Sanidad",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0207.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-jose-lopez-campos",
+      "name": "José López Campos",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Cultura, Lengua y Juventud",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0360.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-jose-gonzalez-vazquez",
+      "name": "José González Vázquez",
+      "start": null,
+      "end": null,
+      "role": "Conselleiro de Empleo, Comercio y Emigración",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0235.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "senado-19868",
+      "name": "María José Gómez Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Conselleira de Medio Rural",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0206.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "galicia-marta-villaverde-acuna",
+      "name": "Marta Villaverde Acuña",
+      "start": null,
+      "end": null,
+      "role": "Conselleira do Mar",
+      "source": "https://transparencia.xunta.gal/es/tema/transparencia-institucional/goberno-e-altos-cargos/composicion-do-goberno?content=/.content/unidades_informacion_transparencia/interiores/tema_2/altos_cargos/goberno/transparencia_0355.xml",
+      "level": "minister",
+      "observedAt": "2026-10-16"
+    }
+  ],
+  "incidents": [
+    "La fecha de inicio corresponde al Real Decreto de nombramiento presidencial. Las consejerías solo aparecen en las fechas de las composiciones documentadas; no se prolongan automáticamente durante toda la etapa."
+  ],
+  "archiveTerms": [],
+  "preferredDate": "2026-10-16"
+}

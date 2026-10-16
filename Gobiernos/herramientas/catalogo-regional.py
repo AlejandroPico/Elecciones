@@ -3,7 +3,7 @@ import collections,concurrent.futures,importlib.util,pathlib,json,re,unicodedata
 s=importlib.util.spec_from_file_location('n',pathlib.Path(__file__).with_name('consultar-norte.py'));n=importlib.util.module_from_spec(s);s.loader.exec_module(n);c=n.c
 from PIL import Image
 ROOT=pathlib.Path('.');PERSONS=ROOT/'Políticos';CHECKED=c.CHECKED
-REGIONS={'pais-vasco':'País Vasco','navarra':'Navarra','asturias':'Asturias','cantabria':'Cantabria'}
+REGIONS={'pais-vasco':'País Vasco','navarra':'Navarra','asturias':'Asturias','cantabria':'Cantabria','galicia':'Galicia'}
 
 def load(path,default=None):
  p=pathlib.Path(path);return json.loads(p.read_text('utf8'))if p.exists()else default

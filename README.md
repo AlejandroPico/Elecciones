@@ -1,6 +1,12 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.18.0 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.19.0 · 16 de octubre de 2026.
+
+## Galicia · 0.19
+
+Galicia incorpora doce legislaturas parlamentarias desde 1981 y catorce etapas presidenciales desde 1982, con Mesas, cronología, hemiciclo y fichas enlazadas. Se revisan 621 identidades y se añaden 505 personas conservando las 11.556 anteriores. Los 75 parlamentarios y los trece integrantes del Gobierno vigente tienen retrato documentado.
+
+Los hemiciclos históricos distinguen los 71 escaños de I y II de los 75 posteriores. La IX utiliza la proclamación electoral de 2012 como referencia explícita; las demás relaciones nominales archivadas conservan los titulares y sus relevos por separado. Nueve decretos del DOG documentan gabinetes desde 1997; las consellerías anteriores se mantienen como archivo complementario con sus límites de precisión visibles. Fuentes, erratas y fotografías históricas aún ausentes: [Galicia](Gobiernos/Autonomías/Galicia/README.md).
 
 ## Asturias y Cantabria · 0.18
 
