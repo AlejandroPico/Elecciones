@@ -1,6 +1,10 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.19.0 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.20.0 · 16 de octubre de 2026.
+
+## La Rioja · 0.20
+
+La Rioja incorpora Gobierno y Parlamento con once legislaturas desde 1983 y catorce etapas presidenciales desde 1982. Mesas, cronología, hemiciclo, filtros y fichas mantienen la presentación compartida. La primera legislatura tiene 35 escaños; desde la segunda son 33. Los cuadros de Transparencia documentan 141 registros históricos de consejerías y vicepresidencias con sus fechas individuales. Fuentes, correcciones y límites de cobertura: [La Rioja](Gobiernos/Autonomías/La%20Rioja/README.md).
 
 ## Galicia · 0.19
 

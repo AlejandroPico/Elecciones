@@ -10,5 +10,44 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": null,
+    "name": "Riojano",
+    "period": "Legislatura II",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.parlamento-larioja.org/conoce-el-parlamento/legislaturas-anteriores/legislatura-2/diputados/leopoldo-virosta-garoz",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "la-rioja"
+  },
+  {
+    "organization": null,
+    "name": "Partido Riojano",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.parlamento-larioja.org/conoce-el-parlamento/legislaturas-anteriores/legislatura-3/diputados/copy_of_miguel-maria-gonzalez-de-legarra",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "la-rioja"
+  },
+  {
+    "organization": null,
+    "name": "Partido Riojano",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.parlamento-larioja.org/conoce-el-parlamento/legislaturas-anteriores/legislatura-4/diputados/leopoldo-virosta-garoz",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "la-rioja"
   }
 ]

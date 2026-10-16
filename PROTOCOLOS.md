@@ -1,5 +1,11 @@
 # Protocolos de Elecciones
 
+## La Rioja
+
+Usar `Gobiernos/Autonomías/La Rioja/{Gobierno,Parlamento}/<AAAA> <etapa>/composicion.json` e ID territorial `la-rioja`. Once legislaturas: 35 escaños en I y 33 desde II. Las relaciones históricas son nominales y archivadas; conservar relevos y adscripciones sin afirmar simultaneidad ni asientos físicos. Las fechas de etapa del Parlamento van de constitución a constitución y no acreditan bajas personales. La Mesa III se completa con el boletín oficial, porque su directorio omite la vicepresidencia primera.
+
+Los trece cuadros de Transparencia aportan los intervalos individuales de consejerías; no recortarlos ni extenderlos por las fechas presidenciales. La composición vigente del Consejo es una instantánea `observedAt`, no un mandato inferido desde 2023. Conservar los originales y explicar las erratas en `fuentes/incidencias-revisadas.json`. No desarrollar iniciales ni reparar apellidos por semejanza. Retratos y biografías exclusivamente en `Políticos/`; las fusiones contrastadas conservan IDs y recursos, con auditoría.
+
 ## Galicia y las instantáneas de gabinetes
 
 Galicia utiliza las mismas carpetas regionales, IDs personales y componentes compartidos. Contiene doce legislaturas parlamentarias (71 escaños en I y II, 75 desde III) y catorce etapas presidenciales. Las consejerías con `observedAt` solo se representan en esa fecha acreditada; la cronología incluye esas instantáneas y `preferredDate` selecciona la más reciente. No prolongar un nombramiento de conselleiro durante toda una presidencia. Las fechas presidenciales corresponden a los Reales Decretos de nombramiento, sin llamarlas toma de posesión.

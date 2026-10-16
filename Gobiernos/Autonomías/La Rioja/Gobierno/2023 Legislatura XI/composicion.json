@@ -1,0 +1,94 @@
+{
+  "id": "la-rioja-gobierno-14",
+  "label": "Legislatura XI",
+  "name": "Gobierno de La Rioja · Gonzalo Capellán de Miguel",
+  "start": "2023-06-28",
+  "end": null,
+  "checkedAt": "2026-10-16",
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15140",
+  "terms": [
+    {
+      "person": "gonzalo-capellan",
+      "name": "Gonzalo Capellán de Miguel",
+      "start": "2023-06-28",
+      "end": null,
+      "role": "Presidente/a de La Rioja",
+      "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15140",
+      "level": "president"
+    },
+    {
+      "person": "la-rioja-alfonso-dominguez-simon",
+      "name": "Alfonso Domínguez Simón",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Hacienda, Gobernanza Pública, Sociedad Digital y Portavocía del Gobierno",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    },
+    {
+      "person": "la-rioja-maria-purificacion-martin-diez-de-baldeon",
+      "name": "María Purificación Martín Díez de Baldeón",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Salud y Políticas Sociales",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    },
+    {
+      "person": "la-rioja-alberto-galiana-garcia",
+      "name": "Alberto Galiana García",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Educación y Empleo",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    },
+    {
+      "person": "senado-17058",
+      "name": "José Luis Pérez Pastor",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Cultura, Turismo, Deporte y Juventud",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    },
+    {
+      "person": "la-rioja-maria-belinda-leon-fernandez",
+      "name": "María Belinda León Fernández",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Economía, Innovación, Empresa y Trabajo Autónomo",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    },
+    {
+      "person": "la-rioja-noemi-manzanos-martinez",
+      "name": "Noemí Manzanos Martínez",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Agricultura, Ganadería, Mundo Rural y Medio Ambiente",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    },
+    {
+      "person": "senado-15585",
+      "name": "Daniel Osés Ramírez",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Política Local, Infraestructuras y lucha contra la despoblación",
+      "source": "https://web.larioja.org/consejo-de-gobierno",
+      "observedAt": "2026-10-16",
+      "level": "minister"
+    }
+  ],
+  "incidents": [
+    "Fechas de nombramiento y cese transcritas de los cuadros del Portal de Transparencia. No equivalen necesariamente a la fecha de toma de posesión. Las consejerías que continúan en funciones conservan sus propias fechas documentadas."
+  ],
+  "preferredDate": "2026-10-16"
+}
