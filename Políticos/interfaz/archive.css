@@ -270,6 +270,13 @@
   transform: scale(1.035);
   filter: saturate(0.8);
 }
+:is(.person-photo, .biography-photo, .government-portrait) img[data-crop-scale] {
+  transform: scale(var(--portrait-scale));
+  transform-origin: center top;
+}
+.person-card:hover img[data-crop-scale] {
+  transform: scale(calc(var(--portrait-scale) * 1.035));
+}
 .person-number {
   position: absolute;
   right: 15px;
@@ -462,6 +469,7 @@
 .biography-photo {
   height: 310px;
   background: var(--accent-soft);
+  overflow: hidden;
 }
 .biography-photo > img {
   width: 100%;

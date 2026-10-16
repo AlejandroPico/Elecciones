@@ -7,6 +7,7 @@ export function Portrait({ person }: { person: Person }) {
       name={person.name}
       initials={person.initials}
       position={person.photoPosition}
+      scale={person.photoScale}
     />
   );
 }

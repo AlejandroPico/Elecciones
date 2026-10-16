@@ -36,6 +36,7 @@ export const people: Person[] = Object.entries(personFiles)
       file: string;
       credit: string;
       position?: string;
+      scale?: number;
       source: string;
       license?: string;
       licenseUrl?: string;
@@ -229,6 +230,7 @@ export const people: Person[] = Object.entries(personFiles)
             portrait: meta.id,
             photoCredit: image.credit,
             photoPosition: image.position,
+            photoScale: image.scale,
             photoSource: image.source,
             photoLicense: image.license,
             photoLicenseUrl: image.licenseUrl,
