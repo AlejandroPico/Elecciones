@@ -2,6 +2,8 @@
 
 Instantánea nominal del 16 de octubre de 2026. La portada `#/autonomias` colorea las 50 provincias y Ceuta y Melilla por la vinculación partidista de la presidencia de su comunidad o ciudad. No representa diputaciones provinciales, resultados electorales, apoyos de investidura ni el conjunto de partidos del gabinete. Las diecinueve referencias personales y las fuentes del nombramiento y de la vinculación se guardan en `presidencias.json`. El nombre completo y el retrato se enlazan con `Políticos/`, sin duplicar biografías ni imágenes.
 
+El realce eleva conjuntamente todas las provincias de una misma comunidad, conservando sus divisiones. Mover el cursor entre ellas cambia únicamente la provincia de la ficha; no reinicia la animación. Las áreas de interacción permanecen inmóviles. Clic, Enter o espacio abren la sección Gobierno de esa autonomía, también en las ciudades autónomas. En pantalla táctil, el primer toque muestra la ficha y un segundo toque en la misma autonomía abre su gobierno.
+
 La ficha flotante muestra **En el cargo desde**: el inicio de la etapa continuada del titular actual, incluida la continuidad entre mandatos consecutivos. `posesiones-presidencia.json` conserva las diecinueve fechas, la identidad exacta, la fuente y el criterio individual. Los retornos de Clavijo e Imbroda comienzan en 2023; no se presentan sus presidencias anteriores como continuadas. El BOME fecha la toma de posesión de Imbroda el 8 de julio de 2023, distinta de su elección el día 7 y del acto solemne del 15. Los decretos del mandato vigente y sus fechas se conservan en `presidencias.json`, con enlaces separados en la interfaz. La aplicación rechaza una presidencia cuya fecha curada corresponda a otra persona.
 
 ## Cartografía y licencia

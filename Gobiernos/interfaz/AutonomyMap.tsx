@@ -7,15 +7,16 @@ import {
   mapCheckedAt,
   mapParties,
   mapProvinces,
+  mapAutonomies,
   tooltipPosition,
   type MapProvince,
 } from "./mapa-model";
 import "./mapa.css";
 
 export default function AutonomyMap({
-  openPerson,
+  openGovernment,
 }: {
-  openPerson: (id: string) => void;
+  openGovernment: (territory: string) => void;
 }) {
   const id = useId().replace(/:/g, "");
   const [selected, setSelected] = useState<MapProvince>();
@@ -24,6 +25,7 @@ export default function AutonomyMap({
   const touch = useRef(false);
   const pinned = useRef<string | undefined>(undefined);
   const person = selected && mapPortraits[selected.presidency.person];
+  const autonomy = mapAutonomies.find((a) => a.id === selected?.territory);
   function position() {
     if (!tooltip.current) return;
     const { width, height } = tooltip.current.getBoundingClientRect();
@@ -118,15 +120,22 @@ export default function AutonomyMap({
             />
           ))}
         </g>
-        {/* La silueta elevada nunca recibe eventos: el área de interacción no se mueve. */}
-        {selected && (
-          <path
-            key={selected.id}
-            className="map-province-raised"
-            d={selected.path}
-            fill={selected.presidency.color}
+        {/* La autonomía se eleva como un conjunto; las áreas provinciales no se mueven. */}
+        {autonomy && (
+          <g
+            key={autonomy.id}
+            className="map-autonomy-raised"
+            data-territory={autonomy.id}
             aria-hidden="true"
-          />
+          >
+            {autonomy.provinces.map((province) => (
+              <path
+                key={province.id}
+                d={province.path}
+                fill={province.presidency.color}
+              />
+            ))}
+          </g>
         )}
         <g className="map-hits">
           {mapProvinces.map((province) => (
@@ -140,7 +149,7 @@ export default function AutonomyMap({
               }
               tabIndex={0}
               role="button"
-              aria-label={`${province.name} · ${province.presidency.territoryName} · ${province.presidency.name} · ${province.presidency.partyLabel}. Abrir ficha`}
+              aria-label={`${province.name} · ${province.presidency.territoryName} · ${province.presidency.name} · ${province.presidency.partyLabel}. Abrir gobierno de ${province.presidency.territoryName}`}
               aria-describedby={
                 selected?.id === province.id ? `${id}-tooltip` : undefined
               }
@@ -166,17 +175,17 @@ export default function AutonomyMap({
               }}
               onBlur={clear}
               onClick={() => {
-                if (touch.current && pinned.current !== province.id) {
-                  pinned.current = province.id;
+                if (touch.current && pinned.current !== province.territory) {
+                  pinned.current = province.territory;
                   setSelected(province);
                   return;
                 }
-                openPerson(province.presidency.person);
+                openGovernment(province.territory);
               }}
               onKeyDown={(event) => {
                 if (event.key === "Enter" || event.key === " ") {
                   event.preventDefault();
-                  openPerson(province.presidency.person);
+                  openGovernment(province.territory);
                 }
               }}
             />

@@ -1,6 +1,6 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.16.1 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.16.2 · 16 de octubre de 2026.
 
 Aragón incorpora las doce legislaturas de sus Cortes y catorce etapas presidenciales, con 470 fichas individuales consultadas. La composición archivada conserva 66 escaños en la I legislatura y 67 en las siguientes, separada del registro de sustituciones. El Gobierno vigente contiene diez titulares; las consejerías históricas proceden del organigrama oficial de Aragón Open Data. Se añaden 413 personas y 373 retratos sin retirar identidades anteriores. La revisión complementaria recupera otros dieciocho retratos, completa los cinco cargos de la primera Mesa y corrige tres intervalos contradictorios del catálogo histórico. Las 23 fotografías aún no localizadas conservan un informe individual. Véanse [cobertura y fuentes de Aragón](Gobiernos/Autonomías/Arag%C3%B3n/README.md).
 

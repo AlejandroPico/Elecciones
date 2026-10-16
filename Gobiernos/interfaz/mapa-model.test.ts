@@ -1,6 +1,7 @@
 import { expect, it } from "vitest";
 import {
   geography,
+  mapAutonomies,
   mapProvinces,
   presidencies,
   tooltipPosition,
@@ -13,6 +14,23 @@ it("representa las 50 provincias y las dos ciudades, con todas las presidencias 
   expect(mapProvinces).toHaveLength(52);
   expect(new Set(mapProvinces.map((p) => p.id)).size).toBe(52);
   expect(presidencies).toHaveLength(19);
+  expect(mapAutonomies).toHaveLength(19);
+  expect(
+    mapAutonomies
+      .flatMap((a) => a.provinces)
+      .map((p) => p.id)
+      .sort(),
+  ).toEqual(mapProvinces.map((p) => p.id).sort());
+  expect(
+    mapAutonomies.find((a) => a.id === "andalucia")!.provinces,
+  ).toHaveLength(8);
+  expect(
+    mapAutonomies.find((a) => a.id === "canarias")!.provinces,
+  ).toHaveLength(2);
+  for (const autonomy of mapAutonomies)
+    expect(autonomy.provinces.every((p) => p.territory === autonomy.id)).toBe(
+      true,
+    );
   expect(presidencies.map((p) => p.territory).sort()).toEqual(
     territories.map((t) => t.id).sort(),
   );
@@ -84,7 +102,7 @@ it("conserva límites detallados e inserciones separadas para Canarias y las ciu
   expect(centre("08").y).toBeLessThan(centre("46").y);
   expect(centre("15").x).toBeLessThan(centre("08").x);
 });
-it("mantiene las fichas dentro de pantalla y permite reconstruir la portada al volver desde una persona", () => {
+it("mantiene las fichas dentro de pantalla y las rutas de gobierno autonómico al volver al mapa", () => {
   for (const [w, h, width, height] of [
     [1280, 900, 370, 150],
     [390, 844, 366, 150],
@@ -102,8 +120,11 @@ it("mantiene las fichas dentro de pantalla y permite reconstruir la portada al v
     }
   const overview = { view: "autonomies" } as const;
   expect(parseRoute(routeHash(overview))).toEqual(overview);
-  expect(parseRoute("#/archivo/person/jorge-azcon")).toEqual({
-    view: "archive",
-    entry: { kind: "person", id: "jorge-azcon" },
-  });
+  for (const autonomy of mapAutonomies) {
+    const government = {
+      view: "autonomies",
+      entry: { kind: "autonomy", id: `${autonomy.id}:government` },
+    } as const;
+    expect(parseRoute(routeHash(government))).toEqual(government);
+  }
 });

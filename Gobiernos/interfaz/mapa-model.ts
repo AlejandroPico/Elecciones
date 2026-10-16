@@ -32,6 +32,13 @@ export const mapProvinces = geography.provinces.map((p) => ({
   )!,
 }));
 export type MapProvince = (typeof mapProvinces)[number];
+/** Una sola silueta animada por autonomía, con sus límites provinciales intactos. */
+export const mapAutonomies = presidencies.map((presidency) => ({
+  id: presidency.territory,
+  provinces: mapProvinces.filter(
+    (province) => province.territory === presidency.territory,
+  ),
+}));
 export const mapCheckedAt = snapshot.checkedAt;
 /** Mantiene la ficha dentro de la pantalla incluso en ciudades e islas. */
 export function tooltipPosition(

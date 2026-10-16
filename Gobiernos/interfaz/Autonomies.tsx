@@ -204,7 +204,11 @@ export default function Autonomies({
             </span>
           }
         >
-          <AutonomyMap openPerson={openPerson} />
+          <AutonomyMap
+            openGovernment={(territory) =>
+              openSection(autonomyEntry(territory, "government"))
+            }
+          />
         </Suspense>
       ) : (
         <p className="small-note">Contenido pendiente de incorporar.</p>
