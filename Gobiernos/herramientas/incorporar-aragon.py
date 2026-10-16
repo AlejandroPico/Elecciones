@@ -190,5 +190,8 @@ def run():
     c.write(regional('aragon')/'fuentes/gobierno-vigente.json',{'checkedAt':DATE,'source':'https://www.aragon.es/transparencia/gobierno','members':latest['terms']})
     c.write(AUDIT/'informe.json',{'checkedAt':DATE,'legislatures':coverage,'governments':len(governments),'historicalCabinetRecords':len(history),'currentGovernmentPeople':len(latest['terms']),'profileErrors':[{'key':p['key'],'name':p['name'],'source':p['source'],'error':p['sourceError']}for p in profiles.values()if p.get('sourceError')]})
     cat.save()
+    # La revisión posterior es reproducible desde sus fuentes curadas. Evitar
+    # que regenerar el catálogo vuelva a dejar incompleta la primera Mesa.
+    review=importlib.util.spec_from_file_location('revision_aragon','Gobiernos/herramientas/integrar-revision-aragon.py');module=importlib.util.module_from_spec(review);review.loader.exec_module(module);module.run()
 
 if __name__=='__main__':run()

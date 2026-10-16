@@ -1,5 +1,6 @@
 import geography from "../Autonomías/Mapa/cartografia.json";
 import snapshot from "../Autonomías/Mapa/presidencias.json";
+import possessions from "../Autonomías/Mapa/posesiones-presidencia.json";
 import territories from "../Autonomías/territorios.json";
 export { geography };
 export const mapParties = {
@@ -9,11 +10,21 @@ export const mapParties = {
   pnv: { label: "EAJ-PNV", color: "#248260" },
   cc: { label: "CC", color: "#edc343" },
 };
-export const presidencies = snapshot.presidencies.map((p) => ({
-  ...p,
-  territoryName: territories.find((t) => t.id === p.territory)!.name,
-  color: mapParties[p.party as keyof typeof mapParties].color,
-}));
+export const presidencies = snapshot.presidencies.map((p) => {
+  const tenure = possessions.presidencies.find(
+    (t) => t.territory === p.territory && t.person === p.person,
+  );
+  if (!tenure)
+    throw new Error(`Inicio de presidencia sin contrastar: ${p.territory}`);
+  return {
+    ...p,
+    inOfficeSince: tenure.inOfficeSince,
+    tenureSource: tenure.source,
+    tenureBasis: tenure.basis,
+    territoryName: territories.find((t) => t.id === p.territory)!.name,
+    color: mapParties[p.party as keyof typeof mapParties].color,
+  };
+});
 export const mapProvinces = geography.provinces.map((p) => ({
   ...p,
   presidency: presidencies.find(

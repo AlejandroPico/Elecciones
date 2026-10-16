@@ -1,4 +1,11 @@
 /// <reference types="vite/client" />
+declare module "virtual:presidencias-retratos" {
+  const portraits: Record<
+    string,
+    { src: string; name: string; credit: string; source: string }
+  >;
+  export default portraits;
+}
 declare module "virtual:personas-retratos" {
   const files: Record<string, string>;
   export default files;

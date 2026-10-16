@@ -1,19 +1,12 @@
-import { useEffect, useState } from "react";
 import { portraits, type Person } from "./datos/catalogo";
+import { PortraitImage } from "./ImagenRetrato";
 export function Portrait({ person }: { person: Person }) {
-  const [error, setError] = useState(false);
-  useEffect(() => setError(false), [person.id, person.portrait]);
-  return person.portrait && !error ? (
-    <img
-      src={portraits[person.portrait]}
-      alt={person.name}
-      loading="lazy"
-      onError={() => setError(true)}
+  return (
+    <PortraitImage
+      src={person.portrait ? portraits[person.portrait] : undefined}
+      name={person.name}
+      initials={person.initials}
+      position={person.photoPosition}
     />
-  ) : (
-    <div className="portrait-placeholder">
-      <span>{person.initials}</span>
-      <small>Retrato pendiente</small>
-    </div>
   );
 }

@@ -2,7 +2,7 @@
 
 Instantánea nominal del 16 de octubre de 2026. La portada `#/autonomias` colorea las 50 provincias y Ceuta y Melilla por la vinculación partidista de la presidencia de su comunidad o ciudad. No representa diputaciones provinciales, resultados electorales, apoyos de investidura ni el conjunto de partidos del gabinete. Las diecinueve referencias personales y las fuentes del nombramiento y de la vinculación se guardan en `presidencias.json`. El nombre completo y el retrato se enlazan con `Políticos/`, sin duplicar biografías ni imágenes.
 
-La fecha de la ficha flotante se etiqueta **Nombramiento**: corresponde al decreto del mandato actual, no a la primera llegada a la presidencia ni a una fecha de posesión no contrastada. Se comprueba el decreto original porque las etiquetas del dosier del Senado contienen algunas erratas. Los nombramientos de 2026 de Aragón, Andalucía, Extremadura y Castilla y León están incorporados.
+La ficha flotante muestra **En el cargo desde**: el inicio de la etapa continuada del titular actual, incluida la continuidad entre mandatos consecutivos. `posesiones-presidencia.json` conserva las diecinueve fechas, la identidad exacta, la fuente y el criterio individual. Los retornos de Clavijo e Imbroda comienzan en 2023; no se presentan sus presidencias anteriores como continuadas. El BOME fecha la toma de posesión de Imbroda el 8 de julio de 2023, distinta de su elección el día 7 y del acto solemne del 15. Los decretos del mandato vigente y sus fechas se conservan en `presidencias.json`, con enlaces separados en la interfaz. La aplicación rechaza una presidencia cuya fecha curada corresponda a otra persona.
 
 ## Cartografía y licencia
 
@@ -13,3 +13,5 @@ Los contornos proceden del WFS INSPIRE de unidades administrativas del **Institu
 Portugal, Francia, Andorra y Marruecos proceden de **Natural Earth, Admin 0 1:10m, dominio público**; se muestran recortados y atenuados. La cartografía y ambas licencias se consultan desde «Fuentes» en la propia vista.
 
 Herramientas reproducibles: `Gobiernos/herramientas/preparar-mapa-autonomico.py` y `documentar-presidencias-mapa.py`. Sus descargas originales se conservan en una caché ignorada; la web y las pruebas utilizan solo los datos curados y funcionan sin acceder a esos servicios. Al actualizar, verificar las diecinueve presidencias, sus fotos y decretos y la correspondencia completa de los códigos provinciales. Las áreas transparentes de interacción permanecen inmóviles aunque el contorno visible se eleve: el efecto no debe provocar saltos del puntero. Respetar teclado, tacto y reducción de movimiento.
+
+El mapa utiliza un índice independiente de diecinueve retratos originales en `Políticos/`. Abrirlo no necesita descargar el catálogo biográfico completo. La entrega de este catálogo comparte textos, esquemas y registros repetidos mediante una codificación reversible; los JSON canónicos permanecen legibles e intactos en cada carpeta personal.

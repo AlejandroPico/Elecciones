@@ -9,6 +9,8 @@ import { archivedGroups, regionalDates } from "./catalonia-model";
 import { findPerson, portraits } from "../../Políticos/interfaz/datos/catalogo";
 import conservation from "../revisiones/2026-10-16-aragon/conservacion.json";
 import audit from "../revisiones/2026-10-16-aragon/informe.json";
+import portraitReview from "../Autonomías/Aragón/fuentes/revision-retratos-pendientes.json";
+import completedPortraits from "../Autonomías/Aragón/fuentes/retratos-complementados.json";
 
 it("conserva el catálogo anterior y enlaza todas las etapas aragonesas con personas reales", () => {
   for (const id of conservation.baselineIds)
@@ -46,6 +48,40 @@ it("distingue los 66 escaños de la primera legislatura de los 67 siguientes y c
   expect(aragonParliaments[0].end).toBeNull();
   expect(aragonParliaments[0].board).toHaveLength(5);
   expect(aragonParliaments.at(-1)!.records.length).toBeGreaterThan(66);
+  const firstBoard = aragonParliaments.at(-1)!.archiveBoard!;
+  expect(firstBoard).toHaveLength(5);
+  expect(new Set(firstBoard.map((m) => m.person)).size).toBe(5);
+  expect(
+    firstBoard.find((m) => m.role.startsWith("Vicepresidenta"))!.name,
+  ).toBe("María Soledad Navarro Pratsavall");
+  for (const m of firstBoard) {
+    expect(m.start).toBeNull();
+    expect(m.end).toBeNull();
+  }
+});
+it("registra todos los retratos revisados y distingue ausencias de homónimos", () => {
+  expect(portraitReview.cases).toHaveLength(41);
+  expect(portraitReview.remaining).toBe(23);
+  expect(completedPortraits.portraits).toHaveLength(18);
+  for (const p of completedPortraits.portraits)
+    expect(portraits[p.id], p.name).toBeTruthy();
+  expect(
+    portraitReview.cases
+      .flatMap((p) => p.articleChecks)
+      .filter((p) => p.result.startsWith("descartado")),
+  ).toHaveLength(2);
+  expect(audit.supplementaryReview.inconsistentIntervals).toHaveLength(3);
+  for (const p of aragonGovernments)
+    for (const t of p.archiveTerms ?? []) {
+      const dates = t.period?.match(
+        /(\d{4}-\d{2}-\d{2}) — (\d{4}-\d{2}-\d{2})/,
+      );
+      if (dates) expect(dates[1] < dates[2], t.name).toBe(true);
+    }
+  const council = findPerson("jorge-azcon")!.timeline!.filter(
+    (t) => t.title === "Concejal del Ayuntamiento de Zaragoza",
+  );
+  expect(council.map((t) => t.period)).toEqual(["2000 – 2007", "2011 – 2023"]);
 });
 it("limita el Gobierno actual a su consulta, conserva la interinidad y los gabinetes archivados", () => {
   const current = aragonGovernments[0];

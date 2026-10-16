@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-16",
+  "historicalRecordsReviewed": 160,
+  "inconsistentIntervals": [
+    {
+      "name": "Eugenio Nadal Reimat",
+      "role": "Consejero",
+      "department": "Economía y Hacienda",
+      "startInSource": "1995-01-12",
+      "endInSource": "1993-09-18",
+      "reason": "Fin anterior o igual al inicio",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json"
+    },
+    {
+      "name": "Jesús Muro Navarro",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "startInSource": "1994-07-18",
+      "endInSource": "1994-06-23",
+      "reason": "Fin anterior o igual al inicio",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json"
+    },
+    {
+      "name": "Fernando Gimeno Marín",
+      "role": "Consejero",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "startInSource": "2019-07-06",
+      "endInSource": "2019-07-06",
+      "reason": "Fin anterior o igual al inicio",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json"
+    }
+  ],
+  "criterion": "No se atribuyen fechas diarias a cargos sin intervalo individual contrastado. El histórico oficial del Gobierno confirma titulares y carteras, pero no publica un inventario diario de remodelaciones.",
+  "firstBoardPeople": 5
+}

@@ -1,0 +1,439 @@
+{
+  "checkedAt": "2026-10-16",
+  "peopleReviewed": 41,
+  "portraitsAdded": 18,
+  "remaining": 23,
+  "apiIncident": "La API de Wikipedia devolvió HTTP 429. Se utilizaron artículos públicos y metadatos de Commons en HTML; no se eludió la limitación.",
+  "cases": [
+    {
+      "person": "aragon-amador-ortiz-menarguez",
+      "name": "Amador Ortiz Menárguez",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-enrique-lopez-dominguez",
+      "name": "Enrique Lopez Dominguez",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=976",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-eulogio-malo-mur",
+      "name": "Eulogio Malo Mur",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-jose-ramon-bada-panillo",
+      "name": "José Ramón Bada Panillo",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [
+        {
+          "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Bada_Panillo",
+          "result": "identidad contrastada; sin retrato en la ficha consultada"
+        }
+      ],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://cadenaser.com/aragon/2026/07/09/fallece-pepe-bada-primer-consejero-de-cultura-del-gobierno-de-aragon-y-referente-del-pensamiento-humanista-aragones-radio-zaragoza/"
+    },
+    {
+      "person": "aragon-ramon-alfonso-galianas",
+      "name": "Ramón Alfonso Galianas",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-antonio-laguarta-laguarta",
+      "name": "Antonio Laguarta Laguarta",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=365",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-ana-maria-cortes-navarro",
+      "name": "Ana María Cortés Navarro",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://mujeresaragonesas.unizar.es/perfiles/cortes-navarro-ana-maria/"
+    },
+    {
+      "person": "aragon-dario-vidal-llisterri",
+      "name": "Darío Vidal Llisterri",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.blogger.com/profile/10098426853762111409"
+    },
+    {
+      "person": "aragon-enrique-calvo-cabello",
+      "name": "Enrique Calvo Cabello",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-jose-alberto-garcia-atance",
+      "name": "José Alberto García-Atance",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [
+        {
+          "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Alberto",
+          "result": "descartado: otra persona"
+        }
+      ],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-eugenio-nadal-reimat",
+      "name": "Eugenio Nadal Reimat",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.alegriademonzon.com/eugenio-nadal-reimat-entre-pomar-y-espana/"
+    },
+    {
+      "person": "aragon-angel-gimeno-marin",
+      "name": "Ángel Gimeno Marín",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-jesus-muro-navarro",
+      "name": "Jesús Muro Navarro",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-jose-manuel-de-gregorio-ariza",
+      "name": "José Manuel de Gregorio Ariza",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-rafael-gomez-lus",
+      "name": "Rafael Gómez-Lus Lafita",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.consalud.es/lupa-sanitaria/rafael-gomez-lus-ex-consejero-de-sanidad-en-aragon-fallece-a-los-87-anos.html",
+      "nameInInitialReview": "Rafael Gómez Lus"
+    },
+    {
+      "person": "aragon-vicente-comet-sanchez-de-rojas",
+      "name": "Vicente Comet Sánchez de Rojas",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-jose-maria-rodriguez-jorda",
+      "name": "José María Rodríguez Jordá",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-jose-manuel-lasa-dolhagaray",
+      "name": "José Manuel Lasa Dolhagaray",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [
+        {
+          "source": "https://es.wikipedia.org/wiki/Jos%C3%A9_Manuel_Lasa",
+          "result": "descartado: otra persona"
+        }
+      ],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "senado-10264",
+      "name": "Gonzalo Arguilé Laguarta",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.mapa.gob.es/ministerio/pags/biblioteca/revistas/pdf_Ganad%2FGanad_2004_26_22_25.pdf#page=1"
+    },
+    {
+      "person": "aragon-alberto-larraz-vileta",
+      "name": "Alberto Larraz Vileta",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-javier-callizo-soneiro",
+      "name": "Javier Callizo Soneiro",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://commons.wikimedia.org/wiki/File%3AJavier_Callizo_Soneiro.jpg"
+    },
+    {
+      "person": "aragon-luisa-maria-noeno-ceamanos",
+      "name": "Luisa María Noeno Ceamanos",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [
+        {
+          "source": "https://es.wikipedia.org/wiki/Luisa_Mar%C3%ADa_Noeno_Ceamanos",
+          "result": "identidad contrastada; sin retrato en la ficha consultada"
+        },
+        {
+          "source": "https://es.wikipedia.org/wiki/Luisa_Noeno",
+          "result": "identidad contrastada; sin retrato en la ficha consultada"
+        }
+      ],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.comz.org/archivos/revista/907-am34.pdf#page=16"
+    },
+    {
+      "person": "aragon-maria-pilar-ventura-contreras",
+      "name": "María Pilar Ventura Contreras",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.aragonhoy.es/sanidad/pilar-ventura-tomado-posesion-consejera-2190"
+    },
+    {
+      "person": "aragon-rogelio-silva-gayoso",
+      "name": "Rogelio Silva Gayoso",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://padrinos.org/testimonios/entrevistas/rogelio-silva-gayoso/75/"
+    },
+    {
+      "person": "aragon-francisco-bono-rios",
+      "name": "Francisco Bono Ríos",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-rafael-fernandez-de-alarcon-herrero",
+      "name": "Rafael Fernández de Alarcón Herrero",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.aragondigital.es/articulo/politica/he-encontrado-bastantes-piedras-pocos-cimientos/20111019121000662321.html"
+    },
+    {
+      "person": "aragon-federico-garcia-lopez",
+      "name": "Federico Garcia López",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-joaquin-olona-blasco",
+      "name": "Joaquín Olona Blasco",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.joaquinolona.com/about-2/"
+    },
+    {
+      "person": "aragon-sebastian-celaya-perez",
+      "name": "Sebastián Celaya Pérez",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.academianutricionydietetica.org/pro/la-academia/organos-de-gobierno/sebastian-celaya-perez/"
+    },
+    {
+      "person": "aragon-felipe-faci-lazaro",
+      "name": "Felipe Faci Lázaro",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.lenguasdearagon.org/wp-content/uploads/2021/03/2021_Espiello_Cata%CC%81logo.pdf#page=8"
+    },
+    {
+      "person": "aragon-sira-repolles-lasheras",
+      "name": "Sira Repollés Lasheras",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [
+        {
+          "source": "https://es.wikipedia.org/wiki/Sira_Repoll%C3%A9s_Lasheras",
+          "result": "retrato documentado y revisado"
+        },
+        {
+          "source": "https://es.wikipedia.org/wiki/Sira_Repoll%C3%A9s",
+          "result": "retrato documentado y revisado"
+        }
+      ],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://commons.wikimedia.org/wiki/File%3ASira_Repoll%C3%A9s.jpg"
+    },
+    {
+      "person": "aragon-angel-samper-secorun",
+      "name": "Ángel Samper Secorún",
+      "institutionalSource": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.aragonhoy.es/agricultura-ganaderia-alimentacion/angel-samper-presentado-presupuesto-2024-658-millones-euros-93791"
+    },
+    {
+      "person": "aragon-jose-enrique-rodriguez-furriel",
+      "name": "Jose Enrique Rodriguez Furriel",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=977",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-pedro-antonio-salas-parra",
+      "name": "Pedro Antonio Salas Parra",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=974",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-maria-dolores-serrano-serrano",
+      "name": "Maria Dolores Serrano Serrano",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=975",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-joaquin-ponsa-catalan",
+      "name": "Joaquín Ponsa Catalán",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=979",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-manuel-escola-hernando",
+      "name": "Manuel Escolá Hernando",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=985",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://www.europarl.europa.eu/meps/es/2333/MANUEL_ESCOLA+HERNANDO/history/4"
+    },
+    {
+      "person": "aragon-juan-antonio-foncillas-cequier",
+      "name": "Juan Antonio Foncillas Cequier",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=982",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-luis-martinez-lahilla",
+      "name": "Luis Martinez Lahilla",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=972",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-luis-antonio-rosel-onde",
+      "name": "Luis Antonio Rosel Onde",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=983",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": false,
+      "articleChecks": [],
+      "remainingReason": "No se ha localizado un retrato individual suficientemente identificado en las fuentes consultadas. Las rutas antiguas y las búsquedas sin coincidencia no acreditan una fotografía."
+    },
+    {
+      "person": "aragon-maria-teresa-perales-fernandez",
+      "name": "María Teresa Perales Fernández",
+      "institutionalSource": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=373",
+      "reviewedAt": "2026-10-16",
+      "portraitAdded": true,
+      "articleChecks": [
+        {
+          "source": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Perales_Fern%C3%A1ndez",
+          "result": "retrato documentado y revisado"
+        },
+        {
+          "source": "https://es.wikipedia.org/wiki/Teresa_Perales",
+          "result": "retrato documentado y revisado"
+        }
+      ],
+      "remainingReason": null,
+      "additionalPortraitSource": "https://commons.wikimedia.org/wiki/File%3ATeresa_Perales_-_01.jpg"
+    }
+  ]
+}

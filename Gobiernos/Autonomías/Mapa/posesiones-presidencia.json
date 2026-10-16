@@ -1,0 +1,139 @@
+{
+  "checkedAt": "2026-10-16",
+  "criterion": "Inicio del ejercicio continuado de la presidencia actual, incluida la continuidad en funciones entre mandatos. Un regreso tras otra presidencia comienza una etapa nueva. Se distingue del decreto del mandato vigente.",
+  "presidencies": [
+    {
+      "territory": "pais-vasco",
+      "person": "imanol-pradales",
+      "inOfficeSince": "2024-06-22",
+      "source": "https://www.euskadi.eus/eleccion-lehendakari/web01-s2osa/es/",
+      "basis": "Toma de posesión en Gernika."
+    },
+    {
+      "territory": "cataluna",
+      "person": "salvador-illa-roca-el-boe-publica-su-cese-el-27-de-enero-de-2021",
+      "inOfficeSince": "2024-08-10",
+      "source": "https://www.lamoncloa.gob.es/gobierno/agenda/paginas/agenda.aspx?d=20240810",
+      "basis": "Acto de toma de posesión del presidente de la Generalitat."
+    },
+    {
+      "territory": "galicia",
+      "person": "alfonso-rueda",
+      "inOfficeSince": "2022-05-14",
+      "source": "https://www.xunta.gal/documents/35297/40363/140522%2BIntervencionTomaPosesionRueda.pdf?version=1.0",
+      "basis": "Discurso fechado de la primera toma de posesión de la etapa continuada."
+    },
+    {
+      "territory": "andalucia",
+      "person": "juan-manuel-moreno",
+      "inOfficeSince": "2019-01-18",
+      "source": "https://www.juntadeandalucia.es/presidencia/portavoz/gobiernoaldia/217395/JuanmaMorenoPresidentedelaJuntadeAndalucia",
+      "basis": "La biografía institucional identifica expresamente su primera toma de posesión."
+    },
+    {
+      "territory": "asturias",
+      "person": "adrian-barbon",
+      "inOfficeSince": "2019-07-20",
+      "source": "https://actualidad.asturias.es/gobierno",
+      "basis": "La biografía del Gobierno fecha la primera toma de posesión."
+    },
+    {
+      "territory": "cantabria",
+      "person": "maria-jose-saenz-de-buruaga",
+      "inOfficeSince": "2023-07-05",
+      "source": "https://www.europapress.es/cantabria/noticia-buruaga-jura-presidenta-cantabria-me-hago-cargo-anhelos-preocupaciones-20230705144042.html",
+      "basis": "Crónica contemporánea de la jura y toma de posesión."
+    },
+    {
+      "territory": "la-rioja",
+      "person": "gonzalo-capellan",
+      "inOfficeSince": "2023-06-30",
+      "source": "https://actualidad.larioja.org/noticia?n=not-el-presidente-gonzalo-capellan-propone-al-parlamento-de-la-rioja-celebrar-el-debate-sobre-el-e1",
+      "basis": "El Gobierno de La Rioja identifica el 30 de junio de 2023 como toma de posesión."
+    },
+    {
+      "territory": "murcia",
+      "person": "fernando-lopez-miras",
+      "inOfficeSince": "2017-05-03",
+      "source": "https://www.carm.es/web/descarga?ALIAS=ARCH&ARCHIVO=20170503+Discurso+Toma+de+Posesi%C3%B3n.pdf&IDCONTENIDO=133114&IDTIPO=60&RASTRO=c1935%24m56166",
+      "basis": "Discurso de la toma de posesión de 2017."
+    },
+    {
+      "territory": "valencia",
+      "person": "juanfran-perez-llorca",
+      "inOfficeSince": "2025-12-02",
+      "source": "https://www.ces.gva.es/sites/default/files/2026-01/IV.%20ACTIVIDADES%20DEL%20COMIT%C3%89%20REV.121.pdf",
+      "basis": "La memoria de actividades del CES CV fecha la asistencia a la toma de posesión."
+    },
+    {
+      "territory": "aragon",
+      "person": "jorge-azcon",
+      "inOfficeSince": "2023-08-11",
+      "source": "https://bases.cortesaragon.es/bases/original.nsf/%28BOCAID%29/E952C304D85A9D9EC1258A2300394159/%24File/BOCA_7.pdf?OpenElement=",
+      "basis": "Acta del acto de toma de posesión, celebrada el 11 de agosto de 2023; BOCA 7 de 7 de septiembre."
+    },
+    {
+      "territory": "castilla-la-mancha",
+      "person": "emiliano-garcia-page",
+      "inOfficeSince": "2015-07-04",
+      "source": "https://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-de-castilla-la-mancha-aprueba-una-inversion-de-22-millones-para-ampliar-el-colegio",
+      "basis": "El Gobierno regional identifica la presidencia continuada desde el 4 de julio de 2015."
+    },
+    {
+      "territory": "canarias",
+      "person": "fernando-clavijo-batlle",
+      "inOfficeSince": "2023-07-14",
+      "source": "https://www3.gobiernodecanarias.org/noticias/fernando-clavijo-aboga-por-construir-un-futuro-mejor-para-canarias/",
+      "basis": "Toma de posesión del 14 de julio; se excluye el mandato anterior separado por otra presidencia."
+    },
+    {
+      "territory": "navarra",
+      "person": "maria-chivite",
+      "inOfficeSince": "2019-08-06",
+      "source": "https://www.irekia.euskadi.eus/es/news/56222-lehendakari-inigo-urkullu-asiste-toma-posesion-presidenta-del-gobierno-navarra-maria-chivite",
+      "basis": "Noticia institucional contemporánea del acto de toma de posesión."
+    },
+    {
+      "territory": "extremadura",
+      "person": "maria-guardiola",
+      "inOfficeSince": "2023-07-17",
+      "source": "https://www.juntaex.es/w/maria-guardiola-investida-presidenta-de-la-junta-de-extremadura",
+      "basis": "La Junta fecha la toma de posesión posterior a la investidura del 14 de julio."
+    },
+    {
+      "territory": "baleares",
+      "person": "congreso-243-14",
+      "inOfficeSince": "2023-07-07",
+      "source": "https://www.caib.es/pidip2front/ficha_convocatoria.xhtml?lang=es&urlSemantica=10082683",
+      "basis": "Nota oficial del acto de jura y toma de posesión."
+    },
+    {
+      "territory": "madrid",
+      "person": "isabel-diaz-ayuso",
+      "inOfficeSince": "2019-08-19",
+      "source": "https://www.comunidad.madrid/sites/default/files/doc/presidencia/190819_np_toma_de_posesion_diaz_ayuso_.pdf",
+      "basis": "Nota oficial de su primera toma de posesión de la etapa continuada."
+    },
+    {
+      "territory": "castilla-y-leon",
+      "person": "alfonso-fernandez-manueco",
+      "inOfficeSince": "2019-07-12",
+      "source": "https://www.ppcyl.es/wp-content/uploads/2020/07/Discurso-Toma-de-Posesi%C3%B3n-AFM-12-7-19.pdf",
+      "basis": "Discurso original de toma de posesión fechado en las Cortes; fuente del partido del titular."
+    },
+    {
+      "territory": "ceuta",
+      "person": "ceuta-juan-jesus-vivas-lara",
+      "inOfficeSince": "2001-02-08",
+      "source": "https://www.uned.es/universidad/dam/inicio/institucional/secretaria-general/claustro/ACTAS-CLAUSTRO/ACTAS-CLAUSTRO/2013_06_24_ACTA_CLAUSTRO-ANEXOS.pdf",
+      "basis": "Currículo recogido en las actas de la UNED: presidente desde el 8 de febrero de 2001."
+    },
+    {
+      "territory": "melilla",
+      "person": "senado-12833",
+      "inOfficeSince": "2023-07-08",
+      "source": "https://bomemelilla.es/bome/BOME-BX-2023-44/articulo/304",
+      "basis": "El BOME fecha expresamente la posesión el 8 de julio. Distinguir elección del día 7 y acto solemne del día 15. El mandato de 2000–2019 pertenece a otra etapa."
+    }
+  ]
+}

@@ -1,12 +1,14 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { Plugin } from "vite";
+import { compactJson } from "./datos/compacto";
 
 /** Cada carpeta es la ficha original; los informes de revisión quedan fuera de la web. */
 export function personCatalogPlugin(): Plugin {
   const publicId = "virtual:personas-fichas",
     resolvedId = "\0" + publicId;
   const photosId = "virtual:personas-retratos";
+  const previewId = "virtual:presidencias-retratos";
   let root = "",
     testing = false,
     watching = false;
@@ -70,7 +72,12 @@ export function personCatalogPlugin(): Plugin {
           }
         }),
       );
-    return `export default ${JSON.stringify(files)};`;
+    const original = JSON.stringify(files),
+      packed = JSON.stringify(compactJson(files));
+    console.info(
+      `Catálogo personal: ${(original.length / 1e6).toFixed(1)} MB → ${(packed.length / 1e6).toFixed(1)} MB de datos compactos, sin pérdida.`,
+    );
+    return `import {expandJson} from '/Políticos/interfaz/datos/compacto.ts'; export default expandJson(JSON.parse(${JSON.stringify(packed)}));`;
   }
   return {
     name: "elecciones-personas",
@@ -85,8 +92,46 @@ export function personCatalogPlugin(): Plugin {
     resolveId(id) {
       if (id === publicId) return resolvedId;
       if (id === photosId) return "\0" + photosId;
+      if (id === previewId) return "\0" + previewId;
     },
     async load(id) {
+      if (id === "\0" + previewId) {
+        const snapshotFile = join(
+          root,
+          "Gobiernos",
+          "Autonomías",
+          "Mapa",
+          "presidencias.json",
+        );
+        const snapshot = JSON.parse(await readFile(snapshotFile, "utf8")) as {
+          presidencies: { person: string; name: string }[];
+        };
+        const imports: string[] = [],
+          entries: string[] = [];
+        if (watching) this.addWatchFile(snapshotFile);
+        for (const [i, p] of snapshot.presidencies.entries()) {
+          const folder = join(root, "Políticos", p.name),
+            metaFile = join(folder, "ficha.json"),
+            photoFile = join(folder, "retrato.json");
+          const meta = JSON.parse(await readFile(metaFile, "utf8")),
+            photo = JSON.parse(await readFile(photoFile, "utf8"));
+          if (meta.id !== p.person)
+            throw new Error(
+              `Identidad del mapa sin correspondencia: ${p.name}`,
+            );
+          if (watching) {
+            this.addWatchFile(metaFile);
+            this.addWatchFile(photoFile);
+          }
+          imports.push(
+            `import image${i} from ${JSON.stringify(`/Políticos/${p.name}/${photo.file}?url&no-inline`)};`,
+          );
+          entries.push(
+            `${JSON.stringify(p.person)}:{src:image${i},name:${JSON.stringify(p.name)},credit:${JSON.stringify(photo.credit)},source:${JSON.stringify(photo.source)}}`,
+          );
+        }
+        return imports.join("\n") + `\nexport default {${entries.join(",")}};`;
+      }
       if (id === "\0" + photosId) {
         if (!testing)
           return `export default Object.fromEntries(Object.entries(import.meta.glob('/Políticos/*/retrato*.{jpg,jpeg,png,webp,svg,gif}', {eager:true,query:'?url',import:'default'})).map(([path,url]) => ['../../'+path.slice('/Políticos/'.length),url]));`;

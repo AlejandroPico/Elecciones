@@ -23,12 +23,24 @@ it("representa las 50 provincias y las dos ciudades, con todas las presidencias 
     expect(p.partySource).toMatch(/^https:\/\//);
     expect(p.appointedAt).toMatch(/^\d{4}-\d{2}-\d{2}$/);
     expect(p.dateBasis).toContain("no equivale a toma de posesión");
+    expect(p.inOfficeSince).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+    expect(p.inOfficeSince <= p.checkedAt).toBe(true);
+    expect(p.tenureSource).toMatch(/^https:\/\//);
   }
   expect(mapProvinces.find((p) => p.id === "50")!.presidency.name).toBe(
     "Jorge Antonio Azcón Navarro",
   );
   expect(mapProvinces.find((p) => p.id === "08")!.presidency.party).toBe("psc");
   expect(mapProvinces.find((p) => p.id === "48")!.presidency.party).toBe("pnv");
+});
+it("distingue mandatos consecutivos, retornos y posesión de nombramiento", () => {
+  const since = (id: string) =>
+    presidencies.find((p) => p.territory === id)!.inOfficeSince;
+  expect(since("aragon")).toBe("2023-08-11");
+  expect(since("galicia")).toBe("2022-05-14");
+  expect(since("canarias")).toBe("2023-07-14");
+  expect(since("melilla")).toBe("2023-07-08");
+  expect(since("ceuta")).toBe("2001-02-08");
 });
 it("conserva límites detallados e inserciones separadas para Canarias y las ciudades", () => {
   expect(

@@ -1,6 +1,6 @@
 import { useId, useLayoutEffect, useRef, useState } from "react";
-import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
-import { Portrait } from "../../Políticos/interfaz/Retrato";
+import mapPortraits from "virtual:presidencias-retratos";
+import { PortraitImage } from "../../Políticos/interfaz/ImagenRetrato";
 import { dateLabel } from "./government-model";
 import {
   geography,
@@ -23,7 +23,7 @@ export default function AutonomyMap({
   const point = useRef({ x: 0, y: 0 });
   const touch = useRef(false);
   const pinned = useRef<string | undefined>(undefined);
-  const person = selected && findPerson(selected.presidency.person);
+  const person = selected && mapPortraits[selected.presidency.person];
   function position() {
     if (!tooltip.current) return;
     const { width, height } = tooltip.current.getBoundingClientRect();
@@ -38,6 +38,10 @@ export default function AutonomyMap({
     tooltip.current.style.transform = `translate3d(${left}px, ${top}px, 0)`;
   }
   useLayoutEffect(position, [selected]);
+  useLayoutEffect(() => {
+    window.addEventListener("resize", position);
+    return () => window.removeEventListener("resize", position);
+  }, []);
   function clear() {
     pinned.current = undefined;
     setSelected(undefined);
@@ -129,6 +133,11 @@ export default function AutonomyMap({
             <path
               key={province.id}
               d={province.path}
+              data-city={
+                province.panel === "ceuta" ||
+                province.panel === "melilla" ||
+                undefined
+              }
               tabIndex={0}
               role="button"
               aria-label={`${province.name} · ${province.presidency.territoryName} · ${province.presidency.name} · ${province.presidency.partyLabel}. Abrir ficha`}
@@ -203,8 +212,9 @@ export default function AutonomyMap({
           <div>
             <p>
               El color corresponde a la presidencia de la comunidad, también en
-              sus provincias. Las fechas son las de los decretos del mandato
-              actual.
+              sus provincias. «En el cargo desde» indica el inicio de la etapa
+              continuada de cada titular, incluidos sus mandatos consecutivos.
+              Los decretos de nombramiento se conservan aparte.
             </p>
             <p>
               Cartografía:{" "}
@@ -243,6 +253,15 @@ export default function AutonomyMap({
                 .map(({ presidency: p }) => (
                   <li key={p.territory}>
                     {p.territoryName} ·{" "}
+                    <a
+                      href={p.tenureSource}
+                      target="_blank"
+                      rel="noreferrer"
+                      title={p.tenureBasis}
+                    >
+                      Inicio de la presidencia
+                    </a>{" "}
+                    ·{" "}
                     <a href={p.source} target="_blank" rel="noreferrer">
                       Nombramiento
                     </a>{" "}
@@ -264,7 +283,15 @@ export default function AutonomyMap({
           ref={tooltip}
         >
           <div className="map-person-photo">
-            <Portrait person={person} />
+            <PortraitImage
+              src={person.src}
+              name={person.name}
+              initials={person.name
+                .split(" ")
+                .slice(0, 2)
+                .map((part) => part[0])
+                .join("")}
+            />
           </div>
           <div>
             <small>
@@ -272,8 +299,8 @@ export default function AutonomyMap({
             </small>
             <strong>{selected.presidency.name}</strong>
             <span>{selected.presidency.partyLabel}</span>
-            <time dateTime={selected.presidency.appointedAt}>
-              Nombramiento · {dateLabel(selected.presidency.appointedAt)}
+            <time dateTime={selected.presidency.inOfficeSince}>
+              En el cargo desde · {dateLabel(selected.presidency.inOfficeSince)}
             </time>
           </div>
         </div>

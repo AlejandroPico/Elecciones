@@ -35,6 +35,7 @@ export const people: Person[] = Object.entries(personFiles)
     const image = read<{
       file: string;
       credit: string;
+      position?: string;
       source: string;
       license?: string;
       licenseUrl?: string;
@@ -227,6 +228,7 @@ export const people: Person[] = Object.entries(personFiles)
         ? {
             portrait: meta.id,
             photoCredit: image.credit,
+            photoPosition: image.position,
             photoSource: image.source,
             photoLicense: image.license,
             photoLicenseUrl: image.licenseUrl,

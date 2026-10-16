@@ -36,6 +36,7 @@ export type Person = {
   offices: string[];
   portrait?: string;
   photoCredit?: string;
+  photoPosition?: string;
   photoSource?: string;
   photoLicense?: string;
   photoLicenseUrl?: string;

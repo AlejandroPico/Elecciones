@@ -46,11 +46,20 @@
   },
   {
     "title": "Concejal del Ayuntamiento de Zaragoza",
-    "period": "11 de junio de 2011 – 17 de junio de 20238 de abril del 2000-16 de junio de 2007",
+    "period": "2000 – 2007",
     "source": {
-      "label": "Jorge Azcón · Wikipedia",
-      "url": "https://es.wikipedia.org/wiki/Jorge_Azc%C3%B3n",
-      "kind": "encyclopedic"
+      "label": "Aragón Open Data · biografía institucional",
+      "url": "https://opendata.aragon.es/describe/?url=http%3A%2F%2Fopendata.aragon.es%2Frecurso%2Fpersona%2F3532-jorge-antonio-azcon-navarro",
+      "kind": "institutional"
+    }
+  },
+  {
+    "title": "Concejal del Ayuntamiento de Zaragoza",
+    "period": "2011 – 2023",
+    "source": {
+      "label": "Aragón Open Data · biografía institucional",
+      "url": "https://opendata.aragon.es/describe/?url=http%3A%2F%2Fopendata.aragon.es%2Frecurso%2Fpersona%2F3532-jorge-antonio-azcon-navarro",
+      "kind": "institutional"
     }
   }
 ]

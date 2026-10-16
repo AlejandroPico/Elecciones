@@ -562,7 +562,7 @@
     },
     {
       "person": "aragon-soledad-navarro-pratsavall",
-      "name": "Soledad Navarro Pratsavall",
+      "name": "María Soledad Navarro Pratsavall",
       "role": "Miembro de las Cortes de Aragón",
       "source": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=265",
       "start": null,
@@ -787,10 +787,46 @@
       "person": "aragon-antonio-embid-irujo",
       "name": "Antonio Embid Irujo",
       "role": "Presidente de las Cortes de Aragón",
-      "source": "https://www.cortesaragon.es/Anteriores-legislaturas.2357.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Bnumleg%5D=1&tx_t3comunicacion_pi3%5Btipinf%5D=3&tx_t3comunicacion_pi3%5Buidcom%5D=0",
+      "source": "https://bases.cortesaragon.es/bases/boca2.nsf/%28BOCAID%29/7a36b7aab0256402c1256c59002e7bbb?Click=&OpenDocument=",
       "start": null,
       "end": null,
-      "period": "Legislatura I · Mesa publicada"
+      "period": "Legislatura I · Mesa documentada en BOCA 185, de 20 de marzo de 1987"
+    },
+    {
+      "person": "aragon-soledad-navarro-pratsavall",
+      "name": "María Soledad Navarro Pratsavall",
+      "role": "Vicepresidenta primera de las Cortes de Aragón",
+      "source": "https://bases.cortesaragon.es/bases/boca2.nsf/%28BOCAID%29/7a36b7aab0256402c1256c59002e7bbb?Click=&OpenDocument=",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I · Mesa documentada en BOCA 185, de 20 de marzo de 1987"
+    },
+    {
+      "person": "aragon-antonio-lacleta-pablo",
+      "name": "Antonio Lacleta Pablo",
+      "role": "Vicepresidente segundo de las Cortes de Aragón",
+      "source": "https://bases.cortesaragon.es/bases/boca2.nsf/%28BOCAID%29/7a36b7aab0256402c1256c59002e7bbb?Click=&OpenDocument=",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I · Mesa documentada en BOCA 185, de 20 de marzo de 1987"
+    },
+    {
+      "person": "aragon-francisco-pina-cuenca",
+      "name": "Francisco Pina Cuenca",
+      "role": "Secretario primero de las Cortes de Aragón",
+      "source": "https://bases.cortesaragon.es/bases/boca2.nsf/%28BOCAID%29/7a36b7aab0256402c1256c59002e7bbb?Click=&OpenDocument=",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I · Mesa documentada en BOCA 185, de 20 de marzo de 1987"
+    },
+    {
+      "person": "senado-11873",
+      "name": "José Luis Moreno Pérez-caballero",
+      "role": "Secretario segundo de las Cortes de Aragón",
+      "source": "https://bases.cortesaragon.es/bases/boca2.nsf/%28BOCAID%29/7a36b7aab0256402c1256c59002e7bbb?Click=&OpenDocument=",
+      "start": null,
+      "end": null,
+      "period": "Legislatura I · Mesa documentada en BOCA 185, de 20 de marzo de 1987"
     }
   ],
   "groups": [
@@ -1052,7 +1088,7 @@
         },
         {
           "person": "aragon-soledad-navarro-pratsavall",
-          "name": "Soledad Navarro Pratsavall",
+          "name": "María Soledad Navarro Pratsavall",
           "role": "Miembro de las Cortes de Aragón",
           "source": "https://www.cortesaragon.es/Ficha-personal.2371.0.html?&no_cache=1&tx_t3comunicacion_pi3%5Buiddip%5D=265",
           "start": null,
@@ -1708,5 +1744,5 @@
       }
     ]
   },
-  "archiveBoardNote": "Titulares conservados por la Cámara; no se supone completa la Mesa histórica ni se inventan fechas individuales."
+  "archiveBoardNote": "Las fuentes identifican cinco cargos. No se atribuyen intervalos diarios ni continuidad completa por conocer la composición en dos momentos. María Soledad Navarro Pratsavall aparece como Soledad en el directorio individual."
 }

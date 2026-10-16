@@ -1,0 +1,1885 @@
+{
+  "checkedAt": "2026-10-16",
+  "records": 160,
+  "namesConfirmed": 132,
+  "criterion": "Contraste exacto de nombres completos o alias expresamente revisados. Esta comprobación no confirma fechas, cargos simultáneos ni equivalencia entre consejero y viceconsejero.",
+  "rows": [
+    {
+      "name": "María Victoria Broto Cosculluela",
+      "role": "Consejera",
+      "department": "Educación, Cultura y Deporte",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Educación, Cultura y Deporte",
+        "Ciencia, Tecnología y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eva Almunia Badía",
+      "role": "Consejera",
+      "department": "Educación, Cultura y Deporte",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Presidencia",
+        "Educación, Cultura y Deporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alfonso Vicente Barra",
+      "role": "Consejero",
+      "department": "Obras Públicas, Urbanismo y Transportes",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Obras Públicas, Urbanismo y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Ángel Biel Rivera",
+      "role": "Vicepresidente",
+      "department": "Vicepresidencia",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Vicepresidencia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Victoria Broto Cosculluela",
+      "role": "Consejera",
+      "department": "Ciencia, Tecnología y Universidad",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Educación, Cultura y Deporte",
+        "Ciencia, Tecnología y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Pilar Ventura Contreras",
+      "role": "Consejera",
+      "department": "Ciencia, Tecnología y Universidad",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Ciencia, Tecnología y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alfredo Boné Pueyo",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Marcelino Iglesias Ricou",
+      "role": "Presidente del gobierno de aragón",
+      "department": "Presidencia",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Presidencia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Ángel Biel Rivera",
+      "role": "Vicepresidente y consejero",
+      "department": "Vicepresidencia y Departamento de Presidencia",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Vicepresidencia y Departamento de Presidencia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eduardo Bandrés Moliné",
+      "role": "Consejero",
+      "department": "Economía, Hacienda y Empleo",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Economía, Hacienda y Empleo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Velasco Rodríguez",
+      "role": "Consejero",
+      "department": "Obras Públicas, Urbanismo y Transporte",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Obras Públicas, Urbanismo y Transporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Gonzalo Arguilé Laguarta",
+      "role": "Consejero",
+      "department": "Agricultura",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Agricultura"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alberto Larraz Vileta",
+      "role": "Consejero",
+      "department": "Salud, Consumo y Servicios Sociales",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Salud, Consumo y Servicios Sociales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Callizo Soneiro",
+      "role": "Consejero",
+      "department": "Cultura y Turismo",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Cultura y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Arturo Aliaga López",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Desarrollo",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Desarrollo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eva Almunia Badía",
+      "role": "Consejera",
+      "department": "Educación y Ciencia",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Educación y Ciencia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alfredo Boné Pueyo",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "period": "V Legislatura 1999/2003",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/v-legislatura-1999/2003",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Manuel Giménez Abad",
+      "role": "Consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José María Rodríguez Jordá",
+      "role": "Consejero",
+      "department": "Economía, Hacienda y Fomento",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Economía, Hacienda y Fomento"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Rafael Zapatero González",
+      "role": "Consejero",
+      "department": "Economía, Hacienda y Fomento",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Economía, Hacienda y Fomento"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Vicente Lacasa Azlor",
+      "role": "Consejero",
+      "department": "Ordenación Territorial, Obras Públicas y Transportes",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Ordenación Territorial, Obras Públicas y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Manuel Lasa Dolhagaray",
+      "role": "Consejero",
+      "department": "Agricultura y Medio Ambiente",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Agricultura y Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Fernando Labena Gallizo",
+      "role": "Consejero",
+      "department": "Sanidad, Bienestar Social y Trabajo",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Sanidad, Bienestar Social y Trabajo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Vicente Bielza de Ory",
+      "role": "Consejero",
+      "department": "Educación y Cultura",
+      "period": "IV Legislatura 1995/1999",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iv-legislatura-1995/1999",
+      "departmentsInOfficialHistory": [
+        "Educación y Cultura"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ramón Tejedor Sanz",
+      "role": "Consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Presidencia",
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ángel Gimeno Marín",
+      "role": "Consejero",
+      "department": "Economía y Hacienda",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Economía y Hacienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Isidoro Estebán Izquierdo",
+      "role": "Consejero",
+      "department": "Ordenación Territorial",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Ordenación Territorial"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Simón Casas Mateo",
+      "role": "Consejero",
+      "department": "Agricultura, Ganadería y Montes",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Agricultura, Ganadería y Montes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Manuel de Gregorio Ariza",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Jesús Muro Navarro",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Vicente Comet Sánchez de Rojas",
+      "role": "Consejero",
+      "department": "Sanidad y Consumo",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Sanidad y Consumo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Antonio Calvo Lasierra",
+      "role": "Consejero",
+      "department": "Bienestar Social y Trabajo",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Bienestar Social y Trabajo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Angela Abós Ballarín",
+      "role": "Consejera",
+      "department": "Educación y Cultura",
+      "period": "III Legislatura 1995/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1995/1995",
+      "departmentsInOfficialHistory": [
+        "Educación y Cultura"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ramón Tejedor Sanz",
+      "role": "Consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eugenio Nadal Reimat",
+      "role": "Consejero",
+      "department": "Economía y Hacienda",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Economía y Hacienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ángel Gimeno Marín",
+      "role": "Consejero",
+      "department": "Economía y Hacienda",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Economía y Hacienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Isidoro Estebán Izquierdo",
+      "role": "Consejero",
+      "department": "Ordenación Territorial",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Ordenación Territorial"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Simón Casas Mateo",
+      "role": "Consejero",
+      "department": "Agricultura, Ganadería y Montes",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Agricultura, Ganadería y Montes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Jesús Muro Navarro",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente",
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Manuel de Gregorio Ariza",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Antonio Cid Felipe",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Jesús Muro Navarro",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente",
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Rafael Gómez Lus",
+      "role": "Consejero",
+      "department": "Sanidad y Consumo",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Sanidad y Consumo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Vicente Comet Sánchez de Rojas",
+      "role": "Consejero",
+      "department": "Sanidad y Consumo",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Sanidad y Consumo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Antonio Calvo Lasierra",
+      "role": "Consejero",
+      "department": "Bienestar Social y Trabajo",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Bienestar Social y Trabajo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Pilar de la Vega Cebrián",
+      "role": "Consejera",
+      "department": "Educación y Cultura",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Educación y Cultura"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Angela Abós Ballarín",
+      "role": "Consejera",
+      "department": "Educación y Cultura",
+      "period": "III Legislatura 1993/1995",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1993/1995",
+      "departmentsInOfficialHistory": [
+        "Educación y Cultura"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Ángel Biel Rivera",
+      "role": "Consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Santiago Lanzuela Marina",
+      "role": "Consejero",
+      "department": "Economía y Hacienda",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Economía y Hacienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Luis Acín Boned",
+      "role": "Consejero",
+      "department": "Ordenación Territorial, Obras Públicas y Transportes",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Ordenación Territorial, Obras Públicas y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Urbieta Galé",
+      "role": "Consejero",
+      "department": "Agricultura, Ganadería y Montes",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Agricultura, Ganadería y Montes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Rafael Zapatero González",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Fernando Labena Gallizo",
+      "role": "Consejero",
+      "department": "Sanidad, Bienestar Social y Trabajo",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Sanidad, Bienestar Social y Trabajo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Blanca Blasco Nogués",
+      "role": "Consejera",
+      "department": "Cultura y Educación",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Cultura y Educación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Alberto García-Atance",
+      "role": "Consejero",
+      "department": "Asuntos de la Comunidad Europea",
+      "period": "III Legislatura 1991/1993",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/iii-legislatura-1991/1993",
+      "departmentsInOfficialHistory": [
+        "Asuntos de la Comunidad Europea"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Ángel Biel Rivera",
+      "role": "Consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ramón Alfonso Galianas",
+      "role": "Consejero",
+      "department": "Economía",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Economía"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Antonio Laguarta Laguarta",
+      "role": "Consejero",
+      "department": "Economía",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Economía"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Santiago Lanzuela Marina",
+      "role": "Consejero",
+      "department": "Economía",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Economía"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José María Bescós Ramón",
+      "role": "Consejero",
+      "department": "Hacienda",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Hacienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Joaquín Maggioni Casadevall",
+      "role": "Consejero",
+      "department": "Ordenación Territorial, Obras Públicas y Transportes",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Ordenación Territorial, Obras Públicas y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Alvo Aguado",
+      "role": "Consejero",
+      "department": "Agricultura, Ganadería y Montes",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Agricultura, Ganadería y Montes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Urbieta Galé",
+      "role": "Consejero",
+      "department": "Agricultura, Ganadería y Montes",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Agricultura, Ganadería y Montes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Luis Acín Boned",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ana María Cortés Navarro",
+      "role": "Consejera",
+      "department": "Sanidad, Bienestar Social y Trabajo",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Sanidad, Bienestar Social y Trabajo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Darío Vidal Llisterri",
+      "role": "Consejero",
+      "department": "Cultura y Educación",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Cultura y Educación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ana María Fernández Abadía",
+      "role": "Consejera",
+      "department": "Servicios Sociales y Familia",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Servicios Sociales y Familia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Ángel Biel Rivera",
+      "role": "Vicepresidente y consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Velasco Rodríguez",
+      "role": "Consejero",
+      "department": "Obras Públicas, Urbanismo y Transportes",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Obras Públicas, Urbanismo y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Gonzalo Arguilé Laguarta",
+      "role": "Consejero",
+      "department": "Agricultura y Alimentación",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Agricultura y Alimentación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Luisa María Noeno Ceamanos",
+      "role": "Consejera",
+      "department": "Salud y Consumo",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Salud y Consumo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alberto Larraz Vileta",
+      "role": "Consejero",
+      "department": "Economía, Hacienda y Empleo",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Economía, Hacienda y Empleo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Arturo Aliaga López",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eva Almunia Badía",
+      "role": "Consejera",
+      "department": "Educación, Cultura y Deporte",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Educación, Cultura y Deporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alfredo Boné Pueyo",
+      "role": "Consejero",
+      "department": "Medio Ambiente",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Angela Abós Ballarín",
+      "role": "Consejera",
+      "department": "Ciencia, Tecnología y Universidad",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Ciencia, Tecnología y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Miguel Ferrer Górriz",
+      "role": "Consejero",
+      "department": "Servicios Sociales y Familia",
+      "period": "VI Legislatura 2003/2007",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vi-legislatura-2003/2007",
+      "departmentsInOfficialHistory": [
+        "Servicios Sociales y Familia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Marcelino Iglesias Ricou",
+      "role": "Presidente del gobierno de aragón",
+      "department": "La Presidencia",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "La Presidencia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eva Almunia Badía",
+      "role": "Consejera",
+      "department": "Presidencia",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Presidencia",
+        "Educación, Cultura y Deporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alberto Larraz Vileta",
+      "role": "Consejero",
+      "department": "Economía, Hacienda y Empleo",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Economía, Hacienda y Empleo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Rogelio Silva Gayoso",
+      "role": "Consejero",
+      "department": "Política Territorial, Justicia e Interior",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Política Territorial, Justicia e Interior"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Gonzalo Arguilé Laguarta",
+      "role": "Consejero",
+      "department": "Agricultura y Alimentación",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Agricultura y Alimentación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Luisa María Noeno Ceamanos",
+      "role": "Consejera",
+      "department": "Salud y Consumo",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Salud y Consumo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Arturo Aliaga López",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Velasco Rodríguez",
+      "role": "Consejero",
+      "department": "Presidencia",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Presidencia",
+        "Ciencia, Tecnología y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Velasco Rodríguez",
+      "role": "Consejero",
+      "department": "Ciencia, Tecnología y Universidad",
+      "period": "VII Legislatura 2007/2011",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/vii-legislatura-2007/2011",
+      "departmentsInOfficialHistory": [
+        "Presidencia",
+        "Ciencia, Tecnología y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Dolores Serrat Moré",
+      "role": "Consejera",
+      "department": "Departamento de Educación, Universidad, Cultura y Deporte",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Educación, Universidad, Cultura y Deporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Ricardo Oliván Bellosta",
+      "role": "Consejero",
+      "department": "Departamento de Sanidad, Bienestar Social y Familia",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Sanidad, Bienestar Social y Familia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Enrique Calvo Cabello",
+      "role": "Consejero",
+      "department": "Cultura y Educación",
+      "period": "II Legislatura 1987/1991",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ii-legislatura-1987/1991",
+      "departmentsInOfficialHistory": [
+        "Cultura y Educación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Andrés Cuartero Moreno",
+      "role": "Consejero",
+      "department": "Presidencia y Relaciones Institucionales",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Antonio Biescas Ferrer",
+      "role": "Consejero",
+      "department": "Economía y Hacienda",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Economía y Hacienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Amador Ortiz Menárguez",
+      "role": "Consejero",
+      "department": "Urbanismo, obras Públicas y Transportes",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Urbanismo, obras Públicas y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Enrique López Domínguez",
+      "role": "Consejero",
+      "department": "Agricultura, Ganadería y Montes",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Agricultura, Ganadería y Montes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Eulogio Malo Mur",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Antonio Sierra Pérez",
+      "role": "Consejero",
+      "department": "Industria, Comercio y Turismo",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Industria, Comercio y Turismo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Alfredo Arola Blanquet",
+      "role": "Consejero",
+      "department": "Sanidad, Bienestar Social y Trabajo",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Sanidad, Bienestar Social y Trabajo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Ramón Bada Panillo",
+      "role": "Consejero",
+      "department": "Cultura y Educación",
+      "period": "I Legislatura 1983/1987",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/i-legislatura-1983/1987",
+      "departmentsInOfficialHistory": [
+        "Cultura y Educación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Pilar Ventura Contreras",
+      "role": "Consejera",
+      "department": "Departamento de Sanidad",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Sanidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Roberto Bermúdez de Castro Mur",
+      "role": "Consejero",
+      "department": "Departamento de Presidencia y Justicia",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Presidencia y Justicia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Francisco Bono Ríos",
+      "role": "Consejero",
+      "department": "Departamento de Economía y Empleo",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Economía y Empleo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Luis Saz Casado",
+      "role": "Consejero",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Hacienda y Administración Pública"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Mario Garcés Sanagustín",
+      "role": "Consejero",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Hacienda y Administración Pública"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Rafael Fernández de Alarcón Herrero",
+      "role": "Consejero",
+      "department": "Departamento de Obras Públicas, Urbanismo, Vivienda y Transportes",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Obras Públicas, Urbanismo, Vivienda y Transportes"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Antonio Suárez Oriz",
+      "role": "Consejero",
+      "department": "Departamento de Política Territorial e Interior",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Política Territorial e Interior"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Modesto Lobón Sobrino",
+      "role": "Consejero",
+      "department": "Departamento de Agricultura, Ganadería y Medio Ambiente",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Agricultura, Ganadería y Medio Ambiente",
+        "Departamento de Industria e Innovación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Arturo Aliaga López",
+      "role": "Consejero",
+      "department": "Departamento de Industria e Innovación",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Industria e Innovación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Javier Campoy Monreal",
+      "role": "Consejero",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Hacienda y Administración Pública"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Marta Gastón Menal",
+      "role": "Consejera",
+      "department": "Departamento de Economía, Industria y Empleo",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Economía, Industria y Empleo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Francisco Javier Lambán Montañés",
+      "role": "Presidente del gobierno de aragón",
+      "department": "Presidencia del Gobierno de Aragón",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Presidencia del Gobierno de Aragón"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Fernando Gimeno Marín",
+      "role": "Consejero",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Hacienda y Administración Pública"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Felipe Faci Lázaro",
+      "role": "Consejero",
+      "department": "Departamento de Educación, Cultura y Deporte",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Educación, Cultura y Deporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Eugenia Díaz Calvo",
+      "role": "Consejera",
+      "department": "Departamento de Ciencia, Universidad y Sociedad del Conocimiento",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Ciencia, Universidad y Sociedad del Conocimiento"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Joaquín Olona Blasco",
+      "role": "Consejero",
+      "department": "Departamento de Desarrollo Rural y Sostenibilidad",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Desarrollo Rural y Sostenibilidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Teresa Pérez Esteban",
+      "role": "Consejera",
+      "department": "Departamento de Presidencia y Relaciones Institucionales",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Presidencia y Relaciones Institucionales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Luis Soro Domingo",
+      "role": "Consejero",
+      "department": "Departamento de Vertebración del Territorio, Movilidad y Vivienda",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Vertebración del Territorio, Movilidad y Vivienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Joaquín Olona Blasco",
+      "role": "Consejero",
+      "department": "Departamento de Agricultura, Ganadería y Medio Ambiente",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Agricultura, Ganadería y Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Pilar Alegría Continente",
+      "role": "Consejera",
+      "department": "Departamento de Innovación, Investigación y Universidad",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Innovación, Investigación y Universidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Federico Garcia López",
+      "role": "Consejero",
+      "department": "Departamento de Agricultura, Ganadería y Medio Ambiente",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Agricultura, Ganadería y Medio Ambiente"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Modesto Lobón Sobrino",
+      "role": "Consejero",
+      "department": "Departamento de Industria e Innovación",
+      "period": "VIII Legislatura 2011/2015",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/viii-legislatura-2011/2015",
+      "departmentsInOfficialHistory": [
+        "Departamento de Agricultura, Ganadería y Medio Ambiente",
+        "Departamento de Industria e Innovación"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Victoria Broto Cosculluela",
+      "role": "Consejera",
+      "department": "Departamento de Ciudadanía y Derechos Sociales",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Ciudadanía y Derechos Sociales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Pilar Ventura Contreras",
+      "role": "Consejera",
+      "department": "Departamento de Sanidad",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Sanidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Arturo Aliaga López",
+      "role": "Consejero",
+      "department": "Departamento de Industria, Competitividad y Desarrollo Empresarial",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Vicepresidencia del Gobierno de Aragón",
+        "Departamento de Industria, Competitividad y Desarrollo Empresarial"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Marta Gastón Menal",
+      "role": "Consejera",
+      "department": "Departamento de Economía, Planificación y Empleo",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Economía, Planificación y Empleo"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Francisco Javier Lambán Montañés",
+      "role": "Presidente del gobierno de aragón",
+      "department": "Presidencia del Gobierno de Aragón",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Presidencia del Gobierno de Aragón"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Vicente Guillén Izquierdo",
+      "role": "Consejero",
+      "department": "Departamento de Presidencia",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Presidencia"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "José Luis Soro Domingo",
+      "role": "Consejero",
+      "department": "Departamento de Vertebración del Territorio, Movilidad y Vivienda",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Vertebración del Territorio, Movilidad y Vivienda"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Victoria Broto Cosculluela",
+      "role": "Consejera",
+      "department": "Departamento de Ciudadanía y Derechos Sociales",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Ciudadanía y Derechos Sociales"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "María Teresa Pérez Esteban",
+      "role": "Consejera",
+      "department": "Departamento de Educación, Cultura y Deporte",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Educación, Cultura y Deporte"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Sebastián Celaya Pérez",
+      "role": "Consejero",
+      "department": "Departamento de Sanidad",
+      "period": "IX Legislatura 2015/2019",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/ix-legislatura-2015/2019",
+      "departmentsInOfficialHistory": [
+        "Departamento de Sanidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Sira Repollés Lasheras",
+      "role": "Consejera de sanidad",
+      "department": "Departamento de Sanidad",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Sanidad"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Arturo Aliaga López",
+      "role": "Vicepresidente",
+      "department": "Vicepresidencia del Gobierno de Aragón",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Vicepresidencia del Gobierno de Aragón",
+        "Departamento de Industria, Competitividad y Desarrollo Empresarial"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Carlos Pérez Anadón",
+      "role": "Consejero",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "period": "X Legislatura 2019/2023",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": "https://www.aragon.es/gobierno/historico-de-legislaturas/x-legislatura-2019/2023",
+      "departmentsInOfficialHistory": [
+        "Departamento de Hacienda y Administración Pública"
+      ],
+      "result": "nombre confirmado en el periodo; no acredita fechas diarias"
+    },
+    {
+      "name": "Claudia Pérez Forniés",
+      "role": "Consejera de empleo, ciencia y universidades",
+      "department": "Departamento de Empleo, Ciencia y Universidades",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Tomasa Hernández Martín",
+      "role": "Consejera de educación, cultura y deporte",
+      "department": "Departamento de Educación, Cultura y Deporte",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Javier Rincón Gimeno",
+      "role": "Consejero de agricultura, ganadería y alimentación",
+      "department": "Departamento de Agricultura, Ganadería y Alimentación",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Alejandro Nolasco Asensio",
+      "role": "Vicepresidente primero y consejero de desarrollo territorial, despoblación y justicia",
+      "department": "Departamento de Desarrollo Territorial, Despoblación y Justicia",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "José Juan Arceiz Villacampa",
+      "role": "Vicepresidente",
+      "department": "Vicepresidencia (organizaciones sindicales)",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "María Jesús Lorente Ozcáriz",
+      "role": "Vicepresidenta",
+      "department": "Vicepresidencia (organizaciones empresariales)",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Tomasa Hernández Martínez",
+      "role": "Consejera de presidencia, interior y cultura",
+      "department": "Departamento de Presidencia, Interior y Cultura",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Carmen María Susín Gabarre",
+      "role": "Consejera de bienestar y familia",
+      "department": "Departamento de Bienestar Social y Familia",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "José Luis Bancalero Flores",
+      "role": "Consejero de sanidad",
+      "department": "Departamento de Sanidad",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Jorge Antonio Azcón Navarro",
+      "role": "Presidente del gobierno de aragón",
+      "department": "Presidencia del Gobierno de Aragón",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Alejandro Nolasco Asensio",
+      "role": "Vicepresidente y consejero de desregulación, bienestar y familia",
+      "department": "Departamento de Desregulación, Bienestar Social y Familia",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Ángel Sanz Barea",
+      "role": "Consejero de sanidad",
+      "department": "Departamento de Sanidad",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Jorge Antonio Azcón Navarro",
+      "role": "Presidente del gobierno de aragón",
+      "department": "Presidencia del Gobierno de Aragón",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Roberto Bermúdez de Castro Mur",
+      "role": "Consejero de hacienda, interior y administración pública",
+      "department": "Departamento de Hacienda, Interior y Administración Pública",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Eva Valle Maestro",
+      "role": "Consejera de economía, competitividad y empleo",
+      "department": "Departamento de Economía, Competitividad y Empleo",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Carmen M.ª Susín Gabarre",
+      "role": "Consejera de educación, ciencia y universidades",
+      "department": "Departamento de Educación, Ciencia y Universidades",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Aránzazu Simón Pérez",
+      "role": "Consejera de agricultura, ganadería y alimentación",
+      "department": "Departamento de Agricultura, Ganadería y Alimentación",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Manuel Blasco Marqués",
+      "role": "Consejero de medio ambiente y turismo",
+      "department": "Departamento de Medio Ambiente y Turismo",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "María del Mar Vaquero Perianez",
+      "role": "Vicepresidenta y consejera de presidencia, economía y justicia",
+      "department": "Departamento de Presidencia, Economía y Justicia",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Octavio Adolfo López Rodríguez",
+      "role": "Consejero de fomento, vivienda, logística y cohesión territorial",
+      "department": "Departamento de Fomento, Vivienda, Logística y Cohesión Territorial",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Roberto Bermúdez de Castro Mur",
+      "role": "Consejero de hacienda, interior y administración pública",
+      "department": "Departamento de Hacienda, Interior y Administración Pública",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Luis Francisco Biendicho Gracia",
+      "role": "Consejero de medio ambiente y turismo",
+      "department": "Departamento de Medio Ambiente y Turismo",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "María del Mar Vaquero Perianez",
+      "role": "Vicepresidenta y consejera de presidencia, justicia, cultura y deporte",
+      "department": "Departamento de Presidencia, Justicia, Cultura y Deporte",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Octavio Adolfo López Rodríguez",
+      "role": "Consejero de vivienda, fomento, logística y cohesión territorial",
+      "department": "Departamento de Vivienda, Fomento, Logística y Cohesión Territorial",
+      "period": "XII Legislatura 2026-",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Ángel Samper Secorún",
+      "role": "Consejero de agricultura, ganadería y alimentación",
+      "department": "Departamento de Agricultura, Ganadería y Alimentación",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Roberto Bermúdez de Castro",
+      "role": "Consejero de hacienda y administración pública",
+      "department": "Departamento de Hacienda y Administración Pública",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "Claudia Pérez Forniés",
+      "role": "Consejera de educación, ciencia y universidades",
+      "department": "Departamento de Educación, Ciencia y Universidades",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    },
+    {
+      "name": "María del Mar Vaquero Periánez",
+      "role": "Vicepresidenta segunda y consejera de economía, empleo e industria",
+      "department": "Departamento de Economía, Empleo e Industria",
+      "period": "XI Legislatura 2023/2025",
+      "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
+      "confirmationSource": null,
+      "departmentsInOfficialHistory": [],
+      "result": "sin periodo publicado en el histórico consultado"
+    }
+  ]
+}

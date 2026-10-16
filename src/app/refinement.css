@@ -44,6 +44,11 @@
 .main-content.navigation-open {
   margin-left: 218px;
 }
+@media (min-width: 721px) {
+  .main-content:not(.navigation-open) {
+    margin-left: 64px;
+  }
+}
 .navigation-shade {
   display: none;
 }

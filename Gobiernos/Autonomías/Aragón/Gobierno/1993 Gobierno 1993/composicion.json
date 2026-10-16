@@ -35,7 +35,11 @@
       "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
       "start": null,
       "end": null,
-      "period": "III Legislatura 1993/1995 · 1995-01-12 — 1993-09-18"
+      "period": "III Legislatura 1993/1995 · intervalo inconsistente en el catálogo de origen",
+      "datesInSource": {
+        "start": "1995-01-12",
+        "end": "1993-09-18"
+      }
     },
     {
       "person": "aragon-angel-gimeno-marin",
@@ -71,7 +75,11 @@
       "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
       "start": null,
       "end": null,
-      "period": "III Legislatura 1993/1995 · 1994-07-18 — 1994-06-23"
+      "period": "III Legislatura 1993/1995 · intervalo inconsistente en el catálogo de origen",
+      "datesInSource": {
+        "start": "1994-07-18",
+        "end": "1994-06-23"
+      }
     },
     {
       "person": "aragon-jose-manuel-de-gregorio-ariza",
@@ -102,7 +110,7 @@
     },
     {
       "person": "aragon-rafael-gomez-lus",
-      "name": "Rafael Gómez Lus",
+      "name": "Rafael Gómez-Lus Lafita",
       "role": "Consejero de Sanidad y Consumo",
       "source": "https://opendata.aragon.es/GA_OD_Core/download?resource_id=160&formato=json",
       "start": null,
