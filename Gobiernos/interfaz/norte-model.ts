@@ -4,7 +4,7 @@ import {
   type CatalanParliament,
 } from "./catalonia-model";
 
-function institutions(
+export function institutions(
   executives: Record<string, CatalanGovernment>,
   chambers: Record<string, CatalanParliament>,
 ) {

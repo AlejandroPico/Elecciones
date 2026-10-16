@@ -1,0 +1,115 @@
+{
+  "id": "asturias-gobierno-10",
+  "label": "IX · 2012",
+  "start": "2012-05-24",
+  "end": "2015-07-22",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/2012/05/25/pdfs/BOE-A-2012-6875.pdf",
+  "terms": [
+    {
+      "person": "javier-fernandez",
+      "name": "Javier Fernández Fernández",
+      "start": "2012-05-24",
+      "end": "2015-07-22",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/2012/05/25/pdfs/BOE-A-2012-6875.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-guillermo-martinez-suarez",
+      "name": "Guillermo Martínez Suárez",
+      "start": null,
+      "end": null,
+      "role": "Presidencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-maria-dolores-carcedo-garcia",
+      "name": "María Dolores Carcedo García",
+      "start": null,
+      "end": null,
+      "role": "Hacienda y Sector Público",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-graciano-torre-gonzalez",
+      "name": "Graciano Torre González",
+      "start": null,
+      "end": null,
+      "role": "Economía y Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-ana-gonzalez-rodriguez",
+      "name": "Ana González Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Educación, Cultura y Deporte",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-esther-diaz-garcia",
+      "name": "Esther Díaz García",
+      "start": null,
+      "end": null,
+      "role": "Bienestar Social y Vivienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-graciela-blanco-rodriguez",
+      "name": "Graciela Blanco Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Bienestar Social y Vivienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-faustino-blanco-gonzalez",
+      "name": "Faustino Blanco González",
+      "start": null,
+      "end": null,
+      "role": "Sanidad",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-belen-fernandez-gonzalez",
+      "name": "Belén Fernández González",
+      "start": null,
+      "end": null,
+      "role": "Fomento, Ordenación de Territorio y Medio Ambiente",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    },
+    {
+      "person": "senado-19185",
+      "name": "María Jesús Álvarez González",
+      "start": null,
+      "end": null,
+      "role": "Agroganadería y Recursos Autóctonos",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Javier Fernández (2012-2015)",
+      "level": "minister"
+    }
+  ]
+}

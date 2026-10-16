@@ -1,0 +1,998 @@
+{
+  "id": "asturias-parlamento-12",
+  "label": "Legislatura XII",
+  "start": "2023-06-26",
+  "end": null,
+  "checkedAt": "2026-10-16",
+  "source": "https://www.jgpa.es/diputados-y-diputadas",
+  "currentOnly": true,
+  "capacity": 45,
+  "nominalOnly": false,
+  "records": [
+    {
+      "person": "asturias-rafael-alonso-alonso",
+      "name": "Rafael Alonso Alonso",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31663&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-alba-alvarez-nunez",
+      "name": "Alba Álvarez Núñez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31914&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-sara-concepcion-alvarez-rouco",
+      "name": "Sara Concepción Álvarez Rouco",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31805&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Vox",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "adrian-barbon",
+      "name": "Adrián Barbón Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31999&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-jacinto-brana-santos",
+      "name": "Jacinto Braña Santos",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31811&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-sandra-maria-camino-rodriguez",
+      "name": "Sandra María Camino Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31682&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-delia-campomanes-isidoro",
+      "name": "Delia Campomanes Isidoro",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31982&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-maria-dolores-carcedo-garcia",
+      "name": "María Dolores Carcedo García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31998&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-gonzalo-centeno-martin",
+      "name": "Gonzalo Centeno Martín",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31856&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Vox",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-manuel-cifuentes-corujo",
+      "name": "Manuel Cifuentes Corujo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31819&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-juan-manuel-cofino-gonzalez",
+      "name": "Juan Manuel Cofiño González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31751&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-jose-luis-costillas-gutierrez",
+      "name": "José Luis Costillas Gutiérrez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31680&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-jose-agustin-cuervas-mons-garcia-braga",
+      "name": "José Agustín Cuervas-Mons García-Braga",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31665&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-pedro-de-rueda-gallardo",
+      "name": "Pedro de Rueda Gallardo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31821&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-jose-manuel-felgueres-abad",
+      "name": "José Manuel Felgueres Abad",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31809&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-susana-fernandez-arias",
+      "name": "Susana Fernández Arias",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31903&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-maria-celia-fernandez-fernandez",
+      "name": "María Celia Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31891&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-lidia-fernandez-fernandez",
+      "name": "Lidia Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31949&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-luis-ramon-fernandez-huerga",
+      "name": "Luis Ramón Fernández Huerga",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31904&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "congreso-248-9",
+      "name": "María del Pilar Fernández Pardo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31907&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-ricardo-fernandez-rodriguez",
+      "name": "Ricardo Fernández Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31806&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-maria-esther-freile-fernandez",
+      "name": "María Esther Freile Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31943&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-maria-gloria-garcia-fernandez",
+      "name": "María Gloria García Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31854&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-jose-ramon-garcia-gonzalez",
+      "name": "José Ramón García González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31823&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-ana-isabel-gonzalez-cachero",
+      "name": "Ana Isabel González Cachero",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31858&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-nuria-gonzalez-nuevo-vazquez",
+      "name": "Nuria González-Nuevo Vázquez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31993&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-javier-gonzalez-vegas",
+      "name": "Javier González Vegas",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31952&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-javier-jove-sandoval",
+      "name": "Javier Jové Sandoval",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31660&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Vox",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-gimena-llamedo-gonzalez",
+      "name": "Gimena Llamedo González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31945&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-carolina-lopez-fernandez",
+      "name": "Carolina López Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31689&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Vox",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-noelia-macias-mariano",
+      "name": "Noelia Macías Mariano",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=32003&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-marcelino-marcos-lindez",
+      "name": "Marcelino Marcos Líndez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31675&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-salvador-mendez-mendez",
+      "name": "Salvador Méndez Méndez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31882&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-angel-ricardo-morales-fuentecilla",
+      "name": "Ángel Ricardo Morales Fuentecilla",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31978&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-beatriz-polledo-enriquez",
+      "name": "Beatriz Polledo Enríquez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31947&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-ana-isabel-puerto-prado",
+      "name": "Ana Isabel Puerto Prado",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31814&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-adrian-pumares-suarez",
+      "name": "Adrián Pumares Suárez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31933&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Mixto",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-alvaro-queipo-somoano",
+      "name": "Álvaro Queipo Somoano",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31915&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-monica-ronderos-garcia",
+      "name": "Mónica Ronderos García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31929&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-andres-david-ruiz-riestra",
+      "name": "Andrés David Ruiz Riestra",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31955&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-salome-sanchez-hernandez",
+      "name": "Salomé Sánchez Hernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31950&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-rene-suarez-fernandez",
+      "name": "René Suárez Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31684&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Socialista",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-covadonga-tome-nestal",
+      "name": "Covadonga Tomé Nestal",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31940&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Mixto",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-luis-miguel-venta-cueli",
+      "name": "Luis Miguel Venta Cueli",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31979&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Popular",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-ovidio-zapico-gonzalez",
+      "name": "Ovidio Zapico González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31926&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "formationLabel": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+      "observedAt": "2026-10-16"
+    }
+  ],
+  "board": [
+    {
+      "person": "asturias-juan-manuel-cofino-gonzalez",
+      "name": "Juan Manuel Cofiño González",
+      "start": null,
+      "end": null,
+      "role": "Presidencia · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=36",
+      "period": "Legislatura XII",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-maria-celia-fernandez-fernandez",
+      "name": "María Celia Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=36",
+      "period": "Legislatura XII",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-jose-agustin-cuervas-mons-garcia-braga",
+      "name": "José Agustín Cuervas-Mons García-Braga",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia segunda · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=36",
+      "period": "Legislatura XII",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "asturias-delia-campomanes-isidoro",
+      "name": "Delia Campomanes Isidoro",
+      "start": null,
+      "end": null,
+      "role": "Secretaría primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=36",
+      "period": "Legislatura XII",
+      "observedAt": "2026-10-16"
+    },
+    {
+      "person": "congreso-248-9",
+      "name": "María del Pilar Fernández Pardo",
+      "start": null,
+      "end": null,
+      "role": "Secretaría segunda · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=36",
+      "period": "Legislatura XII",
+      "observedAt": "2026-10-16"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Grupo Parlamentario Popular",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31663&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "members": [
+        {
+          "person": "asturias-rafael-alonso-alonso",
+          "name": "Rafael Alonso Alonso",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31663&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-sandra-maria-camino-rodriguez",
+          "name": "Sandra María Camino Rodríguez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31682&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-manuel-cifuentes-corujo",
+          "name": "Manuel Cifuentes Corujo",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31819&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-jose-luis-costillas-gutierrez",
+          "name": "José Luis Costillas Gutiérrez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31680&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-jose-agustin-cuervas-mons-garcia-braga",
+          "name": "José Agustín Cuervas-Mons García-Braga",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31665&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-pedro-de-rueda-gallardo",
+          "name": "Pedro de Rueda Gallardo",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31821&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-jose-manuel-felgueres-abad",
+          "name": "José Manuel Felgueres Abad",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31809&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-susana-fernandez-arias",
+          "name": "Susana Fernández Arias",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31903&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "congreso-248-9",
+          "name": "María del Pilar Fernández Pardo",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31907&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-maria-gloria-garcia-fernandez",
+          "name": "María Gloria García Fernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31854&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-nuria-gonzalez-nuevo-vazquez",
+          "name": "Nuria González-Nuevo Vázquez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31993&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-salvador-mendez-mendez",
+          "name": "Salvador Méndez Méndez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31882&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-beatriz-polledo-enriquez",
+          "name": "Beatriz Polledo Enríquez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31947&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-alvaro-queipo-somoano",
+          "name": "Álvaro Queipo Somoano",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31915&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-andres-david-ruiz-riestra",
+          "name": "Andrés David Ruiz Riestra",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31955&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-salome-sanchez-hernandez",
+          "name": "Salomé Sánchez Hernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31950&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-luis-miguel-venta-cueli",
+          "name": "Luis Miguel Venta Cueli",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31979&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Popular",
+          "observedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Socialista",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31914&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "members": [
+        {
+          "person": "asturias-alba-alvarez-nunez",
+          "name": "Alba Álvarez Núñez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31914&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "adrian-barbon",
+          "name": "Adrián Barbón Rodríguez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31999&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-jacinto-brana-santos",
+          "name": "Jacinto Braña Santos",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31811&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-maria-dolores-carcedo-garcia",
+          "name": "María Dolores Carcedo García",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31998&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-juan-manuel-cofino-gonzalez",
+          "name": "Juan Manuel Cofiño González",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31751&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-maria-celia-fernandez-fernandez",
+          "name": "María Celia Fernández Fernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31891&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-lidia-fernandez-fernandez",
+          "name": "Lidia Fernández Fernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31949&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-luis-ramon-fernandez-huerga",
+          "name": "Luis Ramón Fernández Huerga",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31904&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-ricardo-fernandez-rodriguez",
+          "name": "Ricardo Fernández Rodríguez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31806&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-maria-esther-freile-fernandez",
+          "name": "María Esther Freile Fernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31943&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-jose-ramon-garcia-gonzalez",
+          "name": "José Ramón García González",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31823&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-ana-isabel-gonzalez-cachero",
+          "name": "Ana Isabel González Cachero",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31858&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-gimena-llamedo-gonzalez",
+          "name": "Gimena Llamedo González",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31945&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-noelia-macias-mariano",
+          "name": "Noelia Macías Mariano",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=32003&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-marcelino-marcos-lindez",
+          "name": "Marcelino Marcos Líndez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31675&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-angel-ricardo-morales-fuentecilla",
+          "name": "Ángel Ricardo Morales Fuentecilla",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31978&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-ana-isabel-puerto-prado",
+          "name": "Ana Isabel Puerto Prado",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31814&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-monica-ronderos-garcia",
+          "name": "Mónica Ronderos García",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31929&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-rene-suarez-fernandez",
+          "name": "René Suárez Fernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31684&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Socialista",
+          "observedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Vox",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31805&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "members": [
+        {
+          "person": "asturias-sara-concepcion-alvarez-rouco",
+          "name": "Sara Concepción Álvarez Rouco",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31805&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Vox",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-gonzalo-centeno-martin",
+          "name": "Gonzalo Centeno Martín",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31856&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Vox",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-javier-jove-sandoval",
+          "name": "Javier Jové Sandoval",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31660&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Vox",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-carolina-lopez-fernandez",
+          "name": "Carolina López Fernández",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31689&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Vox",
+          "observedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31982&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "members": [
+        {
+          "person": "asturias-delia-campomanes-isidoro",
+          "name": "Delia Campomanes Isidoro",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31982&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-javier-gonzalez-vegas",
+          "name": "Javier González Vegas",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31952&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-ovidio-zapico-gonzalez",
+          "name": "Ovidio Zapico González",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31926&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Convocatoria por Asturies IU-Más País-IAS",
+          "observedAt": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "name": "Grupo Parlamentario Mixto",
+      "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31933&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+      "members": [
+        {
+          "person": "asturias-adrian-pumares-suarez",
+          "name": "Adrián Pumares Suárez",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31933&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Mixto",
+          "observedAt": "2026-10-16"
+        },
+        {
+          "person": "asturias-covadonga-tome-nestal",
+          "name": "Covadonga Tomé Nestal",
+          "start": null,
+          "end": null,
+          "role": "Diputado/a de la Junta General",
+          "source": "https://www.jgpa.es/diputados-y-diputadas?p_p_id=jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&p_r_p_2113237475_diputadoId=31940&_jgpaportlet_WAR_jgpaportlet_INSTANCE_JoGQRoxbw79k_display=diputado",
+          "formationLabel": "Grupo Parlamentario Mixto",
+          "observedAt": "2026-10-16"
+        }
+      ]
+    }
+  ],
+  "note": "Composición vigente de la Junta General consultada. No se proyecta esta lista a la constitución de 2023."
+}

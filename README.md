@@ -1,6 +1,12 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.17.1 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.18.0 · 16 de octubre de 2026.
+
+## Asturias y Cantabria · 0.18
+
+Ambas comunidades incorporan Gobierno y Parlamento con el selector de legislaturas, cronología, Mesas y hemiciclo compartidos. Asturias contiene doce legislaturas y trece etapas presidenciales; Cantabria, once y trece respectivamente. La ampliación revisa 666 identidades e incorpora 588 fichas nuevas, conservando todas las anteriores. Los gobiernos y parlamentos vigentes tienen retrato de todos sus integrantes.
+
+Los hemiciclos históricos proceden de las relaciones de las bibliotecas parlamentarias: Asturias muestra los 45 titulares iniciales y conserva los relevos; Cantabria muestra sus cuadros nominales archivados, con 35 o 39 miembros según legislatura. No se atribuyen asientos físicos ni fechas individuales desconocidas. Las consejerías históricas se identifican como archivo complementario pendiente de contraste completo de sus relevos con los decretos originales. Véanse [Asturias](Gobiernos/Autonomías/Asturias/README.md) y [Cantabria](Gobiernos/Autonomías/Cantabria/README.md), incluidas las erratas resueltas y las ausencias fotográficas históricas.
 
 País Vasco y Navarra incorporan sus gobiernos y parlamentos con la presentación compartida, cronología, filtros y fichas personales. Se consultan las trece legislaturas vascas desde 1980 y las doce etapas navarras desde 1979. Los gobiernos conservan catorce y quince marcos presidenciales, respectivamente, y los gabinetes vigentes incluyen dieciséis y catorce integrantes. Los listados nominales antiguos se distinguen de las composiciones fechadas y de las instantáneas actuales. Fuentes, cobertura y límites en [País Vasco](Gobiernos/Autonomías/País%20Vasco/README.md) y [Navarra](Gobiernos/Autonomías/Navarra/README.md).
 

@@ -1,0 +1,628 @@
+{
+  "id": "asturias-parlamento-4",
+  "label": "Legislatura IV",
+  "start": "1995-06-23",
+  "end": "1999-07-07",
+  "checkedAt": "2026-10-16",
+  "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1",
+  "currentOnly": false,
+  "capacity": 45,
+  "nominalOnly": true,
+  "records": [
+    {
+      "person": "asturias-reinerio-alvarez-saavedra",
+      "name": "Reinerio Álvarez Saavedra",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-maria-del-pilar-amieva-suarez",
+      "name": "María del Pilar Amieva Suárez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "congreso-210-7",
+      "name": "Juan Ángel Bustillo Gutiérrez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "senado-12715",
+      "name": "Juan Manuel Campos Ansó",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "congreso-281-12",
+      "name": "José Ramón García Cañal",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-cesar-ramon-garcia-fernandez",
+      "name": "César Ramón García Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-manuel-garcia-santovena",
+      "name": "Manuel García Santoveña",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-marcial-gonzalez-lopez",
+      "name": "Marcial González López",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "senado-16905",
+      "name": "Fernando Goñi Merino",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-agustin-iglesias-caunedo",
+      "name": "Agustín Iglesias Caunedo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jesus-manuel-longo-carcedo",
+      "name": "Jesús Manuel Longo Carcedo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-sergio-marques-fernandez",
+      "name": "Sergio Marqués Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP/GPM",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-francisco-monte-garcia",
+      "name": "Francisco Monte García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "formationLabel": "PP/GPM",
+      "period": "Legislatura IV · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-jose-manuel-monteserin-alvarez-linera",
+      "name": "José Manuel Monteserín Alvarez-Linera",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-maria-isabel-perez-espinosa-gonzalez-lobon",
+      "name": "María Isabel Pérez-Espinosa González-Lobón",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-victor-manuel-rivera-antuna",
+      "name": "Víctor Manuel Rivera Antuña",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP/GPM",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-pelayo-roces-arbesu",
+      "name": "Pelayo Roces Arbesú",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "congreso-320-10",
+      "name": "Ovidio Sánchez Díaz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jose-javier-suarez-alvarez-amandi",
+      "name": "José Javier Suárez Álvarez-Amandi",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-aquilino-saul-torga-llamedo",
+      "name": "Aquilino Saúl Torga Llamedo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jose-luis-toyos-capellan",
+      "name": "José Luis Toyos Capellán",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP",
+      "period": "Legislatura IV · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-leonardo-jose-verdin-bouza",
+      "name": "Leonardo José Verdín Bouza",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP/GPM",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jose-maria-yanez-blanco",
+      "name": "José María Yáñez Blanco",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PP/GPM",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "senado-19185",
+      "name": "María Jesús Álvarez González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-eugenio-carbajal-martinez",
+      "name": "Eugenio Carbajal Martínez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "maria-luisa-carcedo",
+      "name": "María Luisa Carcedo Roces",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-juan-manuel-cofino-gonzalez",
+      "name": "Juan Manuel Cofiño González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jose-feliz-garcia",
+      "name": "José Feliz García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-manuel-fernandez-de-la-cera",
+      "name": "Manuel Fernández de la Cera",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jose-ramon-fernandez-suarez",
+      "name": "José Ramón Fernández Suárez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "senado-10476",
+      "name": "José Ángel Fernández Villa",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-maria-de-las-mareas-garcia-fernandez-arenas",
+      "name": "María de las Mareas García Fernández-Arenas",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-faustino-gonzalez-alcalde",
+      "name": "Faustino González Alcalde",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "senado-18191",
+      "name": "Fernando Lastra Valdés",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-ana-rosa-migoya-diego",
+      "name": "Ana Rosa Migoya Diego",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-manuel-alfredo-perez-menendez",
+      "name": "Manuel Alfredo Pérez Menéndez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-manuel-perez-rodriguez",
+      "name": "Manuel Pérez Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-carlos-rojo-perez",
+      "name": "Carlos Rojo Pérez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "congreso-233-9",
+      "name": "Celestino Suárez González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "congreso-216-12",
+      "name": "Antonio Ramón María Trevín Lombán",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "congreso-293-5",
+      "name": "Manuel García Fonseca",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "IU",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-francisco-javier-garcia-valledor",
+      "name": "Francisco Javier García Valledor",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "IU",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "gaspar-llamazares",
+      "name": "Gaspar Llamazares Trigo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "IU",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-amalia-maceda-rubio",
+      "name": "Amalia Maceda Rubio",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "IU",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-noemi-martin-gonzalez",
+      "name": "Noemí Martín González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "IU",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-jose-antonio-saavedra-rodriguez",
+      "name": "José Antonio Saavedra Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "IU/GPM",
+      "period": "Legislatura IV · titular inicial"
+    },
+    {
+      "person": "asturias-xuan-xose-sanchez-vicente",
+      "name": "Xuan Xosé Sánchez Vicente",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+      "formationLabel": "GPM",
+      "period": "Legislatura IV · titular inicial"
+    }
+  ],
+  "board": [],
+  "groups": [],
+  "archiveBoard": [
+    {
+      "person": "congreso-320-10",
+      "name": "Ovidio Sánchez Díaz",
+      "start": null,
+      "end": null,
+      "role": "Presidencia · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    },
+    {
+      "person": "asturias-faustino-gonzalez-alcalde",
+      "name": "Faustino González Alcalde",
+      "start": null,
+      "end": null,
+      "role": "Presidencia · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    },
+    {
+      "person": "asturias-faustino-gonzalez-alcalde",
+      "name": "Faustino González Alcalde",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    },
+    {
+      "person": "congreso-281-12",
+      "name": "José Ramón García Cañal",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    },
+    {
+      "person": "asturias-francisco-javier-garcia-valledor",
+      "name": "Francisco Javier García Valledor",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia segunda · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    },
+    {
+      "person": "asturias-maria-isabel-perez-espinosa-gonzalez-lobon",
+      "name": "María Isabel Pérez-Espinosa González-Lobón",
+      "start": null,
+      "end": null,
+      "role": "Secretaría primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    },
+    {
+      "person": "asturias-maria-de-las-mareas-garcia-fernandez-arenas",
+      "name": "María de las Mareas García Fernández-Arenas",
+      "start": null,
+      "end": null,
+      "role": "Secretaría segunda · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+      "period": "Legislatura IV"
+    }
+  ],
+  "archiveBoardNote": "Miembros de la Mesa documentados durante la legislatura, incluidos sus relevos; no son una composición simultánea.",
+  "note": "Relación de la Biblioteca de la Junta General; se conservan los titulares y los relevos sin atribuir intervalos individuales no publicados.",
+  "archivedComposition": {
+    "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1",
+    "checkedAt": "2026-03-31",
+    "note": "Titulares iniciales identificados por la tipografía que explica la Biblioteca; las siglas corresponden a la candidatura de origen. El archivo personal incluye los relevos.",
+    "groups": [
+      {
+        "name": "PP",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=16",
+        "members": [
+          "asturias-reinerio-alvarez-saavedra",
+          "asturias-maria-del-pilar-amieva-suarez",
+          "congreso-210-7",
+          "senado-12715",
+          "congreso-281-12",
+          "asturias-cesar-ramon-garcia-fernandez",
+          "asturias-manuel-garcia-santovena",
+          "asturias-marcial-gonzalez-lopez",
+          "senado-16905",
+          "asturias-agustin-iglesias-caunedo",
+          "asturias-jesus-manuel-longo-carcedo",
+          "asturias-sergio-marques-fernandez",
+          "asturias-jose-manuel-monteserin-alvarez-linera",
+          "asturias-maria-isabel-perez-espinosa-gonzalez-lobon",
+          "asturias-victor-manuel-rivera-antuna",
+          "asturias-pelayo-roces-arbesu",
+          "congreso-320-10",
+          "asturias-jose-javier-suarez-alvarez-amandi",
+          "asturias-aquilino-saul-torga-llamedo",
+          "asturias-leonardo-jose-verdin-bouza",
+          "asturias-jose-maria-yanez-blanco"
+        ]
+      },
+      {
+        "name": "PSOE",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+        "members": [
+          "senado-19185",
+          "asturias-eugenio-carbajal-martinez",
+          "maria-luisa-carcedo",
+          "asturias-juan-manuel-cofino-gonzalez",
+          "asturias-jose-feliz-garcia",
+          "asturias-manuel-fernandez-de-la-cera",
+          "asturias-jose-ramon-fernandez-suarez",
+          "senado-10476",
+          "asturias-maria-de-las-mareas-garcia-fernandez-arenas",
+          "asturias-faustino-gonzalez-alcalde",
+          "senado-18191",
+          "asturias-ana-rosa-migoya-diego",
+          "asturias-manuel-alfredo-perez-menendez",
+          "asturias-manuel-perez-rodriguez",
+          "asturias-carlos-rojo-perez",
+          "congreso-233-9",
+          "congreso-216-12"
+        ]
+      },
+      {
+        "name": "IU",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+        "members": [
+          "congreso-293-5",
+          "asturias-francisco-javier-garcia-valledor",
+          "gaspar-llamazares",
+          "asturias-amalia-maceda-rubio",
+          "asturias-noemi-martin-gonzalez",
+          "asturias-jose-antonio-saavedra-rodriguez"
+        ]
+      },
+      {
+        "name": "GPM",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=17",
+        "members": [
+          "asturias-xuan-xose-sanchez-vicente"
+        ]
+      }
+    ]
+  }
+}

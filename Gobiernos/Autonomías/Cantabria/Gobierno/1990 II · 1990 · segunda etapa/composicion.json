@@ -1,0 +1,115 @@
+{
+  "id": "cantabria-gobierno-4",
+  "label": "II · 1990 · segunda etapa",
+  "start": "1990-12-10",
+  "end": "1991-07-05",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Cantabria",
+  "source": "https://boe.es/boe/dias/1990/12/12/pdfs/A36884-36884.pdf",
+  "terms": [
+    {
+      "person": "congreso-207-7",
+      "name": "Jaime Blanco García",
+      "start": "1990-12-10",
+      "end": "1991-07-05",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1990/12/12/pdfs/A36884-36884.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "senado-10495",
+      "name": "José Luis Vallines Díaz",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia y Consejería de Obras Públicas, Vivienda y Urbanismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "vice"
+    },
+    {
+      "person": "cantabria-jesus-maria-corona-ferrero",
+      "name": "Jesús María Corona Ferrero",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Presidencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-antonio-relea-sarabia",
+      "name": "Antonio Relea Sarabia",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Economía, Hacienda y Presupuesto",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-rafael-angel-de-la-sierra-gonzalez",
+      "name": "Rafael Ángel de la Sierra González",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Cultura, Educación y Deporte",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-santiago-neches-olaso",
+      "name": "Santiago Neches Olaso",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Ganadería, Agricultura y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-jose-francisco-pernia-calvo",
+      "name": "José Francisco Pernía Calvo",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Turismo, Transportes y Comunicaciones, e Industria",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-jose-luis-gil-diaz",
+      "name": "José Luis Gil Díaz",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Ecología, Medio Ambiente y Ordenación del Territorio",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-enrique-gutierrez-rivas",
+      "name": "Enrique Gutiérrez Rivas",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Sanidad y Bienestar Social",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-victor-gijon-penas",
+      "name": "Víctor Gijón Peñas",
+      "start": null,
+      "end": null,
+      "role": "Consejero sin responsabilidad ejecutiva",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "10 de diciembre de 1990-5 de julio de 1991",
+      "level": "minister"
+    }
+  ]
+}

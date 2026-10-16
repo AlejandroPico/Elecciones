@@ -10,5 +10,70 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "Grupo Parlamentario Popular",
+    "period": "2023-09-06",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/informacion-general/composicion/11l-fernandez-garcia-inigo",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
+  },
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura VIII",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=26",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
+  },
+  {
+    "organization": null,
+    "name": "Popular121",
+    "period": "Legislatura IX",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=29",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
+  },
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura X",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=32",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
+  },
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura XI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=35",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
   }
 ]

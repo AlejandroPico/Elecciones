@@ -1,0 +1,165 @@
+{
+  "id": "asturias-gobierno-6",
+  "label": "V · 1999",
+  "start": "1999-07-20",
+  "end": "2003-07-04",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/1999/07/21/pdfs/A27253-27253.pdf",
+  "terms": [
+    {
+      "person": "senado-15237",
+      "name": "Vicente Alberto Álvarez Areces",
+      "start": "1999-07-20",
+      "end": "2003-07-04",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1999/07/21/pdfs/A27253-27253.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-maria-jose-ramos-rubiera",
+      "name": "María José Ramos Rubiera",
+      "start": null,
+      "end": null,
+      "role": "Presidencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-luis-iturrioz-vinuela",
+      "name": "Luis Iturrioz Viñuela",
+      "start": null,
+      "end": null,
+      "role": "Administraciones Públicas y Asuntos Europeos",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-angelina-alvarez-gonzalez",
+      "name": "Angelina Álvarez González",
+      "start": null,
+      "end": null,
+      "role": "Administraciones Públicas y Asuntos Europeos · Trabajo y Promoción de Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-elena-carantona-alvarez",
+      "name": "Elena Carantoña Álvarez",
+      "start": null,
+      "end": null,
+      "role": "Hacienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jaime-rabanal-garcia",
+      "name": "Jaime Rabanal García",
+      "start": null,
+      "end": null,
+      "role": "Hacienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-francisco-javier-fernandez-vallina",
+      "name": "Francisco Javier Fernández Vallina",
+      "start": null,
+      "end": null,
+      "role": "Educación y Cultura",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jose-garcia-gonzalez",
+      "name": "José García González",
+      "start": null,
+      "end": null,
+      "role": "Asuntos Sociales",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-francisco-sevilla-perez",
+      "name": "Francisco Sevilla Pérez",
+      "start": null,
+      "end": null,
+      "role": "Salud y Servicios Sanitarios",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-juan-ramon-garcia-secades",
+      "name": "Juan Ramón García Secades",
+      "start": null,
+      "end": null,
+      "role": "Infraestructuras y Política Territorial",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-herminio-sastre-andres",
+      "name": "Herminio Sastre Andrés",
+      "start": null,
+      "end": null,
+      "role": "Medio Ambiente",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-santiago-menendez-de-luarca-navia-osorio",
+      "name": "Santiago Menéndez de Luarca Navia-Osorio",
+      "start": null,
+      "end": null,
+      "role": "Medio Rural y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "javier-fernandez",
+      "name": "Javier Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Industria, Comercio y Turismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jesus-urrutia-garcia",
+      "name": "Jesús Urrutia García",
+      "start": null,
+      "end": null,
+      "role": "Industria, Comercio y Turismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-graciano-torre-gonzalez",
+      "name": "Graciano Torre González",
+      "start": null,
+      "end": null,
+      "role": "Trabajo y Promoción de Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Primer gobierno de Vicente Álvarez Areces (1999-2003)",
+      "level": "minister"
+    }
+  ]
+}

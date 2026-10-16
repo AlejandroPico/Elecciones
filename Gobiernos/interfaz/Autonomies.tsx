@@ -14,6 +14,8 @@ const CastillaLeon = lazy(() => import("./CastillaLeon"));
 const Aragon = lazy(() => import("./Aragon"));
 const PaisVasco = lazy(() => import("./PaisVasco"));
 const Navarra = lazy(() => import("./Navarra"));
+const Asturias = lazy(() => import("./Asturias"));
+const Cantabria = lazy(() => import("./Cantabria"));
 const AutonomyMap = lazy(() => import("./AutonomyMap"));
 export function autonomyEntry(
   region: string,
@@ -177,7 +179,11 @@ export default function Autonomies({
                           ? PaisVasco
                           : route?.territory.id === "navarra"
                             ? Navarra
-                            : undefined;
+                            : route?.territory.id === "asturias"
+                              ? Asturias
+                              : route?.territory.id === "cantabria"
+                                ? Cantabria
+                                : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">

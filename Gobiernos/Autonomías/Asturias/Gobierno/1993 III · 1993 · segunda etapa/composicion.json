@@ -1,0 +1,105 @@
+{
+  "id": "asturias-gobierno-4",
+  "label": "III · 1993 · segunda etapa",
+  "start": "1993-06-18",
+  "end": "1995-07-14",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/1993/06/19/pdfs/A18914-18914.pdf",
+  "terms": [
+    {
+      "person": "congreso-216-12",
+      "name": "Antonio Ramón María Trevín Lombán",
+      "start": "1993-06-18",
+      "end": "1995-07-14",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1993/06/19/pdfs/A18914-18914.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-maria-antonia-fernandez-felgueroso",
+      "name": "María Antonia Fernández Felgueroso",
+      "start": null,
+      "end": null,
+      "role": "Interior y Administraciones Públicas.",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-avelino-viejo-fernandez",
+      "name": "Avelino Viejo Fernández",
+      "start": null,
+      "end": null,
+      "role": "Hacienda, Economía y Planificación",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-amelia-valcarcel-bernaldo-de-quiros",
+      "name": "Amelia Valcárcel Bernaldo de Quirós",
+      "start": null,
+      "end": null,
+      "role": "Educación, Cultura, Deportes y Juventud",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jose-garcia-gonzalez",
+      "name": "José García González",
+      "start": null,
+      "end": null,
+      "role": "Sanidad y Servicios Sociales",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-juan-manuel-cofino-gonzalez",
+      "name": "Juan Manuel Cofiño González",
+      "start": null,
+      "end": null,
+      "role": "Infraestructuras y Vivienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-santiago-alonso-gonzalez",
+      "name": "Santiago Alonso González",
+      "start": null,
+      "end": null,
+      "role": "Medio Rural y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-julian-bonet-perez",
+      "name": "Julián Bonet Pérez",
+      "start": null,
+      "end": null,
+      "role": "Industria, Turismo y Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    },
+    {
+      "person": "maria-luisa-carcedo",
+      "name": "María Luisa Carcedo Roces",
+      "start": null,
+      "end": null,
+      "role": "Medio Ambiente y Urbanismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Antonio Trevín (1993-1995)",
+      "level": "minister"
+    }
+  ]
+}

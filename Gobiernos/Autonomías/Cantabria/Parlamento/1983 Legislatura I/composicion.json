@@ -1,0 +1,474 @@
+{
+  "id": "cantabria-parlamento-1",
+  "label": "Legislatura I",
+  "start": "1983-05-27",
+  "end": "1987-07-03",
+  "checkedAt": "2026-10-16",
+  "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+  "currentOnly": false,
+  "nominalOnly": true,
+  "capacity": 35,
+  "records": [
+    {
+      "person": "senado-10704",
+      "name": "Isaac Aja Muela",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-jose-maria-alonso-blanco",
+      "name": "José María Alonso Blanco",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-enrique-manuel-ambrosio-orizaola",
+      "name": "Enrique Manuel Ambrosio Orizaola",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-fernando-astobiza-fernandez",
+      "name": "Fernando Astobiza Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-roberto-bedoya-arroyo",
+      "name": "Roberto Bedoya Arroyo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-jesus-bolado-mier",
+      "name": "Jesús Bolado Mier",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "senado-11303",
+      "name": "Jesús Cabezón Alonso",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "senado-11307",
+      "name": "Ambrosio Calzada Hernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-angel-diaz-de-entresotos-mier",
+      "name": "Angel Díaz de Entresotos Mier",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "senado-10783",
+      "name": "Jesús Díaz Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-antonio-fernandez-enriquez",
+      "name": "Antonio Fernández Enríquez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-tomas-fernandez-fernandez",
+      "name": "Tomás Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-maria-teresa-fernandez-garcia",
+      "name": "María Teresa Fernández García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-joaquin-fernandez-san-emeterio",
+      "name": "Joaquín Fernández San Emeterio",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-rosa-ines-garcia-ortiz",
+      "name": "Rosa Inés García Ortiz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "congreso-125-5",
+      "name": "Guillermo Gómez Martínez-Conde",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "senado-10344",
+      "name": "Juan González Bedoya",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-adolfo-linares-saiz",
+      "name": "Adolfo Linares Saiz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-jose-luis-marcos-flores",
+      "name": "José Luis Marcos Flores",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-jose-martinez-rodriguez",
+      "name": "José Martínez Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-alberto-jose-mateo-del-peral",
+      "name": "Alberto José Mateo del Peral",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-daniel-mediavilla-de-la-hera",
+      "name": "Daniel Mediavilla de la Hera",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-celestino-mendez-diaz",
+      "name": "Celestino Méndez Díaz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-jose-ramon-montes-gonzalez",
+      "name": "José Ramón Montes González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-juan-nunez-sanz",
+      "name": "Juan Nuñez Sanz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-adolfo-pajares-compostizo",
+      "name": "Adolfo Pajares Compostizo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "senado-10246",
+      "name": "Miguel Ángel Palacio García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-manuel-pardo-castillo",
+      "name": "Manuel Pardo Castillo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-jose-luis-perez-solar",
+      "name": "José Luis Pérez Solar",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "miguel-angel-revilla",
+      "name": "Miguel Ángel Revilla Roiz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-juan-ruiz-gutierrez",
+      "name": "Juan Ruiz Gutiérrez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-maria-angeles-ruiz-tagle-morales",
+      "name": "María Angeles Ruiz-Tagle Morales",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-martin-silvan-delgado",
+      "name": "Martín Silván Delgado",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Socialista",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "cantabria-esteban-solana-lavin",
+      "name": "Esteban Solana Lavín",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Mixto",
+      "constituency": "Cantabria"
+    },
+    {
+      "person": "senado-10495",
+      "name": "José Luis Vallines Díaz",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a del Parlamento de Cantabria",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=7",
+      "formationLabel": "Popular",
+      "constituency": "Cantabria"
+    }
+  ],
+  "board": [],
+  "groups": [],
+  "archiveBoard": [
+    {
+      "person": "congreso-125-5",
+      "name": "Guillermo Gómez Martínez-Conde",
+      "start": null,
+      "end": null,
+      "role": "Presidente · Mesa",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=8",
+      "period": "Legislatura I"
+    },
+    {
+      "person": "cantabria-alberto-jose-mateo-del-peral",
+      "name": "Alberto José Mateo del Peral",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente Primero · Mesa",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=8",
+      "period": "Legislatura I"
+    },
+    {
+      "person": "senado-10704",
+      "name": "Isaac Aja Muela",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente Segundo · Mesa",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=8",
+      "period": "Legislatura I"
+    },
+    {
+      "person": "cantabria-roberto-bedoya-arroyo",
+      "name": "Roberto Bedoya Arroyo",
+      "start": null,
+      "end": null,
+      "role": "Secretario Primero · Mesa",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=8",
+      "period": "Legislatura I"
+    },
+    {
+      "person": "cantabria-rosa-ines-garcia-ortiz",
+      "name": "Rosa Inés García Ortiz",
+      "start": null,
+      "end": null,
+      "role": "Secretaria Segunda · Mesa",
+      "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=8",
+      "period": "Legislatura I"
+    }
+  ],
+  "archiveBoardNote": "Relación de la Biblioteca, incluidos los relevos de la Mesa. No atribuye una fecha común a todos sus integrantes.",
+  "note": "Relación nominal archivada por la Biblioteca del Parlamento, actualizada durante la legislatura; no es la lista de la sesión constitutiva ni reconstruye todos los relevos.",
+  "archivedComposition": {
+    "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+    "checkedAt": "2026-04-28",
+    "note": "Relación nominal de la Biblioteca; incluye las sustituciones incorporadas a su cuadro histórico.",
+    "groups": [
+      {
+        "name": "Socialista",
+        "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+        "members": [
+          "senado-10704",
+          "cantabria-enrique-manuel-ambrosio-orizaola",
+          "senado-11303",
+          "cantabria-tomas-fernandez-fernandez",
+          "cantabria-rosa-ines-garcia-ortiz",
+          "senado-10344",
+          "cantabria-jose-luis-marcos-flores",
+          "cantabria-daniel-mediavilla-de-la-hera",
+          "cantabria-celestino-mendez-diaz",
+          "cantabria-juan-nunez-sanz",
+          "senado-10246",
+          "cantabria-maria-angeles-ruiz-tagle-morales",
+          "cantabria-martin-silvan-delgado"
+        ]
+      },
+      {
+        "name": "Popular",
+        "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+        "members": [
+          "cantabria-jose-maria-alonso-blanco",
+          "cantabria-fernando-astobiza-fernandez",
+          "cantabria-roberto-bedoya-arroyo",
+          "cantabria-jesus-bolado-mier",
+          "cantabria-angel-diaz-de-entresotos-mier",
+          "senado-10783",
+          "cantabria-antonio-fernandez-enriquez",
+          "cantabria-maria-teresa-fernandez-garcia",
+          "congreso-125-5",
+          "cantabria-jose-martinez-rodriguez",
+          "cantabria-adolfo-pajares-compostizo",
+          "cantabria-manuel-pardo-castillo",
+          "cantabria-jose-luis-perez-solar",
+          "senado-10495"
+        ]
+      },
+      {
+        "name": "Mixto",
+        "source": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=6",
+        "members": [
+          "senado-11307",
+          "cantabria-joaquin-fernandez-san-emeterio",
+          "cantabria-adolfo-linares-saiz",
+          "cantabria-alberto-jose-mateo-del-peral",
+          "cantabria-jose-ramon-montes-gonzalez",
+          "miguel-angel-revilla",
+          "cantabria-juan-ruiz-gutierrez",
+          "cantabria-esteban-solana-lavin"
+        ]
+      }
+    ]
+  }
+}

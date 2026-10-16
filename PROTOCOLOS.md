@@ -1,6 +1,6 @@
 # Protocolos de Elecciones
 
-Revisión: 15 de octubre de 2026. Aplicable a personas y agentes que amplíen este repositorio.
+Revisión: 16 de octubre de 2026. Aplicable a personas y agentes que amplíen este repositorio.
 
 ## Carpetas y nombres
 

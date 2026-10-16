@@ -1,0 +1,145 @@
+{
+  "id": "asturias-gobierno-2",
+  "label": "II · 1987",
+  "start": "1987-07-27",
+  "end": "1991-07-10",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/1987/07/28/pdfs/A23042-23042.pdf",
+  "terms": [
+    {
+      "person": "congreso-235-2",
+      "name": "Pedro Silva Cienfuegos-Jovellanos",
+      "start": "1987-07-27",
+      "end": "1991-07-10",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1987/07/28/pdfs/A23042-23042.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-bernardo-fernandez-perez",
+      "name": "Bernardo Fernández Pérez",
+      "start": null,
+      "end": null,
+      "role": "Presidencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-vicente-sanchez-alvarez",
+      "name": "Vicente Sánchez Álvarez",
+      "start": null,
+      "end": null,
+      "role": "Hacienda, Economía y Planificación",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-emilio-ramon-ballesteros-castro",
+      "name": "Emilio Ramón Ballesteros Castro",
+      "start": null,
+      "end": null,
+      "role": "Interior y Administración Territorial",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-juan-ramon-zapico-garcia",
+      "name": "Juan Ramón Zapico García",
+      "start": null,
+      "end": null,
+      "role": "Interior y Administración Territorial · Obras Públicas, Transportes y Comunicaciones",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-emilio-murcia-navarro",
+      "name": "Emilio Murcia Navarro",
+      "start": null,
+      "end": null,
+      "role": "Ordenación del Territorio, Urbanismo y Vivienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-felipe-fernandez-fernandez",
+      "name": "Felipe Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Ordenación del Territorio, Urbanismo y Vivienda · Sanidad y Servicios Sociales",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-manuel-fernandez-de-la-cera",
+      "name": "Manuel Fernández de la Cera",
+      "start": null,
+      "end": null,
+      "role": "Educación, Cultura y Deportes",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jorge-esteban-fernandez-bustillo",
+      "name": "Jorge Esteban Fernández Bustillo",
+      "start": null,
+      "end": null,
+      "role": "Educación, Cultura y Deportes",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-juan-luis-rodriguez-vigil-rubio",
+      "name": "Juan Luis Rodríguez-Vigil Rubio",
+      "start": null,
+      "end": null,
+      "role": "Sanidad y Servicios Sociales",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jesus-cadavieco-hevia",
+      "name": "Jesús Cadavieco Hevia",
+      "start": null,
+      "end": null,
+      "role": "Agricultura y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-maria-paz-fernandez-felgueroso",
+      "name": "María Paz Fernández Felgueroso",
+      "start": null,
+      "end": null,
+      "role": "Industria, Comercio y Turismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-maria-pilar-alonso-alonso",
+      "name": "María Pilar Alonso Alonso",
+      "start": null,
+      "end": null,
+      "role": "Juventud",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Pedro de Silva (1987-1991)",
+      "level": "minister"
+    }
+  ]
+}

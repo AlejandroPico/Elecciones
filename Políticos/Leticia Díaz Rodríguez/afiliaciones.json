@@ -22,5 +22,31 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "vox",
+    "name": "Grupo Parlamentario Vox",
+    "period": "2023-06-22",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/informacion-general/composicion/11l-diaz-rodriguez-leticia",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
+  },
+  {
+    "organization": "vox",
+    "name": "Vox",
+    "period": "Legislatura XI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://parlamento-cantabria.es/sites/default/files/5.%20Diputados%20y%20Mesas%20por%20Legislaturas_0.pdf#page=35",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "cantabria"
   }
 ]

@@ -1,0 +1,125 @@
+{
+  "id": "asturias-gobierno-7",
+  "label": "VI · 2003",
+  "start": "2003-07-04",
+  "end": "2007-07-11",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/2003/07/05/pdfs/A26181-26181.pdf",
+  "terms": [
+    {
+      "person": "senado-15237",
+      "name": "Vicente Alberto Álvarez Areces",
+      "start": "2003-07-04",
+      "end": "2007-07-11",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/2003/07/05/pdfs/A26181-26181.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-maria-jose-ramos-rubiera",
+      "name": "María José Ramos Rubiera",
+      "start": null,
+      "end": null,
+      "role": "Presidencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jaime-rabanal-garcia",
+      "name": "Jaime Rabanal García",
+      "start": null,
+      "end": null,
+      "role": "Economía y Administraciones Públicas",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jose-luis-iglesias-riopedre",
+      "name": "José Luis Iglesias Riopedre",
+      "start": null,
+      "end": null,
+      "role": "Educación y Ciencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-ana-rosa-migoya-diego",
+      "name": "Ana Rosa Migoya Diego",
+      "start": null,
+      "end": null,
+      "role": "Cultura, Comunicación Social y Turismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-laura-gonzalez-alvarez",
+      "name": "Laura González Álvarez",
+      "start": null,
+      "end": null,
+      "role": "Vivienda y Bienestar Social",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-rafael-sariego-garcia",
+      "name": "Rafael Sariego García",
+      "start": null,
+      "end": null,
+      "role": "Salud y Servicios Sanitarios",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-francisco-gonzalez-buendia",
+      "name": "Francisco González Buendía",
+      "start": null,
+      "end": null,
+      "role": "Medio Ambiente, Ordenación del Territorio e Infraestructuras",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-servanda-garcia-fernandez",
+      "name": "Servanda García Fernández",
+      "start": null,
+      "end": null,
+      "role": "Medio Rural y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-graciano-torre-gonzalez",
+      "name": "Graciano Torre González",
+      "start": null,
+      "end": null,
+      "role": "Industria y Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-francisco-javier-garcia-valledor",
+      "name": "Francisco Javier García Valledor",
+      "start": null,
+      "end": null,
+      "role": "Justicia, Seguridad Pública y Relaciones Exteriores",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Segundo gobierno de Vicente Álvarez Areces (2003-2007)",
+      "level": "minister"
+    }
+  ]
+}

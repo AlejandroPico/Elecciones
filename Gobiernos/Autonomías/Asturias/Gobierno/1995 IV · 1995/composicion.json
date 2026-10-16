@@ -1,0 +1,95 @@
+{
+  "id": "asturias-gobierno-5",
+  "label": "IV · 1995",
+  "start": "1995-07-14",
+  "end": "1999-07-20",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/1995/07/17/pdfs/A21843-21843.pdf",
+  "terms": [
+    {
+      "person": "asturias-sergio-marques-fernandez",
+      "name": "Sergio Marqués Fernández",
+      "start": "1995-07-14",
+      "end": "1999-07-20",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1995/07/17/pdfs/A21843-21843.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "congreso-281-12",
+      "name": "José Ramón García Cañal",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente. Cooperación",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "vice"
+    },
+    {
+      "person": "asturias-juan-alsina-torrente",
+      "name": "Juan Alsina Torrente",
+      "start": null,
+      "end": null,
+      "role": "Economía",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jose-antonio-gonzalez-garcia-portilla",
+      "name": "José Antonio González García-Portilla",
+      "start": null,
+      "end": null,
+      "role": "Economía",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-maria-victoria-rodriguez-escudero",
+      "name": "María Victoria Rodríguez Escudero",
+      "start": null,
+      "end": null,
+      "role": "Cultura",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-antonio-cueto-espinar",
+      "name": "Antonio Cueto Espinar",
+      "start": null,
+      "end": null,
+      "role": "Servicios Sociales",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-juan-jose-tielve-cuervo",
+      "name": "Juan José Tielve Cuervo",
+      "start": null,
+      "end": null,
+      "role": "Fomento",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-luis-servando-pelaez-rodriguez",
+      "name": "Luis Servando Peláez Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Agricultura",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Etapa en el Partido Popular (1995-1998)",
+      "level": "minister"
+    }
+  ]
+}

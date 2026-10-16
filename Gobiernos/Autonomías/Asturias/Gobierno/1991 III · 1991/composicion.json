@@ -1,0 +1,105 @@
+{
+  "id": "asturias-gobierno-3",
+  "label": "III · 1991",
+  "start": "1991-07-10",
+  "end": "1993-06-18",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/1991/07/11/pdfs/A23134-23134.pdf",
+  "terms": [
+    {
+      "person": "asturias-juan-luis-rodriguez-vigil-rubio",
+      "name": "Juan Luis Rodríguez-Vigil Rubio",
+      "start": "1991-07-10",
+      "end": "1993-06-18",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1991/07/11/pdfs/A23134-23134.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-bernardo-fernandez-perez",
+      "name": "Bernardo Fernández Pérez",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidente. Interior y Administraciones Públicas.",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "vice"
+    },
+    {
+      "person": "asturias-avelino-viejo-fernandez",
+      "name": "Avelino Viejo Fernández",
+      "start": null,
+      "end": null,
+      "role": "Hacienda, Economía y Planificación",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-maria-antonia-fernandez-felgueroso",
+      "name": "María Antonia Fernández Felgueroso",
+      "start": null,
+      "end": null,
+      "role": "Educación, Cultura, Deportes y Juventud",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jose-garcia-gonzalez",
+      "name": "José García González",
+      "start": null,
+      "end": null,
+      "role": "Sanidad y Servicios Sociales",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-juan-ramon-zapico-garcia",
+      "name": "Juan Ramón Zapico García",
+      "start": null,
+      "end": null,
+      "role": "Infraestructuras y Vivienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-felipe-fernandez-fernandez",
+      "name": "Felipe Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Medio Rural y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-victor-manuel-zapico-zapico",
+      "name": "Víctor Manuel Zapico Zapico",
+      "start": null,
+      "end": null,
+      "role": "Industria, Turismo y Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    },
+    {
+      "person": "maria-luisa-carcedo",
+      "name": "María Luisa Carcedo Roces",
+      "start": null,
+      "end": null,
+      "role": "Medio Ambiente y Urbanismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Gobierno de Juan Luis Rodríguez-Vigil (1991-1993)",
+      "level": "minister"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "asturias-gobierno-8",
+  "label": "VII · 2007",
+  "start": "2007-07-11",
+  "end": "2011-07-15",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Asturias",
+  "source": "https://boe.es/boe/dias/2007/07/12/pdfs/A29993-29993.pdf",
+  "terms": [
+    {
+      "person": "senado-15237",
+      "name": "Vicente Alberto Álvarez Areces",
+      "start": "2007-07-11",
+      "end": "2011-07-15",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/2007/07/12/pdfs/A29993-29993.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "asturias-maria-jose-ramos-rubiera",
+      "name": "María José Ramos Rubiera",
+      "start": null,
+      "end": null,
+      "role": "Presidencia, Justicia e Igualdad",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-ana-rosa-migoya-diego",
+      "name": "Ana Rosa Migoya Diego",
+      "start": null,
+      "end": null,
+      "role": "Administraciones Públicas",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jaime-rabanal-garcia",
+      "name": "Jaime Rabanal García",
+      "start": null,
+      "end": null,
+      "role": "Economía y Asuntos Europeos · Economía y Hacienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-jose-luis-iglesias-riopedre",
+      "name": "José Luis Iglesias Riopedre",
+      "start": null,
+      "end": null,
+      "role": "Educación y Ciencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-herminio-sastre-andres",
+      "name": "Herminio Sastre Andrés",
+      "start": null,
+      "end": null,
+      "role": "Educación y Ciencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-encarnacion-rodriguez-canas",
+      "name": "Encarnación Rodríguez Cañas",
+      "start": null,
+      "end": null,
+      "role": "Cultura y Turismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-maria-mercedes-alvarez-gonzalez",
+      "name": "María Mercedes Álvarez González",
+      "start": null,
+      "end": null,
+      "role": "Cultura y Turismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-pilar-rodriguez-rodriguez",
+      "name": "Pilar Rodríguez Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Bienestar Social",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-teresa-ordiz-asenjo",
+      "name": "Teresa Ordiz Asenjo",
+      "start": null,
+      "end": null,
+      "role": "Bienestar Social",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-noemi-martin-gonzalez",
+      "name": "Noemí Martín González",
+      "start": null,
+      "end": null,
+      "role": "Bienestar Social y Vivienda",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-ramon-quiros-garcia",
+      "name": "Ramón Quirós García",
+      "start": null,
+      "end": null,
+      "role": "Salud y Servicios Sanitarios",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-francisco-gonzalez-buendia",
+      "name": "Francisco González Buendía",
+      "start": null,
+      "end": null,
+      "role": "Infraestructuras, Política Territorial y Vivienda · Medio Ambiente, Ordenación del Territorio e Infraestructuras",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-belen-fernandez-gonzalez",
+      "name": "Belén Fernández González",
+      "start": null,
+      "end": null,
+      "role": "Medio Ambiente y Desarrollo Rural",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-manuel-aurelio-martin-gonzalez",
+      "name": "Manuel Aurelio Martín González",
+      "start": null,
+      "end": null,
+      "role": "Medio Rural y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    },
+    {
+      "person": "asturias-graciano-torre-gonzalez",
+      "name": "Graciano Torre González",
+      "start": null,
+      "end": null,
+      "role": "Industria y Empleo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Consejos_de_Gobierno_del_Principado_de_Asturias_desde_1982",
+      "period": "Tercer gobierno de Vicente Álvarez Areces (2007-2011)",
+      "level": "minister"
+    }
+  ]
+}

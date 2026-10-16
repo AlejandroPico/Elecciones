@@ -1,0 +1,655 @@
+{
+  "id": "asturias-parlamento-9",
+  "label": "Legislatura IX",
+  "start": "2012-04-27",
+  "end": "2015-06-16",
+  "checkedAt": "2026-10-16",
+  "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1",
+  "currentOnly": false,
+  "capacity": 45,
+  "nominalOnly": true,
+  "records": [
+    {
+      "person": "asturias-maria-pilar-alonso-alonso",
+      "name": "María Pilar Alonso Alonso",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "senado-19185",
+      "name": "María Jesús Álvarez González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-maria-dolores-carcedo-garcia",
+      "name": "María Dolores Carcedo García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-nuria-devesa-castano",
+      "name": "Nuria Devesa Castaño",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "javier-fernandez",
+      "name": "Javier Fernández Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-maria-judit-florez-paredes",
+      "name": "María Judit Flórez Paredes",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-francisco-gonzalez-mendez",
+      "name": "Francisco González Méndez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-jesus-gutierrez-garcia",
+      "name": "Jesús Gutiérrez García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-vicente-herranz-gonzalez",
+      "name": "Vicente Herranz González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "congreso-153-15",
+      "name": "Adriana Lastra Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "senado-18191",
+      "name": "Fernando Lastra Valdés",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-marcelino-marcos-lindez",
+      "name": "Marcelino Marcos Líndez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-elsa-perez-garcia",
+      "name": "Elsa Pérez García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-jose-maria-perez-lopez",
+      "name": "José María Pérez López",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-marina-pineda-gonzalez",
+      "name": "Marina Pineda González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-pedro-jose-sanjurjo-gonzalez",
+      "name": "Pedro José Sanjurjo González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-marcelino-torre-canto",
+      "name": "Marcelino Torre Canto",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-alejandro-vega-riego",
+      "name": "Alejandro Vega Riego",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "formationLabel": "PSOE",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-maria-teresa-alonso-perez",
+      "name": "María Teresa Alonso Pérez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "francisco-alvarez-cascos-fernandez",
+      "name": "Francisco Álvarez-Cascos Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-juan-ramon-campo-fernandez",
+      "name": "Juan Ramón Campo Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-cristina-coto-de-la-mata",
+      "name": "Cristina Coto de la Mata",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-maria-del-carmen-fernandez-gomez",
+      "name": "María del Carmen Fernández Gómez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-maria-del-mar-garcia-poo",
+      "name": "María del Mar García Poo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-marina-huerta-vega",
+      "name": "Marina Huerta Vega",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-esther-landa-riera",
+      "name": "Esther Landa Riera",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-albano-longo-alvarez",
+      "name": "Albano Longo Álvarez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-jose-antonio-martinez-fernandez",
+      "name": "José Antonio Martínez Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "congreso-20-14",
+      "name": "Isidro Manuel Martínez Oblanca",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-manuel-pena-sanchez",
+      "name": "Manuel Peña Sánchez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-pelayo-roces-arbesu",
+      "name": "Pelayo Roces Arbesú",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-maria-del-carmen-sela-fernandez-de-cordoba",
+      "name": "María del Carmen Sela Fernández de Córdoba",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "FAC",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-jose-agustin-cuervas-mons-garcia-braga",
+      "name": "José Agustín Cuervas-Mons García-Braga",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-maria-victoria-delgado-camblor",
+      "name": "María Victoria Delgado Camblor",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-jose-manuel-felgueres-abad",
+      "name": "José Manuel Felgueres Abad",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "congreso-82-15",
+      "name": "María Mercedes Fernández González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "senado-16905",
+      "name": "Fernando Goñi Merino",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "congreso-234-12",
+      "name": "Susana López Ares",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-alfonso-roman-lopez-gonzalez",
+      "name": "Alfonso Román López González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-emma-ramos-carvajal",
+      "name": "Emma Ramos Carvajal",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-matias-rodriguez-feito",
+      "name": "Matías Rodríguez Feito",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-luis-miguel-venta-cueli",
+      "name": "Luis Miguel Venta Cueli",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "PP",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-luis-manuel-alvarez-payo",
+      "name": "Luis Manuel Álvarez Payo",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-angel-gonzalez-alvarez",
+      "name": "Ángel González Álvarez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "senado-15745",
+      "name": "Jesús Enrique Iglesias Fernández",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-manuel-aurelio-martin-gonzalez",
+      "name": "Manuel Aurelio Martín González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-noemi-martin-gonzalez",
+      "name": "Noemí Martín González",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "asturias-marta-pulgar-garcia",
+      "name": "Marta Pulgar García",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · incorporación durante la legislatura"
+    },
+    {
+      "person": "asturias-emilia-vazquez-menendez",
+      "name": "Emilia Vázquez Menéndez",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "IU",
+      "period": "Legislatura IX · titular inicial"
+    },
+    {
+      "person": "congreso-347-13",
+      "name": "José Ignacio Prendes Prendes",
+      "start": null,
+      "end": null,
+      "role": "Diputado/a de la Junta General",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+      "formationLabel": "UPyD23 (GPM)",
+      "period": "Legislatura IX · titular inicial"
+    }
+  ],
+  "board": [],
+  "groups": [],
+  "archiveBoard": [
+    {
+      "person": "asturias-pedro-jose-sanjurjo-gonzalez",
+      "name": "Pedro José Sanjurjo González",
+      "start": null,
+      "end": null,
+      "role": "Presidencia · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "period": "Legislatura IX"
+    },
+    {
+      "person": "asturias-pelayo-roces-arbesu",
+      "name": "Pelayo Roces Arbesú",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "period": "Legislatura IX"
+    },
+    {
+      "person": "asturias-jose-agustin-cuervas-mons-garcia-braga",
+      "name": "José Agustín Cuervas-Mons García-Braga",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia segunda · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "period": "Legislatura IX"
+    },
+    {
+      "person": "asturias-manuel-aurelio-martin-gonzalez",
+      "name": "Manuel Aurelio Martín González",
+      "start": null,
+      "end": null,
+      "role": "Secretaría primera · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "period": "Legislatura IX"
+    },
+    {
+      "person": "asturias-emilia-vazquez-menendez",
+      "name": "Emilia Vázquez Menéndez",
+      "start": null,
+      "end": null,
+      "role": "Secretaría · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "period": "Legislatura IX"
+    },
+    {
+      "person": "congreso-347-13",
+      "name": "José Ignacio Prendes Prendes",
+      "start": null,
+      "end": null,
+      "role": "Secretaría segunda · Mesa",
+      "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+      "period": "Legislatura IX"
+    }
+  ],
+  "archiveBoardNote": "Miembros de la Mesa documentados durante la legislatura, incluidos sus relevos; no son una composición simultánea.",
+  "note": "Relación de la Biblioteca de la Junta General; se conservan los titulares y los relevos sin atribuir intervalos individuales no publicados.",
+  "archivedComposition": {
+    "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1",
+    "checkedAt": "2026-03-31",
+    "note": "Titulares iniciales identificados por la tipografía que explica la Biblioteca; las siglas corresponden a la candidatura de origen. El archivo personal incluye los relevos.",
+    "groups": [
+      {
+        "name": "PSOE",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=29",
+        "members": [
+          "asturias-maria-pilar-alonso-alonso",
+          "senado-19185",
+          "asturias-maria-dolores-carcedo-garcia",
+          "asturias-nuria-devesa-castano",
+          "javier-fernandez",
+          "asturias-maria-judit-florez-paredes",
+          "asturias-francisco-gonzalez-mendez",
+          "asturias-jesus-gutierrez-garcia",
+          "asturias-vicente-herranz-gonzalez",
+          "congreso-153-15",
+          "senado-18191",
+          "asturias-marcelino-marcos-lindez",
+          "asturias-jose-maria-perez-lopez",
+          "asturias-marina-pineda-gonzalez",
+          "asturias-pedro-jose-sanjurjo-gonzalez",
+          "asturias-marcelino-torre-canto",
+          "asturias-alejandro-vega-riego"
+        ]
+      },
+      {
+        "name": "FAC",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+        "members": [
+          "asturias-maria-teresa-alonso-perez",
+          "francisco-alvarez-cascos-fernandez",
+          "asturias-juan-ramon-campo-fernandez",
+          "asturias-cristina-coto-de-la-mata",
+          "asturias-marina-huerta-vega",
+          "asturias-esther-landa-riera",
+          "asturias-albano-longo-alvarez",
+          "asturias-jose-antonio-martinez-fernandez",
+          "congreso-20-14",
+          "asturias-manuel-pena-sanchez",
+          "asturias-pelayo-roces-arbesu",
+          "asturias-maria-del-carmen-sela-fernandez-de-cordoba"
+        ]
+      },
+      {
+        "name": "PP",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+        "members": [
+          "asturias-jose-agustin-cuervas-mons-garcia-braga",
+          "asturias-maria-victoria-delgado-camblor",
+          "asturias-jose-manuel-felgueres-abad",
+          "congreso-82-15",
+          "senado-16905",
+          "congreso-234-12",
+          "asturias-alfonso-roman-lopez-gonzalez",
+          "asturias-emma-ramos-carvajal",
+          "asturias-matias-rodriguez-feito",
+          "asturias-luis-miguel-venta-cueli"
+        ]
+      },
+      {
+        "name": "IU",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+        "members": [
+          "asturias-angel-gonzalez-alvarez",
+          "senado-15745",
+          "asturias-manuel-aurelio-martin-gonzalez",
+          "asturias-noemi-martin-gonzalez",
+          "asturias-emilia-vazquez-menendez"
+        ]
+      },
+      {
+        "name": "UPyD23 (GPM)",
+        "source": "https://www.jgpa.es/documents/11156/104641/Relaci%C3%B3n+general+de+Parlamentarios.pdf/eaa674bd-e5a7-437e-8cb9-e459925305c1#page=30",
+        "members": [
+          "congreso-347-13"
+        ]
+      }
+    ]
+  }
+}

@@ -66,8 +66,9 @@ export default function Hemicycle({
   dateCaption?: string;
   openPerson: (id: string) => void;
 }) {
-  const chamberOf = `${chamber.startsWith("Cortes") ? "de las" : chamber.startsWith("Asamblea") ? "de la" : chamber.startsWith("Les ") ? "de" : "del"} ${chamber}`;
-  const chamberIn = `${chamber.startsWith("Cortes") ? "en las" : chamber.startsWith("Asamblea") ? "en la" : chamber.startsWith("Les ") ? "en" : "en el"} ${chamber}`;
+  const feminineChamber = /^(Asamblea|Junta)\b/.test(chamber);
+  const chamberOf = `${chamber.startsWith("Cortes") ? "de las" : feminineChamber ? "de la" : chamber.startsWith("Les ") ? "de" : "del"} ${chamber}`;
+  const chamberIn = `${chamber.startsWith("Cortes") ? "en las" : feminineChamber ? "en la" : chamber.startsWith("Les ") ? "en" : "en el"} ${chamber}`;
   const headingId = useId();
   const positions = groups.flatMap((group) =>
     group.members.map((member) => ({ member, group })),

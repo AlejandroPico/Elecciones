@@ -1,0 +1,115 @@
+{
+  "id": "cantabria-gobierno-6",
+  "label": "IV · 1995",
+  "start": "1995-07-14",
+  "end": "1999-07-23",
+  "checkedAt": "2026-10-16",
+  "name": "Gobierno de Cantabria",
+  "source": "https://boe.es/boe/dias/1995/07/17/pdfs/A21843-21843.pdf",
+  "terms": [
+    {
+      "person": "congreso-21-9",
+      "name": "José Joaquín Martínez Sieso",
+      "start": "1995-07-14",
+      "end": "1999-07-23",
+      "role": "Presidencia",
+      "source": "https://boe.es/boe/dias/1995/07/17/pdfs/A21843-21843.pdf",
+      "level": "president"
+    }
+  ],
+  "incidents": [
+    "El archivo de consejerías procede de una relación enciclopédica complementaria; sus intervalos y relevos están pendientes de contraste completo con los decretos originales."
+  ],
+  "archiveTerms": [
+    {
+      "person": "miguel-angel-revilla",
+      "name": "Miguel Ángel Revilla Roiz",
+      "start": null,
+      "end": null,
+      "role": "Vicepresidencia y Consejería de Obras Públicas, Vivienda y Urbanismo",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "vice"
+    },
+    {
+      "person": "congreso-124-15",
+      "name": "Emilio Jesús Del Valle Rodríguez",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Presidencia",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-rafael-gutierrez-suarez",
+      "name": "Rafael Gutiérrez Suárez",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Economía, Hacienda y Presupuesto",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-francisco-javier-lopez-marcano",
+      "name": "Francisco Javier López Marcano",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Cultura y Deporte",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-maria-sofia-juaristi-zalduendo",
+      "name": "María Sofía Juaristi Zalduendo",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Educación y Juventud",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-jose-alvarez-gancedo",
+      "name": "José Álvarez Gancedo",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Ganadería, Agricultura y Pesca",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-jose-ramon-alvarez-redondo",
+      "name": "José Ramón Álvarez Redondo",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Turismo, Transporte y Comunicaciones, e Industria",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-jose-luis-gil-diaz",
+      "name": "José Luis Gil Díaz",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Medio Ambiente y Ordenación del Territorio",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    },
+    {
+      "person": "cantabria-jaime-del-barrio-seoane",
+      "name": "Jaime del Barrio Seoane",
+      "start": null,
+      "end": null,
+      "role": "Consejería de Sanidad, Consumo y Bienestar Social",
+      "source": "https://es.wikipedia.org/wiki/Anexo:Composici%C3%B3n_de_los_gobiernos_de_Cantabria",
+      "period": "14 de julio de 1995-23 de julio de 1999",
+      "level": "minister"
+    }
+  ]
+}

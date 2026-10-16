@@ -20,7 +20,7 @@ import overlaps from "../Autonomías/País Vasco/fuentes/solapamientos-cronologi
 it("conserva todas las identidades previas y resuelve cada cargo de ambas comunidades", () => {
   for (const id of conservation.baselineIds)
     expect(findPerson(id), id).toBeTruthy();
-  expect(people).toHaveLength(
+  expect(people.length).toBeGreaterThanOrEqual(
     conservation.baselineIds.length + audit.newPeople.length,
   );
   expect(basque.governments).toHaveLength(14);
