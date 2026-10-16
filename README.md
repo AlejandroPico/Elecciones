@@ -1,6 +1,6 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.17.0 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.17.1 · 16 de octubre de 2026.
 
 País Vasco y Navarra incorporan sus gobiernos y parlamentos con la presentación compartida, cronología, filtros y fichas personales. Se consultan las trece legislaturas vascas desde 1980 y las doce etapas navarras desde 1979. Los gobiernos conservan catorce y quince marcos presidenciales, respectivamente, y los gabinetes vigentes incluyen dieciséis y catorce integrantes. Los listados nominales antiguos se distinguen de las composiciones fechadas y de las instantáneas actuales. Fuentes, cobertura y límites en [País Vasco](Gobiernos/Autonomías/País%20Vasco/README.md) y [Navarra](Gobiernos/Autonomías/Navarra/README.md).
 

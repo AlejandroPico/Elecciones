@@ -149,4 +149,18 @@ it("limita los gabinetes vigentes a la consulta y reúne competencias por person
   expect(bix).toBeTruthy();
   expect(denis).toBeTruthy();
   expect(bix!.id).not.toBe(denis!.id);
+  const historic = navarre.governments.flatMap((p) => p.archiveTerms ?? []);
+  expect(
+    historic.some((p) => p.name === "Pedro Sánchez de Muniáin Corera"),
+  ).toBe(true);
+  expect(historic.some((p) => p.name === "Jesús Pejenaute Grávalos")).toBe(
+    true,
+  );
+  expect(
+    people.some(
+      (p) =>
+        p.fullName === "Jesús Pejenaute Garde" ||
+        p.fullName === "Pedro Sánchez de Muniáin Lacasia",
+    ),
+  ).toBe(false);
 });

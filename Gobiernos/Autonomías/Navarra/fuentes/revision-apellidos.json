@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-16",
+  "basis": "Corrección de dos ampliaciones de apellido erróneas. Las formas descartadas no se mantienen como alias de la persona; los identificadores previos solo permiten conservar enlaces.",
+  "cases": [
+    {
+      "nameInGovernmentArchive": "Pedro Sánchez de Muniáin",
+      "fullName": "Pedro Sánchez de Muniáin Corera",
+      "discarded": "Pedro Sánchez de Muniáin Lacasia",
+      "source": "https://parlamentodenavarra.es/sites/default/files/diarios-sesiones/diario-sesiones-Plen1982028.pdf"
+    },
+    {
+      "nameInGovernmentArchive": "Jesús Pejenaute",
+      "fullName": "Jesús Pejenaute Grávalos",
+      "discarded": "Jesús Pejenaute Garde",
+      "source": "https://www.navarra.es/NR/rdonlyres/9F8CA8C4-A903-4883-AD4D-594AAB705219/225399/JesusPejenaute.pdf"
+    }
+  ]
+}

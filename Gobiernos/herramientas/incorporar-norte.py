@@ -214,9 +214,14 @@ def early_navarre():
         cat.event(id,'cargos-autonomias.json','navarra','Presidencia de la Diputación Foral',interval(start,end),source)
         stage('navarra','Gobierno',data)
 
+def reviewed_names():
+    review=m.load(source_dir('navarra')/'fuentes/revision-apellidos.json')
+    for row in review['cases']:
+        person(row['fullName'],'navarra',row['source'],'Identidad contrastada con documentación institucional')
+
 if __name__=='__main__':
     basque,navarre=profiles();basque_parliaments(basque);navarre_parliaments(navarre)
-    cabinet('pais-vasco');cabinet('navarra');early_navarre()
+    cabinet('pais-vasco');cabinet('navarra');early_navarre();reviewed_names()
     # Validación previa a cualquier publicación.
     for path,data in outputs:
         if 'start'not in data or 'label'not in data:continue

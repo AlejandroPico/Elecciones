@@ -5,6 +5,8 @@ root=pathlib.Path('Políticos').resolve()
 cases=[
  ('Carlos García Adanero','Carlos Fernando García Adanero','Carlos Fernando García Adanero','congreso-266-15'),
  ('Román Felones Morras','Román José Felones Morras','Román José Felones Morrás','navarra-roman-jose-felones-morras'),
+ ('Pedro Sánchez de Muniáin Lacasia','Pedro Sánchez de Muniáin Corera','Pedro Sánchez de Muniáin Corera','navarra-pedro-sanchez-de-muniain-corera'),
+ ('Jesús Pejenaute Garde','Jesús Pejenaute Grávalos','Jesús Pejenaute Grávalos','navarra-jesus-pejenaute-garde'),
 ]
 review=m.load('Gobiernos/revisiones/2026-10-16-norte/identidades-consolidadas.json',[])
 for first,second,full,id in cases:
@@ -16,6 +18,9 @@ for first,second,full,id in cases:
  base=next((x for x in metas if x['id']==id),None)
  if not base:continue
  merged=dict(base);merged.update(name=full,fullName=full,knownAs=m.unique([first,second,*[name for x in metas for name in x.get('knownAs',[])]]),legacyIds=m.unique([*[x['id']for x in metas if x['id']!=id],*[v for x in metas for v in x.get('legacyIds',[])]]))
+ # Un apellido completado erróneamente no se convierte en alias biográfico.
+ wrong={'Pedro Sánchez de Muniáin Lacasia','Jesús Pejenaute Garde'}
+ merged['knownAs']=[name for name in merged['knownAs']if name not in wrong and name!=full]
  files={}
  # La ficha con el identificador previo conserva la prioridad de sus metadatos.
  ordered=sorted(existing,key=lambda p:m.load(p/'ficha.json')['id']!=id)
