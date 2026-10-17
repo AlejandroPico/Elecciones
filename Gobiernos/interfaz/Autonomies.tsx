@@ -19,6 +19,8 @@ const Cantabria = lazy(() => import("./Cantabria"));
 const Galicia = lazy(() => import("./Galicia"));
 const LaRioja = lazy(() => import("./LaRioja"));
 const Murcia = lazy(() => import("./Murcia"));
+const Extremadura = lazy(() => import("./Extremadura"));
+const Baleares = lazy(() => import("./Baleares"));
 const AutonomyMap = lazy(() => import("./AutonomyMap"));
 export function autonomyEntry(
   region: string,
@@ -126,7 +128,7 @@ export function AutonomyMenu({
                       }
                     >
                       {territory.kind === "ciudad" ||
-                      ["madrid", "murcia"].includes(territory.id)
+                      ["madrid", "murcia", "extremadura"].includes(territory.id)
                         ? "Asamblea"
                         : territory.id === "valencia"
                           ? "Les Corts"
@@ -193,12 +195,16 @@ export default function Autonomies({
                                     ? LaRioja
                                     : route?.territory.id === "murcia"
                                       ? Murcia
-                                      : undefined;
+                                      : route?.territory.id === "extremadura"
+                                        ? Extremadura
+                                        : route?.territory.id === "baleares"
+                                          ? Baleares
+                                          : undefined;
   return (
     <div className="section-content">
       <h1 className="section-title">
         {route
-          ? `${route.territory.name} · ${route.section === "government" ? "Gobierno" : route.territory.kind === "ciudad" || ["madrid", "murcia"].includes(route.territory.id) ? "Asamblea" : route.territory.id === "valencia" ? "Les Corts" : "Parlamento"}`
+          ? `${route.territory.name} · ${route.section === "government" ? "Gobierno" : route.territory.kind === "ciudad" || ["madrid", "murcia", "extremadura"].includes(route.territory.id) ? "Asamblea" : route.territory.id === "valencia" ? "Les Corts" : "Parlamento"}`
           : "Gobiernos autonómicos"}
       </h1>
       {Institution && route ? (

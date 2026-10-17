@@ -924,7 +924,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.21.0</dd>
+                  <dd>0.22.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

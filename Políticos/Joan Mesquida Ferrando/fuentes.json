@@ -3,5 +3,20 @@
     "label": "Congreso de los Diputados · ficha individual",
     "url": "https://www.congreso.es/es/busqueda-de-diputados?p_p_id=diputadomodule&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_diputadomodule_mostrarFicha=true&codParlamentario=18&idLegislatura=XIII",
     "kind": "institutional"
+  },
+  {
+    "label": "Parlament de les Illes Balears",
+    "url": "https://web.parlamentib.es/webgtp/scripts/UnRegPers.asp?CFautor=67",
+    "kind": "institutional"
+  },
+  {
+    "label": "Diputado/a de Illes Balears",
+    "url": "https://contingutsweb.parlamentib.es/protocol/4/4_diputats_senadors_catala.pdf",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejería de Hacienda, Innovación y Energía (1999-2000) Hacienda y Presupuestos (2000-2003)",
+    "url": "https://es.wikipedia.org/wiki/Gobierno_de_las_Islas_Baleares",
+    "kind": "encyclopedic"
   }
 ]

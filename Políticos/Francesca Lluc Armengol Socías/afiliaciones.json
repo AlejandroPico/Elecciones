@@ -8,5 +8,96 @@
       "url": "https://es.wikipedia.org/wiki/Francina_Armengol",
       "kind": "encyclopedic"
     }
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "Legislatura V",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/5/5_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "Legislatura VI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/6/6_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "Legislatura VII",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/7/7_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "Legislatura VIII",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/8/documents/8_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "psoe",
+    "name": "PSOE",
+    "period": "Legislatura IX",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/9/documents/9_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "psoe",
+    "name": "Partit Socialista de les Illes Balears PSIB- PSOE",
+    "period": "Legislatura X",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/10/documents/10_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "19 de juny de 2023",
+    "period": "Legislatura X",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/10/documents/10_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
   }
 ]

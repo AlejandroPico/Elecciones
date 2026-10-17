@@ -1,0 +1,32 @@
+[
+  {
+    "territory": "baleares",
+    "title": "Illes Balears · Bloc per Mallorca",
+    "period": "Legislatura VII",
+    "source": {
+      "label": "Registro institucional",
+      "url": "https://contingutsweb.parlamentib.es/protocol/7/7_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    }
+  },
+  {
+    "territory": "baleares",
+    "title": "Illes Balears · Coalició PSM-Iniciativa Verds-Entesa",
+    "period": "Legislatura VIII",
+    "source": {
+      "label": "Registro institucional",
+      "url": "https://contingutsweb.parlamentib.es/protocol/8/documents/8_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    }
+  },
+  {
+    "territory": "baleares",
+    "title": "Illes Balears · MÉS per Mallorca-PSM-Entesa-Iniciativa Verds",
+    "period": "Legislatura IX",
+    "source": {
+      "label": "Registro institucional",
+      "url": "https://contingutsweb.parlamentib.es/protocol/9/documents/9_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    }
+  }
+]

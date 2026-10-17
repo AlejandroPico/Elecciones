@@ -15,7 +15,7 @@ import conservation from "../revisiones/2026-10-16-murcia/conservacion.json";
 
 it("conserva las identidades previas y enlaza once asambleas y dieciséis gobiernos murcianos", () => {
   expect(audit.baselinePeople).toBe(12291);
-  expect(people).toHaveLength(audit.totalPeople);
+  expect(people.length).toBeGreaterThanOrEqual(audit.totalPeople);
   for (const id of conservation.baselineIds)
     expect(findPerson(id), id).toBeTruthy();
   expect(murcia.parliaments).toHaveLength(11);

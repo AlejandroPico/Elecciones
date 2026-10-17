@@ -1,0 +1,28 @@
+[
+  {
+    "organization": "vox",
+    "name": "VOX-Baleares VOX-ACTUA BALEARES",
+    "period": "Legislatura X",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/10/documents/10_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "vox",
+    "name": "Vox",
+    "period": "Legislatura XI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://web.parlamentib.es/webgtp/scripts/UnRegPers.asp?CFautor=495",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  }
+]

@@ -1,6 +1,10 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.21.0 · 16 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.22.0 · 17 de octubre de 2026.
+
+## Extremadura e Illes Balears · 0.22
+
+La ampliación revisa 1.008 identidades y añade 903 fichas, conservando las anteriores. Los integrantes actuales de ambos gobiernos y parlamentos tienen fotografía contrastada. Las dos comunidades incorporan Gobierno y Parlamento con la presentación compartida, Mesas, cronología, hemiciclo, filtros y fichas enlazadas. Extremadura comprende doce legislaturas y doce nombramientos presidenciales; Illes Balears, once legislaturas y trece nombramientos. Las composiciones actuales identifican 65 y 59 diputados, respectivamente, y doce integrantes de cada Ejecutivo. Los archivos electorales históricos se distinguen de los relevos y de las composiciones vigentes, sin atribuir asientos físicos ni fechas individuales desconocidas. Fuentes, correcciones nominales y límites de cobertura: [Extremadura](Gobiernos/Autonomías/Extremadura/README.md) e [Illes Balears](Gobiernos/Autonomías/Illes%20Balears/README.md).
 
 ## Región de Murcia · 0.21
 

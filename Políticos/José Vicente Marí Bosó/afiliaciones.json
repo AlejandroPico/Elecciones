@@ -46,5 +46,31 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "Legislatura IX",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/9/documents/9_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "4 de gener de 2016",
+    "period": "Legislatura IX",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/9/documents/9_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
   }
 ]

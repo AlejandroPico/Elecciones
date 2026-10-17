@@ -1,0 +1,54 @@
+[
+  {
+    "organization": null,
+    "name": "Um",
+    "period": "Legislatura II",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/2/2_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "Coalició PP‐UM",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/3/3_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "Ple de dia 4 de juliol de 1991",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/3/3_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/4/4_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  }
+]

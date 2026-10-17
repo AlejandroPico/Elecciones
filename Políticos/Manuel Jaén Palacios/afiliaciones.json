@@ -46,5 +46,96 @@
       "kind": "institutional"
     },
     "note": "Partido político indicado por el Senado para esta credencial; corresponde al periodo documentado."
+  },
+  {
+    "organization": null,
+    "name": "Ap‐Pdp‐Ul",
+    "period": "Legislatura I",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/1/1_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "Ap‐Pl",
+    "period": "Legislatura II",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/2/2_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/3/3_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/4/4_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "Ple de dia 6 de juliol de 1995",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/4/4_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": "pp",
+    "name": "PP",
+    "period": "Legislatura V",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/5/5_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
+  },
+  {
+    "organization": null,
+    "name": "16 de juliol de 2003",
+    "period": "Legislatura VI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://contingutsweb.parlamentib.es/protocol/6/6_diputats_senadors_catala.pdf",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "baleares"
   }
 ]

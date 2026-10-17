@@ -8,5 +8,31 @@
       "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Guardiola",
       "kind": "encyclopedic"
     }
+  },
+  {
+    "organization": "pp",
+    "name": "Popular (PP)",
+    "period": "Legislatura XI",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleaex.es/verdiputado-396",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "extremadura"
+  },
+  {
+    "organization": "pp",
+    "name": "Popular (PP)",
+    "period": "Legislatura XII",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleaex.es/verdiputado-396",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "extremadura"
   }
 ]

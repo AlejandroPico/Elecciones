@@ -3,5 +3,25 @@
     "label": "Senado de España · ficha individual",
     "url": "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=14845",
     "kind": "institutional"
+  },
+  {
+    "label": "Parlament de les Illes Balears",
+    "url": "https://web.parlamentib.es/webgtp/scripts/UnRegPers.asp?CFautor=242",
+    "kind": "institutional"
+  },
+  {
+    "label": "Diputado/a de Illes Balears",
+    "url": "https://contingutsweb.parlamentib.es/protocol/6/6_diputats_senadors_catala.pdf",
+    "kind": "institutional"
+  },
+  {
+    "label": "Diputado/a de Illes Balears",
+    "url": "https://contingutsweb.parlamentib.es/protocol/7/7_diputats_senadors_catala.pdf",
+    "kind": "institutional"
+  },
+  {
+    "label": "Consejería de Interior",
+    "url": "https://es.wikipedia.org/wiki/Gobierno_de_las_Islas_Baleares",
+    "kind": "encyclopedic"
   }
 ]

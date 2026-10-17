@@ -1,0 +1,41 @@
+[
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura III",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleaex.es/verdiputado-220",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "extremadura"
+  },
+  {
+    "organization": "pp",
+    "name": "Popular",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleaex.es/verdiputado-220",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "extremadura"
+  },
+  {
+    "organization": null,
+    "name": "Mixto",
+    "period": "Legislatura IV",
+    "kind": "association",
+    "source": {
+      "label": "Adscripción publicada por la institución",
+      "url": "https://www.asambleaex.es/verdiputado-220",
+      "kind": "institutional"
+    },
+    "note": "Adscripción en el periodo documentado; no certifica por sí sola militancia ni vigencia actual.",
+    "territory": "extremadura"
+  }
+]
