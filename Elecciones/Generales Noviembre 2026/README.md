@@ -6,7 +6,7 @@ Contenido específico de esta convocatoria. Consultar [PROTOCOLOS.md](../../PROT
 - `contextos.ts`: explicación neutral de alcance y consideraciones para cada pregunta.
 - `candidaturas.json`: candidaturas oficialmente proclamadas; actualmente vacío.
 - `participacion.json`: anuncios, preparación de candidaturas y acuerdos por cámara y territorio; nunca se presentan como listas proclamadas.
-- `programas.json`: inventario de catorce copias locales con procedencia, alcance y huella SHA-256. Once antecedentes de 2023 se guardan en la carpeta de esa elección; dos documentos generales y una propuesta permanente se identifican como tales.
+- `programas.json`: inventario de quince copias locales con procedencia, alcance y huella SHA-256. Once antecedentes de 2023 se guardan en la carpeta de esa elección; tres documentos generales y una propuesta permanente se identifican como tales.
 - `investigacion/`: calendario original de la JEC, consultas, límites de cobertura y protocolo de análisis posterior.
 - `congreso.ts`: resultado por candidatura de julio de 2023 como referencia histórica; 350 escaños, fuente JEC/BOE.
 

@@ -2,7 +2,7 @@
 
 Proyecto personal de Alejandro Pico Perez. Versión 0.26.0 · 17 de octubre de 2026.
 
-La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Catorce documentos se descargan desde el propio sitio: once antecedentes de las generales de 2023, dos documentos políticos generales y la propuesta permanente de Escaños en Blanco. Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
+La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Quince documentos se descargan desde el propio sitio: once antecedentes de las generales de 2023, tres documentos políticos generales y la propuesta permanente de Escaños en Blanco. Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
 
 Al comenzar una encuesta se presentan los temas e instrucciones, con pausa e inicio directo. «Mi perfil» ofrece todas las respuestas y el desglose del cálculo por eje, compartido con los gráficos. Las comparaciones con partidos permanecen ocultas hasta completar las preguntas y requieren posiciones documentadas.
 
