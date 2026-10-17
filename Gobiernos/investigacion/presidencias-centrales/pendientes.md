@@ -2,14 +2,14 @@
 
 Primera entrega: **17 de octubre de 2026**. Este documento es una agenda de investigación, no una lista de hechos probados ni de personas culpables. El dossier contiene 80 hitos seleccionados; no representa todos los acontecimientos de cada presidencia.
 
-## Prioridades antes de construir la web
+## Prioridades de investigación y próximas ampliaciones
 
 1. **Cerrar la base temporal.** Contrastar cada investidura, decreto, publicación, toma de posesión, cese y periodo en funciones. Incorporar los límites parlamentarios del Congreso y explicar diferencias de criterio. No calcular duraciones con los rótulos anuales del índice. La tabla de Presidencia y los decretos pueden usar fechas distintas: conservar qué mide cada una. Confirmar las convocatorias y los ceses de 2026 mediante BOE antes de etiquetar una presidencia como vigente o en funciones.
 2. **Ampliar por años.** Hacer una segunda pasada anual y por materias, conservando una matriz de años revisados, fuentes consultadas y lagunas. El material actual permite empezar esa revisión, pero no acredita un recorrido semana a semana. Un año sin entrada no implica ausencia de decisiones, crisis o corrupción.
 3. **Completar los expedientes judiciales.** Recuperar fallos y autos originales cuando solo hay memoria judicial, antecedentes constitucionales o agencia. Desglosar personas, hechos, cargos, condenas, absoluciones parciales, firmeza, recursos e indultos. La publicación de un informe policial o la posición del fiscal no sustituyen una resolución del tribunal.
 4. **Evaluar resultados.** Incorporar series y evaluaciones independientes de empleo, salarios, inflación, pobreza, deuda, gasto y servicios. Registrar base estadística, revisiones, población y periodo. No atribuir un cambio nacional íntegramente al presidente, ni llamar «logro» a todo objetivo de una ley.
 5. **Revisar atribuciones.** Separar Ejecutivo central, mayorías parlamentarias, partido, administraciones autonómicas y municipales, empresas y autores individuales. Los casos autonómicos con protagonistas que fueron ministros requieren un vínculo expreso; no se suman a la corrupción del Gobierno central por coincidencia temporal o de siglas.
-6. **Diseñar la presentación al final.** Decidir cómo mostrar contexto, medidas, resultados, controversias y resoluciones sin un marcador moral automático. No usar la cantidad de eventos para ordenar gobiernos por honradez o eficacia. Antes de trasladar el expediente a las pantallas, revisar fechas, documentos originales pendientes y asuntos abiertos.
+6. **Ampliar la presentación a partir de la documentación.** La primera selección ya se presenta en la versión 0.24. Mantener contexto, medidas, resultados, controversias y resoluciones sin un marcador moral automático. No usar la cantidad de eventos para ordenar gobiernos por honradez o eficacia. Antes de incorporar nuevas conclusiones, revisar fechas, documentos originales pendientes y asuntos abiertos.
 
 ## Revisión por periodos
 
@@ -60,6 +60,6 @@ Las candidaturas y sus programas, los parlamentos autonómicos y las biografías
 - **Comprobación técnica de referencias.** El control del 17 de octubre obtuvo respuesta disponible en 75 de las 79 URLs. Dos referencias del Consejo de la UE respondieron 403 al cliente y dos de AIReF tuvieron error de certificado; sus páginas se localizaron mediante el buscador y se conserva esa diferencia. No se han desactivado comprobaciones TLS ni se han sustituido por sitios ajenos. El informe HTTP está en `comprobacion-enlaces.json`; no es una validación de todas las afirmaciones de cada documento.
 - **Documentos extensos.** La localización de una sentencia no equivale a haber contrastado todas sus páginas, personas o piezas. La fuente Gürtel declara expresamente el alcance dirigido de la consulta.
 
-## Condiciones de una entrega posterior a la interfaz
+## Condiciones de publicación y ampliación
 
-Mantener el expediente en investigación hasta cerrar sus pendientes relevantes. Verificar, para cada entrada que se publique, fuente concreta, fecha y precisión, atribución, relación con el caso, evolución judicial y texto comprensible. Registrar quién y cuándo revisó los cambios. Las fotografías se enlazarán desde `Políticos/`, sin duplicarlas aquí; la web deberá enlazar directamente las fuentes de cada afirmación. La investigación y sus resultados se conservan aunque el diseño futuro cambie.
+El usuario autorizó publicar la primera selección en la versión 0.24. El expediente permanece en investigación y la pantalla conserva fuentes y pendientes. Verificar, para cada ampliación, fuente concreta, fecha y precisión, atribución, relación con el caso, evolución judicial y texto comprensible. Registrar cuándo se revisó cada cambio. Las fotografías se enlazan desde `Políticos/`, sin duplicarlas aquí; la web enlaza las fuentes de cada afirmación. La investigación y sus resultados se conservan aunque el diseño futuro cambie.

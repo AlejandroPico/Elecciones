@@ -6,6 +6,7 @@ export type View =
   | "programs"
   | "archive"
   | "offices"
+  | "central"
   | "governments"
   | "congress"
   | "senate"
@@ -15,6 +16,7 @@ export type Entry = {
     | "person"
     | "party"
     | "office"
+    | "presidency"
     | "government"
     | "congress"
     | "senate"
@@ -28,6 +30,7 @@ const paths: Record<View, string> = {
   programs: "partidos",
   archive: "archivo",
   offices: "cargos",
+  central: "gobiernos-centrales",
   governments: "gobiernos",
   senate: "senado",
   congress: "congreso",
@@ -45,6 +48,7 @@ export function parseRoute(hash: string): Route {
     ((view === "archive" && kind === "person") ||
       (view === "programs" && kind === "party") ||
       (view === "offices" && kind === "office") ||
+      (view === "central" && kind === "presidency") ||
       (view === "governments" && kind === "government") ||
       (view === "senate" && kind === "senate") ||
       (view === "congress" && kind === "congress") ||

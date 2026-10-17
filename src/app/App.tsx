@@ -44,6 +44,9 @@ import { useNavigation, type View, type Entry } from "./navigation";
 import ScrollNavigation from "./ScrollNavigation";
 const Archive = lazy(() => import("../../Políticos/interfaz/Archive"));
 const Governments = lazy(() => import("../../Gobiernos/interfaz/Governments"));
+const Presidencies = lazy(
+  () => import("../../Gobiernos/interfaz/Presidencies"),
+);
 const Senate = lazy(() => import("../../Gobiernos/interfaz/Senate"));
 const Congress = lazy(() => import("../../Gobiernos/interfaz/Congress"));
 import Autonomies, { AutonomyMenu } from "../../Gobiernos/interfaz/Autonomies";
@@ -94,7 +97,9 @@ export default function App() {
   const [mobileMenu, setMobileMenu] = useState(() => window.innerWidth > 720);
   const [surveyMenu, setSurveyMenu] = useState(false);
   const [governmentMenu, setGovernmentMenu] = useState(() =>
-    ["governments", "congress", "senate"].includes(navigation.route.view),
+    ["central", "governments", "congress", "senate"].includes(
+      navigation.route.view,
+    ),
   );
   const [themeMode, setThemeMode] = useState<Theme>("auto");
   const [clock, setClock] = useState(new Date());
@@ -249,15 +254,17 @@ export default function App() {
           ? "programs"
           : entry.kind === "office"
             ? "offices"
-            : entry.kind === "government"
-              ? "governments"
-              : entry.kind === "senate"
-                ? "senate"
-                : entry.kind === "congress"
-                  ? "congress"
-                  : entry.kind === "autonomy"
-                    ? "autonomies"
-                    : "archive"
+            : entry.kind === "presidency"
+              ? "central"
+              : entry.kind === "government"
+                ? "governments"
+                : entry.kind === "senate"
+                  ? "senate"
+                  : entry.kind === "congress"
+                    ? "congress"
+                    : entry.kind === "autonomy"
+                      ? "autonomies"
+                      : "archive"
         : view,
       entry,
     });
@@ -323,7 +330,7 @@ export default function App() {
               { id: "archive", name: "Archivo político", icon: Users },
               { id: "offices", name: "Cargos e historia", icon: Landmark },
               {
-                id: "governments",
+                id: "central",
                 name: "Gobiernos centrales",
                 icon: Landmark,
               },
@@ -333,8 +340,8 @@ export default function App() {
               <button
                 className={
                   view === item.id ||
-                  (item.id === "governments" &&
-                    ["congress", "senate"].includes(view))
+                  (item.id === "central" &&
+                    ["governments", "congress", "senate"].includes(view))
                     ? "active"
                     : ""
                 }
@@ -343,8 +350,9 @@ export default function App() {
                     setSurveyMenu(!surveyMenu);
                     return;
                   }
-                  if (item.id === "governments") {
+                  if (item.id === "central") {
                     setGovernmentMenu(!governmentMenu);
+                    openView("central");
                     return;
                   }
                   openView(item.id);
@@ -352,7 +360,7 @@ export default function App() {
                 aria-expanded={
                   item.id === "survey"
                     ? surveyMenu
-                    : item.id === "governments"
+                    : item.id === "central"
                       ? governmentMenu
                       : undefined
                 }
@@ -360,7 +368,7 @@ export default function App() {
               >
                 <item.icon size={17} />
                 <span>{item.name}</span>
-                {(item.id === "survey" || item.id === "governments") && (
+                {(item.id === "survey" || item.id === "central") && (
                   <ChevronDown
                     className={
                       (item.id === "survey" ? surveyMenu : governmentMenu)
@@ -386,7 +394,7 @@ export default function App() {
                   </div>
                 </div>
               )}
-              {item.id === "governments" && (
+              {item.id === "central" && (
                 <div
                   className={`survey-tree ${governmentMenu ? "open" : ""}`}
                   inert={!governmentMenu}
@@ -741,6 +749,31 @@ export default function App() {
               </Suspense>
             </div>
           )}
+          {navigation.visited.has("central") && (
+            <div className="section-content" hidden={view !== "central"}>
+              <Suspense
+                fallback={
+                  <span className="sr-only" role="status">
+                    Cargando presidencias
+                  </span>
+                }
+              >
+                <Presidencies
+                  selectedPresident={
+                    view === "central" ? archiveEntry?.id : undefined
+                  }
+                  openPresident={(id) =>
+                    navigation.navigate({
+                      view: "central",
+                      entry: id ? { kind: "presidency", id } : undefined,
+                    })
+                  }
+                  openPerson={(id) => openArchive("person", id)}
+                  openGovernment={(id) => openEntry({ kind: "government", id })}
+                />
+              </Suspense>
+            </div>
+          )}
           {navigation.visited.has("governments") && (
             <div className="section-content" hidden={view !== "governments"}>
               <h1 className="section-title">Gobierno</h1>
@@ -909,11 +942,12 @@ export default function App() {
                   48 preguntas piloto, 8 temas y 16 ejes. Permite ponderar
                   respuestas, omitirlas y revisarlas desde la barra de progreso.
                   El archivo político reúne fichas personales y documentos.
-                  Gobiernos centrales permite recorrer el Ejecutivo, el Congreso
-                  y el Senado desde 1977. El hemiciclo del Congreso enlaza los
-                  mandatos individuales y sus cambios de grupo; su distribución
-                  es esquemática. El menú autonómico queda preparado para
-                  ampliar sus contenidos.
+                  Gobiernos centrales incorpora un histórico de presidencias,
+                  hitos, crisis y escándalos con fuentes y permite recorrer el
+                  Ejecutivo, el Congreso y el Senado desde 1977. El hemiciclo
+                  del Congreso enlaza los mandatos individuales y sus cambios de
+                  grupo; su distribución es esquemática. El menú autonómico
+                  queda preparado para ampliar sus contenidos.
                 </p>
                 <p>
                   No guarda respuestas ni preferencias. Al recargar la página se
@@ -924,7 +958,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.23.0</dd>
+                  <dd>0.24.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -932,7 +966,7 @@ export default function App() {
                 </div>
                 <div>
                   <dt>Actualización</dt>
-                  <dd>16 de octubre de 2026</dd>
+                  <dd>17 de octubre de 2026</dd>
                 </div>
               </dl>
               <nav className="about-links">

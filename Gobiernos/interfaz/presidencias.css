@@ -1,0 +1,648 @@
+.presidencies {
+  --pres-milestone: #33795e;
+  --pres-balance: #936222;
+  --pres-crisis: #b44147;
+  --pres-scandal: #a13855;
+  --pres-institutional: var(--muted);
+}
+:root[data-theme="night"] .presidencies {
+  --pres-milestone: #79c7ab;
+  --pres-balance: #e6b879;
+  --pres-crisis: #ef9498;
+  --pres-scandal: #e89eb8;
+}
+.presidencies [data-kind="milestone"] {
+  --event-color: var(--pres-milestone);
+}
+.presidencies [data-kind="balance"] {
+  --event-color: var(--pres-balance);
+}
+.presidencies [data-kind="crisis"] {
+  --event-color: var(--pres-crisis);
+}
+.presidencies [data-kind="scandal"] {
+  --event-color: var(--pres-scandal);
+}
+.presidencies [data-kind="institutional"] {
+  --event-color: var(--pres-institutional);
+}
+.pres-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 26px;
+}
+.pres-heading > div > p {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+.pres-heading h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(28px, 3vw, 38px);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+}
+.pres-method {
+  position: relative;
+  flex-shrink: 0;
+}
+.pres-method > summary {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  color: var(--muted);
+  cursor: pointer;
+  list-style: none;
+}
+.pres-method > summary::-webkit-details-marker,
+.pres-event > summary::-webkit-details-marker {
+  display: none;
+}
+.pres-method[open] > summary {
+  color: var(--accent);
+}
+.pres-method > div {
+  position: absolute;
+  width: min(460px, calc(100vw - 40px));
+  right: 0;
+  top: 30px;
+  padding: 24px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: 0 15px 45px #0002;
+  z-index: 5;
+  font-size: 12px;
+  line-height: 1.75;
+}
+.pres-method h2 {
+  font:
+    23px Georgia,
+    serif;
+  margin-bottom: 15px;
+}
+.pres-method p {
+  margin: 12px 0;
+}
+.pres-method a {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  margin: 10px 0;
+}
+.pres-method small {
+  display: block;
+  color: var(--muted);
+  margin-top: 16px;
+}
+.pres-histogram {
+  margin: 28px 0;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--line);
+}
+.pres-histogram-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 12px;
+}
+.pres-histogram-head h2 {
+  font-size: 12px;
+}
+.pres-histogram-head > span {
+  font-size: 10px;
+  color: var(--muted);
+}
+.pres-histogram-axis,
+.pres-histogram-row {
+  display: grid;
+  grid-template-columns: 100px minmax(0, 1fr) 125px;
+  gap: 16px;
+  width: 100%;
+  align-items: center;
+}
+.pres-histogram-axis {
+  font-size: 9px;
+  color: var(--subtle);
+  margin-bottom: 6px;
+}
+.pres-histogram-axis > div {
+  display: flex;
+  justify-content: space-between;
+}
+.pres-histogram-row {
+  padding: 6px 0;
+  text-align: left;
+  font-size: 11px;
+}
+.pres-histogram-row > small {
+  font-size: 10px;
+  text-align: right;
+  color: var(--muted);
+}
+.pres-histogram-track {
+  height: 12px;
+  position: relative;
+  background: repeating-linear-gradient(
+    to right,
+    transparent 0,
+    transparent calc(20% - 1px),
+    var(--line) 20%
+  );
+}
+.pres-histogram-track i {
+  position: absolute;
+  height: 100%;
+  background: var(--muted);
+  opacity: 0.45;
+  transition:
+    opacity 0.25s,
+    background 0.25s;
+}
+.pres-histogram-row:hover .pres-histogram-track i,
+.pres-histogram-row[aria-pressed="true"] .pres-histogram-track i {
+  background: var(--accent);
+  opacity: 1;
+}
+.pres-histogram-row[aria-pressed="true"] {
+  color: var(--accent);
+}
+.pres-filters {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.pres-search {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex: 1;
+  min-width: 160px;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+}
+.pres-search input {
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  font-size: 12px;
+  width: 100%;
+  min-width: 0;
+  padding: 13px 0;
+  outline-offset: 0;
+}
+.pres-search input::placeholder {
+  color: var(--muted);
+}
+.pres-filters select {
+  max-width: 240px;
+  font-size: 11px;
+  color: var(--text);
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  padding: 13px 18px 13px 0;
+  background: var(--bg);
+}
+.pres-kind-filter,
+.pres-legislature-filter {
+  display: flex;
+  gap: 22px;
+  align-items: center;
+  overflow-x: auto;
+}
+.pres-kind-filter {
+  padding: 6px 0 14px;
+}
+.pres-kind-filter button {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  white-space: nowrap;
+  font-size: 11px;
+  padding: 5px 0;
+  color: var(--muted);
+  border-bottom: 1px solid transparent;
+}
+.pres-kind-filter button i {
+  width: 5px;
+  height: 5px;
+  background: var(--event-color);
+}
+.pres-kind-filter button[aria-pressed="true"] {
+  color: var(--text);
+  border-bottom-color: var(--event-color, var(--text));
+}
+.pres-legislature-filter {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  gap: 4px;
+  padding: 6px 0;
+  margin-bottom: 42px;
+}
+.pres-legislature-filter button {
+  padding: 9px 12px;
+  min-width: 39px;
+  font-size: 11px;
+  white-space: nowrap;
+  color: var(--muted);
+}
+.pres-legislature-filter button[aria-pressed="true"] {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+.pres-administration,
+.pres-context {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: clamp(30px, 5vw, 76px);
+  margin-bottom: 65px;
+}
+.pres-person-column {
+  min-width: 0;
+}
+.pres-person-sticky {
+  position: sticky;
+  top: 28px;
+}
+.pres-portrait-button {
+  display: block;
+  padding: 0;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: var(--line);
+}
+.pres-portrait-button img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 25%;
+  filter: saturate(0.65);
+  transition:
+    filter 0.3s,
+    transform 0.45s;
+}
+.pres-portrait-button:hover img {
+  filter: saturate(1);
+  transform: scale(1.025);
+}
+.pres-person-years {
+  font-size: 10px;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+  margin: 21px 0 8px;
+}
+.pres-person-sticky h2 {
+  font:
+    26px / 1.12 Georgia,
+    serif;
+  letter-spacing: -0.02em;
+}
+.pres-duration {
+  font-size: 11px;
+  margin-top: 15px;
+  color: var(--text);
+}
+.pres-person-dates {
+  font-size: 10px;
+  line-height: 1.8;
+  color: var(--muted);
+  margin-top: 7px;
+}
+.pres-bio-link {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0;
+  font-size: 11px;
+  color: var(--accent);
+  margin-top: 18px;
+}
+.pres-photo-credit {
+  display: block;
+  color: var(--subtle);
+  font-size: 9px;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+.pres-legislature {
+  margin-bottom: 32px;
+}
+.pres-legislature > header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 0 16px;
+  border-bottom: 1px solid var(--line);
+}
+.pres-legislature > header > div {
+  display: flex;
+  gap: 15px;
+  align-items: baseline;
+}
+.pres-legislature h3 {
+  font:
+    24px Georgia,
+    serif;
+}
+.pres-legislature > header span {
+  font-size: 11px;
+  color: var(--muted);
+}
+.pres-legislature > header button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--muted);
+  font-size: 10px;
+  padding: 5px 0;
+}
+.pres-event {
+  border-bottom: 1px solid var(--line);
+}
+.pres-event > summary {
+  position: relative;
+  display: grid;
+  grid-template-columns: 85px minmax(0, 1fr);
+  gap: 20px;
+  list-style: none;
+  cursor: pointer;
+  padding: 23px 0;
+}
+.pres-event > summary::before {
+  content: "";
+  position: absolute;
+  width: 3px;
+  top: 27px;
+  bottom: 26px;
+  left: 98px;
+  background: var(--event-color);
+  opacity: 0.7;
+}
+.pres-event > summary > time {
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.6;
+  padding-top: 2px;
+}
+.pres-event-copy {
+  padding-left: 13px;
+}
+.pres-event-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px 12px;
+  color: var(--muted);
+  font-size: 9px;
+  letter-spacing: 0.035em;
+  margin-bottom: 8px;
+}
+.pres-event-kind {
+  color: var(--event-color);
+}
+.pres-event h4 {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.45;
+  margin-bottom: 8px;
+}
+.pres-event-copy > p {
+  font-size: 12px;
+  line-height: 1.85;
+  color: var(--muted);
+}
+.pres-judicial {
+  display: block;
+  font-size: 10px;
+  line-height: 1.6;
+  margin-top: 9px;
+  color: var(--text);
+}
+.pres-event-more {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--muted);
+  font-size: 10px;
+  margin-top: 12px;
+}
+.pres-event-more svg {
+  transition: transform 0.25s;
+}
+.pres-event[open] .pres-event-more svg {
+  transform: rotate(180deg);
+}
+.pres-event[open] .pres-event-more {
+  color: var(--accent);
+}
+.pres-event-detail {
+  padding: 0 0 24px 118px;
+  font-size: 12px;
+  line-height: 1.8;
+  animation: pres-detail-enter 0.25s ease both;
+}
+.pres-event-detail p + p {
+  margin-top: 13px;
+}
+.pres-event-detail strong {
+  font-weight: 500;
+}
+.pres-sources {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 0;
+  display: grid;
+  gap: 15px;
+}
+.pres-sources a {
+  display: inline;
+  font-size: 11px;
+  overflow-wrap: anywhere;
+}
+.pres-sources a svg {
+  display: inline;
+  vertical-align: middle;
+}
+.pres-sources li > span {
+  display: block;
+  font-size: 10px;
+  color: var(--muted);
+  line-height: 1.8;
+  margin-top: 4px;
+}
+.pres-research-pending {
+  margin-top: 20px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 10px;
+}
+.pres-context {
+  border-top: 1px solid var(--line);
+  padding-top: 30px;
+}
+.pres-context-heading > span {
+  font-size: 10px;
+  color: var(--muted);
+}
+.pres-context-heading h2 {
+  font:
+    27px Georgia,
+    serif;
+  margin-top: 8px;
+}
+.pres-context-name {
+  font:
+    22px Georgia,
+    serif;
+  margin: 0 0 25px;
+}
+.pres-empty {
+  text-align: center;
+  padding: 70px 15px;
+}
+.pres-empty h2 {
+  font:
+    25px Georgia,
+    serif;
+  margin-bottom: 12px;
+}
+.pres-empty p {
+  font-size: 12px;
+  color: var(--muted);
+}
+@keyframes pres-detail-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@media (max-width: 1050px) {
+  .pres-filters {
+    flex-wrap: wrap;
+  }
+  .pres-search {
+    flex-basis: 100%;
+  }
+  .pres-administration,
+  .pres-context {
+    grid-template-columns: 150px minmax(0, 1fr);
+    gap: 30px;
+  }
+  .pres-person-sticky h2 {
+    font-size: 23px;
+  }
+}
+@media (max-width: 720px) {
+  .pres-heading {
+    align-items: start;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .pres-method > div {
+    left: 0;
+    right: auto;
+    width: calc(100vw - 56px);
+  }
+  .pres-histogram-head {
+    align-items: start;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .pres-histogram-axis,
+  .pres-histogram-row {
+    grid-template-columns: 76px minmax(0, 1fr);
+    gap: 10px;
+  }
+  .pres-histogram-axis > span:last-child,
+  .pres-histogram-row > small {
+    display: none;
+  }
+  .pres-histogram-row {
+    min-height: 29px;
+  }
+  .pres-filters {
+    gap: 12px;
+  }
+  .pres-filters select {
+    max-width: 100%;
+    flex: 1;
+    min-width: 0;
+  }
+  .pres-kind-filter {
+    gap: 20px;
+  }
+  .pres-administration,
+  .pres-context {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 28px;
+    margin-bottom: 45px;
+  }
+  .pres-person-sticky {
+    position: static;
+    display: grid;
+    grid-template-columns: 92px minmax(0, 1fr);
+    gap: 0 18px;
+  }
+  .pres-portrait-button {
+    grid-row: 1 / 6;
+  }
+  .pres-person-years {
+    margin: 0 0 6px;
+  }
+  .pres-person-sticky h2 {
+    font-size: 23px;
+  }
+  .pres-duration {
+    margin-top: 10px;
+  }
+  .pres-person-dates {
+    font-size: 9px;
+    margin-top: 4px;
+  }
+  .pres-bio-link {
+    margin-top: 10px;
+  }
+  .pres-photo-credit {
+    grid-column: 1 / -1;
+    margin-top: 10px;
+  }
+  .pres-event > summary {
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 14px;
+  }
+  .pres-event > summary::before {
+    left: 72px;
+  }
+  .pres-event-copy {
+    padding-left: 9px;
+  }
+  .pres-event-detail {
+    padding-left: 87px;
+  }
+  .pres-event h4 {
+    font-size: 14px;
+  }
+  .pres-context-heading h2 {
+    font-size: 24px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .presidencies *,
+  .presidencies *::before {
+    animation: none !important;
+    transition: none !important;
+  }
+}

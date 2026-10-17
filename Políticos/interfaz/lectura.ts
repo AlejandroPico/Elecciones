@@ -106,11 +106,27 @@ export function personCatalogPlugin(): Plugin {
         const snapshot = JSON.parse(await readFile(snapshotFile, "utf8")) as {
           presidencies: { person: string; name: string; folder: string }[];
         };
+        const centralFile = join(
+          root,
+          "Gobiernos",
+          "investigacion",
+          "presidencias-centrales",
+          "presentacion.json",
+        );
+        const central = JSON.parse(
+          await readFile(centralFile, "utf8"),
+        ) as typeof snapshot;
         const imports: string[] = [],
           entries: string[] = [];
         if (watching) this.addWatchFile(snapshotFile);
+        if (watching) this.addWatchFile(centralFile);
         for (const [i, p] of [
-          ...new Map(snapshot.presidencies.map((p) => [p.person, p])).values(),
+          ...new Map(
+            [...snapshot.presidencies, ...central.presidencies].map((p) => [
+              p.person,
+              p,
+            ]),
+          ).values(),
         ].entries()) {
           const folder = join(root, "Políticos", p.folder),
             metaFile = join(folder, "ficha.json"),

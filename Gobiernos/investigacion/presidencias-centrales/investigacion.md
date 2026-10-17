@@ -1,6 +1,6 @@
 # Presidencias centrales: investigación de hitos, crisis y responsabilidades
 
-Documento interno de trabajo. Abierto el **17 de octubre de 2026**, antes de iniciar la recopilación de fuentes de esta fase. No se publica todavía en la interfaz web.
+Documento interno de trabajo. Abierto el **17 de octubre de 2026**, antes de iniciar la recopilación de fuentes de esta fase. La versión 0.24 presenta una selección de sus hechos y conserva sus límites de investigación.
 
 ## Encargo y alcance
 
@@ -46,7 +46,13 @@ La unidad de investigación es un **hecho fechado**, no una calificación global
 
 La cronología se genera con `Gobiernos/herramientas/redactar-investigacion-presidencias.py`. Su opción `--check` valida los registros y detecta un dossier desactualizado. No consulta fuentes ni emite una evaluación histórica: la lectura y el contraste siguen siendo necesarios. `stage` identifica la administración de origen; `relatedStages` conserva alcance compartido y `stageAtMilestone` identifica la etapa de una resolución posterior. `date` es la fecha del hito descrito, no necesariamente la del hecho originario; `factsPeriod` lo distingue cuando está acreditado.
 
-Estos archivos pertenecen a `Gobiernos/`. Las biografías y retratos siguen en `Políticos/`; las referencias personales posteriores utilizarán sus IDs existentes. No modificar aún las pantallas ni mezclar este expediente con datos electorales o con el mapa autonómico.
+Estos archivos pertenecen a `Gobiernos/`. Las biografías y retratos siguen en `Políticos/`; las referencias personales utilizan sus IDs existentes. No mezclar este expediente con datos electorales o con el mapa autonómico.
+
+## Presentación autorizada · versión 0.24
+
+Tras la entrega de la primera investigación, el usuario autorizó expresamente construir el histórico político de gobiernos. La web presenta los 80 hechos conservando atribución, fechas de resolución posteriores, fuentes y pendientes; no declara concluido el barrido histórico. `presentacion.json` documenta las siete identidades, carpetas personales, fechas y criterio de duración, clasificación visual y etiquetas judiciales legibles. El código de presentación vive en `Gobiernos/interfaz/`. La franja temporal mide duración, no cantidad de escándalos ni un saldo político; las biografías no se duplican.
+
+Para la duración se consulta la relación cronológica de Presidencia. En Sánchez se utiliza el Real Decreto 354/2018, firmado el 1 de junio y publicado el 2: la discrepancia con la tabla se conserva expresamente. El extremo abierto termina en el corte documental del 17 de octubre de 2026, sin presentarlo como cese. Los periodos anuales por legislatura siguen siendo rótulos de contexto, no duraciones calculadas.
 
 ## Plan de revisión
 
@@ -55,7 +61,7 @@ Estos archivos pertenecen a `Gobiernos/`. Las biografías y retratos siguen en `
 3. Desarrollar cada caso en hitos procesales y actualizar las resoluciones posteriores. Revisar especialmente los expedientes abiertos próximos a la fecha de corte.
 4. Hacer una segunda pasada por años y por temas para localizar omisiones. Un barrido por años no acredita una revisión semanal exhaustiva.
 5. Revisar atribución, precisión de fechas, proporcionalidad descriptiva, fuentes y ausencia de duplicados.
-6. Solo después, definir y construir la presentación web a partir del expediente revisado.
+6. Tras la autorización de presentación, publicar la selección documentada con sus límites y mantener su ampliación ligada a la revisión del expediente. No convertir la primera pantalla en una declaración de exhaustividad.
 
 ## Estado de la primera entrega · 17 de octubre de 2026
 
@@ -65,4 +71,4 @@ La cobertura incluye transición constitucional, adhesión europea y OTAN, refor
 
 Se distinguen sentencias y hechos de distintas administraciones, amparos que modifican condenas, responsabilidad civil y penal, fases de instrucción y condenas. Las novedades de mascarillas de junio y octubre de 2026 se conservan como información de agencia identificada, pendiente de incorporar los originales judiciales; la pieza de obras no hereda su resultado. La evaluación del IMV se separa de la ley que lo creó. La resolución constitucional de la amnistía se registra con sus estimaciones parciales y condiciones, no con una etiqueta absoluta.
 
-**Investigación en curso.** Los campos `consultedAt` y `reviewedAt` fechan la consulta, no garantizan que una resolución antigua sea el estado vigente del proceso. `statusAtSource` fija la fecha real del estado documentado. Antes de la web faltan profundización anual, resultados comparables, originales judiciales pendientes, actualización de causas abiertas y revisión editorial. No se han cambiado las pantallas, las biografías ni los datos de las elecciones.
+**Investigación en curso.** Los campos `consultedAt` y `reviewedAt` fechan la consulta, no garantizan que una resolución antigua sea el estado vigente del proceso. `statusAtSource` fija la fecha real del estado documentado. Siguen pendientes profundización anual, resultados comparables, originales judiciales pendientes y actualización de causas abiertas. La presentación inicial incluye estos límites y no modifica las biografías ni los datos electorales.

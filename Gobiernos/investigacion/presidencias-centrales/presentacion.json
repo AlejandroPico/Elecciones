@@ -1,0 +1,119 @@
+{
+  "reviewedAt": "2026-10-17",
+  "coverage": "seleccion-documentada-en-ampliacion",
+  "dateBasis": "Fechas de nombramiento y cese de la relación cronológica de Presidencia. Para Sánchez se usa el Real Decreto 354/2018, fechado el 1 de junio; la relación de Presidencia recoge el día 2. No son intervalos parlamentarios ni fechas de toma de posesión.",
+  "dateSources": [
+    "https://www.lamoncloa.gob.es/presidente/presidentes-desde-1823/Paginas/index.aspx",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-7400"
+  ],
+  "colorPolicy": "El verde identifica hitos y reformas, no acredita su éxito. El rojo identifica crisis o escándalos, no culpabilidad de una presidencia. Las medidas económicas y resultados mixtos se presentan en ámbar; los relevos y resoluciones institucionales, en tono neutro. No se calcula un saldo ni un índice de corrupción.",
+  "presidencies": [
+    {
+      "person": "adolfo-suarez-gonzalez",
+      "name": "Adolfo Suárez González",
+      "shortName": "Suárez",
+      "folder": "Adolfo Suárez González",
+      "from": "1976-07-03",
+      "until": "1981-02-25",
+      "stages": ["pre-suarez", "constituyente-suarez", "i-suarez"]
+    },
+    {
+      "person": "leopoldo-calvo-sotelo-y-bustelo",
+      "name": "Leopoldo Calvo-Sotelo y Bustelo",
+      "shortName": "Calvo-Sotelo",
+      "folder": "Leopoldo Ramón Pedro Calvo-Sotelo y Bustelo",
+      "from": "1981-02-25",
+      "until": "1982-12-01",
+      "stages": ["i-calvo-sotelo"]
+    },
+    {
+      "person": "felipe-gonzalez-marquez",
+      "name": "Felipe González Márquez",
+      "shortName": "González",
+      "folder": "Felipe González Márquez",
+      "from": "1982-12-01",
+      "until": "1996-05-04",
+      "stages": ["ii-gonzalez", "iii-gonzalez", "iv-gonzalez", "v-gonzalez"]
+    },
+    {
+      "person": "jose-maria-aznar-lopez",
+      "name": "José María Aznar López",
+      "shortName": "Aznar",
+      "folder": "José María Aznar López",
+      "from": "1996-05-04",
+      "until": "2004-04-17",
+      "stages": ["vi-aznar", "vii-aznar"]
+    },
+    {
+      "person": "jose-luis-rodriguez-zapatero",
+      "name": "José Luis Rodríguez Zapatero",
+      "shortName": "Zapatero",
+      "folder": "José Luis Rodríguez Zapatero",
+      "from": "2004-04-17",
+      "until": "2011-12-21",
+      "stages": ["viii-zapatero", "ix-zapatero"]
+    },
+    {
+      "person": "rajoy",
+      "name": "Mariano Rajoy Brey",
+      "shortName": "Rajoy",
+      "folder": "Mariano Rajoy Brey",
+      "from": "2011-12-21",
+      "until": "2018-06-01",
+      "stages": ["x-rajoy", "xi-rajoy", "xii-rajoy"]
+    },
+    {
+      "person": "sanchez",
+      "name": "Pedro Sánchez Pérez-Castejón",
+      "shortName": "Sánchez",
+      "folder": "Pedro Sánchez Pérez-Castejón",
+      "from": "2018-06-01",
+      "until": null,
+      "stages": ["xii-sanchez", "xiii-sanchez", "xiv-sanchez", "xv-sanchez"]
+    }
+  ],
+  "eventOverrides": {
+    "1977-06-15-elecciones": "milestone",
+    "1978-12-29-constitucion": "milestone",
+    "1985-07-31-pensiones": "balance",
+    "1997-11-27-electricidad": "balance",
+    "1998-04-13-suelo": "balance",
+    "2002-06-27-partidos": "institutional",
+    "2003-03-18-irak": "crisis",
+    "2011-09-27-art135": "balance",
+    "2012-02-10-laboral": "balance",
+    "2015-03-30-seguridad": "balance",
+    "2017-10-27-art155": "crisis",
+    "2021-07-14-alarma-tc": "crisis",
+    "2022-09-06-libertad-sexual": "balance",
+    "2023-11-24-balance-revisiones": "crisis",
+    "2024-06-10-amnistia": "balance",
+    "2025-06-26-amnistia-tc": "balance"
+  },
+  "scandalCases": [
+    "gal-marey",
+    "filesa",
+    "roldan",
+    "guertel-primera-epoca",
+    "kitchen",
+    "koldo-obras",
+    "koldo-mascarillas"
+  ],
+  "judicialLabels": {
+    "recurso-de-inconstitucionalidad-desestimado": "Recurso desestimado",
+    "sentencia-con-amparos-posteriores": "Sentencia modificada posteriormente en amparo",
+    "condenas-revisadas-en-amparo": "Condenas y revisión en amparo",
+    "condena-segun-agencia-pendiente-fallo-original": "Condena · información de agencia",
+    "condena-por-falsedad-anulada-en-amparo": "Condena por falsedad anulada",
+    "sentencia-de-casacion-con-responsabilidades-penales-individuales-y-civiles": "Condenas individuales y responsabilidad civil",
+    "resolucion-posterior-pendiente-desglose": "Resolución posterior pendiente de desglose",
+    "condenas-revisadas-en-casacion": "Condenas revisadas en casación",
+    "inconstitucionalidad-parcial": "Inconstitucionalidad parcial",
+    "estimacion-parcial-con-interpretacion-conforme": "Estimación parcial e interpretación conforme",
+    "investigacion-documentada-en-2025-no-actualizada": "Investigación · actualización pendiente",
+    "responsabilidad-civil-segun-memoria-judicial": "Responsabilidad civil del Estado",
+    "condena-firme-segun-agencia-pendiente-fallo-original": "Condena firme · información de agencia",
+    "visto-para-sentencia-segun-agencia-a-agosto-2026": "Visto para sentencia · información de agencia",
+    "incidentes-de-nulidad-desestimados-segun-agencia": "Incidentes de nulidad desestimados · agencia"
+  }
+}

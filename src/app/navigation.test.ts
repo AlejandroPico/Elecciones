@@ -3,6 +3,8 @@ import { parseRoute, routeHash, type Route } from "./navigation";
 describe("direcciones de secciones y fichas", () => {
   it("permite reconstruir todos los pasos y sus identificadores al retroceder o recargar", () => {
     const routes: Route[] = [
+      { view: "central" },
+      { view: "central", entry: { kind: "presidency", id: "sanchez" } },
       { view: "governments" },
       { view: "governments", entry: { kind: "government", id: "VII-2003-09" } },
       { view: "senate", entry: { kind: "senate", id: "senado-14-2021-07-12" } },
@@ -25,6 +27,9 @@ describe("direcciones de secciones y fichas", () => {
   });
   it("descarta fichas de otra sección y direcciones mal formadas", () => {
     expect(parseRoute("#/partidos/person/psoe")).toEqual({ view: "programs" });
+    expect(parseRoute("#/gobiernos-centrales/government/xv-1")).toEqual({
+      view: "central",
+    });
     expect(parseRoute("#/archivo/person/%XX")).toEqual({ view: "archive" });
     expect(parseRoute("#desconocida")).toEqual({ view: "survey" });
   });

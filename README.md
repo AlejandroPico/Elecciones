@@ -1,6 +1,12 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.23.0 · 17 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.24.0 · 17 de octubre de 2026.
+
+## Histórico de presidencias · 0.24
+
+«Gobiernos centrales» abre una pantalla propia con duración de las siete presidencias desde Suárez y un recorrido por legislaturas. Los retratos permanecen junto a los hechos al desplazarse; la selección por presidencia tiene dirección propia y permite regresar desde una biografía o una composición con el historial del navegador. Búsqueda, tipo de acontecimiento, legislatura y orden se combinan sin duplicar hechos entre gobiernos.
+
+La primera selección utiliza los 80 hechos del expediente interno, incluidos el contexto de transición y las resoluciones posteriores. Cada entrada conserva fuentes, atribución, estado judicial fechado y límites de investigación. Los colores identifican hitos y reformas, balances económicos, crisis, escándalos y contexto institucional; no calculan una nota global ni atribuyen culpabilidad al presidente. Las fotografías y biografías proceden de sus carpetas en `Políticos/`. La documentación sigue en ampliación: esta pantalla no acredita una investigación histórica exhaustiva.
 
 ## Legislaturas y mapa histórico · 0.23
 
@@ -10,7 +16,7 @@ El mapa incorpora navegación por cambios documentados entre 1977 y 2026: flecha
 
 ## Investigación de presidencias centrales · 17 de octubre de 2026
 
-La investigación de hitos y crisis comienza en un expediente interno, antes de construir su presentación web. La [primera cronología documentada](Gobiernos/investigacion/presidencias-centrales/cronologia.md) reúne 80 hechos y 79 referencias, con un índice de 21 etapas. Distingue medidas y resultados, periodos de los hechos y fechas judiciales, responsabilidad civil y penal y cambios de condenas. Es una primera pasada parcial, con [criterios](Gobiernos/investigacion/presidencias-centrales/investigacion.md) y [pendientes](Gobiernos/investigacion/presidencias-centrales/pendientes.md) explícitos. No se ha incorporado todavía a las pantallas de la aplicación.
+La investigación de hitos y crisis comenzó en un expediente interno, antes de construir su presentación web. La [primera cronología documentada](Gobiernos/investigacion/presidencias-centrales/cronologia.md) reúne 80 hechos y 79 referencias, con un índice de 21 etapas. Distingue medidas y resultados, periodos de los hechos y fechas judiciales, responsabilidad civil y penal y cambios de condenas. Es una primera pasada parcial, con [criterios](Gobiernos/investigacion/presidencias-centrales/investigacion.md) y [pendientes](Gobiernos/investigacion/presidencias-centrales/pendientes.md) explícitos. La versión 0.24 presenta esa selección con sus límites de cobertura y sus referencias.
 
 ## Extremadura e Illes Balears · 0.22
 

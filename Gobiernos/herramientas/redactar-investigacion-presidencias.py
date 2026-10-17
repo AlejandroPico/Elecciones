@@ -96,7 +96,7 @@ def render() -> str:
         'se muestra también la etapa de resolución. Los rótulos anuales no son intervalos jurídicos ni duraciones exactas. '
         'Una fecha de consulta reciente no convierte una resolución antigua en el estado judicial vigente.', '',
         'Criterios: [investigacion.md](investigacion.md). Lagunas y siguiente revisión: [pendientes.md](pendientes.md). '
-        'El expediente no alimenta todavía las pantallas de la web.', '',
+        'La versión 0.24 presenta esta selección con sus fuentes y pendientes; la investigación permanece en ampliación.', '',
         '## Índice de etapas y cobertura', '',
         '| Etapa | Presidencia | Periodo orientativo | Hechos vinculados |',
         '| --- | --- | --- | ---: |',

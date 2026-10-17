@@ -6,7 +6,7 @@ Este expediente reúne **80 hechos**, **79 referencias** (73 primarias, 4 de age
 
 Los hechos se agrupan por la administración de origen. Cuando una sentencia o actualización llega después, se muestra también la etapa de resolución. Los rótulos anuales no son intervalos jurídicos ni duraciones exactas. Una fecha de consulta reciente no convierte una resolución antigua en el estado judicial vigente.
 
-Criterios: [investigacion.md](investigacion.md). Lagunas y siguiente revisión: [pendientes.md](pendientes.md). El expediente no alimenta todavía las pantallas de la web.
+Criterios: [investigacion.md](investigacion.md). Lagunas y siguiente revisión: [pendientes.md](pendientes.md). La versión 0.24 presenta esta selección con sus fuentes y pendientes; la investigación permanece en ampliación.
 
 ## Índice de etapas y cobertura
 
