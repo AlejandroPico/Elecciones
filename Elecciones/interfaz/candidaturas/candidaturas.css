@@ -1,0 +1,220 @@
+.election-directory {
+  margin-top: 28px;
+}
+.election-directory-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.election-directory-heading h2 {
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+.election-directory-heading a {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+.election-status-note {
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+  margin: 8px 0 20px;
+}
+.election-directory-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px 24px;
+  margin-bottom: 22px;
+  font-size: 0.76rem;
+  align-items: center;
+}
+.election-directory-filters select {
+  max-width: 100%;
+  background: transparent;
+  color: var(--text);
+  padding: 9px 0;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  font: inherit;
+}
+.election-directory-filters label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+}
+.election-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 16px;
+}
+.election-cards article {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 18px 16px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+}
+.election-card-brand {
+  background: transparent;
+  border: 0;
+  height: 66px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 18px;
+}
+.election-card-brand.on-dark {
+  background: #14243b;
+  padding: 10px;
+}
+.election-card-brand.on-light,
+.logo-on-light,
+.party-profile-logo.on-light {
+  background: #faf9f5;
+  padding: 10px;
+}
+.election-card-brand img {
+  display: block;
+  height: auto;
+  width: auto;
+  max-height: 50px;
+  max-width: 155px;
+  object-fit: contain;
+}
+.election-mark-caption {
+  color: var(--muted);
+  text-align: center;
+  font-size: 0.62rem;
+  margin: -8px 0 12px;
+}
+.election-cards h3 {
+  font-size: 0.84rem;
+  font-weight: 500;
+  margin: 0 0 8px;
+  line-height: 1.5;
+}
+.election-cards h3 button {
+  padding: 0;
+  color: var(--text);
+  font: inherit;
+  text-align: left;
+}
+.election-card-status,
+.election-card-scope {
+  color: var(--muted);
+  font-size: 0.68rem;
+  line-height: 1.6;
+  margin: 0 0 12px;
+}
+.election-card-candidate {
+  font-size: 0.76rem;
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
+.election-card-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 14px;
+  margin-top: auto;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 0.72rem;
+}
+.election-card-links button {
+  padding: 0;
+  color: var(--muted);
+  font: inherit;
+}
+.election-card-download {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--accent);
+  font-size: 0.68rem;
+  margin-top: 13px;
+}
+.election-program-pending {
+  color: var(--muted);
+  font-size: 0.68rem;
+  margin-top: 13px;
+}
+.election-coverage {
+  padding: 20px 0;
+  font-size: 0.76rem;
+  color: var(--muted);
+  line-height: 1.8;
+}
+.election-coverage summary {
+  cursor: pointer;
+  color: var(--text);
+}
+.election-coverage a {
+  display: inline-flex;
+  gap: 5px;
+  align-items: center;
+}
+.election-documents {
+  margin-block: 25px 32px;
+  border-block: 1px solid var(--line);
+  padding-block: 20px;
+}
+.election-documents h3 {
+  font-size: 1rem;
+  font-weight: 500;
+}
+.participation-detail,
+.document-record {
+  border-bottom: 1px solid var(--line);
+  padding: 15px 0;
+}
+.participation-detail summary,
+.document-record summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+.document-record summary {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.document-record summary small {
+  display: block;
+  color: var(--muted);
+  font-size: 0.73rem;
+}
+.participation-detail p,
+.document-record p {
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.8;
+}
+.document-provenance {
+  font-size: 0.7rem;
+  display: grid;
+  gap: 12px;
+}
+.document-provenance dd {
+  margin: 4px 0 0;
+  color: var(--muted);
+  overflow-wrap: anywhere;
+}
+@media (max-width: 480px) {
+  .election-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .election-cards article {
+    padding: 16px 10px 12px;
+  }
+  .election-card-brand img {
+    max-width: 115px;
+  }
+}

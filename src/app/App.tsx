@@ -36,6 +36,8 @@ import {
   RadarChart,
 } from "../../Elecciones/interfaz/perfil/Charts";
 import Progress from "../../Elecciones/interfaz/cuestionario/Progress";
+import Introduction from "../../Elecciones/interfaz/cuestionario/Introduction";
+import Explanation from "../../Elecciones/interfaz/perfil/Explanation";
 import { createAdvanceClock } from "../../Elecciones/interfaz/cuestionario/avance";
 const Programs = lazy(() => import("../../Partidos/interfaz/Programs"));
 import { contexts } from "../../Elecciones/Generales Noviembre 2026/contextos";
@@ -90,6 +92,7 @@ function Dialog({
 export default function App() {
   const [answers, setAnswers] = useState<Answers>({});
   const [index, setIndex] = useState(0);
+  const [introduction, setIntroduction] = useState(true);
   const navigation = useNavigation();
   const { view, entry: archiveEntry } = navigation.route;
   const setView = (nextView: View) => navigation.navigate({ view: nextView });
@@ -125,6 +128,7 @@ export default function App() {
   const overlays = parties.filter((p) => selected.includes(p.id));
   const answered = questions.filter((q) => answers[q.id]?.value != null).length;
   const omitted = questions.filter((q) => answers[q.id]?.value === null).length;
+  const completed = answered + omitted === questions.length;
   const hour = clock.getHours();
   const theme =
     themeMode === "auto"
@@ -187,13 +191,14 @@ export default function App() {
           : "smooth",
       });
     }
-  }, [index, view]);
+  }, [index, view, introduction]);
   useEffect(() => () => advanceClock.current.cancel(), []);
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (
         view !== "survey" ||
         modal ||
+        introduction ||
         e.ctrlKey ||
         e.altKey ||
         e.metaKey ||
@@ -453,7 +458,10 @@ export default function App() {
         tabIndex={-1}
         className={`main-content ${mobileMenu ? "navigation-open" : "navigation-closed"} ${view === "survey" ? "survey-view" : ""}`}
       >
-        {view === "survey" && (
+        {view === "survey" && introduction && (
+          <Introduction start={() => setIntroduction(false)} />
+        )}
+        {view === "survey" && !introduction && (
           <>
             <div className="survey-stage">
               <div className="survey-layout">
@@ -581,14 +589,17 @@ export default function App() {
                 <CoordinateChart
                   category={resultCategory}
                   scores={scores}
-                  parties={overlays}
+                  parties={completed ? overlays : []}
                 />
                 <AxisRows category={resultCategory} scores={scores} />
               </section>
               <section className="result-card">
                 <h2>Vista radial</h2>
-                <RadarChart scores={scores} parties={overlays} />
-                {legend}
+                <RadarChart
+                  scores={scores}
+                  parties={completed ? overlays : []}
+                />
+                {completed && legend}
                 <p className="chart-note">
                   Primer eje de cada tema. −100 en el centro; +100 en el borde.
                   Los ejes sin datos no se trazan.
@@ -597,8 +608,13 @@ export default function App() {
             </div>
             <section className="comparison-card">
               <h2>Candidaturas</h2>
-              {!parties.length ? (
-                <p>No hay posiciones de programas incorporadas.</p>
+              {!completed ? (
+                <p>La comparación se mostrará al completar el cuestionario.</p>
+              ) : !parties.length ? (
+                <p>
+                  Pendiente de analizar los programas de esta convocatoria.
+                  Todavía no hay afinidades publicadas.
+                </p>
               ) : (
                 parties.map((p) => {
                   const s = similarity(answers, p);
@@ -635,7 +651,8 @@ export default function App() {
             </section>
             <details className="all-axes">
               <summary>
-                Las 16 dimensiones
+                Las {categories.flatMap((category) => category.axes).length}{" "}
+                dimensiones
                 <ChevronDown size={16} />
               </summary>
               <div className="axes-grid">
@@ -647,6 +664,7 @@ export default function App() {
                 ))}
               </div>
             </details>
+            <Explanation answers={answers} />
           </div>
         )}
         <Suspense
@@ -958,7 +976,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.25.0</dd>
+                  <dd>0.26.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -1058,6 +1076,7 @@ export default function App() {
                     setAnswers({});
                     setDraftImportance({});
                     navigate(0);
+                    setIntroduction(true);
                     setModal(null);
                   }}
                 >

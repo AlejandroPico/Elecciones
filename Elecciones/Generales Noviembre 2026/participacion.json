@@ -1,0 +1,993 @@
+{
+  "election": "es-generales-2026",
+  "checkedAt": "2026-10-17",
+  "coverage": "Anuncios y acuerdos contrastados; inventario provisional no exhaustivo. Ninguna lista proclamada a esta fecha.",
+  "officialSource": "https://www.juntaelectoralcentral.es/cs/jec/eleccionesEnCurso/Elecciones_generales_2026?apartado=candidaturas",
+  "nextSteps": [
+    "21–26 octubre: presentación de listas",
+    "28 octubre: publicación de listas presentadas",
+    "2 noviembre: proclamación",
+    "3 noviembre: publicación en BOE de listas proclamadas"
+  ],
+  "entries": [
+    {
+      "id": "pp",
+      "organization": "pp",
+      "name": "Partido Popular",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Ámbito estatal; acuerdo específico en Navarra",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.rtve.es/noticias/20261016/elecciones-29n-coaliciones-plazo/17269290.shtml"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Alberto Núñez Feijóo",
+          "role": "Candidato a la Presidencia del Gobierno",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://www.rtve.es/noticias/20261016/elecciones-29n-coaliciones-plazo/17269290.shtml"
+          }
+        }
+      ],
+      "note": "El anuncio estatal no certifica cada lista provincial. El acuerdo PP–UPN se conserva aparte."
+    },
+    {
+      "id": "psoe",
+      "organization": "psoe",
+      "name": "PSOE",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Ámbito estatal",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://efe.com/espana/2026-10-17/sanchez-elecciones-29n-comite-federal/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Pedro Sánchez",
+          "role": "Candidato a la Presidencia del Gobierno",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://efe.com/espana/2026-10-17/sanchez-elecciones-29n-comite-federal/"
+          }
+        }
+      ],
+      "note": "Ratificación interna del partido; no equivale a proclamación electoral. Las alianzas al Senado se documentan por separado."
+    },
+    {
+      "id": "vox",
+      "organization": "vox",
+      "name": "Vox",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Ámbito estatal",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.rtve.es/noticias/20261016/elecciones-29n-coaliciones-plazo/17269290.shtml"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Santiago Abascal",
+          "role": "Candidato a la Presidencia del Gobierno",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://www.voxespana.es/abascal"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frente-amplio",
+      "organization": "coalicion-frente-amplio-2026",
+      "name": "Frente Amplio",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Proyecto estatal con acuerdos territoriales",
+          "provinces": [
+            "Barcelona",
+            "Madrid"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://frenteamplio.info/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Ada Colau",
+          "role": "Candidata a la Presidencia; cabeza anunciada por Barcelona",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://efe.com/espana/2026-10-17/frente-amplio-ada-colau-candidata/"
+          },
+          "province": "Barcelona"
+        },
+        {
+          "name": "Emilio Delgado",
+          "role": "Cabeza anunciada por Madrid",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://efe.com/espana/2026-10-17/frente-amplio-ada-colau-candidata/"
+          },
+          "province": "Madrid"
+        }
+      ],
+      "members": [
+        "sumar",
+        "iu"
+      ],
+      "note": "Coalición distinta de Podemos y ERC. Las denominaciones y listas territoriales requieren cotejo con la proclamación oficial."
+    },
+    {
+      "id": "podemos",
+      "organization": "podemos",
+      "name": "Podemos",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Ámbito estatal con acuerdos y excepciones territoriales",
+          "provinces": [
+            "Madrid"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.europapress.es/nacional/noticia-irene-montero-recibe-24136-votos-primarias-sea-candidata-29n-presente-madrid-20261016162223.html"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Irene Montero",
+          "role": "Candidata a la Presidencia; cabeza anunciada por Madrid",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://www.europapress.es/nacional/noticia-irene-montero-recibe-24136-votos-primarias-sea-candidata-29n-presente-madrid-20261016162223.html"
+          },
+          "province": "Madrid"
+        }
+      ],
+      "note": "No se presenta por separado en Cataluña según el acuerdo de colaboración con ERC. Valencia y Canarias tienen fórmulas conjuntas."
+    },
+    {
+      "id": "erc",
+      "organization": "erc",
+      "name": "Esquerra Republicana de Catalunya",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Cataluña",
+          "provinces": [
+            "Barcelona",
+            "Girona",
+            "Lleida",
+            "Tarragona"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.3cat.cat/3catinfo/gabriel-rufian-sera-el-cap-de-llista-desquerra-a-les-eleccions-generals-del-29n/noticia/3433559/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Gabriel Rufián",
+          "role": "Cabeza anunciada por Barcelona",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://www.3cat.cat/3catinfo/gabriel-rufian-sera-el-cap-de-llista-desquerra-a-les-eleccions-generals-del-29n/noticia/3433559/"
+          },
+          "province": "Barcelona"
+        }
+      ],
+      "note": "La colaboración de campaña con Podemos no se convierte aquí en una nueva papeleta estatal. El acuerdo al Senado es distinto."
+    },
+    {
+      "id": "junts",
+      "organization": "junts",
+      "name": "Junts per Catalunya",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Cataluña",
+          "provinces": [
+            "Barcelona",
+            "Girona",
+            "Lleida",
+            "Tarragona"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://efe.com/espana/2026-10-08/nogueras-candidata-elecciones-junts/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Míriam Nogueras",
+          "role": "Cabeza anunciada por Barcelona",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://efe.com/espana/2026-10-08/nogueras-candidata-elecciones-junts/"
+          },
+          "province": "Barcelona"
+        }
+      ]
+    },
+    {
+      "id": "eh-bildu",
+      "organization": "eh-bildu",
+      "name": "EH Bildu",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "País Vasco y Navarra",
+          "provinces": [
+            "Araba/Álava",
+            "Bizkaia",
+            "Gipuzkoa",
+            "Navarra"
+          ],
+          "complete": false
+        },
+        {
+          "chamber": "senado",
+          "territory": "País Vasco y Navarra",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://ehbildu.eus/es/noticias/la-mesa-politica-de-hegoalde-propone-que-oskar-matute-e-idurre-bideguren-encabecen-las-candidaturas-de-eh-bildu-al-congreso-y-al-senado"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Oskar Matute",
+          "role": "Propuesto para encabezar el Congreso por Bizkaia",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://ehbildu.eus/es/noticias/la-mesa-politica-de-hegoalde-propone-que-oskar-matute-e-idurre-bideguren-encabecen-las-candidaturas-de-eh-bildu-al-congreso-y-al-senado"
+          },
+          "province": "Bizkaia"
+        },
+        {
+          "name": "Idurre Bideguren",
+          "role": "Propuesta para encabezar el Senado por Bizkaia",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://ehbildu.eus/es/noticias/la-mesa-politica-de-hegoalde-propone-que-oskar-matute-e-idurre-bideguren-encabecen-las-candidaturas-de-eh-bildu-al-congreso-y-al-senado"
+          },
+          "province": "Bizkaia"
+        }
+      ],
+      "note": "Propuestas de la Mesa Política: se conserva el carácter interno del proceso, sin anticipar ratificación o proclamación."
+    },
+    {
+      "id": "pnv",
+      "organization": "pnv",
+      "name": "EAJ-PNV",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "País Vasco",
+          "provinces": [
+            "Araba/Álava",
+            "Bizkaia",
+            "Gipuzkoa"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://congreso.eaj-pnv.eus/es/noticias/58612/vaquero-sagastizabal-y-urtaran-encabezan-las-lista"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Maribel Vaquero",
+          "role": "Cabeza anunciada por Gipuzkoa",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://congreso.eaj-pnv.eus/es/noticias/58612/vaquero-sagastizabal-y-urtaran-encabezan-las-lista"
+          },
+          "province": "Gipuzkoa"
+        },
+        {
+          "name": "Idoia Sagastizabal",
+          "role": "Cabeza anunciada por Bizkaia",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://congreso.eaj-pnv.eus/es/noticias/58612/vaquero-sagastizabal-y-urtaran-encabezan-las-lista"
+          },
+          "province": "Bizkaia"
+        },
+        {
+          "name": "Gorka Urtaran",
+          "role": "Cabeza anunciada por Araba",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://congreso.eaj-pnv.eus/es/noticias/58612/vaquero-sagastizabal-y-urtaran-encabezan-las-lista"
+          },
+          "province": "Araba/Álava"
+        }
+      ],
+      "note": "Aitor Esteban preside el partido; no se le atribuye por ello la cabecera de estas listas."
+    },
+    {
+      "id": "bng",
+      "organization": "bng",
+      "name": "Bloque Nacionalista Galego",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Galicia",
+          "provinces": [
+            "A Coruña",
+            "Lugo",
+            "Ourense",
+            "Pontevedra"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.bng.gal/tags/xerais-2026/"
+        }
+      ],
+      "candidates": [],
+      "note": "Campaña de las generales documentada; pendiente de incorporar las cabeceras provinciales contrastadas."
+    },
+    {
+      "id": "pacma",
+      "organization": "pacma",
+      "name": "PACMA",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Ámbito estatal; candidaturas sujetas a avales",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://pacma.es/notas-de-prensa/pacma-presenta-a-asier-esparza-como-candidato-a-la-presidencia-del-gobierno-para-las-elecciones-del-29n/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Asier Esparza",
+          "role": "Candidato anunciado a la Presidencia del Gobierno",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://pacma.es/notas-de-prensa/pacma-presenta-a-asier-esparza-como-candidato-a-la-presidencia-del-gobierno-para-las-elecciones-del-29n/"
+          }
+        }
+      ],
+      "note": "El anuncio en solitario y la recogida de avales no garantizan todavía papeleta en todas las provincias."
+    },
+    {
+      "id": "escanos-en-blanco",
+      "organization": "registro-4086",
+      "name": "Escaños en Blanco",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Circunscripciones pendientes de avales y listas",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://escanos.org/recogida-de-firmas-escanos-en-blanco/"
+        }
+      ],
+      "candidates": [],
+      "note": "Recogida de firmas para las generales de 2026. No se atribuye un candidato presidencial: la propuesta es no adquirir la condición plena de diputado."
+    },
+    {
+      "id": "frente-obrero",
+      "organization": "registro-6359",
+      "name": "Frente Obrero",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Ámbito estatal; candidaturas sujetas a avales",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://frenteobrero.es/"
+        }
+      ],
+      "candidates": [],
+      "note": "La web de campaña pide firmas para las generales de 2026. La dirección del partido no se sustituye automáticamente por una cabecera de lista."
+    },
+    {
+      "id": "pcte",
+      "organization": "registro-6040",
+      "name": "PCTE",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Circunscripciones por confirmar",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.pcte.es/comunicados-centrales/el-pcte-estara-presente-en-las-elecciones-generales-resolucion-del-buro-politico-del-pcte/"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "id": "iustitia-europa",
+      "organization": "registro-7400",
+      "name": "Iustitia Europa",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Madrid",
+          "provinces": [
+            "Madrid"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://iustitiaeuropa.es/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Luis María Pardo",
+          "role": "Candidatura anunciada al Congreso por Madrid",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://iustitiaeuropa.es/"
+          },
+          "province": "Madrid"
+        }
+      ],
+      "note": "Campaña de avales: no certifica otras circunscripciones ni una lista proclamada."
+    },
+    {
+      "id": "salf",
+      "organization": "registro-7458",
+      "name": "Se Acabó La Fiesta",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Madrid; otras circunscripciones por comprobar",
+          "provinces": [
+            "Madrid"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.seacabolafiesta.com/"
+        }
+      ],
+      "candidates": [],
+      "note": "La página oficial solicita avales en Madrid. Pendiente de documento de listas y cabeceras; no se presume que el presidente del partido encabece una lista."
+    },
+    {
+      "id": "soria-ya",
+      "organization": "registro-6972",
+      "name": "Soria ¡YA!",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Soria",
+          "provinces": [
+            "Soria"
+          ],
+          "complete": false
+        },
+        {
+          "chamber": "senado",
+          "territory": "Soria",
+          "provinces": [
+            "Soria"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://soriaya.org/soria-ya-celebra-las-elecciones-primarias-donde-todos-sus-afiliados-pueden-votar-y-elegir-sus-candidatos-para-el-29n/"
+        }
+      ],
+      "candidates": [],
+      "note": "Primarias anunciadas. No se sustituye su resultado por el candidato de una elección anterior."
+    },
+    {
+      "id": "teruel-existe",
+      "organization": "registro-6779",
+      "name": "Teruel Existe",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Teruel",
+          "provinces": [
+            "Teruel"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.ondaaragonesa.com/noticias/teruel-existe-afronta-29n-objetivo-recuperar-voz-propia-madrid/20261005182703011631.amp.html"
+        }
+      ],
+      "candidates": [],
+      "note": "Participación anunciada; cabeza de lista pendiente de incorporar con fuente específica."
+    },
+    {
+      "id": "adelante-andalucia",
+      "organization": "registro-6620",
+      "name": "Adelante Andalucía",
+      "status": "preparing",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Andalucía",
+          "provinces": [
+            "Almería",
+            "Cádiz",
+            "Córdoba",
+            "Granada",
+            "Huelva",
+            "Jaén",
+            "Málaga",
+            "Sevilla"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.canalsur.es/noticias/andalucia/adelante-elige-ocho-caras-nuevas_1_1444213.html"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "María Sánchez",
+          "role": "Cabeza anunciada por Cádiz",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://www.canalsur.es/noticias/andalucia/adelante-elige-ocho-caras-nuevas_1_1444213.html"
+          },
+          "province": "Cádiz"
+        },
+        {
+          "name": "Luis de los Santos",
+          "role": "Cabeza anunciada por Sevilla",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://www.canalsur.es/noticias/andalucia/adelante-elige-ocho-caras-nuevas_1_1444213.html"
+          },
+          "province": "Sevilla"
+        }
+      ],
+      "note": "Concurrencia propia por las ocho provincias, pendiente de proclamación. Ni Teresa Rodríguez ni José Ignacio García se presumen candidatos por ser referentes del partido."
+    },
+    {
+      "id": "drago-canarias",
+      "organization": "registro-7039",
+      "name": "Drago Canarias",
+      "status": "announced",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Canarias",
+          "provinces": [
+            "Las Palmas",
+            "Santa Cruz de Tenerife"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.noticias.dragocanarias.com/drago-canarias-concurrira-a-las-elecciones-generales-el-proximo-29n/"
+        }
+      ],
+      "candidates": [],
+      "note": "Anuncio de concurrencia en solitario; no confundir con Unidad del Pueblo Canario."
+    },
+    {
+      "id": "d21",
+      "organization": "coalicion-d21-2026",
+      "name": "democracia21",
+      "status": "registered-coalition",
+      "scope": [
+        {
+          "chamber": "unknown",
+          "territory": "Madrid y Barcelona",
+          "provinces": [
+            "Madrid",
+            "Barcelona"
+          ],
+          "complete": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.juntaelectoralcentral.es/cs/jec/elecciones/coalicionesJECGenerales"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Miriam González Durántez",
+          "role": "Referente y candidatura anunciada; orden provincial pendiente de cotejo",
+          "source": {
+            "label": "Anuncio de candidatura",
+            "url": "https://democracia21.es/"
+          }
+        }
+      ],
+      "note": "La JEC acredita la constitución y el ámbito de la coalición, no la proclamación de las listas ni su orden."
+    },
+    {
+      "id": "cc-primero-canarias",
+      "organization": "cc",
+      "name": "Coalición Canaria–Municipalistas Primero Canarias",
+      "status": "registered-coalition",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Canarias",
+          "provinces": [
+            "Las Palmas",
+            "Santa Cruz de Tenerife"
+          ],
+          "complete": true
+        },
+        {
+          "chamber": "senado",
+          "territory": "Tenerife, Gran Canaria, Fuerteventura, Lanzarote, La Palma y La Gomera",
+          "provinces": [
+            "Tenerife",
+            "Gran Canaria",
+            "Fuerteventura",
+            "Lanzarote",
+            "La Palma",
+            "La Gomera"
+          ],
+          "complete": true
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.juntaelectoralcentral.es/cs/jec/elecciones/coalicionesJECGenerales"
+        },
+        {
+          "label": "CC · acuerdo y cabeceras del 17 de octubre",
+          "url": "https://coalicioncanaria.org/coalicion-canaria-primero-canarias-y-una-veintena-de-fuerzas-sellan-la-unidad-para-defender-canarias-en-madrid/"
+        }
+      ],
+      "candidates": [
+        {
+          "name": "Teodoro Sosa",
+          "role": "Cabeza anunciada por Las Palmas",
+          "province": "Las Palmas",
+          "source": {
+            "label": "Anuncio oficial de CC",
+            "url": "https://coalicioncanaria.org/coalicion-canaria-primero-canarias-y-una-veintena-de-fuerzas-sellan-la-unidad-para-defender-canarias-en-madrid/"
+          }
+        },
+        {
+          "name": "Cristina Valido",
+          "role": "Cabeza anunciada por Santa Cruz de Tenerife",
+          "province": "Santa Cruz de Tenerife",
+          "source": {
+            "label": "Anuncio oficial de CC",
+            "url": "https://coalicioncanaria.org/coalicion-canaria-primero-canarias-y-una-veintena-de-fuerzas-sellan-la-unidad-para-defender-canarias-en-madrid/"
+          }
+        }
+      ],
+      "note": "La JEC acredita el ámbito de la coalición. Las cabeceras están anunciadas por CC; las listas completas siguen pendientes de proclamación."
+    },
+    {
+      "id": "pp-upn",
+      "organization": "pp",
+      "name": "PP–UPN",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Navarra",
+          "provinces": [
+            "Navarra"
+          ],
+          "complete": false
+        },
+        {
+          "chamber": "senado",
+          "territory": "Navarra",
+          "provinces": [
+            "Navarra"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.rtve.es/play/videos/telenavarra/upn-pp-sellan-acuerdo-electoral/17266392/"
+        }
+      ],
+      "candidates": [],
+      "members": [
+        "upn"
+      ],
+      "note": "Acuerdo territorial: no son dos papeletas independientes dentro de esta coalición."
+    },
+    {
+      "id": "unidad-pueblo-canario",
+      "organization": "registro-6975",
+      "name": "Unidad del Pueblo Canario",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Canarias",
+          "provinces": [
+            "Las Palmas",
+            "Santa Cruz de Tenerife"
+          ],
+          "complete": false
+        },
+        {
+          "chamber": "senado",
+          "territory": "Canarias; circunscripciones insulares por cotejar",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.elconstitucional.es/es/comunidades/canarias/podemos-izquierda-unida-movimiento-sumar-nueva-canarias-sellan-su-unidad-elecciones-29n-ojala-canarias-marque-camino_8972_102.html"
+        }
+      ],
+      "candidates": [],
+      "members": [
+        "podemos",
+        "iu",
+        "sumar"
+      ],
+      "note": "Nueva Canarias, Podemos, IU y Movimiento Sumar. No reutilizar marcas de antiguas organizaciones con nombres parecidos."
+    },
+    {
+      "id": "compromis-front-valencia",
+      "organization": "compromis",
+      "name": "Compromís–Front Valencià",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Comunitat Valenciana",
+          "provinces": [
+            "Alicante/Alacant",
+            "Castellón/Castelló",
+            "Valencia/València"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.europapress.es/nacional/noticia-mapa-alianzas-izquierda-no-evita-fragmentacion-electoral-29n-deja-valencia-hito-unidad-20261017021705.html"
+        }
+      ],
+      "candidates": [],
+      "members": [
+        "podemos",
+        "iu",
+        "erc"
+      ],
+      "note": "Acuerdo territorial distinto de la marca estatal; composición y orden completos pendientes del documento oficial."
+    },
+    {
+      "id": "cha-frente-amplio",
+      "organization": "coalicion-frente-amplio-2026",
+      "name": "CHA–Frente Amplio Aragón",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Aragón",
+          "provinces": [
+            "Huesca",
+            "Teruel",
+            "Zaragoza"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.europapress.es/nacional/noticia-mapa-alianzas-izquierda-no-evita-fragmentacion-electoral-29n-deja-valencia-hito-unidad-20261017021705.html"
+        }
+      ],
+      "candidates": [],
+      "note": "Alianza territorial con Chunta Aragonesista; Podemos permanece fuera según la información del cierre de acuerdos."
+    },
+    {
+      "id": "mes-frente-amplio",
+      "organization": "coalicion-frente-amplio-2026",
+      "name": "Més–Frente Amplio · Illes Balears",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "congreso",
+          "territory": "Illes Balears",
+          "provinces": [
+            "Illes Balears"
+          ],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.rtve.es/noticias/20261016/elecciones-29n-coaliciones-plazo/17269290.shtml"
+        }
+      ],
+      "candidates": [],
+      "note": "Acuerdo con Més per Mallorca, Més per Menorca y Ara Eivissa. El nombre legal completo y la papeleta se cotejarán con su proclamación."
+    },
+    {
+      "id": "senado-progreso",
+      "organization": "psoe",
+      "name": "Senado de Progreso",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "senado",
+          "territory": "Acuerdo supraautonómico; relación completa de circunscripciones pendiente",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html"
+        }
+      ],
+      "candidates": [],
+      "members": [
+        "sumar",
+        "iu",
+        "compromis"
+      ],
+      "note": "Acuerdo para la Cámara Alta. No se extiende al Congreso ni se proyecta sobre provincias cuya adhesión no se haya contrastado."
+    },
+    {
+      "id": "izquierdas-independencia",
+      "organization": "erc",
+      "name": "Izquierdas por la Independencia",
+      "status": "agreement",
+      "scope": [
+        {
+          "chamber": "senado",
+          "territory": "Cataluña, País Vasco y Navarra",
+          "provinces": [],
+          "complete": false
+        }
+      ],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://efe.com/espana/2026-10-17/registro-coaliciones-elecciones-29n/"
+        }
+      ],
+      "candidates": [],
+      "members": [
+        "eh-bildu"
+      ],
+      "note": "Alianza para el Senado, separada de la colaboración ERC–Podemos al Congreso. Documento íntegro de pacto pendiente de incorporar."
+    },
+    {
+      "id": "alianca-catalana",
+      "organization": "registro-6659",
+      "name": "Aliança Catalana",
+      "status": "not-running",
+      "scope": [],
+      "sources": [
+        {
+          "label": "Anuncio y alcance",
+          "url": "https://www.diaripublic.cat/politica/orriols-imposa-seu-criteri-alianca-descarta-presentar-eleccions-generals.html"
+        }
+      ],
+      "candidates": [],
+      "note": "La formación ha descartado concurrir a las generales. Se conserva en el directorio de partidos; no se cuenta como papeleta del 29N."
+    }
+  ]
+}

@@ -14,27 +14,47 @@ export type Party = {
   positions: Record<string, PartyPosition>;
 };
 export const axes = categories.flatMap((c) => c.axes);
+/** El desglose y el gráfico comparten exactamente la misma operación. */
+export function axisCalculation(answers: Answers, axisId: string) {
+  const contributions = questions
+    .filter((q) => q.axis === axisId)
+    .map((question) => {
+      const answer = answers[question.id];
+      const included = !!answer && answer.value !== null;
+      return {
+        question,
+        answer,
+        included,
+        weight: included ? answer.importance : 0,
+        numerator: included
+          ? (answer.value! / 2) * question.direction * answer.importance
+          : 0,
+      };
+    });
+  const numerator = contributions.reduce(
+    (sum, item) => sum + item.numerator,
+    0,
+  );
+  const weight = contributions.reduce((sum, item) => sum + item.weight, 0);
+  return {
+    contributions,
+    numerator,
+    weight,
+    value: weight ? (numerator / weight) * 100 : null,
+    answered: contributions.filter((item) => item.included).length,
+    total: contributions.length,
+  };
+}
 export function calculate(answers: Answers): Record<string, Score> {
   return Object.fromEntries(
     axes.map((axis) => {
-      const items = questions.filter((q) => q.axis === axis.id);
-      let sum = 0,
-        weight = 0,
-        answered = 0;
-      for (const q of items) {
-        const a = answers[q.id];
-        if (a && a.value !== null) {
-          sum += (a.value / 2) * q.direction * a.importance;
-          weight += a.importance;
-          answered++;
-        }
-      }
+      const { value, answered, total } = axisCalculation(answers, axis.id);
       return [
         axis.id,
         {
-          value: weight ? (sum / weight) * 100 : null,
+          value,
           answered,
-          total: items.length,
+          total,
         },
       ];
     }),

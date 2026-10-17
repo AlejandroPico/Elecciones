@@ -5,8 +5,15 @@ import { election, candidacies } from "../../Elecciones";
 import { organizations } from "./catalogo";
 import type { Organization } from "../../Políticos/interfaz/datos/tipos";
 import { useInfiniteList } from "../../src/app/useInfiniteList";
-import { compareParties, electoralResult, normalizeParty, partyActivity } from "./orden";
+import {
+  compareParties,
+  electoralResult,
+  normalizeParty,
+  partyActivity,
+} from "./orden";
 import { activityLabels } from "../../Políticos/interfaz/actividad";
+import ElectionDirectory from "../../Elecciones/interfaz/candidaturas/Directory";
+import { electionResearch } from "../../Elecciones/interfaz/candidaturas/catalogo";
 function Tile({
   party,
   openParty,
@@ -16,7 +23,7 @@ function Tile({
 }) {
   return (
     <article
-      className={`logo-tile ${party.logoBackground === "dark" || ["pp", "eh-bildu", "bng", "pacma"].includes(party.id) ? "logo-on-dark" : ""}`}
+      className={`logo-tile ${party.logoBackground === "light" ? "logo-on-light" : party.logoBackground === "dark" || ["pp", "eh-bildu", "bng", "pacma"].includes(party.id) ? "logo-on-dark" : ""}`}
     >
       <button
         className="logo-open"
@@ -53,6 +60,12 @@ export default function Programs({
   const confirmedIds = new Set(
     (candidacies as { organization: string }[]).map((c) => c.organization),
   );
+  const featuredIds = new Set([
+    ...confirmedIds,
+    ...electionResearch.entries
+      .filter((entry) => entry.status !== "not-running")
+      .map((entry) => entry.organization),
+  ]);
   const provinceOf = (p: Organization) =>
     p.registration?.locality.match(/\(([^()]+)\)$/)?.[1];
   const filtered = organizations.filter(
@@ -70,9 +83,11 @@ export default function Programs({
         (coverage === "unconfirmed" && partyActivity(p) === "unknown") ||
         (coverage === "historical" && partyActivity(p) === "historical")),
   );
-  const confirmed = filtered.filter((p) => confirmedIds.has(p.id)).sort(compareParties(order));
+  const confirmed = filtered
+    .filter((p) => confirmedIds.has(p.id))
+    .sort(compareParties(order));
   const others = filtered
-    .filter((p) => !confirmedIds.has(p.id))
+    .filter((p) => !featuredIds.has(p.id))
     .sort(compareParties(order));
   const { visibleCount, sentinel } = useInfiniteList(
     others.length,
@@ -84,13 +99,31 @@ export default function Programs({
       <div className="party-controls">
         <label className="archive-search">
           <Search size={16} />
-          <input type="search" aria-label="Buscar partido" placeholder="Buscar partido o localidad" value={query} onChange={(e) => setQuery(e.target.value)} />
+          <input
+            type="search"
+            aria-label="Buscar partido"
+            placeholder="Buscar partido o localidad"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+          />
         </label>
-        <select aria-label="Filtrar partidos por provincia de inscripción" value={province} onChange={(e) => setProvince(e.target.value)}>
+        <select
+          aria-label="Filtrar partidos por provincia de inscripción"
+          value={province}
+          onChange={(e) => setProvince(e.target.value)}
+        >
           <option value="all">Todas las provincias</option>
-          {[...new Set(organizations.map(provinceOf).filter(Boolean))].sort((a, b) => a!.localeCompare(b!, "es")).map((p) => <option key={p}>{p}</option>)}
+          {[...new Set(organizations.map(provinceOf).filter(Boolean))]
+            .sort((a, b) => a!.localeCompare(b!, "es"))
+            .map((p) => (
+              <option key={p}>{p}</option>
+            ))}
         </select>
-        <select aria-label="Filtrar partidos por información disponible" value={coverage} onChange={(e) => setCoverage(e.target.value)}>
+        <select
+          aria-label="Filtrar partidos por información disponible"
+          value={coverage}
+          onChange={(e) => setCoverage(e.target.value)}
+        >
           <option value="all">Activos primero · todos</option>
           <option value="active">Actividad actual documentada</option>
           <option value="unconfirmed">Actividad por confirmar</option>
@@ -100,7 +133,11 @@ export default function Programs({
           <option value="logo">Con logotipo</option>
           <option value="historical">Archivo histórico</option>
         </select>
-        <select aria-label="Ordenar partidos" value={order} onChange={(e) => setOrder(e.target.value)}>
+        <select
+          aria-label="Ordenar partidos"
+          value={order}
+          onChange={(e) => setOrder(e.target.value)}
+        >
           <option value="seats">Escaños · generales 2023</option>
           <option value="votes">Votos · generales 2023</option>
           <option value="oldest">Antigüedad · antiguos primero</option>
@@ -108,22 +145,21 @@ export default function Programs({
           <option value="name">Nombre · A–Z</option>
         </select>
       </div>
-      <div className="programs-head party-candidatures-head">
-        <h2>Candidaturas de esta elección</h2>
-        <a href={election.source} target="_blank" rel="noreferrer">
-          Convocatoria · BOE <ArrowUpRight size={14} />
-        </a>
-      </div>
-      {confirmed.length ? (
+      <ElectionDirectory query={query} openParty={openParty} />
+      {!!confirmed.length && (
+        <div className="programs-head party-candidatures-head">
+          <h2>Listas proclamadas</h2>
+          <a href={election.source} target="_blank" rel="noreferrer">
+            Convocatoria · BOE <ArrowUpRight size={14} />
+          </a>
+        </div>
+      )}
+      {!!confirmed.length && (
         <div className="logo-grid">
           {confirmed.map((p) => (
             <Tile key={p.id} party={p} openParty={openParty} />
           ))}
         </div>
-      ) : (
-        <p className="party-directory-note">
-          Pendientes de incorporar las listas proclamadas.
-        </p>
       )}
       <div className="programs-head other-parties-head">
         <h2>Otros partidos</h2>
@@ -143,10 +179,12 @@ export default function Programs({
       <div className="logo-grid">
         {others.slice(0, visibleCount).map((p, i) => (
           <Fragment key={p.id}>
-          {(i === 0 || partyActivity(others[i - 1]) !== partyActivity(p)) && (
-            <h3 className="catalog-group-title">{activityLabels[partyActivity(p)]}</h3>
-          )}
-          <Tile key={p.id} party={p} openParty={openParty} />
+            {(i === 0 || partyActivity(others[i - 1]) !== partyActivity(p)) && (
+              <h3 className="catalog-group-title">
+                {activityLabels[partyActivity(p)]}
+              </h3>
+            )}
+            <Tile key={p.id} party={p} openParty={openParty} />
           </Fragment>
         ))}
       </div>

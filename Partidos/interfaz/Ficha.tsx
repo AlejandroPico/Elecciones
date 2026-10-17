@@ -8,9 +8,16 @@ import Sources from "../../src/app/Sources";
 import { matchesAffiliation } from "../../Políticos/interfaz/vinculaciones";
 import { useInfiniteList } from "../../src/app/useInfiniteList";
 import { orderPeople } from "../../Políticos/interfaz/orden";
+import ElectionDocuments from "../../Elecciones/interfaz/candidaturas/Documents";
+import { documentsFor } from "../../Elecciones/interfaz/candidaturas/catalogo";
 function documentedDate(value: NonNullable<Organization["founding"]>) {
   if (value.precision <= 9) return value.date.slice(0, 4);
-  return new Intl.DateTimeFormat("es-ES", value.precision === 10 ? { month: "long", year: "numeric" } : {day: "numeric", month:"long",year:"numeric"}).format(new Date(value.date+"T12:00:00"));
+  return new Intl.DateTimeFormat(
+    "es-ES",
+    value.precision === 10
+      ? { month: "long", year: "numeric" }
+      : { day: "numeric", month: "long", year: "numeric" },
+  ).format(new Date(value.date + "T12:00:00"));
 }
 export default function PartyDetail({
   party,
@@ -21,13 +28,20 @@ export default function PartyDetail({
   heading: RefObject<HTMLHeadingElement | null>;
   go: (kind: "person", id: string) => void;
 }) {
-  const related = orderPeople(people.filter((p) => matchesAffiliation(p, party.id)), "name");
-  const { visibleCount, sentinel } = useInfiniteList(related.length, party.id, 20);
+  const related = orderPeople(
+    people.filter((p) => matchesAffiliation(p, party.id)),
+    "name",
+  );
+  const { visibleCount, sentinel } = useInfiniteList(
+    related.length,
+    party.id,
+    20,
+  );
   return (
     <div className="party-detail" key={party.id}>
       <div className="party-detail-head">
         <PartyLogo
-          className={`party-profile-logo ${party.logoBackground === "dark" || ["pp", "eh-bildu", "bng", "pacma"].includes(party.id) ? "on-dark" : ""}`}
+          className={`party-profile-logo ${party.logoBackground === "light" ? "on-light" : party.logoBackground === "dark" || ["pp", "eh-bildu", "bng", "pacma"].includes(party.id) ? "on-dark" : ""}`}
           party={party}
         />
         <div>
@@ -38,9 +52,20 @@ export default function PartyDetail({
           {party.foundation && !party.foundation.startsWith("Pendiente") && (
             <p>Fundación: {party.foundation}</p>
           )}
-          {!party.foundation && party.founding && <p>Fundación: {documentedDate(party.founding)}</p>}
-          {party.dissolution && <p>Disolución documentada: {documentedDate(party.dissolution)}</p>}
-          {(party.founding || party.dissolution) && <Sources sources={[...(party.founding ? [party.founding.source] : []), ...(party.dissolution ? [party.dissolution.source] : [])]} />}
+          {!party.foundation && party.founding && (
+            <p>Fundación: {documentedDate(party.founding)}</p>
+          )}
+          {party.dissolution && (
+            <p>Disolución documentada: {documentedDate(party.dissolution)}</p>
+          )}
+          {(party.founding || party.dissolution) && (
+            <Sources
+              sources={[
+                ...(party.founding ? [party.founding.source] : []),
+                ...(party.dissolution ? [party.dissolution.source] : []),
+              ]}
+            />
+          )}
         </div>
       </div>
       <p className="party-description">{party.summary}</p>
@@ -83,18 +108,41 @@ export default function PartyDetail({
           Web oficial <ArrowUpRight size={16} />
         </a>
       )}
+      <ElectionDocuments organization={party.id} />
       <div className="party-detail-grid">
-        {party.activity && <article><h3>Actividad documentada</h3><p>{party.activity.reason}</p><Sources sources={party.activity.sources} /></article>}
+        {party.activity && (
+          <article>
+            <h3>Actividad documentada</h3>
+            <p>{party.activity.reason}</p>
+            <Sources sources={party.activity.sources} />
+          </article>
+        )}
         {!!party.electoralResults?.length && (
           <article>
             <h3>Resultados electorales</h3>
             {party.electoralResults.map((result) => (
               <div key={`${result.date}-${result.chamber}`}>
-                <p>{result.election} · {result.chamber === "congreso" ? "Congreso" : "Senado"}</p>
+                <p>
+                  {result.election} ·{" "}
+                  {result.chamber === "congreso" ? "Congreso" : "Senado"}
+                </p>
                 <dl className="technical-data">
-                  {result.seats !== undefined && <div><dt>Escaños</dt><dd>{result.seats}</dd></div>}
-                  {result.votes !== undefined && <div><dt>Votos</dt><dd>{result.votes.toLocaleString("es-ES")}</dd></div>}
-                  <div><dt>Candidatura</dt><dd>{result.candidature}</dd></div>
+                  {result.seats !== undefined && (
+                    <div>
+                      <dt>Escaños</dt>
+                      <dd>{result.seats}</dd>
+                    </div>
+                  )}
+                  {result.votes !== undefined && (
+                    <div>
+                      <dt>Votos</dt>
+                      <dd>{result.votes.toLocaleString("es-ES")}</dd>
+                    </div>
+                  )}
+                  <div>
+                    <dt>Candidatura</dt>
+                    <dd>{result.candidature}</dd>
+                  </div>
                 </dl>
                 <Sources sources={[result.source]} />
               </div>
@@ -105,15 +153,34 @@ export default function PartyDetail({
           <article>
             <h3>Documentación pública</h3>
             {party.publicResources.map((resource) => (
-              <a className="document-link" key={resource.url} href={resource.url} target="_blank" rel="noreferrer">
+              <a
+                className="document-link"
+                key={resource.url}
+                href={resource.url}
+                target="_blank"
+                rel="noreferrer"
+              >
                 <FileText size={20} />
-                <span><strong>{resource.title}</strong><small>{resource.kind} {resource.date ? `· ${resource.date}` : "· fecha no indicada"}{resource.format ? ` · ${resource.format}` : ""}</small></span>
-                {resource.format === "PDF" ? <Download size={16} /> : <ArrowUpRight size={16} />}
+                <span>
+                  <strong>{resource.title}</strong>
+                  <small>
+                    {resource.kind}{" "}
+                    {resource.date
+                      ? `· ${resource.date}`
+                      : "· fecha no indicada"}
+                    {resource.format ? ` · ${resource.format}` : ""}
+                  </small>
+                </span>
+                {resource.format === "PDF" ? (
+                  <Download size={16} />
+                ) : (
+                  <ArrowUpRight size={16} />
+                )}
               </a>
             ))}
           </article>
         )}
-        {!!party.documents.length && (
+        {!!party.documents.length && !documentsFor(party.id).length && (
           <article>
             <span className="eyebrow">ARCHIVO DOCUMENTAL</span>
             <h3>Programas publicados</h3>
@@ -143,19 +210,22 @@ export default function PartyDetail({
           <article>
             <h3>Personas en el archivo</h3>
             <div className="related-people">
-              {related.slice(0, visibleCount)
-                .map((p) => (
-                  <button key={p.id} onClick={() => go("person", p.id)}>
-                    <Portrait person={p} />
-                    <span>
-                      {p.name}
-                      <small>{p.role}</small>
-                    </span>
-                    <ArrowRight size={16} />
-                  </button>
-                ))}
+              {related.slice(0, visibleCount).map((p) => (
+                <button key={p.id} onClick={() => go("person", p.id)}>
+                  <Portrait person={p} />
+                  <span>
+                    {p.name}
+                    <small>{p.role}</small>
+                  </span>
+                  <ArrowRight size={16} />
+                </button>
+              ))}
             </div>
-            <div ref={sentinel} className="infinite-sentinel" aria-hidden="true" />
+            <div
+              ref={sentinel}
+              className="infinite-sentinel"
+              aria-hidden="true"
+            />
           </article>
         )}
         {!!party.leadership.length && (

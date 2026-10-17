@@ -1,0 +1,177 @@
+[
+  {
+    "organization": "bng",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://www.bng.gal/estaticas/programas-eleitorais.html",
+    "note": "Archivo oficial con generales 2023 y otros ámbitos electorales. No se encontró programa específico de generales 2026 en esa consulta."
+  },
+  {
+    "organization": "cc",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://coalicioncanaria.org/programas-electorales/",
+    "note": "La página mezcla elecciones y años. Separar los programas autonómicos de los estatales. Anuncio y cabeceras de 2026 contrastados en comunicado del 17 de octubre."
+  },
+  {
+    "organization": "coalicion-d21-2026",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://democracia21.es/",
+    "note": "Web de campaña con manifiesto y soluciones. No se encontró un PDF electoral completo; manifiesto pendiente de extracción y análisis por bloques."
+  },
+  {
+    "organization": "coalicion-frente-amplio-2026",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://frenteamplio.info/",
+    "note": "Web de campaña con adhesiones; no se encontró programa descargable. No atribuir automáticamente el programa de Sumar de 2023."
+  },
+  {
+    "organization": "compromis",
+    "checkedAt": null,
+    "status": "pending",
+    "source": "https://compromis.net/info/programes",
+    "note": "Pendiente de revisar el documento completo de la nueva fórmula territorial; no atribuir el programa autonómico a generales."
+  },
+  {
+    "organization": "eh-bildu",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+    "note": "Original del compromiso para las generales de 2023 descargado del servidor oficial. Pendiente de programa específico del 29N y de análisis de propuestas."
+  },
+  {
+    "organization": "erc",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://www.esquerra.cat/transparencia/programes-electorals/",
+    "note": "Se localizó el original de las generales de 2023. No se localizó edición específica del 29N en las fuentes consultadas."
+  },
+  {
+    "organization": "junts",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://junts.cat/",
+    "note": "La web actual no ofrece en la consulta el programa del 29N. Enlace de 2023 retirado; copia de archivo de prensa identificada."
+  },
+  {
+    "organization": "pacma",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://pacma.es/programa-electoral/",
+    "note": "Los programas de 2026 ofrecidos corresponden a autonómicas; el de generales disponible es de 2023 y se archiva con esa edición."
+  },
+  {
+    "organization": "pnv",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://hauteskundeorokorrak2019-a10.eaj-pnv.eus/es/documentos/20945/con-voz-propia-programa-electoral-23-j",
+    "note": "Original de 2023 archivado. No confundirlo con una edición de 2026."
+  },
+  {
+    "organization": "podemos",
+    "checkedAt": "2026-10-17",
+    "status": "blocked",
+    "source": "https://podemos.info/",
+    "note": "Consulta directa bloqueada. El programa de la coalición Sumar de 2023 no se convierte en documento propio de Podemos para el 29N."
+  },
+  {
+    "organization": "pp",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://www.pp.es/",
+    "note": "Programa de 2023 descargado; no se localizó un original específico del 29N en las páginas consultadas."
+  },
+  {
+    "organization": "psoe",
+    "checkedAt": "2026-10-17",
+    "status": "blocked",
+    "source": "https://www.psoe.es/transparencia/informacion-politica-organizativa/programa/",
+    "note": "El servidor devuelve una pantalla de Incapsula en la descarga directa. El PDF de 2023 se conserva desde una copia de prensa identificada."
+  },
+  {
+    "organization": "registro-4086",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/",
+    "note": "Propuesta permanente de artículo único en HTML. Transcripción local íntegra identificada como tal; no se encontró PDF específico del 29N."
+  },
+  {
+    "organization": "registro-6040",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://www.pcte.es/",
+    "note": "La portada enlaza Programa de lucha 2023–2027. El propio documento se distingue de un programa electoral: no renombrarlo como programa de 2026."
+  },
+  {
+    "organization": "registro-6359",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://frenteobrero.es/nuestro-programa-2/",
+    "note": "PDF enlazado desde la web de campaña en octubre de 2026. La portada dice programa político; no se atribuye edición electoral ni fecha de publicación que el documento no acredita."
+  },
+  {
+    "organization": "registro-6620",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://adelanteandalucia.org/programa/",
+    "note": "El PDF de 2026 es de las elecciones andaluzas del 17 de mayo. No trasladarlo a generales."
+  },
+  {
+    "organization": "registro-6659",
+    "checkedAt": null,
+    "status": "pending",
+    "source": "",
+    "note": "Pendiente de revisión documental específica."
+  },
+  {
+    "organization": "registro-6779",
+    "checkedAt": null,
+    "status": "pending",
+    "source": "",
+    "note": "Pendiente de revisión documental específica."
+  },
+  {
+    "organization": "registro-6972",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://soriaya.org/partido/",
+    "note": "El apartado de programa se titula Generales 23J. Las primarias de octubre de 2026 no acreditan que ese programa se reedite para el 29N."
+  },
+  {
+    "organization": "registro-6975",
+    "checkedAt": null,
+    "status": "pending",
+    "source": "",
+    "note": "Pendiente de revisión documental específica."
+  },
+  {
+    "organization": "registro-7039",
+    "checkedAt": null,
+    "status": "pending",
+    "source": "https://www.noticias.dragocanarias.com/drago-canarias-concurrira-a-las-elecciones-generales-el-proximo-29n/",
+    "note": "Anuncio de concurrencia revisado; el programa completo de la campaña sigue pendiente de incorporar y analizar."
+  },
+  {
+    "organization": "registro-7400",
+    "checkedAt": "2026-10-17",
+    "status": "consulted",
+    "source": "https://iustitiaeuropa.es/contrato-electoral/",
+    "note": "Contrato descargado del servidor oficial. No consta en la portada una edición específica del 29N."
+  },
+  {
+    "organization": "registro-7458",
+    "checkedAt": "2026-10-17",
+    "status": "blocked",
+    "source": "https://www.seacabolafiesta.com/",
+    "note": "La búsqueda oficial identifica la campaña de avales en Madrid; consulta directa bloqueada. El contrato autonómico de Castilla y León 2026 no sirve como programa estatal."
+  },
+  {
+    "organization": "vox",
+    "checkedAt": "2026-10-17",
+    "status": "blocked",
+    "source": "https://www.voxespana.es/programa/programa-electoral-vox",
+    "note": "Página oficial identificada por el buscador como programa de 2023; descarga directa 403/404. Copia de prensa del 23J conservada; no es un programa del 29N."
+  }
+]

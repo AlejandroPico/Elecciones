@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-17",
+  "note": "Un bloqueo del servidor no acredita retirada del contenido; conservar la consulta de buscador como evidencia secundaria y marcar la limitación.",
+  "results": [
+    {
+      "url": "https://congreso.eaj-pnv.eus/es/noticias/58612/vaquero-sagastizabal-y-urtaran-encabezan-las-lista",
+      "status": 200,
+      "final": "https://congreso.eaj-pnv.eus/es/noticias/58612/vaquero-sagastizabal-y-urtaran-encabezan-las-lista",
+      "bytes": 79179,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://democracia21.es/",
+      "status": 200,
+      "final": "https://democracia21.es/",
+      "bytes": 389422,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://efe.com/espana/2026-10-08/nogueras-candidata-elecciones-junts/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://efe.com/espana/2026-10-17/frente-amplio-ada-colau-candidata/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://efe.com/espana/2026-10-17/registro-coaliciones-elecciones-29n/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://efe.com/espana/2026-10-17/sanchez-elecciones-29n-comite-federal/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://ehbildu.eus/es/noticias/la-mesa-politica-de-hegoalde-propone-que-oskar-matute-e-idurre-bideguren-encabecen-las-candidaturas-de-eh-bildu-al-congreso-y-al-senado",
+      "status": 200,
+      "final": "https://ehbildu.eus/es/noticias/la-mesa-politica-de-hegoalde-propone-que-oskar-matute-e-idurre-bideguren-encabecen-las-candidaturas-de-eh-bildu-al-congreso-y-al-senado",
+      "bytes": 66581,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html",
+      "status": 200,
+      "final": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html",
+      "bytes": 409548,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://escanos.org/recogida-de-firmas-escanos-en-blanco/",
+      "status": 200,
+      "final": "https://escanos.org/recogida-de-firmas-escanos-en-blanco/",
+      "bytes": 130814,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://frenteamplio.info/",
+      "status": 200,
+      "final": "https://frenteamplio.info/",
+      "bytes": 13120,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://frenteobrero.es/",
+      "status": 200,
+      "final": "https://frenteobrero.es/",
+      "bytes": 363872,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://iustitiaeuropa.es/",
+      "status": 200,
+      "final": "https://iustitiaeuropa.es/",
+      "bytes": 119996,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://pacma.es/notas-de-prensa/pacma-presenta-a-asier-esparza-como-candidato-a-la-presidencia-del-gobierno-para-las-elecciones-del-29n/",
+      "status": 200,
+      "final": "https://pacma.es/notas-de-prensa/pacma-presenta-a-asier-esparza-como-candidato-a-la-presidencia-del-gobierno-para-las-elecciones-del-29n/",
+      "bytes": 144996,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://soriaya.org/soria-ya-celebra-las-elecciones-primarias-donde-todos-sus-afiliados-pueden-votar-y-elegir-sus-candidatos-para-el-29n/",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.3cat.cat/3catinfo/gabriel-rufian-sera-el-cap-de-llista-desquerra-a-les-eleccions-generals-del-29n/noticia/3433559/",
+      "status": 200,
+      "final": "https://www.3cat.cat/3catinfo/gabriel-rufian-sera-el-cap-de-llista-desquerra-a-les-eleccions-generals-del-29n/noticia/3433559/",
+      "bytes": 207813,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.bng.gal/tags/xerais-2026/",
+      "status": 200,
+      "final": "https://www.bng.gal/tags/xerais-2026/",
+      "bytes": 145841,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.canalsur.es/noticias/andalucia/adelante-elige-ocho-caras-nuevas_1_1444213.html",
+      "status": 200,
+      "final": "https://www.canalsur.es/noticias/andalucia/adelante-elige-ocho-caras-nuevas_1_1444213.html",
+      "bytes": 164080,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.diaripublic.cat/politica/orriols-imposa-seu-criteri-alianca-descarta-presentar-eleccions-generals.html",
+      "status": 200,
+      "final": "https://www.diaripublic.cat/politica/orriols-imposa-seu-criteri-alianca-descarta-presentar-eleccions-generals.html",
+      "bytes": 227343,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.elconstitucional.es/es/comunidades/canarias/podemos-izquierda-unida-movimiento-sumar-nueva-canarias-sellan-su-unidad-elecciones-29n-ojala-canarias-marque-camino_8972_102.html",
+      "status": 200,
+      "final": "https://www.elconstitucional.es/es/comunidades/canarias/podemos-izquierda-unida-movimiento-sumar-nueva-canarias-sellan-su-unidad-elecciones-29n-ojala-canarias-marque-camino_8972_102.html",
+      "bytes": 281222,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.europapress.es/nacional/noticia-irene-montero-recibe-24136-votos-primarias-sea-candidata-29n-presente-madrid-20261016162223.html",
+      "status": 200,
+      "final": "https://www.europapress.es/nacional/noticia-irene-montero-recibe-24136-votos-primarias-sea-candidata-29n-presente-madrid-20261016162223.html",
+      "bytes": 358406,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.europapress.es/nacional/noticia-mapa-alianzas-izquierda-no-evita-fragmentacion-electoral-29n-deja-valencia-hito-unidad-20261017021705.html",
+      "status": 200,
+      "final": "https://www.europapress.es/nacional/noticia-mapa-alianzas-izquierda-no-evita-fragmentacion-electoral-29n-deja-valencia-hito-unidad-20261017021705.html",
+      "bytes": 359397,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.juntaelectoralcentral.es/cs/jec/elecciones/coalicionesJECGenerales",
+      "status": 200,
+      "final": "https://www.juntaelectoralcentral.es/cs/jec/elecciones/coalicionesJECGenerales",
+      "bytes": 9533,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.noticias.dragocanarias.com/category/comunicados/",
+      "status": 200,
+      "final": "https://www.noticias.dragocanarias.com/category/comunicados/",
+      "bytes": 100650,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.ondaaragonesa.com/noticias/teruel-existe-afronta-29n-objetivo-recuperar-voz-propia-madrid/20261005182703011631.amp.html",
+      "status": 200,
+      "final": "https://www.ondaaragonesa.com/noticias/teruel-existe-afronta-29n-objetivo-recuperar-voz-propia-madrid/20261005182703011631.amp.html",
+      "bytes": 84027,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.pcte.es/comunicados-centrales/el-pcte-estara-presente-en-las-elecciones-generales-resolucion-del-buro-politico-del-pcte/",
+      "status": 200,
+      "final": "https://www.pcte.es/comunicados-centrales/el-pcte-estara-presente-en-las-elecciones-generales-resolucion-del-buro-politico-del-pcte/",
+      "bytes": 74149,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.rtve.es/noticias/20261016/elecciones-29n-coaliciones-plazo/17269290.shtml",
+      "status": 200,
+      "final": "https://www.rtve.es/noticias/20261016/elecciones-29n-coaliciones-plazo/17269290.shtml",
+      "bytes": 77502,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.rtve.es/play/videos/telenavarra/upn-pp-sellan-acuerdo-electoral/17266392/",
+      "status": 200,
+      "final": "https://www.rtve.es/play/videos/telenavarra/upn-pp-sellan-acuerdo-electoral/17266392/",
+      "bytes": 57452,
+      "looksBlocked": false
+    },
+    {
+      "url": "https://www.seacabolafiesta.com/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.voxespana.es/abascal",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

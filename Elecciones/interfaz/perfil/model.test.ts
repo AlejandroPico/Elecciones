@@ -1,7 +1,35 @@
 import { describe, expect, it } from "vitest";
-import { calculate, parseParties, similarity, type Answers } from "./model";
+import {
+  axisCalculation,
+  calculate,
+  parseParties,
+  similarity,
+  type Answers,
+} from "./model";
 import { categories, questions, VERSION } from "../..";
 describe("Modelo de coordenadas", () => {
+  it("el desglose reproduce la coordenada, incluyendo neutralidad y excluyendo omisiones", () => {
+    const answers: Answers = {
+      "economia-1": { value: 2, importance: 1 },
+      "economia-2": { value: 2, importance: 3 },
+      "economia-3": { value: null, importance: 3 },
+    };
+    const detail = axisCalculation(answers, "intervencion");
+    expect(detail.numerator).toBe(-2);
+    expect(detail.weight).toBe(4);
+    expect(detail.value).toBe(calculate(answers).intervencion.value);
+    expect(
+      detail.contributions.find((item) => item.question.id === "economia-3")
+        ?.weight,
+    ).toBe(0);
+    const neutral = axisCalculation(
+      { "economia-1": { value: 0, importance: 3 } },
+      "intervencion",
+    );
+    expect(neutral.numerator).toBe(0);
+    expect(neutral.weight).toBe(3);
+    expect(neutral.value).toBe(0);
+  });
   it("no atribuye al centro los ejes sin respuestas o con omisiones", () => {
     expect(calculate({}).intervencion.value).toBeNull();
     expect(

@@ -1,0 +1,62 @@
+.calculation-explanation {
+  margin-top: 40px;
+  padding-top: 25px;
+  border-top: 1px solid var(--line);
+}
+.calculation-explanation > p {
+  max-width: 850px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+.calculation-explanation > details {
+  border-bottom: 1px solid var(--line);
+}
+.calculation-explanation summary {
+  cursor: pointer;
+  padding: 18px 0;
+  font-weight: 500;
+}
+.calculation-axis {
+  padding: 10px 0 24px;
+}
+.calculation-axis h3 {
+  font-size: 0.95rem;
+  margin: 10px 0;
+}
+.calculation-range {
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+.calculation-axis ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.calculation-axis li {
+  padding: 14px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  border-bottom: 1px solid var(--line);
+}
+.calculation-axis li p {
+  flex-basis: 100%;
+  margin: 0;
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+.calculation-axis li span {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+.calculation-axis code {
+  color: var(--accent);
+  font-size: 0.8rem;
+  overflow-wrap: anywhere;
+}
+.calculation-total {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85rem;
+}

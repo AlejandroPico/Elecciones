@@ -25,6 +25,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - name: Validar investigación de presidencias
         run: python3 Gobiernos/herramientas/redactar-investigacion-presidencias.py --check
+      - name: Verificar originales de programas electorales
+        run: pnpm check:programas
       - run: pnpm test
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
