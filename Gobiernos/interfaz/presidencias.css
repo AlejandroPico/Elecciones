@@ -4,12 +4,14 @@
   --pres-crisis: #b44147;
   --pres-scandal: #a13855;
   --pres-institutional: var(--muted);
+  --pres-legislation: #446b87;
 }
 :root[data-theme="night"] .presidencies {
   --pres-milestone: #79c7ab;
   --pres-balance: #e6b879;
   --pres-crisis: #ef9498;
   --pres-scandal: #e89eb8;
+  --pres-legislation: #8db4d2;
 }
 .presidencies [data-kind="milestone"] {
   --event-color: var(--pres-milestone);
@@ -25,6 +27,33 @@
 }
 .presidencies [data-kind="institutional"] {
   --event-color: var(--pres-institutional);
+}
+.presidencies [data-kind="legislation"] {
+  --event-color: var(--pres-legislation);
+}
+.pres-subfilters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  margin-bottom: 15px;
+}
+.pres-subfilters select {
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  padding: 8px 18px 8px 0;
+  background: var(--bg);
+  color: var(--muted);
+  font-size: 11px;
+  max-width: 100%;
+}
+.pres-load-sentinel {
+  height: 2px;
+}
+.pres-event[data-kind="legislation"]:not([open]) h4 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
 }
 .pres-heading {
   display: flex;

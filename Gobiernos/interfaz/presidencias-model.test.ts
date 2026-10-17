@@ -4,6 +4,7 @@ import {
   cabinetFor,
   durationLabel,
   eventKind,
+  eventTopics,
   events,
   eventsFor,
   judicialLabel,
@@ -18,7 +19,7 @@ import {
 } from "./presidencias-model";
 
 describe("histórico documentado de presidencias", () => {
-  it("conserva todos los hechos una sola vez, incluidos contexto y resoluciones posteriores", () => {
+  it("conserva registros canónicos y muestra sus vínculos sin repetirlos dentro de una etapa", () => {
     const stageIds = [
       ...presidencies.flatMap((p) => p.stages),
       "pre-arias",
@@ -26,30 +27,33 @@ describe("histórico documentado de presidencias", () => {
     ];
     expect(new Set(stageIds).size).toBe(stages.length);
     expect(stageIds.sort()).toEqual(stages.map((s) => s.id).sort());
-    const visible = stageIds.flatMap(eventsFor);
+    const visible = stageIds.flatMap((id) => eventsFor(id));
     expect(new Set(visible.map((e) => e.id)).size).toBe(events.length);
-    expect(visible.map((e) => e.id).sort()).toEqual(
-      events.map((e) => e.id).sort(),
-    );
+    expect(new Set(events.map((e) => e.id)).size).toBe(events.length);
+    for (const id of stageIds) {
+      const local = eventsFor(id);
+      expect(new Set(local.map((e) => e.id)).size).toBe(local.length);
+      expect(local.map((e) => e.date)).toEqual(
+        local
+          .map((e) => e.date)
+          .sort()
+          .reverse(),
+      );
+      expect(eventsFor(id, true)).toEqual([...local].reverse());
+    }
     for (const event of visible) {
       expect(event.sources.length).toBeGreaterThan(0);
       for (const id of event.sources)
         expect(sources[id]?.url).toMatch(/^https:\/\//);
     }
   });
-  it("mantiene Filesa y su amparo en la época de origen, sin atribuirlos al presidente de la sentencia", () => {
+  it("muestra Filesa en origen y resolución conservando la atribución y el amparo parcial", () => {
     const filesa = eventsFor("iii-gonzalez").filter(
       (e) => e.caseId === "filesa",
     );
-    expect(filesa).toHaveLength(2);
-    expect(filesa.map((e) => e.stageAtMilestone)).toEqual([
-      "vi-aznar",
-      "vii-aznar",
-    ]);
-    expect(judicialLabel(filesa[1])).toBe("Condena por falsedad anulada");
-    expect(eventsFor("vi-aznar").some((e) => e.caseId === "filesa")).toBe(
-      false,
-    );
+    const amparo = filesa.find((e) => e.id === "2001-06-04-filesa-amparo")!;
+    expect(judicialLabel(amparo)).toBe("Condena por falsedad anulada");
+    expect(eventsFor("vi-aznar").some((e) => e.caseId === "filesa")).toBe(true);
   });
   it("no transforma la responsabilidad civil del PP ni una investigación en condenas de la presidencia", () => {
     const guertel = events.find((e) => e.caseId === "guertel-primera-epoca")!;
@@ -66,6 +70,57 @@ describe("histórico documentado de presidencias", () => {
     const masks = events.filter((e) => e.caseId === "koldo-mascarillas");
     expect(masks).toHaveLength(2);
     expect(masks.every((e) => e.caseId !== investigation.caseId)).toBe(true);
+  });
+  it("separa el catálogo del BOE del análisis editorial y conserva fuentes originales", () => {
+    const norms = events.filter((e) => e.boeId);
+    expect(norms.length).toBeGreaterThan(3000);
+    expect(events.length).toBeGreaterThan(3200);
+    expect(
+      norms.some(
+        (e) =>
+          e.date.startsWith("1978") &&
+          e.title
+            .toLocaleLowerCase("es")
+            .includes("derogación de la ley 41/1975"),
+      ),
+    ).toBe(true);
+    for (const norm of norms) {
+      expect(eventKind(norm)).toBe("legislation");
+      expect(norm.date <= researchDate).toBe(true);
+      expect(sources[norm.sources[0]].url).toContain(norm.boeId);
+      expect(norm.verification).toBe("metadatos-oficiales-boe");
+      expect(eventTopics(norm).length).toBeGreaterThan(0);
+    }
+  });
+  it("permite consultar los hechos compartidos y la crisis de investiduras sin mezclar responsabilidades", () => {
+    for (const id of ["ix-zapatero", "xiv-sanchez", "xv-sanchez"]) {
+      expect(
+        eventsFor(id).some((e) => e.id === "2026-05-19-plus-ultra-zapatero"),
+      ).toBe(true);
+    }
+    expect(
+      eventsFor("xii-rajoy").some(
+        (e) => e.id === "2018-05-24-guertel-audiencia",
+      ),
+    ).toBe(true);
+    expect(eventsFor("xi-rajoy").length).toBeGreaterThan(4);
+    const david = events.find((e) => e.id === "2026-07-14-david-sentencia")!;
+    expect(david.summary).toContain("absolvió de tráfico de influencias");
+    expect(judicialLabel(david)).toContain("no firme");
+    const plus = events.find((e) => e.id === "2026-05-19-plus-ultra-zapatero")!;
+    expect(
+      plus.displayStages?.find((link) => link.stage === "ix-zapatero")?.reason,
+    ).toContain("después");
+  });
+  it("distingue el año del salario mínimo y su publicación, sin convertir la mensualidad en salario neto", () => {
+    const wage = events.find((e) => e.id === "2026-02-19-smi-2026")!;
+    expect(wage.title).toContain("1 221 euros");
+    expect(wage.date).toBe("2026-02-19");
+    expect(eventKind(wage)).toBe("balance");
+    expect(wage.attribution).toContain("no demuestra por sí sola");
+    const old = events.find((e) => e.id === "1998-12-30-smi-1999")!;
+    expect(old.title).toContain("69.270 pesetas");
+    expect(old.stage).toBe("vi-aznar");
   });
   it("resuelve las dos presidencias de I y XII hacia sus composiciones correspondientes", () => {
     expect(cabinetFor("i-suarez", "adolfo-suarez-gonzalez")).toBeTruthy();

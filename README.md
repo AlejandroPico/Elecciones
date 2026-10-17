@@ -1,12 +1,12 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.24.0 · 17 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.25.0 · 17 de octubre de 2026.
 
-## Histórico de presidencias · 0.24
+## Histórico de presidencias · 0.25
 
-«Gobiernos centrales» abre una pantalla propia con duración de las siete presidencias desde Suárez y un recorrido por legislaturas. Los retratos permanecen junto a los hechos al desplazarse; la selección por presidencia tiene dirección propia y permite regresar desde una biografía o una composición con el historial del navegador. Búsqueda, tipo de acontecimiento, legislatura y orden se combinan sin duplicar hechos entre gobiernos.
+«Gobiernos centrales» conserva el gráfico de duración y los retratos de las siete presidencias. Las legislaturas y sus acontecimientos aparecen de más reciente a más antiguo; el selector de orden invierte ambos niveles. Búsqueda, presidencia, tipo, materia, año y legislatura se combinan. La lista carga progresivamente al desplazarse.
 
-La primera selección utiliza los 80 hechos del expediente interno, incluidos el contexto de transición y las resoluciones posteriores. Cada entrada conserva fuentes, atribución, estado judicial fechado y límites de investigación. Los colores identifican hitos y reformas, balances económicos, crisis, escándalos y contexto institucional; no calculan una nota global ni atribuyen culpabilidad al presidente. Las fotografías y biografías proceden de sus carpetas en `Políticos/`. La documentación sigue en ampliación: esta pantalla no acredita una investigación histórica exhaustiva.
+La ampliación contiene 200 acontecimientos desarrollados y 3.085 registros normativos del BOE, diferenciados como «Leyes y medidas». Los segundos proceden del título oficial y la fecha de publicación: no se presentan como análisis de impacto ni éxitos demostrados. Un mismo acontecimiento puede verse en varias etapas relacionadas, con un único registro canónico, sin multiplicar los casos ni transmitir culpabilidad. Se amplían Gürtel, Bárcenas, Roldán, CESID, Gescartera, crisis sociales, emergencias y causas de 2026, incluidas las posiciones de las defensas y los archivos.
 
 ## Legislaturas y mapa histórico · 0.23
 
@@ -16,7 +16,8 @@ El mapa incorpora navegación por cambios documentados entre 1977 y 2026: flecha
 
 ## Investigación de presidencias centrales · 17 de octubre de 2026
 
-La investigación de hitos y crisis comenzó en un expediente interno, antes de construir su presentación web. La [primera cronología documentada](Gobiernos/investigacion/presidencias-centrales/cronologia.md) reúne 80 hechos y 79 referencias, con un índice de 21 etapas. Distingue medidas y resultados, periodos de los hechos y fechas judiciales, responsabilidad civil y penal y cambios de condenas. Es una primera pasada parcial, con [criterios](Gobiernos/investigacion/presidencias-centrales/investigacion.md) y [pendientes](Gobiernos/investigacion/presidencias-centrales/pendientes.md) explícitos. La versión 0.24 presenta esa selección con sus límites de cobertura y sus referencias.
+La investigación y sus fuentes permanecen en [Gobiernos/investigacion/presidencias-centrales](Gobiernos/investigacion/presidencias-centrales/). El [dossier](Gobiernos/investigacion/presidencias-centrales/cronologia.md) desarrolla los acontecimientos editoriales. El catálogo normativo conserva procedencia, consultas reproducibles, exclusiones y relaciones con el índice de etapas. El registro de 2.657 semanas identifica entradas y lagunas: no acredita una revisión hemerográfica exhaustiva de cincuenta años. Los [criterios](Gobiernos/investigacion/presidencias-centrales/investigacion.md) y [pendientes](Gobiernos/investigacion/presidencias-centrales/pendientes.md) distinguen esta cobertura del análisis profundo todavía necesario.
+
 
 ## Extremadura e Illes Balears · 0.22
 

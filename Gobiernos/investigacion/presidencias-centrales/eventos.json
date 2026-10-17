@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-17",
-  "status": "primera-pasada-en-curso",
+  "status": "ampliacion-editorial-y-catalogo-normativo",
   "events": [
     {
       "id": "1976-03-03-vitoria",
@@ -665,7 +665,13 @@
       "stageAtMilestone": "xiv-sanchez",
       "factsPeriod": "1999/2005",
       "judicialStatus": "sentencia-de-casacion-con-responsabilidades-penales-individuales-y-civiles",
-      "statusAtSource": "2020-10-14"
+      "statusAtSource": "2020-10-14",
+      "displayStages": [
+        {
+          "stage": "xii-rajoy",
+          "reason": "La sentencia de 2018 y sus consecuencias parlamentarias afectaron directamente a esta presidencia; los hechos originales son anteriores."
+        }
+      ]
     },
     {
       "id": "2002-11-prestige",
@@ -1535,6 +1541,2628 @@
       ],
       "verification": "hecho-base-documentado",
       "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1977-01-24-atocha",
+      "date": "1977-01-24",
+      "datePrecision": "day",
+      "stage": "pre-suarez",
+      "title": "Matanza de Atocha",
+      "category": "crisis",
+      "summary": "El ataque de extrema derecha contra un despacho laboralista causó cinco muertos y cuatro heridos en plena Transición.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "atocha-1977"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "interior-y-seguridad",
+        "justicia-y-derechos"
+      ]
+    },
+    {
+      "id": "1977-04-09-pce",
+      "date": "1977-04-09",
+      "datePrecision": "day",
+      "stage": "pre-suarez",
+      "title": "Legalización del Partido Comunista",
+      "category": "institucional",
+      "summary": "El Gobierno legalizó el PCE, una decisión esencial para unas elecciones plurales y que provocó resistencia en sectores militares.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "suarez-balance"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones",
+        "justicia-y-derechos"
+      ]
+    },
+    {
+      "id": "1978-11-galaxia",
+      "date": "1978-11",
+      "datePrecision": "month",
+      "stage": "constituyente-suarez",
+      "title": "Conspiración de la Operación Galaxia",
+      "category": "crisis",
+      "summary": "Se descubrió un proyecto de asalto al Consejo de Ministros. Los antecedentes muestran la persistencia de la amenaza golpista antes del 23-F.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "galaxia-documentos"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "interior-y-seguridad",
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "1980-05-30-censura",
+      "date": "1980-05-30",
+      "datePrecision": "day",
+      "stage": "i-suarez",
+      "title": "Suárez supera la moción de censura",
+      "category": "crisis",
+      "summary": "La candidatura alternativa de Felipe González no logró la mayoría. La votación evidenció la debilidad de los apoyos parlamentarios de UCD.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "censura-suarez"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "1981-01-29-dimision-suarez",
+      "date": "1981-01-29",
+      "datePrecision": "day",
+      "stage": "i-suarez",
+      "title": "Dimisión de Adolfo Suárez",
+      "category": "crisis",
+      "summary": "Suárez anunció por televisión su renuncia a la presidencia del Gobierno y a la dirección de UCD, antes del intento de golpe de Estado.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "dimision-suarez"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "1983-08-loapa-tc",
+      "date": "1983-08",
+      "datePrecision": "month",
+      "stage": "ii-gonzalez",
+      "title": "La LOAPA pierde parte de su contenido ante el Constitucional",
+      "category": "crisis",
+      "summary": "El control previo rechazó preceptos y el carácter orgánico y armonizador de la propuesta. El acuerdo se había impulsado durante Calvo-Sotelo.",
+      "attribution": "Iniciativa de UCD y PSOE anterior al Gobierno de González; la decisión constitucional se conoce durante este último. No es una condena penal.",
+      "sources": [
+        "loapa-tc-prensa"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones",
+        "justicia-y-derechos"
+      ],
+      "relatedStages": [
+        "i-calvo-sotelo"
+      ]
+    },
+    {
+      "id": "1991-01-12-guerra-dimision",
+      "date": "1991-01-12",
+      "datePrecision": "day",
+      "stage": "iv-gonzalez",
+      "title": "Alfonso Guerra anuncia su dimisión",
+      "category": "corrupcion",
+      "summary": "El vicepresidente dejó el Gobierno tras el desgaste político provocado por las actividades de su hermano Juan y por sus diferencias con González.",
+      "attribution": "Dimisión política del vicepresidente; no equivale a una condena de Alfonso Guerra ni de Felipe González.",
+      "sources": [
+        "guerra-dimision"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "juan-guerra"
+    },
+    {
+      "id": "1991-filesa-investigacion",
+      "date": "1991",
+      "datePrecision": "year",
+      "stage": "iv-gonzalez",
+      "title": "Sale a la luz la financiación investigada en Filesa",
+      "category": "corrupcion",
+      "summary": "La investigación de empresas vinculadas a la financiación del PSOE abrió una crisis que continuó en los tribunales. Los fallos posteriores tienen entradas independientes.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "filesa-revelacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "filesa",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "1991",
+      "relatedStages": [
+        "iii-gonzalez"
+      ]
+    },
+    {
+      "id": "1992-05-18-ibercorp",
+      "date": "1992-05-18",
+      "datePrecision": "day",
+      "stage": "iv-gonzalez",
+      "title": "Ibercorp provoca exigencias de explicación parlamentaria",
+      "category": "corrupcion",
+      "summary": "El PP reclamó comparecencias del ministro Carlos Solchaga y del gobernador Mariano Rubio para aclarar las operaciones del grupo financiero.",
+      "attribution": "Se registra la exigencia de responsabilidad política de la oposición; no prueba por sí sola delitos del ministro o del presidente.",
+      "sources": [
+        "ibercorp-comparecencias"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "ibercorp",
+      "judicialStatus": "controversia-parlamentaria",
+      "statusAtSource": "1992-05-18"
+    },
+    {
+      "id": "1993-12-28-banesto",
+      "date": "1993-12-28",
+      "datePrecision": "day",
+      "stage": "v-gonzalez",
+      "title": "Intervención de Banesto",
+      "category": "crisis",
+      "summary": "El Banco de España sustituyó al consejo de administración de Mario Conde ante el deterioro patrimonial del banco, abriendo una operación de saneamiento.",
+      "attribution": "Decisión del supervisor bancario durante el Gobierno de González. La corrupción empresarial investigada no es automáticamente corrupción del Consejo de Ministros.",
+      "sources": [
+        "banesto-intervencion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "1993-11-roldan-revelacion",
+      "date": "1993-11",
+      "datePrecision": "month",
+      "stage": "v-gonzalez",
+      "title": "Revelaciones sobre el patrimonio de Luis Roldán",
+      "category": "corrupcion",
+      "summary": "Las informaciones sobre el director de la Guardia Civil abrieron una crisis por presuntas comisiones y desvíos de fondos, anterior a su fuga y captura.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "roldan-fuga"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "roldan",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "1993-11"
+    },
+    {
+      "id": "1994-04-roldan-fuga",
+      "date": "1994-04",
+      "datePrecision": "month",
+      "stage": "v-gonzalez",
+      "title": "Fuga del exdirector de la Guardia Civil",
+      "category": "corrupcion",
+      "summary": "Roldán huyó de España mientras era investigado. La desaparición agravó la crisis de confianza en Interior y en el Ejecutivo.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "roldan-fuga"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "roldan",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "1994-04"
+    },
+    {
+      "id": "1995-02-roldan-captura",
+      "date": "1995-02",
+      "datePrecision": "month",
+      "stage": "v-gonzalez",
+      "title": "Detención de Roldán en Bangkok",
+      "category": "corrupcion",
+      "summary": "La captura puso fin a unos diez meses de fuga; no cerró las investigaciones sobre fondos reservados y enriquecimiento ilícito.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "roldan-fuga"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "roldan",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "1995-02"
+    },
+    {
+      "id": "1994-05-04-dimisiones-asuncion-albero",
+      "date": "1994-05-04",
+      "datePrecision": "day",
+      "stage": "v-gonzalez",
+      "title": "Crisis de Gobierno: Asunción y Albero",
+      "category": "corrupcion",
+      "summary": "La fuga de Roldán y las revelaciones sobre operaciones financieras desencadenaron las salidas del titular de Interior y del ministro de Agricultura.",
+      "attribution": "Crisis política por dos asuntos diferentes. No confundir una dimisión con una condena penal; la noticia se publicó al día siguiente.",
+      "sources": [
+        "crisis-mayo-1994"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "crisis-ministerial-1994"
+    },
+    {
+      "id": "1995-06-15-cesid-manglano",
+      "date": "1995-06-15",
+      "datePrecision": "day",
+      "stage": "v-gonzalez",
+      "title": "Sale el director del CESID por las escuchas",
+      "category": "corrupcion",
+      "summary": "González aceptó la dimisión de Emilio Alonso Manglano tras revelarse grabaciones de conversaciones por los servicios de inteligencia.",
+      "attribution": "Responsabilidad política e institucional por las escuchas; no se presenta como condena penal de los ministros o del presidente.",
+      "sources": [
+        "cesid-manglano"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "escuchas-cesid"
+    },
+    {
+      "id": "1995-06-cesid-serra-vargas",
+      "date": "1995-06",
+      "datePrecision": "month",
+      "stage": "v-gonzalez",
+      "title": "Dimisiones de Narcís Serra y Julián García Vargas",
+      "category": "corrupcion",
+      "summary": "El escándalo de las escuchas del CESID alcanzó al vicepresidente y al ministro de Defensa, que abandonaron el Ejecutivo.",
+      "attribution": "Dimisiones ministeriales por responsabilidad política, distintas de la atribución penal de las interceptaciones.",
+      "sources": [
+        "cesid-crisis-gobiernos"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "escuchas-cesid"
+    },
+    {
+      "id": "1996-02-08-cesid-archivo",
+      "date": "1996-02-08",
+      "datePrecision": "day",
+      "stage": "v-gonzalez",
+      "title": "Archivo judicial de una causa por las escuchas del CESID",
+      "category": "corrupcion",
+      "summary": "La instructora consideró que las grabaciones examinadas se encuadraban en la vigilancia del espacio radioeléctrico. El archivo no elimina las dimisiones políticas anteriores.",
+      "attribution": "Estado del procedimiento identificado a esa fecha. No extender este archivo a todas las piezas ni a resoluciones posteriores sobre escuchas.",
+      "sources": [
+        "cesid-archivo-1996"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "escuchas-cesid",
+      "judicialStatus": "archivo-segun-prensa",
+      "statusAtSource": "1996-02-08"
+    },
+    {
+      "id": "2001-06-14-gescartera",
+      "date": "2001-06-14",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Intervención de Gescartera",
+      "category": "corrupcion",
+      "summary": "La CNMV intervino la agencia de valores ante las dificultades para localizar los fondos de clientes. El caso desembocó en dimisiones de responsables de Hacienda y del supervisor.",
+      "attribution": "Crisis de supervisión y responsabilidades políticas. No atribuye al presidente las responsabilidades penales de los gestores de la agencia.",
+      "sources": [
+        "gescartera-claves"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "gescartera"
+    },
+    {
+      "id": "1985-06-20-huelga-pensiones",
+      "date": "1985-06-20",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Huelga contra la reforma de las pensiones",
+      "category": "crisis",
+      "summary": "La convocatoria de CCOO protestó contra los cambios en el acceso y cálculo de las pensiones.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "1992-05-28-huelga-parcial",
+      "date": "1992-05-28",
+      "datePrecision": "day",
+      "stage": "iv-gonzalez",
+      "title": "Paro general contra la política social",
+      "category": "crisis",
+      "summary": "La protesta sindical cuestionó cambios en la protección por desempleo y la política económica.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "1994-01-27-huelga-reforma-laboral",
+      "date": "1994-01-27",
+      "datePrecision": "day",
+      "stage": "v-gonzalez",
+      "title": "Huelga contra la reforma laboral",
+      "category": "crisis",
+      "summary": "Las centrales sindicales convocaron una nueva huelga contra la reforma del mercado de trabajo.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2002-06-20-huelga-decretazo",
+      "date": "2002-06-20",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Huelga contra la reforma del desempleo",
+      "category": "crisis",
+      "summary": "La protesta sindical se dirigió contra el llamado decretazo del Gobierno de Aznar.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2010-09-29-huelga-laboral",
+      "date": "2010-09-29",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Huelga general contra la reforma laboral",
+      "category": "crisis",
+      "summary": "La reforma y el ajuste económico del Gobierno de Zapatero rompieron la concertación con los sindicatos.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2012-03-29-huelga-laboral",
+      "date": "2012-03-29",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Huelga general contra la reforma laboral",
+      "category": "crisis",
+      "summary": "Los sindicatos respondieron a la reforma del Gobierno de Rajoy con una huelga general.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2012-11-14-huelga-austeridad",
+      "date": "2012-11-14",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Huelga general contra los recortes",
+      "category": "crisis",
+      "summary": "La protesta se enmarcó en la movilización europea contra las políticas de austeridad.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "huelgas-democracia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2002-07-17-perejil",
+      "date": "2002-07-17",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Intervención militar en Perejil",
+      "category": "crisis",
+      "summary": "La operación española desalojó al destacamento marroquí del islote tras varios días de tensión diplomática. No se registraron bajas en el desalojo.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "perejil-operacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "exterior-y-defensa"
+      ]
+    },
+    {
+      "id": "2014-07-15-faisan-supremo",
+      "date": "2014-07-15",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "El Supremo confirma las condenas del caso Faisán",
+      "category": "corrupcion",
+      "summary": "Se ratificó la condena de dos mandos policiales por revelar la operación contra una red de extorsión en 2006; se mantuvo la absolución por colaboración terrorista.",
+      "attribution": "Condenas individuales de Enrique Pamies y José María Ballesteros; no son una condena de Rubalcaba ni de Zapatero. La resolución es posterior a los hechos.",
+      "sources": [
+        "faisan-casacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "faisan",
+      "judicialStatus": "condena-segun-prensa",
+      "statusAtSource": "2014-07-15",
+      "relatedStages": [
+        "x-rajoy"
+      ]
+    },
+    {
+      "id": "2006-12-30-t4",
+      "date": "2006-12-30",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Atentado de ETA en la T4 de Barajas",
+      "category": "crisis",
+      "summary": "La explosión mató a dos personas y quebró el proceso de diálogo abierto durante la tregua de 2006.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "t4-atentado"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "interior-y-seguridad"
+      ]
+    },
+    {
+      "id": "2009-01-recesion",
+      "date": "2009-01",
+      "datePrecision": "month",
+      "stage": "ix-zapatero",
+      "title": "España entra en recesión",
+      "category": "crisis",
+      "summary": "La caída de la actividad y el aumento del desempleo alteraron las prioridades del Ejecutivo y dieron paso a rescates financieros y ajustes posteriores.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "zapatero-crisis-economica"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos",
+        "trabajo"
+      ]
+    },
+    {
+      "id": "2009-03-29-ccm",
+      "date": "2009-03-29",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Intervención de Caja Castilla-La Mancha",
+      "category": "crisis",
+      "summary": "El Banco de España intervino CCM, primer gran rescate de una caja durante la crisis financiera.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "zapatero-crisis-economica"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2010-12-04-controladores",
+      "date": "2010-12-04",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Estado de alarma por el cierre del espacio aéreo",
+      "category": "crisis",
+      "summary": "El Gobierno declaró el primer estado de alarma de la democracia y sometió a los controladores a la dirección militar para restablecer el servicio.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "controladores-alarma"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "infraestructuras-y-sectores",
+        "trabajo",
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2011-05-15-15m",
+      "date": "2011-05-15",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Inicio del movimiento 15-M",
+      "category": "crisis",
+      "summary": "Las manifestaciones y acampadas expresaron el malestar por la crisis económica, el desempleo y el funcionamiento de la representación política.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "movimiento-15m"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "territorio-e-instituciones",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2011-10-20-eta-cese",
+      "date": "2011-10-20",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "ETA anuncia el cese definitivo de su actividad armada",
+      "category": "institucional",
+      "summary": "El anuncio abrió una etapa sin atentados de la organización. El desarme y la disolución llegarían años después.",
+      "attribution": "Hito de alcance colectivo: víctimas, sociedad civil, actuaciones policiales y judiciales y cooperación internacional. No se atribuye en exclusiva a un presidente.",
+      "sources": [
+        "eta-cese-armado"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "interior-y-seguridad"
+      ]
+    },
+    {
+      "id": "2013-07-18-campeon-archivo",
+      "date": "2013-07-18",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Archivo de la causa contra José Blanco en Campeón",
+      "category": "corrupcion",
+      "summary": "El Supremo no apreció presión suficiente para alterar la actuación administrativa investigada. El archivo puso fin a la imputación del exministro en esta causa.",
+      "attribution": "El archivo afecta a José Blanco en el procedimiento identificado; no determina el desenlace de todas las actuaciones contra otros implicados.",
+      "sources": [
+        "campeon-archivo"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "campeon-blanco",
+      "judicialStatus": "archivo-segun-prensa",
+      "statusAtSource": "2013-07-18",
+      "relatedStages": [
+        "x-rajoy"
+      ]
+    },
+    {
+      "id": "2012-05-09-bfa-bankia",
+      "date": "2012-05-09",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "El Estado toma el control de BFA, matriz de Bankia",
+      "category": "crisis",
+      "summary": "La conversión de ayudas públicas en capital situó al Estado al frente de BFA y de su participación en Bankia, en plena crisis bancaria.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "bankia-saneamiento"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2013-01-31-papeles-barcenas",
+      "date": "2013-01-31",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Publicación de los papeles de Bárcenas",
+      "category": "corrupcion",
+      "summary": "Las anotaciones difundidas por El País desencadenaron una crisis por la presunta contabilidad paralela del PP. El partido negó su veracidad.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "barcenas-cronologia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "barcenas-caja-b",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "2013-01-31"
+    },
+    {
+      "id": "2013-06-27-barcenas-prision",
+      "date": "2013-06-27",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Bárcenas ingresa en prisión provisional",
+      "category": "corrupcion",
+      "summary": "El juez acordó prisión para el extesorero en la investigación de Gürtel, en medio de la controversia sobre cuentas en Suiza y financiación del PP.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "barcenas-cronologia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "barcenas-caja-b",
+      "judicialStatus": "prision-provisional-historica",
+      "statusAtSource": "2013-06-27"
+    },
+    {
+      "id": "2013-07-15-barcenas-declaracion",
+      "date": "2013-07-15",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Bárcenas reconoce ante el juez la contabilidad paralela",
+      "category": "corrupcion",
+      "summary": "El extesorero se atribuyó los apuntes y relató supuestos pagos a dirigentes; esas declaraciones eran pruebas por contrastar, no una sentencia contra cada persona citada.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "barcenas-cronologia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "barcenas-caja-b",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "2013-07-15"
+    },
+    {
+      "id": "2013-08-01-barcenas-congreso",
+      "date": "2013-08-01",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Rajoy comparece por el caso Bárcenas",
+      "category": "corrupcion",
+      "summary": "El presidente negó la financiación ilegal y rechazó dimitir. La oposición consideró insuficientes las explicaciones y reclamó responsabilidades políticas.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "barcenas-congreso"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "barcenas-caja-b",
+      "judicialStatus": "controversia-parlamentaria",
+      "statusAtSource": "2013-08-01"
+    },
+    {
+      "id": "2014-10-27-punica",
+      "date": "2014-10-27",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Operación Púnica y crisis de confianza en cargos públicos",
+      "category": "corrupcion",
+      "summary": "La operación detuvo a responsables municipales y autonómicos, entre ellos Francisco Granados, por presuntas comisiones en adjudicaciones.",
+      "attribution": "Investigación municipal y autonómica, con implicados de distintas formaciones. Se registra su impacto en el partido del Gobierno, sin trasladar al Ejecutivo central la autoría de los contratos.",
+      "sources": [
+        "punica-inicio"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "punica",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "2014-10-27"
+    },
+    {
+      "id": "2016-04-15-soria",
+      "date": "2016-04-15",
+      "datePrecision": "day",
+      "stage": "xi-rajoy",
+      "title": "Dimisión de Soria por sus vínculos con sociedades offshore",
+      "category": "corrupcion",
+      "summary": "El ministro de Industria en funciones abandonó sus cargos tras las contradicciones en sus explicaciones sobre empresas familiares y los papeles de Panamá.",
+      "attribution": "Dimisión política. Tener o aparecer en una sociedad offshore no acredita por sí solo un delito ni una condena.",
+      "sources": [
+        "soria-dimision"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "soria-offshore"
+    },
+    {
+      "id": "2016-01-22-rajoy-declina",
+      "date": "2016-01-22",
+      "datePrecision": "day",
+      "stage": "xi-rajoy",
+      "title": "Rajoy declina presentarse a la investidura",
+      "category": "crisis",
+      "summary": "El presidente en funciones comunicó al rey que carecía de apoyos para obtener la confianza de la Cámara.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "investiduras-2016"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2016-03-04-sanchez-investidura-fallida",
+      "date": "2016-03-04",
+      "datePrecision": "day",
+      "stage": "xi-rajoy",
+      "title": "Fracasa la investidura de Sánchez con el pacto PSOE–Ciudadanos",
+      "category": "crisis",
+      "summary": "La segunda votación no reunió apoyos suficientes y prolongó el bloqueo mientras Rajoy seguía en funciones.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "investiduras-2016"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2016-09-02-rajoy-investidura-fallida",
+      "date": "2016-09-02",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "Rajoy tampoco supera su primera investidura de 2016",
+      "category": "crisis",
+      "summary": "El acuerdo con Ciudadanos no bastó frente al rechazo socialista y de otros grupos. La situación mantuvo el Gobierno en funciones.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "investidura-rajoy-fallida"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2016-10-29-rajoy-investidura",
+      "date": "2016-10-29",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "La abstención del PSOE permite investir a Rajoy",
+      "category": "institucional",
+      "summary": "La segunda votación terminó el bloqueo tras dos elecciones generales. Quince diputados socialistas votaron contra el criterio de abstención de su partido.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "pactos-investiduras"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2017-04-19-lezo",
+      "date": "2017-04-19",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "Detención de Ignacio González y Operación Lezo",
+      "category": "corrupcion",
+      "summary": "La investigación sobre el Canal de Isabel II alcanzó al expresidente madrileño y abrió una nueva crisis por supuestos desvíos y comisiones.",
+      "attribution": "Hechos vinculados a una empresa pública autonómica. La entrada recoge su repercusión nacional y en el PP; no atribuye al Gobierno central los contratos del Canal.",
+      "sources": [
+        "lezo-registros"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "lezo",
+      "judicialStatus": "investigacion-historica",
+      "statusAtSource": "2017-04-19"
+    },
+    {
+      "id": "2018-05-24-guertel-audiencia",
+      "date": "2018-05-24",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "La primera sentencia de Gürtel desata la crisis del Gobierno",
+      "category": "corrupcion",
+      "summary": "La Audiencia Nacional comunicó condenas penales individuales y la responsabilidad civil del PP como partícipe a título lucrativo. El fallo desencadenó la moción de censura.",
+      "attribution": "Hechos de 1999–2005; sentencia dictada el 17 de mayo y difundida el 24. La casación de 2020 tiene entrada propia. La responsabilidad civil del PP no es una condena penal de Rajoy.",
+      "sources": [
+        "guertel-sentencia-2018"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "guertel-primera-epoca",
+      "judicialStatus": "sentencia-revisada-posteriormente",
+      "statusAtSource": "2018-05-24",
+      "relatedStages": [
+        "vi-aznar",
+        "vii-aznar"
+      ],
+      "displayStages": [
+        {
+          "stage": "xii-rajoy",
+          "reason": "La sentencia de 2018 y sus consecuencias parlamentarias afectaron directamente a esta presidencia; los hechos originales son anteriores."
+        }
+      ]
+    },
+    {
+      "id": "2024-11-15-genova-caja-b",
+      "date": "2024-11-15",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "El Supremo confirma pagos en negro en la reforma de Génova",
+      "category": "corrupcion",
+      "summary": "La casación mantuvo el núcleo de la condena por el fraude fiscal de las obras y rebajó penas por dilaciones. Es una pieza distinta de la primera época de Gürtel.",
+      "attribution": "Obras y hechos tributarios de 2007: etapa de Zapatero y dirección de Rajoy en el PP. Responsabilidades penales individuales y civil subsidiaria del partido; no condena del presidente.",
+      "sources": [
+        "genova-supremo-2024"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "barcenas-caja-b",
+      "judicialStatus": "condena-segun-prensa",
+      "statusAtSource": "2024-11-15",
+      "relatedStages": [
+        "xv-sanchez",
+        "viii-zapatero"
+      ]
+    },
+    {
+      "id": "2018-09-11-monton",
+      "date": "2018-09-11",
+      "datePrecision": "day",
+      "stage": "xii-sanchez",
+      "title": "Dimisión de Carmen Montón por la controversia del máster",
+      "category": "corrupcion",
+      "summary": "La ministra de Sanidad renunció ante las informaciones sobre irregularidades académicas, mientras defendía que no había actuado de forma indebida.",
+      "attribution": "Responsabilidad política por la controversia académica. Esta entrada no la presenta como condena penal; incorporar separadamente los archivos judiciales.",
+      "sources": [
+        "monton-dimision"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "monton-master"
+    },
+    {
+      "id": "2019-07-25-investidura-fallida",
+      "date": "2019-07-25",
+      "datePrecision": "day",
+      "stage": "xiii-sanchez",
+      "title": "Investidura fallida y ruptura de la negociación con Unidas Podemos",
+      "category": "crisis",
+      "summary": "Sánchez no logró la confianza del Congreso tras fracasar el acuerdo sobre la coalición. El Gobierno continuó en funciones.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "sanchez-investidura-2019"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2022-03-18-sahara",
+      "date": "2022-03-18",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Giro español hacia la propuesta marroquí sobre el Sáhara",
+      "category": "exterior",
+      "summary": "Se hizo público el apoyo de Sánchez al plan de autonomía marroquí como base para una solución, con rechazo del Polisario y desacuerdos parlamentarios.",
+      "attribution": "Cambio diplomático, no resolución de la soberanía ni reconocimiento de una solución ya ejecutada. Sus efectos y críticas deben distinguirse del objetivo declarado.",
+      "sources": [
+        "sahara-giro-2022"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "exterior-y-defensa"
+      ]
+    },
+    {
+      "id": "2022-05-10-pegasus",
+      "date": "2022-05-10",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Cese de Paz Esteban en la crisis de Pegasus",
+      "category": "crisis",
+      "summary": "El Gobierno relevó a la directora del CNI tras las revelaciones sobre espionaje a independentistas y la intrusión en teléfonos de miembros del Ejecutivo.",
+      "attribution": "Son ámbitos de espionaje diferentes: no atribuir automáticamente a un mismo autor las intervenciones con autorización judicial y las intrusiones denunciadas por el Gobierno.",
+      "sources": [
+        "pegasus-cese"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "interior-y-seguridad",
+        "justicia-y-derechos"
+      ]
+    },
+    {
+      "id": "2022-06-08-argelia",
+      "date": "2022-06-08",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Argelia suspende el tratado de amistad con España",
+      "category": "crisis",
+      "summary": "La decisión argelina respondió al giro sobre el Sáhara y abrió una crisis diplomática y comercial con un importante proveedor de gas.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "argelia-tratado"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "exterior-y-defensa",
+        "energia-y-medio-ambiente"
+      ]
+    },
+    {
+      "id": "2024-05-21-argentina",
+      "date": "2024-05-21",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Retirada de la embajadora en Buenos Aires",
+      "category": "crisis",
+      "summary": "El choque con Javier Milei por sus declaraciones en Madrid llevó al Gobierno a retirar a su embajadora. La medida no supuso por sí sola la ruptura total de relaciones.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "argentina-retirada"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "exterior-y-defensa"
+      ]
+    },
+    {
+      "id": "2026-vivienda-diagnostico",
+      "date": "2026",
+      "datePrecision": "year",
+      "stage": "xv-sanchez",
+      "title": "Presión de precios y escasez de oferta de vivienda",
+      "category": "crisis",
+      "summary": "El Banco de España relacionó el encarecimiento residencial con una demanda vigorosa y una construcción insuficiente frente a la creación de hogares.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "vivienda-bde-2026"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "vivienda",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2026-10-02-vivienda-rechazo",
+      "date": "2026-10-02",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "El Congreso rechaza dos decretos de vivienda",
+      "category": "crisis",
+      "summary": "La falta de apoyos, incluidos los votos contrarios de PP, Vox y Junts, hizo decaer las medidas y agravó la crisis parlamentaria sobre el acceso a la vivienda.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "vivienda-rechazo-2026"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "vivienda",
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2026-10-06-vivienda-nuevas-medidas",
+      "date": "2026-10-06",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "El Gobierno vuelve a aprobar medidas de vivienda",
+      "category": "institucional",
+      "summary": "El Consejo de Ministros retomó medidas sobre alquileres y protección habitacional tras la derrota parlamentaria. Su aprobación no acredita todavía resultados sobre los precios.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "vivienda-nuevas-medidas"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "vivienda",
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "2026-10-13-ceuta-apoyo",
+      "date": "2026-10-13",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Medidas extraordinarias de apoyo financiero a Ceuta",
+      "category": "institucional",
+      "summary": "El Consejo de Ministros aprobó apoyo financiero extraordinario para la ciudad. La referencia registra la decisión, no una evaluación de los resultados de su ejecución.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "moncloa-octubre-2026"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "territorio-e-instituciones",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2026-10-13-gavi-vacunacion",
+      "date": "2026-10-13",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Autorización de una contribución plurianual a GAVI",
+      "category": "exterior",
+      "summary": "El Ejecutivo autorizó 130 millones de euros para vacunación internacional durante 2026–2040. El compromiso plurianual no equivale a un desembolso íntegro en 2026.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "moncloa-octubre-2026"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "exterior-y-defensa",
+        "sanidad"
+      ]
+    },
+    {
+      "id": "2026-02-26-fiscal-nulidad",
+      "date": "2026-02-26",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "El Supremo rechaza anular la condena de García Ortiz",
+      "category": "corrupcion",
+      "summary": "El tribunal desestimó el incidente contra la condena del ex fiscal general por revelación de secretos. La controversia continuó en la vía constitucional.",
+      "attribution": "Condena del ex fiscal general, no del presidente. La Fiscalía y la defensa discrepan del fallo; un recurso no equivale a una anulación.",
+      "sources": [
+        "garcia-ortiz-nulidad"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "garcia-ortiz",
+      "judicialStatus": "incidentes-de-nulidad-desestimados-segun-prensa",
+      "statusAtSource": "2026-02-26"
+    },
+    {
+      "id": "2026-04-10-fiscal-amparo",
+      "date": "2026-04-10",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "La Fiscalía recurre en amparo la condena de García Ortiz",
+      "category": "corrupcion",
+      "summary": "El recurso solicitó al Constitucional anular el fallo por vulneraciones de derechos. La presentación no supone que el tribunal haya estimado el amparo.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "garcia-ortiz-amparo"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "garcia-ortiz",
+      "judicialStatus": "recurso-pendiente-segun-fuente",
+      "statusAtSource": "2026-04-10"
+    },
+    {
+      "id": "2026-04-13-gomez-procesamiento",
+      "date": "2026-04-13",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Procesamiento de Begoña Gómez y archivo parcial",
+      "category": "corrupcion",
+      "summary": "Peinado propuso continuar por cuatro delitos y archivó el supuesto intrusismo profesional. El avance procesal no es una declaración de culpabilidad.",
+      "attribution": "La causa afecta a Begoña Gómez. La repercusión política sobre el Gobierno y el parentesco no convierten a Pedro Sánchez en condenado ni en autor de los hechos.",
+      "sources": [
+        "gomez-procesamiento"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "begona-gomez",
+      "judicialStatus": "procesamiento-segun-prensa",
+      "statusAtSource": "2026-04-13"
+    },
+    {
+      "id": "2026-07-16-gomez-apelacion",
+      "date": "2026-07-16",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Revisión del juicio con jurado y devolución del pasaporte",
+      "category": "corrupcion",
+      "summary": "La Audiencia mantuvo la vía de jurado y ordenó devolver el pasaporte. La revisión procesal incluyó correcciones a las decisiones del instructor.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "gomez-jurado-apelacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "begona-gomez",
+      "judicialStatus": "juicio-oral-segun-prensa",
+      "statusAtSource": "2026-07-16"
+    },
+    {
+      "id": "2026-09-21-gomez-juicio",
+      "date": "2026-09-21",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Apertura de juicio oral contra Begoña Gómez",
+      "category": "corrupcion",
+      "summary": "El juez abrió juicio por presunto tráfico de influencias y malversación. La acusación y la defensa mantienen posiciones enfrentadas; la apertura no es una condena.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "gomez-juicio-oral"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "begona-gomez",
+      "judicialStatus": "juicio-oral-segun-prensa",
+      "statusAtSource": "2026-09-21"
+    },
+    {
+      "id": "2026-10-07-gomez-fiscalia",
+      "date": "2026-10-07",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "La Fiscalía pide la absolución de Gómez y su asesora",
+      "category": "corrupcion",
+      "summary": "El Ministerio Fiscal defendió que no hay base para la condena solicitada por otras acusaciones. Su petición no equivale a una absolución judicial ya dictada.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "gomez-fiscalia-absolucion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "begona-gomez",
+      "judicialStatus": "juicio-oral-segun-prensa",
+      "statusAtSource": "2026-10-07"
+    },
+    {
+      "id": "2026-07-14-david-sentencia",
+      "date": "2026-07-14",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Condena no firme de David Sánchez por prevaricación",
+      "category": "corrupcion",
+      "summary": "La Audiencia de Badajoz impuso nueve años de inhabilitación por prevaricación y lo absolvió de tráfico de influencias. La sentencia admitía recurso.",
+      "attribution": "Contratación en una diputación: no es una decisión del Consejo de Ministros. El fallo reseñado no acreditó que el presidente ordenara contratar a su hermano.",
+      "sources": [
+        "david-sentencia"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "david-sanchez",
+      "judicialStatus": "condena-no-firme-y-absolucion-parcial",
+      "statusAtSource": "2026-07-14"
+    },
+    {
+      "id": "2026-10-13-gallardo-recurso",
+      "date": "2026-10-13",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Gallardo recurre su condena por la contratación de David Sánchez",
+      "category": "corrupcion",
+      "summary": "El expresidente de la Diputación de Badajoz negó amaños y pidió revocar el fallo. Se documenta la posición de la defensa, sin anticipar la respuesta del tribunal.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "david-recurso"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "david-sanchez",
+      "judicialStatus": "recurso-pendiente-segun-fuente",
+      "statusAtSource": "2026-10-13"
+    },
+    {
+      "id": "2026-05-19-plus-ultra-zapatero",
+      "date": "2026-05-19",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Zapatero pasa a ser investigado en Plus Ultra",
+      "category": "corrupcion",
+      "summary": "El juez Calama lo citó por presunta organización criminal, tráfico de influencias y falsedad documental ligados a la intermediación en el rescate. Zapatero negó irregularidades.",
+      "attribution": "Investigación de la actividad del expresidente después de su mandato y del rescate autorizado durante Sánchez. No hay una condena en este hito ni se traslada culpabilidad a todo el Ejecutivo.",
+      "sources": [
+        "plus-ultra-imputacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "plus-ultra",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-05-19",
+      "displayStages": [
+        {
+          "stage": "ix-zapatero",
+          "reason": "Actividad investigada después de dejar la presidencia: no son hechos de su mandato de 2008–2011."
+        },
+        {
+          "stage": "xiv-sanchez",
+          "reason": "La ayuda pública investigada se aprobó en marzo de 2021, durante esta etapa."
+        }
+      ]
+    },
+    {
+      "id": "2026-06-17-plus-ultra-declaracion",
+      "date": "2026-06-17",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Zapatero declara y el juez rechaza las cautelares solicitadas",
+      "category": "corrupcion",
+      "summary": "El expresidente negó intervenir ilícitamente en la ayuda. El juez mantuvo la investigación, pero no impuso las medidas cautelares reclamadas.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "plus-ultra-declaracion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "plus-ultra",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-06-17",
+      "displayStages": [
+        {
+          "stage": "ix-zapatero",
+          "reason": "Actividad investigada después de dejar la presidencia: no son hechos de su mandato de 2008–2011."
+        },
+        {
+          "stage": "xiv-sanchez",
+          "reason": "La ayuda pública investigada se aprobó en marzo de 2021, durante esta etapa."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-20-plus-ultra-martinez",
+      "date": "2026-07-20",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Julio Martínez atribuye a Zapatero la intermediación",
+      "category": "corrupcion",
+      "summary": "Un escrito presentado al instructor afirmó que el expresidente dirigió gestiones para la ayuda. Se trata de una declaración de un implicado, pendiente de contraste judicial.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "plus-ultra-testimonio"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "plus-ultra",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-07-20",
+      "displayStages": [
+        {
+          "stage": "ix-zapatero",
+          "reason": "Actividad investigada después de dejar la presidencia: no son hechos de su mandato de 2008–2011."
+        },
+        {
+          "stage": "xiv-sanchez",
+          "reason": "La ayuda pública investigada se aprobó en marzo de 2021, durante esta etapa."
+        }
+      ]
+    },
+    {
+      "id": "2026-07-23-plus-ultra-defensa",
+      "date": "2026-07-23",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Zapatero defiende su inocencia y niega gestiones ante la SEPI",
+      "category": "corrupcion",
+      "summary": "En una entrevista, el expresidente rechazó la intermediación ilícita y las acusaciones sobre el rescate. Su versión se incorpora junto a las imputaciones y declaraciones contrarias.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "plus-ultra-defensa"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "plus-ultra",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-07-23",
+      "displayStages": [
+        {
+          "stage": "ix-zapatero",
+          "reason": "Actividad investigada después de dejar la presidencia: no son hechos de su mandato de 2008–2011."
+        },
+        {
+          "stage": "xiv-sanchez",
+          "reason": "La ayuda pública investigada se aprobó en marzo de 2021, durante esta etapa."
+        }
+      ]
+    },
+    {
+      "id": "2026-09-04-plus-ultra-nulidad",
+      "date": "2026-09-04",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "El instructor rechaza la nulidad solicitada por Zapatero",
+      "category": "corrupcion",
+      "summary": "La investigación siguió adelante tras desestimarse el recurso de la defensa. La decisión procesal no resuelve la culpabilidad por los hechos investigados.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "plus-ultra-recurso"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "plus-ultra",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-09-04",
+      "displayStages": [
+        {
+          "stage": "ix-zapatero",
+          "reason": "Actividad investigada después de dejar la presidencia: no son hechos de su mandato de 2008–2011."
+        },
+        {
+          "stage": "xiv-sanchez",
+          "reason": "La ayuda pública investigada se aprobó en marzo de 2021, durante esta etapa."
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-plus-ultra-filtraciones",
+      "date": "2026-10-15",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Se investigan filtraciones de datos reservados de la causa",
+      "category": "corrupcion",
+      "summary": "Un juzgado madrileño abrió diligencias sobre filtraciones del procedimiento de Plus Ultra. Es una investigación diferente de la presunta intermediación en el rescate.",
+      "attribution": "La eventual víctima de una filtración y el investigado en el procedimiento principal son posiciones procesales distintas. No se confunden ambas causas.",
+      "sources": [
+        "plus-ultra-filtraciones"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "plus-ultra-filtraciones",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-10-15",
+      "displayStages": [
+        {
+          "stage": "ix-zapatero",
+          "reason": "Actividad investigada después de dejar la presidencia: no son hechos de su mandato de 2008–2011."
+        },
+        {
+          "stage": "xiv-sanchez",
+          "reason": "La ayuda pública investigada se aprobó en marzo de 2021, durante esta etapa."
+        }
+      ]
+    },
+    {
+      "id": "1983-08-26-inundaciones-norte",
+      "date": "1983-08-26",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Inundaciones catastróficas en el norte de España",
+      "category": "crisis",
+      "summary": "Las lluvias y desbordamientos afectaron gravemente a Bilbao y otras zonas del norte, con víctimas y grandes daños que exigieron actuaciones de emergencia y reconstrucción.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "bilbao-inundaciones"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "energia-y-medio-ambiente",
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "1992-09-17-peseta-devaluacion",
+      "date": "1992-09-17",
+      "datePrecision": "day",
+      "stage": "iv-gonzalez",
+      "title": "Primera devaluación de la peseta en la crisis del SME",
+      "category": "crisis",
+      "summary": "La peseta se devaluó un 5% en medio de la presión sobre las monedas europeas. La decisión alteró las condiciones monetarias y económicas del periodo.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "peseta-1992"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos",
+        "exterior-y-defensa"
+      ]
+    },
+    {
+      "id": "1992-11-21-peseta-segunda-devaluacion",
+      "date": "1992-11-21",
+      "datePrecision": "day",
+      "stage": "iv-gonzalez",
+      "title": "Segunda devaluación de la peseta en 1992",
+      "category": "crisis",
+      "summary": "La nueva corrección del tipo de cambio mostró la persistencia de la crisis monetaria europea y de las tensiones sobre la economía española.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "peseta-1992"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos",
+        "exterior-y-defensa"
+      ]
+    },
+    {
+      "id": "2013-07-24-angrois",
+      "date": "2013-07-24",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Accidente ferroviario de Angrois",
+      "category": "crisis",
+      "summary": "El descarrilamiento del Alvia cerca de Santiago abrió una crisis sobre seguridad ferroviaria, protección de las víctimas y actuación de los responsables del sistema.",
+      "attribution": "Se documenta la catástrofe y el debate sobre la seguridad. Las condenas y absoluciones posteriores requieren sus propios hitos; no se deducen de la existencia del accidente.",
+      "sources": [
+        "angrois-aniversario"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "infraestructuras-y-sectores"
+      ]
+    },
+    {
+      "id": "2014-10-06-ebola",
+      "date": "2014-10-06",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Primer contagio de ébola detectado en España",
+      "category": "crisis",
+      "summary": "El contagio de una auxiliar que atendió a un paciente repatriado desencadenó una emergencia sanitaria y una revisión del control de infecciones y los protocolos.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "ebola-informe-sns"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "sanidad"
+      ]
+    },
+    {
+      "id": "2017-08-17-atentados-cataluna",
+      "date": "2017-08-17",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "Atentados yihadistas de Barcelona y Cambrils",
+      "category": "crisis",
+      "summary": "Los ataques abrieron una emergencia de seguridad, atención a víctimas y cooperación policial. Las responsabilidades criminales corresponden a los autores y a sus colaboradores acreditados.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "17a-aniversario"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "interior-y-seguridad"
+      ]
+    },
+    {
+      "id": "2021-01-08-filomena",
+      "date": "2021-01-08",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Filomena paraliza transportes y servicios",
+      "category": "crisis",
+      "summary": "La nevada extraordinaria provocó interrupciones de movilidad, daños y problemas de abastecimiento, con intervención de administraciones y servicios de emergencia.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "filomena-2021"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "energia-y-medio-ambiente",
+        "infraestructuras-y-sectores"
+      ]
+    },
+    {
+      "id": "2021-09-19-palma-erupcion",
+      "date": "2021-09-19",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Comienza la erupción de La Palma",
+      "category": "crisis",
+      "summary": "La erupción obligó a evacuar a residentes y destruyó viviendas, cultivos e infraestructuras. La reconstrucción y las ayudas se prolongaron durante los años siguientes.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "palma-erupcion-2021"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "energia-y-medio-ambiente",
+        "vivienda"
+      ]
+    },
+    {
+      "id": "2018-10-03-rato-black",
+      "date": "2018-10-03",
+      "datePrecision": "day",
+      "stage": "xii-sanchez",
+      "title": "Condena de Rodrigo Rato por las tarjetas black",
+      "category": "corrupcion",
+      "summary": "El Supremo confirmó cuatro años y medio de prisión por apropiación indebida mediante tarjetas de Caja Madrid y Bankia.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "rato-black-casacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "tarjetas-black",
+      "judicialStatus": "condena-segun-prensa",
+      "statusAtSource": "2018-10-03",
+      "displayStages": [
+        {
+          "stage": "vi-aznar",
+          "reason": "Rato había sido vicepresidente y ministro en esta etapa. Los hechos bancarios condenados no fueron decisiones de aquel Consejo de Ministros."
+        },
+        {
+          "stage": "vii-aznar",
+          "reason": "Antecedente biográfico del exvicepresidente; la condena afecta a su actividad bancaria posterior."
+        }
+      ]
+    },
+    {
+      "id": "2013-07-23-matas-casacion",
+      "date": "2013-07-23",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "El Supremo reduce la primera condena de Matas",
+      "category": "corrupcion",
+      "summary": "La casación rebajó de seis años a nueve meses la condena de una pieza de Palma Arena y eliminó varios delitos. No determina el desenlace de otras piezas.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "matas-casacion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "palma-arena-alemany",
+      "judicialStatus": "condenas-revisadas-en-casacion",
+      "statusAtSource": "2013-07-23",
+      "displayStages": [
+        {
+          "stage": "vii-aznar",
+          "reason": "Matas fue ministro de Medio Ambiente en esta etapa; la contratación examinada corresponde a su posterior Gobierno balear."
+        }
+      ]
+    },
+    {
+      "id": "2024-10-15-zaplana-erial",
+      "date": "2024-10-15",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Sentencia contra Zaplana en el caso Erial",
+      "category": "corrupcion",
+      "summary": "La Audiencia de Valencia impuso más de diez años de prisión por comisiones vinculadas a adjudicaciones autonómicas. El fallo de esta fecha era recurrible.",
+      "attribution": "Condena individual en primera instancia y de ámbito autonómico. No se atribuyen al Gobierno central las adjudicaciones de la Generalitat ni se supone firmeza posterior.",
+      "sources": [
+        "zaplana-erial-condena"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "erial",
+      "judicialStatus": "sentencia-no-firme-segun-prensa",
+      "statusAtSource": "2024-10-15",
+      "displayStages": [
+        {
+          "stage": "vii-aznar",
+          "reason": "Zaplana fue ministro y portavoz del Ejecutivo de Aznar; los contratos examinados proceden de su etapa como presidente valenciano."
+        }
+      ]
+    },
+    {
+      "id": "2024-05-29-camps-absolucion",
+      "date": "2024-05-29",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Camps es absuelto en la pieza de contratos de Gürtel",
+      "category": "corrupcion",
+      "summary": "La Audiencia Nacional no consideró probada una orden o sugerencia del expresidente para adjudicar a Orange Market. Es una pieza distinta de la primera época de Gürtel.",
+      "attribution": "Absolución individual por los hechos enjuiciados. Ni las condenas de otras piezas se trasladan a Camps ni esta absolución elimina las condenas de otros acusados.",
+      "sources": [
+        "camps-absolucion"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "guertel-camps-orange-market",
+      "judicialStatus": "absolucion-segun-agencia",
+      "statusAtSource": "2024-05-29"
+    },
+    {
+      "id": "2017-06-08-amnistia-fiscal-tc",
+      "date": "2017-06-08",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "El Constitucional anula la amnistía fiscal de 2012",
+      "category": "crisis",
+      "summary": "El tribunal declaró inconstitucional la declaración tributaria especial introducida mediante decreto-ley. La nulidad normativa no es una condena penal del ministro o del presidente.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "amnistia-fiscal-tc"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos",
+        "justicia-y-derechos"
+      ],
+      "relatedStages": [
+        "x-rajoy"
+      ]
+    },
+    {
+      "id": "2025-11-20-fiscal-condena",
+      "date": "2025-11-20",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "El Supremo condena a García Ortiz por revelar datos reservados",
+      "category": "corrupcion",
+      "summary": "El fallo impuso dos años de inhabilitación para el cargo de fiscal general y una multa. La condena provocó una crisis institucional y el proceso de sustitución.",
+      "attribution": "Condena del fiscal general en el ejercicio del cargo. No establece por sí sola una condena ni una orden del presidente del Gobierno; los recursos se recogen en sus fechas.",
+      "sources": [
+        "fiscal-condena-2025"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "garcia-ortiz",
+      "judicialStatus": "condena-segun-prensa",
+      "statusAtSource": "2025-11-20"
+    },
+    {
+      "id": "2026-02-02-koldo-obras-remision",
+      "date": "2026-02-02",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "La investigación de adjudicaciones pasa a la Audiencia Nacional",
+      "category": "corrupcion",
+      "summary": "Tras perder Ábalos el aforamiento, el Supremo remitió la pieza de presuntos amaños de obra pública que afecta también a Cerdán y Koldo. Es distinta del juicio de mascarillas.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "koldo-obras-remision"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "koldo-obras",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-02-02",
+      "relatedStages": [
+        "xiv-sanchez"
+      ]
+    },
+    {
+      "id": "2026-01-15-salazar-querella",
+      "date": "2026-01-15",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Inadmisión de una querella por las denuncias sobre Salazar",
+      "category": "crisis",
+      "summary": "El juzgado rechazó la querella de Hazte Oír al faltar la denuncia de las afectadas exigida para ese delito. La decisión no fue un juicio sobre la veracidad de sus testimonios.",
+      "attribution": "Crisis laboral y de respuesta del partido sobre denuncias internas de acoso. Distinguir la inadmisión por procedibilidad de una absolución tras enjuiciar los hechos.",
+      "sources": [
+        "salazar-inadmision"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "salazar-acoso",
+      "judicialStatus": "inadmision-procesal",
+      "statusAtSource": "2026-01-15"
+    },
+    {
+      "id": "2026-02-05-salazar-senado",
+      "date": "2026-02-05",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Salazar niega las acusaciones en el Senado",
+      "category": "crisis",
+      "summary": "El exresponsable de Moncloa negó haber abandonado el cargo por las denuncias y defendió su actuación, en una comparecencia que reabrió la controversia sobre la respuesta del PSOE.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "salazar-senado"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "salazar-acoso",
+      "judicialStatus": "controversia-parlamentaria",
+      "statusAtSource": "2026-02-05"
+    },
+    {
+      "id": "2026-04-16-leire-zarrias",
+      "date": "2026-04-16",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Zarrías declara como testigo en el caso Leire Díez",
+      "category": "corrupcion",
+      "summary": "El exdirigente andaluz explicó su contratación para investigar los ERE. La Fiscalía defendió que compareciera como testigo frente a la petición de imputación del PP.",
+      "attribution": "La condición de testigo de Zarrías se distingue de una imputación. La eventual actuación de Leire Díez y su vínculo con el partido requieren prueba, no se presuponen órdenes del Gobierno.",
+      "sources": [
+        "leire-zarrias-testigo"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "corrupcion-y-crisis-politica",
+        "justicia-y-derechos"
+      ],
+      "caseId": "leire-diez",
+      "judicialStatus": "investigacion-segun-prensa",
+      "statusAtSource": "2026-04-16"
+    },
+    {
+      "id": "2026-08-25-presupuestos-prorrogados",
+      "date": "2026-08-25",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Continúa el Gobierno con presupuestos prorrogados y modificaciones de crédito",
+      "category": "crisis",
+      "summary": "El balance de ejecución describe el recurso a modificaciones presupuestarias mientras seguían prorrogadas las cuentas. Modificar créditos no equivale a aprobar nuevos Presupuestos Generales del Estado.",
+      "attribution": "Acontecimiento del periodo. La inclusión documenta su relevancia pública y no implica responsabilidad penal del presidente ni valoración automática de todas las decisiones adoptadas.",
+      "sources": [
+        "presupuestos-2026-prorrogas"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "economia-y-presupuestos",
+        "territorio-e-instituciones"
+      ]
+    },
+    {
+      "id": "1998-12-30-smi-1999",
+      "date": "1998-12-30",
+      "datePrecision": "day",
+      "stage": "vi-aznar",
+      "title": "Salario mínimo (SMI) para 1999: 69.270 pesetas mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 69.270 pesetas. La fecha de esta entrada es la publicación del decreto; el año del salario es 1999.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-1998-30040"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "1999-12-31-smi-2000",
+      "date": "1999-12-31",
+      "datePrecision": "day",
+      "stage": "vi-aznar",
+      "title": "Salario mínimo (SMI) para 2000: 70.680 pesetas mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 70.680 pesetas. La fecha de esta entrada es la publicación del decreto; el año del salario es 2000.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-1999-24923"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2000-12-30-smi-2001",
+      "date": "2000-12-30",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Salario mínimo (SMI) para 2001: 72.120 pesetas mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 72.120 pesetas. La fecha de esta entrada es la publicación del decreto; el año del salario es 2001.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2000-24365"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2001-12-28-smi-2002",
+      "date": "2001-12-28",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Salario mínimo (SMI) para 2002: 442,20 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 442,20 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2002.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2001-24745"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2002-12-28-smi-2003",
+      "date": "2002-12-28",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Salario mínimo (SMI) para 2003: 451,20 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 451,20 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2003.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2002-25290"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2003-12-27-smi-2004",
+      "date": "2003-12-27",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Salario mínimo (SMI) para 2004: 460,50 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 460,50 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2004.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2003-23711"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2004-12-31-smi-2005",
+      "date": "2004-12-31",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Salario mínimo (SMI) para 2005: 513 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 513 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2005.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2004-21909"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2005-12-31-smi-2006",
+      "date": "2005-12-31",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Salario mínimo (SMI) para 2006: 540,90 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 540,90 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2006.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2005-21610"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2006-12-30-smi-2007",
+      "date": "2006-12-30",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Salario mínimo (SMI) para 2007: 570,60 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 570,60 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2007.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2006-22959"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2007-12-29-smi-2008",
+      "date": "2007-12-29",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Salario mínimo (SMI) para 2008: 600 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 600 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2008.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2007-22451"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2008-12-30-smi-2009",
+      "date": "2008-12-30",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Salario mínimo (SMI) para 2009: 624 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 624 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2009.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2008-20958"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2009-12-31-smi-2010",
+      "date": "2009-12-31",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Salario mínimo (SMI) para 2010: 633,30 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 633,30 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2010.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2009-21170"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2010-12-31-smi-2011",
+      "date": "2010-12-31",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Salario mínimo (SMI) para 2011: 641,40 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 641,40 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2011.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2010-20150"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2011-12-31-smi-2012",
+      "date": "2011-12-31",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Salario mínimo (SMI) para 2012: 641,40 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 641,40 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2012.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2011-20645"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2012-12-31-smi-2013",
+      "date": "2012-12-31",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Salario mínimo (SMI) para 2013: 645,30 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 645,30 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2013.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2012-15766"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2013-12-30-smi-2014",
+      "date": "2013-12-30",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Salario mínimo (SMI) para 2014: 645,30 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 645,30 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2014.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2013-13764"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2014-12-27-smi-2015",
+      "date": "2014-12-27",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Salario mínimo (SMI) para 2015: 648,60 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 648,60 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2015.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2014-13518"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2015-12-30-smi-2016",
+      "date": "2015-12-30",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Salario mínimo (SMI) para 2016: 655,20 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 655,20 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2016.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2015-14273"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2016-12-31-smi-2017",
+      "date": "2016-12-31",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "Salario mínimo (SMI) para 2017: 707,70 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 707,70 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2017.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2016-12598"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2017-12-30-smi-2018",
+      "date": "2017-12-30",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "Salario mínimo (SMI) para 2018: 735,9 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 735,9 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2018.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2017-15848"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2018-12-27-smi-2019",
+      "date": "2018-12-27",
+      "datePrecision": "day",
+      "stage": "xii-sanchez",
+      "title": "Salario mínimo (SMI) para 2019: 900 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 900 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2019.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2018-17773"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2020-02-05-smi-2020",
+      "date": "2020-02-05",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Salario mínimo (SMI) para 2020: 950 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 950 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2020.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2020-1652"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2021-09-29-smi-2021",
+      "date": "2021-09-29",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Salario mínimo (SMI) para 2021: 965 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 965 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2021.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2021-15770"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2022-02-23-smi-2022",
+      "date": "2022-02-23",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Salario mínimo (SMI) para 2022: 1.000 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 1.000 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2022.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2022-2851"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2023-02-15-smi-2023",
+      "date": "2023-02-15",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Salario mínimo (SMI) para 2023: 1080 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 1080 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2023.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2023-3982"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2024-02-07-smi-2024",
+      "date": "2024-02-07",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Salario mínimo (SMI) para 2024: 1.134 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 1.134 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2024.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2024-2251"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2025-02-12-smi-2025",
+      "date": "2025-02-12",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Salario mínimo (SMI) para 2025: 1184 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 1184 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2025.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2025-2576"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
+    },
+    {
+      "id": "2026-02-19-smi-2026",
+      "date": "2026-02-19",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Salario mínimo (SMI) para 2026: 1 221 euros mensuales",
+      "category": "economico",
+      "summary": "El artículo 1 fija el importe mensual nominal en 1 221 euros. La fecha de esta entrada es la publicación del decreto; el año del salario es 2026.",
+      "attribution": "Decisión reglamentaria del Gobierno. La cuantía nominal no demuestra por sí sola una mejora del poder adquisitivo: debe contrastarse con inflación, jornada, pagas y efectos sobre el empleo. No se utiliza la cuantía mensual como salario neto ni como importe con pagas extraordinarias prorrateadas.",
+      "sources": [
+        "smi-boe-a-2026-3815"
+      ],
+      "pending": [],
+      "verification": "articulo-primero-publicacion-original",
+      "reviewedAt": "2026-10-17",
+      "topics": [
+        "trabajo",
+        "economia-y-presupuestos"
+      ]
     }
   ]
 }

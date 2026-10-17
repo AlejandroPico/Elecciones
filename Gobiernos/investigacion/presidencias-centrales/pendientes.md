@@ -2,7 +2,7 @@
 
 Primera entrega: **17 de octubre de 2026**. Este documento es una agenda de investigación, no una lista de hechos probados ni de personas culpables. El dossier contiene 80 hitos seleccionados; no representa todos los acontecimientos de cada presidencia.
 
-## Prioridades de investigación y próximas ampliaciones
+## Prioridades históricas de la primera selección de investigación y próximas ampliaciones
 
 1. **Cerrar la base temporal.** Contrastar cada investidura, decreto, publicación, toma de posesión, cese y periodo en funciones. Incorporar los límites parlamentarios del Congreso y explicar diferencias de criterio. No calcular duraciones con los rótulos anuales del índice. La tabla de Presidencia y los decretos pueden usar fechas distintas: conservar qué mide cada una. Confirmar las convocatorias y los ceses de 2026 mediante BOE antes de etiquetar una presidencia como vigente o en funciones.
 2. **Ampliar por años.** Hacer una segunda pasada anual y por materias, conservando una matriz de años revisados, fuentes consultadas y lagunas. El material actual permite empezar esa revisión, pero no acredita un recorrido semana a semana. Un año sin entrada no implica ausencia de decisiones, crisis o corrupción.
@@ -63,3 +63,14 @@ Las candidaturas y sus programas, los parlamentos autonómicos y las biografías
 ## Condiciones de publicación y ampliación
 
 El usuario autorizó publicar la primera selección en la versión 0.24. El expediente permanece en investigación y la pantalla conserva fuentes y pendientes. Verificar, para cada ampliación, fuente concreta, fecha y precisión, atribución, relación con el caso, evolución judicial y texto comprensible. Registrar cuándo se revisó cada cambio. Las fotografías se enlazan desde `Políticos/`, sin duplicarlas aquí; la web enlaza las fuentes de cada afirmación. La investigación y sus resultados se conservan aunque el diseño futuro cambie.
+
+
+## Estado después de la ampliación 0.25
+
+- Se han incorporado 200 acontecimientos desarrollados y 3.085 fichas documentales de normas. Las antiguas tablas de esta nota describen el punto de partida; no sustituyen los registros actualizados.
+- Hay entradas nuevas sobre las fases públicas de Bárcenas, Gürtel de 2018, Génova, Roldán, Ibercorp, CESID, Gescartera, Púnica, Lezo, Soria, Faisán, Campeón, antiguos ministros y emergencias. Sigue pendiente completar sus fallos originales, piezas e itinerarios procesales, con actualización individual.
+- Begoña Gómez, David Sánchez, García Ortiz y Plus Ultra ya disponen de hitos propios. Se recogen defensas, archivos parciales, absoluciones y recursos cuando constan; falta seguir todas las resoluciones posteriores y obtener originales que solo están reseñados en hemeroteca.
+- Se ha añadido la remisión a la Audiencia Nacional de la pieza de obras de Ábalos, Cerdán y Koldo en febrero de 2026. La información de 2025 sigue identificada como hito histórico; la condena de mascarillas no se extiende a la pieza de obras.
+- El catálogo normativo cubre todos los años y se distribuye en un registro semanal reproducible. **La revisión de prensa semana por semana permanece pendiente**: la presencia de una ley en una semana no acredita revisión de sus otras crisis, conflictos o resultados.
+- La cantidad total supera ampliamente la selección original, pero la mayor parte de la ampliación corresponde a normas documentadas por sus metadatos. No presentar 3.285 entradas como 3.285 análisis exhaustivos ni como un censo completo de escándalos.
+- Profundizar en empleo, salarios reales, presupuestos ejecutados, inflación, deuda y vivienda mediante series y evaluaciones; comparar decisiones con resultados y costes, sin atribución exclusiva al presidente. Completar conflictos exteriores, crisis internas de partido y advertencias previas sobre legislación.

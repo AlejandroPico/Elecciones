@@ -6,7 +6,7 @@ import argparse
 import json
 import re
 from collections import Counter
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -41,6 +41,8 @@ def render() -> str:
     sources = indexed(source_file['sources'], 'fuentes')
     events = indexed(event_file['events'], 'eventos')
     stages = indexed(stage_file['stages'], 'etapas')
+    norm_file = read('normativa.json')
+    norms = indexed([{**norm, 'id': norm['id'].lower()} for norm in norm_file['norms']], 'normativa')
     cutoff = event_file['checkedAt']
     date.fromisoformat(cutoff)
     used_sources = set()
@@ -72,6 +74,10 @@ def render() -> str:
         if event['reviewedAt'] > cutoff:
             raise ValueError(f'Revisión posterior al corte: {event["id"]}')
         stage_ids = [event['stage'], *event.get('relatedStages', [])]
+        for link in event.get('displayStages', []):
+            if not link.get('reason'):
+                raise ValueError(f'Vínculo sin explicación: {event["id"]}')
+            stage_ids.append(link['stage'])
         if event.get('stageAtMilestone'):
             stage_ids.append(event['stageAtMilestone'])
         for stage in stage_ids:
@@ -86,23 +92,49 @@ def render() -> str:
         if event.get('judicialStatus') and not event.get('statusAtSource'):
             raise ValueError(f'Estado judicial sin fecha: {event["id"]}')
     kinds = Counter(source['kind'] for source in sources.values())
+    for norm in norms.values():
+        validate_date(norm['date'], 'day')
+        if norm['stage'] not in stages or norm['date'] > cutoff or norm['id'] in events:
+            raise ValueError(f'Registro normativo inválido: {norm["id"]}')
+        if not norm['title'] or not norm['officialTitle'] or not norm['topics']:
+            raise ValueError(f'Registro normativo incompleto: {norm["id"]}')
+    weeks = read('cobertura-semanal.json')['weeks']
+    previous = date(1975, 11, 19)
+    weekly_norms = []
+    for week in weeks:
+        start, end = date.fromisoformat(week['from']), date.fromisoformat(week['until'])
+        if start != previous + timedelta(days=1) or end < start or (end-start).days > 6:
+            raise ValueError('Hueco o solapamiento en el registro semanal')
+        previous = end
+        for ref in week['norms']:
+            if ref.lower() not in norms or not week['from'] <= norms[ref.lower()]['date'] <= week['until']:
+                raise ValueError(f'Referencia semanal normativa incoherente: {ref}')
+            weekly_norms.append(ref.lower())
+        for ref in week['events']:
+            if ref not in events or not week['from'] <= events[ref]['date'] <= week['until']:
+                raise ValueError(f'Referencia semanal editorial incoherente: {ref}')
+    if previous.isoformat() != cutoff or sorted(weekly_norms) != sorted(norms):
+        raise ValueError('Registro semanal incompleto o duplicado')
     lines = [
         '# Presidencias centrales: cronología documentada', '',
-        f'Corte de consulta: **{cutoff}**. **Primera pasada parcial; investigación en curso.**', '',
+        f'Corte de consulta: **{cutoff}**. **Investigación ampliada; cobertura hemerográfica parcial.**', '',
         f'Este expediente reúne **{len(events)} hechos**, **{len(sources)} referencias** '
         f'({kinds["primary"]} primarias, {kinds["agency"]} de agencia y {kinds["secondary"]} periodísticas) '
-        f'y un índice de **{len(stages)} etapas**. Las cifras describen cobertura, no una valoración política.', '',
+        f'y un índice de **{len(stages)} etapas**. Se añade un catálogo separado de **{len(norms)} disposiciones** '
+        'identificadas por sus metadatos del BOE. Las cifras describen cobertura, no una valoración política.', '',
         'Los hechos se agrupan por la administración de origen. Cuando una sentencia o actualización llega después, '
         'se muestra también la etapa de resolución. Los rótulos anuales no son intervalos jurídicos ni duraciones exactas. '
         'Una fecha de consulta reciente no convierte una resolución antigua en el estado judicial vigente.', '',
         'Criterios: [investigacion.md](investigacion.md). Lagunas y siguiente revisión: [pendientes.md](pendientes.md). '
-        'La versión 0.24 presenta esta selección con sus fuentes y pendientes; la investigación permanece en ampliación.', '',
+        'Los registros normativos no son acontecimientos analizados en profundidad ni éxitos acreditados. '
+        'El registro `cobertura-semanal.json` documenta las semanas con entradas y las lagunas de revisión de prensa. '
+        'No se declara completado un barrido hemerográfico semanal de cincuenta años.', '',
         '## Índice de etapas y cobertura', '',
         '| Etapa | Presidencia | Periodo orientativo | Hechos vinculados |',
         '| --- | --- | --- | ---: |',
     ]
     for stage in stages.values():
-        count = sum(stage['id'] == event['stage'] or stage['id'] in event.get('relatedStages', []) for event in events.values())
+        count = sum(stage['id'] in {event['stage'], event.get('stageAtMilestone'), *event.get('relatedStages', []), *(link['stage'] for link in event.get('displayStages', []))} for event in events.values())
         label = stage['legislature'] or 'Contexto'
         lines.append(f'| {label} | {stage["president"]} | {stage["periodLabel"]} | {count} |')
     lines.extend(['', 'Las etapas sin entradas específicas siguen pendientes; no significan ausencia de hechos relevantes.', ''])
@@ -111,13 +143,16 @@ def render() -> str:
     for stage in stages.values():
         label = stage['legislature'] or 'Contexto'
         lines.extend([f'## {label} · {stage["president"]} · {stage["periodLabel"]}', '', stage['note'], ''])
-        local_events = sorted((event for event in events.values() if event['stage'] == stage['id']), key=lambda event: (event['date'], event['id']))
+        local_events = sorted((event for event in events.values() if event['stage'] == stage['id']), key=lambda event: (event['date'], event['id']), reverse=True)
         if not local_events:
             lines.extend(['Sin entradas propias contrastadas en esta primera pasada. Véase el plan de investigación pendiente.', ''])
         for event in local_events:
             lines.extend([f'### {event["date"]} · {event["title"]}', '', f'**Tipo:** {event["category"]}. **ID:** `{event["id"]}`.', '', event['summary'], '', '**Atribución y alcance.** ' + event['attribution'], ''])
             if event.get('factsPeriod'):
                 lines.extend(['**Periodo de los hechos:** ' + event['factsPeriod'] + '.', ''])
+            for link in event.get('displayStages', []):
+                target = stages[link['stage']]
+                lines.extend(['**También visible en:** ' + target['president'] + ' · ' + str(target['legislature'] or 'Contexto') + '. ' + link['reason'], ''])
             if event.get('stageAtMilestone'):
                 resolution = stages[event['stageAtMilestone']]
                 lines.extend(['**Etapa en la fecha del hito:** ' + str(resolution['legislature'] or 'Contexto') + ' · ' + resolution['president'] + '.', ''])
@@ -134,6 +169,14 @@ def render() -> str:
         if references:
             lines.extend(['Hechos de alcance compartido, desarrollados en otra etapa: ' + '; '.join(f'{event["title"]} (`{event["id"]}`)' for event in references) + '.', ''])
     unused = sorted(set(sources) - used_sources)
+    lines.extend(['## Catálogo normativo separado', '',
+        'Procedencia, consultas reproducibles y exclusiones: `catalogos-boe.json`, `normativa.json` y `revision-normativa.json`. '
+        'Las disposiciones ya desarrolladas se excluyen mediante sus identificadores BOE o ELI. '
+        'Se conserva la fecha de publicación y el título oficial, sin deducir eficacia, autoría exclusiva del Gobierno ni vigencia actual.', '',
+        '| Etapa | Presidencia | Disposiciones en el índice |', '| --- | --- | ---: |'])
+    for stage in stages.values():
+        lines.append(f'| {stage["legislature"] or "Contexto"} | {stage["president"]} | {sum(n["stage"] == stage["id"] for n in norms.values())} |')
+    lines.append('')
     lines.extend(['## Fuentes de ampliación todavía sin entrada', ''])
     if unused:
         for source_id in unused:

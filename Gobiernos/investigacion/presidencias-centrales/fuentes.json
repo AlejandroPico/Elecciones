@@ -711,6 +711,960 @@
       "limits": "Distinguir texto inicial, competencias territoriales, recursos y efectos sobre precios y oferta.",
       "consultedAt": "2026-10-17",
       "kind": "primary"
+    },
+    {
+      "id": "atocha-1977",
+      "url": "https://www.rtve.es/play/noticias/20240925/serie-abogadas-matanza-atocha-transicion-espanola/16254589.shtml",
+      "title": "RTVE · reconstrucción de la matanza de Atocha",
+      "kind": "secondary",
+      "supports": "RTVE · reconstrucción de la matanza de Atocha",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "suarez-balance",
+      "url": "https://www.rtve.es/noticias/20140323/dictadura-a-democracia-medidas-gobiernos-adolfo-suarez/900006.shtml",
+      "title": "RTVE · democratización y políticas de Suárez",
+      "kind": "secondary",
+      "supports": "RTVE · democratización y políticas de Suárez",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "galaxia-documentos",
+      "url": "https://23fbuscador.rtve.es/document/ocr/1723?page=6&page_size=25",
+      "title": "Archivo desclasificado del 23-F · antecedentes de la Operación Galaxia",
+      "kind": "primary",
+      "supports": "Archivo desclasificado del 23-F · antecedentes de la Operación Galaxia",
+      "limits": "Documento histórico sobre la reunión conspirativa; no sustituye las sentencias de cada participante.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "censura-suarez",
+      "url": "https://www.congreso.es/public_oficiales/L1/CONG/DS/PL/PL_095.PDF",
+      "title": "Congreso · votación de censura, 30 de mayo de 1980",
+      "kind": "primary",
+      "supports": "Congreso · votación de censura, 30 de mayo de 1980",
+      "limits": "Diario de sesiones: debate y votación, no una evaluación de las intenciones de los participantes.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "dimision-suarez",
+      "url": "https://www.rtve.es/play/videos/fue-noticia-en-el-archivo-de-rtve/discurso-dimision-adolfo-suarez/2356932/",
+      "title": "RTVE · discurso de dimisión de Suárez, 29 de enero de 1981",
+      "kind": "primary",
+      "supports": "RTVE · discurso de dimisión de Suárez, 29 de enero de 1981",
+      "limits": "Grabación de la intervención del presidente; el relevo efectivo se produjo posteriormente.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "loapa-tc-prensa",
+      "url": "https://elpais.com/diario/1983/08/11/espana/429400804_850215.html",
+      "title": "El País · decisión constitucional sobre la LOAPA, agosto de 1983",
+      "kind": "secondary",
+      "supports": "El País · decisión constitucional sobre la LOAPA, agosto de 1983",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "guerra-dimision",
+      "url": "https://www.rtve.es/noticias/20141105/guerra-diputado-mas-veterano-congreso/1042822.shtml",
+      "title": "RTVE · dimisión de Alfonso Guerra y trayectoria parlamentaria",
+      "kind": "secondary",
+      "supports": "RTVE · dimisión de Alfonso Guerra y trayectoria parlamentaria",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "filesa-revelacion",
+      "url": "https://www.rtve.es/noticias/20131217/antonio-salinas-renueva-como-fiscal-jefe-anticorrupcion/824520.shtml",
+      "title": "RTVE · investigación de Filesa y condenas posteriores",
+      "kind": "secondary",
+      "supports": "RTVE · investigación de Filesa y condenas posteriores",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ibercorp-comparecencias",
+      "url": "https://www.servimedia.es/noticias/pp-exigira-nuevas-explicaciones-congreso-solchaga-rubio-sobre-caso-ibercorp/1410797800",
+      "title": "Servimedia · exigencia de comparecencias por Ibercorp, 18 de mayo de 1992",
+      "kind": "agency",
+      "supports": "Servimedia · exigencia de comparecencias por Ibercorp, 18 de mayo de 1992",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "banesto-intervencion",
+      "url": "https://www.rtve.es/noticias/20231228/30-anos-intervencion-banesto-espana-mario-conde-banca/2470027.shtml",
+      "title": "RTVE · intervención de Banesto el 28 de diciembre de 1993",
+      "kind": "secondary",
+      "supports": "RTVE · intervención de Banesto el 28 de diciembre de 1993",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "roldan-fuga",
+      "url": "https://lab.rtve.es/25radio5/caso-roldan/",
+      "title": "RNE · archivo del caso Roldán, 1993–1995",
+      "kind": "secondary",
+      "supports": "RNE · archivo del caso Roldán, 1993–1995",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "crisis-mayo-1994",
+      "url": "https://elpais.com/diario/1994/05/05/espana/768088815_850215.html",
+      "title": "El País · crisis ministerial por Roldán e Ibercorp, mayo de 1994",
+      "kind": "secondary",
+      "supports": "El País · crisis ministerial por Roldán e Ibercorp, mayo de 1994",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "cesid-manglano",
+      "url": "https://elpais.com/diario/1995/06/16/espana/803253627_850215.html",
+      "title": "El País · salida del director del CESID por las escuchas",
+      "kind": "secondary",
+      "supports": "El País · salida del director del CESID por las escuchas",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "cesid-crisis-gobiernos",
+      "url": "https://www.rtve.es/noticias/20090407/crisis-gobiernos-democracia/260743.shtml",
+      "title": "RTVE · crisis ministeriales de la democracia",
+      "kind": "secondary",
+      "supports": "RTVE · crisis ministeriales de la democracia",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "cesid-archivo-1996",
+      "url": "https://elpais.com/diario/1996/02/09/espana/823820430_850215.html",
+      "title": "El País · archivo de una causa por escuchas del CESID en febrero de 1996",
+      "kind": "secondary",
+      "supports": "El País · archivo de una causa por escuchas del CESID en febrero de 1996",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "gescartera-claves",
+      "url": "https://www.rtve.es/noticias/20080327/claves-del-caso-gescartera/11212.shtml",
+      "title": "RTVE · intervención y responsabilidades en Gescartera",
+      "kind": "secondary",
+      "supports": "RTVE · intervención y responsabilidades en Gescartera",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "huelgas-democracia",
+      "url": "https://www.rtve.es/noticias/20261014/huelgas-generales-espana-democracia/17257001.shtml",
+      "title": "RTVE · cronología de huelgas generales de la democracia",
+      "kind": "secondary",
+      "supports": "RTVE · cronología de huelgas generales de la democracia",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "perejil-operacion",
+      "url": "https://as.com/actualidad/sociedad/el-islote-entre-espana-y-marruecos-que-fue-lugar-de-la-operacion-romeo-sierra-del-ejercito-en-2002-n/",
+      "title": "AS · crisis de Perejil y operación militar española",
+      "kind": "secondary",
+      "supports": "AS · crisis de Perejil y operación militar española",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "faisan-casacion",
+      "url": "https://www.rtve.es/noticias/20140715/caso-faisan-supremo-confirma-penas-pamies-ballesteros-por-revelacion-secretos-a-eta/974021.shtml",
+      "title": "RTVE · casación del caso Faisán, 15 de julio de 2014",
+      "kind": "secondary",
+      "supports": "RTVE · casación del caso Faisán, 15 de julio de 2014",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "t4-atentado",
+      "url": "https://www.rtve.es/fotogalerias/la-historia-de-eta-en-imagenes/177635/reyes-50o-aniversario-del-primer-asesinato-eta-2010/20/",
+      "title": "RTVE · atentado de ETA en la T4, 30 de diciembre de 2006",
+      "kind": "secondary",
+      "supports": "RTVE · atentado de ETA en la T4, 30 de diciembre de 2006",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "zapatero-crisis-economica",
+      "url": "https://amp.rtve.es/noticias/20110402/diez-pasos-del-via-crucis-zapatero/420593.shtml",
+      "title": "RTVE · crisis económica y decisiones del segundo Gobierno de Zapatero",
+      "kind": "secondary",
+      "supports": "RTVE · crisis económica y decisiones del segundo Gobierno de Zapatero",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "controladores-alarma",
+      "url": "https://www.boe.es/eli/es/rd/2010/12/04/1673",
+      "title": "BOE · declaración del estado de alarma en el transporte aéreo",
+      "kind": "primary",
+      "supports": "BOE · declaración del estado de alarma en el transporte aéreo",
+      "limits": "Texto original de la declaración. Los procedimientos laborales y penales posteriores tuvieron desenlaces distintos según el ámbito.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "movimiento-15m",
+      "url": "https://amp.rtve.es/noticias/20111015/cinco-meses-vida-del-15m/468334.shtml",
+      "title": "RTVE · origen y desarrollo del 15-M",
+      "kind": "secondary",
+      "supports": "RTVE · origen y desarrollo del 15-M",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "eta-cese-armado",
+      "url": "https://www.rtve.es/noticias/20211020/eta-10-anos-sin-matar/2195053.shtml",
+      "title": "RTVE · anuncio de cese de la violencia de ETA en 2011",
+      "kind": "secondary",
+      "supports": "RTVE · anuncio de cese de la violencia de ETA en 2011",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "campeon-archivo",
+      "url": "https://www.rtve.es/temas/jose-blanco/4090/",
+      "title": "RTVE · archivo de la causa de José Blanco, 18 de julio de 2013",
+      "kind": "secondary",
+      "supports": "RTVE · archivo de la causa de José Blanco, 18 de julio de 2013",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "bankia-saneamiento",
+      "url": "https://amp.rtve.es/noticias/20120609/ayudas-y-reformas-del-sector-financiero-espanol-y-europeo-desde-el-estallido-de-la-crisis/534220.shtml",
+      "title": "RTVE · cronología de ayudas y reformas del sistema financiero",
+      "kind": "secondary",
+      "supports": "RTVE · cronología de ayudas y reformas del sistema financiero",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "barcenas-cronologia",
+      "url": "https://www.rtve.es/noticias/20141028/cronologia-del-caso-barcenas/621824.shtml",
+      "title": "RTVE · cronología de los papeles de Bárcenas",
+      "kind": "secondary",
+      "supports": "RTVE · cronología de los papeles de Bárcenas",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "barcenas-congreso",
+      "url": "https://www.rtve.es/noticias/20130801/rajoy-avanza-340000-parados-registrados-menos-cinco-meses-comparecer-sobre-barcenas/728700.shtml",
+      "title": "RTVE · comparecencia de Rajoy sobre Bárcenas, 1 de agosto de 2013",
+      "kind": "secondary",
+      "supports": "RTVE · comparecencia de Rajoy sobre Bárcenas, 1 de agosto de 2013",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "punica-inicio",
+      "url": "https://www.rtve.es/noticias/20141027/macrooperacion-contra-trama-corrupcion-municipal-regional-51-detenidos-espana/1036804.shtml",
+      "title": "RTVE · detenciones en la Operación Púnica, 27 de octubre de 2014",
+      "kind": "secondary",
+      "supports": "RTVE · detenciones en la Operación Púnica, 27 de octubre de 2014",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "soria-dimision",
+      "url": "https://elpais.com/politica/2016/04/15/actualidad/1460704328_613294.html",
+      "title": "El País · dimisión de José Manuel Soria, 15 de abril de 2016",
+      "kind": "secondary",
+      "supports": "El País · dimisión de José Manuel Soria, 15 de abril de 2016",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "investiduras-2016",
+      "url": "https://amp.rtve.es/noticias/20160830/rajoy-va-a-investidura-apoyado-por-pacto-con-cs-no-sirve-con-no-rotundo-del-psoe/1390380.shtml",
+      "title": "RTVE · bloqueo de investiduras y pacto PP–Ciudadanos en 2016",
+      "kind": "secondary",
+      "supports": "RTVE · bloqueo de investiduras y pacto PP–Ciudadanos en 2016",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "investidura-rajoy-fallida",
+      "url": "https://www.rtve.es/noticias/20160902/pleno-segunda-votacion-investidura-mariano-rajoy/1392322.shtml",
+      "title": "RTVE · segunda votación fallida de Rajoy, septiembre de 2016",
+      "kind": "secondary",
+      "supports": "RTVE · segunda votación fallida de Rajoy, septiembre de 2016",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "pactos-investiduras",
+      "url": "https://lab.rtve.es/las-claves/pactos-gobierno-legislatura-investidura-espana-gobernabilidad-2019-05-07/",
+      "title": "RTVE · acuerdos e investiduras de las legislaturas democráticas",
+      "kind": "secondary",
+      "supports": "RTVE · acuerdos e investiduras de las legislaturas democráticas",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "lezo-registros",
+      "url": "https://www.rtve.es/temas/madrid/1508/277/",
+      "title": "RTVE · archivo de registros de la Operación Lezo, abril de 2017",
+      "kind": "secondary",
+      "supports": "RTVE · archivo de registros de la Operación Lezo, abril de 2017",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "guertel-sentencia-2018",
+      "url": "https://www.rtve.es/noticias/20180524/audiencia-nacional-condena-a-barcenas-correa-pp-pieza-principal-del-caso-guertel/1738964.shtml",
+      "title": "RTVE · sentencia de primera época de Gürtel, mayo de 2018",
+      "kind": "secondary",
+      "supports": "RTVE · sentencia de primera época de Gürtel, mayo de 2018",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "genova-supremo-2024",
+      "url": "https://cadenaser.com/nacional/2024/11/15/el-supremo-confirma-que-el-pp-pago-en-negro-la-reforma-de-genova-13-pero-rebaja-las-condenas-cadena-ser/",
+      "title": "Cadena SER · casación sobre la reforma de Génova, noviembre de 2024",
+      "kind": "secondary",
+      "supports": "Cadena SER · casación sobre la reforma de Génova, noviembre de 2024",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "monton-dimision",
+      "url": "https://www.rtve.es/play/audios/24-horas/24-horas-carmen-monton-dimite-como-ministra-sanidad-insiste-no-cometido-irregularidades-su-master/4732878/",
+      "title": "RNE · dimisión de Carmen Montón, septiembre de 2018",
+      "kind": "secondary",
+      "supports": "RNE · dimisión de Carmen Montón, septiembre de 2018",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "sanchez-investidura-2019",
+      "url": "https://amp.rtve.es/noticias/20190725/sanchez-politico-resiliente-se-resisten-investiduras/1976058.shtml",
+      "title": "RTVE · fracaso de la investidura de Sánchez, julio de 2019",
+      "kind": "secondary",
+      "supports": "RTVE · fracaso de la investidura de Sánchez, julio de 2019",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "sahara-giro-2022",
+      "url": "https://www.rtve.es/play/videos/la-tarde-en-24h/espana-marruecos-plan-sahara/6452978/",
+      "title": "RTVE · cambio de posición sobre el Sáhara, marzo de 2022",
+      "kind": "secondary",
+      "supports": "RTVE · cambio de posición sobre el Sáhara, marzo de 2022",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "pegasus-cese",
+      "url": "https://www.rtve.es/play/videos/informativo-24h/paz-esteban-primer-cese-espionaje-pegasus/6532450/",
+      "title": "RTVE · cese de la directora del CNI tras Pegasus",
+      "kind": "secondary",
+      "supports": "RTVE · cese de la directora del CNI tras Pegasus",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "argelia-tratado",
+      "url": "https://elpais.com/espana/2022-06-08/argelia-rompe-el-tratado-de-amistad-y-buena-vecindad-con-espana-suscrito-hace-20-anos.html",
+      "title": "El País · suspensión del tratado de amistad por Argelia",
+      "kind": "secondary",
+      "supports": "El País · suspensión del tratado de amistad por Argelia",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "argentina-retirada",
+      "url": "https://www.rtve.es/play/videos/rtve-noticias-video/espana-retira-su-embajadora-buenos-aires-significa-consecuencias-tiene/16113540/",
+      "title": "RTVE · retirada de la embajadora en Argentina, mayo de 2024",
+      "kind": "secondary",
+      "supports": "RTVE · retirada de la embajadora en Argentina, mayo de 2024",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "vivienda-bde-2026",
+      "url": "https://www.bde.es/f/webbe/Secciones/Publicaciones/InformesBoletinesRevistas/InformesEstabilidadFinancera/26/IEF_2026_1_Cap1.pdf",
+      "title": "Banco de España · estabilidad financiera y mercado de vivienda, primavera de 2026",
+      "kind": "primary",
+      "supports": "Banco de España · estabilidad financiera y mercado de vivienda, primavera de 2026",
+      "limits": "Diagnóstico económico: demanda, oferta y riesgos. No atribuye el problema de vivienda a una sola administración ni convierte proyecciones en resultados.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "vivienda-rechazo-2026",
+      "url": "https://amp.rtve.es/noticias/20261002/pasa-ahora-medidas-decretos-vivienda-tiempo-vigente/17250932.shtml",
+      "title": "RTVE · rechazo parlamentario de los decretos de vivienda, octubre de 2026",
+      "kind": "secondary",
+      "supports": "RTVE · rechazo parlamentario de los decretos de vivienda, octubre de 2026",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "vivienda-nuevas-medidas",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261006-referencia-rueda-de-prensa-ministros.aspx",
+      "title": "La Moncloa · medidas del Consejo de Ministros del 6 de octubre de 2026",
+      "kind": "primary",
+      "supports": "La Moncloa · medidas del Consejo de Ministros del 6 de octubre de 2026",
+      "limits": "Fuente del propio Ejecutivo. Acredita el acuerdo comunicado, no su éxito ni una convalidación parlamentaria posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "moncloa-octubre-2026",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261013-referencia-rueda-de-prensa-ministros.aspx",
+      "title": "La Moncloa · Consejo de Ministros del 13 de octubre de 2026",
+      "kind": "primary",
+      "supports": "La Moncloa · Consejo de Ministros del 13 de octubre de 2026",
+      "limits": "Referencia del Ejecutivo: autorizaciones, compromisos y tramitaciones deben distinguirse de desembolsos, obras terminadas o leyes vigentes.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "garcia-ortiz-nulidad",
+      "url": "https://www.rtve.es/noticias/20260226/supremo-rechaza-anular-condena-exfiscal-general-estado-revelacion-secretos/16955912.shtml",
+      "title": "RTVE · rechazo de nulidad en la causa de García Ortiz, febrero de 2026",
+      "kind": "secondary",
+      "supports": "RTVE · rechazo de nulidad en la causa de García Ortiz, febrero de 2026",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "garcia-ortiz-amparo",
+      "url": "https://www.rtve.es/noticias/20260410/fiscalia-recurre-constitucional-condena-ex-fiscal-general/17017566.shtml",
+      "title": "RTVE · recurso de amparo contra la condena de García Ortiz",
+      "kind": "secondary",
+      "supports": "RTVE · recurso de amparo contra la condena de García Ortiz",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "gomez-procesamiento",
+      "url": "https://www.rtve.es/noticias/20260413/peinado-procesa-a-begona-gomez-por-trafico-influencias-malversacion-corrupcion-negocios-apropiacion-indebida/17020957.shtml",
+      "title": "RTVE · procesamiento de Begoña Gómez y archivo del intrusismo",
+      "kind": "secondary",
+      "supports": "RTVE · procesamiento de Begoña Gómez y archivo del intrusismo",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "gomez-jurado-apelacion",
+      "url": "https://www.rtve.es/noticias/20260716/audiencia-madrid-mantiene-juicio-con-jurado-popular-contra-begona-gomez-ordena-devolucion-su-pasaporte/17158645.shtml",
+      "title": "RTVE · revisión de la causa y devolución del pasaporte de Begoña Gómez",
+      "kind": "secondary",
+      "supports": "RTVE · revisión de la causa y devolución del pasaporte de Begoña Gómez",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "gomez-juicio-oral",
+      "url": "https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml",
+      "title": "RTVE · apertura de juicio oral por tráfico de influencias y malversación",
+      "kind": "secondary",
+      "supports": "RTVE · apertura de juicio oral por tráfico de influencias y malversación",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "gomez-fiscalia-absolucion",
+      "url": "https://www.rtve.es/noticias/20261007/fiscalia-pide-audiencia-provincial-madrid-absuelva-begona-gomez-asesora/17256791.shtml",
+      "title": "RTVE · la Fiscalía pide absolver a Gómez y a su asesora",
+      "kind": "secondary",
+      "supports": "RTVE · la Fiscalía pide absolver a Gómez y a su asesora",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "david-sentencia",
+      "url": "https://www.rtve.es/noticias/20260714/sentencia-david-sanchez-audiencia-badajoz-contratacion-diputacion/17141369.shtml",
+      "title": "RTVE · condena no firme y absolución parcial de David Sánchez",
+      "kind": "secondary",
+      "supports": "RTVE · condena no firme y absolución parcial de David Sánchez",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "david-recurso",
+      "url": "https://elpais.com/espana/2026-10-13/gallardo-niega-amanos-para-favorecer-a-david-sanchez-y-pide-anular-su-condena-ni-siquiera-sabia-de-su-existencia.html",
+      "title": "El País · recurso de Gallardo contra su condena en la causa de David Sánchez",
+      "kind": "secondary",
+      "supports": "El País · recurso de Gallardo contra su condena en la causa de David Sánchez",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "plus-ultra-imputacion",
+      "url": "https://www.rtve.es/noticias/20260519/zapatero-imputado-caso-plus-ultra-audiencia-nacional/17075012.shtml",
+      "title": "RTVE · investigación de Zapatero en el caso Plus Ultra",
+      "kind": "secondary",
+      "supports": "RTVE · investigación de Zapatero en el caso Plus Ultra",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "plus-ultra-declaracion",
+      "url": "https://www.rtve.es/noticias/20260617/claves-declaracion-zapatero-expresidente-niega-delitos-juez-mantiene-indicios-criminalidad/17119950.shtml",
+      "title": "RTVE · declaración de Zapatero y decisión sobre cautelares",
+      "kind": "secondary",
+      "supports": "RTVE · declaración de Zapatero y decisión sobre cautelares",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "plus-ultra-testimonio",
+      "url": "https://www.rtve.es/noticias/20260720/julio-martinez-juez-confiesa-zapatero-medio-rescate-plus-ultra/17162498.shtml",
+      "title": "RTVE · escrito de Julio Martínez sobre la intermediación en Plus Ultra",
+      "kind": "secondary",
+      "supports": "RTVE · escrito de Julio Martínez sobre la intermediación en Plus Ultra",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "plus-ultra-defensa",
+      "url": "https://www.rtve.es/noticias/20260723/entrevista-jose-luis-rodriguez-zapatero-rtve-cronica/17166466.shtml",
+      "title": "RTVE · versión de Zapatero sobre la investigación de Plus Ultra",
+      "kind": "secondary",
+      "supports": "RTVE · versión de Zapatero sobre la investigación de Plus Ultra",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "plus-ultra-recurso",
+      "url": "https://www.rtve.es/noticias/20260904/juez-desestima-recurso-zapatero-para-lograr-nulidad-del-caso-plus-ultra/17212760.shtml",
+      "title": "RTVE · rechazo de la nulidad solicitada por Zapatero",
+      "kind": "secondary",
+      "supports": "RTVE · rechazo de la nulidad solicitada por Zapatero",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "plus-ultra-filtraciones",
+      "url": "https://www.rtve.es/noticias/20261015/jueza-investiga-filtraciones-causa-zapatero-plus-ultra/17268085.shtml",
+      "title": "RTVE · investigación de filtraciones de datos reservados del caso Plus Ultra",
+      "kind": "secondary",
+      "supports": "RTVE · investigación de filtraciones de datos reservados del caso Plus Ultra",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "bilbao-inundaciones",
+      "url": "https://www.rtve.es/play/videos/fue-noticia-en-el-archivo-de-rtve/inundaciones-bilbao-1983/298059/",
+      "title": "Archivo de RTVE · inundaciones de agosto de 1983",
+      "kind": "primary",
+      "supports": "Archivo de RTVE · inundaciones de agosto de 1983",
+      "limits": "Imágenes y relato de la emergencia; no determina responsabilidades administrativas o penales.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "peseta-1992",
+      "url": "https://www.servimedia.es/noticias/balances-1992-mercados-financieros-/1410790005",
+      "title": "Servimedia · crisis monetaria y devaluaciones de 1992",
+      "kind": "agency",
+      "supports": "Servimedia · crisis monetaria y devaluaciones de 1992",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "angrois-aniversario",
+      "url": "https://amp.rtve.es/noticias/20140724/accidente-tren-santiago-primer-aniversario/978661.shtml",
+      "title": "RTVE · accidente de Angrois y reclamaciones de las víctimas",
+      "kind": "secondary",
+      "supports": "RTVE · accidente de Angrois y reclamaciones de las víctimas",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ebola-informe-sns",
+      "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/sisInfSanSNS/tablasEstadisticas/InfAnualSNS2016/Informe_Anual_SNS_2016_completo.pdf",
+      "title": "Sanidad · informe del SNS sobre el caso de ébola de 2014",
+      "kind": "primary",
+      "supports": "Sanidad · informe del SNS sobre el caso de ébola de 2014",
+      "limits": "Informe sanitario retrospectivo. No establece responsabilidad penal individual por la gestión de protocolos.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "17a-aniversario",
+      "url": "https://amp.rtve.es/noticias/20260817/barcelona-conmemora-noveno-aniversario-atentados-del-17-a/17192979.shtml",
+      "title": "RTVE · atentados de Barcelona y Cambrils de agosto de 2017",
+      "kind": "secondary",
+      "supports": "RTVE · atentados de Barcelona y Cambrils de agosto de 2017",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "filomena-2021",
+      "url": "https://www.rtve.es/noticias/20260108/cinco-anos-filomena-borrasca-sepulto-bajo-nieve-a-media-espana/16886250.shtml",
+      "title": "RTVE · borrasca Filomena y sus consecuencias",
+      "kind": "secondary",
+      "supports": "RTVE · borrasca Filomena y sus consecuencias",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "palma-erupcion-2021",
+      "url": "https://stories.rtve.es/actualidad/newstory/directo-al-grano/5424bc2d9307150723a3",
+      "title": "RTVE · erupción de La Palma y destrucción de viviendas",
+      "kind": "secondary",
+      "supports": "RTVE · erupción de La Palma y destrucción de viviendas",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "rato-black-casacion",
+      "url": "https://www.rtve.es/play/audios/14-horas/14-horas-supremo-confirma-cuatro-anos-medio-prision-para-rato-tarjetas-black/4771258/",
+      "title": "RNE · condena firme de Rato por las tarjetas black",
+      "kind": "secondary",
+      "supports": "RNE · condena firme de Rato por las tarjetas black",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "matas-casacion",
+      "url": "https://amp.rtve.es/noticias/20130723/tribunal-supremo-rebaja-pena-matas-a-9-meses-caso-palma-arena/722001.shtml",
+      "title": "RTVE/EFE · revisión de la primera sentencia de Palma Arena",
+      "kind": "agency",
+      "supports": "RTVE/EFE · revisión de la primera sentencia de Palma Arena",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "zaplana-erial-condena",
+      "url": "https://www.rtve.es/play/videos/telediario-1/exministro-eduardo-zaplana-condenado-prision-cohecho-blanqueo/16289073/",
+      "title": "RTVE · sentencia de Erial contra Eduardo Zaplana",
+      "kind": "secondary",
+      "supports": "RTVE · sentencia de Erial contra Eduardo Zaplana",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "camps-absolucion",
+      "url": "https://efe.com/espana/2024-05-29/la-audiencia-nacional-absuelve-a-francisco-camps-por-su-ultimo-fleco-del-caso-gurtel/",
+      "title": "EFE · absolución de Camps en la pieza de contratos de Gürtel",
+      "kind": "agency",
+      "supports": "EFE · absolución de Camps en la pieza de contratos de Gürtel",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "amnistia-fiscal-tc",
+      "url": "https://www.tribunalconstitucional.es/va/memorias/Documents/MEMORIA2017.pdf",
+      "title": "Tribunal Constitucional · STC 73/2017 sobre la amnistía fiscal",
+      "kind": "primary",
+      "supports": "Tribunal Constitucional · STC 73/2017 sobre la amnistía fiscal",
+      "limits": "Memoria del Tribunal: nulidad de la disposición tributaria especial, sin revisar automáticamente las situaciones firmes resultantes.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "fiscal-condena-2025",
+      "url": "https://www.rtve.es/noticias/20251120/supremo-condena-fiscal-general-revelacion-datos-inhabilitacion-dos-anos-multa/16824031.shtml",
+      "title": "RTVE · condena de Álvaro García Ortiz, noviembre de 2025",
+      "kind": "secondary",
+      "supports": "RTVE · condena de Álvaro García Ortiz, noviembre de 2025",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "koldo-obras-remision",
+      "url": "https://www.rtve.es/noticias/20260202/supremo-envia-a-audiencia-nacional-causa-contra-abalos-cerdan-koldo-por-presuntos-amanos-obra-publica/16919707.shtml",
+      "title": "RTVE · remisión de la investigación de obras a la Audiencia Nacional",
+      "kind": "secondary",
+      "supports": "RTVE · remisión de la investigación de obras a la Audiencia Nacional",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "salazar-inadmision",
+      "url": "https://www.rtve.es/noticias/20260115/juzgado-madrid-rechaza-querella-contra-paco-salazar-por-presunto-acoso-sexual/16895312.shtml",
+      "title": "RTVE · inadmisión de la querella de Hazte Oír contra Paco Salazar",
+      "kind": "secondary",
+      "supports": "RTVE · inadmisión de la querella de Hazte Oír contra Paco Salazar",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "salazar-senado",
+      "url": "https://www.rtve.es/play/videos/informativo-24h/salazar-niega-haber-dejado-su-cargo-acusaciones-acoso-sexual/16924730/",
+      "title": "RTVE · comparecencia de Salazar en el Senado",
+      "kind": "secondary",
+      "supports": "RTVE · comparecencia de Salazar en el Senado",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "leire-zarrias-testigo",
+      "url": "https://www.rtve.es/noticias/20260416/exconsejero-andaluz-gaspar-zarrias-testigo-causa-leire-diez/17026069.shtml",
+      "title": "RTVE · declaración de Zarrías como testigo en la causa de Leire Díez",
+      "kind": "secondary",
+      "supports": "RTVE · declaración de Zarrías como testigo en la causa de Leire Díez",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "presupuestos-2026-prorrogas",
+      "url": "https://elpais.com/economia/2026-08-25/los-retoques-en-los-presupuestos-hasta-junio-superan-los-de-todo-el-ano-pasado.html",
+      "title": "El País · modificaciones de créditos y prórroga presupuestaria en 2026",
+      "kind": "secondary",
+      "supports": "El País · modificaciones de créditos y prórroga presupuestaria en 2026",
+      "limits": "Fuente periodística identificada. Describe el hito y la situación conocida en esa fecha; no acredita por sí sola el estado judicial posterior.",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-1998-30040",
+      "title": "BOE · Real Decreto 2817/1998, de 23 de diciembre, por el que se fija el salario mínimo interprofesional para 1999.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-30040",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-1999-24923",
+      "title": "BOE · Real Decreto 2065/1999, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2000.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-24923",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2000-24365",
+      "title": "BOE · Real Decreto 3476/2000, de 29 de diciembre, por el que se fija el salario mínimo interprofesional para 2001.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-24365",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2001-24745",
+      "title": "BOE · Real Decreto 1466/2001, de 27 de diciembre, por el que se fija el salario mínimo interprofesional para 2002.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-24745",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2002-25290",
+      "title": "BOE · Real Decreto 1426/2002, de 27 de diciembre, por el que se fija el salario mínimo interprofesional para 2003.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2002-25290",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2003-23711",
+      "title": "BOE · Real Decreto 1793/2003, de 26 de diciembre, por el que se fija el salario mínimo interprofesional para 2004.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-23711",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2004-21909",
+      "title": "BOE · Real Decreto 2388/2004, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2005.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2004-21909",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2005-21610",
+      "title": "BOE · Real Decreto 1613/2005, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2006.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2005-21610",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2006-22959",
+      "title": "BOE · Real Decreto 1632/2006, de 29 de diciembre, por el que se fija el salario mínimo interprofesional para 2007.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2006-22959",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2007-22451",
+      "title": "BOE · Real Decreto 1763/2007, de 28 de diciembre, por el que se fija el salario mínimo interprofesional para 2008.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-22451",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2008-20958",
+      "title": "BOE · Real Decreto 2128/2008, de 26 de diciembre, por el que se fija el salario mínimo interprofesional para 2009.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2008-20958",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2009-21170",
+      "title": "BOE · Real Decreto 2030/2009, de 30 de diciembre, por el que se fija el Salario Mínimo Interprofesional para 2010.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2009-21170",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2010-20150",
+      "title": "BOE · Real Decreto 1795/2010, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2011.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-20150",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2011-20645",
+      "title": "BOE · Real Decreto 1888/2011, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2012.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-20645",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2012-15766",
+      "title": "BOE · Real Decreto 1717/2012, de 28 de diciembre, por el que se fija el salario mínimo interprofesional para 2013.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-15766",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2013-13764",
+      "title": "BOE · Real Decreto 1046/2013, de 27 de diciembre, por el que se fija el salario mínimo interprofesional para 2014.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-13764",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2014-13518",
+      "title": "BOE · Real Decreto 1106/2014, de 26 de diciembre, por el que se fija el salario mínimo interprofesional para 2015.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-13518",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2015-14273",
+      "title": "BOE · Real Decreto 1171/2015, de 29 de diciembre, por el que se fija el salario mínimo interprofesional para 2016.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-14273",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2016-12598",
+      "title": "BOE · Real Decreto 742/2016, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2017.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12598",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2017-15848",
+      "title": "BOE · Real Decreto 1077/2017, de 29 de diciembre, por el que se fija el salario mínimo interprofesional para 2018.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-15848",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2018-17773",
+      "title": "BOE · Real Decreto 1462/2018, de 21 de diciembre, por el que se fija el salario mínimo interprofesional para 2019.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17773",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2020-1652",
+      "title": "BOE · Real Decreto 231/2020, de 4 de febrero, por el que se fija el salario mínimo interprofesional para 2020.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-1652",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2021-15770",
+      "title": "BOE · Real Decreto 817/2021, de 28 de septiembre, por el que se fija el salario mínimo interprofesional para 2021.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15770",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2022-2851",
+      "title": "BOE · Real Decreto 152/2022, de 22 de febrero, por el que se fija el salario mínimo interprofesional para 2022.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-2851",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2023-3982",
+      "title": "BOE · Real Decreto 99/2023, de 14 de febrero, por el que se fija el salario mínimo interprofesional para 2023.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-3982",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2024-2251",
+      "title": "BOE · Real Decreto 145/2024, de 6 de febrero, por el que se fija el salario mínimo interprofesional para 2024.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-2251",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2025-2576",
+      "title": "BOE · Real Decreto 87/2025, de 11 de febrero, por el que se fija el salario mínimo interprofesional para 2025.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2576",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "smi-boe-a-2026-3815",
+      "title": "BOE · Real Decreto 126/2026, de 18 de febrero, por el que se fija el salario mínimo interprofesional para 2026.",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3815",
+      "supports": "Importe nominal mensual del artículo 1, contrastado en el XML de la publicación original.",
+      "limits": "Consulta dirigida del artículo 1. La cuantía mensual no equivale a salario neto, salario real ni remuneración con todas las pagas prorrateadas. Consultar periodo de efectos y reglas de compensación en el decreto.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
     }
   ]
 }

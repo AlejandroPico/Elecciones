@@ -1,0 +1,744 @@
+{
+  "checkedAt": "2026-10-17",
+  "scope": "Referencias nuevas de la segunda ampliación; comprobación técnica, no verificación semántica íntegra.",
+  "checks": [
+    {
+      "id": "atocha-1977",
+      "url": "https://www.rtve.es/play/noticias/20240925/serie-abogadas-matanza-atocha-transicion-espanola/16254589.shtml",
+      "status": 200,
+      "bytes": 440194,
+      "sha256": "9346b00cf62ad2d153d9db355c7dfa77c0d0940236c68a8277ec141f511b7a2e"
+    },
+    {
+      "id": "suarez-balance",
+      "url": "https://www.rtve.es/noticias/20140323/dictadura-a-democracia-medidas-gobiernos-adolfo-suarez/900006.shtml",
+      "status": 200,
+      "bytes": 165011,
+      "sha256": "10245c5428bb276430d4c57aa321c38c03eb40419c2583bb4a40713fe0957e69"
+    },
+    {
+      "id": "galaxia-documentos",
+      "url": "https://23fbuscador.rtve.es/document/ocr/1723?page=6&page_size=25",
+      "status": 200,
+      "bytes": 10456,
+      "sha256": "a96e0abe58eacb80864e044e9c1ef4d2c432ca10d39e422f7d87b498b0c1f5f4"
+    },
+    {
+      "id": "censura-suarez",
+      "url": "https://www.congreso.es/public_oficiales/L1/CONG/DS/PL/PL_095.PDF",
+      "status": 200,
+      "bytes": 4540973,
+      "sha256": "822756c7fd6b882d643969d98ceab08f60dffb1e74fa73b92d7212bd170a822d"
+    },
+    {
+      "id": "dimision-suarez",
+      "url": "https://www.rtve.es/play/videos/fue-noticia-en-el-archivo-de-rtve/discurso-dimision-adolfo-suarez/2356932/",
+      "status": 200,
+      "bytes": 56645,
+      "sha256": "9d16de46f145f27aa62e5d043dbf938d4e7d77127e63f8505114cc3c5d929a29"
+    },
+    {
+      "id": "loapa-tc-prensa",
+      "url": "https://elpais.com/diario/1983/08/11/espana/429400804_850215.html",
+      "status": 200,
+      "bytes": 388044,
+      "sha256": "04eb01fd09e315ada9277612acc789df0380d14728175d3b669553a6eea41617"
+    },
+    {
+      "id": "guerra-dimision",
+      "url": "https://www.rtve.es/noticias/20141105/guerra-diputado-mas-veterano-congreso/1042822.shtml",
+      "status": 200,
+      "bytes": 60936,
+      "sha256": "c0d8edeff03977ba77e529b6dd1821e7d2afa9b361dc64550e306c7a73f718ac"
+    },
+    {
+      "id": "filesa-revelacion",
+      "url": "https://www.rtve.es/noticias/20131217/antonio-salinas-renueva-como-fiscal-jefe-anticorrupcion/824520.shtml",
+      "status": 200,
+      "bytes": 57350,
+      "sha256": "58fc33e834cdfd44bd5119c7594b6218a8b1bf4d7059dda80eb4b1068800b1e2"
+    },
+    {
+      "id": "ibercorp-comparecencias",
+      "url": "https://www.servimedia.es/noticias/pp-exigira-nuevas-explicaciones-congreso-solchaga-rubio-sobre-caso-ibercorp/1410797800",
+      "status": 200,
+      "bytes": 83374,
+      "sha256": "f380c4ab105c2a005dee956a48f5fd7d54270a89974b8ca4b4a26b2a77c08d26"
+    },
+    {
+      "id": "banesto-intervencion",
+      "url": "https://www.rtve.es/noticias/20231228/30-anos-intervencion-banesto-espana-mario-conde-banca/2470027.shtml",
+      "status": 200,
+      "bytes": 83647,
+      "sha256": "7a7e6a8d5d52912b7ebbc90319b3e45b4c3afd209576b8451db8cc8ce623278c"
+    },
+    {
+      "id": "roldan-fuga",
+      "url": "https://lab.rtve.es/25radio5/caso-roldan/",
+      "status": 200,
+      "bytes": 4736,
+      "sha256": "7cf24e4bfe5a9094b5b2739fde84fdc20527bf4b4ddaea4afffc2f86bbc081aa"
+    },
+    {
+      "id": "crisis-mayo-1994",
+      "url": "https://elpais.com/diario/1994/05/05/espana/768088815_850215.html",
+      "status": 200,
+      "bytes": 385289,
+      "sha256": "2220191971aa5dc7d32a937a08afd610b9a4f36c188ba6cb7c9fa8a98740ecc7"
+    },
+    {
+      "id": "cesid-manglano",
+      "url": "https://elpais.com/diario/1995/06/16/espana/803253627_850215.html",
+      "status": 200,
+      "bytes": 386486,
+      "sha256": "5acc72e89484b780537a4905a961dace8474fbe1052f16b52ff9934c641971e5"
+    },
+    {
+      "id": "cesid-crisis-gobiernos",
+      "url": "https://www.rtve.es/noticias/20090407/crisis-gobiernos-democracia/260743.shtml",
+      "status": 200,
+      "bytes": 67687,
+      "sha256": "41a62efb93628c2d3e5f59d29344850ff0b3cc8ef26722d399e66c83b5f4259b"
+    },
+    {
+      "id": "cesid-archivo-1996",
+      "url": "https://elpais.com/diario/1996/02/09/espana/823820430_850215.html",
+      "status": 200,
+      "bytes": 382740,
+      "sha256": "b51221b3662889bdee8c51e724871b9ba2f6636dc984ea227356c975be04e580"
+    },
+    {
+      "id": "gescartera-claves",
+      "url": "https://www.rtve.es/noticias/20080327/claves-del-caso-gescartera/11212.shtml",
+      "status": 200,
+      "bytes": 55254,
+      "sha256": "f21e2d36a196d0ea0b73bdae75ce8136f2ee54618c8c51f7e23b79e1e6cd8c76"
+    },
+    {
+      "id": "huelgas-democracia",
+      "url": "https://www.rtve.es/noticias/20261014/huelgas-generales-espana-democracia/17257001.shtml",
+      "status": 200,
+      "bytes": 88069,
+      "sha256": "881e1a46d5ec7d4f56ebd76cd1b426559f031dc1f369c609e657a4cdbab34dda"
+    },
+    {
+      "id": "perejil-operacion",
+      "url": "https://as.com/actualidad/sociedad/el-islote-entre-espana-y-marruecos-que-fue-lugar-de-la-operacion-romeo-sierra-del-ejercito-en-2002-n/",
+      "status": 200,
+      "bytes": 299795,
+      "sha256": "25d61ba940c33fb42569b7554fb5e6cfb59c55ca2f5a5a68b29f72cde42ccc2c"
+    },
+    {
+      "id": "faisan-casacion",
+      "url": "https://www.rtve.es/noticias/20140715/caso-faisan-supremo-confirma-penas-pamies-ballesteros-por-revelacion-secretos-a-eta/974021.shtml",
+      "status": 200,
+      "bytes": 63803,
+      "sha256": "d0afe0e1096dba11b6d8a48f75335803e3d832c008d4e005addabbc7ed8a5cfa"
+    },
+    {
+      "id": "t4-atentado",
+      "url": "https://www.rtve.es/fotogalerias/la-historia-de-eta-en-imagenes/177635/reyes-50o-aniversario-del-primer-asesinato-eta-2010/20/",
+      "status": 200,
+      "bytes": 119666,
+      "sha256": "f3dcd1dcebe735a64239ab374fba365d7fa38206f77331af7b7f1b06818f6266"
+    },
+    {
+      "id": "zapatero-crisis-economica",
+      "url": "https://amp.rtve.es/noticias/20110402/diez-pasos-del-via-crucis-zapatero/420593.shtml",
+      "status": 200,
+      "bytes": 79520,
+      "sha256": "038149844cf9df94f933ce686a8c5fd713465d265c39e0271c5d28554c48dfcd"
+    },
+    {
+      "id": "controladores-alarma",
+      "url": "https://www.boe.es/eli/es/rd/2010/12/04/1673",
+      "status": 200,
+      "bytes": 32242,
+      "sha256": "d26cbb751e3048ae5e1bf2a7dd75c39119340249b3a94331706cfaeb57880ccf"
+    },
+    {
+      "id": "movimiento-15m",
+      "url": "https://amp.rtve.es/noticias/20111015/cinco-meses-vida-del-15m/468334.shtml",
+      "status": 200,
+      "bytes": 72661,
+      "sha256": "c5fd645eeae2febad6a6d8a4b46a3d7bd1a8f8244ed473aa7bdcbd10a4b991f7"
+    },
+    {
+      "id": "eta-cese-armado",
+      "url": "https://www.rtve.es/noticias/20211020/eta-10-anos-sin-matar/2195053.shtml",
+      "status": 200,
+      "bytes": 105187,
+      "sha256": "3e07dad1c25fa02c62c7af65ed4e2041af87778bc48f74d322b0640e5740ba80"
+    },
+    {
+      "id": "campeon-archivo",
+      "url": "https://www.rtve.es/temas/jose-blanco/4090/",
+      "status": 200,
+      "bytes": 283219,
+      "sha256": "457bf4f3d30f49f84f09a22ea5bb43ced4e89aabd436fd1e0a65fe019ff7423b"
+    },
+    {
+      "id": "bankia-saneamiento",
+      "url": "https://amp.rtve.es/noticias/20120609/ayudas-y-reformas-del-sector-financiero-espanol-y-europeo-desde-el-estallido-de-la-crisis/534220.shtml",
+      "status": 200,
+      "bytes": 85985,
+      "sha256": "d4fb02170356299e4a1f7529c9978cbbecc62e0cc165e06a8f175c256113be4d"
+    },
+    {
+      "id": "barcenas-cronologia",
+      "url": "https://www.rtve.es/noticias/20141028/cronologia-del-caso-barcenas/621824.shtml",
+      "status": 200,
+      "bytes": 151521,
+      "sha256": "a93a4836d470caf30b2cb01feaa920bcaff1bc81cbfaaad5cadd3ede9053f5d8"
+    },
+    {
+      "id": "barcenas-congreso",
+      "url": "https://www.rtve.es/noticias/20130801/rajoy-avanza-340000-parados-registrados-menos-cinco-meses-comparecer-sobre-barcenas/728700.shtml",
+      "status": 200,
+      "bytes": 66804,
+      "sha256": "1acfe857554f5a625fd1cbdf966ddb77e6c4a6c9ff2ea52eaa948b25bc7489ce"
+    },
+    {
+      "id": "punica-inicio",
+      "url": "https://www.rtve.es/noticias/20141027/macrooperacion-contra-trama-corrupcion-municipal-regional-51-detenidos-espana/1036804.shtml",
+      "status": 200,
+      "bytes": 81488,
+      "sha256": "a8b6ca2343f32f0957044c0c6ecafb8529e9698385f33fc4a241a3956db9e9a9"
+    },
+    {
+      "id": "soria-dimision",
+      "url": "https://elpais.com/politica/2016/04/15/actualidad/1460704328_613294.html",
+      "status": 200,
+      "bytes": 402384,
+      "sha256": "72254453da25322b2b411bdcc03a382cea481d32efe5e567eabaf8d4beb44184"
+    },
+    {
+      "id": "investiduras-2016",
+      "url": "https://amp.rtve.es/noticias/20160830/rajoy-va-a-investidura-apoyado-por-pacto-con-cs-no-sirve-con-no-rotundo-del-psoe/1390380.shtml",
+      "status": 200,
+      "bytes": 91195,
+      "sha256": "70749b175c0e8502bf89fceac64eaaa95f4c69777c2d2608986a44cfda2852fa"
+    },
+    {
+      "id": "investidura-rajoy-fallida",
+      "url": "https://www.rtve.es/noticias/20160902/pleno-segunda-votacion-investidura-mariano-rajoy/1392322.shtml",
+      "status": 200,
+      "bytes": 191068,
+      "sha256": "c4c973db043b5d91eb814d7237afd4fe847c4fa957a0835e7df3a1a2804a8374"
+    },
+    {
+      "id": "pactos-investiduras",
+      "url": "https://lab.rtve.es/las-claves/pactos-gobierno-legislatura-investidura-espana-gobernabilidad-2019-05-07/",
+      "status": 200,
+      "bytes": 42226,
+      "sha256": "f027199b979151e55796c8be630cb6fd05b0f7efb122fd562c72b4472c41f921"
+    },
+    {
+      "id": "lezo-registros",
+      "url": "https://www.rtve.es/temas/madrid/1508/277/",
+      "status": 200,
+      "bytes": 196308,
+      "sha256": "45c9cb0a115a8b8b381ce461cdb7f8cecc86c659ac8d093addbd2fa95da5a1d8"
+    },
+    {
+      "id": "guertel-sentencia-2018",
+      "url": "https://www.rtve.es/noticias/20180524/audiencia-nacional-condena-a-barcenas-correa-pp-pieza-principal-del-caso-guertel/1738964.shtml",
+      "status": 200,
+      "bytes": 103968,
+      "sha256": "2aaf6f1c3dafc2a3e7595a4ca104ead8a2e9d51aab4afa2ab3c2b69d7bd3ab28"
+    },
+    {
+      "id": "genova-supremo-2024",
+      "url": "https://cadenaser.com/nacional/2024/11/15/el-supremo-confirma-que-el-pp-pago-en-negro-la-reforma-de-genova-13-pero-rebaja-las-condenas-cadena-ser/",
+      "status": 200,
+      "bytes": 194225,
+      "sha256": "81672f8ad47a04ab2ea17c1ac3d918f1447d0bac3e97237451bdbd6d7f59c195"
+    },
+    {
+      "id": "monton-dimision",
+      "url": "https://www.rtve.es/play/audios/24-horas/24-horas-carmen-monton-dimite-como-ministra-sanidad-insiste-no-cometido-irregularidades-su-master/4732878/",
+      "status": 200,
+      "bytes": 266416,
+      "sha256": "85bf63054c697d70a034572d54a2e986bfb6b620d8556f41fbd68c8450ac676a"
+    },
+    {
+      "id": "sanchez-investidura-2019",
+      "url": "https://amp.rtve.es/noticias/20190725/sanchez-politico-resiliente-se-resisten-investiduras/1976058.shtml",
+      "status": 200,
+      "bytes": 77268,
+      "sha256": "ff0f5046a87ff580d8682afb748a71d228fa7b486dba51b8e4bb649fa872b4d3"
+    },
+    {
+      "id": "sahara-giro-2022",
+      "url": "https://www.rtve.es/play/videos/la-tarde-en-24h/espana-marruecos-plan-sahara/6452978/",
+      "status": 200,
+      "bytes": 58819,
+      "sha256": "57e2a3b00f7cf69fd98f00e8306bb73eba7fd03d8255cb8b41150f297316c6b0"
+    },
+    {
+      "id": "pegasus-cese",
+      "url": "https://www.rtve.es/play/videos/informativo-24h/paz-esteban-primer-cese-espionaje-pegasus/6532450/",
+      "status": 200,
+      "bytes": 58810,
+      "sha256": "1070a3442b3676730bf810cd1c25c7b0bc59a2e4db121ecb8a803914bc9e0fd8"
+    },
+    {
+      "id": "argelia-tratado",
+      "url": "https://elpais.com/espana/2022-06-08/argelia-rompe-el-tratado-de-amistad-y-buena-vecindad-con-espana-suscrito-hace-20-anos.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "argentina-retirada",
+      "url": "https://www.rtve.es/play/videos/rtve-noticias-video/espana-retira-su-embajadora-buenos-aires-significa-consecuencias-tiene/16113540/",
+      "status": 200,
+      "bytes": 60235,
+      "sha256": "1445f38074c7029aea52f84ede9c35c9e8be0396e3919d61e1e0af0e35d08b65"
+    },
+    {
+      "id": "vivienda-bde-2026",
+      "url": "https://www.bde.es/f/webbe/Secciones/Publicaciones/InformesBoletinesRevistas/InformesEstabilidadFinancera/26/IEF_2026_1_Cap1.pdf",
+      "status": 200,
+      "bytes": 250261,
+      "sha256": "a174ef9c7c66255f7966f4e996a747b3c02db60804589024feef3f2670f48e8a"
+    },
+    {
+      "id": "vivienda-rechazo-2026",
+      "url": "https://amp.rtve.es/noticias/20261002/pasa-ahora-medidas-decretos-vivienda-tiempo-vigente/17250932.shtml",
+      "status": 200,
+      "bytes": 70382,
+      "sha256": "fe359712e2f21d79287daf0af82eb4310223c80c246975dfe9a7f7b2ef9900c4"
+    },
+    {
+      "id": "vivienda-nuevas-medidas",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261006-referencia-rueda-de-prensa-ministros.aspx",
+      "status": 200,
+      "bytes": 164774,
+      "sha256": "34019730dd38453daf169fa5315e3be300c7526ea13f43071c31c168b7e340da"
+    },
+    {
+      "id": "moncloa-octubre-2026",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261013-referencia-rueda-de-prensa-ministros.aspx",
+      "status": 200,
+      "bytes": 208683,
+      "sha256": "7c6f040b0d95ebc9c80ae461260d9b875b2162183231c1d5cb4a8d0c4cedec7a"
+    },
+    {
+      "id": "garcia-ortiz-nulidad",
+      "url": "https://www.rtve.es/noticias/20260226/supremo-rechaza-anular-condena-exfiscal-general-estado-revelacion-secretos/16955912.shtml",
+      "status": 200,
+      "bytes": 71238,
+      "sha256": "8228fd099f15e22faf946895e19061a1e5256aca35a686014a9dd2e35d059bb2"
+    },
+    {
+      "id": "garcia-ortiz-amparo",
+      "url": "https://www.rtve.es/noticias/20260410/fiscalia-recurre-constitucional-condena-ex-fiscal-general/17017566.shtml",
+      "status": 200,
+      "bytes": 71533,
+      "sha256": "d21825220a3b124922be4f12556dac52c42c42223554cf3634de82d3280e3c5c"
+    },
+    {
+      "id": "gomez-procesamiento",
+      "url": "https://www.rtve.es/noticias/20260413/peinado-procesa-a-begona-gomez-por-trafico-influencias-malversacion-corrupcion-negocios-apropiacion-indebida/17020957.shtml",
+      "status": 200,
+      "bytes": 90123,
+      "sha256": "6d307dc32c2e838c66d2e6c082a1ad6ec19924cec183828a295cb2530d690c96"
+    },
+    {
+      "id": "gomez-jurado-apelacion",
+      "url": "https://www.rtve.es/noticias/20260716/audiencia-madrid-mantiene-juicio-con-jurado-popular-contra-begona-gomez-ordena-devolucion-su-pasaporte/17158645.shtml",
+      "status": 200,
+      "bytes": 77660,
+      "sha256": "65fe109df9ee461cf05e4a9e188dd6f451c0a671e051a0116fd16ca4ca3d315f"
+    },
+    {
+      "id": "gomez-juicio-oral",
+      "url": "https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml",
+      "status": 200,
+      "bytes": 81887,
+      "sha256": "523dddaa85ced03a7d12c6e49fb0772371b526c083725084b33d24185aa39f65"
+    },
+    {
+      "id": "gomez-fiscalia-absolucion",
+      "url": "https://www.rtve.es/noticias/20261007/fiscalia-pide-audiencia-provincial-madrid-absuelva-begona-gomez-asesora/17256791.shtml",
+      "status": 200,
+      "bytes": 62852,
+      "sha256": "29b0bae256db28f558258d3290f974dd388ecd9cc736bff5216d7a92937c67fd"
+    },
+    {
+      "id": "david-sentencia",
+      "url": "https://www.rtve.es/noticias/20260714/sentencia-david-sanchez-audiencia-badajoz-contratacion-diputacion/17141369.shtml",
+      "status": 200,
+      "bytes": 90075,
+      "sha256": "78d81d95225a510c44757345be7f5f6ef00d6c4e321119ba5fadd9d946a16ffd"
+    },
+    {
+      "id": "david-recurso",
+      "url": "https://elpais.com/espana/2026-10-13/gallardo-niega-amanos-para-favorecer-a-david-sanchez-y-pide-anular-su-condena-ni-siquiera-sabia-de-su-existencia.html",
+      "status": 200,
+      "bytes": 407151,
+      "sha256": "3614c515efbeb4905564a19e5cb09b2a4fe268e03cbe8b9e28234c85841f9f72"
+    },
+    {
+      "id": "plus-ultra-imputacion",
+      "url": "https://www.rtve.es/noticias/20260519/zapatero-imputado-caso-plus-ultra-audiencia-nacional/17075012.shtml",
+      "status": 200,
+      "bytes": 101173,
+      "sha256": "56464ce4563e95133b30205f0fda6a39e95eb436ed413ea8da01fbf0a91fd045"
+    },
+    {
+      "id": "plus-ultra-declaracion",
+      "url": "https://www.rtve.es/noticias/20260617/claves-declaracion-zapatero-expresidente-niega-delitos-juez-mantiene-indicios-criminalidad/17119950.shtml",
+      "status": 200,
+      "bytes": 76459,
+      "sha256": "fe5bc788e7af29b31f73c42641549af654a373faf07c4a38f3dc32ce10ccdb77"
+    },
+    {
+      "id": "plus-ultra-testimonio",
+      "url": "https://www.rtve.es/noticias/20260720/julio-martinez-juez-confiesa-zapatero-medio-rescate-plus-ultra/17162498.shtml",
+      "status": 200,
+      "bytes": 90324,
+      "sha256": "91576ee8bc678470171141d2937abc4e66a506ed2e7d9c48a72af6b87d72efae"
+    },
+    {
+      "id": "plus-ultra-defensa",
+      "url": "https://www.rtve.es/noticias/20260723/entrevista-jose-luis-rodriguez-zapatero-rtve-cronica/17166466.shtml",
+      "status": 200,
+      "bytes": 98406,
+      "sha256": "97bcccfc6e8f53de714c1cdfcdb828e92ef2c284096237bcdde71cfff9a4235f"
+    },
+    {
+      "id": "plus-ultra-recurso",
+      "url": "https://www.rtve.es/noticias/20260904/juez-desestima-recurso-zapatero-para-lograr-nulidad-del-caso-plus-ultra/17212760.shtml",
+      "status": 200,
+      "bytes": 65671,
+      "sha256": "63d7370d5399db1ae10ac2efa025fbaad7a1b5500bfb27b5b9fc7f715fe927ef"
+    },
+    {
+      "id": "plus-ultra-filtraciones",
+      "url": "https://www.rtve.es/noticias/20261015/jueza-investiga-filtraciones-causa-zapatero-plus-ultra/17268085.shtml",
+      "status": 200,
+      "bytes": 66181,
+      "sha256": "212993bec3426357dfbb6c397841ade3feee12f71004aa81d5979fccf08e0a4f"
+    },
+    {
+      "id": "bilbao-inundaciones",
+      "url": "https://www.rtve.es/play/videos/fue-noticia-en-el-archivo-de-rtve/inundaciones-bilbao-1983/298059/",
+      "status": 200,
+      "bytes": 56276,
+      "sha256": "6e9ab8aea5d6eff569277017007a72868ab0e730650bd3ae78c574c7d89c101c"
+    },
+    {
+      "id": "peseta-1992",
+      "url": "https://www.servimedia.es/noticias/balances-1992-mercados-financieros-/1410790005",
+      "status": 200,
+      "bytes": 90519,
+      "sha256": "07f9ecb0b940b70904802ef32f267377d99e506fa48e10e067dbe590460c6b27"
+    },
+    {
+      "id": "angrois-aniversario",
+      "url": "https://amp.rtve.es/noticias/20140724/accidente-tren-santiago-primer-aniversario/978661.shtml",
+      "status": 200,
+      "bytes": 87409,
+      "sha256": "b4a6fd9fef05d5404443e9d61d07440ca749dde26289ba6f6c73fe2cd8f5e4de"
+    },
+    {
+      "id": "ebola-informe-sns",
+      "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/sisInfSanSNS/tablasEstadisticas/InfAnualSNS2016/Informe_Anual_SNS_2016_completo.pdf",
+      "status": 200,
+      "bytes": 16710417,
+      "sha256": "1d509db3ce33a37960b9c432baaaabf7af614dc538135fec193c439af1a44864"
+    },
+    {
+      "id": "17a-aniversario",
+      "url": "https://amp.rtve.es/noticias/20260817/barcelona-conmemora-noveno-aniversario-atentados-del-17-a/17192979.shtml",
+      "status": 200,
+      "bytes": 67239,
+      "sha256": "812dfccfaa205ea6a3337cf5689e80d062cfa389b3c78d3530eda1d8971af252"
+    },
+    {
+      "id": "filomena-2021",
+      "url": "https://www.rtve.es/noticias/20260108/cinco-anos-filomena-borrasca-sepulto-bajo-nieve-a-media-espana/16886250.shtml",
+      "status": 200,
+      "bytes": 74158,
+      "sha256": "336c8531729ce70f55f069007d63216c58a71fac52c5d282799a8b7672e311bb"
+    },
+    {
+      "id": "palma-erupcion-2021",
+      "url": "https://stories.rtve.es/actualidad/newstory/directo-al-grano/5424bc2d9307150723a3",
+      "status": 200,
+      "bytes": 214652,
+      "sha256": "1fabc35c0aadab7752ff6e2a4884883bdb5b27d1ee6b519de53b4307eced7879"
+    },
+    {
+      "id": "rato-black-casacion",
+      "url": "https://www.rtve.es/play/audios/14-horas/14-horas-supremo-confirma-cuatro-anos-medio-prision-para-rato-tarjetas-black/4771258/",
+      "status": 200,
+      "bytes": 264243,
+      "sha256": "020f9c2f8dc3bb1b8447753dbc26813af3984b4bad3184bdcbd42609fc89f7da"
+    },
+    {
+      "id": "matas-casacion",
+      "url": "https://amp.rtve.es/noticias/20130723/tribunal-supremo-rebaja-pena-matas-a-9-meses-caso-palma-arena/722001.shtml",
+      "status": 200,
+      "bytes": 69155,
+      "sha256": "f93ae9e66bacee7e95912a3e4d62191115c0fe44fc8a344792b6feabb2f67e25"
+    },
+    {
+      "id": "zaplana-erial-condena",
+      "url": "https://www.rtve.es/play/videos/telediario-1/exministro-eduardo-zaplana-condenado-prision-cohecho-blanqueo/16289073/",
+      "status": 200,
+      "bytes": 60154,
+      "sha256": "b24befe83de5300e5ecac55db4f7c14da03c5db1c84884fb2c8960a334c53943"
+    },
+    {
+      "id": "camps-absolucion",
+      "url": "https://efe.com/espana/2024-05-29/la-audiencia-nacional-absuelve-a-francisco-camps-por-su-ultimo-fleco-del-caso-gurtel/",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "amnistia-fiscal-tc",
+      "url": "https://www.tribunalconstitucional.es/va/memorias/Documents/MEMORIA2017.pdf",
+      "status": 200,
+      "bytes": 1265639,
+      "sha256": "40a101ebb2ccd774b6e076fcfa77668a979be7a4b4443c9db9096d3da31c37bd"
+    },
+    {
+      "id": "fiscal-condena-2025",
+      "url": "https://www.rtve.es/noticias/20251120/supremo-condena-fiscal-general-revelacion-datos-inhabilitacion-dos-anos-multa/16824031.shtml",
+      "status": 200,
+      "bytes": 90377,
+      "sha256": "cb9ceb35cfa1aa1316b2aaf872f43733de4d0841fae5346f068bb444d6018f1a"
+    },
+    {
+      "id": "koldo-obras-remision",
+      "url": "https://www.rtve.es/noticias/20260202/supremo-envia-a-audiencia-nacional-causa-contra-abalos-cerdan-koldo-por-presuntos-amanos-obra-publica/16919707.shtml",
+      "status": 200,
+      "bytes": 69220,
+      "sha256": "9b5faf0ba10b6d8507b83666cde2639dc333b321209d318141b56e53da51cd7d"
+    },
+    {
+      "id": "salazar-inadmision",
+      "url": "https://www.rtve.es/noticias/20260115/juzgado-madrid-rechaza-querella-contra-paco-salazar-por-presunto-acoso-sexual/16895312.shtml",
+      "status": 200,
+      "bytes": 68805,
+      "sha256": "c54b085027104453bd24e67ff763e14f94e2380044fe607f37ed24cf450fdf0c"
+    },
+    {
+      "id": "salazar-senado",
+      "url": "https://www.rtve.es/play/videos/informativo-24h/salazar-niega-haber-dejado-su-cargo-acusaciones-acoso-sexual/16924730/",
+      "status": 200,
+      "bytes": 60090,
+      "sha256": "eade06323ac0cfefbdd5afa411e710085144c346b3b18524ff992b1d54cc0362"
+    },
+    {
+      "id": "leire-zarrias-testigo",
+      "url": "https://www.rtve.es/noticias/20260416/exconsejero-andaluz-gaspar-zarrias-testigo-causa-leire-diez/17026069.shtml",
+      "status": 200,
+      "bytes": 81167,
+      "sha256": "74b9874bc446bae2bfc2a27cf96588d3879b6009602cdd52e3ad033532d25f9f"
+    },
+    {
+      "id": "presupuestos-2026-prorrogas",
+      "url": "https://elpais.com/economia/2026-08-25/los-retoques-en-los-presupuestos-hasta-junio-superan-los-de-todo-el-ano-pasado.html",
+      "status": 200,
+      "bytes": 402797,
+      "sha256": "2cf83c5fece66bf2e5246c88d32c4efd1ddcf59ae6432809d186741c21faf43c"
+    },
+    {
+      "id": "smi-boe-a-1998-30040",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-30040",
+      "status": 200,
+      "bytes": 29713,
+      "sha256": "3fe56c29603ff98ebbb0f031856c401a5051e617fa2bc9367df57e4c6d52b694"
+    },
+    {
+      "id": "smi-boe-a-1999-24923",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-24923",
+      "status": 200,
+      "bytes": 29308,
+      "sha256": "bbdce7ef508e7f89fd47e0bd6baff986c7e1a1071a7a09d325dd5b6381331537"
+    },
+    {
+      "id": "smi-boe-a-2000-24365",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-24365",
+      "status": 200,
+      "bytes": 29219,
+      "sha256": "c8d794acc17db837566484224936d7d60791dbb77ecd53e13af719ca4b73e939"
+    },
+    {
+      "id": "smi-boe-a-2001-24745",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-24745",
+      "status": 200,
+      "bytes": 29148,
+      "sha256": "3c8157a3c0c085f6f317d45c78db507a609e9c6a01daf5488bef8ad37fc856ba"
+    },
+    {
+      "id": "smi-boe-a-2002-25290",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2002-25290",
+      "status": 200,
+      "bytes": 29144,
+      "sha256": "40de647db1a93907e16d5535680bb539304afe9008cfaee2024b53d93abe1e65"
+    },
+    {
+      "id": "smi-boe-a-2003-23711",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-23711",
+      "status": 200,
+      "bytes": 29520,
+      "sha256": "1878c2de4728bdc5fd9a4230bb240a9c8301a751429e8da925cde3c47d0650a4"
+    },
+    {
+      "id": "smi-boe-a-2004-21909",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2004-21909",
+      "status": 200,
+      "bytes": 31113,
+      "sha256": "264cdafc7e215ff29c9a5b9886280b93bf4e60270715fd9db234108a7e9f3d16"
+    },
+    {
+      "id": "smi-boe-a-2005-21610",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2005-21610",
+      "status": 200,
+      "bytes": 31217,
+      "sha256": "45c944ab21dd902c1944a0853265ba1bf66246e557060ef8b9a5e36a45aa243a"
+    },
+    {
+      "id": "smi-boe-a-2006-22959",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2006-22959",
+      "status": 200,
+      "bytes": 31240,
+      "sha256": "52e205b5ba74d7957cd6208771af285d054ead5fdc06e3def06a35bda5121ab2"
+    },
+    {
+      "id": "smi-boe-a-2007-22451",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-22451",
+      "status": 200,
+      "bytes": 31494,
+      "sha256": "00f2a72a208fbb006afee57bb66f0da7832a477dbd232aad4eda64612ab829a0"
+    },
+    {
+      "id": "smi-boe-a-2008-20958",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2008-20958",
+      "status": 200,
+      "bytes": 31639,
+      "sha256": "f65ffa3de318192c32ed399f267766722f5e7d74defed57a65c962fb90359a92"
+    },
+    {
+      "id": "smi-boe-a-2009-21170",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2009-21170",
+      "status": 200,
+      "bytes": 30421,
+      "sha256": "4d5e32ca633d730e9a541a4f4e64ef0deaa857c861b65cc2d5524a06703dc703"
+    },
+    {
+      "id": "smi-boe-a-2010-20150",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-20150",
+      "status": 200,
+      "bytes": 31608,
+      "sha256": "ee4b5f473e5018c749c0237ab5a66b1bf0d46166013458d02686bc131bb83a11"
+    },
+    {
+      "id": "smi-boe-a-2011-20645",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-20645",
+      "status": 200,
+      "bytes": 30805,
+      "sha256": "b050000ed577ee52d77ab9e1885776a9c85d0c7c7bd435bd33e0da4d81ab52b0"
+    },
+    {
+      "id": "smi-boe-a-2012-15766",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-15766",
+      "status": 200,
+      "bytes": 31260,
+      "sha256": "7cc611322591751b3399ab350814ba215ccbd78bb304a2b7daeee0192f0563fe"
+    },
+    {
+      "id": "smi-boe-a-2013-13764",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-13764",
+      "status": 200,
+      "bytes": 35425,
+      "sha256": "66d3b8dae8bcc8bd1aad255e353f8494d7acf86c2e96cff2b24797e877175ad2"
+    },
+    {
+      "id": "smi-boe-a-2014-13518",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-13518",
+      "status": 200,
+      "bytes": 30895,
+      "sha256": "10a24a2d43f5e4f5f0a6d4f41f775c98ac15afccee21bffe00f9907304b3f014"
+    },
+    {
+      "id": "smi-boe-a-2015-14273",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-14273",
+      "status": 200,
+      "bytes": 35499,
+      "sha256": "c7a459159e8bfbb955b42a98f5659921bb4b2f954f2e4452e6b20ccce84b0987"
+    },
+    {
+      "id": "smi-boe-a-2016-12598",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12598",
+      "status": 200,
+      "bytes": 35205,
+      "sha256": "13dc50e0a9697c5c2f8c4cc43b70d020402937ae66762b28ef49d4d84e68c6b6"
+    },
+    {
+      "id": "smi-boe-a-2017-15848",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-15848",
+      "status": 200,
+      "bytes": 42275,
+      "sha256": "dcbd3fc2050e247c39fec60ec8507097305b7d134c59d079858c05e2035a8448"
+    },
+    {
+      "id": "smi-boe-a-2018-17773",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17773",
+      "status": 200,
+      "bytes": 49630,
+      "sha256": "097845620136816a424782a5a738ebddbbb298ff8c8d1649fab499cabfbe5170"
+    },
+    {
+      "id": "smi-boe-a-2020-1652",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-1652",
+      "status": 200,
+      "bytes": 53190,
+      "sha256": "85b6561ce56590462d263ec5d95631d357a789014dc961999bd106f7a7d01472"
+    },
+    {
+      "id": "smi-boe-a-2021-15770",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15770",
+      "status": 200,
+      "bytes": 52782,
+      "sha256": "ff865e7fd6a855f38aed13294283ba80d47ad3be783959177905eda8e011a10e"
+    },
+    {
+      "id": "smi-boe-a-2022-2851",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-2851",
+      "status": 200,
+      "bytes": 52581,
+      "sha256": "f4a0d97931f35a430faedc82e49afececf5190455c4b40c58af02feb59fccbdd"
+    },
+    {
+      "id": "smi-boe-a-2023-3982",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-3982",
+      "status": 200,
+      "bytes": 48255,
+      "sha256": "e97e421cbf731e77add612410e26549d434d4eeddd97217e63df71f08b0e50b8"
+    },
+    {
+      "id": "smi-boe-a-2024-2251",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-2251",
+      "status": 200,
+      "bytes": 52874,
+      "sha256": "23ecf9c81153e92e1e0c453640f0349e6fb480a4cf06ad987f2a836e1a2c4154"
+    },
+    {
+      "id": "smi-boe-a-2025-2576",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2576",
+      "status": 200,
+      "bytes": 51820,
+      "sha256": "85b5056a34f31b7fbb8132ef5c71c03414bc17158fbd69c909fae680cc735e1f"
+    },
+    {
+      "id": "smi-boe-a-2026-3815",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3815",
+      "status": 200,
+      "bytes": 41991,
+      "sha256": "a88d31e5dce050c16ee9d9ef701dc59bf5b839b2d1e2bbcc5349d3cf350601b6"
+    }
+  ]
+}

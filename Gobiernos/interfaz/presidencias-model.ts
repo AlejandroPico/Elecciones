@@ -2,6 +2,7 @@ import eventFile from "../investigacion/presidencias-centrales/eventos.json";
 import sourceFile from "../investigacion/presidencias-centrales/fuentes.json";
 import stageFile from "../investigacion/presidencias-centrales/etapas.json";
 import presentation from "../investigacion/presidencias-centrales/presentacion.json";
+import normFile from "../investigacion/presidencias-centrales/normativa.json";
 import { governmentCatalog } from "./catalogo";
 
 export type EventKind =
@@ -9,6 +10,7 @@ export type EventKind =
   | "balance"
   | "crisis"
   | "scandal"
+  | "legislation"
   | "institutional";
 export type PresidencyEvent = {
   id: string;
@@ -29,11 +31,45 @@ export type PresidencyEvent = {
   judicialStatus?: string;
   statusAtSource?: string;
   factsPeriod?: string;
+  topics?: string[];
+  displayStages?: { stage: string; reason: string }[];
+  boeId?: string;
 };
 export const researchDate = eventFile.checkedAt;
-export const events = eventFile.events as PresidencyEvent[];
+const normativeEvents: PresidencyEvent[] = normFile.norms.map((norm) => ({
+  id: norm.id.toLowerCase(),
+  boeId: norm.id,
+  date: norm.date,
+  datePrecision: "day",
+  stage: norm.stage,
+  title: norm.title,
+  category: "normativa",
+  summary: norm.rank + " · Publicación en el BOE",
+  attribution: `Registro del índice del BOE. ${norm.officialTitle} Departamento emisor: ${norm.department}. La fecha es la de publicación; puede diferir de la aprobación y de la entrada en vigor. Las leyes son aprobadas por las Cortes; su inclusión en una presidencia no acredita autoría exclusiva del Ejecutivo.`,
+  sources: [norm.id.toLowerCase()],
+  pending: [],
+  verification: "metadatos-oficiales-boe",
+  reviewedAt: normFile.checkedAt,
+  topics: norm.topics,
+}));
+export const events = [
+  ...(eventFile.events as PresidencyEvent[]),
+  ...normativeEvents,
+];
 export const sources = Object.fromEntries(
-  sourceFile.sources.map((s) => [s.id, s]),
+  [
+    ...sourceFile.sources,
+    ...normFile.norms.map((norm) => ({
+      id: norm.id.toLowerCase(),
+      title: norm.officialTitle,
+      url: `https://www.boe.es/diario_boe/txt.php?id=${norm.id}`,
+      supports: "Título, rango y fecha de publicación de la disposición.",
+      limits:
+        "Entrada documental basada en metadatos oficiales. No es una evaluación de efectos ni una lectura íntegra de los artículos; consultar el texto original para conocer su alcance y vigencia.",
+      consultedAt: normFile.checkedAt,
+      kind: "primary",
+    })),
+  ].map((s) => [s.id, s]),
 );
 export const stages = stageFile.stages;
 export const presidencies = presentation.presidencies;
@@ -43,9 +79,39 @@ export const kinds: { id: EventKind; label: string }[] = [
   { id: "crisis", label: "Crisis y reveses" },
   { id: "scandal", label: "Escándalos" },
   { id: "institutional", label: "Institucional" },
+  { id: "legislation", label: "Leyes y medidas" },
 ];
+export const topics = [
+  ["vivienda", "Vivienda"],
+  ["trabajo", "Trabajo y salarios"],
+  ["pensiones-y-proteccion-social", "Pensiones y protección social"],
+  ["educacion-y-ciencia", "Educación y ciencia"],
+  ["sanidad", "Sanidad"],
+  ["economia-y-presupuestos", "Economía y presupuestos"],
+  ["energia-y-medio-ambiente", "Energía y medio ambiente"],
+  ["justicia-y-derechos", "Justicia y derechos"],
+  ["interior-y-seguridad", "Interior y seguridad"],
+  ["exterior-y-defensa", "Exterior y defensa"],
+  ["territorio-e-instituciones", "Territorio e instituciones"],
+  ["infraestructuras-y-sectores", "Infraestructuras y sectores"],
+  ["corrupcion-y-crisis-politica", "Corrupción y crisis política"],
+  ["otras-materias", "Otras materias"],
+] as const;
+export function eventTopics(event: PresidencyEvent): readonly string[] {
+  if (event.topics?.length) return event.topics;
+  if (event.caseId)
+    return ["corrupcion-y-crisis-politica", "justicia-y-derechos"];
+  const category: Record<string, string> = {
+    economico: "economia-y-presupuestos",
+    exterior: "exterior-y-defensa",
+    social: "pensiones-y-proteccion-social",
+    institucional: "territorio-e-instituciones",
+  };
+  return [category[event.category] ?? "otras-materias"];
+}
 export const presentationCriteria = presentation;
 export function eventKind(event: PresidencyEvent): EventKind {
+  if (event.boeId) return "legislation";
   const override = (presentation.eventOverrides as Record<string, EventKind>)[
     event.id
   ];
@@ -114,6 +180,9 @@ export function matchesEvent(
       event.factsPeriod,
       event.caseId,
       event.date,
+      ...eventTopics(event).map(
+        (id) => topics.find((t) => t[0] === id)?.[1] ?? id,
+      ),
     ].join(" "),
   );
   return normalizeSearch(query)
@@ -127,12 +196,21 @@ export function stagesFor(person: string) {
     .filter((stage) => presidency?.stages.includes(stage.id))
     .reverse();
 }
-export function eventsFor(stageId: string) {
-  // Un hecho pertenece a su administración de origen: las resoluciones posteriores
-  // y los alcances compartidos se explican sin sumarlo de nuevo a otro Gobierno.
+export function eventsFor(stageId: string, ascending = false) {
+  // Un registro canónico puede mostrarse en varias etapas con su relación expresa.
   return events
-    .filter((event) => event.stage === stageId)
-    .sort((a, b) => a.date.localeCompare(b.date));
+    .filter(
+      (event) =>
+        event.stage === stageId ||
+        event.stageAtMilestone === stageId ||
+        event.relatedStages?.includes(stageId) ||
+        event.displayStages?.some((link) => link.stage === stageId),
+    )
+    .sort(
+      (a, b) =>
+        (ascending ? 1 : -1) *
+        (a.date.localeCompare(b.date) || a.id.localeCompare(b.id)),
+    );
 }
 export function cabinetFor(stageId: string, person: string) {
   const stage = stages.find((s) => s.id === stageId);

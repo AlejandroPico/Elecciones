@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { ArrowUpRight, ChevronDown, Search, RotateCcw } from "lucide-react";
 import portraits from "virtual:presidencias-retratos";
 import { PortraitImage } from "../../Políticos/interfaz/ImagenRetrato";
@@ -7,6 +7,8 @@ import {
   cabinetFor,
   durationLabel,
   eventKind,
+  eventTopics,
+  events,
   eventsFor,
   judicialLabel,
   kinds,
@@ -18,12 +20,19 @@ import {
   sources,
   stages,
   timelinePosition,
+  topics,
   type EventKind,
   type PresidencyEvent,
 } from "./presidencias-model";
 import "./presidencias.css";
 
-function EventRecord({ event }: { event: PresidencyEvent }) {
+function EventRecord({
+  event,
+  stageId,
+}: {
+  event: PresidencyEvent;
+  stageId: string;
+}) {
   const kind = eventKind(event);
   const resolution = stages.find(
     (stage) => stage.id === event.stageAtMilestone,
@@ -32,8 +41,14 @@ function EventRecord({ event }: { event: PresidencyEvent }) {
   const related = stages.filter((stage) =>
     event.relatedStages?.includes(stage.id),
   );
+  const link = event.displayStages?.find((item) => item.stage === stageId);
+  const origin = stages.find((stage) => stage.id === event.stage);
   return (
-    <details className="pres-event" data-kind={kind} id={`hecho-${event.id}`}>
+    <details
+      className="pres-event"
+      data-kind={kind}
+      id={`hecho-${stageId}-${event.id}`}
+    >
       <summary>
         <time dateTime={event.date}>{researchDateLabel(event.date, true)}</time>
         <div className="pres-event-copy">
@@ -41,9 +56,10 @@ function EventRecord({ event }: { event: PresidencyEvent }) {
             <span className="pres-event-kind">
               {kinds.find((k) => k.id === kind)!.label}
             </span>
-            {resolution && (
+            {resolution && event.stage === stageId && (
               <span>Hito posterior · {resolution.legislature}</span>
             )}
+            {event.stage !== stageId && <span>Hecho vinculado</span>}
           </div>
           <h4>{event.title}</h4>
           <p>{event.summary}</p>
@@ -60,6 +76,17 @@ function EventRecord({ event }: { event: PresidencyEvent }) {
         </div>
       </summary>
       <div className="pres-event-detail">
+        {link && (
+          <p>
+            <strong>Relación con esta etapa.</strong> {link.reason}
+          </p>
+        )}
+        {event.stage !== stageId && origin && (
+          <p>
+            <strong>Contexto de origen.</strong> {origin.president} ·{" "}
+            {origin.legislature ?? "Transición"}.
+          </p>
+        )}
         <p>{event.attribution}</p>
         {event.factsPeriod && (
           <p>
@@ -112,6 +139,38 @@ function EventRecord({ event }: { event: PresidencyEvent }) {
   );
 }
 
+function EventList({
+  entries,
+  stageId,
+}: {
+  entries: PresidencyEvent[];
+  stageId: string;
+}) {
+  const [count, setCount] = useState(16);
+  const sentinel = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!sentinel.current || count >= entries.length) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) setCount((value) => value + 24);
+      },
+      { rootMargin: "700px" },
+    );
+    observer.observe(sentinel.current);
+    return () => observer.disconnect();
+  }, [count, entries.length]);
+  return (
+    <div className="pres-events" data-total={entries.length}>
+      {entries.slice(0, count).map((event) => (
+        <EventRecord key={event.id} event={event} stageId={stageId} />
+      ))}
+      {count < entries.length && (
+        <div ref={sentinel} className="pres-load-sentinel" aria-hidden="true" />
+      )}
+    </div>
+  );
+}
+
 export default function Presidencies({
   selectedPresident,
   openPresident,
@@ -127,6 +186,11 @@ export default function Presidencies({
   const [kind, setKind] = useState<EventKind | "all">("all");
   const [legislature, setLegislature] = useState("all");
   const [ascending, setAscending] = useState(false);
+  const [topic, setTopic] = useState("all");
+  const [year, setYear] = useState("all");
+  const years = [...new Set(events.map((event) => event.date.slice(0, 4)))]
+    .sort()
+    .reverse();
   const selected = presidencies.find(
     (p) => p.person === selectedPresident,
   )?.person;
@@ -147,7 +211,12 @@ export default function Presidencies({
     return ascending ? records : records.reverse();
   };
   const filteredEvents = (stage: string) =>
-    eventsFor(stage).filter((event) => matchesEvent(event, query, kind));
+    eventsFor(stage, ascending).filter(
+      (event) =>
+        matchesEvent(event, query, kind) &&
+        (topic === "all" || eventTopics(event).includes(topic)) &&
+        (year === "all" || event.date.startsWith(year)),
+    );
   const visible = (
     ascending ? presidencies : [...presidencies].reverse()
   ).filter(
@@ -161,7 +230,12 @@ export default function Presidencies({
       )
     : [];
   const filtersActive =
-    !!selected || !!query || kind !== "all" || legislature !== "all";
+    !!selected ||
+    !!query ||
+    kind !== "all" ||
+    legislature !== "all" ||
+    topic !== "all" ||
+    year !== "all";
   const renderStage = (stage: (typeof stages)[number], person?: string) => {
     const entries = filteredEvents(stage.id);
     if (!entries.length) return null;
@@ -185,11 +259,11 @@ export default function Presidencies({
             </button>
           )}
         </header>
-        <div className="pres-events">
-          {entries.map((event) => (
-            <EventRecord key={event.id} event={event} />
-          ))}
-        </div>
+        <EventList
+          key={[stage.id, query, kind, topic, year, ascending].join(":")}
+          entries={entries}
+          stageId={stage.id}
+        />
       </section>
     );
   };
@@ -232,6 +306,14 @@ export default function Presidencies({
               por sí sola un resultado favorable. Las fechas de consulta no
               convierten una resolución antigua en el estado judicial actual;
               cada caso conserva su fecha y sus pendientes.
+            </p>
+            <p>
+              «Leyes y medidas» incorpora el índice normativo del BOE: la fecha
+              corresponde a su publicación y el asunto procede de su título
+              oficial. Estos registros documentales se distinguen de los
+              acontecimientos desarrollados y no acreditan resultados. El
+              inventario semanal identifica las lagunas de hemeroteca; no se ha
+              completado una revisión íntegra de todas las semanas.
             </p>
             <p>{presentationCriteria.dateBasis}</p>
             {presentationCriteria.dateSources.map((url, index) => (
@@ -318,7 +400,7 @@ export default function Presidencies({
           ))}
         </select>
         <select
-          aria-label="Orden de las presidencias"
+          aria-label="Orden del histórico"
           value={ascending ? "asc" : "desc"}
           onChange={(e) => setAscending(e.target.value === "asc")}
         >
@@ -333,12 +415,38 @@ export default function Presidencies({
               setQuery("");
               setKind("all");
               setLegislature("all");
+              setTopic("all");
+              setYear("all");
               openPresident();
             }}
           >
             <RotateCcw size={16} />
           </button>
         )}
+      </div>
+      <div className="pres-subfilters">
+        <select
+          aria-label="Filtrar por materia"
+          value={topic}
+          onChange={(e) => setTopic(e.target.value)}
+        >
+          <option value="all">Todas las materias</option>
+          {topics.map(([id, label]) => (
+            <option key={id} value={id}>
+              {label}
+            </option>
+          ))}
+        </select>
+        <select
+          aria-label="Filtrar por año del acontecimiento"
+          value={year}
+          onChange={(e) => setYear(e.target.value)}
+        >
+          <option value="all">Todos los años</option>
+          {years.map((value) => (
+            <option key={value}>{value}</option>
+          ))}
+        </select>
       </div>
       <DragRail
         className="pres-kind-filter"

@@ -15,7 +15,11 @@
       "folder": "Adolfo Suárez González",
       "from": "1976-07-03",
       "until": "1981-02-25",
-      "stages": ["pre-suarez", "constituyente-suarez", "i-suarez"]
+      "stages": [
+        "pre-suarez",
+        "constituyente-suarez",
+        "i-suarez"
+      ]
     },
     {
       "person": "leopoldo-calvo-sotelo-y-bustelo",
@@ -24,7 +28,9 @@
       "folder": "Leopoldo Ramón Pedro Calvo-Sotelo y Bustelo",
       "from": "1981-02-25",
       "until": "1982-12-01",
-      "stages": ["i-calvo-sotelo"]
+      "stages": [
+        "i-calvo-sotelo"
+      ]
     },
     {
       "person": "felipe-gonzalez-marquez",
@@ -33,7 +39,12 @@
       "folder": "Felipe González Márquez",
       "from": "1982-12-01",
       "until": "1996-05-04",
-      "stages": ["ii-gonzalez", "iii-gonzalez", "iv-gonzalez", "v-gonzalez"]
+      "stages": [
+        "ii-gonzalez",
+        "iii-gonzalez",
+        "iv-gonzalez",
+        "v-gonzalez"
+      ]
     },
     {
       "person": "jose-maria-aznar-lopez",
@@ -42,7 +53,10 @@
       "folder": "José María Aznar López",
       "from": "1996-05-04",
       "until": "2004-04-17",
-      "stages": ["vi-aznar", "vii-aznar"]
+      "stages": [
+        "vi-aznar",
+        "vii-aznar"
+      ]
     },
     {
       "person": "jose-luis-rodriguez-zapatero",
@@ -51,7 +65,10 @@
       "folder": "José Luis Rodríguez Zapatero",
       "from": "2004-04-17",
       "until": "2011-12-21",
-      "stages": ["viii-zapatero", "ix-zapatero"]
+      "stages": [
+        "viii-zapatero",
+        "ix-zapatero"
+      ]
     },
     {
       "person": "rajoy",
@@ -60,7 +77,11 @@
       "folder": "Mariano Rajoy Brey",
       "from": "2011-12-21",
       "until": "2018-06-01",
-      "stages": ["x-rajoy", "xi-rajoy", "xii-rajoy"]
+      "stages": [
+        "x-rajoy",
+        "xi-rajoy",
+        "xii-rajoy"
+      ]
     },
     {
       "person": "sanchez",
@@ -69,7 +90,12 @@
       "folder": "Pedro Sánchez Pérez-Castejón",
       "from": "2018-06-01",
       "until": null,
-      "stages": ["xii-sanchez", "xiii-sanchez", "xiv-sanchez", "xv-sanchez"]
+      "stages": [
+        "xii-sanchez",
+        "xiii-sanchez",
+        "xiv-sanchez",
+        "xv-sanchez"
+      ]
     }
   ],
   "eventOverrides": {
@@ -114,6 +140,21 @@
     "responsabilidad-civil-segun-memoria-judicial": "Responsabilidad civil del Estado",
     "condena-firme-segun-agencia-pendiente-fallo-original": "Condena firme · información de agencia",
     "visto-para-sentencia-segun-agencia-a-agosto-2026": "Visto para sentencia · información de agencia",
-    "incidentes-de-nulidad-desestimados-segun-agencia": "Incidentes de nulidad desestimados · agencia"
+    "incidentes-de-nulidad-desestimados-segun-agencia": "Incidentes de nulidad desestimados · agencia",
+    "investigacion-historica": "Investigación en la fecha del hito",
+    "prision-provisional-historica": "Prisión provisional · hito histórico",
+    "controversia-parlamentaria": "Acusaciones y debate político",
+    "archivo-segun-prensa": "Archivo documentado en hemeroteca",
+    "condena-segun-prensa": "Condena documentada en hemeroteca",
+    "sentencia-revisada-posteriormente": "Sentencia revisada posteriormente",
+    "incidentes-de-nulidad-desestimados-segun-prensa": "Nulidad desestimada · hemeroteca",
+    "recurso-pendiente-segun-fuente": "Recurso presentado · sin resolución en la fuente",
+    "procesamiento-segun-prensa": "Procesamiento · sin condena en este hito",
+    "juicio-oral-segun-prensa": "Juicio oral · sin condena en este hito",
+    "condena-no-firme-y-absolucion-parcial": "Condena no firme y absolución parcial",
+    "investigacion-segun-prensa": "Investigación · presunción de inocencia",
+    "sentencia-no-firme-segun-prensa": "Sentencia recurrible en la fecha del hito",
+    "absolucion-segun-agencia": "Absolución · información de agencia",
+    "inadmision-procesal": "Inadmisión por requisitos procesales"
   }
 }
