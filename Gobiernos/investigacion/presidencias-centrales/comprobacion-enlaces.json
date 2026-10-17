@@ -1,0 +1,639 @@
+{
+  "checkedAt": "2026-10-17T11:58:11+00:00",
+  "scope": "Disponibilidad HTTP. No comprueba afirmaciones, identidad del documento ni actualización judicial. Un error puede corresponder a restricciones de acceso o del cliente.",
+  "sources": 79,
+  "available": 75,
+  "results": [
+    {
+      "source": "base-presidencias",
+      "url": "https://www.lamoncloa.gob.es/presidente/presidentes-desde-1823/Paginas/index.aspx",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.lamoncloa.gob.es/presidente/presidentes-desde-1823/Paginas/index.aspx",
+      "result": "available"
+    },
+    {
+      "source": "base-investiduras",
+      "url": "https://www.lamoncloa.gob.es/presidente/presidentes/Paginas/index.aspx",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.lamoncloa.gob.es/presidente/presidentes/Paginas/index.aspx",
+      "result": "available"
+    },
+    {
+      "source": "transicion-reforma",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1977-165",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1977-165",
+      "result": "available"
+    },
+    {
+      "source": "transicion-constitucion",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=19781229&tn=0",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=19781229&tn=0",
+      "result": "available"
+    },
+    {
+      "source": "transicion-cortes",
+      "url": "https://constitucion.congreso.es/constitucion-1978/elaboracion/cortesconstituyentes",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://constitucion.congreso.es/constitucion-1978/elaboracion/cortesconstituyentes",
+      "result": "available"
+    },
+    {
+      "source": "transicion-pactos",
+      "url": "https://www.congreso.es/gl/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=670&p_p_id=notasprensa&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.congreso.es/gl/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=670&p_p_id=notasprensa&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "result": "available"
+    },
+    {
+      "source": "transicion-amnistia",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1977-24937&lang=es&p=19771017&tn=2",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1977-24937&lang=es&p=19771017&tn=2",
+      "result": "available"
+    },
+    {
+      "source": "transicion-vitoria",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-4225",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-4225",
+      "result": "available"
+    },
+    {
+      "source": "i-investidura-1981",
+      "url": "https://www.congreso.es/public_oficiales/L1/CONG/DS/PL/PL_147.PDF",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.congreso.es/public_oficiales/L1/CONG/DS/PL/PL_147.PDF",
+      "result": "available"
+    },
+    {
+      "source": "i-23f",
+      "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ahms/novedades/efemerides/2026/febrero-23f.html",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ahms/novedades/efemerides/2026/febrero-23f.html",
+      "result": "available"
+    },
+    {
+      "source": "base-funciones",
+      "url": "https://constitucion.congreso.es/detalle-articulo?numero=101",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://constitucion.congreso.es/detalle-articulo?numero=101",
+      "result": "available"
+    },
+    {
+      "source": "i-divorcio",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-16216",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-16216",
+      "result": "available"
+    },
+    {
+      "source": "i-otan",
+      "url": "https://www.nato.int/en/about-us/organization/nato-member-countries?selectedLocale=eu",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.nato.int/en/about-us/organization/nato-member-countries?selectedLocale=eu",
+      "result": "available"
+    },
+    {
+      "source": "ii-otan-referendum",
+      "url": "https://www.defensa.gob.es/gabinete/notasPrensa/2021/07/DGC-210702-40-anos-espana-otan.html",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.defensa.gob.es:443/",
+      "result": "available"
+    },
+    {
+      "source": "ii-adhesion-cee",
+      "url": "https://www.consilium.europa.eu/en/documents/treaties-agreements/agreement/?docLanguage=en&id=1985005",
+      "method": "GET",
+      "httpStatus": 403,
+      "result": "not-verified",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "i-colza-responsabilidad",
+      "url": "https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/MEMORIAS/20181220%20Memoria%20AN%202017.pdf",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/MEMORIAS/20181220%20Memoria%20AN%202017.pdf",
+      "result": "available"
+    },
+    {
+      "source": "base-europa",
+      "url": "https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/EspanaUE.aspx",
+      "method": "GET",
+      "httpStatus": 200,
+      "result": "available",
+      "error": "HTTP Error 403: Forbidden!!!",
+      "resolvedUrl": "https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/EspanaUE.aspx"
+    },
+    {
+      "source": "ii-sanidad",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499&lang=es&p=19860429&tn=2",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499&lang=es&p=19860429&tn=2",
+      "result": "available"
+    },
+    {
+      "source": "ii-aborto",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-14138",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-14138",
+      "result": "available"
+    },
+    {
+      "source": "ii-reconversion",
+      "url": "https://www.boe.es/eli/es/l/1984/07/26/27",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/l/1984/07/26/27",
+      "result": "available"
+    },
+    {
+      "source": "iv-logse",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-24172&lang=es",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-24172&lang=es",
+      "result": "available"
+    },
+    {
+      "source": "ii-rumasa",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-5915",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-5915",
+      "result": "available"
+    },
+    {
+      "source": "ii-rumasa-tc",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1983-32826",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-T-1983-32826",
+      "result": "available"
+    },
+    {
+      "source": "ii-pensiones",
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-A-1985-16119&lang=es",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://boe.es/diario_boe/txt.php?id=BOE-A-1985-16119&lang=es",
+      "result": "available"
+    },
+    {
+      "source": "iii-huelga",
+      "url": "https://www.rtve.es/noticias/20121114/octava-huelga-general-democracia/335537.shtml",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.rtve.es/noticias/20121114/octava-huelga-general-democracia/335537.shtml",
+      "result": "available"
+    },
+    {
+      "source": "gal-vera-tc",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6814",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6814",
+      "result": "available"
+    },
+    {
+      "source": "gal-marey-tc",
+      "url": "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/4362",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/4362",
+      "result": "available"
+    },
+    {
+      "source": "filesa-sala-tc",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12757",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12757",
+      "result": "available"
+    },
+    {
+      "source": "filesa-olivero-tc",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12759",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12759",
+      "result": "available"
+    },
+    {
+      "source": "roldan-supremo-agencia",
+      "url": "https://www.servimedia.es/noticias/roldan-condenado-tres-anos-mas-supremo-delito-falsedad-documento-mercantil/1411032545",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.servimedia.es/noticias/roldan-condenado-tres-anos-mas-supremo-delito-falsedad-documento-mercantil/1411032545",
+      "result": "available"
+    },
+    {
+      "source": "vi-electricidad",
+      "url": "https://boe.es/buscar/act.php?id=BOE-A-1997-25340&p=19971128&tn=6",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://boe.es/buscar/act.php?id=BOE-A-1997-25340&p=19971128&tn=6",
+      "result": "available"
+    },
+    {
+      "source": "vi-suelo",
+      "url": "https://www.boe.es/eli/es/l/1998/04/13/6",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/l/1998/04/13/6",
+      "result": "available"
+    },
+    {
+      "source": "vi-euro",
+      "url": "https://www.bde.es/wbe/es/sobre-banco/actividad-europea/eurosistema-sebc/historia-eurosistema/euro/introduccion-euro/",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.bde.es/wbe/es/sobre-banco/actividad-europea/eurosistema-sebc/historia-eurosistema/euro/introduccion-euro/",
+      "result": "available"
+    },
+    {
+      "source": "vii-partidos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12756",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12756",
+      "result": "available"
+    },
+    {
+      "source": "guertel-supremo",
+      "url": "https://www.rtve.es/contenidos/documentos/sentencia-gurtel-ts.pdf",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.rtve.es/contenidos/documentos/sentencia-gurtel-ts.pdf",
+      "result": "available"
+    },
+    {
+      "source": "vii-prestige-ts",
+      "url": "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Sala%20II%2016%20ene%202016.pdf",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Sala%20II%2016%20ene%202016.pdf",
+      "result": "available"
+    },
+    {
+      "source": "vii-yak-ts",
+      "url": "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/ACUERDOS%20y%20ESTUDIOS%20DOCTRINALES/FICHERO/2.penal-2010_1.0.0.pdf",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/ACUERDOS%20y%20ESTUDIOS%20DOCTRINALES/FICHERO/2.penal-2010_1.0.0.pdf",
+      "result": "available"
+    },
+    {
+      "source": "viii-violencia-genero",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760&lang=es&p=20041229&tn=0",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760&lang=es&p=20041229&tn=0",
+      "result": "available"
+    },
+    {
+      "source": "viii-matrimonio",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11364",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11364",
+      "result": "available"
+    },
+    {
+      "source": "viii-dependencia",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990&lang=es&p=20061215&tn=0",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990&lang=es&p=20061215&tn=0",
+      "result": "available"
+    },
+    {
+      "source": "ix-ajuste",
+      "url": "https://www.boe.es/eli/es/rdl/2010/05/20/8",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/rdl/2010/05/20/8",
+      "result": "available"
+    },
+    {
+      "source": "ix-art135",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-15210",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-15210",
+      "result": "available"
+    },
+    {
+      "source": "ix-art135-tramitacion",
+      "url": "https://constitucion.congreso.es/detalle-articulo?numero=135",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://constitucion.congreso.es/detalle-articulo?numero=135",
+      "result": "available"
+    },
+    {
+      "source": "x-laboral",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076",
+      "result": "available"
+    },
+    {
+      "source": "x-asistencia-bancaria",
+      "url": "https://www.esm.europa.eu/assistance/spain",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.esm.europa.eu/assistance/spain",
+      "result": "available"
+    },
+    {
+      "source": "x-seguridad-ciudadana",
+      "url": "https://www.boe.es/boe/dias/2015/03/31/pdfs/BOE-A-2015-3442.pdf",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.boe.es/boe/dias/2015/03/31/pdfs/BOE-A-2015-3442.pdf",
+      "result": "available"
+    },
+    {
+      "source": "xii-art155",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-12327&lang=es",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-12327&lang=es",
+      "result": "available"
+    },
+    {
+      "source": "xii-mocion",
+      "url": "https://www.congreso.es/en/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=28789&p_p_id=notasprensa&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.congreso.es/en/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=28789&p_p_id=notasprensa&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "result": "available"
+    },
+    {
+      "source": "xiv-alarma",
+      "url": "https://www.boe.es/eli/es/rd/2020/03/14/463/",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/rd/2020/03/14/463/",
+      "result": "available"
+    },
+    {
+      "source": "xiv-alarma-tc",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13032",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13032",
+      "result": "available"
+    },
+    {
+      "source": "xiv-imv",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5493&lang=es&p=20200601&tn=0",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5493&lang=es&p=20200601&tn=0",
+      "result": "available"
+    },
+    {
+      "source": "xiv-laboral",
+      "url": "https://www.boe.es/eli/es/rdl/2021/12/28/32/dof/spa/html",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/rdl/2021/12/28/32/dof/spa/html",
+      "result": "available"
+    },
+    {
+      "source": "xiv-libertad-sexual",
+      "url": "https://boe.es/buscar/doc.php?id=BOE-A-2022-14630",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://boe.es/buscar/doc.php?id=BOE-A-2022-14630",
+      "result": "available"
+    },
+    {
+      "source": "xiv-libertad-sexual-reforma",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-10213",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-10213",
+      "result": "available"
+    },
+    {
+      "source": "xiv-libertad-sexual-balance",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/Los-tribunales-han-acordado-1-233-reducciones-de-pena-en-aplicacion-de-la-Ley-Organica-10-2022",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/Los-tribunales-han-acordado-1-233-reducciones-de-pena-en-aplicacion-de-la-Ley-Organica-10-2022",
+      "result": "available"
+    },
+    {
+      "source": "xv-amnistia",
+      "url": "https://www.boe.es/eli/es/lo/2024/06/10/1",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/lo/2024/06/10/1",
+      "result": "available"
+    },
+    {
+      "source": "xv-amnistia-tc",
+      "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/31575",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/31575",
+      "result": "available"
+    },
+    {
+      "source": "xv-koldo-diligencias",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-instructor-del-Tribunal-Supremo-rechaza-la-retransmision-en-directo-de-la-declaracion-de-Santos-Cerdan-por-resultar-inconciliable-con-la-ley",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-instructor-del-Tribunal-Supremo-rechaza-la-retransmision-en-directo-de-la-declaracion-de-Santos-Cerdan-por-resultar-inconciliable-con-la-ley",
+      "result": "available"
+    },
+    {
+      "source": "xv-imv-evaluacion",
+      "url": "https://www.airef.es/es/noticias/la-airef-propone-reforzar-la-coherencia-del-imv-con-otras-prestaciones-sociales-y-revisar-su-diseno/",
+      "method": "HEAD",
+      "result": "not-verified",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "source": "xiii-funciones",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-6355",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-6355",
+      "result": "available"
+    },
+    {
+      "source": "xiv-nombramiento",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-231",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-231",
+      "result": "available"
+    },
+    {
+      "source": "xv-nombramiento",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-23302",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-23302",
+      "result": "available"
+    },
+    {
+      "source": "v-codigo-penal",
+      "url": "https://boe.es/eli/es/lo/1995/11/23/10/dof/spa/pdf",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://boe.es/eli/es/lo/1995/11/23/10/dof/spa/pdf",
+      "result": "available"
+    },
+    {
+      "source": "vii-irak-congreso",
+      "url": "https://www.congreso.es/public_oficiales/L7/CONG/DS/PL/PL_236.PDF",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.congreso.es/public_oficiales/L7/CONG/DS/PL/PL_236.PDF",
+      "result": "available"
+    },
+    {
+      "source": "vii-11m-interior",
+      "url": "https://www.interior.gob.es/opencms/en/detail-pages/article/Grande-Marlaska-El-11M-la-sociedad-espanola-volvio-a-demostrar-que-no-hay-terrorismo-capaz-de-doblegarla/",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.interior.gob.es/opencms/en/detail-pages/article/Grande-Marlaska-El-11M-la-sociedad-espanola-volvio-a-demostrar-que-no-hay-terrorismo-capaz-de-doblegarla/",
+      "result": "available"
+    },
+    {
+      "source": "viii-irak-retirada",
+      "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2004/p2704040.aspx/?mode=Dark",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2004/p2704040.aspx/?mode=Dark",
+      "result": "available"
+    },
+    {
+      "source": "x-ajustes",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364&p=20120714&tn=1",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364&p=20120714&tn=1",
+      "result": "available"
+    },
+    {
+      "source": "x-transparencia",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12887",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12887",
+      "result": "available"
+    },
+    {
+      "source": "xiv-recuperacion-eu",
+      "url": "https://www.consilium.europa.eu/en/meetings/ecofin/2021/07/13/",
+      "method": "GET",
+      "httpStatus": 403,
+      "result": "not-verified",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "xiv-eutanasia",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628",
+      "result": "available"
+    },
+    {
+      "source": "xv-dana-respuesta",
+      "url": "https://www.boe.es/eli/es/rdl/2024/11/05/6",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/rdl/2024/11/05/6",
+      "result": "available"
+    },
+    {
+      "source": "xv-apagon-informe",
+      "url": "https://www.miteco.gob.es/va/prensa/ultimas-noticias/2025/junio/se-presenta-el-informe-del-comite-de-analisis-de-la-crisis-elect.html",
+      "method": "HEAD",
+      "httpStatus": 206,
+      "resolvedUrl": "https://www.miteco.gob.es/va/prensa/ultimas-noticias/2025/junio/se-presenta-el-informe-del-comite-de-analisis-de-la-crisis-elect.html",
+      "result": "available"
+    },
+    {
+      "source": "xv-imv-quinta",
+      "url": "https://www.airef.es/airef/degp/Presentaciones/imv_rueda_prensa/IMV_Opinion_5.html",
+      "method": "HEAD",
+      "result": "not-verified",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    {
+      "source": "koldo-mascarillas-condena-efe",
+      "url": "https://efe.com/espana/2026-06-22/abalos-condenado-carcel-koldo-mascarillas/",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://efe.com/espana/2026-06-22/abalos-condenado-carcel-koldo-mascarillas/",
+      "result": "available"
+    },
+    {
+      "source": "koldo-mascarillas-nulidad-ep",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-confirma-condenas-abalos-koldo-rechazar-peticiones-anular-sentencia-mascarillas-20261014131932.html",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.europapress.es/nacional/noticia-supremo-confirma-condenas-abalos-koldo-rechazar-peticiones-anular-sentencia-mascarillas-20261014131932.html",
+      "result": "available"
+    },
+    {
+      "source": "kitchen-juicio-ep",
+      "url": "https://www.europapress.es/nacional/noticia-juicio-kitchen-cuatro-meses-cien-testigos-duda-si-fue-espionaje-operacion-policial-legal-20260802100851.html",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.europapress.es/nacional/noticia-juicio-kitchen-cuatro-meses-cien-testigos-duda-si-fue-espionaje-operacion-policial-legal-20260802100851.html",
+      "result": "available"
+    },
+    {
+      "source": "roldan-fecha-1999",
+      "url": "https://elpais.com/diario/1999/12/22/espana/945817210_850215.html",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://elpais.com/diario/1999/12/22/espana/945817210_850215.html",
+      "result": "available"
+    },
+    {
+      "source": "i-libertad-religiosa",
+      "url": "https://www.boe.es/eli/es/lo/1980/07/05/7",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/lo/1980/07/05/7",
+      "result": "available"
+    },
+    {
+      "source": "xiv-vivienda",
+      "url": "https://www.boe.es/eli/es/l/2023/05/24/12",
+      "method": "HEAD",
+      "httpStatus": 200,
+      "resolvedUrl": "https://www.boe.es/eli/es/l/2023/05/24/12",
+      "result": "available"
+    }
+  ]
+}

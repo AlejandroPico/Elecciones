@@ -1,0 +1,716 @@
+{
+  "checkedAt": "2026-10-17",
+  "sources": [
+    {
+      "id": "base-presidencias",
+      "url": "https://www.lamoncloa.gob.es/presidente/presidentes-desde-1823/Paginas/index.aspx",
+      "title": "La Moncloa · relación cronológica de presidentes",
+      "supports": "Nombramientos y ceses desde Arias Navarro; incluye la interinidad de Fernando de Santiago del 1 al 3 de julio de 1976.",
+      "limits": "La tabla no equivale a fechas de toma de posesión; no sustituye el BOE individual.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "base-investiduras",
+      "url": "https://www.lamoncloa.gob.es/presidente/presidentes/Paginas/index.aspx",
+      "title": "La Moncloa · presidentes desde 1978",
+      "supports": "Relación de gobiernos, legislaturas y decretos; identifica continuidad en funciones en XI y XIII.",
+      "limits": "Índice documental, no evaluación de resultados.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "transicion-reforma",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1977-165",
+      "title": "BOE · Ley 1/1977 para la Reforma Política",
+      "supports": "Ley de 4 de enero de 1977 publicada el día 5; reforma de la representación política.",
+      "limits": "No demuestra por sí sola la ejecución completa de la transición.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "transicion-constitucion",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229&p=19781229&tn=0",
+      "title": "BOE · Constitución, texto original de 1978",
+      "supports": "Publicación y entrada en vigor el 29 de diciembre de 1978; marco institucional y derechos.",
+      "limits": "Usar texto original para el hito de 1978, no introducir reformas posteriores como texto original.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "transicion-cortes",
+      "url": "https://constitucion.congreso.es/constitucion-1978/elaboracion/cortesconstituyentes",
+      "title": "Congreso · Cortes Constituyentes",
+      "supports": "Elección del 15 de junio de 1977 y distinción entre juntas preparatorias y apertura solemne.",
+      "limits": "Diferentes hitos de constitución de la Cámara; no uniformarlos con la fecha interna de la Mesa.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "transicion-pactos",
+      "url": "https://www.congreso.es/gl/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=670&p_p_id=notasprensa&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "title": "Congreso · conmemoración de los Pactos de la Moncloa",
+      "supports": "Apoyo parlamentario del 27 de octubre de 1977 al acuerdo de saneamiento económico.",
+      "limits": "Acredita acuerdo y votación, no resultados macroeconómicos causales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "transicion-amnistia",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1977-24937&lang=es&p=19771017&tn=2",
+      "title": "BOE · Ley 46/1977 de Amnistía",
+      "supports": "Norma de 15 de octubre publicada el 17 de octubre de 1977.",
+      "limits": "Sus efectos posteriores y controversias requieren fuentes separadas.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "transicion-vitoria",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-4225",
+      "title": "BOE · memoria de los sucesos de Vitoria de 1976",
+      "supports": "Reconocimiento institucional de cinco muertes y violencia policial en los hechos del 3 de marzo de 1976.",
+      "limits": "Acuerdo de memoria de 2026; no es una sentencia penal contra un ministro.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "i-investidura-1981",
+      "url": "https://www.congreso.es/public_oficiales/L1/CONG/DS/PL/PL_147.PDF",
+      "title": "Congreso · Diario de Sesiones de 25 de febrero de 1981",
+      "supports": "Reanudación de la investidura de Calvo-Sotelo tras el asalto del 23-F.",
+      "limits": "Fuente parlamentaria contemporánea; no sustituye las sentencias del golpe.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "i-23f",
+      "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ahms/novedades/efemerides/2026/febrero-23f.html",
+      "title": "Ministerio de Cultura · archivo del 23-F",
+      "supports": "Intento de golpe del 23 de febrero de 1981 durante la investidura.",
+      "limits": "Contexto histórico institucional; falta aún incorporar las resoluciones judiciales originales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "base-funciones",
+      "url": "https://constitucion.congreso.es/detalle-articulo?numero=101",
+      "title": "Congreso · comentario del artículo 101",
+      "supports": "Gobiernos en funciones, dimisión de Suárez y moción de censura de 2018.",
+      "limits": "Comentario jurídico institucional; contrastar cada relevo con su decreto.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "i-divorcio",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1981-16216",
+      "title": "BOE · Ley 30/1981",
+      "supports": "Reforma matrimonial y divorcio; norma de 7 de julio de 1981, publicación el 20 de julio.",
+      "limits": "No confundir fecha de la ley, publicación y entrada en vigor.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "i-otan",
+      "url": "https://www.nato.int/en/about-us/organization/nato-member-countries?selectedLocale=eu",
+      "title": "OTAN · países miembros",
+      "supports": "Adhesión de España el 30 de mayo de 1982; participación y referéndum de 1986.",
+      "limits": "La adhesión corresponde a Calvo-Sotelo, el referéndum a González.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ii-otan-referendum",
+      "url": "https://www.defensa.gob.es/gabinete/notasPrensa/2021/07/DGC-210702-40-anos-espana-otan.html",
+      "title": "Defensa · historia de España en la OTAN",
+      "supports": "Adhesión y consulta del 12 de marzo de 1986; excepción inicial de estructura militar integrada.",
+      "limits": "Fuente retrospectiva; no certifica por sí sola todos los efectos de la decisión.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ii-adhesion-cee",
+      "url": "https://www.consilium.europa.eu/en/documents/treaties-agreements/agreement/?docLanguage=en&id=1985005",
+      "title": "Consejo de la UE · tratado de adhesión de España y Portugal",
+      "supports": "Firma del 12 de junio de 1985 y entrada en vigor el 1 de enero de 1986.",
+      "limits": "No confundir adhesión a las Comunidades Europeas con la creación de la UE en 1993.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "i-colza-responsabilidad",
+      "url": "https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/MEMORIAS/20181220%20Memoria%20AN%202017.pdf",
+      "title": "Audiencia Nacional · memoria 2017",
+      "supports": "Responsabilidad patrimonial y referencia expresa a la sentencia del TS de 26 de septiembre de 1997 sobre el síndrome tóxico.",
+      "limits": "Memoria judicial de resoluciones; falta incorporar el fallo penal original y cuantificar daños con fuente sanitaria.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "base-europa",
+      "url": "https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/EspanaUE.aspx",
+      "title": "Exteriores · España y la Unión Europea",
+      "supports": "Solicitud de ingreso de 1977, firma en 1985, ingreso en 1986, integración de 1989 y presidencias del Consejo.",
+      "limits": "La valoración favorable de Exteriores no se adopta automáticamente como evaluación causal independiente.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ii-sanidad",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499&lang=es&p=19860429&tn=2",
+      "title": "BOE · Ley General de Sanidad",
+      "supports": "Marco de organización sanitaria de la Ley 14/1986, de 25 de abril; publicada el 29 de abril.",
+      "limits": "No atribuir a esta ley todos los resultados sanitarios ni confundir aprobación con universalidad efectiva.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ii-aborto",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1985-14138",
+      "title": "BOE · reforma penal de 1985 sobre aborto",
+      "supports": "Despenalización en tres supuestos; Ley Orgánica 9/1985, de 5 de julio.",
+      "limits": "La descripción normativa no valora moralmente la política; falta incorporar STC 53/1985.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ii-reconversion",
+      "url": "https://www.boe.es/eli/es/l/1984/07/26/27",
+      "title": "BOE · reconversión y reindustrialización",
+      "supports": "Norma del 26 de julio de 1984 y previsiones de regulación de empleo.",
+      "limits": "Falta contrastar costes efectivos por sector, movilizaciones y resultados.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "iv-logse",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1990-24172&lang=es",
+      "title": "BOE · LOGSE",
+      "supports": "Ley de 3 de octubre de 1990, enseñanza obligatoria y gratuita hasta los dieciséis años.",
+      "limits": "No demuestra por sí sola éxito o fracaso educativo.",
+      "kind": "primary",
+      "consultedAt": "2026-10-17"
+    },
+    {
+      "id": "ii-rumasa",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1983-5915",
+      "title": "Real Decreto-ley 2/1983: expropiación de Rumasa",
+      "supports": "Decisión de expropiación de 23 de febrero de 1983.",
+      "limits": "La motivación del decreto no acredita por sí sola el balance económico posterior.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "ii-rumasa-tc",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-T-1983-32826",
+      "title": "STC 111/1983, de 2 de diciembre",
+      "supports": "Resolución del recurso contra el decreto de expropiación.",
+      "limits": "Control constitucional; no es una sentencia por corrupción.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "ii-pensiones",
+      "url": "https://boe.es/diario_boe/txt.php?id=BOE-A-1985-16119&lang=es",
+      "title": "Ley 26/1985: reforma de pensiones",
+      "supports": "Reforma de requisitos y cálculo de pensiones, de 31 de julio.",
+      "limits": "Falta contraste de efectos distributivos y respuesta sindical.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "iii-huelga",
+      "url": "https://www.rtve.es/noticias/20121114/octava-huelga-general-democracia/335537.shtml",
+      "title": "RTVE: cronología de huelgas generales",
+      "supports": "Huelga general del 14 de diciembre de 1988.",
+      "limits": "Retrospectiva periodística; las estimaciones de participación no equivalen a un recuento único.",
+      "consultedAt": "2026-10-17",
+      "kind": "secondary"
+    },
+    {
+      "id": "gal-vera-tc",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6814",
+      "title": "STC 69/2001: recurso de Rafael Vera",
+      "supports": "Condena por secuestro y malversación vinculada al caso Marey y posterior amparo.",
+      "limits": "No resume todas las causas GAL ni permite atribuir delitos a personas no condenadas.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "gal-marey-tc",
+      "url": "https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/4362",
+      "title": "STC 66/2001: caso Marey",
+      "supports": "Secuestro en diciembre de 1983 y revisión constitucional del proceso.",
+      "limits": "Contrastar fecha exacta de la sentencia del Supremo: los antecedentes consultados citan distintos días de julio de 1998.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "filesa-sala-tc",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12757",
+      "title": "STC 124/2001: amparo de José María Sala",
+      "supports": "Condena de 1997 y estimación parcial del amparo en 2001.",
+      "limits": "No presentar intactas todas las condenas originales; comprobar el alcance por acusado y delito.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "filesa-olivero-tc",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12759",
+      "title": "STC 126/2001: amparo de Luis Oliveró",
+      "supports": "Antecedentes y resolución constitucional de otro recurso de Filesa.",
+      "limits": "La resolución afecta al recurrente; no extrapolar su fallo a todos los acusados.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "roldan-supremo-agencia",
+      "url": "https://www.servimedia.es/noticias/roldan-condenado-tres-anos-mas-supremo-delito-falsedad-documento-mercantil/1411032545",
+      "title": "Servimedia: revisión de la condena a Luis Roldán",
+      "supports": "Revisión por el Supremo de la condena e intervalo de ejercicio al frente de la Guardia Civil.",
+      "limits": "Fuente de agencia; falta incorporar la sentencia original y verificar su fecha exacta.",
+      "consultedAt": "2026-10-17",
+      "kind": "agency"
+    },
+    {
+      "id": "vi-electricidad",
+      "url": "https://boe.es/buscar/act.php?id=BOE-A-1997-25340&p=19971128&tn=6",
+      "title": "Ley 54/1997: sector eléctrico",
+      "supports": "Marco legal eléctrico aprobado el 27 de noviembre de 1997.",
+      "limits": "El texto legal no demuestra efectos sobre precios o competencia.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vi-suelo",
+      "url": "https://www.boe.es/eli/es/l/1998/04/13/6",
+      "title": "Ley 6/1998: suelo y valoraciones",
+      "supports": "Cambio normativo del 13 de abril de 1998.",
+      "limits": "La causalidad de la burbuja inmobiliaria requiere otras fuentes y distinguir competencias territoriales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vi-euro",
+      "url": "https://www.bde.es/wbe/es/sobre-banco/actividad-europea/eurosistema-sebc/historia-eurosistema/euro/introduccion-euro/",
+      "title": "Banco de España: introducción del euro",
+      "supports": "Moneda común desde 1999 y circulación de efectivo desde 2002.",
+      "limits": "Dos hitos distintos de un proceso europeo compartido por varias administraciones.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vii-partidos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12756",
+      "title": "Ley Orgánica 6/2002: partidos políticos",
+      "supports": "Reforma legal de 27 de junio de 2002.",
+      "limits": "Las ilegalizaciones concretas precisan sus propias resoluciones judiciales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "guertel-supremo",
+      "url": "https://www.rtve.es/contenidos/documentos/sentencia-gurtel-ts.pdf",
+      "title": "Tribunal Supremo: sentencia 507/2020, caso Gürtel",
+      "supports": "Resolución de 14 de octubre de 2020 sobre hechos de 1999–2005 y responsabilidades penales y civiles.",
+      "limits": "Documento judicial alojado por RTVE. Consulta dirigida, no lectura íntegra de sus 1.844 páginas; diferenciar responsabilidad civil del partido y condenas individuales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vii-prestige-ts",
+      "url": "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Sala%20II%2016%20ene%202016.pdf",
+      "title": "Tribunal Supremo: resolución sobre el Prestige",
+      "supports": "Revisión penal y civil del desastre de noviembre de 2002.",
+      "limits": "Precisar fecha del fallo desde su encabezamiento antes de abrir un hito judicial diario; no atribuir condenas al presidente.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vii-yak-ts",
+      "url": "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/ACUERDOS%20y%20ESTUDIOS%20DOCTRINALES/FICHERO/2.penal-2010_1.0.0.pdf",
+      "title": "Tribunal Supremo: crónica de jurisprudencia penal 2009–2010",
+      "supports": "STS de 22 de marzo de 2010, recurso 1427/09, sobre falsedades en la identificación de 30 cadáveres del Yak-42.",
+      "limits": "Crónica oficial de jurisprudencia; no sustituye el expediente de contratación ni el dictamen de responsabilidad patrimonial.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "viii-violencia-genero",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760&lang=es&p=20041229&tn=0",
+      "title": "Ley Orgánica 1/2004: violencia de género",
+      "supports": "Marco integral de protección aprobado el 28 de diciembre de 2004.",
+      "limits": "La aprobación legal no acredita por sí misma reducción de víctimas.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "viii-matrimonio",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11364",
+      "title": "Ley 13/2005: matrimonio",
+      "supports": "Reforma de 1 de julio que permite matrimonio entre personas del mismo sexo.",
+      "limits": "Evaluación social y recurso constitucional requieren documentación propia.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "viii-dependencia",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990&lang=es&p=20061215&tn=0",
+      "title": "Ley 39/2006: atención a la dependencia",
+      "supports": "Creación del sistema de autonomía y atención a la dependencia.",
+      "limits": "Gestión compartida con comunidades; no equiparar reconocimiento legal y acceso efectivo.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "ix-ajuste",
+      "url": "https://www.boe.es/eli/es/rdl/2010/05/20/8",
+      "title": "Real Decreto-ley 8/2010: reducción del déficit",
+      "supports": "Medidas de ajuste, incluidas retribuciones públicas y pensiones.",
+      "limits": "Examinar texto original y excepciones; efectos macroeconómicos requieren otras fuentes.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "ix-art135",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-15210",
+      "title": "Reforma constitucional del artículo 135",
+      "supports": "Texto de la reforma de 27 de septiembre de 2011.",
+      "limits": "No acredita por sí solo reparto de apoyos ni efectos sobre gasto social.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "ix-art135-tramitacion",
+      "url": "https://constitucion.congreso.es/detalle-articulo?numero=135",
+      "title": "Congreso: tramitación de la reforma del artículo 135",
+      "supports": "Procedimiento parlamentario, promulgación y publicación.",
+      "limits": "Comentario institucional; separar votación parlamentaria y promulgación.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "x-laboral",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2076",
+      "title": "Real Decreto-ley 3/2012: reforma laboral",
+      "supports": "Cambios de contratación, negociación colectiva y despido.",
+      "limits": "Objetivos declarados no son una evaluación causal del empleo.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "x-asistencia-bancaria",
+      "url": "https://www.esm.europa.eu/assistance/spain",
+      "title": "MEDE: asistencia financiera a España",
+      "supports": "Programa bancario y desembolsos de diciembre de 2012 y febrero de 2013, por 41.333 millones de euros.",
+      "limits": "Préstamo soberano para recapitalización; no confundir importe prestado, pérdida fiscal definitiva y total de ayudas públicas.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "x-seguridad-ciudadana",
+      "url": "https://www.boe.es/boe/dias/2015/03/31/pdfs/BOE-A-2015-3442.pdf",
+      "title": "Ley Orgánica 4/2015: seguridad ciudadana",
+      "supports": "Régimen de seguridad y sanciones aprobado en marzo de 2015.",
+      "limits": "Pendiente añadir control constitucional y datos de aplicación; no adoptar como hecho un apodo político.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xii-art155",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-12327&lang=es",
+      "title": "Senado: medidas al amparo del artículo 155",
+      "supports": "Acuerdo del 27 de octubre de 2017.",
+      "limits": "Separar autorización del Senado, ejecución central y actuaciones de la Generalitat.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xii-mocion",
+      "url": "https://www.congreso.es/en/notas-de-prensa?_notasprensa_mvcPath=detalle&_notasprensa_notaId=28789&p_p_id=notasprensa&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "title": "Congreso: moción de censura aprobada el 1 de junio de 2018",
+      "supports": "Resultado 180–169–1 y confianza parlamentaria a Pedro Sánchez.",
+      "limits": "Votación distinta del decreto de nombramiento y de la toma de posesión.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-alarma",
+      "url": "https://www.boe.es/eli/es/rd/2020/03/14/463/",
+      "title": "Real Decreto 463/2020: primer estado de alarma",
+      "supports": "Declaración y restricciones frente a la COVID-19.",
+      "limits": "Debe leerse junto con sus modificaciones y control constitucional posterior.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-alarma-tc",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13032",
+      "title": "STC 148/2021: primer estado de alarma",
+      "supports": "Inconstitucionalidad parcial de las restricciones y habilitaciones examinadas.",
+      "limits": "No anula todas las medidas sanitarias ni es una condena penal de los gobernantes.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-imv",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-5493&lang=es&p=20200601&tn=0",
+      "title": "Real Decreto-ley 20/2020: ingreso mínimo vital",
+      "supports": "Creación de la prestación en mayo de 2020.",
+      "limits": "Separar diseño normativo, cobertura real, posteriores reformas y evaluación.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-laboral",
+      "url": "https://www.boe.es/eli/es/rdl/2021/12/28/32/dof/spa/html",
+      "title": "Real Decreto-ley 32/2021: reforma laboral",
+      "supports": "Reforma de contratación y negociación colectiva de diciembre de 2021.",
+      "limits": "Aprobación, convalidación y efectos observados tienen fechas distintas.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-libertad-sexual",
+      "url": "https://boe.es/buscar/doc.php?id=BOE-A-2022-14630",
+      "title": "Ley Orgánica 10/2022: libertad sexual",
+      "supports": "Nuevo marco normativo de septiembre de 2022.",
+      "limits": "Debe incluir revisiones penales posteriores y la reforma de 2023.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-libertad-sexual-reforma",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-10213",
+      "title": "Ley Orgánica 4/2023: reforma de delitos sexuales",
+      "supports": "Modificación de abril de 2023.",
+      "limits": "No revierte automáticamente revisiones favorables de condenas anteriores.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-libertad-sexual-balance",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/Los-tribunales-han-acordado-1-233-reducciones-de-pena-en-aplicacion-de-la-Ley-Organica-10-2022",
+      "title": "CGPJ: balance de revisiones de penas",
+      "supports": "Al menos 1.233 reducciones y 126 excarcelaciones con datos hasta el 1 de noviembre de 2023.",
+      "limits": "Recuperado por consulta directa tras fallar la apertura del buscador. Datos a 1 de noviembre de 2023; no total actualizado a 2026 ni resoluciones todas firmes.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-amnistia",
+      "url": "https://www.boe.es/eli/es/lo/2024/06/10/1",
+      "title": "Ley Orgánica 1/2024: amnistía",
+      "supports": "Norma de 10 de junio, publicada el 11.",
+      "limits": "El texto no basta para fijar qué personas resultan amnistiadas; aplicaciones y controles son expedientes separados.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-amnistia-tc",
+      "url": "https://hj.tribunalconstitucional.es/es/Resolucion/Show/31575",
+      "title": "STC 137/2025: control de la ley de amnistía",
+      "supports": "Resolución de 26 de junio de 2025.",
+      "limits": "Leer el fallo y sus interpretaciones: no confundir la validez constitucional con cada aplicación judicial o con el control europeo.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-koldo-diligencias",
+      "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-instructor-del-Tribunal-Supremo-rechaza-la-retransmision-en-directo-de-la-declaracion-de-Santos-Cerdan-por-resultar-inconciliable-con-la-ley",
+      "title": "Supremo: declaración de Santos Cerdán como investigado",
+      "supports": "Comunicación del 27 de junio de 2025 sobre la causa en que se investiga a Ábalos y otras personas.",
+      "limits": "Acredita una actuación procesal en esa fecha; no es una condena ni acredita el estado de las distintas piezas en octubre de 2026.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-imv-evaluacion",
+      "url": "https://www.airef.es/es/noticias/la-airef-propone-reforzar-la-coherencia-del-imv-con-otras-prestaciones-sociales-y-revisar-su-diseno/",
+      "title": "AIReF: quinta evaluación del ingreso mínimo vital",
+      "supports": "Balance de cobertura, tramitación y diseño publicado en 2026 con datos de 2025.",
+      "limits": "No confundir cobertura del IMV con la del complemento de infancia; evaluación posterior a su creación.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiii-funciones",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-6355",
+      "title": "Real Decreto 336/2019: continuidad en funciones",
+      "supports": "Fecha y contenido del decreto, con publicación en el BOE al día siguiente.",
+      "limits": "No identifica automáticamente la fecha de toma de posesión ni la duración completa de la legislatura.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-nombramiento",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-231",
+      "title": "Real Decreto 1/2020: nombramiento presidencial",
+      "supports": "Fecha y contenido del decreto, con publicación en el BOE al día siguiente.",
+      "limits": "No identifica automáticamente la fecha de toma de posesión ni la duración completa de la legislatura.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-nombramiento",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-23302",
+      "title": "Real Decreto 828/2023: nombramiento presidencial",
+      "supports": "Fecha y contenido del decreto, con publicación en el BOE al día siguiente.",
+      "limits": "No identifica automáticamente la fecha de toma de posesión ni la duración completa de la legislatura.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "v-codigo-penal",
+      "url": "https://boe.es/eli/es/lo/1995/11/23/10/dof/spa/pdf",
+      "title": "Ley Orgánica 10/1995: Código Penal",
+      "supports": "Aprobación del nuevo código de 23 de noviembre de 1995.",
+      "limits": "Separar aprobación bajo González y entrada en vigor en 1996; no usar un consolidado actual para describir el texto inicial.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vii-irak-congreso",
+      "url": "https://www.congreso.es/public_oficiales/L7/CONG/DS/PL/PL_236.PDF",
+      "title": "Congreso: debate sobre Irak, 18 de marzo de 2003",
+      "supports": "Comparecencia de Aznar y posiciones de los grupos ante la intervención en Irak.",
+      "limits": "Un diario de sesiones acredita lo dicho y votado; las acusaciones de los portavoces no son hechos judicialmente probados.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "vii-11m-interior",
+      "url": "https://www.interior.gob.es/opencms/en/detail-pages/article/Grande-Marlaska-El-11M-la-sociedad-espanola-volvio-a-demostrar-que-no-hay-terrorismo-capaz-de-doblegarla/",
+      "title": "Interior: recuerdo institucional del 11M",
+      "supports": "Atentados del 11 de marzo de 2004 y víctimas reconocidas.",
+      "limits": "Declaración conmemorativa; no basta para evaluar la gestión informativa ni para reconstruir responsabilidades penales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "viii-irak-retirada",
+      "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/paginas/2004/p2704040.aspx/?mode=Dark",
+      "title": "Zapatero: comparecencia sobre retirada de Irak, 27 de abril de 2004",
+      "supports": "Orden de retirada de tropas anunciada el 18 de abril y explicación posterior al Congreso.",
+      "limits": "Fuente directa de la decisión y de su justificación; no demuestra por sí sola su valoración estratégica.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "x-ajustes",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9364&p=20120714&tn=1",
+      "title": "Real Decreto-ley 20/2012: ajuste presupuestario",
+      "supports": "Medidas de julio de 2012 sobre gasto público e ingresos.",
+      "limits": "Aplicación temporal y medidas concretas deben contrastarse en el texto original y sus modificaciones.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "x-transparencia",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12887",
+      "title": "Ley 19/2013: transparencia y buen gobierno",
+      "supports": "Regulación del acceso a información y obligaciones de publicidad.",
+      "limits": "Su existencia no acredita cumplimiento; evaluar resoluciones del Consejo de Transparencia y ejecución.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-recuperacion-eu",
+      "url": "https://www.consilium.europa.eu/en/meetings/ecofin/2021/07/13/",
+      "title": "Consejo de la UE: aprobación de planes de recuperación",
+      "supports": "Aprobación del plan español junto con otros once planes el 13 de julio de 2021.",
+      "limits": "Aprobación no equivale a desembolso, ejecución, control satisfactorio o impacto económico demostrado.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-eutanasia",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4628",
+      "title": "Ley Orgánica 3/2021: regulación de la eutanasia",
+      "supports": "Reforma legal de 24 de marzo de 2021.",
+      "limits": "Distinguir prestación, salvaguardas, aplicación y control constitucional.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-dana-respuesta",
+      "url": "https://www.boe.es/eli/es/rdl/2024/11/05/6",
+      "title": "Real Decreto-ley 6/2024: respuesta a la DANA",
+      "supports": "Medidas estatales de noviembre tras los daños de octubre de 2024.",
+      "limits": "El decreto no acredita suficiencia o ejecución de ayudas ni resuelve responsabilidades de emergencia.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-apagon-informe",
+      "url": "https://www.miteco.gob.es/va/prensa/ultimas-noticias/2025/junio/se-presenta-el-informe-del-comite-de-analisis-de-la-crisis-elect.html",
+      "title": "MITECO: informe sobre el apagón del 28 de abril de 2025",
+      "supports": "Presentación del 17 de junio y explicación multifactorial por sobretensión.",
+      "limits": "Es el análisis del comité gubernamental; contrastar ENTSO-E, CNMC y operadores antes de fijar responsabilidades o causalidad definitiva.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xv-imv-quinta",
+      "url": "https://www.airef.es/airef/degp/Presentaciones/imv_rueda_prensa/IMV_Opinion_5.html",
+      "title": "AIReF: quinta opinión del IMV, julio de 2026",
+      "supports": "Evaluación de protección, cobertura y relación con empleo.",
+      "limits": "Datos retrospectivos y distinta población del IMV y del complemento de infancia; no trasladar porcentajes de uno a otro.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "koldo-mascarillas-condena-efe",
+      "url": "https://efe.com/espana/2026-06-22/abalos-condenado-carcel-koldo-mascarillas/",
+      "title": "EFE: sentencia del caso mascarillas, 22 de junio de 2026",
+      "supports": "Condenas a Ábalos, Koldo García y Aldama y firmeza según la agencia.",
+      "limits": "Pendiente incorporar la sentencia original; no extender el fallo a la pieza de obras ni a otros investigados.",
+      "consultedAt": "2026-10-17",
+      "kind": "agency"
+    },
+    {
+      "id": "koldo-mascarillas-nulidad-ep",
+      "url": "https://www.europapress.es/nacional/noticia-supremo-confirma-condenas-abalos-koldo-rechazar-peticiones-anular-sentencia-mascarillas-20261014131932.html",
+      "title": "Europa Press: incidentes de nulidad del caso mascarillas",
+      "supports": "Desestimación por el Supremo comunicada el 14 de octubre de 2026.",
+      "limits": "Falta adjuntar el auto original. Las posibilidades de amparo no se registran como una anulación ya producida.",
+      "consultedAt": "2026-10-17",
+      "kind": "agency"
+    },
+    {
+      "id": "kitchen-juicio-ep",
+      "url": "https://www.europapress.es/nacional/noticia-juicio-kitchen-cuatro-meses-cien-testigos-duda-si-fue-espionaje-operacion-policial-legal-20260802100851.html",
+      "title": "Europa Press: cierre del juicio Kitchen en 2026",
+      "supports": "Balance del juicio visto para sentencia tras sesiones de abril a julio.",
+      "limits": "Estado documentado a agosto de 2026; falta resolución original y actualización posterior al cierre de la vista.",
+      "consultedAt": "2026-10-17",
+      "kind": "agency"
+    },
+    {
+      "id": "roldan-fecha-1999",
+      "url": "https://elpais.com/diario/1999/12/22/espana/945817210_850215.html",
+      "title": "El País: revisión de la condena a Roldán, 22 de diciembre de 1999",
+      "supports": "Corroboración temporal de la revisión de la condena por el Supremo.",
+      "limits": "Hemeroteca secundaria; pendiente recuperar el fallo original.",
+      "consultedAt": "2026-10-17",
+      "kind": "secondary"
+    },
+    {
+      "id": "i-libertad-religiosa",
+      "url": "https://www.boe.es/eli/es/lo/1980/07/05/7",
+      "title": "Ley Orgánica 7/1980: libertad religiosa",
+      "supports": "Marco de libertades religiosas aprobado el 5 de julio de 1980.",
+      "limits": "No acredita por sí solo igualdad efectiva de trato ni resuelve los debates sobre acuerdos confesionales.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    },
+    {
+      "id": "xiv-vivienda",
+      "url": "https://www.boe.es/eli/es/l/2023/05/24/12",
+      "title": "Ley 12/2023: vivienda",
+      "supports": "Marco estatal de vivienda aprobado el 24 de mayo de 2023.",
+      "limits": "Distinguir texto inicial, competencias territoriales, recursos y efectos sobre precios y oferta.",
+      "consultedAt": "2026-10-17",
+      "kind": "primary"
+    }
+  ]
+}

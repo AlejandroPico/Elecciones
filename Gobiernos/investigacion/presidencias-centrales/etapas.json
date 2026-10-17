@@ -1,0 +1,279 @@
+{
+  "checkedAt": "2026-10-17",
+  "datePolicy": "Rótulos orientativos, no intervalos diarios ni duraciones calculadas. Los periodos en funciones y entre Cámaras requieren tratamiento propio antes de construir la web.",
+  "stages": [
+    {
+      "id": "pre-arias",
+      "legislature": null,
+      "president": "Carlos Arias Navarro",
+      "periodLabel": "1975–1976",
+      "note": "Contexto posterior a la muerte de Franco; la presidencia comenzó antes del periodo principal.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "pre-santiago",
+      "legislature": null,
+      "president": "Fernando de Santiago y Díaz de Mendívil",
+      "periodLabel": "Julio de 1976",
+      "note": "Interinidad de dos días; contexto, sin legislatura democrática.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "pre-suarez",
+      "legislature": null,
+      "president": "Adolfo Suárez González",
+      "periodLabel": "1976–1977",
+      "note": "Gobierno anterior a las primeras elecciones democráticas.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "constituyente-suarez",
+      "legislature": "Constituyente",
+      "president": "Adolfo Suárez González",
+      "periodLabel": "1977–1979",
+      "note": "No confundir el nombramiento inicial de 1976 con las elecciones de 1977.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "i-suarez",
+      "legislature": "I",
+      "president": "Adolfo Suárez González",
+      "periodLabel": "1979–1981",
+      "note": "Incluye la continuidad en funciones tras la dimisión hasta el relevo.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "i-calvo-sotelo",
+      "legislature": "I",
+      "president": "Leopoldo Calvo-Sotelo y Bustelo",
+      "periodLabel": "1981–1982",
+      "note": "Relevo dentro de la misma legislatura.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "ii-gonzalez",
+      "legislature": "II",
+      "president": "Felipe González Márquez",
+      "periodLabel": "1982–1986",
+      "note": "La presidencia continúa durante el intervalo electoral.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "iii-gonzalez",
+      "legislature": "III",
+      "president": "Felipe González Márquez",
+      "periodLabel": "1986–1989",
+      "note": "Los casos posteriores se vinculan al periodo de sus hechos.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "iv-gonzalez",
+      "legislature": "IV",
+      "president": "Felipe González Márquez",
+      "periodLabel": "1989–1993",
+      "note": "No confundir denuncia, sentencia y estado final del caso.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "v-gonzalez",
+      "legislature": "V",
+      "president": "Felipe González Márquez",
+      "periodLabel": "1993–1996",
+      "note": "Última etapa presidencial de González.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "vi-aznar",
+      "legislature": "VI",
+      "president": "José María Aznar López",
+      "periodLabel": "1996–2000",
+      "note": "Las sentencias de casos anteriores no se atribuyen a este Gobierno por su fecha.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "vii-aznar",
+      "legislature": "VII",
+      "president": "José María Aznar López",
+      "periodLabel": "2000–2004",
+      "note": "Separar decisiones exteriores, atentados, gestión de crisis y resoluciones judiciales.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "viii-zapatero",
+      "legislature": "VIII",
+      "president": "José Luis Rodríguez Zapatero",
+      "periodLabel": "2004–2008",
+      "note": "Las leyes se registran como cambios normativos, no como éxitos por defecto.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "ix-zapatero",
+      "legislature": "IX",
+      "president": "José Luis Rodríguez Zapatero",
+      "periodLabel": "2008–2011",
+      "note": "Distinguir crisis internacional, vulnerabilidades internas y decisiones de respuesta.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "x-rajoy",
+      "legislature": "X",
+      "president": "Mariano Rajoy Brey",
+      "periodLabel": "2011–2015",
+      "note": "La asistencia bancaria requiere separar préstamos, ayudas y pérdidas.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "xi-rajoy",
+      "legislature": "XI",
+      "president": "Mariano Rajoy Brey",
+      "periodLabel": "2016",
+      "note": "Continuidad en funciones; no hubo investidura culminada en esta legislatura.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "xii-rajoy",
+      "legislature": "XII",
+      "president": "Mariano Rajoy Brey",
+      "periodLabel": "2016–2018",
+      "note": "Finaliza con la moción de censura aprobada en junio de 2018.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "xii-sanchez",
+      "legislature": "XII",
+      "president": "Pedro Sánchez Pérez-Castejón",
+      "periodLabel": "2018–2019",
+      "note": "Relevo dentro de la legislatura XII, no una legislatura nueva.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "xiii-sanchez",
+      "legislature": "XIII",
+      "president": "Pedro Sánchez Pérez-Castejón",
+      "periodLabel": "2019",
+      "note": "Continuidad en funciones e investidura no culminada; no inventar un nuevo mandato.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "xiv-sanchez",
+      "legislature": "XIV",
+      "president": "Pedro Sánchez Pérez-Castejón",
+      "periodLabel": "2019–2023",
+      "note": "La Cámara se constituyó en 2019 y la investidura culminó en enero de 2020.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    },
+    {
+      "id": "xv-sanchez",
+      "legislature": "XV",
+      "president": "Pedro Sánchez Pérez-Castejón",
+      "periodLabel": "Desde 2023",
+      "note": "Índice hasta el corte de investigación; no acredita por sí solo la vigencia de cada cargo o las convocatorias de 2026.",
+      "sources": [
+        "base-presidencias",
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "coverage": "primera-pasada-parcial"
+    }
+  ]
+}

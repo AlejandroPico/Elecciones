@@ -1,0 +1,1540 @@
+{
+  "checkedAt": "2026-10-17",
+  "status": "primera-pasada-en-curso",
+  "events": [
+    {
+      "id": "1976-03-03-vitoria",
+      "date": "1976-03-03",
+      "datePrecision": "day",
+      "stage": "pre-arias",
+      "title": "Violencia policial en Vitoria",
+      "category": "crisis",
+      "summary": "Cinco personas murieron por disparos policiales en la represión de una asamblea obrera. El BOE de 2026 recoge el reconocimiento institucional de los hechos.",
+      "attribution": "Administración Arias Navarro; distinguir el dictamen histórico y las responsabilidades políticas de una sentencia penal individual.",
+      "sources": [
+        "transicion-vitoria"
+      ],
+      "pending": [
+        "Incorporar las actuaciones judiciales posteriores y la jurisdicción voluntaria promovida en 2026."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1976-07-01-relevo-arias",
+      "date": "1976-07-01",
+      "datePrecision": "day",
+      "stage": "pre-arias",
+      "title": "Cese de Carlos Arias Navarro",
+      "category": "institucional",
+      "summary": "La relación oficial de Presidencia sitúa el cese de Arias Navarro el 1 de julio de 1976.",
+      "attribution": "Hito de relevo; la tabla registra nombramiento y cese, no una investidura democrática.",
+      "sources": [
+        "base-presidencias"
+      ],
+      "pending": [
+        "Contrastar los decretos originales antes de calcular duraciones diarias."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1976-07-03-suarez",
+      "date": "1976-07-03",
+      "datePrecision": "day",
+      "stage": "pre-suarez",
+      "title": "Nombramiento de Adolfo Suárez",
+      "category": "institucional",
+      "summary": "La relación de Presidencia sitúa el nombramiento el 3 de julio de 1976.",
+      "attribution": "Nombramiento anterior a las elecciones de 1977; no presentarlo como resultado de ellas.",
+      "sources": [
+        "base-presidencias"
+      ],
+      "pending": [
+        "Añadir decreto individual y toma de posesión."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1977-01-04-reforma-politica",
+      "date": "1977-01-04",
+      "datePrecision": "day",
+      "stage": "pre-suarez",
+      "title": "Ley para la Reforma Política",
+      "category": "normativo",
+      "summary": "La ley establece la reforma de la representación parlamentaria que precede a las elecciones de 1977. Se publicó el 5 de enero.",
+      "attribution": "Gobierno de Suárez y aprobación por las Cortes del régimen precedente; distinguirla de la Constitución de 1978.",
+      "sources": [
+        "transicion-reforma"
+      ],
+      "pending": [
+        "Completar votación y referéndum de 1976 con fuentes directas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1977-06-15-elecciones",
+      "date": "1977-06-15",
+      "datePrecision": "day",
+      "stage": "constituyente-suarez",
+      "title": "Elecciones de las Cortes constituyentes",
+      "category": "institucional",
+      "summary": "Se celebraron las elecciones de las que surgieron las Cámaras que elaboraron la Constitución.",
+      "attribution": "Hito electoral e institucional; no confundir fecha electoral y constitución de la Cámara.",
+      "sources": [
+        "transicion-cortes"
+      ],
+      "pending": [
+        "Contrastar los resultados definitivos y delimitar los distintos actos de constitución."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1977-07-26-solicitud-cee",
+      "date": "1977-07-26",
+      "datePrecision": "day",
+      "stage": "constituyente-suarez",
+      "title": "Solicitud de ingreso en las Comunidades Europeas",
+      "category": "exterior",
+      "summary": "España presentó su solicitud de adhesión; la firma y el ingreso efectivo llegarían en la presidencia de González.",
+      "attribution": "Proceso que atraviesa presidencias; evitar atribuir la totalidad de la adhesión a una sola fecha o gobierno.",
+      "sources": [
+        "base-europa"
+      ],
+      "pending": [
+        "Desarrollar las etapas negociadoras."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1977-10-15-amnistia",
+      "date": "1977-10-15",
+      "datePrecision": "day",
+      "stage": "constituyente-suarez",
+      "title": "Ley de Amnistía",
+      "category": "normativo",
+      "summary": "Las Cortes aprobaron una amnistía con alcance definido en la Ley 46/1977; su publicación fue el 17 de octubre.",
+      "attribution": "Decisión parlamentaria durante Suárez; documentar por separado sus efectos liberadores y sus controversias posteriores.",
+      "sources": [
+        "transicion-amnistia"
+      ],
+      "pending": [
+        "Incorporar debate de aprobación y pronunciamientos posteriores sobre graves violaciones de derechos."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1977-10-27-pactos",
+      "date": "1977-10-27",
+      "datePrecision": "day",
+      "stage": "constituyente-suarez",
+      "title": "Apoyo del Congreso a los Pactos de la Moncloa",
+      "category": "economico",
+      "summary": "El Congreso respaldó el acuerdo económico negociado entre Gobierno y fuerzas políticas.",
+      "attribution": "Acuerdo plural; no atribuirlo exclusivamente a la persona del presidente ni dar por probados sus resultados causales.",
+      "sources": [
+        "transicion-pactos"
+      ],
+      "pending": [
+        "Añadir texto político, fecha de firma y series de inflación y empleo."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1978-12-29-constitucion",
+      "date": "1978-12-29",
+      "datePrecision": "day",
+      "stage": "constituyente-suarez",
+      "title": "Publicación y entrada en vigor de la Constitución",
+      "category": "institucional",
+      "summary": "El texto constitucional entra en vigor con su publicación en el BOE.",
+      "attribution": "Elaboración parlamentaria y ratificación popular; el Ejecutivo de Suárez es el contexto de gobierno, no autor único.",
+      "sources": [
+        "transicion-constitucion"
+      ],
+      "pending": [
+        "Incorporar por separado aprobación parlamentaria y referéndum del 6 de diciembre."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1981-02-23-golpe",
+      "date": "1981-02-23",
+      "datePrecision": "day",
+      "stage": "i-suarez",
+      "title": "Asalto al Congreso durante la investidura de Calvo-Sotelo",
+      "category": "crisis",
+      "summary": "La sesión de investidura fue interrumpida por un intento de golpe de Estado y el secuestro de diputados y Gobierno.",
+      "attribution": "Suárez seguía en funciones; Calvo-Sotelo aún no había sido investido. Los autores del golpe no se confunden con la administración atacada.",
+      "sources": [
+        "i-23f"
+      ],
+      "pending": [
+        "Incorporar sentencias y separar hechos acreditados de hipótesis sobre apoyos."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1981-02-25-investidura",
+      "date": "1981-02-25",
+      "datePrecision": "day",
+      "stage": "i-calvo-sotelo",
+      "title": "Investidura de Calvo-Sotelo tras el 23-F",
+      "category": "institucional",
+      "summary": "El Congreso reanudó la investidura del candidato el 25 de febrero.",
+      "attribution": "Sucesión dentro de la I legislatura; no inventar otra legislatura para el cambio presidencial.",
+      "sources": [
+        "i-investidura-1981"
+      ],
+      "pending": [
+        "Incorporar cómputo de la votación y decreto de nombramiento."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1981-07-07-divorcio",
+      "date": "1981-07-07",
+      "datePrecision": "day",
+      "stage": "i-calvo-sotelo",
+      "title": "Reforma matrimonial y regulación del divorcio",
+      "category": "normativo",
+      "summary": "La Ley 30/1981 modificó el matrimonio civil y el procedimiento de separación y divorcio. Publicación: 20 de julio.",
+      "attribution": "Reforma aprobada por las Cortes durante Calvo-Sotelo; no describirla con el régimen legal posterior de 2005.",
+      "sources": [
+        "i-divorcio"
+      ],
+      "pending": [
+        "Completar debate parlamentario y alcance de la regulación original."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1982-05-30-otan",
+      "date": "1982-05-30",
+      "datePrecision": "day",
+      "stage": "i-calvo-sotelo",
+      "title": "Ingreso de España en la OTAN",
+      "category": "exterior",
+      "summary": "España se incorporó a la Alianza Atlántica el 30 de mayo de 1982.",
+      "attribution": "Adhesión bajo Calvo-Sotelo; valoración estratégica y oposición política requieren apartados separados.",
+      "sources": [
+        "i-otan"
+      ],
+      "pending": [
+        "Añadir votación parlamentaria y posiciones del Gobierno y de la oposición de la época."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1984-07-26-reconversion",
+      "date": "1984-07-26",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Marco legal de la reconversión industrial",
+      "category": "economico",
+      "summary": "La Ley 27/1984 reguló planes de reconversión, reindustrialización y medidas laborales.",
+      "attribution": "Norma y conflicto distributivo potencial; no convertir objetivos de la ley en resultados logrados.",
+      "sources": [
+        "ii-reconversion"
+      ],
+      "pending": [
+        "Cuantificar empleo, cierres, recolocaciones, costes y conflictos con evidencia por sector."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1985-06-12-tratado-cee",
+      "date": "1985-06-12",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Firma del tratado de adhesión a las Comunidades Europeas",
+      "category": "exterior",
+      "summary": "España firmó el tratado de adhesión junto con Portugal.",
+      "attribution": "Hito negociador del Gobierno de González dentro de un proceso iniciado antes; la entrada en vigor no fue ese día.",
+      "sources": [
+        "ii-adhesion-cee"
+      ],
+      "pending": [
+        "Añadir compromisos transitorios y debates de ratificación."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1985-07-05-aborto",
+      "date": "1985-07-05",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Despenalización del aborto en tres supuestos",
+      "category": "normativo",
+      "summary": "La reforma del Código Penal estableció tres supuestos de no punibilidad bajo requisitos definidos.",
+      "attribution": "Marco de 1985; no confundirlo con el sistema de plazos de 2010.",
+      "sources": [
+        "ii-aborto"
+      ],
+      "pending": [
+        "Añadir control constitucional previo y aplicación efectiva."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1986-01-01-ingreso-cee",
+      "date": "1986-01-01",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Entrada en vigor de la adhesión europea",
+      "category": "exterior",
+      "summary": "España y Portugal se incorporaron a las Comunidades Europeas.",
+      "attribution": "Distinguir ingreso, integración posterior y resultados sectoriales; no duplicarlo como otro tratado distinto.",
+      "sources": [
+        "ii-adhesion-cee"
+      ],
+      "pending": [
+        "Contrastar costes y beneficios con series comparables y estudios identificados."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1986-03-12-otan-referendum",
+      "date": "1986-03-12",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Referéndum sobre permanencia en la OTAN",
+      "category": "exterior",
+      "summary": "La consulta respaldó la permanencia con las condiciones sometidas a votación; España quedó inicialmente fuera de la estructura militar integrada.",
+      "attribution": "Decisión distinta de la adhesión de 1982; registrar el cambio de posición del PSOE con fuentes contemporáneas.",
+      "sources": [
+        "ii-otan-referendum"
+      ],
+      "pending": [
+        "Añadir resultados oficiales y literal de la pregunta sin parafrasear sus condiciones de forma inexacta."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1986-04-25-sanidad",
+      "date": "1986-04-25",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Ley General de Sanidad",
+      "category": "normativo",
+      "summary": "La Ley 14/1986 fijó el marco del sistema sanitario y de su organización territorial.",
+      "attribution": "La norma fue posterior a la disolución parlamentaria de abril: no confundir la fecha de disposición con la fecha de la votación final.",
+      "sources": [
+        "ii-sanidad"
+      ],
+      "pending": [
+        "Contrastar aprobación parlamentaria y despliegue de cobertura, financiación y transferencias."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1990-10-03-logse",
+      "date": "1990-10-03",
+      "datePrecision": "day",
+      "stage": "iv-gonzalez",
+      "title": "Reordenación educativa mediante la LOGSE",
+      "category": "normativo",
+      "summary": "La reforma extendió la educación obligatoria hasta los dieciséis años y reordenó etapas y formación profesional.",
+      "attribution": "Objetivo normativo verificable; sus efectos educativos requieren evaluación separada.",
+      "sources": [
+        "iv-logse"
+      ],
+      "pending": [
+        "Añadir calendario de implantación y estudios de resultados."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1983-02-23-rumasa",
+      "date": "1983-02-23",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Expropiación de Rumasa",
+      "category": "economico",
+      "summary": "El Gobierno aprobó la expropiación del grupo mediante decreto-ley.",
+      "attribution": "Decisión del Ejecutivo. El control de constitucionalidad y el balance económico son cuestiones distintas.",
+      "sources": [
+        "ii-rumasa"
+      ],
+      "pending": [
+        "Documentar coste, reprivatizaciones y litigios posteriores."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "rumasa"
+    },
+    {
+      "id": "1983-12-02-rumasa-tc",
+      "date": "1983-12-02",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Control constitucional de la expropiación",
+      "category": "resolucion-judicial",
+      "summary": "El Constitucional desestimó el recurso contra el decreto-ley de expropiación, con votos discrepantes.",
+      "attribution": "Una validación constitucional no acredita por sí sola una gestión económica satisfactoria.",
+      "sources": [
+        "ii-rumasa-tc"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "rumasa",
+      "judicialStatus": "recurso-de-inconstitucionalidad-desestimado",
+      "statusAtSource": "1983-12-02"
+    },
+    {
+      "id": "1983-12-04-marey",
+      "date": "1983-12-04",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Secuestro de Segundo Marey",
+      "category": "crisis",
+      "summary": "Marey fue secuestrado en Francia y permaneció retenido hasta el 14 de diciembre. Los hechos fueron objeto de condenas posteriores en la causa GAL.",
+      "attribution": "Hechos durante la Administración González; la responsabilidad penal se identifica en cada resolución, sin extenderla al presidente por asociación.",
+      "sources": [
+        "gal-marey-tc",
+        "gal-vera-tc"
+      ],
+      "pending": [
+        "Completar participantes, condenas e indultos mediante sus resoluciones individuales."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "gal-marey",
+      "factsPeriod": "1983-12-04/1983-12-14"
+    },
+    {
+      "id": "1985-07-31-pensiones",
+      "date": "1985-07-31",
+      "datePrecision": "day",
+      "stage": "ii-gonzalez",
+      "title": "Reforma de pensiones de 1985",
+      "category": "normativo",
+      "summary": "La Ley 26/1985 modificó requisitos de acceso y cálculo de pensiones.",
+      "attribution": "Reforma promovida por el Gobierno y aprobada por las Cortes; no confundir su exposición de motivos con resultados demostrados.",
+      "sources": [
+        "ii-pensiones"
+      ],
+      "pending": [
+        "Añadir contestación sindical y efectos sobre cotizantes y pensionistas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1988-12-14-huelga",
+      "date": "1988-12-14",
+      "datePrecision": "day",
+      "stage": "iii-gonzalez",
+      "title": "Huelga general del 14 de diciembre",
+      "category": "crisis",
+      "summary": "La huelga general expresó el conflicto entre el Gobierno y las principales centrales sindicales.",
+      "attribution": "Conflicto social bajo González; las cifras de seguimiento dependen de la fuente y no se fijan aquí como un recuento único.",
+      "sources": [
+        "iii-huelga"
+      ],
+      "pending": [
+        "Incorporar convocatoria sindical, medidas cuestionadas y negociaciones posteriores."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1997-10-28-filesa",
+      "date": "1997-10-28",
+      "datePrecision": "day",
+      "stage": "iii-gonzalez",
+      "title": "Condenas en el caso Filesa",
+      "category": "corrupcion",
+      "summary": "El Supremo dictó sentencia en una causa relacionada con financiación irregular vinculada al PSOE. Los posteriores amparos modificaron parte de las condenas.",
+      "attribution": "Los procedimientos se iniciaron en 1991, durante González; la sentencia llegó durante Aznar. No atribuir los hechos al Ejecutivo de 1997.",
+      "sources": [
+        "filesa-sala-tc",
+        "filesa-olivero-tc"
+      ],
+      "pending": [
+        "Precisar intervalos de hechos y fallo individual de cada acusado."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "filesa",
+      "stageAtMilestone": "vi-aznar",
+      "judicialStatus": "sentencia-con-amparos-posteriores",
+      "statusAtSource": "2001-06-04",
+      "relatedStages": [
+        "iv-gonzalez"
+      ],
+      "factsPeriod": "1987/1990"
+    },
+    {
+      "id": "1998-07-marey-condenas",
+      "date": "1998-07",
+      "datePrecision": "month",
+      "stage": "ii-gonzalez",
+      "title": "Sentencia del Supremo sobre el caso Marey",
+      "category": "resolucion-judicial",
+      "summary": "El Supremo condenó, entre otros responsables, a José Barrionuevo y Rafael Vera por su participación en los hechos del caso Marey.",
+      "attribution": "Hechos de 1983; resolución durante Aznar. No convertir las condenas de determinados responsables en una condena penal de Felipe González.",
+      "sources": [
+        "gal-vera-tc",
+        "gal-marey-tc"
+      ],
+      "pending": [
+        "Resolver la discrepancia de día entre antecedentes judiciales consultados; enlazar la sentencia original y los indultos."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "gal-marey",
+      "stageAtMilestone": "vi-aznar",
+      "judicialStatus": "condenas-revisadas-en-amparo",
+      "statusAtSource": "2001-03-17"
+    },
+    {
+      "id": "1999-12-roldan",
+      "date": "1999-12",
+      "datePrecision": "month",
+      "stage": "iii-gonzalez",
+      "title": "Revisión de la condena a Luis Roldán",
+      "category": "corrupcion",
+      "summary": "La agencia consultada informa de que el Supremo elevó la pena a 31 años al añadir una condena por falsedad mercantil.",
+      "attribution": "Roldán dirigió la Guardia Civil entre 1986 y 1993. La resolución llegó bajo Aznar; falta el fallo original para completar cada delito y condenado.",
+      "sources": [
+        "roldan-supremo-agencia",
+        "roldan-fecha-1999"
+      ],
+      "pending": [
+        "Recuperar sentencia original, fecha precisa, periodo de hechos y evolución posterior; conservar como fuente secundaria identificada."
+      ],
+      "verification": "documentado-en-fuente-secundaria",
+      "reviewedAt": "2026-10-17",
+      "caseId": "roldan",
+      "stageAtMilestone": "vi-aznar",
+      "judicialStatus": "condena-segun-agencia-pendiente-fallo-original",
+      "statusAtSource": "1999-12"
+    },
+    {
+      "id": "1997-11-27-electricidad",
+      "date": "1997-11-27",
+      "datePrecision": "day",
+      "stage": "vi-aznar",
+      "title": "Reforma del sector eléctrico",
+      "category": "normativo",
+      "summary": "La Ley 54/1997 reorganizó el marco del sector eléctrico.",
+      "attribution": "Hito legislativo; sus efectos sobre competencia, precios y costes requieren evaluación separada.",
+      "sources": [
+        "vi-electricidad"
+      ],
+      "pending": [
+        "Contrastar resultados con regulador, Tribunal de Cuentas y series de precios."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1998-04-13-suelo",
+      "date": "1998-04-13",
+      "datePrecision": "day",
+      "stage": "vi-aznar",
+      "title": "Ley de suelo y valoraciones",
+      "category": "normativo",
+      "summary": "La Ley 6/1998 modificó el régimen del suelo y las valoraciones.",
+      "attribution": "No deducir una causa única de la burbuja inmobiliaria a partir de una ley; distinguir decisiones estatales, autonómicas y municipales.",
+      "sources": [
+        "vi-suelo"
+      ],
+      "pending": [
+        "Añadir evaluación del ciclo inmobiliario y de competencias territoriales."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1999-01-01-euro",
+      "date": "1999-01-01",
+      "datePrecision": "day",
+      "stage": "vi-aznar",
+      "title": "Inicio de la moneda única",
+      "category": "exterior",
+      "summary": "España se incorporó al euro en su primera fase; los billetes y monedas llegaron en 2002.",
+      "attribution": "Proceso europeo preparado por varias administraciones; separar moneda contable y efectivo.",
+      "sources": [
+        "vi-euro"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2002-01-01-euro-efectivo",
+      "date": "2002-01-01",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Circulación de billetes y monedas de euro",
+      "category": "economico",
+      "summary": "Comenzó la circulación del efectivo en euros.",
+      "attribution": "Hito compartido del Eurosistema; no confundir esta fecha con la incorporación de 1999.",
+      "sources": [
+        "vi-euro"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2002-06-27-partidos",
+      "date": "2002-06-27",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Nueva ley de partidos políticos",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 6/2002 reguló partidos y procedimientos de disolución judicial.",
+      "attribution": "La ley y las sentencias de ilegalización son actos distintos.",
+      "sources": [
+        "vii-partidos"
+      ],
+      "pending": [
+        "Incorporar control constitucional y resoluciones de ilegalización, junto con su contexto."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2001-06-04-filesa-amparo",
+      "date": "2001-06-04",
+      "datePrecision": "day",
+      "stage": "iii-gonzalez",
+      "title": "Amparo parcial de José María Sala",
+      "category": "resolucion-judicial",
+      "summary": "El Constitucional anuló su condena por falsedad mercantil por vulneración de la presunción de inocencia; desestimó el recurso en lo restante.",
+      "attribution": "Actualiza el estado de una condena individual de Filesa; no equivale a absolver a todos los acusados.",
+      "sources": [
+        "filesa-sala-tc"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "filesa",
+      "stageAtMilestone": "vii-aznar",
+      "judicialStatus": "condena-por-falsedad-anulada-en-amparo",
+      "statusAtSource": "2001-06-04",
+      "relatedStages": [
+        "iv-gonzalez"
+      ],
+      "factsPeriod": "1987/1990"
+    },
+    {
+      "id": "2020-10-14-guertel",
+      "date": "2020-10-14",
+      "datePrecision": "day",
+      "stage": "vi-aznar",
+      "title": "Sentencia del Supremo sobre la primera época de Gürtel",
+      "category": "corrupcion",
+      "summary": "El Supremo revisó las condenas por la actividad de la trama entre 1999 y 2005 y mantuvo responsabilidad civil del PP como beneficiario lucrativo.",
+      "attribution": "Hechos bajo Aznar y Zapatero; sentencia durante Sánchez. Diferenciar condenas penales individuales y responsabilidad civil del partido.",
+      "sources": [
+        "guertel-supremo"
+      ],
+      "pending": [
+        "Desglosar acusados, hechos, modificaciones del fallo y relación con otras piezas sin duplicar el caso."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "guertel-primera-epoca",
+      "relatedStages": [
+        "vii-aznar",
+        "viii-zapatero"
+      ],
+      "stageAtMilestone": "xiv-sanchez",
+      "factsPeriod": "1999/2005",
+      "judicialStatus": "sentencia-de-casacion-con-responsabilidades-penales-individuales-y-civiles",
+      "statusAtSource": "2020-10-14"
+    },
+    {
+      "id": "2002-11-prestige",
+      "date": "2002-11",
+      "datePrecision": "month",
+      "stage": "vii-aznar",
+      "title": "Desastre del Prestige",
+      "category": "crisis",
+      "summary": "El petrolero sufrió un siniestro y se hundió frente a Galicia en noviembre de 2002, causando un vertido de gran alcance.",
+      "attribution": "Crisis durante Aznar. La revisión del Supremo de 2016 distingue responsabilidades del capitán, armador y aseguradora; no equivale a una condena penal del Ejecutivo.",
+      "sources": [
+        "vii-prestige-ts"
+      ],
+      "pending": [
+        "Documentar gestión del alejamiento, daños, sentencia inicial y ejecución de indemnizaciones; separar crítica política y fallo judicial."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "prestige",
+      "statusAtSource": "2016",
+      "judicialStatus": "resolucion-posterior-pendiente-desglose"
+    },
+    {
+      "id": "2010-03-22-yak-identificaciones",
+      "date": "2010-03-22",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Condenas por las identificaciones del Yak-42",
+      "category": "resolucion-judicial",
+      "summary": "La crónica oficial del Supremo recoge la revisión de condenas por falsedades en la identificación de 30 cadáveres de militares.",
+      "attribution": "Hechos vinculados al accidente de 2003, bajo Aznar; resolución durante Zapatero. Separar contratación del vuelo, identificación y responsabilidad patrimonial.",
+      "sources": [
+        "vii-yak-ts"
+      ],
+      "pending": [
+        "Añadir sentencia original, dictamen del Consejo de Estado e indultos posteriores; no atribuir al ministro una condena que recayó en otros acusados."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "yak42-identificaciones",
+      "stageAtMilestone": "ix-zapatero",
+      "factsPeriod": "2003",
+      "judicialStatus": "condenas-revisadas-en-casacion",
+      "statusAtSource": "2010-03-22"
+    },
+    {
+      "id": "2004-12-28-violencia-genero",
+      "date": "2004-12-28",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Protección integral frente a la violencia de género",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 1/2004 articuló medidas de prevención, asistencia y respuesta judicial.",
+      "attribution": "Reforma promovida por el Ejecutivo y aprobada parlamentariamente. Evaluar por separado recursos, aplicación y resultados.",
+      "sources": [
+        "viii-violencia-genero"
+      ],
+      "pending": [
+        "Añadir votaciones, jurisprudencia y series comparables de protección y víctimas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2005-07-01-matrimonio",
+      "date": "2005-07-01",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Matrimonio entre personas del mismo sexo",
+      "category": "normativo",
+      "summary": "La Ley 13/2005 abrió el matrimonio a parejas del mismo sexo con los correspondientes derechos y obligaciones.",
+      "attribution": "Cambio legal; no resumir su impacto social únicamente con la exposición de motivos.",
+      "sources": [
+        "viii-matrimonio"
+      ],
+      "pending": [
+        "Añadir control constitucional y datos de aplicación."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2006-12-14-dependencia",
+      "date": "2006-12-14",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Sistema de atención a la dependencia",
+      "category": "normativo",
+      "summary": "La Ley 39/2006 creó el marco de prestaciones y servicios para personas en situación de dependencia.",
+      "attribution": "Diseño estatal y ejecución compartida con las comunidades; distinguir derecho reconocido y prestación efectivamente recibida.",
+      "sources": [
+        "viii-dependencia"
+      ],
+      "pending": [
+        "Contrastar financiación, listas de espera y diferencias territoriales."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2010-05-20-ajuste",
+      "date": "2010-05-20",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Medidas extraordinarias de ajuste del gasto",
+      "category": "economico",
+      "summary": "El decreto-ley incluyó reducción de retribuciones públicas y medidas sobre pensiones y otras partidas.",
+      "attribution": "Decisión del Gobierno en la crisis económica; efectos sobre renta, servicios y déficit requieren evaluación independiente.",
+      "sources": [
+        "ix-ajuste"
+      ],
+      "pending": [
+        "Desglosar excepciones, convalidación, conflicto social y resultados presupuestarios."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2011-09-27-art135",
+      "date": "2011-09-27",
+      "datePrecision": "day",
+      "stage": "ix-zapatero",
+      "title": "Reforma del artículo 135 de la Constitución",
+      "category": "institucional",
+      "summary": "Se reformó el marco constitucional de estabilidad presupuestaria y prioridad del servicio de la deuda.",
+      "attribution": "Reforma de las Cortes durante Zapatero; no presentarla como decisión unilateral del presidente.",
+      "sources": [
+        "ix-art135",
+        "ix-art135-tramitacion"
+      ],
+      "pending": [
+        "Añadir votos y posiciones de los grupos y evaluar efectos sin atribuir a la reforma todas las políticas de austeridad."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2012-02-10-laboral",
+      "date": "2012-02-10",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Reforma laboral de 2012",
+      "category": "normativo",
+      "summary": "El decreto-ley modificó contratación, negociación colectiva y regulación del despido.",
+      "attribution": "Reforma del Ejecutivo posteriormente tramitada por las Cortes; los objetivos declarados no prueban efectos causales sobre empleo y salarios.",
+      "sources": [
+        "x-laboral"
+      ],
+      "pending": [
+        "Añadir Ley 3/2012, contestación sindical y evaluaciones del mercado laboral."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2012-12-11-asistencia-bancaria",
+      "date": "2012-12-11",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Primer desembolso de asistencia bancaria europea",
+      "category": "economico",
+      "summary": "El MEDE desembolsó 39.468 millones de euros; con el segundo tramo de febrero de 2013, el programa alcanzó 41.333 millones.",
+      "attribution": "Préstamo al Estado para recapitalización bancaria, canalizado al FROB. No es una cifra de pérdida definitiva ni el total de todas las ayudas.",
+      "sources": [
+        "x-asistencia-bancaria"
+      ],
+      "pending": [
+        "Separar deuda, recuperaciones, garantías y coste fiscal según FROB, Banco de España y Tribunal de Cuentas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "asistencia-bancaria-2012"
+    },
+    {
+      "id": "2015-03-30-seguridad",
+      "date": "2015-03-30",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Ley de seguridad ciudadana de 2015",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 4/2015 estableció un nuevo régimen de actuaciones y sanciones en materia de seguridad.",
+      "attribution": "Separar finalidad declarada, restricciones concretas, uso sancionador y control constitucional.",
+      "sources": [
+        "x-seguridad-ciudadana"
+      ],
+      "pending": [
+        "Incorporar pronunciamientos constitucionales y datos sobre aplicación a protestas y actividad informativa."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2017-10-27-art155",
+      "date": "2017-10-27",
+      "datePrecision": "day",
+      "stage": "xii-rajoy",
+      "title": "Aplicación del artículo 155 en Cataluña",
+      "category": "institucional",
+      "summary": "El Senado autorizó medidas solicitadas por el Gobierno sobre las instituciones de la Generalitat.",
+      "attribution": "Distinguir acuerdo del Senado, ejecución central y actuaciones de las autoridades catalanas; no confundir el conflicto institucional con una condena penal.",
+      "sources": [
+        "xii-art155"
+      ],
+      "pending": [
+        "Completar antecedentes de septiembre y octubre, cargas policiales, resoluciones penales e indultos y amnistía posteriores."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "crisis-cataluna-2017"
+    },
+    {
+      "id": "2018-06-01-mocion",
+      "date": "2018-06-01",
+      "datePrecision": "day",
+      "stage": "xii-sanchez",
+      "title": "Moción de censura y relevo presidencial",
+      "category": "institucional",
+      "summary": "El Congreso aprobó la moción contra Rajoy por 180 votos a favor, 169 en contra y una abstención, otorgando su confianza a Sánchez.",
+      "attribution": "Votación parlamentaria; decreto de nombramiento, publicación y toma de posesión son hitos diferentes.",
+      "sources": [
+        "xii-mocion"
+      ],
+      "pending": [
+        "Enlazar la sentencia Gürtel publicada en mayo y documentar el contexto sin confundir responsabilidad civil y penal."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2019-04-29-funciones",
+      "date": "2019-04-29",
+      "datePrecision": "day",
+      "stage": "xiii-sanchez",
+      "title": "Continuidad del presidente en funciones en 2019",
+      "category": "institucional",
+      "summary": "El decreto de cese tras las elecciones estableció expresamente la continuidad en funciones hasta la toma de posesión del nuevo presidente.",
+      "attribution": "No hubo una nueva investidura en la XIII; el decreto es anterior a la constitución de esa Cámara.",
+      "sources": [
+        "base-investiduras",
+        "xiii-funciones"
+      ],
+      "pending": [
+        "Completar investidura fallida, disolución y repetición electoral."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2020-01-07-nombramiento",
+      "date": "2020-01-07",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Nombramiento tras la investidura de enero de 2020",
+      "category": "institucional",
+      "summary": "El decreto nombra a Sánchez después de obtener la confianza del Congreso en segunda votación; se publicó el día 8.",
+      "attribution": "El día del decreto no debe rotularse automáticamente como toma de posesión.",
+      "sources": [
+        "xiv-nombramiento"
+      ],
+      "pending": [
+        "Añadir formación de la coalición y toma de posesión del gabinete."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2020-03-14-alarma",
+      "date": "2020-03-14",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Primer estado de alarma por la COVID-19",
+      "category": "crisis",
+      "summary": "El Gobierno declaró el estado de alarma y estableció restricciones de circulación y actividad.",
+      "attribution": "Respuesta estatal ante una pandemia; la gestión sanitaria territorial y el control de constitucionalidad requieren apartados propios.",
+      "sources": [
+        "xiv-alarma"
+      ],
+      "pending": [
+        "Añadir cronología sanitaria, material de protección, residencias, ERTE y segunda alarma; contrastar competencias y mortalidad sin causalidades automáticas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "covid-primer-estado-alarma"
+    },
+    {
+      "id": "2020-05-29-imv",
+      "date": "2020-05-29",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Creación del ingreso mínimo vital",
+      "category": "normativo",
+      "summary": "Se aprobó una prestación estatal dirigida a hogares con vulnerabilidad económica.",
+      "attribution": "Separar norma, hogares potencialmente elegibles, beneficiarios efectivos y efectos sobre pobreza.",
+      "sources": [
+        "xiv-imv"
+      ],
+      "pending": [
+        "Incorporar evaluaciones AIReF y modificaciones posteriores, sin dar por realizada toda la cobertura prevista."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "ingreso-minimo-vital"
+    },
+    {
+      "id": "2021-07-14-alarma-tc",
+      "date": "2021-07-14",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Inconstitucionalidad parcial del primer estado de alarma",
+      "category": "resolucion-judicial",
+      "summary": "La STC 148/2021 declaró nulos determinados preceptos de restricción de circulación y habilitaciones del decreto de alarma.",
+      "attribution": "Control constitucional del instrumento y alcance de las restricciones; no es una condena penal ni anula toda actuación sanitaria.",
+      "sources": [
+        "xiv-alarma-tc"
+      ],
+      "pending": [
+        "Desglosar fallo, votos particulares y efectos sobre sanciones e indemnizaciones."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "covid-primer-estado-alarma",
+      "judicialStatus": "inconstitucionalidad-parcial",
+      "statusAtSource": "2021-07-14"
+    },
+    {
+      "id": "2021-12-28-laboral",
+      "date": "2021-12-28",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Reforma laboral acordada con agentes sociales",
+      "category": "normativo",
+      "summary": "El decreto-ley modificó modalidades de contratación y negociación colectiva.",
+      "attribution": "Distinguir acuerdo social, aprobación del Gobierno, convalidación y evaluación del empleo.",
+      "sources": [
+        "xiv-laboral"
+      ],
+      "pending": [
+        "Analizar temporalidad, fijos discontinuos y salarios con series homogéneas y actualizar control constitucional."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2022-09-06-libertad-sexual",
+      "date": "2022-09-06",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Ley de garantía de la libertad sexual",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 10/2022 cambió la regulación de los delitos sexuales y estableció medidas de protección.",
+      "attribution": "Debe estudiarse junto con las revisiones de condenas y la modificación legislativa de 2023.",
+      "sources": [
+        "xiv-libertad-sexual"
+      ],
+      "pending": [
+        "Desarrollar advertencias previas, tramitación y respuesta del Gobierno sin sustituirlas por declaraciones partidistas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "libertad-sexual-2022"
+    },
+    {
+      "id": "2023-04-27-reforma-delitos-sexuales",
+      "date": "2023-04-27",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Modificación de la regulación de delitos sexuales",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 4/2023 modificó las penas y otros aspectos del marco penal.",
+      "attribution": "Una reforma posterior no elimina por sí sola la aplicación retroactiva de una ley penal más favorable.",
+      "sources": [
+        "xiv-libertad-sexual-reforma"
+      ],
+      "pending": [
+        "Incorporar votaciones y evolución jurisprudencial de revisiones."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "libertad-sexual-2022"
+    },
+    {
+      "id": "2023-11-24-balance-revisiones",
+      "date": "2023-11-24",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Balance judicial de reducciones de penas",
+      "category": "resolucion-judicial",
+      "summary": "El CGPJ publicó un mínimo de 1.233 reducciones de pena y 126 excarcelaciones con datos hasta el 1 de noviembre de 2023.",
+      "attribution": "Balance ligado a la ley aprobada en la XIV, publicado ya en la XV. No es el total actualizado a 2026 ni un conjunto de resoluciones todas firmes.",
+      "sources": [
+        "xiv-libertad-sexual-balance"
+      ],
+      "pending": [
+        "Añadir última actualización disponible y metodología del recuento."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "libertad-sexual-2022",
+      "stageAtMilestone": "xv-sanchez",
+      "statusAtSource": "2023-11-01"
+    },
+    {
+      "id": "2023-11-16-nombramiento",
+      "date": "2023-11-16",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Nombramiento tras la investidura de noviembre de 2023",
+      "category": "institucional",
+      "summary": "El decreto nombra a Sánchez tras obtener la confianza del Congreso por mayoría absoluta en primera votación; se publicó el día 17.",
+      "attribution": "El decreto acredita nombramiento e investidura, no una evaluación de los acuerdos de apoyo.",
+      "sources": [
+        "xv-nombramiento"
+      ],
+      "pending": [
+        "Documentar pactos, composición del gabinete y evolución de apoyos parlamentarios."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2024-06-10-amnistia",
+      "date": "2024-06-10",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Ley de amnistía de 2024",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 1/2024 estableció una amnistía para determinados hechos vinculados al conflicto político catalán.",
+      "attribution": "Acto legislativo; separar iniciativa parlamentaria, apoyo del Gobierno y aplicación por los tribunales.",
+      "sources": [
+        "xv-amnistia"
+      ],
+      "pending": [
+        "Completar tramitación y resoluciones españolas y europeas sobre aplicaciones concretas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "amnistia-2024"
+    },
+    {
+      "id": "2025-06-26-amnistia-tc",
+      "date": "2025-06-26",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Resolución constitucional sobre la amnistía",
+      "category": "resolucion-judicial",
+      "summary": "La STC 137/2025 estimó parcialmente el recurso: declaró inconstitucionales extremos de los artículos 1.1 y 1.3, fijó una interpretación del artículo 13 y desestimó el resto.",
+      "attribution": "No resumir el fallo como anulación total ni como validación sin condiciones; separar constitucionalidad y aplicación a cada causa.",
+      "sources": [
+        "xv-amnistia-tc"
+      ],
+      "pending": [
+        "Desarrollar alcance de los fundamentos 8.3.5 y 20.4.3, votos discrepantes y resoluciones posteriores."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "amnistia-2024",
+      "judicialStatus": "estimacion-parcial-con-interpretacion-conforme",
+      "statusAtSource": "2025-06-26"
+    },
+    {
+      "id": "2025-06-27-cerdan-investigacion",
+      "date": "2025-06-27",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Actuaciones del Supremo en la causa que afecta a Ábalos y Cerdán",
+      "category": "resolucion-judicial",
+      "summary": "La comunicación judicial confirma la condición de investigado de Cerdán y su declaración prevista en la causa seguida contra Ábalos y otras personas.",
+      "attribution": "Actuación de instrucción, no una condena. Su fecha documenta el proceso; el periodo de los hechos y las distintas piezas requieren registro específico.",
+      "sources": [
+        "xv-koldo-diligencias"
+      ],
+      "pending": [
+        "Prioridad: contrastar autos, objeto de cada pieza, respuestas de los investigados y evolución hasta octubre de 2026 antes de presentarlo como estado actual."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "koldo-obras",
+      "relatedStages": [
+        "xii-sanchez",
+        "xiv-sanchez"
+      ],
+      "judicialStatus": "investigacion-documentada-en-2025-no-actualizada",
+      "statusAtSource": "2025-06-27"
+    },
+    {
+      "id": "1976-07-01-santiago",
+      "date": "1976-07-01",
+      "datePrecision": "day",
+      "stage": "pre-santiago",
+      "title": "Interinidad de Fernando de Santiago",
+      "category": "institucional",
+      "summary": "La relación de Presidencia identifica su interinidad del 1 al 3 de julio, entre Arias y Suárez.",
+      "attribution": "Contexto de transición; no constituye una legislatura democrática ni un mandato investido por las Cortes.",
+      "sources": [
+        "base-presidencias"
+      ],
+      "pending": [],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1995-11-23-codigo-penal",
+      "date": "1995-11-23",
+      "datePrecision": "day",
+      "stage": "v-gonzalez",
+      "title": "Código Penal de 1995",
+      "category": "normativo",
+      "summary": "Se aprobó un nuevo Código Penal, publicado el 24 de noviembre; la entrada en vigor se produjo seis meses después de la publicación completa.",
+      "attribution": "Norma aprobada durante González y entrada en vigor bajo Aznar. Evitar atribuir toda su aplicación a la administración que lo aprobó.",
+      "sources": [
+        "v-codigo-penal"
+      ],
+      "pending": [
+        "Añadir tramitación, reformas posteriores y efectos de sus disposiciones transitorias."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "1997-09-26-colza",
+      "date": "1997-09-26",
+      "datePrecision": "day",
+      "stage": "i-calvo-sotelo",
+      "title": "Responsabilidad civil del Estado por el síndrome tóxico",
+      "category": "resolucion-judicial",
+      "summary": "La memoria de la Audiencia Nacional recoge el pronunciamiento del Supremo de 1997 sobre responsabilidad civil subsidiaria del Estado en la crisis del aceite tóxico.",
+      "attribution": "Hechos sanitarios de 1981; resolución durante Aznar. Separar responsabilidad penal de comerciantes o funcionarios y responsabilidad civil del Estado.",
+      "sources": [
+        "i-colza-responsabilidad"
+      ],
+      "pending": [
+        "Recuperar sentencias originales, cronología sanitaria, víctimas e indemnizaciones antes de desglosar cifras."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "sindrome-toxico-colza",
+      "stageAtMilestone": "vi-aznar",
+      "factsPeriod": "1981",
+      "judicialStatus": "responsabilidad-civil-segun-memoria-judicial",
+      "statusAtSource": "1997-09-26"
+    },
+    {
+      "id": "2003-03-18-irak",
+      "date": "2003-03-18",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Comparecencia sobre la intervención en Irak",
+      "category": "exterior",
+      "summary": "Aznar compareció ante el Congreso para explicar la posición española y las medidas del Ejecutivo ante el conflicto.",
+      "attribution": "La fuente permite contrastar las declaraciones gubernamentales y la oposición parlamentaria; los juicios políticos se atribuyen a sus autores.",
+      "sources": [
+        "vii-irak-congreso"
+      ],
+      "pending": [
+        "Completar secuencia de decisiones, mandatos de la ONU, despliegue, víctimas, protestas y evaluaciones posteriores."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "intervencion-irak"
+    },
+    {
+      "id": "2004-03-11-atentados",
+      "date": "2004-03-11",
+      "datePrecision": "day",
+      "stage": "vii-aznar",
+      "title": "Atentados del 11 de marzo",
+      "category": "crisis",
+      "summary": "Los atentados contra trenes en Madrid causaron una catástrofe humana y una crisis de seguridad de alcance nacional.",
+      "attribution": "Distinguir autoría terrorista, respuesta de emergencia, información gubernamental y controversia electoral; no responsabilizar penalmente al Gobierno por la mera coincidencia temporal.",
+      "sources": [
+        "vii-11m-interior"
+      ],
+      "pending": [
+        "Incorporar sentencias AN 65/2007 y TS 503/2008, comisión parlamentaria y cronología de comunicaciones oficiales."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "11m"
+    },
+    {
+      "id": "2004-04-18-irak-retirada",
+      "date": "2004-04-18",
+      "datePrecision": "day",
+      "stage": "viii-zapatero",
+      "title": "Orden de retirada del contingente de Irak",
+      "category": "exterior",
+      "summary": "Zapatero ordenó preparar el regreso de las tropas; explicó la decisión al Congreso el 27 de abril.",
+      "attribution": "Decisión de política exterior y defensa; el discurso acredita la orden, no todos sus resultados.",
+      "sources": [
+        "viii-irak-retirada"
+      ],
+      "pending": [
+        "Añadir finalización de la retirada, posiciones de aliados y balance de la misión."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "intervencion-irak"
+    },
+    {
+      "id": "2012-07-13-ajuste",
+      "date": "2012-07-13",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Ajuste presupuestario de julio de 2012",
+      "category": "economico",
+      "summary": "El decreto-ley incluyó medidas de reducción de gasto público y cambios tributarios.",
+      "attribution": "Separar medidas legisladas, duración, aplicación real y efectos sobre los hogares y los servicios.",
+      "sources": [
+        "x-ajustes"
+      ],
+      "pending": [
+        "Desglosar IVA, paga extraordinaria, prestaciones y financiación territorial; añadir respuesta social y control judicial."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2013-12-09-transparencia",
+      "date": "2013-12-09",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Ley de transparencia, acceso a información y buen gobierno",
+      "category": "normativo",
+      "summary": "Se creó un marco de obligaciones de publicidad y acceso a información pública.",
+      "attribution": "La aprobación es un hito legal; su cumplimiento debe verificarse con resoluciones y evaluaciones independientes.",
+      "sources": [
+        "x-transparencia"
+      ],
+      "pending": [
+        "Añadir implantación efectiva, excepciones, sanciones y cumplimiento de resoluciones."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2015-12-21-funciones",
+      "date": "2015-12-21",
+      "datePrecision": "day",
+      "stage": "xi-rajoy",
+      "title": "Continuidad del Gobierno en funciones tras las elecciones",
+      "category": "institucional",
+      "summary": "La relación oficial identifica la continuidad en funciones de Rajoy; el decreto de cese de los miembros del Gobierno establece su continuidad hasta el relevo.",
+      "attribution": "El hito es anterior a la constitución de la XI Cámara; se incluye en su contexto para evitar inventar una nueva investidura.",
+      "sources": [
+        "base-investiduras",
+        "base-funciones"
+      ],
+      "pending": [
+        "Añadir decretos de cese de Presidencia y Gobierno, investidura fallida y repetición electoral de 2016."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2021-03-24-eutanasia",
+      "date": "2021-03-24",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Regulación de la prestación de ayuda para morir",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 3/2021 reguló el acceso y garantías de la prestación.",
+      "attribution": "Cambio legal; analizar salvaguardas, práctica asistencial y control constitucional sin una valoración moral automática.",
+      "sources": [
+        "xiv-eutanasia"
+      ],
+      "pending": [
+        "Añadir sentencias constitucionales y evaluaciones de aplicación territorial."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2021-07-13-recuperacion-europea",
+      "date": "2021-07-13",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Aprobación europea del plan español de recuperación",
+      "category": "exterior",
+      "summary": "El Consejo aprobó el plan español en la primera tanda de planes nacionales de recuperación.",
+      "attribution": "Decisión europea sobre un plan presentado por España. Aprobación, desembolso, ejecución y efecto económico son magnitudes distintas.",
+      "sources": [
+        "xiv-recuperacion-eu"
+      ],
+      "pending": [
+        "Contrastar hitos, pagos, controles y resultados mediante Comisión, AIReF y fiscalización."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2024-11-05-dana-respuesta",
+      "date": "2024-11-05",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Primer paquete estatal de respuesta a la DANA",
+      "category": "crisis",
+      "summary": "El Gobierno aprobó medidas urgentes tras los daños ocasionados por la DANA de finales de octubre.",
+      "attribution": "Separar alerta, respuesta de emergencia, competencias autonómicas y estatales y ejecución de ayudas; una norma no demuestra suficiencia de la respuesta.",
+      "sources": [
+        "xv-dana-respuesta"
+      ],
+      "pending": [
+        "Añadir cronología de avisos, movilizaciones, ayudas cobradas y actuaciones judiciales sin imputaciones colectivas."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "dana-2024"
+    },
+    {
+      "id": "2025-04-28-apagon",
+      "date": "2025-04-28",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Crisis eléctrica del 28 de abril",
+      "category": "crisis",
+      "summary": "El corte general del suministro dio lugar a una investigación técnica y medidas de respuesta.",
+      "attribution": "No fijar una causa única o una responsabilidad penal a partir de una nota gubernamental.",
+      "sources": [
+        "xv-apagon-informe"
+      ],
+      "pending": [
+        "Contrastar informes de ENTSO-E, regulador y operadores, y la evolución de procedimientos administrativos."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "apagon-2025"
+    },
+    {
+      "id": "2025-06-17-informe-apagon",
+      "date": "2025-06-17",
+      "datePrecision": "day",
+      "stage": "xv-sanchez",
+      "title": "Presentación del informe gubernamental sobre el apagón",
+      "category": "institucional",
+      "summary": "El comité describió una secuencia multifactorial de sobretensión, problemas de control de tensión y desconexiones.",
+      "attribution": "Conclusiones atribuidas al comité gubernamental; requieren contraste con otros organismos y no constituyen una sentencia.",
+      "sources": [
+        "xv-apagon-informe"
+      ],
+      "pending": [
+        "Añadir informe íntegro, discrepancias técnicas y seguimiento de recomendaciones."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "apagon-2025"
+    },
+    {
+      "id": "2026-06-22-mascarillas-condena",
+      "date": "2026-06-22",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Sentencia del caso de las mascarillas que afecta a Ábalos y Koldo García",
+      "category": "corrupcion",
+      "summary": "EFE informa de condenas a Ábalos de 24 años y tres meses, a Koldo García de 19 años y ocho meses y a Aldama de cuatro años y medio.",
+      "attribution": "Hechos vinculados a contratación de 2020 y otras actuaciones. La responsabilidad de los condenados no se extiende automáticamente al presidente, al partido o a otras piezas.",
+      "sources": [
+        "koldo-mascarillas-condena-efe"
+      ],
+      "pending": [
+        "Recuperar fallo original, absoluciones parciales, hechos concretos y cálculo de penas antes de trasladar el registro a la web."
+      ],
+      "verification": "documentado-en-fuente-secundaria",
+      "reviewedAt": "2026-10-17",
+      "caseId": "koldo-mascarillas",
+      "stageAtMilestone": "xv-sanchez",
+      "factsPeriod": "2020 y actuaciones conexas pendientes de desglose",
+      "judicialStatus": "condena-firme-segun-agencia-pendiente-fallo-original",
+      "statusAtSource": "2026-06-22"
+    },
+    {
+      "id": "2026-07-imv-evaluacion",
+      "date": "2026-07",
+      "datePrecision": "month",
+      "stage": "xiv-sanchez",
+      "title": "Quinta evaluación independiente del ingreso mínimo vital",
+      "category": "social",
+      "summary": "AIReF concluye que la prestación refuerza la protección frente a la pobreza, pero no alcanza a la mitad de sus potenciales beneficiarios y mantiene dificultades de acceso.",
+      "attribution": "Evaluación publicada durante la XV sobre una medida creada en la XIV. Separar cobertura, prestación de infancia y efectos sobre empleo.",
+      "sources": [
+        "xv-imv-quinta",
+        "xv-imv-evaluacion"
+      ],
+      "pending": [
+        "Extraer indicadores con denominadores, años y metodología antes de elaborar comparaciones presidenciales."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17",
+      "caseId": "ingreso-minimo-vital",
+      "stageAtMilestone": "xv-sanchez"
+    },
+    {
+      "id": "2026-08-02-kitchen-balance",
+      "date": "2026-08-02",
+      "datePrecision": "day",
+      "stage": "x-rajoy",
+      "title": "Balance del juicio de la operación Kitchen",
+      "category": "resolucion-judicial",
+      "summary": "Europa Press informa de que el juicio sobre el presunto espionaje a Bárcenas quedó visto para sentencia tras sesiones celebradas entre abril y julio de 2026.",
+      "attribution": "Una acusación y un juicio celebrado no son una condena. El balance recoge también las solicitudes de absolución de las defensas.",
+      "sources": [
+        "kitchen-juicio-ep"
+      ],
+      "pending": [
+        "Prioridad: incorporar autos y comprobar si existe resolución posterior al cierre de la vista antes de fijar el estado a octubre de 2026."
+      ],
+      "verification": "documentado-en-fuente-secundaria",
+      "reviewedAt": "2026-10-17",
+      "caseId": "kitchen",
+      "stageAtMilestone": "xv-sanchez",
+      "judicialStatus": "visto-para-sentencia-segun-agencia-a-agosto-2026",
+      "statusAtSource": "2026-08-02"
+    },
+    {
+      "id": "2026-10-14-mascarillas-nulidad",
+      "date": "2026-10-14",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Rechazo de los incidentes de nulidad del caso mascarillas",
+      "category": "resolucion-judicial",
+      "summary": "Europa Press informa de que el Supremo desestimó los incidentes de Ábalos y Koldo García contra sus condenas.",
+      "attribution": "Actualización de la pieza de mascarillas, separada de la investigación sobre obras. La posibilidad de amparo no equivale a una anulación.",
+      "sources": [
+        "koldo-mascarillas-nulidad-ep"
+      ],
+      "pending": [
+        "Adjuntar auto original y registrar posteriores recursos sin anticipar su resultado."
+      ],
+      "verification": "documentado-en-fuente-secundaria",
+      "reviewedAt": "2026-10-17",
+      "caseId": "koldo-mascarillas",
+      "stageAtMilestone": "xv-sanchez",
+      "judicialStatus": "incidentes-de-nulidad-desestimados-segun-agencia",
+      "statusAtSource": "2026-10-14"
+    },
+    {
+      "id": "1980-07-05-libertad-religiosa",
+      "date": "1980-07-05",
+      "datePrecision": "day",
+      "stage": "i-suarez",
+      "title": "Ley de libertad religiosa",
+      "category": "normativo",
+      "summary": "La Ley Orgánica 7/1980 desarrolló garantías de libertad religiosa y de culto.",
+      "attribution": "Reforma aprobada durante Suárez; separar reconocimiento legal, acuerdos con confesiones y aplicación efectiva.",
+      "sources": [
+        "i-libertad-religiosa"
+      ],
+      "pending": [
+        "Completar acuerdos de cooperación, financiación y jurisprudencia."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    },
+    {
+      "id": "2023-05-24-vivienda",
+      "date": "2023-05-24",
+      "datePrecision": "day",
+      "stage": "xiv-sanchez",
+      "title": "Ley estatal de vivienda",
+      "category": "normativo",
+      "summary": "La Ley 12/2023 reguló instrumentos de acceso a vivienda y modificó aspectos de los arrendamientos.",
+      "attribution": "La aprobación no demuestra por sí sola abaratamiento ni encarecimiento; las medidas dependen también de aplicación territorial.",
+      "sources": [
+        "xiv-vivienda"
+      ],
+      "pending": [
+        "Añadir recursos constitucionales y series comparables de oferta, rentas y acceso."
+      ],
+      "verification": "hecho-base-documentado",
+      "reviewedAt": "2026-10-17"
+    }
+  ]
+}
