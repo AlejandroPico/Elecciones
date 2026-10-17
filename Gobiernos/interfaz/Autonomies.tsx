@@ -233,8 +233,12 @@ export default function Autonomies({
           }
         >
           <AutonomyMap
-            openGovernment={(territory) =>
-              openSection(autonomyEntry(territory, "government"))
+            selected={active ? selected : last}
+            openDate={(date) => openSection(`map:${date}`)}
+            openGovernment={(territory, date) =>
+              openSection(
+                `${autonomyEntry(territory, "government")}:at-${date}`,
+              )
             }
           />
         </Suspense>

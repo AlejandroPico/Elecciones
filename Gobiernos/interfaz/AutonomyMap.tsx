@@ -1,4 +1,5 @@
-import { useId, useLayoutEffect, useRef, useState } from "react";
+import { ChevronLeft, ChevronRight } from "lucide-react";
+import { useId, useLayoutEffect, useMemo, useRef, useState } from "react";
 import mapPortraits from "virtual:presidencias-retratos";
 import { PortraitImage } from "../../Políticos/interfaz/ImagenRetrato";
 import { dateLabel } from "./government-model";
@@ -6,8 +7,10 @@ import {
   geography,
   mapCheckedAt,
   mapParties,
-  mapProvinces,
-  mapAutonomies,
+  provincesAt,
+  autonomiesAt,
+  mapDates,
+  mapDate,
   tooltipPosition,
   type MapProvince,
 } from "./mapa-model";
@@ -15,11 +18,25 @@ import "./mapa.css";
 
 export default function AutonomyMap({
   openGovernment,
+  selected: selectedRoute,
+  openDate,
 }: {
-  openGovernment: (territory: string) => void;
+  openGovernment: (territory: string, date: string) => void;
+  selected?: string;
+  openDate: (date: string) => void;
 }) {
+  const date = mapDate(selectedRoute);
   const id = useId().replace(/:/g, "");
-  const [selected, setSelected] = useState<MapProvince>();
+  const [selectedId, setSelectedId] = useState<string>();
+  const mapProvinces = useMemo(() => provincesAt(date), [date]);
+  const mapAutonomies = useMemo(
+    () => autonomiesAt(mapProvinces),
+    [mapProvinces],
+  );
+  const selected = mapProvinces.find((p) => p.id === selectedId);
+  const setSelected = (province?: MapProvince) => setSelectedId(province?.id);
+  const dates = useMemo(() => [...new Set([...mapDates, date])].sort(), [date]);
+  const timeIndex = dates.indexOf(date);
   const tooltip = useRef<HTMLDivElement>(null);
   const point = useRef({ x: 0, y: 0 });
   const touch = useRef(false);
@@ -57,7 +74,50 @@ export default function AutonomyMap({
     >
       <div className="map-caption">
         <span>Presidencias autonómicas</span>
-        <span>Color del partido de la presidencia</span>
+        <span>Formación de la presidencia</span>
+      </div>
+      <div className="map-history">
+        <button
+          className="icon-button"
+          aria-label="Cambio autonómico anterior"
+          disabled={timeIndex === 0}
+          onClick={() => openDate(dates[timeIndex - 1])}
+        >
+          <ChevronLeft size={18} />
+        </button>
+        <div>
+          <time dateTime={date} aria-live="polite">
+            {dateLabel(date)}
+          </time>
+          <input
+            type="range"
+            min={0}
+            max={dates.length - 1}
+            value={timeIndex}
+            aria-label="Cronología del mapa autonómico"
+            aria-valuetext={dateLabel(date)}
+            onChange={(event) => openDate(dates[Number(event.target.value)])}
+          />
+          <div className="map-history-years">
+            <span>{dates[0].slice(0, 4)}</span>
+            <span>{mapCheckedAt.slice(0, 4)}</span>
+          </div>
+        </div>
+        <button
+          className="icon-button"
+          aria-label="Cambio autonómico siguiente"
+          disabled={timeIndex === dates.length - 1}
+          onClick={() => openDate(dates[timeIndex + 1])}
+        >
+          <ChevronRight size={18} />
+        </button>
+        <button
+          className="map-present"
+          disabled={date === mapCheckedAt}
+          onClick={() => openDate(mapCheckedAt)}
+        >
+          Actual
+        </button>
       </div>
       <svg
         className="political-map"
@@ -150,6 +210,7 @@ export default function AutonomyMap({
               tabIndex={0}
               role="button"
               aria-label={`${province.name} · ${province.presidency.territoryName} · ${province.presidency.name} · ${province.presidency.partyLabel}. Abrir gobierno de ${province.presidency.territoryName}`}
+              aria-disabled={!province.presidency.person}
               aria-describedby={
                 selected?.id === province.id ? `${id}-tooltip` : undefined
               }
@@ -175,17 +236,19 @@ export default function AutonomyMap({
               }}
               onBlur={clear}
               onClick={() => {
+                if (!province.presidency.person) return;
                 if (touch.current && pinned.current !== province.territory) {
                   pinned.current = province.territory;
                   setSelected(province);
                   return;
                 }
-                openGovernment(province.territory);
+                openGovernment(province.territory, date);
               }}
               onKeyDown={(event) => {
                 if (event.key === "Enter" || event.key === " ") {
                   event.preventDefault();
-                  openGovernment(province.territory);
+                  if (province.presidency.person)
+                    openGovernment(province.territory, date);
                 }
               }}
             />
@@ -209,21 +272,27 @@ export default function AutonomyMap({
       </svg>
       <div className="map-footer">
         <div className="map-legend" aria-label="Partidos de las presidencias">
-          {Object.entries(mapParties).map(([key, party]) => (
-            <span key={key}>
-              <i style={{ background: party.color }} />
-              {party.label}
-            </span>
-          ))}
+          {Object.entries(mapParties)
+            .filter(([key]) =>
+              mapProvinces.some((p) => p.presidency.party === key),
+            )
+            .map(([key, party]) => (
+              <span key={key}>
+                <i style={{ background: party.color }} />
+                {party.label}
+              </span>
+            ))}
         </div>
         <details className="map-sources">
-          <summary>Fuentes · {dateLabel(mapCheckedAt)}</summary>
+          <summary>Fuentes</summary>
           <div>
             <p>
-              El color corresponde a la presidencia de la comunidad, también en
-              sus provincias. «En el cargo desde» indica el inicio de la etapa
-              continuada de cada titular, incluidos sus mandatos consecutivos.
-              Los decretos de nombramiento se conservan aparte.
+              El color identifica la formación vinculada a la presidencia por la
+              fuente de cada mandato, también en sus provincias; puede ser una
+              coalición y no acredita militancia diaria. Las fechas históricas
+              siguen el criterio documental de las composiciones. El gris indica
+              falta de datos; no significa ausencia de gobierno. Los
+              nombramientos y los intervalos se consultan en cada gobierno.
             </p>
             <p>
               Cartografía:{" "}
@@ -262,55 +331,88 @@ export default function AutonomyMap({
                 .map(({ presidency: p }) => (
                   <li key={p.territory}>
                     {p.territoryName} ·{" "}
-                    <a
-                      href={p.tenureSource}
-                      target="_blank"
-                      rel="noreferrer"
-                      title={p.tenureBasis}
-                    >
-                      Inicio de la presidencia
-                    </a>{" "}
-                    ·{" "}
-                    <a href={p.source} target="_blank" rel="noreferrer">
-                      Nombramiento
-                    </a>{" "}
-                    ·{" "}
-                    <a href={p.partySource} target="_blank" rel="noreferrer">
-                      Vinculación política
-                    </a>
+                    {p.source ? (
+                      <a
+                        href={p.tenureSource}
+                        target="_blank"
+                        rel="noreferrer"
+                        title={p.dateBasis}
+                      >
+                        Inicio de la presidencia
+                      </a>
+                    ) : (
+                      "Sin intervalo documentado"
+                    )}
+                    {p.source && p.source !== p.tenureSource && (
+                      <>
+                        {" "}
+                        ·{" "}
+                        <a href={p.source} target="_blank" rel="noreferrer">
+                          Nombramiento
+                        </a>
+                      </>
+                    )}
+                    {p.partySource && (
+                      <>
+                        {" "}
+                        ·{" "}
+                        <a
+                          href={p.partySource}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
+                          {p.partySource.includes("wikipedia.org")
+                            ? "Wikipedia · vinculación"
+                            : "Vinculación política"}
+                        </a>
+                      </>
+                    )}
                   </li>
                 ))}
             </ul>
           </div>
         </details>
       </div>
-      {selected && person && (
+      {selected && (
         <div
-          className="map-person"
+          className={`map-person ${selected.presidency.person ? "" : "map-person-empty"}`}
           role="tooltip"
           id={`${id}-tooltip`}
           ref={tooltip}
         >
-          <div className="map-person-photo">
-            <PortraitImage
-              src={person.src}
-              name={person.name}
-              initials={person.name
-                .split(" ")
-                .slice(0, 2)
-                .map((part) => part[0])
-                .join("")}
-            />
-          </div>
+          {selected.presidency.person && (
+            <div className="map-person-photo">
+              <PortraitImage
+                src={person?.src}
+                name={selected.presidency.name}
+                initials={selected.presidency.name
+                  .split(" ")
+                  .slice(0, 2)
+                  .map((part) => part[0])
+                  .join("")}
+              />
+            </div>
+          )}
           <div>
             <small>
               {selected.name} · {selected.presidency.territoryName}
             </small>
             <strong>{selected.presidency.name}</strong>
-            <span>{selected.presidency.partyLabel}</span>
-            <time dateTime={selected.presidency.inOfficeSince}>
-              En el cargo desde · {dateLabel(selected.presidency.inOfficeSince)}
-            </time>
+            {selected.presidency.person && (
+              <span>{selected.presidency.partyLabel}</span>
+            )}
+            {selected.presidency.inOfficeSince && (
+              <time dateTime={selected.presidency.inOfficeSince}>
+                {date === mapCheckedAt
+                  ? "En el cargo desde"
+                  : "Desde (fecha documental)"}{" "}
+                · {dateLabel(selected.presidency.inOfficeSince)}
+              </time>
+            )}
+            {date !== mapCheckedAt &&
+              selected.presidency.title.includes("sustitución") && (
+                <span>{selected.presidency.title}</span>
+              )}
           </div>
         </div>
       )}

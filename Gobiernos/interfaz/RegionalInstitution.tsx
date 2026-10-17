@@ -1,5 +1,5 @@
 import DragRail from "./DragRail";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { ChevronLeft, ChevronRight, Pause, Play } from "lucide-react";
 import { findPerson } from "../../Políticos/interfaz/datos/catalogo";
 import { Portrait } from "../../Políticos/interfaz/Retrato";
@@ -15,6 +15,11 @@ import {
   type CatalanParliament,
 } from "./catalonia-model";
 import type { Reference } from "../../Políticos/interfaz/datos/tipos";
+import {
+  legislatureChronology,
+  legislatureLibrary,
+  regionalPosition,
+} from "./legislaturas-autonomicas";
 export type RegionalConfig = {
   id: string;
   name: string;
@@ -58,30 +63,37 @@ export default function RegionalInstitution({
     parliamentChronology: catalanParliamentChronology,
   } = config;
   const government = section === "government";
-  const chronology = government
-    ? catalanGovernmentChronology
-    : catalanParliamentChronology;
-  const periods = government ? catalanGovernments : catalanParliaments;
-  const [position, setPosition] = useState(
-    Math.max(
-      0,
-      chronology.findIndex((s) => s.id === selected) >= 0
-        ? chronology.findIndex((s) => s.id === selected)
-        : chronology.length - 1,
-    ),
+  const chronology = useMemo(
+    () =>
+      government
+        ? legislatureChronology(
+            catalanGovernmentChronology,
+            catalanGovernments,
+            catalanParliaments,
+          )
+        : catalanParliamentChronology,
+    [government, config],
+  );
+  const library = useMemo(
+    () => legislatureLibrary(chronology, catalanParliaments),
+    [chronology, config],
+  );
+  const [position, setPosition] = useState(() =>
+    regionalPosition(chronology, selected),
   );
   const [mode, setMode] = useState<"legislatures" | "timeline">("legislatures");
   const [playing, setPlaying] = useState(false);
   useEffect(() => {
     setPlaying(false);
     if (!active) return;
-    const index = chronology.findIndex((s) => s.id === selected);
-    setPosition(index < 0 ? chronology.length - 1 : index);
+    setPosition(regionalPosition(chronology, selected));
   }, [selected, active, section]);
   const current = chronology[position];
-  const steps = chronology.filter(
-    (s) => mode === "timeline" || s.period.id === current?.period.id,
+  const currentLegislature = library.find((p) =>
+    p.steps.some((s) => s.id === current?.id),
   );
+  const steps =
+    mode === "timeline" ? chronology : (currentLegislature?.steps ?? []);
   const local = steps.findIndex((s) => s.id === current?.id);
   useEffect(() => {
     if (!playing || !active || local < 0 || local >= steps.length - 1) {
@@ -204,20 +216,21 @@ export default function RegionalInstitution({
         className="government-library"
         aria-label={`Biblioteca del ${government ? "Gobierno" : "Parlamento"} de ${config.name}`}
       >
-        {periods.map((p) => (
+        {library.map((p) => (
           <button
             key={p.id}
-            className={p.id === current.period.id ? "active" : ""}
-            aria-pressed={p.id === current.period.id}
+            className={p.id === currentLegislature?.id ? "active" : ""}
+            aria-pressed={p.id === currentLegislature?.id}
+            aria-label={`${p.label === "Provisional" || p.label === "Foral" ? p.label : `Legislatura ${p.label}`} · ${p.start.slice(0, 4)}`}
             onClick={() =>
               choose(
-                chronology.find(
-                  (s) =>
-                    s.period.id === p.id &&
-                    "preferredDate" in p &&
-                    s.date === p.preferredDate,
-                )?.id ??
-                  chronology.filter((s) => s.period.id === p.id).at(-1)!.id,
+                [...p.steps]
+                  .reverse()
+                  .find(
+                    (s) =>
+                      "preferredDate" in s.period &&
+                      s.date === s.period.preferredDate,
+                  )?.id ?? p.steps.at(-1)!.id,
               )
             }
           >

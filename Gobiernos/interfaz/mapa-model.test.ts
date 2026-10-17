@@ -5,6 +5,12 @@ import {
   mapProvinces,
   presidencies,
   tooltipPosition,
+  presidenciesAt,
+  provincesAt,
+  autonomiesAt,
+  mapDates,
+  mapDate,
+  mapHistory,
 } from "./mapa-model";
 import territories from "../Autonomías/territorios.json";
 import { findPerson, portraits } from "../../Políticos/interfaz/datos/catalogo";
@@ -59,6 +65,59 @@ it("distingue mandatos consecutivos, retornos y posesión de nombramiento", () =
   expect(since("canarias")).toBe("2023-07-14");
   expect(since("melilla")).toBe("2023-07-08");
   expect(since("ceuta")).toBe("2001-02-08");
+});
+it("recorre presidencias históricas sin proyectar titulares ni partidos actuales", () => {
+  const president = (territory: string, date: string) =>
+    presidenciesAt(date).find((p) => p.territory === territory)!;
+  expect(president("aragon", "1988-01-01").party).toBe("par");
+  expect(president("aragon", "1994-01-01").party).toBe("psoe");
+  expect(president("baleares", "1995-08-01").name).toBe(
+    "Cristòfol Soler i Cladera",
+  );
+  expect(president("baleares", "1996-07-01").person).toBe(
+    "jaime-matas-i-palou",
+  );
+  expect(president("cataluna", "2020-09-27").person).toBe("quim-torra");
+  expect(president("cataluna", "2020-10-01").person).toBe("pere-aragones");
+  expect(president("cataluna", "2020-10-01").party).toBe("erc");
+  expect(president("cataluna", "2017-11-01").person).toBe("");
+  expect(president("madrid", "2019-05-01").person).toBe("senado-19063");
+  expect(president("ceuta", "1990-01-01").person).toBe("");
+  expect(president("melilla", "2001-01-01").party).toBe("upm");
+  expect(president("melilla", "2020-01-01").party).toBe("cs");
+  expect(president("melilla", "2022-01-01").party).toBe("independent");
+  expect(president("melilla", "2024-01-01").inOfficeSince).toBe("2023-07-07");
+  for (const date of ["1977-12-05", "1983-08-01", "1995-08-01", "2019-08-01"]) {
+    const provinces = provincesAt(date);
+    expect(provinces).toHaveLength(52);
+    for (const autonomy of autonomiesAt(provinces))
+      expect(
+        new Set(
+          autonomy.provinces.map(
+            (p) => `${p.presidency.person}:${p.presidency.color}`,
+          ),
+        ).size,
+      ).toBe(1);
+  }
+});
+it("conserva fuentes, límites y enlaces fechados de todo el índice histórico", () => {
+  expect(mapHistory).toHaveLength(263);
+  expect(mapDates[0]).toBe("1977-12-05");
+  expect(new Set(mapDates).size).toBe(mapDates.length);
+  expect(mapDates).toEqual([...mapDates].sort());
+  for (const p of mapHistory) {
+    expect(findPerson(p.person)?.fullName).toBe(p.name);
+    expect(p.source).toMatch(/^https?:\/\//);
+    if (p.party) expect(p.partySource).toMatch(/^https?:\/\//);
+    expect(p.end === null || p.end > p.start).toBe(true);
+  }
+  expect(mapDate("map:1996-07-01")).toBe("1996-07-01");
+  expect(mapDate("map:2027-01-01")).toBe(mapDates.at(-1));
+  const route = {
+    view: "autonomies",
+    entry: { kind: "autonomy", id: "map:1996-07-01" },
+  } as const;
+  expect(parseRoute(routeHash(route))).toEqual(route);
 });
 it("conserva límites detallados e inserciones separadas para Canarias y las ciudades", () => {
   expect(

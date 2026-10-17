@@ -1,6 +1,12 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.22.0 · 17 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.23.0 · 17 de octubre de 2026.
+
+## Legislaturas y mapa histórico · 0.23
+
+Los selectores autonómicos muestran año y ordinal romano, sin nombres presidenciales. Gobierno y Parlamento comparten los ordinales institucionales; los relevos del Ejecutivo permanecen dentro de la misma legislatura. Se conservan XIII–XIV en Cataluña, la VI de Madrid sin nueva investidura, el periodo foral navarro y las etapas provisionales sin inventarles un ordinal.
+
+El mapa incorpora navegación por cambios documentados entre 1977 y 2026: flechas, deslizador y vuelta a la instantánea actual. Se actualizan color, nombre y retrato, conservando el realce conjunto de las comunidades y sus límites provinciales. Sus enlaces abren el Gobierno de la fecha consultada y el historial del navegador recupera la fecha del mapa. Los vacíos se representan en gris; la fuente del mandato no acredita militancia diaria. La cronología de presidencias centrales con hitos y crisis pertenece a una segunda fase pendiente de autorización.
 
 ## Extremadura e Illes Balears · 0.22
 

@@ -1,0 +1,112 @@
+{
+  "checkedAt": "2026-10-17",
+  "basis": "Formación documentada de la presidencia durante cada etapa; no inferir militancia diaria ni sustituir intervalos de gobierno.",
+  "entries": [
+    {
+      "person": "aragon-ramon-tejedor-sanz",
+      "party": "PSOE",
+      "source": "https://www.juntaelectoralcentral.es/cs/jec/documentos/ARAGON_1995_ResultadosyElectos.pdf"
+    },
+    {
+      "person": "senado-19063",
+      "party": "PP",
+      "source": "https://www.pptorrejon.com/web2/255-el-pp-de-torrej%C3%B3n-de-ardoz-muestra-su-orgullo-por-la-elecci%C3%B3n-de-su-presidente-local%2C-pedro-roll%C3%A1n%2C-como-senador-por-madrid.html"
+    },
+    {
+      "person": "ceuta-basilio-fernandez-lopez",
+      "party": "PFC",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Ceuta"
+    },
+    {
+      "person": "ceuta-jesus-cayetano-fortes-ramos",
+      "party": "PP",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Ceuta"
+    },
+    {
+      "person": "ceuta-antonio-sampietro-casarramona",
+      "party": "GIL",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Ceuta"
+    },
+    {
+      "person": "ceuta-juan-jesus-vivas-lara",
+      "party": "PP",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Ceuta"
+    },
+    {
+      "person": "melilla-ignacio-velazquez-rivera",
+      "party": "PP",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Melilla"
+    },
+    {
+      "person": "melilla-enrique-palacios-hernandez",
+      "party": "Ind.",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Melilla"
+    },
+    {
+      "person": "melilla-mustafa-hamed-moh-mohamed",
+      "party": "CpM",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Melilla"
+    },
+    {
+      "person": "senado-12833",
+      "party": "UPM",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Melilla",
+      "until": "2003-06-16"
+    },
+    {
+      "person": "senado-12833",
+      "party": "PP",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Melilla",
+      "from": "2003-06-16",
+      "note": "La fuente enciclopédica documenta UPM hasta 2003 y PP desde 2003. La partición conserva el inicio documental de la etapa de 2003; no certifica un día de afiliación."
+    },
+    {
+      "person": "melilla-eduardo-de-castro-gonzalez",
+      "party": "Cs",
+      "source": "https://es.wikipedia.org/wiki/Presidente_de_Melilla"
+    },
+    {
+      "person": "congreso-250-8",
+      "party": "UCD",
+      "until": "1982",
+      "source": "https://es.wikipedia.org/wiki/Jaime_Ignacio_del_Burgo"
+    },
+    {
+      "person": "congreso-250-8",
+      "party": "PDP",
+      "from": "1983",
+      "source": "https://es.wikipedia.org/wiki/Jaime_Ignacio_del_Burgo"
+    },
+    {
+      "person": "navarra-juan-manuel-arza-munuzuri",
+      "party": "UCD",
+      "source": "https://es.wikipedia.org/wiki/Juan_Manuel_Arza"
+    },
+    {
+      "person": "la-rioja-antonio-rodriguez-basulto",
+      "party": "PSOE",
+      "source": "https://es.wikipedia.org/wiki/Antonio_Rodr%C3%ADguez_Basulto"
+    }
+  ],
+  "changes": [
+    {
+      "person": "melilla-eduardo-de-castro-gonzalez",
+      "date": "2021-03-31",
+      "party": "Ind.",
+      "source": "https://www.rtve.es/temas/melilla/1468/171/",
+      "note": "Expulsión de Ciudadanos documentada el 31 de marzo de 2021; no se retrotrae su independencia al inicio del mandato."
+    }
+  ],
+  "pending": [
+    {
+      "person": "catalunya-josep-tarradellas-joan",
+      "reason": "La referencia enciclopédica sitúa el fin de su vinculación con ERC en 1979 sin día. No se proyecta ERC sobre toda la presidencia provisional 1977–1980.",
+      "source": "https://es.wikipedia.org/wiki/Josep_Tarradellas"
+    },
+    {
+      "person": "congreso-108-1",
+      "reason": "La fuente parlamentaria documenta el tránsito UCD–CDS sin fecha diaria; la enciclopedia menciona otra secuencia. Se conserva neutral hasta contrastar el intervalo.",
+      "source": "https://www.parlamento-larioja.org/recursos-de-informacion/archivo/documentos-para-la-historia"
+    }
+  ]
+}

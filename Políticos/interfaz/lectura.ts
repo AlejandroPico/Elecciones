@@ -101,20 +101,28 @@ export function personCatalogPlugin(): Plugin {
           "Gobiernos",
           "Autonomías",
           "Mapa",
-          "presidencias.json",
+          "historico-presidencias.json",
         );
         const snapshot = JSON.parse(await readFile(snapshotFile, "utf8")) as {
-          presidencies: { person: string; name: string }[];
+          presidencies: { person: string; name: string; folder: string }[];
         };
         const imports: string[] = [],
           entries: string[] = [];
         if (watching) this.addWatchFile(snapshotFile);
-        for (const [i, p] of snapshot.presidencies.entries()) {
-          const folder = join(root, "Políticos", p.name),
+        for (const [i, p] of [
+          ...new Map(snapshot.presidencies.map((p) => [p.person, p])).values(),
+        ].entries()) {
+          const folder = join(root, "Políticos", p.folder),
             metaFile = join(folder, "ficha.json"),
             photoFile = join(folder, "retrato.json");
-          const meta = JSON.parse(await readFile(metaFile, "utf8")),
+          const meta = JSON.parse(await readFile(metaFile, "utf8"));
+          let photo;
+          try {
             photo = JSON.parse(await readFile(photoFile, "utf8"));
+          } catch (error) {
+            if ((error as NodeJS.ErrnoException).code === "ENOENT") continue;
+            throw error;
+          }
           if (meta.id !== p.person)
             throw new Error(
               `Identidad del mapa sin correspondencia: ${p.name}`,
@@ -124,7 +132,7 @@ export function personCatalogPlugin(): Plugin {
             this.addWatchFile(photoFile);
           }
           imports.push(
-            `import image${i} from ${JSON.stringify(`/Políticos/${p.name}/${photo.file}?url&no-inline`)};`,
+            `import image${i} from ${JSON.stringify(`/Políticos/${p.folder}/${photo.file}?url&no-inline`)};`,
           );
           entries.push(
             `${JSON.stringify(p.person)}:{src:image${i},name:${JSON.stringify(p.name)},credit:${JSON.stringify(photo.credit)},source:${JSON.stringify(photo.source)}}`,
