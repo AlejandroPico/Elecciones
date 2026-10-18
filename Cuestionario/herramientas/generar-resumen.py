@@ -12,6 +12,8 @@ import json
 from pathlib import Path
 import re
 
+from agrupacion import compile_review, render_plan
+
 ROOT = Path(__file__).resolve().parents[2]
 FOLDER = ROOT / "Cuestionario"
 PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero"}
@@ -271,6 +273,10 @@ def main():
     data = read(FOLDER / "analisis.json")
     validate(data)
     stats = statistics(data)
+    grouping = read(FOLDER / "agrupacion.json")
+    grouping_summary = compile_review(data, grouping)
+    stats["groupingReview"] = grouping_summary["counts"]
+    selection_report = render_plan(data, grouping, grouping_summary, PARTIES, reference)
     axes = read(FOLDER / "ejes.json")
     questions = {q["id"]: q for q in data["questions"]}
     selected = set()
@@ -298,10 +304,12 @@ def main():
     category_report += [f"{c['title']} | {c['questions']} | {c['concepts']}" for c in stats["byCategory"]]
     category_report += ["", "El recuento es de formulaciones, no de decisiones independientes ni de preguntas que una persona deba responder seguidas.", "Las categorías serán los apartados del cuestionario. Se prevé reducir formulaciones y seleccionar preguntas de forma aleatoria equilibrada por temas y conceptos, evitando repeticiones. Aún no se ha implementado el algoritmo ni fijado la longitud.", "Antes del test definitivo se revisarán solapamientos, neutralidad, contexto y cobertura comparable.", "", f"{len(PARTIES)} documentos de origen · {stats['proposalGroups']} grupos de propuestas · {stats['sourceUnits']} unidades documentales de referencia.", "Las unidades mezclan medidas oficiales numeradas, viñetas, páginas PDF y un artículo de texto. No son una métrica comparable de promesas entre partidos.", "Importancia del futuro test: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.", f"La vista Coordenadas políticas contiene {len(axes['charts'])} agrupaciones gráficas de una selección publicada de indicadores. No sustituye las {stats['categories']} categorías de este inventario."]
     outputs = {
-        FOLDER / "Resumen Preguntas.txt": render(data, stats),
+        FOLDER / "Resumen Preguntas.txt": render(data, stats) + "\n" + selection_report,
         FOLDER / "cobertura.json": json.dumps(stats, ensure_ascii=False, indent=2) + "\n",
         FOLDER / "Resumen Categorías.txt": "\n".join(category_report) + "\n",
         FOLDER / "coordenadas.json": json.dumps(preview, ensure_ascii=False, indent=2) + "\n",
+        FOLDER / "Plan de selección.txt": selection_report,
+        FOLDER / "agrupacion-cobertura.json": json.dumps(grouping_summary, ensure_ascii=False, indent=2) + "\n",
     }
     for path, content in outputs.items():
         if args.check:

@@ -1,0 +1,2000 @@
+{
+  "schemaVersion": 1,
+  "status": "proposed-wording-review",
+  "liveEligible": false,
+  "reviewVersion": "0.1.0",
+  "bankVersion": "0.4.0",
+  "bankFingerprint": "71420be5f2163cb7d851f1e0ae7a6eedff95f1c50cb0a0dc64ae7e71e2038d25",
+  "reviewedAt": "2026-10-18",
+  "counts": {
+    "bankQuestions": 3673,
+    "reviewedPairs": 189,
+    "questionsInReviewedPairs": 280,
+    "relations": {
+      "contrasting": 2,
+      "distinct": 69,
+      "equivalent": 16,
+      "related": 102
+    },
+    "proposedEquivalentGroups": 16,
+    "questionsInEquivalentGroups": 32,
+    "potentialReduction": 16,
+    "proposedUnits": 3657,
+    "originalQuestionsWithTwoOrMoreParties": 225,
+    "proposedUnitsWithTwoOrMoreParties": 239,
+    "commonToAllParties": 0,
+    "maxDocumentedPartiesInOneUnit": 6,
+    "conflictingEquivalentGroups": 0,
+    "proposedSelectionFamilies": 12,
+    "questionsInSelectionFamilies": 28,
+    "approvedForProduction": 0
+  },
+  "originalCoverageHistogram": [
+    {
+      "partiesWithPosition": 0,
+      "questions": 70
+    },
+    {
+      "partiesWithPosition": 1,
+      "questions": 3378
+    },
+    {
+      "partiesWithPosition": 2,
+      "questions": 185
+    },
+    {
+      "partiesWithPosition": 3,
+      "questions": 30
+    },
+    {
+      "partiesWithPosition": 4,
+      "questions": 8
+    },
+    {
+      "partiesWithPosition": 5,
+      "questions": 1
+    },
+    {
+      "partiesWithPosition": 6,
+      "questions": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": "empresa",
+      "title": "Empresa competencia y conocimiento",
+      "bankQuestions": 125,
+      "proposedUnits": 124,
+      "proposedUnitsWithTwoOrMoreParties": 6
+    },
+    {
+      "id": "trabajo",
+      "title": "Trabajo pensiones y protección social",
+      "bankQuestions": 232,
+      "proposedUnits": 228,
+      "proposedUnitsWithTwoOrMoreParties": 13
+    },
+    {
+      "id": "igualdad-laboral",
+      "title": "Igualdad laboral",
+      "bankQuestions": 53,
+      "proposedUnits": 53,
+      "proposedUnitsWithTwoOrMoreParties": 6
+    },
+    {
+      "id": "inteligencia-artificial",
+      "title": "Inteligencia artificial",
+      "bankQuestions": 57,
+      "proposedUnits": 57,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    },
+    {
+      "id": "fiscalidad",
+      "title": "Fiscalidad y evaluación del gasto",
+      "bankQuestions": 165,
+      "proposedUnits": 165,
+      "proposedUnitsWithTwoOrMoreParties": 7
+    },
+    {
+      "id": "industria",
+      "title": "Industria y fondos europeos",
+      "bankQuestions": 108,
+      "proposedUnits": 108,
+      "proposedUnitsWithTwoOrMoreParties": 6
+    },
+    {
+      "id": "sector-primario",
+      "title": "Agricultura pesca y montes",
+      "bankQuestions": 165,
+      "proposedUnits": 165,
+      "proposedUnitsWithTwoOrMoreParties": 16
+    },
+    {
+      "id": "biodiversidad",
+      "title": "Medio ambiente caza y biodiversidad",
+      "bankQuestions": 96,
+      "proposedUnits": 95,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    },
+    {
+      "id": "medio-rural",
+      "title": "Medio rural y despoblación",
+      "bankQuestions": 34,
+      "proposedUnits": 34,
+      "proposedUnitsWithTwoOrMoreParties": 2
+    },
+    {
+      "id": "infraestructuras",
+      "title": "Infraestructuras y movilidad",
+      "bankQuestions": 132,
+      "proposedUnits": 131,
+      "proposedUnitsWithTwoOrMoreParties": 7
+    },
+    {
+      "id": "vivienda",
+      "title": "Vivienda y urbanismo",
+      "bankQuestions": 107,
+      "proposedUnits": 106,
+      "proposedUnitsWithTwoOrMoreParties": 4
+    },
+    {
+      "id": "turismo",
+      "title": "Turismo y hostelería",
+      "bankQuestions": 35,
+      "proposedUnits": 35,
+      "proposedUnitsWithTwoOrMoreParties": 0
+    },
+    {
+      "id": "agua",
+      "title": "Agua y ecosistemas acuáticos",
+      "bankQuestions": 65,
+      "proposedUnits": 65,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    },
+    {
+      "id": "energia",
+      "title": "Energía",
+      "bankQuestions": 136,
+      "proposedUnits": 136,
+      "proposedUnitsWithTwoOrMoreParties": 8
+    },
+    {
+      "id": "salud",
+      "title": "Salud y decisiones sanitarias",
+      "bankQuestions": 250,
+      "proposedUnits": 248,
+      "proposedUnitsWithTwoOrMoreParties": 18
+    },
+    {
+      "id": "educacion",
+      "title": "Educación y universidades",
+      "bankQuestions": 210,
+      "proposedUnits": 209,
+      "proposedUnitsWithTwoOrMoreParties": 15
+    },
+    {
+      "id": "familia-infancia",
+      "title": "Familias infancia y adolescencia",
+      "bankQuestions": 176,
+      "proposedUnits": 176,
+      "proposedUnitsWithTwoOrMoreParties": 9
+    },
+    {
+      "id": "mayores",
+      "title": "Mayores y atención sociosanitaria",
+      "bankQuestions": 63,
+      "proposedUnits": 63,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    },
+    {
+      "id": "discapacidad",
+      "title": "Discapacidad y accesibilidad",
+      "bankQuestions": 51,
+      "proposedUnits": 51,
+      "proposedUnitsWithTwoOrMoreParties": 4
+    },
+    {
+      "id": "violencia-mujeres",
+      "title": "Violencia contra las mujeres",
+      "bankQuestions": 81,
+      "proposedUnits": 80,
+      "proposedUnitsWithTwoOrMoreParties": 8
+    },
+    {
+      "id": "lgtbi",
+      "title": "Derechos de personas LGTBI",
+      "bankQuestions": 46,
+      "proposedUnits": 46,
+      "proposedUnitsWithTwoOrMoreParties": 5
+    },
+    {
+      "id": "instituciones",
+      "title": "Instituciones y órganos independientes",
+      "bankQuestions": 71,
+      "proposedUnits": 71,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    },
+    {
+      "id": "constitucion",
+      "title": "Constitución memoria y libertad religiosa",
+      "bankQuestions": 32,
+      "proposedUnits": 32,
+      "proposedUnitsWithTwoOrMoreParties": 1
+    },
+    {
+      "id": "legislacion",
+      "title": "Elaboración de leyes y participación",
+      "bankQuestions": 31,
+      "proposedUnits": 31,
+      "proposedUnitsWithTwoOrMoreParties": 5
+    },
+    {
+      "id": "justicia",
+      "title": "Justicia y protección de derechos",
+      "bankQuestions": 132,
+      "proposedUnits": 131,
+      "proposedUnitsWithTwoOrMoreParties": 8
+    },
+    {
+      "id": "buen-gobierno",
+      "title": "Control del Gobierno",
+      "bankQuestions": 55,
+      "proposedUnits": 55,
+      "proposedUnitsWithTwoOrMoreParties": 1
+    },
+    {
+      "id": "territorio",
+      "title": "Cooperación y financiación territorial",
+      "bankQuestions": 96,
+      "proposedUnits": 96,
+      "proposedUnitsWithTwoOrMoreParties": 7
+    },
+    {
+      "id": "seguridad",
+      "title": "Seguridad terrorismo y fronteras",
+      "bankQuestions": 180,
+      "proposedUnits": 179,
+      "proposedUnitsWithTwoOrMoreParties": 9
+    },
+    {
+      "id": "propiedad",
+      "title": "Ocupación ilegal y propiedad",
+      "bankQuestions": 22,
+      "proposedUnits": 22,
+      "proposedUnitsWithTwoOrMoreParties": 2
+    },
+    {
+      "id": "administracion",
+      "title": "Administración y empleo público",
+      "bankQuestions": 107,
+      "proposedUnits": 107,
+      "proposedUnitsWithTwoOrMoreParties": 11
+    },
+    {
+      "id": "union-europea",
+      "title": "Unión Europea",
+      "bankQuestions": 62,
+      "proposedUnits": 62,
+      "proposedUnitsWithTwoOrMoreParties": 5
+    },
+    {
+      "id": "iberoamerica",
+      "title": "Relaciones iberoamericanas",
+      "bankQuestions": 20,
+      "proposedUnits": 20,
+      "proposedUnitsWithTwoOrMoreParties": 4
+    },
+    {
+      "id": "exteriores",
+      "title": "Política exterior",
+      "bankQuestions": 66,
+      "proposedUnits": 66,
+      "proposedUnitsWithTwoOrMoreParties": 6
+    },
+    {
+      "id": "defensa",
+      "title": "Defensa",
+      "bankQuestions": 43,
+      "proposedUnits": 43,
+      "proposedUnitsWithTwoOrMoreParties": 5
+    },
+    {
+      "id": "cooperacion",
+      "title": "Cooperación al desarrollo",
+      "bankQuestions": 41,
+      "proposedUnits": 41,
+      "proposedUnitsWithTwoOrMoreParties": 2
+    },
+    {
+      "id": "exterior-ciudadania",
+      "title": "Españoles en el exterior",
+      "bankQuestions": 17,
+      "proposedUnits": 17,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    },
+    {
+      "id": "cultura",
+      "title": "Cultura y patrimonio",
+      "bankQuestions": 142,
+      "proposedUnits": 142,
+      "proposedUnitsWithTwoOrMoreParties": 12
+    },
+    {
+      "id": "deporte",
+      "title": "Deporte",
+      "bankQuestions": 41,
+      "proposedUnits": 41,
+      "proposedUnitsWithTwoOrMoreParties": 5
+    },
+    {
+      "id": "consumo",
+      "title": "Consumo y derechos de usuarios",
+      "bankQuestions": 44,
+      "proposedUnits": 44,
+      "proposedUnitsWithTwoOrMoreParties": 1
+    },
+    {
+      "id": "bienestar-animal",
+      "title": "Bienestar animal",
+      "bankQuestions": 84,
+      "proposedUnits": 82,
+      "proposedUnitsWithTwoOrMoreParties": 3
+    }
+  ],
+  "categoriesWithoutTwoPartyUnits": [
+    "turismo"
+  ],
+  "equivalentGroups": [
+    {
+      "id": "decision-148930466fbd4faf",
+      "category": "bienestar-animal",
+      "questionIds": [
+        "q-erc23-g0040-06",
+        "q-junts23-g0046-08"
+      ],
+      "representativeQuestionId": "q-erc23-g0040-06",
+      "reviewIds": [
+        "revision-0074"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-erc23-g0040-06"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-junts23-g0046-08"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-7c25b172265f2936",
+      "category": "bienestar-animal",
+      "questionIds": [
+        "q-junts23-g0046-06",
+        "q-pacma23-g0005-06"
+      ],
+      "representativeQuestionId": "q-junts23-g0046-06",
+      "reviewIds": [
+        "revision-0050"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-junts23-g0046-06"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-pacma23-g0005-06"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-64c1d5dda6b425f8",
+      "category": "biodiversidad",
+      "questionIds": [
+        "q-pnv23-g0026-01",
+        "q-psoe23-g0318-c"
+      ],
+      "representativeQuestionId": "q-pnv23-g0026-01",
+      "reviewIds": [
+        "revision-0098"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-psoe23-g0318-c"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-pnv23-g0026-01"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-d0404e5d538d61f3",
+      "category": "educacion",
+      "questionIds": [
+        "q-junts23-g0027-03",
+        "q-vox23-g0040-a"
+      ],
+      "representativeQuestionId": "q-junts23-g0027-03",
+      "reviewIds": [
+        "revision-0015"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0040-a"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-junts23-g0027-03"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0040-a"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-e8061c99b2c04362",
+      "category": "empresa",
+      "questionIds": [
+        "q-erc23-g0026-02",
+        "q-junts23-g0014-06"
+      ],
+      "representativeQuestionId": "q-erc23-g0026-02",
+      "reviewIds": [
+        "revision-0002"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-erc23-g0026-02"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-junts23-g0014-06"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-9ab312a8689a6fe0",
+      "category": "infraestructuras",
+      "questionIds": [
+        "q-pacma23-g0022-04",
+        "q-psoe23-g0253-a"
+      ],
+      "representativeQuestionId": "q-pacma23-g0022-04",
+      "reviewIds": [
+        "revision-0085"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-psoe23-g0253-a"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-pacma23-g0022-04"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-bf29745470b77e03",
+      "category": "justicia",
+      "questionIds": [
+        "q-registro-6359-general-g0042-07",
+        "q-vox23-g0269-a"
+      ],
+      "representativeQuestionId": "q-registro-6359-general-g0042-07",
+      "reviewIds": [
+        "revision-0006"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0269-a"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-registro-6359-general-g0042-07"
+          ],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-34824cb2706335b4",
+      "category": "salud",
+      "questionIds": [
+        "q-pacma23-g0035-04",
+        "q-vox23-g0107-c"
+      ],
+      "representativeQuestionId": "q-pacma23-g0035-04",
+      "reviewIds": [
+        "revision-0001"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0107-c"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-pacma23-g0035-04"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-e5128a4a8c1d6e23",
+      "category": "salud",
+      "questionIds": [
+        "q-psoe23-g0836-c",
+        "q-vox23-g0102-d"
+      ],
+      "representativeQuestionId": "q-psoe23-g0836-c",
+      "reviewIds": [
+        "revision-0184"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-psoe23-g0836-c"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0102-d"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-c9f64642ac991aa7",
+      "category": "seguridad",
+      "questionIds": [
+        "q-registro-6359-general-g0037-04",
+        "q-vox23-g0202-b"
+      ],
+      "representativeQuestionId": "q-registro-6359-general-g0037-04",
+      "reviewIds": [
+        "revision-0007"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0202-b"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-registro-6359-general-g0037-04"
+          ],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-5b0147ed6d411af3",
+      "category": "trabajo",
+      "questionIds": [
+        "q-psoe23-g0716-a",
+        "q-registro-6359-general-g0036-03"
+      ],
+      "representativeQuestionId": "q-psoe23-g0716-a",
+      "reviewIds": [
+        "revision-0011"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-psoe23-g0716-a"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-registro-6359-general-g0036-03"
+          ],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-803ac7e740d9075b",
+      "category": "trabajo",
+      "questionIds": [
+        "q-registro-6359-general-g0004-01",
+        "q-vox23-g0036-a"
+      ],
+      "representativeQuestionId": "q-registro-6359-general-g0004-01",
+      "reviewIds": [
+        "revision-0044"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-vox23-g0036-a"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-registro-6359-general-g0004-01"
+          ],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-9584b12b93bdfefc",
+      "category": "trabajo",
+      "questionIds": [
+        "q-bng23-g0007-09",
+        "q-registro-6359-general-g0003-05"
+      ],
+      "representativeQuestionId": "q-bng23-g0007-09",
+      "reviewIds": [
+        "revision-0027"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-bng23-g0007-09"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-registro-6359-general-g0003-05"
+          ],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-a25636b4874a1dbf",
+      "category": "trabajo",
+      "questionIds": [
+        "q-bng23-g0009-08",
+        "q-junts23-g0016-01"
+      ],
+      "representativeQuestionId": "q-bng23-g0009-08",
+      "reviewIds": [
+        "revision-0079"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-junts23-g0016-01"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-bng23-g0009-08"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-7e86f07dbbd77f5c",
+      "category": "violencia-mujeres",
+      "questionIds": [
+        "q-bng23-g0014-03",
+        "q-erc23-g0016-04"
+      ],
+      "representativeQuestionId": "q-bng23-g0014-03",
+      "reviewIds": [
+        "revision-0082"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-erc23-g0016-04"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-bng23-g0014-03"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    },
+    {
+      "id": "decision-87cb26dad9b9f2ad",
+      "category": "vivienda",
+      "questionIds": [
+        "q-psoe23-g0948-d",
+        "q-psoe23-pH223-b"
+      ],
+      "representativeQuestionId": "q-psoe23-g0948-d",
+      "reviewIds": [
+        "revision-0036"
+      ],
+      "positions": {
+        "pp": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "psoe": {
+          "candidateValue": 2,
+          "status": "consistent-draft",
+          "sourceQuestionIds": [
+            "q-psoe23-g0948-d",
+            "q-psoe23-pH223-b"
+          ],
+          "ambiguousQuestionIds": []
+        },
+        "vox": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "erc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "junts": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "eh-bildu": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pnv": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "bng": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "pacma": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-4086": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6359": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        }
+      },
+      "liveEligible": false
+    }
+  ],
+  "selectionFamilies": [
+    {
+      "id": "familia-jornada-semanal",
+      "title": "Duración de la jornada semanal",
+      "questionIds": [
+        "q-eh-bildu23-g0002-04",
+        "q-bng23-g0008-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "32 y 35 horas conservan posiciones separadas. En una encuesta breve se propone preguntar una variante; no deducir la respuesta a la otra.",
+      "category": "trabajo",
+      "expandedQuestionIds": [
+        "q-bng23-g0008-01",
+        "q-eh-bildu23-g0002-04"
+      ],
+      "proposedUnitIds": [
+        "decision-c48cd3fafdebb4ad",
+        "decision-cd70ba30b331dfb3"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-cuota-autonomos-bajo-smi",
+      "title": "Cuota de autónomos bajo el SMI",
+      "questionIds": [
+        "q-vox23-g0036-a",
+        "q-junts23-g0016-02",
+        "q-registro-6359-general-g0004-01",
+        "q-erc23-g0034-06"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Distinguir exención, reducción y actividad no habitual. Elegir una formulación no transfiere las posiciones de las demás.",
+      "category": "trabajo",
+      "expandedQuestionIds": [
+        "q-erc23-g0034-06",
+        "q-junts23-g0016-02",
+        "q-registro-6359-general-g0004-01",
+        "q-vox23-g0036-a"
+      ],
+      "proposedUnitIds": [
+        "decision-11dff203b4685100",
+        "decision-4232e2e04c440cf2",
+        "decision-803ac7e740d9075b"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-prorroga-nuclear",
+      "title": "Prórroga de centrales nucleares",
+      "questionIds": [
+        "q-pp23-114-a",
+        "q-vox23-g0245-b"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Conservar el aval del Consejo de Seguridad Nuclear; no convertir respaldo genérico en respaldo condicionado ni al contrario.",
+      "category": "energia",
+      "expandedQuestionIds": [
+        "q-pp23-114-a",
+        "q-vox23-g0245-b"
+      ],
+      "proposedUnitIds": [
+        "decision-4ff1dfd2e3781192",
+        "decision-715421364d263270"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-iva-veterinario",
+      "title": "Tipo del IVA veterinario",
+      "questionIds": [
+        "q-erc23-g0040-05",
+        "q-pacma23-g0020-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Los tipos del 10 y del 4 por ciento son alternativas distintas. Seleccionar una no equipara sus códigos partidistas.",
+      "category": "fiscalidad",
+      "expandedQuestionIds": [
+        "q-erc23-g0040-05",
+        "q-pacma23-g0020-01"
+      ],
+      "proposedUnitIds": [
+        "decision-1326c68c269a677f",
+        "decision-7a93dda596b5537a"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-horizonte-climatico",
+      "title": "Año de neutralidad climática",
+      "questionIds": [
+        "q-eh-bildu23-g0015-01",
+        "q-pnv23-g0020-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "2040 y 2050 mantienen sus compromisos diferenciados. No preguntar ambos umbrales automáticamente en una sesión breve.",
+      "category": "energia",
+      "expandedQuestionIds": [
+        "q-eh-bildu23-g0015-01",
+        "q-pnv23-g0020-01"
+      ],
+      "proposedUnitIds": [
+        "decision-84276e6532a9f8b6",
+        "decision-9401a81557f13318"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-calculo-pensiones",
+      "title": "Periodo de cálculo de pensiones",
+      "questionIds": [
+        "q-erc23-g0036-02",
+        "q-registro-6359-general-g0036-04"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Quince mejores años y mejores años sin cifra requieren contextos distintos; no completar la cifra ausente.",
+      "category": "trabajo",
+      "expandedQuestionIds": [
+        "q-erc23-g0036-02",
+        "q-registro-6359-general-g0036-04"
+      ],
+      "proposedUnitIds": [
+        "decision-655adb00c93dcfd9",
+        "decision-baed2e8187cad7b4"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-edad-jubilacion",
+      "title": "Edad ordinaria de jubilación",
+      "questionIds": [
+        "q-erc23-g0036-01",
+        "q-bng23-g0009-03"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "La ausencia de mínimo de cotización es una condición relevante incluso cuando ambas formulaciones dicen 65 años.",
+      "category": "trabajo",
+      "expandedQuestionIds": [
+        "q-bng23-g0009-03",
+        "q-erc23-g0036-01"
+      ],
+      "proposedUnitIds": [
+        "decision-1fd42a7962c5c2fb",
+        "decision-5d6afa3cb8753e38"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-alcance-aforamientos",
+      "title": "Alcance de los aforamientos",
+      "questionIds": [
+        "q-pnv23-g0014-06",
+        "q-pacma23-g0054-01",
+        "q-psoe23-g1020-e"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Cargos políticos, empleados públicos y hechos ajenos al cargo delimitan protecciones diferentes. No inferir una posición general de una restricción parcial.",
+      "category": "buen-gobierno",
+      "expandedQuestionIds": [
+        "q-pacma23-g0054-01",
+        "q-pnv23-g0014-06",
+        "q-psoe23-g1020-e"
+      ],
+      "proposedUnitIds": [
+        "decision-29f7487d4101fdf3",
+        "decision-647479d797b06ab4",
+        "decision-7faa9b1ead06f28a"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-cobertura-bucodental",
+      "title": "Alcance de la cobertura bucodental",
+      "questionIds": [
+        "q-pacma23-g0039-01",
+        "q-registro-6359-general-g0032-06"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "La cobertura básica no es gratuidad de cualquier tratamiento. Revisar y elegir el alcance de la pregunta.",
+      "category": "salud",
+      "expandedQuestionIds": [
+        "q-pacma23-g0039-01",
+        "q-registro-6359-general-g0032-06"
+      ],
+      "proposedUnitIds": [
+        "decision-73601bf230bf0f68",
+        "decision-adc05e5f954b15e0"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-parque-alquiler-publico",
+      "title": "Tamaño del parque público de alquiler",
+      "questionIds": [
+        "q-pnv23-g0046-01",
+        "q-psoe23-pH222-a"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Aumentar el parque y alcanzar el 20 por ciento no son equivalentes. Una variante breve no acredita aceptación del umbral de la otra.",
+      "category": "vivienda",
+      "expandedQuestionIds": [
+        "q-pnv23-g0046-01",
+        "q-psoe23-pH222-a"
+      ],
+      "proposedUnitIds": [
+        "decision-5d78548e8a8a9bf0",
+        "decision-9c76304de8c58dff"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-indemnizacion-despido",
+      "title": "Indemnización por despido",
+      "questionIds": [
+        "q-eh-bildu23-g0002-01",
+        "q-bng23-g0007-01",
+        "q-erc23-g0033-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Aclarar primero si se trata de despido improcedente y conservar mínimo, cuantía y tope de mensualidades. El enunciado genérico no queda aprobado por estar en esta familia.",
+      "category": "trabajo",
+      "expandedQuestionIds": [
+        "q-bng23-g0007-01",
+        "q-eh-bildu23-g0002-01",
+        "q-erc23-g0033-01"
+      ],
+      "proposedUnitIds": [
+        "decision-768a332549eb55e9",
+        "decision-9369d5fc2f6b0e2e",
+        "decision-ffdcc9fb522f4f74"
+      ],
+      "liveEligible": false
+    },
+    {
+      "id": "familia-barreras-electorales",
+      "title": "Umbrales de representación electoral",
+      "questionIds": [
+        "q-bng23-g0019-05",
+        "q-pacma23-g0055-06"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Una barrera del 5 por ciento y cualquier umbral mínimo son alcances distintos. No presentar la selección de una como respuesta a ambas.",
+      "category": "instituciones",
+      "expandedQuestionIds": [
+        "q-bng23-g0019-05",
+        "q-pacma23-g0055-06"
+      ],
+      "proposedUnitIds": [
+        "decision-b68d591b92b7caf1",
+        "decision-d1e85e7042c3d242"
+      ],
+      "liveEligible": false
+    }
+  ],
+  "selectionDesign": {
+    "status": "proposal-only",
+    "implemented": false,
+    "targetLength": null,
+    "categoryQuotas": null,
+    "proposal": [
+      "Revisar neutralidad, alcance y fuentes de cada decisión antes de declararla elegible.",
+      "Agrupar solo decisiones equivalentes; elegir una formulación revisada por decisión sin multiplicar su peso.",
+      "Conservar las variantes con cantidades, edades, territorios, condiciones o instrumentos diferentes.",
+      "Fijar un presupuesto editorial por apartado, independiente del número de páginas o de preguntas aportadas por un partido.",
+      "Definir un núcleo común de decisiones con evidencia comparable y valorar una parte adicional aleatoria para explorar temas.",
+      "Sortear dentro de los apartados y familias revisadas; no ajustar el sorteo a las respuestas o al partido más afín.",
+      "Crear la selección completa al iniciar la encuesta, con versión y semilla trazables; mantener estable la navegación y el progreso.",
+      "No sustituir automáticamente una pregunta omitida por otra, ni aumentar por ello la duración.",
+      "Mantener normal 1, alta 2 y esencial 3 como pesos de respuesta; no usarlos para favorecer preguntas de un partido.",
+      "Mostrar selección, cobertura, fuentes y aportación de cada respuesta al resultado. Sin conjunto común suficiente no hay ranking equiparable."
+    ],
+    "pendingDecisions": [
+      "Longitud y modalidad de las encuestas.",
+      "Cuotas por categoría y alcance del núcleo común.",
+      "Aprobación de formulaciones, contextos y atribuciones.",
+      "Actualización y homologación de ediciones electorales.",
+      "Definición y validación de ejes de resultados."
+    ]
+  }
+}

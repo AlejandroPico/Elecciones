@@ -382,5 +382,28 @@
       "questions": 84,
       "concepts": 1
     }
-  ]
+  ],
+  "groupingReview": {
+    "bankQuestions": 3673,
+    "reviewedPairs": 189,
+    "questionsInReviewedPairs": 280,
+    "relations": {
+      "contrasting": 2,
+      "distinct": 69,
+      "equivalent": 16,
+      "related": 102
+    },
+    "proposedEquivalentGroups": 16,
+    "questionsInEquivalentGroups": 32,
+    "potentialReduction": 16,
+    "proposedUnits": 3657,
+    "originalQuestionsWithTwoOrMoreParties": 225,
+    "proposedUnitsWithTwoOrMoreParties": 239,
+    "commonToAllParties": 0,
+    "maxDocumentedPartiesInOneUnit": 6,
+    "conflictingEquivalentGroups": 0,
+    "proposedSelectionFamilies": 12,
+    "questionsInSelectionFamilies": 28,
+    "approvedForProduction": 0
+  }
 }

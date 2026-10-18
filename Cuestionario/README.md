@@ -12,6 +12,10 @@
 - `coordenadas.json`: extracto generado para la vista previa, con sus posiciones y evidencia; nunca editarlo a mano.
 - `interfaz/`: gráficos, consulta de cálculos, fuentes y pruebas del modelo.
 - `herramientas/generar-resumen.py`: generador y verificador, sin dependencias externas.
+- `agrupacion.json`: revisión editorial de relaciones entre IDs del banco, sin copiar preguntas ni posiciones. Fija la edición revisada mediante una huella canónica.
+- `agrupacion-cobertura.json`: auditoría generada de equivalencias propuestas, referencias de posiciones y cobertura por categoría. Las unidades no agrupadas quedan implícitas.
+- `Plan de selección.txt`: informe generado con criterios de reducción, cobertura pendiente y registro de los pares revisados. También se añade al final de `Resumen Preguntas.txt` y se descarga desde «Cómo se calcula».
+- `herramientas/agrupacion.py` y `test_agrupacion.py`: compilación y pruebas de la revisión. No ejecutan un sorteo ni calculan afinidades de usuarios.
 
 Los originales electorales permanecen en `Elecciones/Generales Julio 2023/programas/<partido>/`. Los documentos generales y permanentes consultados para la convocatoria activa se conservan en `Elecciones/Generales Noviembre 2026/programas/<partido>/`, identificando que no son programas específicos de esa elección. Esta carpeta raíz de investigación se crea por petición expresa del usuario. No duplicar originales ni mantener otro catálogo de preguntas editable en `docs` o bajo un partido.
 
@@ -30,6 +34,16 @@ PACMA y Frente Obrero se inventarían por sus 76 y 64 páginas físicas. Frente 
 `selectionGroup` señala una familia temática que requiere revisar solapamientos. Es un aviso conservador, no una instrucción para seleccionar una sola pregunta de todo el tema ni un algoritmo de corrección ya aplicado. `legacySelectionGroup` conserva los avisos anteriores del PP. Antes de puntuar, decidir qué formulaciones representan la misma decisión y cuáles son dimensiones independientes.
 
 Las **40 categorías serán los apartados del cuestionario**, no cuarenta encuestas completas. Las 3.673 formulaciones son un banco documental que se reducirá mediante agrupación de decisiones equivalentes. Se prevé una selección aleatoria equilibrada por categorías y conceptos, evitando repetir la misma decisión y manteniendo cobertura comparable entre partidos. No exige igual número de preguntas en todos los temas. `surveyDesign` documenta esta intención: todavía no hay algoritmo, cupos ni longitud definitiva implementados. No confundir el tamaño del banco con las preguntas que responderá cada persona.
+
+La [primera propuesta de agrupación y selección](Plan%20de%20selección.txt) revisa **189 pares de 280 formulaciones**: 16 equivalencias propuestas, 102 variantes con diferencias, 69 pares de decisiones independientes y 2 opciones contrapuestas. Coincidencia léxica solo sirve para localizar candidatos; no los fusiona. Es una pasada acotada, no una revisión semántica exhaustiva del banco. Confirmar las 16 equivalencias evitaría 16 repeticiones, pero la reducción principal de una sesión vendrá de seleccionar decisiones. No se borran preguntas ni se alteran posiciones.
+
+La revisión conserva diferencias como jornadas de 32/35 horas, educación universal/gratuita, IVA veterinario del 10/4 %, prórroga nuclear con/sin aval del CSN y devolución/exención de IBI. Ampliar y suprimir un servicio tampoco son negaciones exactas: una persona puede rechazar ambas opciones. No se invierten puntuaciones por semejanza de vocabulario.
+
+Se proponen **12 familias de variantes** para evitar preguntar varios umbrales del mismo debate en una encuesta breve: jornada, cuotas bajo SMI, prórroga nuclear, IVA veterinario, horizonte climático, cálculo de pensiones, edad de jubilación, aforamientos, cobertura bucodental, parque público de alquiler, indemnización por despido y barreras electorales. La propuesta es elegir como máximo una variante de cada familia en esa modalidad. Esto no declara equivalentes las alternativas ni reúne sus posiciones. Las familias incluyen los alias equivalentes para impedir que otra redacción eluda el límite futuro; los solapamientos entre familias requieren revisión. No es una restricción activada en el test piloto.
+
+La auditoría detecta **225 formulaciones con posiciones propuestas para dos o más partidos**. Reunir provisionalmente referencias de las equivalencias ofrece 239 unidades de ese tipo, todavía sin aprobación de producción. No hay un conjunto común para los once partidos; Turismo y hostelería aún no tiene una unidad con dos partidos documentados. Antes de una selección real, ampliar la comparación cruzada sobre las mismas decisiones, sin deducir posiciones por ideología. El artículo institucional de Escaños en Blanco no se fuerza a un programa sectorial.
+
+La propuesta valora un núcleo común comparable y una parte aleatoria adicional. No fija longitud, cupos ni algoritmo. La selección futura deberá construirse al iniciar la encuesta y mantener su versión y semilla para auditoría; la importancia ponderará respuestas, no probabilidades de sorteo. No presentar rankings equiparables con preguntas o coberturas diferentes.
 
 ## Posiciones y comparación
 
@@ -67,5 +81,13 @@ python Cuestionario/herramientas/generar-resumen.py --check
 ```
 
 La comprobación valida originales por huella, cobertura de unidades, referencias bidireccionales, páginas, ausencia de preguntas literales duplicadas, posiciones, reglas por partido, conservación del PP y sincronización del texto. También comprueba los ejemplos de importancia, neutralidad, omisión y falta de evidencia. La automatización comprueba integridad; no sustituye una lectura editorial independiente, pruebas de comprensión o la revisión de sesgos de selección.
+
+La agrupación es una capa de revisión, no otro catálogo editable. Sus grupos derivan únicamente de pares declarados equivalentes y exigen revisar cada par cuando hay más de dos miembros: no fusionar una cadena de parecidos por transitividad. Una relación distinta dentro de un grupo es un error. Los valores candidatos citan los IDs originales; contradicción o evidencia ambigua bloquean el valor del partido. Nunca promediar votos entre fuentes ni transferir estas atribuciones al banco automáticamente. Si cambia el banco, actualizar la huella solo después de revalidar la revisión con esa edición.
+
+Ejecutar también las pruebas de la revisión:
+
+```text
+python -m unittest discover -s Cuestionario/herramientas -p 'test_*.py'
+```
 
 Antes de incorporar un nuevo partido, usar la pregunta existente cuando corresponda, conservar las reservas y añadir otras categorías o conceptos si son necesarios. Antes de publicar afinidades de otra elección, analizar su propio programa fechado: este antecedente no acredita una postura de 2026. No modificar el cuestionario público como efecto de regenerar este cuaderno.

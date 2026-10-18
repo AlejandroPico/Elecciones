@@ -16,6 +16,7 @@ import {
 } from "./model";
 import notebook from "../Resumen Preguntas.txt?url&no-inline";
 import categoryReport from "../Resumen Categorías.txt?url&no-inline";
+import selectionPlan from "../Plan de selección.txt?url&no-inline";
 import "./coordinates.css";
 
 const documents = import.meta.glob<string>(
@@ -421,6 +422,9 @@ export default function Coordinates() {
           La selección actual utiliza {corpus.questions.length} formulaciones.
           No equivale al catálogo completo.
         </p>
+        <a href={selectionPlan} download="Plan de selección.txt">
+          Plan de agrupación y selección
+        </a>
       </details>
       <details className="documentary-method">
         <summary>

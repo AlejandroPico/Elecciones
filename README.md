@@ -1,6 +1,6 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.28.0 · 18 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.28.1 · 18 de octubre de 2026.
 
 La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Quince documentos se descargan desde el propio sitio: once antecedentes de las generales de 2023, tres documentos políticos generales y la propuesta permanente de Escaños en Blanco. Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
 
@@ -11,6 +11,8 @@ Al comenzar una encuesta se presentan los temas e instrucciones, con pausa e ini
 El [Resumen Preguntas](Cuestionario/Resumen%20Preguntas.txt) reúne **once partidos**, incorporando PACMA, Escaños en Blanco y Frente Obrero: **3.673 formulaciones, 108 conceptos y 40 categorías**. Distingue nueve programas electorales de 2023, un programa político general y un artículo único permanente. Incluye posiciones editoriales, localizadores, resúmenes, reservas y reglas de importancia y cálculo. Es un banco documental, no la longitud de una encuesta individual: las categorías serán sus apartados y después se agruparán decisiones y se preparará una selección aleatoria equilibrada. El [recuento breve de categorías](Cuestionario/Resumen%20Categorías.txt) permite revisar las cantidades sin abrir el documento completo. La [base editable y sus criterios](Cuestionario/README.md) viven en la carpeta raíz `Cuestionario/`.
 
 «Cuestionario → Coordenadas políticas» muestra ocho mapas temáticos independientes de las respuestas personales. Cada eje publica sus indicadores y signos; la selección de partido permite consultar cálculo, cobertura y fuentes originales en su formato real. Las ausencias no son neutralidad ni centro del gráfico. Los puntos coincidentes no se desplazan y el rango de indicadores faltantes se distingue de una probabilidad. La vista mezcla ediciones documentales explícitas: no cambia el test piloto ni acredita programas de una misma convocatoria actual.
+
+El [Plan de agrupación y selección](Cuestionario/Plan%20de%20selección.txt) revisa 189 pares de preguntas y propone 16 equivalencias y 12 familias de variantes sin borrar originales. Conserva cifras, condiciones y decisiones independientes; no activa un cuestionario aleatorio. La auditoría identifica la comparación cruzada que aún falta antes de calcular afinidades. El plan se incluye en el resumen descargable y en «Cómo se calcula».
 
 ## Histórico de presidencias · 0.25
 

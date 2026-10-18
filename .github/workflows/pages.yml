@@ -29,6 +29,8 @@ jobs:
         run: pnpm check:programas
       - name: Validar cuaderno de propuestas y preguntas
         run: python3 Cuestionario/herramientas/generar-resumen.py --check
+      - name: Comprobar agrupación y trazabilidad de preguntas
+        run: python3 -m unittest discover -s Cuestionario/herramientas -p 'test_*.py'
       - run: pnpm test
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3

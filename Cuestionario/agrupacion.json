@@ -1,0 +1,1886 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "reviewedAt": "2026-10-18",
+  "status": "proposed-wording-review",
+  "liveEligible": false,
+  "bankVersion": "0.4.0",
+  "bankFingerprint": "71420be5f2163cb7d851f1e0ae7a6eedff95f1c50cb0a0dc64ae7e71e2038d25",
+  "scope": {
+    "questionCount": 3673,
+    "candidatePairsReviewed": 189,
+    "method": "Lectura de pares recuperados por coincidencia léxica dentro de cada categoría. El parecido sirve para localizar, no para decidir equivalencia. Cada relación conserva un criterio editorial explícito.",
+    "limits": [
+      "Primera pasada de candidatos, no revisión semántica exhaustiva del banco ni garantía de detectar todos los solapamientos.",
+      "Equivalente se refiere al alcance de los enunciados conservados. No aprueba sus atribuciones partidistas ni sustituye el contraste de los pasajes originales.",
+      "Las variantes relacionadas y las alternativas contrapuestas no se fusionan.",
+      "Las preguntas y posiciones originales mantienen sus identificadores y no se reescriben ni trasladan."
+    ]
+  },
+  "selectionDesign": {
+    "status": "proposal-only",
+    "implemented": false,
+    "targetLength": null,
+    "categoryQuotas": null,
+    "proposal": [
+      "Revisar neutralidad, alcance y fuentes de cada decisión antes de declararla elegible.",
+      "Agrupar solo decisiones equivalentes; elegir una formulación revisada por decisión sin multiplicar su peso.",
+      "Conservar las variantes con cantidades, edades, territorios, condiciones o instrumentos diferentes.",
+      "Fijar un presupuesto editorial por apartado, independiente del número de páginas o de preguntas aportadas por un partido.",
+      "Definir un núcleo común de decisiones con evidencia comparable y valorar una parte adicional aleatoria para explorar temas.",
+      "Sortear dentro de los apartados y familias revisadas; no ajustar el sorteo a las respuestas o al partido más afín.",
+      "Crear la selección completa al iniciar la encuesta, con versión y semilla trazables; mantener estable la navegación y el progreso.",
+      "No sustituir automáticamente una pregunta omitida por otra, ni aumentar por ello la duración.",
+      "Mantener normal 1, alta 2 y esencial 3 como pesos de respuesta; no usarlos para favorecer preguntas de un partido.",
+      "Mostrar selección, cobertura, fuentes y aportación de cada respuesta al resultado. Sin conjunto común suficiente no hay ranking equiparable."
+    ],
+    "pendingDecisions": [
+      "Longitud y modalidad de las encuestas.",
+      "Cuotas por categoría y alcance del núcleo común.",
+      "Aprobación de formulaciones, contextos y atribuciones.",
+      "Actualización y homologación de ediciones electorales.",
+      "Definición y validación de ejes de resultados."
+    ]
+  },
+  "reviews": [
+    {
+      "id": "revision-0001",
+      "questionIds": [
+        "q-vox23-g0107-c",
+        "q-pacma23-g0035-04"
+      ],
+      "relation": "equivalent",
+      "rationale": "Ambas formulaciones proponen reforzar la atención sanitaria a domicilio, sin población, cuantía o mecanismo adicional."
+    },
+    {
+      "id": "revision-0002",
+      "questionIds": [
+        "q-erc23-g0026-02",
+        "q-junts23-g0014-06"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en derogar la misma ley, sin condiciones adicionales."
+    },
+    {
+      "id": "revision-0003",
+      "questionIds": [
+        "q-eh-bildu23-g0002-01",
+        "q-bng23-g0007-01"
+      ],
+      "relation": "related",
+      "rationale": "Una formulación habla de despido en general y otra solo de despido improcedente; aclarar el alcance antes de unir."
+    },
+    {
+      "id": "revision-0004",
+      "questionIds": [
+        "q-pp23-146-a",
+        "q-psoe23-g0623-a"
+      ],
+      "relation": "related",
+      "rationale": "La universalidad no asegura gratuidad: son dos condiciones separadas."
+    },
+    {
+      "id": "revision-0005",
+      "questionIds": [
+        "q-psoe23-pD152-c",
+        "q-vox23-g0278-c"
+      ],
+      "relation": "contrasting",
+      "rationale": "Ampliar y suprimir juzgados son opciones contrapuestas, pero rechazar ampliarlos no significa querer suprimirlos."
+    },
+    {
+      "id": "revision-0006",
+      "questionIds": [
+        "q-vox23-g0269-a",
+        "q-registro-6359-general-g0042-07"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en prohibir indultos por delitos de corrupción política."
+    },
+    {
+      "id": "revision-0007",
+      "questionIds": [
+        "q-vox23-g0202-b",
+        "q-registro-6359-general-g0037-04"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en impedir regularización posterior tras entrada irregular; cualquier y una no introducen aquí un umbral distinto."
+    },
+    {
+      "id": "revision-0008",
+      "questionIds": [
+        "q-psoe23-g0814-d",
+        "q-psoe23-pH224-d"
+      ],
+      "relation": "related",
+      "rationale": "La participación de los residentes es una condición explícita que no aparece en el otro enunciado."
+    },
+    {
+      "id": "revision-0009",
+      "questionIds": [
+        "q-pp23-326-b",
+        "q-pp23-326-c"
+      ],
+      "relation": "distinct",
+      "rationale": "El apoyo militar y el económico son instrumentos independientes."
+    },
+    {
+      "id": "revision-0010",
+      "questionIds": [
+        "q-vox23-g0036-a",
+        "q-junts23-g0016-02"
+      ],
+      "relation": "related",
+      "rationale": "La condición de actividad no habitual restringe la población de autónomos beneficiaria."
+    },
+    {
+      "id": "revision-0011",
+      "questionIds": [
+        "q-psoe23-g0716-a",
+        "q-registro-6359-general-g0036-03"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en aumentar ambas clases de pensiones: mínimas y no contributivas, sin cifras diferentes."
+    },
+    {
+      "id": "revision-0012",
+      "questionIds": [
+        "q-pp23-004-a",
+        "q-vox23-g0144-a"
+      ],
+      "relation": "related",
+      "rationale": "Una propuesta limita el silencio positivo al inicio de actividades económicas; la otra habla de trámites en general."
+    },
+    {
+      "id": "revision-0013",
+      "questionIds": [
+        "q-eh-bildu23-g0002-04",
+        "q-bng23-g0008-01"
+      ],
+      "relation": "related",
+      "rationale": "Las jornadas de 32 y 35 horas fijan umbrales distintos, aunque ambas mantengan salario."
+    },
+    {
+      "id": "revision-0014",
+      "questionIds": [
+        "q-vox23-g0001-a",
+        "q-vox23-g0001-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Sanidad y educación son competencias diferentes que pueden recibir respuestas distintas."
+    },
+    {
+      "id": "revision-0015",
+      "questionIds": [
+        "q-vox23-g0040-a",
+        "q-junts23-g0027-03"
+      ],
+      "relation": "equivalent",
+      "rationale": "Ampliar y extender la formación profesional dual expresan la misma dirección sin condiciones diferentes."
+    },
+    {
+      "id": "revision-0016",
+      "questionIds": [
+        "q-eh-bildu23-g0006-03",
+        "q-registro-6359-general-g0036-03"
+      ],
+      "relation": "related",
+      "rationale": "Las pensiones no contributivas no abarcan todas las pensiones mínimas."
+    },
+    {
+      "id": "revision-0017",
+      "questionIds": [
+        "q-eh-bildu23-g0023-03",
+        "q-eh-bildu23-g0023-05"
+      ],
+      "relation": "distinct",
+      "rationale": "Investigación y migración son competencias distintas."
+    },
+    {
+      "id": "revision-0018",
+      "questionIds": [
+        "q-pp23-096-b",
+        "q-psoe23-g0111-a"
+      ],
+      "relation": "related",
+      "rationale": "Reformular un programa no determina reforzarlo; la dirección del cambio queda abierta."
+    },
+    {
+      "id": "revision-0019",
+      "questionIds": [
+        "q-erc23-g0023-01",
+        "q-pnv23-g0007-01"
+      ],
+      "relation": "related",
+      "rationale": "El territorio de la selección deportiva cambia; no extender una respuesta automáticamente a otros territorios."
+    },
+    {
+      "id": "revision-0020",
+      "questionIds": [
+        "q-pnv23-g0007-01",
+        "q-bng23-g0041-02"
+      ],
+      "relation": "related",
+      "rationale": "El territorio de la selección deportiva cambia; conservar las decisiones territoriales."
+    },
+    {
+      "id": "revision-0021",
+      "questionIds": [
+        "q-pp23-326-e",
+        "q-pp23-326-f"
+      ],
+      "relation": "distinct",
+      "rationale": "Ingreso en la Unión Europea y en la OTAN son decisiones institucionales independientes."
+    },
+    {
+      "id": "revision-0022",
+      "questionIds": [
+        "q-erc23-g0023-01",
+        "q-bng23-g0041-02"
+      ],
+      "relation": "related",
+      "rationale": "Las selecciones se refieren a territorios diferentes."
+    },
+    {
+      "id": "revision-0023",
+      "questionIds": [
+        "q-pp23-087-a",
+        "q-psoe23-g0266-b"
+      ],
+      "relation": "related",
+      "rationale": "Una formulación añade el corredor Central a los otros dos; no se elimina ese alcance."
+    },
+    {
+      "id": "revision-0024",
+      "questionIds": [
+        "q-erc23-g0003-03",
+        "q-junts23-g0005-08"
+      ],
+      "relation": "related",
+      "rationale": "Una formulación especifica el marco de Naciones Unidas y la otra no."
+    },
+    {
+      "id": "revision-0025",
+      "questionIds": [
+        "q-pp23-327-a",
+        "q-psoe23-g1147-b"
+      ],
+      "relation": "related",
+      "rationale": "La cooperación de seguridad es un ámbito concreto dentro de las relaciones de cooperación generales."
+    },
+    {
+      "id": "revision-0026",
+      "questionIds": [
+        "q-pnv23-g0046-01",
+        "q-pacma23-g0051-01"
+      ],
+      "relation": "related",
+      "rationale": "Vivienda pública de alquiler y vivienda social tanto en compra como en alquiler no tienen el mismo régimen ni alcance."
+    },
+    {
+      "id": "revision-0027",
+      "questionIds": [
+        "q-bng23-g0007-09",
+        "q-registro-6359-general-g0003-05"
+      ],
+      "relation": "equivalent",
+      "rationale": "Eliminar y prohibir empresas de trabajo temporal expresan aquí la misma decisión de suprimir esa figura."
+    },
+    {
+      "id": "revision-0028",
+      "questionIds": [
+        "q-pnv23-g0047-06",
+        "q-bng23-g0024-06"
+      ],
+      "relation": "related",
+      "rationale": "Cambian tanto las enfermedades incluidas como el carácter público de la investigación."
+    },
+    {
+      "id": "revision-0029",
+      "questionIds": [
+        "q-vox23-g0125-a",
+        "q-vox23-g0125-b"
+      ],
+      "relation": "related",
+      "rationale": "Las ayudas sociales en general no se limitan al acceso a vivienda social."
+    },
+    {
+      "id": "revision-0030",
+      "questionIds": [
+        "q-vox23-g0159-a",
+        "q-vox23-g0159-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Las explotaciones nuevas y las heredadas son supuestos tributarios distintos."
+    },
+    {
+      "id": "revision-0031",
+      "questionIds": [
+        "q-pp23-086-a",
+        "q-pp23-086-b"
+      ],
+      "relation": "related",
+      "rationale": "Los aeropuertos y sus entornos territoriales son distintos."
+    },
+    {
+      "id": "revision-0032",
+      "questionIds": [
+        "q-vox23-g0097-a",
+        "q-vox23-g0097-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Medicamentos y alimentos requieren reservas diferentes; no son alternativas equivalentes."
+    },
+    {
+      "id": "revision-0033",
+      "questionIds": [
+        "q-pp23-041-a",
+        "q-bng23-g0025-02"
+      ],
+      "relation": "related",
+      "rationale": "La referencia de inflación estatal y la de Galicia no son intercambiables."
+    },
+    {
+      "id": "revision-0034",
+      "questionIds": [
+        "q-psoe23-g0630-a",
+        "q-erc23-g0017-12"
+      ],
+      "relation": "related",
+      "rationale": "La racionalización de horarios añade un contenido a la mera aprobación de una ley de usos del tiempo."
+    },
+    {
+      "id": "revision-0035",
+      "questionIds": [
+        "q-pacma23-g0055-02",
+        "q-pacma23-g0055-03"
+      ],
+      "relation": "distinct",
+      "rationale": "Número de firmas y duración del plazo son requisitos independientes de las iniciativas legislativas populares."
+    },
+    {
+      "id": "revision-0036",
+      "questionIds": [
+        "q-psoe23-g0948-d",
+        "q-psoe23-pH223-b"
+      ],
+      "relation": "equivalent",
+      "rationale": "La mitad y el 50 por ciento expresan la misma reserva de suelo, con idéntico destino y ámbito."
+    },
+    {
+      "id": "revision-0037",
+      "questionIds": [
+        "q-pp23-114-a",
+        "q-vox23-g0245-b"
+      ],
+      "relation": "related",
+      "rationale": "El aval del Consejo de Seguridad Nuclear es una condición explícita que debe conservarse."
+    },
+    {
+      "id": "revision-0038",
+      "questionIds": [
+        "q-psoe23-g0053-a",
+        "q-psoe23-g0623-a"
+      ],
+      "relation": "related",
+      "rationale": "Ampliar plazas no equivale a garantizar universalidad."
+    },
+    {
+      "id": "revision-0039",
+      "questionIds": [
+        "q-psoe23-pD235-e",
+        "q-psoe23-pD235-h"
+      ],
+      "relation": "distinct",
+      "rationale": "Sanidad y asistencia a víctimas de violencia son derechos diferentes."
+    },
+    {
+      "id": "revision-0040",
+      "questionIds": [
+        "q-pp23-212-a",
+        "q-pacma23-g0059-02"
+      ],
+      "relation": "related",
+      "rationale": "Protocolos de actuación y programas contra el acoso no son instrumentos necesariamente equivalentes."
+    },
+    {
+      "id": "revision-0041",
+      "questionIds": [
+        "q-pp23-322-b",
+        "q-pp23-322-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Los acuerdos con México y Chile son decisiones exteriores independientes."
+    },
+    {
+      "id": "revision-0042",
+      "questionIds": [
+        "q-psoe23-g0053-a",
+        "q-junts23-g0038-04"
+      ],
+      "relation": "related",
+      "rationale": "Ampliar plazas y asegurar financiación estatal responden a dimensiones distintas."
+    },
+    {
+      "id": "revision-0043",
+      "questionIds": [
+        "q-pacma23-g0039-01",
+        "q-registro-6359-general-g0032-06"
+      ],
+      "relation": "related",
+      "rationale": "La atención bucodental básica no acredita gratuidad de todos los tratamientos dentales."
+    },
+    {
+      "id": "revision-0044",
+      "questionIds": [
+        "q-vox23-g0036-a",
+        "q-registro-6359-general-g0004-01"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en eximir de cuota a autónomos con ingresos inferiores al salario mínimo, sin exigir actividad no habitual."
+    },
+    {
+      "id": "revision-0045",
+      "questionIds": [
+        "q-psoe23-g0835-a",
+        "q-vox23-g0122-d"
+      ],
+      "relation": "related",
+      "rationale": "Una estrategia nacional es un instrumento distinto de reforzar programas existentes."
+    },
+    {
+      "id": "revision-0046",
+      "questionIds": [
+        "q-erc23-g0025-02",
+        "q-registro-6359-general-g0011-02"
+      ],
+      "relation": "related",
+      "rationale": "El capital y las rentas altas del trabajo no son la misma base tributaria."
+    },
+    {
+      "id": "revision-0047",
+      "questionIds": [
+        "q-eh-bildu23-g0004-02",
+        "q-eh-bildu23-g0023-03"
+      ],
+      "relation": "distinct",
+      "rationale": "Inspección laboral e investigación son competencias distintas."
+    },
+    {
+      "id": "revision-0048",
+      "questionIds": [
+        "q-pp23-327-b",
+        "q-psoe23-g1147-b"
+      ],
+      "relation": "related",
+      "rationale": "Las relaciones económicas son un ámbito particular de la cooperación general."
+    },
+    {
+      "id": "revision-0049",
+      "questionIds": [
+        "q-psoe23-g0716-a",
+        "q-eh-bildu23-g0006-03"
+      ],
+      "relation": "related",
+      "rationale": "Aumentar no contributivas no determina aumentar también todas las mínimas."
+    },
+    {
+      "id": "revision-0050",
+      "questionIds": [
+        "q-junts23-g0046-06",
+        "q-pacma23-g0005-06"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en retirar la protección legal de la tauromaquia como patrimonio cultural."
+    },
+    {
+      "id": "revision-0051",
+      "questionIds": [
+        "q-eh-bildu23-g0015-01",
+        "q-pnv23-g0020-01"
+      ],
+      "relation": "related",
+      "rationale": "2040 y 2050 son horizontes temporales distintos."
+    },
+    {
+      "id": "revision-0052",
+      "questionIds": [
+        "q-registro-6359-general-g0010-02",
+        "q-registro-6359-general-g0010-03"
+      ],
+      "relation": "distinct",
+      "rationale": "Electricidad y combustibles son mercados regulables de forma independiente."
+    },
+    {
+      "id": "revision-0053",
+      "questionIds": [
+        "q-vox23-g0122-b",
+        "q-pacma23-g0058-01"
+      ],
+      "relation": "related",
+      "rationale": "La dependencia y la edad no delimitan a la misma población."
+    },
+    {
+      "id": "revision-0054",
+      "questionIds": [
+        "q-psoe23-g0262-a",
+        "q-erc23-g0041-12"
+      ],
+      "relation": "related",
+      "rationale": "El alcance internacional no se limita expresamente a ciudades europeas en ambos enunciados."
+    },
+    {
+      "id": "revision-0055",
+      "questionIds": [
+        "q-vox23-g0227-a",
+        "q-registro-6359-general-g0028-02"
+      ],
+      "relation": "related",
+      "rationale": "Una propuesta se limita a derribos motivados por políticas ambientales y otra a todos los derribos de presas."
+    },
+    {
+      "id": "revision-0056",
+      "questionIds": [
+        "q-psoe23-pH222-a",
+        "q-pnv23-g0046-01"
+      ],
+      "relation": "related",
+      "rationale": "Ampliar un parque no determina un objetivo del 20 por ciento."
+    },
+    {
+      "id": "revision-0057",
+      "questionIds": [
+        "q-junts23-g0016-02",
+        "q-registro-6359-general-g0004-01"
+      ],
+      "relation": "related",
+      "rationale": "La exención para autónomos no habituales es más restrictiva que la exención general bajo SMI."
+    },
+    {
+      "id": "revision-0058",
+      "questionIds": [
+        "q-pacma23-g0019-02",
+        "q-pacma23-g0019-05"
+      ],
+      "relation": "distinct",
+      "rationale": "Financiar investigación y agilizar validación son intervenciones independientes."
+    },
+    {
+      "id": "revision-0059",
+      "questionIds": [
+        "q-psoe23-g0053-a",
+        "q-pacma23-g0040-03"
+      ],
+      "relation": "related",
+      "rationale": "Aumentar plazas no garantiza por sí solo atender toda la demanda."
+    },
+    {
+      "id": "revision-0060",
+      "questionIds": [
+        "q-pp23-146-a",
+        "q-bng23-g0022-01"
+      ],
+      "relation": "related",
+      "rationale": "Cambian edades cubiertas, titularidad y condiciones de universalidad."
+    },
+    {
+      "id": "revision-0061",
+      "questionIds": [
+        "q-psoe23-g0693-a",
+        "q-registro-6359-general-g0025-01"
+      ],
+      "relation": "related",
+      "rationale": "Prohibir agencias comerciales no equivale a prohibir toda gestación subrogada."
+    },
+    {
+      "id": "revision-0062",
+      "questionIds": [
+        "q-junts23-g0005-08",
+        "q-bng23-g0002-01"
+      ],
+      "relation": "distinct",
+      "rationale": "Se refieren a pueblos y contextos políticos diferentes."
+    },
+    {
+      "id": "revision-0063",
+      "questionIds": [
+        "q-bng23-g0003-03",
+        "q-bng23-g0004-01"
+      ],
+      "relation": "distinct",
+      "rationale": "Competencias laborales y energéticas son materias distintas."
+    },
+    {
+      "id": "revision-0064",
+      "questionIds": [
+        "q-pp23-146-a",
+        "q-psoe23-g0053-a"
+      ],
+      "relation": "related",
+      "rationale": "La universalidad y gratuidad no se deducen de un aumento de plazas."
+    },
+    {
+      "id": "revision-0065",
+      "questionIds": [
+        "q-pacma23-g0017-01",
+        "q-pacma23-g0017-02"
+      ],
+      "relation": "distinct",
+      "rationale": "Producir y comercializar son actividades distintas, con posibles efectos sobre importaciones."
+    },
+    {
+      "id": "revision-0066",
+      "questionIds": [
+        "q-pp23-309-a",
+        "q-psoe23-g0998-c"
+      ],
+      "relation": "related",
+      "rationale": "La planificación basada en jubilaciones y necesidades introduce criterios no especificados en la otra formulación."
+    },
+    {
+      "id": "revision-0067",
+      "questionIds": [
+        "q-eh-bildu23-g0004-02",
+        "q-eh-bildu23-g0023-05"
+      ],
+      "relation": "distinct",
+      "rationale": "Inspección de trabajo y migración son competencias diferentes."
+    },
+    {
+      "id": "revision-0068",
+      "questionIds": [
+        "q-psoe23-g0623-a",
+        "q-junts23-g0038-04"
+      ],
+      "relation": "related",
+      "rationale": "Financiación estatal y universalidad son dimensiones diferentes."
+    },
+    {
+      "id": "revision-0069",
+      "questionIds": [
+        "q-pacma23-g0002-02",
+        "q-pacma23-g0002-03"
+      ],
+      "relation": "distinct",
+      "rationale": "Prohibir venta no equivale a prohibir exhibición comercial."
+    },
+    {
+      "id": "revision-0070",
+      "questionIds": [
+        "q-pnv23-g0014-06",
+        "q-pacma23-g0054-01"
+      ],
+      "relation": "related",
+      "rationale": "Los cargos políticos son un subconjunto de cargos y empleados públicos."
+    },
+    {
+      "id": "revision-0071",
+      "questionIds": [
+        "q-registro-6359-general-g0032-06",
+        "q-registro-6359-general-g0032-08"
+      ],
+      "relation": "distinct",
+      "rationale": "Atención dental y oftalmológica son prestaciones diferentes."
+    },
+    {
+      "id": "revision-0072",
+      "questionIds": [
+        "q-psoe23-g0052-b",
+        "q-erc23-g0034-10"
+      ],
+      "relation": "related",
+      "rationale": "Facilitar una semana de cuatro días no equivale a plantearse estudiarla; conservar el grado de compromiso."
+    },
+    {
+      "id": "revision-0073",
+      "questionIds": [
+        "q-erc23-g0023-01",
+        "q-junts23-g0043-01"
+      ],
+      "relation": "related",
+      "rationale": "La ausencia de autorización del Consejo Superior de Deportes es una condición adicional."
+    },
+    {
+      "id": "revision-0074",
+      "questionIds": [
+        "q-erc23-g0040-06",
+        "q-junts23-g0046-08"
+      ],
+      "relation": "equivalent",
+      "rationale": "Ambas formulaciones proponen avanzar hacia una ganadería sin jaulas, sin calendarios diferentes."
+    },
+    {
+      "id": "revision-0075",
+      "questionIds": [
+        "q-junts23-g0030-02",
+        "q-eh-bildu23-g0006-02"
+      ],
+      "relation": "related",
+      "rationale": "Cambian las clases de pensión cubiertas y el carácter gradual del aumento."
+    },
+    {
+      "id": "revision-0076",
+      "questionIds": [
+        "q-eh-bildu23-g0004-04",
+        "q-eh-bildu23-g0023-03"
+      ],
+      "relation": "distinct",
+      "rationale": "Políticas pasivas de empleo e investigación son competencias distintas."
+    },
+    {
+      "id": "revision-0077",
+      "questionIds": [
+        "q-vox23-g0107-a",
+        "q-pacma23-g0035-03"
+      ],
+      "relation": "related",
+      "rationale": "La coordinación con hospitales añade una dimensión al refuerzo de recursos de primaria."
+    },
+    {
+      "id": "revision-0078",
+      "questionIds": [
+        "q-erc23-g0033-01",
+        "q-bng23-g0007-01"
+      ],
+      "relation": "related",
+      "rationale": "El mínimo de 45 días y el límite de 42 mensualidades no equivalen a fijar solo 45 días por año."
+    },
+    {
+      "id": "revision-0079",
+      "questionIds": [
+        "q-junts23-g0016-01",
+        "q-bng23-g0009-08"
+      ],
+      "relation": "equivalent",
+      "rationale": "Coinciden en hacer más progresiva la cotización de autónomos según sus ingresos reales, sin tramos diferentes."
+    },
+    {
+      "id": "revision-0080",
+      "questionIds": [
+        "q-pp23-084-a",
+        "q-pp23-084-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Cuidado infantil y atención a mayores cubren poblaciones y servicios distintos."
+    },
+    {
+      "id": "revision-0081",
+      "questionIds": [
+        "q-vox23-g0036-a",
+        "q-erc23-g0034-06"
+      ],
+      "relation": "related",
+      "rationale": "Reducir cuotas no equivale a una exención total."
+    },
+    {
+      "id": "revision-0082",
+      "questionIds": [
+        "q-erc23-g0016-04",
+        "q-bng23-g0014-03"
+      ],
+      "relation": "equivalent",
+      "rationale": "La referencia a inteligencia artificial es un ejemplo incluido en la violencia digital, no una restricción ni un mecanismo adicional."
+    },
+    {
+      "id": "revision-0083",
+      "questionIds": [
+        "q-vox23-g0011-a",
+        "q-registro-6359-general-g0021-01"
+      ],
+      "relation": "related",
+      "rationale": "Las cuotas de contratación son solo una parte de las cuotas por sexo de la legislación."
+    },
+    {
+      "id": "revision-0084",
+      "questionIds": [
+        "q-eh-bildu23-g0023-03",
+        "q-eh-bildu23-g0023-06"
+      ],
+      "relation": "distinct",
+      "rationale": "Investigación y gestión portuaria y aeroportuaria son competencias diferentes."
+    },
+    {
+      "id": "revision-0085",
+      "questionIds": [
+        "q-psoe23-g0253-a",
+        "q-pacma23-g0022-04"
+      ],
+      "relation": "equivalent",
+      "rationale": "En el ámbito estatal de estos programas ambas formulaciones reclaman la misma ley de movilidad sostenible, sin añadir medidas concretas."
+    },
+    {
+      "id": "revision-0086",
+      "questionIds": [
+        "q-psoe23-pD235-d",
+        "q-psoe23-pD235-e"
+      ],
+      "relation": "distinct",
+      "rationale": "Pensiones y sanidad son derechos diferentes."
+    },
+    {
+      "id": "revision-0087",
+      "questionIds": [
+        "q-psoe23-pH222-b",
+        "q-pacma23-g0051-01"
+      ],
+      "relation": "related",
+      "rationale": "Comprar o arrendar inmuebles para el parque público no equivale a ofrecer vivienda social tanto en compra como en alquiler."
+    },
+    {
+      "id": "revision-0088",
+      "questionIds": [
+        "q-vox23-g0149-a",
+        "q-vox23-g0149-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Tipo general y tipo reducido del IVA son parámetros distintos."
+    },
+    {
+      "id": "revision-0089",
+      "questionIds": [
+        "q-vox23-g0045-a",
+        "q-bng23-g0022-01"
+      ],
+      "relation": "related",
+      "rationale": "La gratuidad de toda educación pública y la de cero a dieciocho años tienen alcances distintos."
+    },
+    {
+      "id": "revision-0090",
+      "questionIds": [
+        "q-vox23-g0125-b",
+        "q-bng23-g0040-05"
+      ],
+      "relation": "related",
+      "rationale": "Jóvenes y personas de nacionalidad española no delimitan a la misma población prioritaria."
+    },
+    {
+      "id": "revision-0091",
+      "questionIds": [
+        "q-psoe23-g0727-a",
+        "q-pnv23-g0036-02"
+      ],
+      "relation": "related",
+      "rationale": "Una garantía constitucional es un instrumento adicional a la revalorización conforme al IPC."
+    },
+    {
+      "id": "revision-0092",
+      "questionIds": [
+        "q-bng23-g0019-05",
+        "q-pacma23-g0055-06"
+      ],
+      "relation": "related",
+      "rationale": "Eliminar barreras del 5 por ciento no equivale a eliminar cualquier barrera mínima."
+    },
+    {
+      "id": "revision-0093",
+      "questionIds": [
+        "q-vox23-g0097-a",
+        "q-vox23-g0097-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Medicamentos y componentes tecnológicos son reservas diferentes."
+    },
+    {
+      "id": "revision-0094",
+      "questionIds": [
+        "q-vox23-g0097-b",
+        "q-vox23-g0097-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Alimentos y componentes tecnológicos son reservas diferentes."
+    },
+    {
+      "id": "revision-0095",
+      "questionIds": [
+        "q-pp23-153-b",
+        "q-vox23-g0040-a"
+      ],
+      "relation": "related",
+      "rationale": "Incentivos a empresas y extensión de la FP dual son medio y objetivo, no la misma decisión."
+    },
+    {
+      "id": "revision-0096",
+      "questionIds": [
+        "q-junts23-g0030-10",
+        "q-registro-6359-general-g0036-03"
+      ],
+      "relation": "related",
+      "rationale": "Convergencia con SMI y aumento sin cuantía no son el mismo compromiso."
+    },
+    {
+      "id": "revision-0097",
+      "questionIds": [
+        "q-psoe23-pD235-d",
+        "q-psoe23-pD235-f"
+      ],
+      "relation": "distinct",
+      "rationale": "Pensiones y seguridad climática son derechos distintos."
+    },
+    {
+      "id": "revision-0098",
+      "questionIds": [
+        "q-psoe23-g0318-c",
+        "q-pnv23-g0026-01"
+      ],
+      "relation": "equivalent",
+      "rationale": "Materias primas secundarias y recuperadas nombran aquí el mismo tipo de recurso industrial."
+    },
+    {
+      "id": "revision-0099",
+      "questionIds": [
+        "q-erc23-g0036-01",
+        "q-bng23-g0009-03"
+      ],
+      "relation": "related",
+      "rationale": "Una edad de 65 años sin mínimo de cotización incluye una condición que el otro enunciado no fija."
+    },
+    {
+      "id": "revision-0100",
+      "questionIds": [
+        "q-psoe23-g0053-a",
+        "q-erc23-g0046-04"
+      ],
+      "relation": "related",
+      "rationale": "Ampliar plazas y financiar su universalización son compromisos de alcance diferente."
+    },
+    {
+      "id": "revision-0101",
+      "questionIds": [
+        "q-psoe23-g0398-b",
+        "q-bng23-g0022-01"
+      ],
+      "relation": "related",
+      "rationale": "Una oferta pública suficiente añade capacidad a la gratuidad; no se elimina esa dimensión."
+    },
+    {
+      "id": "revision-0102",
+      "questionIds": [
+        "q-eh-bildu23-g0004-02",
+        "q-eh-bildu23-g0004-04"
+      ],
+      "relation": "distinct",
+      "rationale": "Inspección laboral y políticas pasivas de empleo son competencias diferentes."
+    },
+    {
+      "id": "revision-0103",
+      "questionIds": [
+        "q-pp23-243-a",
+        "q-psoe23-g1041-e"
+      ],
+      "relation": "related",
+      "rationale": "Aumentar mil plazas durante la legislatura fija cuantía y plazo que no aparecen en el otro enunciado."
+    },
+    {
+      "id": "revision-0104",
+      "questionIds": [
+        "q-vox23-g0089-a",
+        "q-vox23-g0089-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Las entidades destinatarias de las subvenciones son diferentes."
+    },
+    {
+      "id": "revision-0105",
+      "questionIds": [
+        "q-psoe23-g0008-e",
+        "q-bng23-g0009-01"
+      ],
+      "relation": "distinct",
+      "rationale": "El salario mínimo y las pensiones mínimas son prestaciones distintas aunque usen el mismo porcentaje."
+    },
+    {
+      "id": "revision-0106",
+      "questionIds": [
+        "q-eh-bildu23-g0004-02",
+        "q-eh-bildu23-g0023-06"
+      ],
+      "relation": "distinct",
+      "rationale": "Inspección laboral y gestión de puertos y aeropuertos son competencias diferentes."
+    },
+    {
+      "id": "revision-0107",
+      "questionIds": [
+        "q-erc23-g0003-01",
+        "q-pnv23-g0038-06"
+      ],
+      "relation": "related",
+      "rationale": "Los conjuntos de lenguas a oficializar son diferentes."
+    },
+    {
+      "id": "revision-0108",
+      "questionIds": [
+        "q-erc23-g0034-06",
+        "q-registro-6359-general-g0004-02"
+      ],
+      "relation": "related",
+      "rationale": "La rebaja limitada a ingresos inferiores al SMI es distinta de una rebaja general de cuotas."
+    },
+    {
+      "id": "revision-0109",
+      "questionIds": [
+        "q-pp23-206-a",
+        "q-psoe23-pD152-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Unidades policiales y equipos forenses tienen funciones diferentes."
+    },
+    {
+      "id": "revision-0110",
+      "questionIds": [
+        "q-psoe23-g0303-b",
+        "q-psoe23-g0363-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Movilidad laboral y movilidad escolar afectan a desplazamientos distintos."
+    },
+    {
+      "id": "revision-0111",
+      "questionIds": [
+        "q-eh-bildu23-g0023-02",
+        "q-eh-bildu23-g0023-03"
+      ],
+      "relation": "distinct",
+      "rationale": "Seguridad Social e investigación son competencias diferentes."
+    },
+    {
+      "id": "revision-0112",
+      "questionIds": [
+        "q-pp23-093-a",
+        "q-bng23-g0006-08"
+      ],
+      "relation": "distinct",
+      "rationale": "Suelo público y viviendas ya existentes son recursos e instrumentos distintos."
+    },
+    {
+      "id": "revision-0113",
+      "questionIds": [
+        "q-pp23-146-a",
+        "q-junts23-g0038-04"
+      ],
+      "relation": "related",
+      "rationale": "Financiación estatal y universalidad con gratuidad no son equivalentes."
+    },
+    {
+      "id": "revision-0114",
+      "questionIds": [
+        "q-vox23-g0009-d",
+        "q-registro-6359-general-g0043-02"
+      ],
+      "relation": "distinct",
+      "rationale": "Salarios y condiciones de jubilación son dimensiones laborales distintas."
+    },
+    {
+      "id": "revision-0115",
+      "questionIds": [
+        "q-pp23-289-b",
+        "q-psoe23-g0992-a"
+      ],
+      "relation": "distinct",
+      "rationale": "Pedir una cita de forma presencial no equivale a recibir atención sin cita previa."
+    },
+    {
+      "id": "revision-0116",
+      "questionIds": [
+        "q-pp23-086-b",
+        "q-psoe23-g0300-a"
+      ],
+      "relation": "related",
+      "rationale": "Actualizar planificación y financiar inversiones son instrumentos distintos para el mismo aeropuerto."
+    },
+    {
+      "id": "revision-0117",
+      "questionIds": [
+        "q-psoe23-pD235-e",
+        "q-psoe23-pD235-f"
+      ],
+      "relation": "distinct",
+      "rationale": "Sanidad y seguridad climática son derechos diferentes."
+    },
+    {
+      "id": "revision-0118",
+      "questionIds": [
+        "q-junts23-g0030-11",
+        "q-eh-bildu23-g0006-03"
+      ],
+      "relation": "related",
+      "rationale": "Grado de discapacidad y umbral IPREM añaden condiciones al aumento general de pensiones no contributivas."
+    },
+    {
+      "id": "revision-0119",
+      "questionIds": [
+        "q-eh-bildu23-g0004-04",
+        "q-eh-bildu23-g0023-05"
+      ],
+      "relation": "distinct",
+      "rationale": "Políticas pasivas de empleo y migración son competencias diferentes."
+    },
+    {
+      "id": "revision-0120",
+      "questionIds": [
+        "q-pp23-286-a",
+        "q-vox23-g0064-b"
+      ],
+      "relation": "related",
+      "rationale": "Devolver un impuesto pagado y eximir de pagarlo requieren mecanismos y momentos distintos."
+    },
+    {
+      "id": "revision-0121",
+      "questionIds": [
+        "q-psoe23-g0024-c",
+        "q-psoe23-g0077-a"
+      ],
+      "relation": "related",
+      "rationale": "Una agencia internacional es un instrumento concreto, no equivalente a promover protección internacional."
+    },
+    {
+      "id": "revision-0122",
+      "questionIds": [
+        "q-psoe23-pD229-a",
+        "q-vox23-g0113-d"
+      ],
+      "relation": "related",
+      "rationale": "Mantener una ley completa no equivale a financiar una prestación sanitaria concreta."
+    },
+    {
+      "id": "revision-0123",
+      "questionIds": [
+        "q-vox23-g0269-a",
+        "q-vox23-g0269-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Los supuestos delictivos de la prohibición de indulto son distintos."
+    },
+    {
+      "id": "revision-0124",
+      "questionIds": [
+        "q-pacma23-g0018-01",
+        "q-pacma23-g0018-02"
+      ],
+      "relation": "distinct",
+      "rationale": "Impedir nuevas aperturas y cerrar instalaciones existentes son decisiones separadas."
+    },
+    {
+      "id": "revision-0125",
+      "questionIds": [
+        "q-psoe23-g0008-e",
+        "q-eh-bildu23-g0003-03"
+      ],
+      "relation": "related",
+      "rationale": "Cambian territorio, salario de referencia y competencia para fijar el mínimo."
+    },
+    {
+      "id": "revision-0126",
+      "questionIds": [
+        "q-psoe23-g0266-c",
+        "q-vox23-g0263-a"
+      ],
+      "relation": "related",
+      "rationale": "Una conexión con Almería es un proyecto concreto dentro de la ampliación general de la red."
+    },
+    {
+      "id": "revision-0127",
+      "questionIds": [
+        "q-psoe23-g1127-a",
+        "q-erc23-g0008-01"
+      ],
+      "relation": "related",
+      "rationale": "Cambian denominador y horizonte temporal; el porcentaje no basta para igualarlas."
+    },
+    {
+      "id": "revision-0128",
+      "questionIds": [
+        "q-eh-bildu23-g0005-03",
+        "q-eh-bildu23-g0005-04"
+      ],
+      "relation": "distinct",
+      "rationale": "Obligatoriedad del código y acceso de hogares al mismo son decisiones distintas."
+    },
+    {
+      "id": "revision-0129",
+      "questionIds": [
+        "q-eh-bildu23-g0023-05",
+        "q-eh-bildu23-g0023-06"
+      ],
+      "relation": "distinct",
+      "rationale": "Migración y gestión de puertos y aeropuertos son competencias diferentes."
+    },
+    {
+      "id": "revision-0130",
+      "questionIds": [
+        "q-pp23-203-a",
+        "q-erc23-g0016-09"
+      ],
+      "relation": "related",
+      "rationale": "Mantener y evaluar un pacto no determina aumentar su financiación."
+    },
+    {
+      "id": "revision-0131",
+      "questionIds": [
+        "q-pp23-146-a",
+        "q-vox23-g0045-a"
+      ],
+      "relation": "related",
+      "rationale": "Cambian edades, titularidad y universalidad de la educación cubierta."
+    },
+    {
+      "id": "revision-0132",
+      "questionIds": [
+        "q-vox23-g0173-a",
+        "q-vox23-g0173-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Acción exterior y cooperación internacional no son la misma función administrativa."
+    },
+    {
+      "id": "revision-0133",
+      "questionIds": [
+        "q-junts23-g0023-02",
+        "q-bng23-g0005-01"
+      ],
+      "relation": "related",
+      "rationale": "Cambian territorio y condición de integrar la prestación con otra renta."
+    },
+    {
+      "id": "revision-0134",
+      "questionIds": [
+        "q-psoe23-g0733-a",
+        "q-junts23-g0030-02"
+      ],
+      "relation": "related",
+      "rationale": "Cambian población vulnerable, tipos de pensión y gradualidad."
+    },
+    {
+      "id": "revision-0135",
+      "questionIds": [
+        "q-erc23-g0020-02",
+        "q-bng23-g0005-01"
+      ],
+      "relation": "related",
+      "rationale": "Los territorios receptores de la competencia son diferentes."
+    },
+    {
+      "id": "revision-0136",
+      "questionIds": [
+        "q-junts23-g0004-03",
+        "q-eh-bildu23-g0019-02"
+      ],
+      "relation": "contrasting",
+      "rationale": "Objetivar criterios sancionadores y suprimir las sanciones son opciones distintas; rechazar una no implica aceptar la otra."
+    },
+    {
+      "id": "revision-0137",
+      "questionIds": [
+        "q-vox23-g0149-b",
+        "q-junts23-g0043-06"
+      ],
+      "relation": "distinct",
+      "rationale": "Cambiar un tipo impositivo y asignar un servicio a ese tipo son decisiones diferentes."
+    },
+    {
+      "id": "revision-0138",
+      "questionIds": [
+        "q-vox23-g0056-a",
+        "q-vox23-g0056-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Promocionar de curso y obtener una titulación son decisiones educativas diferentes."
+    },
+    {
+      "id": "revision-0139",
+      "questionIds": [
+        "q-eh-bildu23-g0009-09",
+        "q-pacma23-g0020-01"
+      ],
+      "relation": "distinct",
+      "rationale": "Productos menstruales y servicios veterinarios son bases de consumo diferentes."
+    },
+    {
+      "id": "revision-0140",
+      "questionIds": [
+        "q-pacma23-g0042-01",
+        "q-pacma23-g0042-02"
+      ],
+      "relation": "related",
+      "rationale": "Obligación en servicios públicos e incentivos en restauración privada cambian tanto instrumento como destinatario."
+    },
+    {
+      "id": "revision-0141",
+      "questionIds": [
+        "q-pp23-329-b",
+        "q-pp23-329-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Las relaciones con países del Golfo e Israel son decisiones exteriores independientes."
+    },
+    {
+      "id": "revision-0142",
+      "questionIds": [
+        "q-eh-bildu23-g0004-02",
+        "q-eh-bildu23-g0023-02"
+      ],
+      "relation": "distinct",
+      "rationale": "Inspección laboral y régimen económico de Seguridad Social son competencias diferentes."
+    },
+    {
+      "id": "revision-0143",
+      "questionIds": [
+        "q-junts23-g0013-02",
+        "q-registro-6359-general-g0011-01"
+      ],
+      "relation": "related",
+      "rationale": "La reducción limitada a rentas bajas no equivale a reducir la tributación de todo rendimiento del trabajo."
+    },
+    {
+      "id": "revision-0144",
+      "questionIds": [
+        "q-pp23-182-b",
+        "q-pacma23-g0058-01"
+      ],
+      "relation": "related",
+      "rationale": "El deseo de permanecer en casa es una condición de población explícita que se conserva."
+    },
+    {
+      "id": "revision-0145",
+      "questionIds": [
+        "q-vox23-g0018-c",
+        "q-vox23-g0018-d"
+      ],
+      "relation": "distinct",
+      "rationale": "Bandas armadas y menores delimitan supuestos penales diferentes."
+    },
+    {
+      "id": "revision-0146",
+      "questionIds": [
+        "q-vox23-g0069-b",
+        "q-pacma23-g0051-01"
+      ],
+      "relation": "related",
+      "rationale": "Alquiler con opción de compra no equivale a ofrecer por separado compra y alquiler."
+    },
+    {
+      "id": "revision-0147",
+      "questionIds": [
+        "q-erc23-g0023-06",
+        "q-bng23-g0041-06"
+      ],
+      "relation": "distinct",
+      "rationale": "Sostenibilidad y accesibilidad de instalaciones son intervenciones diferentes."
+    },
+    {
+      "id": "revision-0148",
+      "questionIds": [
+        "q-psoe23-g0848-a",
+        "q-psoe23-g0848-b"
+      ],
+      "relation": "distinct",
+      "rationale": "Cambian prestación sanitaria y plazo máximo."
+    },
+    {
+      "id": "revision-0149",
+      "questionIds": [
+        "q-erc23-g0041-08",
+        "q-junts23-g0009-05"
+      ],
+      "relation": "related",
+      "rationale": "Servicio e infraestructuras no se confunden con la red; el enunciado más breve requiere aclarar su alcance."
+    },
+    {
+      "id": "revision-0150",
+      "questionIds": [
+        "q-junts23-g0013-02",
+        "q-bng23-g0025-03"
+      ],
+      "relation": "related",
+      "rationale": "Reducir tributación del trabajo no implica aumentar la del capital."
+    },
+    {
+      "id": "revision-0151",
+      "questionIds": [
+        "q-psoe23-g0041-c",
+        "q-psoe23-g0044-a"
+      ],
+      "relation": "related",
+      "rationale": "Una red de centros y un plan de apoyo al emprendimiento social son instrumentos y poblaciones distintos."
+    },
+    {
+      "id": "revision-0152",
+      "questionIds": [
+        "q-psoe23-g0848-a",
+        "q-psoe23-g0848-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Cirugía y pruebas complementarias tienen plazos diferentes."
+    },
+    {
+      "id": "revision-0153",
+      "questionIds": [
+        "q-junts23-g0030-13",
+        "q-eh-bildu23-g0006-03"
+      ],
+      "relation": "related",
+      "rationale": "Cambiar el umbral de discapacidad no equivale a aumentar la cuantía de pensiones."
+    },
+    {
+      "id": "revision-0154",
+      "questionIds": [
+        "q-psoe23-g0914-d",
+        "q-psoe23-g0926-b"
+      ],
+      "relation": "related",
+      "rationale": "Discriminación LGTBI y delitos de odio no tienen idéntico alcance."
+    },
+    {
+      "id": "revision-0155",
+      "questionIds": [
+        "q-vox23-g0009-a",
+        "q-registro-6359-general-g0043-03"
+      ],
+      "relation": "related",
+      "rationale": "Cuerpos estatales es más amplio que Policía Nacional y una formulación añade gradualidad."
+    },
+    {
+      "id": "revision-0156",
+      "questionIds": [
+        "q-vox23-g0061-a",
+        "q-pacma23-g0040-02"
+      ],
+      "relation": "distinct",
+      "rationale": "Presencia de humanidades y ampliación de becas son políticas diferentes."
+    },
+    {
+      "id": "revision-0157",
+      "questionIds": [
+        "q-vox23-g0089-a",
+        "q-vox23-g0089-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Las entidades destinatarias de las subvenciones son diferentes."
+    },
+    {
+      "id": "revision-0158",
+      "questionIds": [
+        "q-eh-bildu23-g0011-06",
+        "q-bng23-g0005-01"
+      ],
+      "relation": "distinct",
+      "rationale": "Simplificar trámites y transferir competencias de gestión son decisiones diferentes."
+    },
+    {
+      "id": "revision-0159",
+      "questionIds": [
+        "q-bng23-g0003-03",
+        "q-bng23-g0003-04"
+      ],
+      "relation": "distinct",
+      "rationale": "Competencias laborales y Seguridad Social y pensiones son materias diferentes."
+    },
+    {
+      "id": "revision-0160",
+      "questionIds": [
+        "q-psoe23-g0623-a",
+        "q-erc23-g0046-04"
+      ],
+      "relation": "related",
+      "rationale": "Financiar la universalización y declarar universalidad no especifican el mismo instrumento."
+    },
+    {
+      "id": "revision-0161",
+      "questionIds": [
+        "q-pp23-347-a",
+        "q-vox23-g0023-b"
+      ],
+      "relation": "related",
+      "rationale": "Ampliar sedes añade una intervención a reforzar actividad de difusión."
+    },
+    {
+      "id": "revision-0162",
+      "questionIds": [
+        "q-psoe23-pD235-d",
+        "q-psoe23-pD235-g"
+      ],
+      "relation": "distinct",
+      "rationale": "Pensiones y agua potable son derechos distintos."
+    },
+    {
+      "id": "revision-0163",
+      "questionIds": [
+        "q-eh-bildu23-g0023-02",
+        "q-eh-bildu23-g0023-05"
+      ],
+      "relation": "distinct",
+      "rationale": "Seguridad Social y migración son competencias diferentes."
+    },
+    {
+      "id": "revision-0164",
+      "questionIds": [
+        "q-psoe23-g0195-d",
+        "q-psoe23-g0195-f"
+      ],
+      "relation": "distinct",
+      "rationale": "Uso de renovables e incorporación de jóvenes y mujeres a explotaciones son políticas diferentes."
+    },
+    {
+      "id": "revision-0165",
+      "questionIds": [
+        "q-pnv23-g0031-05",
+        "q-pacma23-g0057-04"
+      ],
+      "relation": "related",
+      "rationale": "La atención judicial y forense especifica un alcance adicional al equipo multidisciplinar en juzgados."
+    },
+    {
+      "id": "revision-0166",
+      "questionIds": [
+        "q-psoe23-g0390-c",
+        "q-psoe23-g0611-b"
+      ],
+      "relation": "related",
+      "rationale": "Los proyectos rurales son un subconjunto de los proyectos empresariales liderados por mujeres."
+    },
+    {
+      "id": "revision-0167",
+      "questionIds": [
+        "q-psoe23-g0848-b",
+        "q-psoe23-g0848-c"
+      ],
+      "relation": "distinct",
+      "rationale": "Consultas y pruebas complementarias son prestaciones con plazos distintos."
+    },
+    {
+      "id": "revision-0168",
+      "questionIds": [
+        "q-pp23-071-c",
+        "q-bng23-g0030-01"
+      ],
+      "relation": "related",
+      "rationale": "Cambian el sujeto negociador y el ámbito territorial de la política pesquera."
+    },
+    {
+      "id": "revision-0169",
+      "questionIds": [
+        "q-pp23-180-b",
+        "q-vox23-g0122-d"
+      ],
+      "relation": "related",
+      "rationale": "El apoyo psicológico a mayores es una intervención y población particulares dentro de los programas contra la soledad."
+    },
+    {
+      "id": "revision-0170",
+      "questionIds": [
+        "q-pp23-120-i",
+        "q-psoe23-g0851-d"
+      ],
+      "relation": "distinct",
+      "rationale": "Autonomía del residente y duración de rotaciones son dimensiones formativas diferentes."
+    },
+    {
+      "id": "revision-0171",
+      "questionIds": [
+        "q-psoe23-pD235-d",
+        "q-psoe23-pD235-h"
+      ],
+      "relation": "distinct",
+      "rationale": "Pensiones y asistencia a víctimas de violencia son derechos distintos."
+    },
+    {
+      "id": "revision-0172",
+      "questionIds": [
+        "q-pp23-170-a",
+        "q-vox23-g0140-b"
+      ],
+      "relation": "related",
+      "rationale": "Una red de prevención y tratamiento es un instrumento más específico que reforzar prevención."
+    },
+    {
+      "id": "revision-0173",
+      "questionIds": [
+        "q-psoe23-pD235-c",
+        "q-psoe23-pD235-d"
+      ],
+      "relation": "distinct",
+      "rationale": "Muerte digna y pensiones son derechos distintos."
+    },
+    {
+      "id": "revision-0174",
+      "questionIds": [
+        "q-erc23-g0034-06",
+        "q-junts23-g0016-02"
+      ],
+      "relation": "related",
+      "rationale": "Cambian la cuantía de rebaja y la condición de actividad no habitual."
+    },
+    {
+      "id": "revision-0175",
+      "questionIds": [
+        "q-erc23-g0036-02",
+        "q-registro-6359-general-g0036-04"
+      ],
+      "relation": "related",
+      "rationale": "Quince años elegidos y una media de mejores años sin número no son el mismo cálculo."
+    },
+    {
+      "id": "revision-0176",
+      "questionIds": [
+        "q-junts23-g0046-10",
+        "q-pacma23-g0017-01"
+      ],
+      "relation": "related",
+      "rationale": "Prohibir foie gras y prohibir alimentación forzada no tienen el mismo objeto; pueden existir otros métodos productivos."
+    },
+    {
+      "id": "revision-0177",
+      "questionIds": [
+        "q-psoe23-pH226-a",
+        "q-bng23-g0006-10"
+      ],
+      "relation": "related",
+      "rationale": "Consolidar el bono y adaptarlo a pisos compartidos son decisiones distintas."
+    },
+    {
+      "id": "revision-0178",
+      "questionIds": [
+        "q-bng23-g0003-04",
+        "q-bng23-g0004-01"
+      ],
+      "relation": "distinct",
+      "rationale": "Seguridad Social y energía son competencias diferentes."
+    },
+    {
+      "id": "revision-0179",
+      "questionIds": [
+        "q-erc23-g0046-04",
+        "q-junts23-g0038-04"
+      ],
+      "relation": "related",
+      "rationale": "Una formulación exige universalización y la otra precisa financiación estatal."
+    },
+    {
+      "id": "revision-0180",
+      "questionIds": [
+        "q-junts23-g0043-03",
+        "q-registro-6359-general-g0016-01"
+      ],
+      "relation": "distinct",
+      "rationale": "Obligaciones fiscales de clubes e inversión en instalaciones son políticas distintas."
+    },
+    {
+      "id": "revision-0181",
+      "questionIds": [
+        "q-bng23-g0017-06",
+        "q-pacma23-g0059-01"
+      ],
+      "relation": "related",
+      "rationale": "Cambian etapas educativas y dimensiones de diversidad incluidas."
+    },
+    {
+      "id": "revision-0182",
+      "questionIds": [
+        "q-psoe23-g0623-a",
+        "q-bng23-g0022-01"
+      ],
+      "relation": "related",
+      "rationale": "Universalidad y gratuidad, así como los tramos de edad, no son equivalentes."
+    },
+    {
+      "id": "revision-0183",
+      "questionIds": [
+        "q-eh-bildu23-g0004-04",
+        "q-eh-bildu23-g0023-06"
+      ],
+      "relation": "distinct",
+      "rationale": "Políticas pasivas de empleo y gestión portuaria y aeroportuaria son competencias diferentes."
+    },
+    {
+      "id": "revision-0184",
+      "questionIds": [
+        "q-psoe23-g0836-c",
+        "q-vox23-g0102-d"
+      ],
+      "relation": "equivalent",
+      "rationale": "Recuperar y asegurar existencia comparten aquí el objetivo de una cartera sanitaria común nacional, sin añadir composición o financiación."
+    },
+    {
+      "id": "revision-0185",
+      "questionIds": [
+        "q-pacma23-g0058-04",
+        "q-registro-6359-general-g0033-01"
+      ],
+      "relation": "related",
+      "rationale": "Aumentar plazas para mayores y enfermos crónicos no equivale a garantizar oferta para mayores sin concretar capacidad."
+    },
+    {
+      "id": "revision-0186",
+      "questionIds": [
+        "q-registro-6359-general-g0032-06",
+        "q-registro-6359-general-g0032-07"
+      ],
+      "relation": "distinct",
+      "rationale": "Atención dental y fisioterapia son prestaciones diferentes."
+    },
+    {
+      "id": "revision-0187",
+      "questionIds": [
+        "q-erc23-g0023-05",
+        "q-junts23-g0046-02"
+      ],
+      "relation": "distinct",
+      "rationale": "Gastos deportivos y veterinarios son bases deducibles diferentes."
+    },
+    {
+      "id": "revision-0188",
+      "questionIds": [
+        "q-erc23-g0007-02",
+        "q-erc23-g0007-04"
+      ],
+      "relation": "distinct",
+      "rationale": "Tráfico y salvamento marítimo son competencias diferentes."
+    },
+    {
+      "id": "revision-0189",
+      "questionIds": [
+        "q-erc23-g0040-05",
+        "q-pacma23-g0020-01"
+      ],
+      "relation": "related",
+      "rationale": "Los tipos veterinarios del 10 y del 4 por ciento son alternativas fiscales diferentes."
+    }
+  ],
+  "selectionFamilies": [
+    {
+      "id": "familia-jornada-semanal",
+      "title": "Duración de la jornada semanal",
+      "questionIds": [
+        "q-eh-bildu23-g0002-04",
+        "q-bng23-g0008-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "32 y 35 horas conservan posiciones separadas. En una encuesta breve se propone preguntar una variante; no deducir la respuesta a la otra."
+    },
+    {
+      "id": "familia-cuota-autonomos-bajo-smi",
+      "title": "Cuota de autónomos bajo el SMI",
+      "questionIds": [
+        "q-vox23-g0036-a",
+        "q-junts23-g0016-02",
+        "q-registro-6359-general-g0004-01",
+        "q-erc23-g0034-06"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Distinguir exención, reducción y actividad no habitual. Elegir una formulación no transfiere las posiciones de las demás."
+    },
+    {
+      "id": "familia-prorroga-nuclear",
+      "title": "Prórroga de centrales nucleares",
+      "questionIds": [
+        "q-pp23-114-a",
+        "q-vox23-g0245-b"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Conservar el aval del Consejo de Seguridad Nuclear; no convertir respaldo genérico en respaldo condicionado ni al contrario."
+    },
+    {
+      "id": "familia-iva-veterinario",
+      "title": "Tipo del IVA veterinario",
+      "questionIds": [
+        "q-erc23-g0040-05",
+        "q-pacma23-g0020-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Los tipos del 10 y del 4 por ciento son alternativas distintas. Seleccionar una no equipara sus códigos partidistas."
+    },
+    {
+      "id": "familia-horizonte-climatico",
+      "title": "Año de neutralidad climática",
+      "questionIds": [
+        "q-eh-bildu23-g0015-01",
+        "q-pnv23-g0020-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "2040 y 2050 mantienen sus compromisos diferenciados. No preguntar ambos umbrales automáticamente en una sesión breve."
+    },
+    {
+      "id": "familia-calculo-pensiones",
+      "title": "Periodo de cálculo de pensiones",
+      "questionIds": [
+        "q-erc23-g0036-02",
+        "q-registro-6359-general-g0036-04"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Quince mejores años y mejores años sin cifra requieren contextos distintos; no completar la cifra ausente."
+    },
+    {
+      "id": "familia-edad-jubilacion",
+      "title": "Edad ordinaria de jubilación",
+      "questionIds": [
+        "q-erc23-g0036-01",
+        "q-bng23-g0009-03"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "La ausencia de mínimo de cotización es una condición relevante incluso cuando ambas formulaciones dicen 65 años."
+    },
+    {
+      "id": "familia-alcance-aforamientos",
+      "title": "Alcance de los aforamientos",
+      "questionIds": [
+        "q-pnv23-g0014-06",
+        "q-pacma23-g0054-01",
+        "q-psoe23-g1020-e"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Cargos políticos, empleados públicos y hechos ajenos al cargo delimitan protecciones diferentes. No inferir una posición general de una restricción parcial."
+    },
+    {
+      "id": "familia-cobertura-bucodental",
+      "title": "Alcance de la cobertura bucodental",
+      "questionIds": [
+        "q-pacma23-g0039-01",
+        "q-registro-6359-general-g0032-06"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "La cobertura básica no es gratuidad de cualquier tratamiento. Revisar y elegir el alcance de la pregunta."
+    },
+    {
+      "id": "familia-parque-alquiler-publico",
+      "title": "Tamaño del parque público de alquiler",
+      "questionIds": [
+        "q-pnv23-g0046-01",
+        "q-psoe23-pH222-a"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Aumentar el parque y alcanzar el 20 por ciento no son equivalentes. Una variante breve no acredita aceptación del umbral de la otra."
+    },
+    {
+      "id": "familia-indemnizacion-despido",
+      "title": "Indemnización por despido",
+      "questionIds": [
+        "q-eh-bildu23-g0002-01",
+        "q-bng23-g0007-01",
+        "q-erc23-g0033-01"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Aclarar primero si se trata de despido improcedente y conservar mínimo, cuantía y tope de mensualidades. El enunciado genérico no queda aprobado por estar en esta familia."
+    },
+    {
+      "id": "familia-barreras-electorales",
+      "title": "Umbrales de representación electoral",
+      "questionIds": [
+        "q-bng23-g0019-05",
+        "q-pacma23-g0055-06"
+      ],
+      "status": "proposal-only",
+      "maxPerShortSessionProposed": 1,
+      "rationale": "Una barrera del 5 por ciento y cualquier umbral mínimo son alcances distintos. No presentar la selección de una como respuesta a ambas."
+    }
+  ]
+}
