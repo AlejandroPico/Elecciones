@@ -69,7 +69,7 @@ describe("coordenadas documentales", () => {
       ),
     ).toBeNull();
   });
-  it("conserva veintiún partidos y distingue las fuentes y sus ediciones", () => {
+  it("conserva veintidós organizaciones y distingue las fuentes y sus ediciones", () => {
     expect(corpus.parties.map((p) => p.id)).toEqual([
       "pp",
       "psoe",
@@ -92,11 +92,12 @@ describe("coordenadas documentales", () => {
       "registro-7039",
       "coalicion-d21-2026",
       "cc",
+      "sumar-coalicion-2023",
     ]);
     expect(corpus.sourceElection).toBeNull();
     expect(corpus.sourceContext).toBe("mixed-editions");
     expect(corpus.sources.filter((s) => s.kind === "historical")).toHaveLength(
-      15,
+      16,
     );
     const podemos = corpus.sources.find((s) => s.organization === "podemos")!;
     expect(podemos.electionDate).toBe("2019-11-10");
@@ -199,12 +200,30 @@ describe("coordenadas documentales", () => {
     expect(
       corpus.sources.filter((s) => s.organization === "coalicion-d21-2026"),
     ).toHaveLength(2);
-    expect(corpus.sources).toHaveLength(22);
+    expect(corpus.sources).toHaveLength(23);
     for (const question of questions) {
       expect(question.positions["registro-7039"].value).toBeNull();
       expect(question.positions["registro-7039"].evidence).toEqual([]);
     }
     for (const map of definitions)
       expect(partyPoint(map, "registro-7039").drawable).toBe(false);
+  });
+  it("identifica el programa común de Sumar sin atribuirlo al Frente Amplio ni a cada integrante", () => {
+    const source = corpus.sources.find(
+      (s) => s.organization === "sumar-coalicion-2023",
+    )!;
+    expect(source.electionDate).toBe("2023-07-23");
+    expect(source.pages).toBe(182);
+    expect(corpus.parties.some((p) => p.id === "sumar")).toBe(false);
+    expect(
+      corpus.parties.some((p) => p.id === "coalicion-frente-amplio-2026"),
+    ).toBe(false);
+    const tax = questions.find((q) => q.id === "q-pp23-042-a")!;
+    expect(tax.positions["sumar-coalicion-2023"].value).toBe(2);
+    expect(
+      tax.positions["sumar-coalicion-2023"].evidence.every(
+        (e) => e.documentId === source.id,
+      ),
+    ).toBe(true);
   });
 });

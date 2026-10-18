@@ -22,7 +22,23 @@ export function documentUrl(document: ElectionDocument) {
 }
 export function documentsFor(organization: string) {
   return electoralDocuments.filter(
-    (document) => document.organization === organization,
+    (document) =>
+      document.organization === organization ||
+      ("referencedBy" in document &&
+        document.referencedBy?.includes(organization)),
+  );
+}
+/** Featured members remain linked to their coalition, not invented as separate ballots. */
+export function campaignOrganizationIds() {
+  return new Set(
+    electionResearch.entries
+      .filter((entry) => entry.status !== "not-running")
+      .flatMap((entry) => [
+        entry.organization,
+        ...(entry.status !== "agreement" && "members" in entry
+          ? (entry.members ?? [])
+          : []),
+      ]),
   );
 }
 export function participationFor(organization: string) {

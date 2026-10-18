@@ -24,7 +24,8 @@
     "registro-7039-2023-05-28",
     "coalicion-d21-2026-espana-limpia",
     "cc-2023-07-23",
-    "coalicion-d21-2026-manifiesto"
+    "coalicion-d21-2026-manifiesto",
+    "sumar-coalicion-2023-2023-07-23"
   ],
   "surveyDesign": {
     "categoriesAreSurveySections": true,
@@ -41,11 +42,11 @@
     "note": "La longitud, los cupos y el algoritmo se decidirán en una fase posterior. El banco clasificado no es el test completo que responde una persona."
   },
   "liveEligible": false,
-  "questions": 5418,
+  "questions": 5861,
   "concepts": 109,
   "categories": 40,
-  "proposalGroups": 2075,
-  "sourceUnits": 3938,
+  "proposalGroups": 2183,
+  "sourceUnits": 4120,
   "parties": {
     "pp": {
       "primarySourceUnits": 365,
@@ -53,7 +54,7 @@
       "supports": 637,
       "opposes": 5,
       "ambiguousEvidence": 36,
-      "unlinkedDecision": 4740
+      "unlinkedDecision": 5183
     },
     "psoe": {
       "primarySourceUnits": 1191,
@@ -61,7 +62,7 @@
       "supports": 943,
       "opposes": 3,
       "ambiguousEvidence": 18,
-      "unlinkedDecision": 4454
+      "unlinkedDecision": 4897
     },
     "vox": {
       "primarySourceUnits": 381,
@@ -69,7 +70,7 @@
       "supports": 479,
       "opposes": 30,
       "ambiguousEvidence": 12,
-      "unlinkedDecision": 4897
+      "unlinkedDecision": 5340
     },
     "erc": {
       "primarySourceUnits": 132,
@@ -77,7 +78,7 @@
       "supports": 397,
       "opposes": 2,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5019
+      "unlinkedDecision": 5462
     },
     "junts": {
       "primarySourceUnits": 151,
@@ -85,7 +86,7 @@
       "supports": 353,
       "opposes": 1,
       "ambiguousEvidence": 1,
-      "unlinkedDecision": 5063
+      "unlinkedDecision": 5506
     },
     "eh-bildu": {
       "primarySourceUnits": 16,
@@ -93,7 +94,7 @@
       "supports": 94,
       "opposes": 2,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5322
+      "unlinkedDecision": 5765
     },
     "pnv": {
       "primarySourceUnits": 52,
@@ -101,7 +102,7 @@
       "supports": 225,
       "opposes": 5,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 5185
+      "unlinkedDecision": 5628
     },
     "bng": {
       "primarySourceUnits": 68,
@@ -109,7 +110,7 @@
       "supports": 273,
       "opposes": 6,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5139
+      "unlinkedDecision": 5582
     },
     "pacma": {
       "primarySourceUnits": 76,
@@ -117,7 +118,7 @@
       "supports": 250,
       "opposes": 1,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5167
+      "unlinkedDecision": 5610
     },
     "registro-4086": {
       "primarySourceUnits": 1,
@@ -125,7 +126,7 @@
       "supports": 3,
       "opposes": 0,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5415
+      "unlinkedDecision": 5858
     },
     "registro-6359": {
       "primarySourceUnits": 64,
@@ -133,7 +134,7 @@
       "supports": 169,
       "opposes": 3,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 5243
+      "unlinkedDecision": 5686
     },
     "registro-6040": {
       "primarySourceUnits": 24,
@@ -141,7 +142,7 @@
       "supports": 88,
       "opposes": 2,
       "ambiguousEvidence": 2,
-      "unlinkedDecision": 5326
+      "unlinkedDecision": 5769
     },
     "registro-7400": {
       "primarySourceUnits": 28,
@@ -149,7 +150,7 @@
       "supports": 111,
       "opposes": 1,
       "ambiguousEvidence": 10,
-      "unlinkedDecision": 5296
+      "unlinkedDecision": 5739
     },
     "registro-7458": {
       "primarySourceUnits": 22,
@@ -157,7 +158,7 @@
       "supports": 160,
       "opposes": 0,
       "ambiguousEvidence": 1,
-      "unlinkedDecision": 5257
+      "unlinkedDecision": 5700
     },
     "podemos": {
       "primarySourceUnits": 289,
@@ -165,7 +166,7 @@
       "supports": 603,
       "opposes": 1,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 4811
+      "unlinkedDecision": 5254
     },
     "registro-6972": {
       "primarySourceUnits": 73,
@@ -173,7 +174,7 @@
       "supports": 90,
       "opposes": 0,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5328
+      "unlinkedDecision": 5771
     },
     "registro-6779": {
       "primarySourceUnits": 29,
@@ -181,7 +182,7 @@
       "supports": 116,
       "opposes": 1,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5301
+      "unlinkedDecision": 5744
     },
     "registro-6620": {
       "primarySourceUnits": 85,
@@ -189,7 +190,7 @@
       "supports": 283,
       "opposes": 1,
       "ambiguousEvidence": 5,
-      "unlinkedDecision": 5129
+      "unlinkedDecision": 5572
     },
     "registro-7039": {
       "primarySourceUnits": 811,
@@ -197,7 +198,7 @@
       "supports": 153,
       "opposes": 1,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 5261
+      "unlinkedDecision": 5704
     },
     "coalicion-d21-2026": {
       "primarySourceUnits": 14,
@@ -205,7 +206,7 @@
       "supports": 51,
       "opposes": 0,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5367
+      "unlinkedDecision": 5810
     },
     "cc": {
       "primarySourceUnits": 52,
@@ -213,7 +214,15 @@
       "supports": 84,
       "opposes": 0,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 5334
+      "unlinkedDecision": 5777
+    },
+    "sumar-coalicion-2023": {
+      "primarySourceUnits": 182,
+      "proposalGroups": 108,
+      "supports": 451,
+      "opposes": 1,
+      "ambiguousEvidence": 4,
+      "unlinkedDecision": 5405
     }
   },
   "limits": [
@@ -224,7 +233,7 @@
     "ERC, Junts, EH Bildu, PNV y BNG se inventarían por páginas físicas, no como recuento de promesas oficiales.",
     "ERC distingue horizonte político y actuación en Cortes; se priorizan sus apartados operativos c). EH Bildu es un compromiso breve, no un programa de extensión comparable.",
     "La fusión exacta conserva identidades y referencias. Los conceptos agrupan asuntos, pero las decisiones con cifras o condiciones diferentes permanecen separadas.",
-    "Catorce antecedentes de julio de 2023 (incluido el programa de lucha del PCTE), un programa nacional de Podemos de noviembre de 2019, cuatro documentos políticos generales (dos de democracia21), un artículo permanente y dos antecedentes autonómicos: SALF Castilla y León 2026 y Drago Canarias 2023. Veintiún partidos y veintidós documentos analizados; no son programas nacionales de una misma convocatoria.",
+    "Quince antecedentes de julio de 2023 (incluidos el programa de lucha del PCTE y el programa común de la coalición Sumar), Podemos noviembre de 2019, cuatro documentos políticos generales, un artículo permanente y dos programas autonómicos: SALF Castilla y León 2026 y Drago Canarias 2023. Veintidós organizaciones y veintitrés documentos analizados; no son programas nacionales de una misma convocatoria.",
     "PACMA y Frente Obrero se inventarían por páginas físicas; Escaños en Blanco por su artículo único en la transcripción HTML conservada, sin paginación PDF ficticia.",
     "Escaños en Blanco solo tiene decisiones institucionales documentadas. Su ausencia de programa sectorial no representa neutralidad, apoyo ni oposición en los demás temas.",
     "El número de formulaciones del banco no es la duración del futuro cuestionario; la reducción y selección equilibrada quedan pendientes.",
@@ -243,142 +252,145 @@
     "Manifiesto conjunto de 26 de junio de 2023 con 52 compromisos, firmado por Coalición Canaria y otras fuerzas. Se atribuye a CC como firmante, no como autor exclusivo ni automáticamente a cada organización aliada en otras elecciones. Antecedente para generales 2023, no programa de 2026.",
     "El lote regional se analiza mediante agrupaciones condensadas de propuestas. Inventariar medidas, páginas o líneas no certifica haber desdoblado cada subcláusula ni hace comparables los recuentos de promesas. Los pasajes no atomizados permanecen consultables en el original y sin puntuación.",
     "Adelante Andalucía: jubilación a 62 años en el resumen y a 64 en el desarrollo; conciertos educativos con excepción sociocomunitaria en un apartado y supresión total en otro. Ambas discrepancias quedan sin puntuación. El límite de alquiler sobre renta media del distrito no se equipara a límites sobre ingresos de cada hogar.",
-    "Democracia21: España Limpia conserva el aforamiento penal funcional del Gobierno; no se interpreta Todos fuera como abolición absoluta. La suspensión salarial presupuestaria se refiere a no presentar presupuestos, no a que el Parlamento no los apruebe."
+    "Democracia21: España Limpia conserva el aforamiento penal funcional del Gobierno; no se interpreta Todos fuera como abolición absoluta. La suspensión salarial presupuestaria se refiere a no presentar presupuestos, no a que el Parlamento no los apruebe.",
+    "Programa común de la coalición electoral Sumar para las generales del 23 de julio de 2023, con 182 páginas físicas. La copia archivada coincide byte a byte con la enlazada por Movimiento Sumar en su página electoral. Se analiza como antecedente de la coalición de 2023; no se atribuye automáticamente como programa propio a cada integrante, a Movimiento Sumar por separado ni al Frente Amplio de 2026. El acceso desde la ficha de Movimiento Sumar identifica esa procedencia histórica. Análisis condensado de decisiones por temas, no atomización exhaustiva de cada subcláusula. El plazo del bono hipotecario difiere entre páginas 8 y 77 (dos/diez años): se conserva indeterminado.",
+    "Sumar: el análisis se organiza en agrupaciones condensadas por temas, con 182 anclas de página física. No hay 182 promesas ni se certifica atomización exhaustiva. Las numeraciones reinician por apartados; no se presentan como una numeración global de medidas. Las propuestas no desarrolladas en este inventario se consultan en el original y no adquieren valor por silencio.",
+    "Sumar: se distingue estudiar una circunscripción exterior de aprobarla, consultar el pacto territorial de apoyar independencia, mantener gravámenes hasta reformar sociedades de declararlos permanentes y el diálogo hacia 32 horas de su implantación inmediata. Los objetivos de 2023 no son hechos logrados en 2026."
   ],
-  "questionsWithMultiplePartiesLinked": 242,
-  "questionsWithThreePartiesLinked": 46,
+  "questionsWithMultiplePartiesLinked": 248,
+  "questionsWithThreePartiesLinked": 50,
   "questionsWithAllPartiesLinked": 0,
   "byCategory": [
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 175,
+      "questions": 189,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 340,
+      "questions": 380,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 80,
+      "questions": 86,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 87,
+      "questions": 94,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 237,
+      "questions": 253,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 141,
+      "questions": 149,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 240,
+      "questions": 252,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 135,
+      "questions": 145,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 64,
+      "questions": 68,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 233,
+      "questions": 245,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 186,
+      "questions": 207,
       "concepts": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "questions": 56,
+      "questions": 60,
       "concepts": 1
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 98,
+      "questions": 105,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 204,
+      "questions": 226,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 357,
+      "questions": 380,
       "concepts": 9
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 384,
+      "questions": 412,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 236,
+      "questions": 258,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 75,
+      "questions": 85,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 75,
+      "questions": 80,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 102,
+      "questions": 107,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 60,
+      "questions": 66,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 150,
+      "questions": 160,
       "concepts": 3
     },
     {
@@ -390,31 +402,31 @@
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "questions": 44,
+      "questions": 50,
       "concepts": 2
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 191,
+      "questions": 203,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 98,
+      "questions": 103,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 133,
+      "questions": 146,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 251,
+      "questions": 269,
       "concepts": 5
     },
     {
@@ -426,72 +438,72 @@
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 162,
+      "questions": 175,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 81,
+      "questions": 92,
       "concepts": 1
     },
     {
       "id": "iberoamerica",
       "title": "Relaciones iberoamericanas",
-      "questions": 20,
+      "questions": 22,
       "concepts": 1
     },
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 85,
+      "questions": 99,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 60,
+      "questions": 64,
       "concepts": 1
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "questions": 53,
+      "questions": 59,
       "concepts": 1
     },
     {
       "id": "exterior-ciudadania",
       "title": "Españoles en el exterior",
-      "questions": 27,
+      "questions": 31,
       "concepts": 1
     },
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 183,
+      "questions": 193,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 59,
+      "questions": 65,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 67,
+      "questions": 86,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 119,
+      "questions": 127,
       "concepts": 1
     }
   ],
   "groupingReview": {
-    "bankQuestions": 5418,
+    "bankQuestions": 5861,
     "reviewedPairs": 189,
     "questionsInReviewedPairs": 280,
     "relations": {
@@ -503,9 +515,9 @@
     "proposedEquivalentGroups": 16,
     "questionsInEquivalentGroups": 32,
     "potentialReduction": 16,
-    "proposedUnits": 5402,
-    "originalQuestionsWithTwoOrMoreParties": 240,
-    "proposedUnitsWithTwoOrMoreParties": 253,
+    "proposedUnits": 5845,
+    "originalQuestionsWithTwoOrMoreParties": 245,
+    "proposedUnitsWithTwoOrMoreParties": 258,
     "commonToAllParties": 0,
     "maxDocumentedPartiesInOneUnit": 6,
     "conflictingEquivalentGroups": 0,

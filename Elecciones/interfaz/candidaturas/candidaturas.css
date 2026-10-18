@@ -127,6 +127,30 @@
   border-top: 1px solid var(--line);
   font-size: 0.72rem;
 }
+.election-card-members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  margin: 0 0 16px;
+}
+.election-card-members button {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--muted);
+  padding: 3px 0;
+  font: inherit;
+  font-size: 0.67rem;
+}
+.election-card-members img {
+  width: 32px;
+  height: 24px;
+  object-fit: contain;
+}
+.election-card-members button:hover,
+.election-card-members button:focus-visible {
+  color: var(--accent);
+}
 .election-card-links button {
   padding: 0;
   color: var(--muted);

@@ -7,6 +7,7 @@ import {
   electoralDocuments,
   matchesScope,
   participationFor,
+  campaignOrganizationIds,
 } from "./catalogo";
 
 it("resuelve las entidades y las marcas de los anuncios sin convertirlos en listas proclamadas", () => {
@@ -30,6 +31,24 @@ it("resuelve las entidades y las marcas de los anuncios sin convertirlos en list
     electionResearch.entries.find((entry) => entry.id === "escanos-en-blanco")
       ?.status,
   ).toBe("preparing");
+});
+
+it("sitúa a Movimiento Sumar dentro del Frente Amplio y conserva la identidad del antecedente", () => {
+  expect(campaignOrganizationIds().has("sumar")).toBe(true);
+  expect(participationFor("sumar").some((e) => e.id === "frente-amplio")).toBe(
+    true,
+  );
+  expect(electionResearch.entries.some((e) => e.organization === "sumar")).toBe(
+    false,
+  );
+  const document = documentsFor("sumar")[0];
+  expect(document.organization).toBe("sumar-coalicion-2023");
+  expect(document.electionDate).toBe("2023-07-23");
+  expect(document.analysis).toBe("editorial-draft");
+  expect(documentUrl(document)).toBe(
+    documentUrl(documentsFor("sumar-coalicion-2023")[0]),
+  );
+  expect(documentsFor("coalicion-frente-amplio-2026")).toEqual([]);
 });
 
 it("filtra cámara y territorio sin certificar papeletas de ámbito desconocido", () => {

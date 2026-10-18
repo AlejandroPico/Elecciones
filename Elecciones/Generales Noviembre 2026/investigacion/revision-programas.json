@@ -173,5 +173,19 @@
     "status": "blocked",
     "source": "https://www.voxespana.es/programa/programa-electoral-vox",
     "note": "Página oficial identificada por el buscador como programa de 2023; descarga directa 403/404. Copia de prensa del 23J conservada; no es un programa del 29N."
+  },
+  {
+    "organization": "sumar",
+    "checkedAt": "2026-10-18",
+    "status": "consulted",
+    "source": "https://movimientosumar.es/programa-electoral-23j/",
+    "note": "El PDF común de la coalición Sumar 2023, 182 páginas, coincide con el ya archivado. Análisis condensado incorporado al cuaderno; accesible también por referencia explícita desde Movimiento Sumar. No se localizó en las páginas consultadas un programa específico de generales 2026. La vinculación al Frente Amplio se documenta como anuncio, no como transferencia de las propuestas de 2023."
+  },
+  {
+    "organization": "sumar-coalicion-2023",
+    "checkedAt": "2026-10-18",
+    "status": "consulted",
+    "source": "https://movimientosumar.es/programa-electoral-23j/",
+    "note": "El PDF común de la coalición Sumar 2023, 182 páginas, coincide con el ya archivado. Análisis condensado incorporado al cuaderno; accesible también por referencia explícita desde Movimiento Sumar. No se localizó en las páginas consultadas un programa específico de generales 2026. La vinculación al Frente Amplio se documenta como anuncio, no como transferencia de las propuestas de 2023."
   }
 ]

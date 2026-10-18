@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "reviewedAt": "2026-10-18",
   "status": "proposed-wording-review",
   "liveEligible": false,
-  "bankVersion": "0.7.0",
-  "bankFingerprint": "f7295dd54fe9e735a16f40ed223d25320154696eeadd879043677b5a3f6309e4",
+  "bankVersion": "0.8.0",
+  "bankFingerprint": "d810c6163780ab493fcc22130ebabfa47b93f80299f4078ccf84206d16299f9a",
   "scope": {
-    "questionCount": 5418,
+    "questionCount": 5861,
     "candidatePairsReviewed": 189,
     "method": "Lectura de pares recuperados por coincidencia léxica dentro de cada categoría. El parecido sirve para localizar, no para decidir equivalencia. Cada relación conserva un criterio editorial explícito.",
     "limits": [
@@ -17,7 +17,8 @@
       "Las preguntas y posiciones originales mantienen sus identificadores y no se reescriben ni trasladan.",
       "La ampliación PCTE, Iustitia Europa y SALF conserva los 189 pares y las doce familias previas tras verificar sus enunciados. Las nuevas formulaciones no están incluidas en esa revisión semántica; las de SALF son autonómicas.",
       "La incorporación de Podemos 2019 conserva los 189 pares y las doce familias previas tras verificar los enunciados originales. Las nuevas formulaciones no quedan incluidas en esa revisión semántica ni aprobadas para producción.",
-      "El lote Soria, Teruel, Adelante Andalucía, Drago Canarias, democracia21 y CC preserva las formulaciones revisadas anteriormente. Sus nuevas formulaciones requieren revisión semántica adicional y no quedan aprobadas para producción."
+      "El lote Soria, Teruel, Adelante Andalucía, Drago Canarias, democracia21 y CC preserva las formulaciones revisadas anteriormente. Sus nuevas formulaciones requieren revisión semántica adicional y no quedan aprobadas para producción.",
+      "Sumar 2023 conserva las preguntas y posiciones previas y revalida sus 189 pares sin cambiar enunciados. Las nuevas formulaciones requieren una revisión semántica posterior y no se aprueban para producción."
     ]
   },
   "selectionDesign": {

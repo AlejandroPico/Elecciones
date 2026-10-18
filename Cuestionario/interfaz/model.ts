@@ -58,6 +58,7 @@ export const colors: Record<string, string> = {
   "registro-7039": "#69a476",
   "coalicion-d21-2026": "#f3c72e",
   cc: "#e1b74a",
+  "sumar-coalicion-2023": "#ec4070",
 };
 
 export function documentEdition(source: (typeof raw.sources)[number]) {

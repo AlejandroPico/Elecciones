@@ -13,7 +13,7 @@ import {
 } from "./orden";
 import { activityLabels } from "../../Políticos/interfaz/actividad";
 import ElectionDirectory from "../../Elecciones/interfaz/candidaturas/Directory";
-import { electionResearch } from "../../Elecciones/interfaz/candidaturas/catalogo";
+import { campaignOrganizationIds } from "../../Elecciones/interfaz/candidaturas/catalogo";
 function Tile({
   party,
   openParty,
@@ -60,12 +60,7 @@ export default function Programs({
   const confirmedIds = new Set(
     (candidacies as { organization: string }[]).map((c) => c.organization),
   );
-  const featuredIds = new Set([
-    ...confirmedIds,
-    ...electionResearch.entries
-      .filter((entry) => entry.status !== "not-running")
-      .map((entry) => entry.organization),
-  ]);
+  const featuredIds = new Set([...confirmedIds, ...campaignOrganizationIds()]);
   const provinceOf = (p: Organization) =>
     p.registration?.locality.match(/\(([^()]+)\)$/)?.[1];
   const filtered = organizations.filter(

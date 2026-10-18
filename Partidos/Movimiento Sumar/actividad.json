@@ -1,7 +1,7 @@
 {
   "state": "active",
-  "reason": "Vinculación documentada con representantes o dirigentes en actividad reciente. No equivale a una candidatura proclamada para las próximas elecciones.",
-  "checkedAt": "2026-10-08",
+  "reason": "Actividad política actual de Movimiento Sumar y vinculación anunciada al Frente Amplio. La ficha conserva la distinción entre organización, coalición, anuncios y listas proclamadas.",
+  "checkedAt": "2026-10-18",
   "sources": [
     {
       "label": "Pablo Bustinduy · Wikipedia",
@@ -16,6 +16,14 @@
     {
       "label": "La Moncloa · Biografía institucional",
       "url": "https://www.lamoncloa.gob.es/gobierno/Paginas/biografias-xv-legislatura/ministra-yolanda-diaz.aspx"
+    },
+    {
+      "label": "EFE · Movimiento Sumar entre los integrantes anunciados del Frente Amplio",
+      "url": "https://efe.com/espana/2026-10-12/frente-amplio-ada-colau-elecciones-generales/"
+    },
+    {
+      "label": "Movimiento Sumar · página oficial",
+      "url": "https://movimientosumar.es/"
     }
   ]
 }

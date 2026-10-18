@@ -35,7 +35,16 @@ export default function ElectionDirectory({
   const filtered = entries.filter(
     (entry) =>
       normalizeParty(
-        `${entry.name} ${organizations.find((party) => party.id === entry.organization)?.fullName ?? ""} ${entry.candidates.map((candidate) => candidate.name).join(" ")}`,
+        `${entry.name} ${organizations.find((party) => party.id === entry.organization)?.fullName ?? ""} ${entry.candidates.map((candidate) => candidate.name).join(" ")} ${
+          "members" in entry
+            ? (entry.members ?? [])
+                .map((id) => {
+                  const member = organizations.find((party) => party.id === id);
+                  return `${id} ${member?.name ?? ""} ${member?.fullName ?? ""} ${member?.aliases?.join(" ") ?? ""}`;
+                })
+                .join(" ")
+            : ""
+        }`,
       ).includes(normalizeParty(query).trim()) &&
       matchesScope(entry, chamber, province) &&
       (showAgreements || entry.status !== "agreement"),
@@ -102,6 +111,12 @@ export default function ElectionDirectory({
             (organization) => organization.id === entry.organization,
           );
           if (!party) return null;
+          const members =
+            "members" in entry
+              ? organizations.filter((organization) =>
+                  entry.members?.includes(organization.id),
+                )
+              : [];
           const documents = documentsFor(entry.organization);
           const general = documents.find(
             (document) => document.kind !== "historical",
@@ -147,6 +162,23 @@ export default function ElectionDirectory({
                   )
                   .join(" / ")}
               </p>
+              {!!members.length && (
+                <div
+                  className="election-card-members"
+                  aria-label={`Organizaciones vinculadas a ${entry.name}`}
+                >
+                  {members.map((member) => (
+                    <button
+                      key={member.id}
+                      onClick={() => openParty(member.id)}
+                      aria-label={`Ficha de ${member.fullName}`}
+                    >
+                      <PartyLogo party={member} />
+                      <span>{member.name}</span>
+                    </button>
+                  ))}
+                </div>
+              )}
               <div className="election-card-links">
                 <button onClick={() => openParty(party.id)}>
                   Ficha y fuentes

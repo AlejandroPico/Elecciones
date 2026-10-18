@@ -122,6 +122,10 @@
         {
           "label": "Anuncio y alcance",
           "url": "https://frenteamplio.info/"
+        },
+        {
+          "label": "EFE · Movimiento Sumar entre los integrantes anunciados del Frente Amplio",
+          "url": "https://efe.com/espana/2026-10-12/frente-amplio-ada-colau-elecciones-generales/"
         }
       ],
       "candidates": [
@@ -148,7 +152,8 @@
         "sumar",
         "iu"
       ],
-      "note": "Coalición distinta de Podemos y ERC. Las denominaciones y listas territoriales requieren cotejo con la proclamación oficial."
+      "note": "Coalición distinta de Podemos y ERC. Las denominaciones y listas territoriales requieren cotejo con la proclamación oficial.",
+      "membersComplete": false
     },
     {
       "id": "podemos",

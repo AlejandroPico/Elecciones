@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "sourceElection": null,
   "sourceContext": "mixed-editions",
   "reviewedAt": "2026-10-18",
@@ -87,14 +87,18 @@
     {
       "id": "cc",
       "name": "Coalición Canaria"
+    },
+    {
+      "id": "sumar-coalicion-2023",
+      "name": "Sumar · programa 2023"
     }
   ],
   "counts": {
-    "questions": 5418,
+    "questions": 5861,
     "concepts": 109,
     "categories": 40,
-    "proposalGroups": 2075,
-    "sourceUnits": 3938
+    "proposalGroups": 2183,
+    "sourceUnits": 4120
   },
   "sources": [
     {
@@ -448,6 +452,22 @@
       "electionDate": null,
       "territory": null,
       "electionScope": null
+    },
+    {
+      "id": "sumar-coalicion-2023-2023-07-23",
+      "organization": "sumar-coalicion-2023",
+      "title": "Un programa por ti · coalición Sumar · generales 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/sumar-coalicion-2023/2026-10-17-programa.pdf",
+      "source": "https://movimientosumar.es/transparencia/wp-content/uploads/sites/6/2023/12/un-programa-para-ti.pdf",
+      "sourceKind": "official",
+      "sha256": "d5ccdac0d20f1b93a5f703f180d086041bd988835072dd5cb5d1378bf0195820",
+      "pages": 182,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     }
   ],
   "questions": [
@@ -621,6 +641,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026. Reserva: Se vincula el principio de continuidad al indicador existente sin borrar el umbral del 4 % documentado en otra formulación.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0098",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                16
+              ],
+              "sourceUnitIds": [
+                "sumar23-P016"
+              ]
+            }
+          ]
         }
       }
     },
@@ -744,6 +780,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -892,6 +933,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1027,6 +1073,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -1189,6 +1240,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0105",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                154
+              ],
+              "sourceUnitIds": [
+                "sumar23-P154"
+              ]
+            }
+          ]
         }
       }
     },
@@ -1323,6 +1390,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -1461,6 +1533,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -1601,6 +1678,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1739,6 +1821,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -1890,6 +1977,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2015,6 +2107,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2137,6 +2234,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -2262,6 +2364,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026. Reserva: Se prorrogan con una condición temporal; no se atribuye permanencia incondicional.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0099",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                16
+              ],
+              "sourceUnitIds": [
+                "sumar23-P016"
+              ]
+            }
+          ]
         }
       }
     },
@@ -2384,6 +2502,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -2508,6 +2631,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2630,6 +2758,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -2777,6 +2910,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2923,6 +3061,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0107",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                139
+              ],
+              "sourceUnitIds": [
+                "sumar23-P139"
+              ]
+            }
+          ]
         }
       }
     },
@@ -3081,6 +3235,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0104",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                77
+              ],
+              "sourceUnitIds": [
+                "sumar23-P077"
+              ]
+            }
+          ]
         }
       }
     },
@@ -3265,6 +3435,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -3453,6 +3628,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3589,6 +3769,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3714,6 +3899,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3836,6 +4026,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -3980,6 +4175,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4102,6 +4302,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -4277,6 +4482,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4401,6 +4611,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -4540,6 +4755,24 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0100",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "sumar23-P016",
+                "sumar23-P017"
+              ]
+            }
+          ]
         }
       }
     },
@@ -4702,6 +4935,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4851,6 +5089,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4988,6 +5231,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -5133,6 +5381,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5255,6 +5508,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -5387,6 +5645,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5517,6 +5780,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -5649,6 +5917,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5780,6 +6053,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0102",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                46
+              ],
+              "sourceUnitIds": [
+                "sumar23-P046"
+              ]
+            }
+          ]
         }
       }
     },
@@ -5911,6 +6200,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6035,6 +6329,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -6167,6 +6466,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6297,6 +6601,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -6434,6 +6743,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6559,6 +6873,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6681,6 +7000,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -6807,6 +7131,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6931,6 +7260,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -7070,6 +7404,24 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0101",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                46,
+                47
+              ],
+              "sourceUnitIds": [
+                "sumar23-P046",
+                "sumar23-P047"
+              ]
+            }
+          ]
         }
       }
     },
@@ -7195,6 +7547,22 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026. Reserva: El indicador general no borra las cifras de inversión, plazos ni excepciones conservadas por separado.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0103",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                76
+              ],
+              "sourceUnitIds": [
+                "sumar23-P076"
+              ]
+            }
+          ]
         }
       }
     },
@@ -7317,6 +7685,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -7443,6 +7816,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -7567,6 +7945,11 @@
         "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
           "evidence": []
         }
       }
@@ -7706,6 +8089,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -7835,6 +8223,26 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": 2,
+          "basis": "El programa común respalda esta decisión. Antecedente nacional de la coalición Sumar, 23J 2023; no se transfiere a sus integrantes ni al Frente Amplio de 2026.",
+          "evidence": [
+            {
+              "proposalId": "sumar-coalicion-2023-g0106",
+              "documentId": "sumar-coalicion-2023-2023-07-23",
+              "pdfPages": [
+                154,
+                155,
+                157
+              ],
+              "sourceUnitIds": [
+                "sumar23-P154",
+                "sumar23-P155",
+                "sumar23-P157"
+              ]
+            }
+          ]
         }
       }
     },
@@ -7964,6 +8372,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -8087,6 +8500,11 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "sumar-coalicion-2023": {
+          "value": null,
+          "basis": "Sin evidencia suficiente sobre esta decisión; no implica neutralidad ni oposición.",
+          "evidence": []
         }
       }
     }
@@ -8095,133 +8513,133 @@
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 175,
+      "questions": 189,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 340,
+      "questions": 380,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 80,
+      "questions": 86,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 87,
+      "questions": 94,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 237,
+      "questions": 253,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 141,
+      "questions": 149,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 240,
+      "questions": 252,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 135,
+      "questions": 145,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 64,
+      "questions": 68,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 233,
+      "questions": 245,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 186,
+      "questions": 207,
       "concepts": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "questions": 56,
+      "questions": 60,
       "concepts": 1
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 98,
+      "questions": 105,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 204,
+      "questions": 226,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 357,
+      "questions": 380,
       "concepts": 9
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 384,
+      "questions": 412,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 236,
+      "questions": 258,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 75,
+      "questions": 85,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 75,
+      "questions": 80,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 102,
+      "questions": 107,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 60,
+      "questions": 66,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 150,
+      "questions": 160,
       "concepts": 3
     },
     {
@@ -8233,31 +8651,31 @@
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "questions": 44,
+      "questions": 50,
       "concepts": 2
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 191,
+      "questions": 203,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 98,
+      "questions": 103,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 133,
+      "questions": 146,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 251,
+      "questions": 269,
       "concepts": 5
     },
     {
@@ -8269,67 +8687,67 @@
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 162,
+      "questions": 175,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 81,
+      "questions": 92,
       "concepts": 1
     },
     {
       "id": "iberoamerica",
       "title": "Relaciones iberoamericanas",
-      "questions": 20,
+      "questions": 22,
       "concepts": 1
     },
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 85,
+      "questions": 99,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 60,
+      "questions": 64,
       "concepts": 1
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "questions": 53,
+      "questions": 59,
       "concepts": 1
     },
     {
       "id": "exterior-ciudadania",
       "title": "Españoles en el exterior",
-      "questions": 27,
+      "questions": 31,
       "concepts": 1
     },
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 183,
+      "questions": 193,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 59,
+      "questions": 65,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 67,
+      "questions": 86,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 119,
+      "questions": 127,
       "concepts": 1
     }
   ]

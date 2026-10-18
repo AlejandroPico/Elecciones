@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "status": "proposed-wording-review",
   "liveEligible": false,
-  "reviewVersion": "0.4.0",
-  "bankVersion": "0.7.0",
-  "bankFingerprint": "f7295dd54fe9e735a16f40ed223d25320154696eeadd879043677b5a3f6309e4",
+  "reviewVersion": "0.5.0",
+  "bankVersion": "0.8.0",
+  "bankFingerprint": "d810c6163780ab493fcc22130ebabfa47b93f80299f4078ccf84206d16299f9a",
   "reviewedAt": "2026-10-18",
   "counts": {
-    "bankQuestions": 5418,
+    "bankQuestions": 5861,
     "reviewedPairs": 189,
     "questionsInReviewedPairs": 280,
     "relations": {
@@ -19,9 +19,9 @@
     "proposedEquivalentGroups": 16,
     "questionsInEquivalentGroups": 32,
     "potentialReduction": 16,
-    "proposedUnits": 5402,
-    "originalQuestionsWithTwoOrMoreParties": 240,
-    "proposedUnitsWithTwoOrMoreParties": 253,
+    "proposedUnits": 5845,
+    "originalQuestionsWithTwoOrMoreParties": 245,
+    "proposedUnitsWithTwoOrMoreParties": 258,
     "commonToAllParties": 0,
     "maxDocumentedPartiesInOneUnit": 6,
     "conflictingEquivalentGroups": 0,
@@ -32,27 +32,27 @@
   "originalCoverageHistogram": [
     {
       "partiesWithPosition": 0,
-      "questions": 92
+      "questions": 95
     },
     {
       "partiesWithPosition": 1,
-      "questions": 5086
+      "questions": 5521
     },
     {
       "partiesWithPosition": 2,
-      "questions": 194
+      "questions": 195
     },
     {
       "partiesWithPosition": 3,
-      "questions": 34
+      "questions": 37
     },
     {
       "partiesWithPosition": 4,
-      "questions": 10
+      "questions": 9
     },
     {
       "partiesWithPosition": 5,
-      "questions": 1
+      "questions": 3
     },
     {
       "partiesWithPosition": 6,
@@ -63,155 +63,155 @@
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "bankQuestions": 175,
-      "proposedUnits": 174,
+      "bankQuestions": 189,
+      "proposedUnits": 188,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "bankQuestions": 340,
-      "proposedUnits": 336,
+      "bankQuestions": 380,
+      "proposedUnits": 376,
       "proposedUnitsWithTwoOrMoreParties": 18
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "bankQuestions": 80,
-      "proposedUnits": 80,
+      "bankQuestions": 86,
+      "proposedUnits": 86,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "bankQuestions": 87,
-      "proposedUnits": 87,
+      "bankQuestions": 94,
+      "proposedUnits": 94,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "bankQuestions": 237,
-      "proposedUnits": 237,
-      "proposedUnitsWithTwoOrMoreParties": 7
+      "bankQuestions": 253,
+      "proposedUnits": 253,
+      "proposedUnitsWithTwoOrMoreParties": 8
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "bankQuestions": 141,
-      "proposedUnits": 141,
+      "bankQuestions": 149,
+      "proposedUnits": 149,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "bankQuestions": 240,
-      "proposedUnits": 240,
+      "bankQuestions": 252,
+      "proposedUnits": 252,
       "proposedUnitsWithTwoOrMoreParties": 19
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "bankQuestions": 135,
-      "proposedUnits": 134,
+      "bankQuestions": 145,
+      "proposedUnits": 144,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "bankQuestions": 64,
-      "proposedUnits": 64,
+      "bankQuestions": 68,
+      "proposedUnits": 68,
       "proposedUnitsWithTwoOrMoreParties": 2
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "bankQuestions": 233,
-      "proposedUnits": 232,
+      "bankQuestions": 245,
+      "proposedUnits": 244,
       "proposedUnitsWithTwoOrMoreParties": 7
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "bankQuestions": 186,
-      "proposedUnits": 185,
-      "proposedUnitsWithTwoOrMoreParties": 4
+      "bankQuestions": 207,
+      "proposedUnits": 206,
+      "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "bankQuestions": 56,
-      "proposedUnits": 56,
+      "bankQuestions": 60,
+      "proposedUnits": 60,
       "proposedUnitsWithTwoOrMoreParties": 0
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "bankQuestions": 98,
-      "proposedUnits": 98,
+      "bankQuestions": 105,
+      "proposedUnits": 105,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "energia",
       "title": "Energía",
-      "bankQuestions": 204,
-      "proposedUnits": 204,
-      "proposedUnitsWithTwoOrMoreParties": 9
+      "bankQuestions": 226,
+      "proposedUnits": 226,
+      "proposedUnitsWithTwoOrMoreParties": 10
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "bankQuestions": 357,
-      "proposedUnits": 355,
+      "bankQuestions": 380,
+      "proposedUnits": 378,
       "proposedUnitsWithTwoOrMoreParties": 19
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "bankQuestions": 384,
-      "proposedUnits": 383,
-      "proposedUnitsWithTwoOrMoreParties": 15
+      "bankQuestions": 412,
+      "proposedUnits": 411,
+      "proposedUnitsWithTwoOrMoreParties": 16
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "bankQuestions": 236,
-      "proposedUnits": 236,
+      "bankQuestions": 258,
+      "proposedUnits": 258,
       "proposedUnitsWithTwoOrMoreParties": 10
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "bankQuestions": 75,
-      "proposedUnits": 75,
+      "bankQuestions": 85,
+      "proposedUnits": 85,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "bankQuestions": 75,
-      "proposedUnits": 75,
+      "bankQuestions": 80,
+      "proposedUnits": 80,
       "proposedUnitsWithTwoOrMoreParties": 4
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "bankQuestions": 102,
-      "proposedUnits": 101,
+      "bankQuestions": 107,
+      "proposedUnits": 106,
       "proposedUnitsWithTwoOrMoreParties": 8
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "bankQuestions": 60,
-      "proposedUnits": 60,
+      "bankQuestions": 66,
+      "proposedUnits": 66,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "bankQuestions": 150,
-      "proposedUnits": 150,
+      "bankQuestions": 160,
+      "proposedUnits": 160,
       "proposedUnitsWithTwoOrMoreParties": 4
     },
     {
@@ -224,36 +224,36 @@
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "bankQuestions": 44,
-      "proposedUnits": 44,
+      "bankQuestions": 50,
+      "proposedUnits": 50,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "bankQuestions": 191,
-      "proposedUnits": 190,
+      "bankQuestions": 203,
+      "proposedUnits": 202,
       "proposedUnitsWithTwoOrMoreParties": 8
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "bankQuestions": 98,
-      "proposedUnits": 98,
+      "bankQuestions": 103,
+      "proposedUnits": 103,
       "proposedUnitsWithTwoOrMoreParties": 1
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "bankQuestions": 133,
-      "proposedUnits": 133,
+      "bankQuestions": 146,
+      "proposedUnits": 146,
       "proposedUnitsWithTwoOrMoreParties": 7
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "bankQuestions": 251,
-      "proposedUnits": 250,
+      "bankQuestions": 269,
+      "proposedUnits": 268,
       "proposedUnitsWithTwoOrMoreParties": 10
     },
     {
@@ -266,78 +266,78 @@
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "bankQuestions": 162,
-      "proposedUnits": 162,
+      "bankQuestions": 175,
+      "proposedUnits": 175,
       "proposedUnitsWithTwoOrMoreParties": 11
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "bankQuestions": 81,
-      "proposedUnits": 81,
-      "proposedUnitsWithTwoOrMoreParties": 5
+      "bankQuestions": 92,
+      "proposedUnits": 92,
+      "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "iberoamerica",
       "title": "Relaciones iberoamericanas",
-      "bankQuestions": 20,
-      "proposedUnits": 20,
+      "bankQuestions": 22,
+      "proposedUnits": 22,
       "proposedUnitsWithTwoOrMoreParties": 4
     },
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "bankQuestions": 85,
-      "proposedUnits": 85,
+      "bankQuestions": 99,
+      "proposedUnits": 99,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "bankQuestions": 60,
-      "proposedUnits": 60,
+      "bankQuestions": 64,
+      "proposedUnits": 64,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "bankQuestions": 53,
-      "proposedUnits": 53,
+      "bankQuestions": 59,
+      "proposedUnits": 59,
       "proposedUnitsWithTwoOrMoreParties": 2
     },
     {
       "id": "exterior-ciudadania",
       "title": "Españoles en el exterior",
-      "bankQuestions": 27,
-      "proposedUnits": 27,
+      "bankQuestions": 31,
+      "proposedUnits": 31,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "bankQuestions": 183,
-      "proposedUnits": 183,
+      "bankQuestions": 193,
+      "proposedUnits": 193,
       "proposedUnitsWithTwoOrMoreParties": 12
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "bankQuestions": 59,
-      "proposedUnits": 59,
+      "bankQuestions": 65,
+      "proposedUnits": 65,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "bankQuestions": 67,
-      "proposedUnits": 67,
+      "bankQuestions": 86,
+      "proposedUnits": 86,
       "proposedUnitsWithTwoOrMoreParties": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "bankQuestions": 119,
-      "proposedUnits": 117,
+      "bankQuestions": 127,
+      "proposedUnits": 125,
       "proposedUnitsWithTwoOrMoreParties": 4
     }
   ],
@@ -482,6 +482,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -631,6 +637,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -772,6 +784,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -923,6 +941,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1064,6 +1088,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1213,6 +1243,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1354,6 +1390,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1503,6 +1545,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1644,6 +1692,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1793,6 +1847,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1938,6 +1998,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -2079,6 +2145,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -2230,6 +2302,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -2371,6 +2449,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -2520,6 +2604,12 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -2660,6 +2750,12 @@
           "ambiguousQuestionIds": []
         },
         "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "sumar-coalicion-2023": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
