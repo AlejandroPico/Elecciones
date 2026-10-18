@@ -1,0 +1,29 @@
+{
+  "id": "registro-6972-2023-07-23",
+  "organization": "registro-6972",
+  "title": "Soria ¡Ya! · programa electoral · generales 23J 2023",
+  "kind": "historical",
+  "electionDate": "2023-07-23",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-18",
+  "file": "Generales Julio 2023/programas/registro-6972/2026-10-18-programa.txt",
+  "format": "TXT",
+  "bytes": 29531,
+  "pages": null,
+  "sha256": "65401320cdbcea79180702b040fc463aee76c35a08e1ab409592f2b6a624fe0f",
+  "source": "https://soriaya.org/programa-electoral-de-soria-ya-2023/",
+  "downloadedFrom": "https://soriaya.org/programa-electoral-de-soria-ya-2023/",
+  "sourceKind": "official",
+  "analysis": "editorial-draft",
+  "scoringEligible": false,
+  "note": "Transcripción íntegra del contenido electoral de la página oficial, con 73 medidas numeradas. El HTML de procedencia se conserva junto al TXT. Antecedente nacional de 2023, no programa de 2026.",
+  "territory": "Soria",
+  "electionScope": "general",
+  "textLines": 150,
+  "htmlCapture": {
+    "file": "Generales Julio 2023/programas/registro-6972/2026-10-18-original.html",
+    "sha256": "3dd5d91d5c24d40f19e40ded3e4aa67832a82f017a62ad28d6c3493f5261e007",
+    "bytes": 169512,
+    "selector": ".elementor-widget-theme-post-content"
+  }
+}

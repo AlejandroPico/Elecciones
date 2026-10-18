@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "0.3.0",
+  "version": "0.4.0",
   "reviewedAt": "2026-10-18",
   "status": "proposed-wording-review",
   "liveEligible": false,
-  "bankVersion": "0.6.0",
-  "bankFingerprint": "95c57c2e24c802abfd6802bb89931ecafbaedb287c1f65bfbbedeaa61b4dd1ff",
+  "bankVersion": "0.7.0",
+  "bankFingerprint": "f7295dd54fe9e735a16f40ed223d25320154696eeadd879043677b5a3f6309e4",
   "scope": {
-    "questionCount": 4638,
+    "questionCount": 5418,
     "candidatePairsReviewed": 189,
     "method": "Lectura de pares recuperados por coincidencia léxica dentro de cada categoría. El parecido sirve para localizar, no para decidir equivalencia. Cada relación conserva un criterio editorial explícito.",
     "limits": [
@@ -16,7 +16,8 @@
       "Las variantes relacionadas y las alternativas contrapuestas no se fusionan.",
       "Las preguntas y posiciones originales mantienen sus identificadores y no se reescriben ni trasladan.",
       "La ampliación PCTE, Iustitia Europa y SALF conserva los 189 pares y las doce familias previas tras verificar sus enunciados. Las nuevas formulaciones no están incluidas en esa revisión semántica; las de SALF son autonómicas.",
-      "La incorporación de Podemos 2019 conserva los 189 pares y las doce familias previas tras verificar los enunciados originales. Las nuevas formulaciones no quedan incluidas en esa revisión semántica ni aprobadas para producción."
+      "La incorporación de Podemos 2019 conserva los 189 pares y las doce familias previas tras verificar los enunciados originales. Las nuevas formulaciones no quedan incluidas en esa revisión semántica ni aprobadas para producción.",
+      "El lote Soria, Teruel, Adelante Andalucía, Drago Canarias, democracia21 y CC preserva las formulaciones revisadas anteriormente. Sus nuevas formulaciones requieren revisión semántica adicional y no quedan aprobadas para producción."
     ]
   },
   "selectionDesign": {

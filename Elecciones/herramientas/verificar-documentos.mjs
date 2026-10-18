@@ -22,6 +22,18 @@ for (const document of manifest) {
   const hash = createHash("sha256").update(bytes).digest("hex");
   if (hash !== document.sha256 || bytes.length !== document.bytes)
     throw new Error(`Original alterado: ${document.id}`);
+  if (document.htmlCapture) {
+    const capturePath = resolve(root, document.htmlCapture.file);
+    if (!capturePath.startsWith(root.endsWith(sep) ? root : root + sep))
+      throw new Error(`Captura fuera de Elecciones: ${document.id}`);
+    const capture = await readFile(capturePath);
+    if (
+      capture.length !== document.htmlCapture.bytes ||
+      createHash("sha256").update(capture).digest("hex") !==
+        document.htmlCapture.sha256
+    )
+      throw new Error(`Captura HTML alterada: ${document.id}`);
+  }
   if (document.format === "PDF" && bytes.subarray(0, 5).toString() !== "%PDF-")
     throw new Error(`PDF inválido: ${document.id}`);
   if (document.kind === "historical") {

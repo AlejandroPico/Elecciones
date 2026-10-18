@@ -2,12 +2,12 @@
   "schemaVersion": 1,
   "status": "proposed-wording-review",
   "liveEligible": false,
-  "reviewVersion": "0.3.0",
-  "bankVersion": "0.6.0",
-  "bankFingerprint": "95c57c2e24c802abfd6802bb89931ecafbaedb287c1f65bfbbedeaa61b4dd1ff",
+  "reviewVersion": "0.4.0",
+  "bankVersion": "0.7.0",
+  "bankFingerprint": "f7295dd54fe9e735a16f40ed223d25320154696eeadd879043677b5a3f6309e4",
   "reviewedAt": "2026-10-18",
   "counts": {
-    "bankQuestions": 4638,
+    "bankQuestions": 5418,
     "reviewedPairs": 189,
     "questionsInReviewedPairs": 280,
     "relations": {
@@ -19,9 +19,9 @@
     "proposedEquivalentGroups": 16,
     "questionsInEquivalentGroups": 32,
     "potentialReduction": 16,
-    "proposedUnits": 4622,
-    "originalQuestionsWithTwoOrMoreParties": 234,
-    "proposedUnitsWithTwoOrMoreParties": 247,
+    "proposedUnits": 5402,
+    "originalQuestionsWithTwoOrMoreParties": 240,
+    "proposedUnitsWithTwoOrMoreParties": 253,
     "commonToAllParties": 0,
     "maxDocumentedPartiesInOneUnit": 6,
     "conflictingEquivalentGroups": 0,
@@ -32,15 +32,15 @@
   "originalCoverageHistogram": [
     {
       "partiesWithPosition": 0,
-      "questions": 84
+      "questions": 92
     },
     {
       "partiesWithPosition": 1,
-      "questions": 4320
+      "questions": 5086
     },
     {
       "partiesWithPosition": 2,
-      "questions": 189
+      "questions": 194
     },
     {
       "partiesWithPosition": 3,
@@ -48,7 +48,7 @@
     },
     {
       "partiesWithPosition": 4,
-      "questions": 9
+      "questions": 10
     },
     {
       "partiesWithPosition": 5,
@@ -63,155 +63,155 @@
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "bankQuestions": 148,
-      "proposedUnits": 147,
+      "bankQuestions": 175,
+      "proposedUnits": 174,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "bankQuestions": 304,
-      "proposedUnits": 300,
-      "proposedUnitsWithTwoOrMoreParties": 17
+      "bankQuestions": 340,
+      "proposedUnits": 336,
+      "proposedUnitsWithTwoOrMoreParties": 18
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "bankQuestions": 68,
-      "proposedUnits": 68,
+      "bankQuestions": 80,
+      "proposedUnits": 80,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "bankQuestions": 79,
-      "proposedUnits": 79,
+      "bankQuestions": 87,
+      "proposedUnits": 87,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "bankQuestions": 217,
-      "proposedUnits": 217,
+      "bankQuestions": 237,
+      "proposedUnits": 237,
       "proposedUnitsWithTwoOrMoreParties": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "bankQuestions": 121,
-      "proposedUnits": 121,
+      "bankQuestions": 141,
+      "proposedUnits": 141,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "bankQuestions": 200,
-      "proposedUnits": 200,
-      "proposedUnitsWithTwoOrMoreParties": 17
+      "bankQuestions": 240,
+      "proposedUnits": 240,
+      "proposedUnitsWithTwoOrMoreParties": 19
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "bankQuestions": 111,
-      "proposedUnits": 110,
+      "bankQuestions": 135,
+      "proposedUnits": 134,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "bankQuestions": 48,
-      "proposedUnits": 48,
+      "bankQuestions": 64,
+      "proposedUnits": 64,
       "proposedUnitsWithTwoOrMoreParties": 2
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "bankQuestions": 177,
-      "proposedUnits": 176,
+      "bankQuestions": 233,
+      "proposedUnits": 232,
       "proposedUnitsWithTwoOrMoreParties": 7
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "bankQuestions": 149,
-      "proposedUnits": 148,
+      "bankQuestions": 186,
+      "proposedUnits": 185,
       "proposedUnitsWithTwoOrMoreParties": 4
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "bankQuestions": 38,
-      "proposedUnits": 38,
+      "bankQuestions": 56,
+      "proposedUnits": 56,
       "proposedUnitsWithTwoOrMoreParties": 0
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "bankQuestions": 74,
-      "proposedUnits": 74,
+      "bankQuestions": 98,
+      "proposedUnits": 98,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "energia",
       "title": "Energía",
-      "bankQuestions": 171,
-      "proposedUnits": 171,
-      "proposedUnitsWithTwoOrMoreParties": 8
+      "bankQuestions": 204,
+      "proposedUnits": 204,
+      "proposedUnitsWithTwoOrMoreParties": 9
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "bankQuestions": 307,
-      "proposedUnits": 305,
+      "bankQuestions": 357,
+      "proposedUnits": 355,
       "proposedUnitsWithTwoOrMoreParties": 19
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "bankQuestions": 298,
-      "proposedUnits": 297,
+      "bankQuestions": 384,
+      "proposedUnits": 383,
       "proposedUnitsWithTwoOrMoreParties": 15
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "bankQuestions": 216,
-      "proposedUnits": 216,
-      "proposedUnitsWithTwoOrMoreParties": 9
+      "bankQuestions": 236,
+      "proposedUnits": 236,
+      "proposedUnitsWithTwoOrMoreParties": 10
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "bankQuestions": 65,
-      "proposedUnits": 65,
+      "bankQuestions": 75,
+      "proposedUnits": 75,
       "proposedUnitsWithTwoOrMoreParties": 3
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "bankQuestions": 67,
-      "proposedUnits": 67,
+      "bankQuestions": 75,
+      "proposedUnits": 75,
       "proposedUnitsWithTwoOrMoreParties": 4
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "bankQuestions": 90,
-      "proposedUnits": 89,
+      "bankQuestions": 102,
+      "proposedUnits": 101,
       "proposedUnitsWithTwoOrMoreParties": 8
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "bankQuestions": 51,
-      "proposedUnits": 51,
+      "bankQuestions": 60,
+      "proposedUnits": 60,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "bankQuestions": 122,
-      "proposedUnits": 122,
+      "bankQuestions": 150,
+      "proposedUnits": 150,
       "proposedUnitsWithTwoOrMoreParties": 4
     },
     {
@@ -224,57 +224,57 @@
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "bankQuestions": 40,
-      "proposedUnits": 40,
+      "bankQuestions": 44,
+      "proposedUnits": 44,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "bankQuestions": 173,
-      "proposedUnits": 172,
+      "bankQuestions": 191,
+      "proposedUnits": 190,
       "proposedUnitsWithTwoOrMoreParties": 8
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "bankQuestions": 85,
-      "proposedUnits": 85,
+      "bankQuestions": 98,
+      "proposedUnits": 98,
       "proposedUnitsWithTwoOrMoreParties": 1
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "bankQuestions": 111,
-      "proposedUnits": 111,
+      "bankQuestions": 133,
+      "proposedUnits": 133,
       "proposedUnitsWithTwoOrMoreParties": 7
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "bankQuestions": 224,
-      "proposedUnits": 223,
+      "bankQuestions": 251,
+      "proposedUnits": 250,
       "proposedUnitsWithTwoOrMoreParties": 10
     },
     {
       "id": "propiedad",
       "title": "Ocupación ilegal y propiedad",
-      "bankQuestions": 27,
-      "proposedUnits": 27,
+      "bankQuestions": 32,
+      "proposedUnits": 32,
       "proposedUnitsWithTwoOrMoreParties": 2
     },
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "bankQuestions": 143,
-      "proposedUnits": 143,
+      "bankQuestions": 162,
+      "proposedUnits": 162,
       "proposedUnitsWithTwoOrMoreParties": 11
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "bankQuestions": 76,
-      "proposedUnits": 76,
+      "bankQuestions": 81,
+      "proposedUnits": 81,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
@@ -287,22 +287,22 @@
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "bankQuestions": 83,
-      "proposedUnits": 83,
+      "bankQuestions": 85,
+      "proposedUnits": 85,
       "proposedUnitsWithTwoOrMoreParties": 6
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "bankQuestions": 55,
-      "proposedUnits": 55,
+      "bankQuestions": 60,
+      "proposedUnits": 60,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "bankQuestions": 50,
-      "proposedUnits": 50,
+      "bankQuestions": 53,
+      "proposedUnits": 53,
       "proposedUnitsWithTwoOrMoreParties": 2
     },
     {
@@ -315,30 +315,30 @@
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "bankQuestions": 163,
-      "proposedUnits": 163,
+      "bankQuestions": 183,
+      "proposedUnits": 183,
       "proposedUnitsWithTwoOrMoreParties": 12
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "bankQuestions": 50,
-      "proposedUnits": 50,
+      "bankQuestions": 59,
+      "proposedUnits": 59,
       "proposedUnitsWithTwoOrMoreParties": 5
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "bankQuestions": 60,
-      "proposedUnits": 60,
+      "bankQuestions": 67,
+      "proposedUnits": 67,
       "proposedUnitsWithTwoOrMoreParties": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "bankQuestions": 92,
-      "proposedUnits": 90,
-      "proposedUnitsWithTwoOrMoreParties": 3
+      "bankQuestions": 119,
+      "proposedUnits": 117,
+      "proposedUnitsWithTwoOrMoreParties": 4
     }
   ],
   "categoriesWithoutTwoPartyUnits": [
@@ -446,6 +446,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -559,6 +595,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -664,6 +736,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -779,6 +887,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -884,6 +1028,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -997,6 +1177,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1102,6 +1318,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1215,6 +1467,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1320,6 +1608,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1433,6 +1757,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1542,6 +1902,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1647,6 +2043,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1762,6 +2194,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -1867,6 +2335,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],
@@ -1980,6 +2484,42 @@
           "status": "undetermined",
           "sourceQuestionIds": [],
           "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
         }
       },
       "liveEligible": false
@@ -2084,6 +2624,42 @@
           "ambiguousQuestionIds": []
         },
         "podemos": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6972": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6779": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-6620": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "registro-7039": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "coalicion-d21-2026": {
+          "candidateValue": null,
+          "status": "undetermined",
+          "sourceQuestionIds": [],
+          "ambiguousQuestionIds": []
+        },
+        "cc": {
           "candidateValue": null,
           "status": "undetermined",
           "sourceQuestionIds": [],

@@ -17,7 +17,7 @@ from agrupacion import compile_review, render_plan
 
 ROOT = Path(__file__).resolve().parents[2]
 FOLDER = ROOT / "Cuestionario"
-PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero", "registro-6040": "PCTE", "registro-7400": "Iustitia Europa", "registro-7458": "Se Acabó La Fiesta", "podemos": "Podemos"}
+PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero", "registro-6040": "PCTE", "registro-7400": "Iustitia Europa", "registro-7458": "Se Acabó La Fiesta", "podemos": "Podemos", "registro-6972": "Soria ¡Ya!", "registro-6779": "Teruel Existe", "registro-6620": "Adelante Andalucía", "registro-7039": "Drago Canarias", "coalicion-d21-2026": "democracia21", "cc": "Coalición Canaria"}
 
 
 def read(path):
@@ -43,12 +43,18 @@ def validate(data):
     assert [o["value"] for o in data["scale"]["options"]] == [-2, -1, 0, 1, 2]
     assert [o["value"] for o in data["importance"]["options"]] == [1, 2, 3]
     sources = {s["id"]: s for s in data["sources"]}
-    assert len(sources) == len(PARTIES)
+    assert len(sources) == len(data["sources"])
+    assert {s["organization"] for s in sources.values()} == set(PARTIES)
     for s in sources.values():
         local = (ROOT / s["file"]).resolve()
         assert local.is_relative_to(ROOT / "Elecciones"), s["file"]
         assert local.stat().st_size == s["bytes"]
         assert hashlib.sha256(local.read_bytes()).hexdigest() == s["sha256"], s["id"]
+        if capture := s.get("htmlCapture"):
+            html = (ROOT / "Elecciones" / capture["file"]).resolve()
+            assert html.is_relative_to(ROOT / "Elecciones")
+            assert html.stat().st_size == capture["bytes"]
+            assert hashlib.sha256(html.read_bytes()).hexdigest() == capture["sha256"]
         assert s["kind"] in ("historical", "general", "permanent", "territorial") and s["scoringEligible"] is False
         if s["kind"] == "territorial":
             assert s["territory"] and s["electionScope"] == "autonomous"
@@ -163,6 +169,11 @@ def validate(data):
         if salf["evidence"]:
             assert q["territorialScope"] == {"kind": "autonomous", "territory": "Castilla y León", "sourceElection": "2026-03-15"}
             assert all(sources[e["documentId"]]["kind"] == "territorial" for e in salf["evidence"])
+        for pos in q["positions"].values():
+            for evidence in pos["evidence"]:
+                source = sources[evidence["documentId"]]
+                if source["kind"] == "territorial":
+                    assert q.get("territorialScope") == {"kind": "autonomous", "territory": source["territory"], "sourceElection": source["electionDate"]}
 
 
 def statistics(data):
@@ -210,6 +221,10 @@ def render(data, stats):
     line("PACMA y Frente Obrero se inventarían por sus 76 y 64 páginas físicas, respectivamente. Escaños en Blanco se inventaría mediante un único artículo en la línea 6 de su transcripción HTML local. No se inventan páginas PDF para ese texto ni posiciones sectoriales que no contiene. Su renuncia a cobrar subvenciones propias no implica prohibir la financiación de los demás partidos.")
     line("PCTE, Iustitia Europa y SALF se inventarían por sus 24, 28 y 22 páginas físicas. SALF corresponde exclusivamente a Castilla y León, 15 de marzo de 2026. No se localizó un programa nacional en la revisión del 18 de octubre: se mantiene pendiente, sin presentar el documento regional como sustituto. Los referendos de Iustitia Europa no acreditan por sí solos apoyo a abandonar UE u OTAN; las terapias naturales se describen como propuesta política, sin validar su eficacia clínica.")
     line("Podemos incorpora su programa nacional del 10N de 2019: 119 páginas físicas y 289 medidas oficiales numeradas, con resumen propio, preguntas y localizadores. Es un antecedente, no un programa de 2026. Se conserva la copia de prensa del PDF original y se identifica la URL oficial bloqueada. La extracción se contrastó con el texto visible para excluir capas antiguas pintadas en blanco. Las remisiones no se suman como políticas distintas. Sus fechas, cuantías y referencias legales se leen en su contexto de 2019; inventariar todas las medidas no garantiza haber desdoblado cada subcláusula.")
+    line("Soria ¡Ya! incorpora sus 73 medidas oficiales de generales 2023 mediante transcripción HTML; Teruel Existe y Adelante Andalucía se anclan en sus 29 y 85 páginas físicas de generales 2023. CC figura como firmante de los 52 compromisos del manifiesto conjunto Coalición Por Canarias de junio de 2023. No se transfieren sus compromisos a otros firmantes por defecto.")
+    line("Drago Canarias incorpora la página oficial de propuestas del ámbito autonómico de 2023 mediante transcripción íntegra, HTML conservado y anclas por línea. El documento contextualiza el 28 de mayo y 2023/24; la captura actual no prueba una versión inmutable de aquella campaña. Sus preguntas mantienen ámbito Canarias y quedan fuera de los ejes generales. El lote se analiza mediante agrupaciones condensadas: las páginas o líneas son anclas documentales, no promesas ni una garantía de atomización exhaustiva.")
+    line("democracia21 incorpora dos documentos: manifiesto e índice de soluciones como contexto y España Limpia como documento sectorial anticorrupción de 13 páginas. No se deducen políticas concretas de los títulos del índice. No se confunde con la inscripción DEM registro-7631 ni se presenta el documento sectorial como programa electoral completo.")
+    line("Reservas: Adelante Andalucía ofrece edades de jubilación de 62 y 64 años y formulaciones incompatibles sobre conciertos; quedan sin puntuación. Su tope de alquiler usa renta media del distrito, no ingresos de cada hogar. Soria usa treinta minutos para el acceso a vías rápidas; Teruel usa treinta kilómetros. España Limpia mantiene una excepción de aforamiento penal funcional del Gobierno y diferencia no presentar presupuestos de no lograr su aprobación. Estas condiciones no se borran al agrupar conceptos.")
     line("Cobertura significa que cada unidad del inventario tiene una clasificación y referencias. No garantiza que todas las subcláusulas estén desdobladas ni que este borrador sea ya un cuestionario validado.")
     line("Los originales del PSOE, Vox y Junts se conservan como copias de archivo de prensa, identificadas por huella y procedencia; no se presentan como descargas actuales de sus servidores oficiales.")
     line()
@@ -323,7 +338,7 @@ def main():
     }
     category_report = ["Resumen de categorías · antecedentes electorales y documentos generales y permanentes", f"{stats['questions']} formulaciones de borrador · {stats['concepts']} conceptos · {stats['categories']} categorías", "", "Categoría | Formulaciones | Conceptos"]
     category_report += [f"{c['title']} | {c['questions']} | {c['concepts']}" for c in stats["byCategory"]]
-    category_report += ["", "El recuento es de formulaciones, no de decisiones independientes ni de preguntas que una persona deba responder seguidas.", "Las categorías serán los apartados del cuestionario. Se prevé reducir formulaciones y seleccionar preguntas de forma aleatoria equilibrada por temas y conceptos, evitando repeticiones. Aún no se ha implementado el algoritmo ni fijado la longitud.", "Antes del test definitivo se revisarán solapamientos, neutralidad, contexto y cobertura comparable.", "", f"{len(PARTIES)} documentos de origen · {stats['proposalGroups']} grupos de propuestas · {stats['sourceUnits']} unidades documentales de referencia.", "Las unidades mezclan medidas oficiales numeradas, viñetas, páginas PDF y un artículo de texto. No son una métrica comparable de promesas entre partidos.", "Importancia del futuro test: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.", f"La vista Coordenadas políticas contiene {len(axes['charts'])} agrupaciones gráficas de una selección publicada de indicadores. No sustituye las {stats['categories']} categorías de este inventario."]
+    category_report += ["", "El recuento es de formulaciones, no de decisiones independientes ni de preguntas que una persona deba responder seguidas.", "Las categorías serán los apartados del cuestionario. Se prevé reducir formulaciones y seleccionar preguntas de forma aleatoria equilibrada por temas y conceptos, evitando repeticiones. Aún no se ha implementado el algoritmo ni fijado la longitud.", "Antes del test definitivo se revisarán solapamientos, neutralidad, contexto y cobertura comparable.", "", f"{len(data['sources'])} documentos de origen · {stats['proposalGroups']} grupos de propuestas · {stats['sourceUnits']} unidades documentales de referencia.", "Las unidades mezclan medidas oficiales numeradas, viñetas, páginas PDF y un artículo de texto. No son una métrica comparable de promesas entre partidos.", "Importancia del futuro test: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.", f"La vista Coordenadas políticas contiene {len(axes['charts'])} agrupaciones gráficas de una selección publicada de indicadores. No sustituye las {stats['categories']} categorías de este inventario."]
     outputs = {
         FOLDER / "Resumen Preguntas.txt": render(data, stats) + "\n" + selection_report,
         FOLDER / "cobertura.json": json.dumps(stats, ensure_ascii=False, indent=2) + "\n",

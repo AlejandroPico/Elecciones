@@ -52,6 +52,12 @@ export const colors: Record<string, string> = {
   "registro-7400": "#eed542",
   "registro-7458": "#c2aa80",
   podemos: "#a56be2",
+  "registro-6972": "#a386c3",
+  "registro-6779": "#ba65a4",
+  "registro-6620": "#68bd87",
+  "registro-7039": "#69a476",
+  "coalicion-d21-2026": "#f3c72e",
+  cc: "#e1b74a",
 };
 
 export function documentEdition(source: (typeof raw.sources)[number]) {

@@ -69,7 +69,7 @@ describe("coordenadas documentales", () => {
       ),
     ).toBeNull();
   });
-  it("conserva quince partidos y distingue ediciones electorales, generales, permanentes y autonómicas", () => {
+  it("conserva veintiún partidos y distingue las fuentes y sus ediciones", () => {
     expect(corpus.parties.map((p) => p.id)).toEqual([
       "pp",
       "psoe",
@@ -86,11 +86,17 @@ describe("coordenadas documentales", () => {
       "registro-7400",
       "registro-7458",
       "podemos",
+      "registro-6972",
+      "registro-6779",
+      "registro-6620",
+      "registro-7039",
+      "coalicion-d21-2026",
+      "cc",
     ]);
     expect(corpus.sourceElection).toBeNull();
     expect(corpus.sourceContext).toBe("mixed-editions");
     expect(corpus.sources.filter((s) => s.kind === "historical")).toHaveLength(
-      11,
+      15,
     );
     const podemos = corpus.sources.find((s) => s.organization === "podemos")!;
     expect(podemos.electionDate).toBe("2019-11-10");
@@ -180,5 +186,25 @@ describe("coordenadas documentales", () => {
     }
     for (const map of definitions)
       expect(partyPoint(map, "registro-7458").drawable).toBe(false);
+  });
+  it("separa Drago autonómico de los ejes nacionales y admite varias fuentes por partido", () => {
+    const drago = corpus.sources.find(
+      (s) => s.organization === "registro-7039",
+    )!;
+    expect(documentEdition(drago)).toBe(
+      "Programa autonómico · Canarias · 2023",
+    );
+    expect(drago.format).toBe("TXT");
+    expect(drago.pages).toBeNull();
+    expect(
+      corpus.sources.filter((s) => s.organization === "coalicion-d21-2026"),
+    ).toHaveLength(2);
+    expect(corpus.sources).toHaveLength(22);
+    for (const question of questions) {
+      expect(question.positions["registro-7039"].value).toBeNull();
+      expect(question.positions["registro-7039"].evidence).toEqual([]);
+    }
+    for (const map of definitions)
+      expect(partyPoint(map, "registro-7039").drawable).toBe(false);
   });
 });

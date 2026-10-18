@@ -15,3 +15,5 @@
 *.gif -text
 *.webp -text
 *.pdf -text
+Elecciones/**/programas/**/*.txt -text
+Elecciones/**/programas/**/2026-10-18-original.html -text -diff

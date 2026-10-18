@@ -1,0 +1,29 @@
+{
+  "id": "registro-7039-2023-05-28",
+  "organization": "registro-7039",
+  "title": "Drago Canarias · Propuestas canarias para una vida digna · ámbito autonómico 2023",
+  "kind": "territorial",
+  "electionDate": "2023-05-28",
+  "publishedAt": null,
+  "retrievedAt": "2026-10-18",
+  "file": "Autonómicas Canarias Mayo 2023/programas/registro-7039/2026-10-18-programa.txt",
+  "format": "TXT",
+  "bytes": 298930,
+  "pages": null,
+  "sha256": "044fe47bff7083fac24bddc0404da5f5bb1e225b963cf3db54e8a2de62ed315a",
+  "source": "https://www.dragocanarias.com/programa/",
+  "downloadedFrom": "https://www.dragocanarias.com/programa/",
+  "sourceKind": "official",
+  "analysis": "editorial-draft",
+  "scoringEligible": false,
+  "note": "Transcripción íntegra de nueve apartados de la página oficial. La introducción pide el voto para el 28 de mayo y el cuerpo contiene referencias al primer trimestre y curso 2023/24. Se identifica como antecedente territorial de 2023; la captura actual no certifica que el HTML sea una versión inmutable de aquella campaña. No es un programa de generales 2026 ni se atribuye automáticamente a otras organizaciones de Drago Verdes Canarias.",
+  "territory": "Canarias",
+  "electionScope": "autonomous",
+  "textLines": 817,
+  "htmlCapture": {
+    "file": "Autonómicas Canarias Mayo 2023/programas/registro-7039/2026-10-18-original.html",
+    "sha256": "22807c19c48dc2771beadbba3363d54d956b74af5840b5986afb23396a15f0b7",
+    "bytes": 590740,
+    "selector": "[role=\"tabpanel\"] (nueve paneles con contenido; orden del documento)"
+  }
+}

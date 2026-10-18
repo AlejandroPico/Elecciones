@@ -19,7 +19,9 @@ export default function ElectionDocuments({
   );
   const availableDocuments = documents.filter(
     (document) =>
-      document.kind === "territorial" || document.kind === "historical",
+      document.kind === "territorial" ||
+      document.kind === "historical" ||
+      document.analysis === "editorial-draft",
   );
   const entries = participationFor(organization);
   if (!documents.length && !entries.length) return null;
@@ -89,7 +91,9 @@ export default function ElectionDocuments({
                 <small>
                   {document.kind === "territorial"
                     ? "Documento autonómico disponible"
-                    : `Antecedente nacional de ${document.electionDate?.slice(0, 4)} disponible`}{" "}
+                    : document.kind === "historical"
+                      ? `Antecedente nacional de ${document.electionDate?.slice(0, 4)} disponible`
+                      : "Documento político disponible"}{" "}
                   · {document.format}
                   {research.sourceDocumentIds.includes(document.id)
                     ? " · análisis incorporado"
@@ -118,7 +122,7 @@ export default function ElectionDocuments({
                           ? "Programa permanente"
                           : "Documento político general"}{" "}
                     · {document.format}
-                    {"pages" in document ? ` · ${document.pages} páginas` : ""}
+                    {document.pages ? ` · ${document.pages} páginas` : ""}
                   </small>
                 </span>
               </summary>

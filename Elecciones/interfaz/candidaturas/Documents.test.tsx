@@ -40,3 +40,25 @@ it("permite descargar el antecedente de Podemos de 2019 sin presentarlo como pro
   );
   expect(html).toContain("Archivo de prensa utilizado");
 });
+
+it("identifica la transcripción autonómica de Drago y ofrece las dos fuentes de democracia21", () => {
+  const drago = renderToStaticMarkup(
+    <ElectionDocuments organization="registro-7039" />,
+  );
+  expect(drago).toContain(
+    "Documento autonómico disponible · TXT · análisis incorporado",
+  );
+  expect(drago).not.toContain("null páginas");
+  const d21 = renderToStaticMarkup(
+    <ElectionDocuments organization="coalicion-d21-2026" />,
+  );
+  const documents = documentsFor("coalicion-d21-2026");
+  expect(documents).toHaveLength(2);
+  for (const document of documents) {
+    expect(d21.indexOf(`href="${documentUrl(document)}"`)).toBeLessThan(
+      d21.indexOf('class="document-record"'),
+    );
+    expect(d21).toContain(document.title);
+  }
+  expect(d21).toContain("no es un programa electoral completo");
+});

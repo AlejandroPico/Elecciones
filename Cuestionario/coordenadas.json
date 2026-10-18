@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "sourceElection": null,
   "sourceContext": "mixed-editions",
   "reviewedAt": "2026-10-18",
@@ -63,14 +63,38 @@
     {
       "id": "podemos",
       "name": "Podemos"
+    },
+    {
+      "id": "registro-6972",
+      "name": "Soria ¡Ya!"
+    },
+    {
+      "id": "registro-6779",
+      "name": "Teruel Existe"
+    },
+    {
+      "id": "registro-6620",
+      "name": "Adelante Andalucía"
+    },
+    {
+      "id": "registro-7039",
+      "name": "Drago Canarias"
+    },
+    {
+      "id": "coalicion-d21-2026",
+      "name": "democracia21"
+    },
+    {
+      "id": "cc",
+      "name": "Coalición Canaria"
     }
   ],
   "counts": {
-    "questions": 4638,
+    "questions": 5418,
     "concepts": 109,
     "categories": 40,
-    "proposalGroups": 1723,
-    "sourceUnits": 2872
+    "proposalGroups": 2075,
+    "sourceUnits": 3938
   },
   "sources": [
     {
@@ -312,6 +336,118 @@
       "electionDate": "2019-11-10",
       "territory": null,
       "electionScope": "general"
+    },
+    {
+      "id": "registro-6972-2023-07-23",
+      "organization": "registro-6972",
+      "title": "Soria ¡Ya! · programa electoral · generales 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/registro-6972/2026-10-18-programa.txt",
+      "source": "https://soriaya.org/programa-electoral-de-soria-ya-2023/",
+      "sourceKind": "official",
+      "sha256": "65401320cdbcea79180702b040fc463aee76c35a08e1ab409592f2b6a624fe0f",
+      "pages": null,
+      "textLines": 150,
+      "format": "TXT",
+      "kind": "historical",
+      "electionDate": "2023-07-23",
+      "territory": "Soria",
+      "electionScope": "general"
+    },
+    {
+      "id": "registro-6779-2023-07-23",
+      "organization": "registro-6779",
+      "title": "Teruel Existe · programa electoral · generales 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/registro-6779/2026-10-18-programa.pdf",
+      "source": "https://teruelexiste.info/wp-content/uploads/2023/07/Programa_23J-2023-_Teruel_Existe_-elecciones-generales.pdf",
+      "sourceKind": "official",
+      "sha256": "1443b068f97f23b455cbf16dd192e21b0656d8b23e4755fb6572d98fc6930d14",
+      "pages": 29,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23",
+      "territory": "Teruel",
+      "electionScope": "general"
+    },
+    {
+      "id": "registro-6620-2023-07-23",
+      "organization": "registro-6620",
+      "title": "Adelante Andalucía · programa electoral · generales 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/registro-6620/2026-10-18-programa.pdf",
+      "source": "https://adelanteandalucia.org/wp-content/uploads/2023/07/programa-23J-3ed-comprimido.pdf",
+      "sourceKind": "official",
+      "sha256": "73557c309e0cb04172a2cb7f815d7cc4d71aed99454e559753c7e7be13ceaf78",
+      "pages": 85,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23",
+      "territory": "Andalucía",
+      "electionScope": "general"
+    },
+    {
+      "id": "registro-7039-2023-05-28",
+      "organization": "registro-7039",
+      "title": "Drago Canarias · Propuestas canarias para una vida digna · ámbito autonómico 2023",
+      "file": "Elecciones/Autonómicas Canarias Mayo 2023/programas/registro-7039/2026-10-18-programa.txt",
+      "source": "https://www.dragocanarias.com/programa/",
+      "sourceKind": "official",
+      "sha256": "044fe47bff7083fac24bddc0404da5f5bb1e225b963cf3db54e8a2de62ed315a",
+      "pages": null,
+      "textLines": 817,
+      "format": "TXT",
+      "kind": "territorial",
+      "electionDate": "2023-05-28",
+      "territory": "Canarias",
+      "electionScope": "autonomous"
+    },
+    {
+      "id": "coalicion-d21-2026-espana-limpia",
+      "organization": "coalicion-d21-2026",
+      "title": "democracia21 · España Limpia · propuestas contra la corrupción",
+      "file": "Elecciones/Generales Noviembre 2026/programas/coalicion-d21-2026/2026-10-18-espana-limpia.pdf",
+      "source": "https://democracia21.es/docs/espana-limpia-democracia21.pdf",
+      "sourceKind": "official",
+      "sha256": "bfa89b7218cd6a76d0eff86a1f6aad0a2e8c7c14a5d88f18ea002658bab4e1de",
+      "pages": 13,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "general",
+      "electionDate": null,
+      "territory": null,
+      "electionScope": null
+    },
+    {
+      "id": "cc-2023-07-23",
+      "organization": "cc",
+      "title": "Coalición Canaria · manifiesto Coalición Por Canarias · generales 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/cc/2026-10-18-manifiesto.pdf",
+      "source": "https://coalicioncanaria.org/wp-content/uploads/2023/06/COALICION_POR_CANARIAS.pdf",
+      "sourceKind": "official",
+      "sha256": "ebcac3e6b17012c77d1a761041dc1615c2b28a527666a1467db66e4b82b49c33",
+      "pages": 14,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23",
+      "territory": "Canarias",
+      "electionScope": "general"
+    },
+    {
+      "id": "coalicion-d21-2026-manifiesto",
+      "organization": "coalicion-d21-2026",
+      "title": "Manifiesto y soluciones · democracia21",
+      "file": "Elecciones/Generales Noviembre 2026/programas/coalicion-d21-2026/2026-10-17-manifiesto-y-soluciones.txt",
+      "source": "https://democracia21.es/",
+      "sourceKind": "official",
+      "sha256": "3984e66122f3d00ba32405e9cbbe93c49fd14ea3772bd0d60ca3ee92ec5f36f8",
+      "pages": null,
+      "textLines": 90,
+      "format": "TXT",
+      "kind": "general",
+      "electionDate": null,
+      "territory": null,
+      "electionScope": null
     }
   ],
   "questions": [
@@ -455,6 +591,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -546,6 +712,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -666,6 +862,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -769,6 +995,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -903,6 +1159,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1005,6 +1291,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1113,6 +1429,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1225,6 +1571,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1331,6 +1707,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1454,6 +1860,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1549,6 +1985,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1639,6 +2105,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1736,6 +2232,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1826,6 +2352,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1922,6 +2478,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2012,6 +2598,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2131,6 +2747,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2244,6 +2890,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2372,6 +3048,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2527,6 +3233,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2687,6 +3423,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2793,6 +3559,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2888,6 +3684,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2978,6 +3804,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3094,6 +3950,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3184,6 +4070,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3331,6 +4247,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3423,6 +4369,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3531,6 +4507,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3666,6 +4672,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3785,6 +4821,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3890,6 +4956,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4007,6 +5103,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4097,6 +5223,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4201,6 +5357,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4299,6 +5485,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4403,6 +5619,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4501,6 +5747,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4605,6 +5881,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4697,6 +6003,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4801,6 +6137,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4902,6 +6268,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4992,6 +6388,49 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": 2,
+          "basis": "El pasaje respalda esta decisión. Original oficial de 85 páginas físicas para generales 2023, no programa autonómico ni de 2026. Las discrepancias internas sobre edad de jubilación y conciertos educativos se conservan sin resolver como una posición firme. Reserva: Discrepancia interna: la síntesis de página PDF 8 dice 62 años y el desarrollo de página PDF 29 dice 64. No se resuelve escogiendo una ni puntuando ambas como posiciones firmes.",
+          "evidence": [
+            {
+              "proposalId": "registro-6620-r26-g0008",
+              "documentId": "registro-6620-2023-07-23",
+              "pdfPages": [
+                8,
+                29
+              ],
+              "sourceUnitIds": [
+                "registro-6620-r26-aa-U0008",
+                "registro-6620-r26-aa-U0029"
+              ]
+            }
+          ]
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -5090,6 +6529,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5180,6 +6649,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -5278,6 +6777,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5370,6 +6899,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -5468,6 +7027,49 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": 2,
+          "basis": "El pasaje respalda esta decisión. Original oficial de 29 páginas físicas. Antecedente nacional de 2023, no programa de 2026. El objetivo 30-30 distingue treinta minutos a servicios de treinta kilómetros a vías de alta capacidad.",
+          "evidence": [
+            {
+              "proposalId": "registro-6779-r26-g0012",
+              "documentId": "registro-6779-2023-07-23",
+              "pdfPages": [
+                8,
+                9
+              ],
+              "sourceUnitIds": [
+                "registro-6779-r26-teruel-U0008",
+                "registro-6779-r26-teruel-U0009"
+              ]
+            }
+          ]
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5563,6 +7165,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5653,6 +7285,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -5751,6 +7413,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -5843,6 +7535,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -5954,6 +7676,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6050,6 +7802,36 @@
           "evidence": []
         },
         "podemos": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -6152,6 +7934,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -6245,6 +8057,36 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6972": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6779": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6620": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7039": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "coalicion-d21-2026": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "cc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     }
@@ -6253,133 +8095,133 @@
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 148,
+      "questions": 175,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 304,
+      "questions": 340,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 68,
+      "questions": 80,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 79,
+      "questions": 87,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 217,
+      "questions": 237,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 121,
+      "questions": 141,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 200,
+      "questions": 240,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 111,
+      "questions": 135,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 48,
+      "questions": 64,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 177,
+      "questions": 233,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 149,
+      "questions": 186,
       "concepts": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "questions": 38,
+      "questions": 56,
       "concepts": 1
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 74,
+      "questions": 98,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 171,
+      "questions": 204,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 307,
+      "questions": 357,
       "concepts": 9
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 298,
+      "questions": 384,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 216,
+      "questions": 236,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 65,
+      "questions": 75,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 67,
+      "questions": 75,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 90,
+      "questions": 102,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 51,
+      "questions": 60,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 122,
+      "questions": 150,
       "concepts": 3
     },
     {
@@ -6391,49 +8233,49 @@
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "questions": 40,
+      "questions": 44,
       "concepts": 2
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 173,
+      "questions": 191,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 85,
+      "questions": 98,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 111,
+      "questions": 133,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 224,
+      "questions": 251,
       "concepts": 5
     },
     {
       "id": "propiedad",
       "title": "Ocupación ilegal y propiedad",
-      "questions": 27,
+      "questions": 32,
       "concepts": 1
     },
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 143,
+      "questions": 162,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 76,
+      "questions": 81,
       "concepts": 1
     },
     {
@@ -6445,19 +8287,19 @@
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 83,
+      "questions": 85,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 55,
+      "questions": 60,
       "concepts": 1
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "questions": 50,
+      "questions": 53,
       "concepts": 1
     },
     {
@@ -6469,25 +8311,25 @@
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 163,
+      "questions": 183,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 50,
+      "questions": 59,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 60,
+      "questions": 67,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 92,
+      "questions": 119,
       "concepts": 1
     }
   ]
