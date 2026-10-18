@@ -48,10 +48,15 @@ export const colors: Record<string, string> = {
   pacma: "#a3c946",
   "registro-4086": "#9aaec5",
   "registro-6359": "#e88d4f",
+  "registro-6040": "#ee465b",
+  "registro-7400": "#eed542",
+  "registro-7458": "#c2aa80",
 };
 
 export function documentEdition(source: (typeof raw.sources)[number]) {
-  return source.kind === "historical"
+  return source.kind === "territorial"
+    ? `Programa autonómico · ${source.territory} · ${source.electionDate?.slice(0, 4)}`
+    : source.kind === "historical"
     ? `Programa ${source.electionDate?.slice(0, 4)}`
     : source.kind === "permanent"
       ? "Programa permanente"

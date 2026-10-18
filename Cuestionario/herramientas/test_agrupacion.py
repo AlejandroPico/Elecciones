@@ -151,7 +151,7 @@ class GroupingReviewTests(unittest.TestCase):
             ("q-erc23-g0040-05", "q-pacma23-g0020-01"),
         ]:
             self.assertEqual(pairs[frozenset((a, b))], "related")
-        self.assertEqual(result["counts"]["bankQuestions"], 3673)
+        self.assertEqual(result["counts"]["bankQuestions"], len(bank["questions"]))
         self.assertEqual(result["counts"]["reviewedPairs"], 189)
         self.assertEqual(result["counts"]["approvedForProduction"], 0)
         self.assertEqual(result["counts"]["commonToAllParties"], 0)

@@ -69,7 +69,7 @@ describe("coordenadas documentales", () => {
       ),
     ).toBeNull();
   });
-  it("conserva once partidos y distingue ediciones electorales, generales y permanentes", () => {
+  it("conserva catorce partidos y distingue ediciones electorales, generales, permanentes y autonómicas", () => {
     expect(corpus.parties.map((p) => p.id)).toEqual([
       "pp",
       "psoe",
@@ -82,11 +82,14 @@ describe("coordenadas documentales", () => {
       "pacma",
       "registro-4086",
       "registro-6359",
+      "registro-6040",
+      "registro-7400",
+      "registro-7458",
     ]);
     expect(corpus.sourceElection).toBeNull();
     expect(corpus.sourceContext).toBe("mixed-editions");
     expect(corpus.sources.filter((s) => s.kind === "historical")).toHaveLength(
-      9,
+      10,
     );
     const permanent = corpus.sources.find(
       (s) => s.organization === "registro-4086",
@@ -158,5 +161,16 @@ describe("coordenadas documentales", () => {
       expect(point.x.value).toBeNull();
       expect(point.y.value).toBeNull();
     }
+  });
+  it("no convierte el contrato autonómico de SALF en posiciones nacionales", () => {
+    const source = corpus.sources.find((s) => s.organization === "registro-7458")!;
+    expect(documentEdition(source)).toBe("Programa autonómico · Castilla y León · 2026");
+    expect(source.electionDate).toBe("2026-03-15");
+    for (const question of questions) {
+      expect(question.positions["registro-7458"].value).toBeNull();
+      expect(question.positions["registro-7458"].evidence).toEqual([]);
+    }
+    for (const map of definitions)
+      expect(partyPoint(map, "registro-7458").drawable).toBe(false);
   });
 });

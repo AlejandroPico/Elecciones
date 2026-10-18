@@ -1,20 +1,21 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "reviewedAt": "2026-10-18",
   "status": "proposed-wording-review",
   "liveEligible": false,
-  "bankVersion": "0.4.0",
-  "bankFingerprint": "71420be5f2163cb7d851f1e0ae7a6eedff95f1c50cb0a0dc64ae7e71e2038d25",
+  "bankVersion": "0.5.0",
+  "bankFingerprint": "bfb74739a4b9f48a9d923d0a461fdace9f7966f8fe9f6af699130a787156071a",
   "scope": {
-    "questionCount": 3673,
+    "questionCount": 4040,
     "candidatePairsReviewed": 189,
     "method": "Lectura de pares recuperados por coincidencia léxica dentro de cada categoría. El parecido sirve para localizar, no para decidir equivalencia. Cada relación conserva un criterio editorial explícito.",
     "limits": [
       "Primera pasada de candidatos, no revisión semántica exhaustiva del banco ni garantía de detectar todos los solapamientos.",
       "Equivalente se refiere al alcance de los enunciados conservados. No aprueba sus atribuciones partidistas ni sustituye el contraste de los pasajes originales.",
       "Las variantes relacionadas y las alternativas contrapuestas no se fusionan.",
-      "Las preguntas y posiciones originales mantienen sus identificadores y no se reescriben ni trasladan."
+      "Las preguntas y posiciones originales mantienen sus identificadores y no se reescriben ni trasladan.",
+      "La ampliación PCTE, Iustitia Europa y SALF conserva los 189 pares y las doce familias previas tras verificar sus enunciados. Las nuevas formulaciones no están incluidas en esa revisión semántica; las de SALF son autonómicas."
     ]
   },
   "selectionDesign": {

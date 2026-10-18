@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.5.0",
   "sourceElection": null,
   "sourceContext": "mixed-editions",
   "reviewedAt": "2026-10-18",
@@ -47,14 +47,26 @@
     {
       "id": "registro-6359",
       "name": "Frente Obrero"
+    },
+    {
+      "id": "registro-6040",
+      "name": "PCTE"
+    },
+    {
+      "id": "registro-7400",
+      "name": "Iustitia Europa"
+    },
+    {
+      "id": "registro-7458",
+      "name": "Se Acabó La Fiesta"
     }
   ],
   "counts": {
-    "questions": 3673,
-    "concepts": 108,
+    "questions": 4040,
+    "concepts": 109,
     "categories": 40,
-    "proposalGroups": 1236,
-    "sourceUnits": 2509
+    "proposalGroups": 1431,
+    "sourceUnits": 2583
   },
   "sources": [
     {
@@ -69,7 +81,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "psoe-2023-07-23",
@@ -83,7 +97,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "vox-2023-07-23",
@@ -97,7 +113,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "erc-2023-07-23",
@@ -111,7 +129,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "junts-2023-07-23",
@@ -125,7 +145,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "eh-bildu-2023-07-23",
@@ -139,7 +161,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "pnv-2023-07-23",
@@ -153,7 +177,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "bng-2023-07-23",
@@ -167,7 +193,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "pacma-2023-07-23",
@@ -181,7 +209,9 @@
       "textLines": null,
       "format": "PDF",
       "kind": "historical",
-      "electionDate": "2023-07-23"
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "registro-4086-permanente",
@@ -195,7 +225,9 @@
       "textLines": 6,
       "format": "TXT",
       "kind": "permanent",
-      "electionDate": null
+      "electionDate": null,
+      "territory": null,
+      "electionScope": null
     },
     {
       "id": "registro-6359-general",
@@ -209,7 +241,57 @@
       "textLines": null,
       "format": "PDF",
       "kind": "general",
-      "electionDate": null
+      "electionDate": null,
+      "territory": null,
+      "electionScope": null
+    },
+    {
+      "id": "registro-6040-2023-07-23",
+      "organization": "registro-6040",
+      "title": "Programa de lucha 2023–2027 · PCTE",
+      "file": "Elecciones/Generales Julio 2023/programas/registro-6040/2026-10-17-programa.pdf",
+      "source": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
+      "sourceKind": "official",
+      "sha256": "c070ba0633cfafdd827c8ee11c26361391137cef30e52348de8d3dd23e259711",
+      "pages": 24,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23",
+      "territory": null,
+      "electionScope": null
+    },
+    {
+      "id": "registro-7400-general",
+      "organization": "registro-7400",
+      "title": "Contrato electoral · Iustitia Europa",
+      "file": "Elecciones/Generales Noviembre 2026/programas/registro-7400/2026-10-17-programa.pdf",
+      "source": "https://iustitiaeuropa.es/contrato-electoral/",
+      "sourceKind": "official",
+      "sha256": "6f39d1aef37010eee34bb5c656195c52a3f25fd6c774a9d3b486847ca24a27d0",
+      "pages": 28,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "general",
+      "electionDate": null,
+      "territory": null,
+      "electionScope": null
+    },
+    {
+      "id": "registro-7458-castilla-y-leon-2026-03-15",
+      "organization": "registro-7458",
+      "title": "Contrato electoral · SALF · Castilla y León 2026",
+      "file": "Elecciones/Autonómicas Castilla y León Marzo 2026/programas/registro-7458/2026-10-18-programa.pdf",
+      "source": "https://www.seacabolafiesta.com/images/Contrato_Electoral_CyL.pdf",
+      "sourceKind": "official",
+      "sha256": "6ea63e9b366b0ddae843beacbe569dfa8c495400e10aea9bed70a872b9750715",
+      "pages": 22,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "territorial",
+      "electionDate": "2026-03-15",
+      "territory": "Castilla y León",
+      "electionScope": "autonomous"
     }
   ],
   "questions": [
@@ -333,6 +415,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -404,6 +501,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -504,6 +616,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -587,6 +714,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -701,6 +843,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -783,6 +940,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -871,6 +1043,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -963,6 +1150,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1049,6 +1251,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1152,6 +1369,21 @@
               ]
             }
           ]
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1227,6 +1459,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1297,6 +1544,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1374,6 +1636,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1444,6 +1721,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1520,6 +1812,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1590,6 +1897,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1689,6 +2011,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1785,6 +2122,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1868,6 +2220,43 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "registro-6040-2023-g0034",
+              "documentId": "registro-6040-2023-07-23",
+              "pdfPages": [
+                14
+              ],
+              "sourceUnitIds": [
+                "registro-6040-P014"
+              ]
+            }
+          ]
+        },
+        "registro-7400": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "registro-7400-general-g0034",
+              "documentId": "registro-7400-general",
+              "pdfPages": [
+                18
+              ],
+              "sourceUnitIds": [
+                "registro-7400-P018"
+              ]
+            }
+          ]
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2006,6 +2395,21 @@
               ]
             }
           ]
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2143,6 +2547,21 @@
               ]
             }
           ]
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2229,6 +2648,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2304,6 +2738,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2374,6 +2823,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2470,6 +2934,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2540,6 +3019,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2667,6 +3161,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2739,6 +3248,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2827,6 +3351,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2942,6 +3481,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3041,6 +3595,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3126,6 +3695,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3223,6 +3807,21 @@
               ]
             }
           ]
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3293,6 +3892,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3377,6 +3991,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3455,6 +4084,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3539,6 +4183,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3617,6 +4276,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3701,6 +4375,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3773,6 +4462,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3857,6 +4561,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3938,6 +4657,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4008,6 +4742,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4086,6 +4835,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4156,6 +4920,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4234,6 +5013,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4306,6 +5100,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4384,6 +5193,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4459,6 +5283,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4529,6 +5368,21 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4607,6 +5461,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4682,6 +5551,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4754,6 +5638,34 @@
           "evidence": []
         },
         "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6040": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "registro-6040-2023-g0021",
+              "documentId": "registro-6040-2023-07-23",
+              "pdfPages": [
+                6,
+                11
+              ],
+              "sourceUnitIds": [
+                "registro-6040-P006",
+                "registro-6040-P011"
+              ]
+            }
+          ]
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -4836,6 +5748,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4915,6 +5842,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4988,6 +5930,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "registro-6040": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7400": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-7458": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     }
@@ -4996,67 +5953,67 @@
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 125,
+      "questions": 130,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 232,
+      "questions": 253,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 53,
+      "questions": 56,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 57,
+      "questions": 64,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 165,
+      "questions": 177,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 108,
+      "questions": 115,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 165,
+      "questions": 185,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 96,
+      "questions": 101,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 34,
+      "questions": 37,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 132,
+      "questions": 142,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 107,
+      "questions": 121,
       "concepts": 5
     },
     {
@@ -5068,115 +6025,115 @@
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 65,
+      "questions": 69,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 136,
+      "questions": 154,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 250,
-      "concepts": 8
+      "questions": 283,
+      "concepts": 9
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 210,
+      "questions": 248,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 176,
+      "questions": 191,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 63,
+      "questions": 64,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 51,
+      "questions": 53,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 81,
+      "questions": 82,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 46,
+      "questions": 47,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 71,
+      "questions": 97,
       "concepts": 3
     },
     {
       "id": "constitucion",
       "title": "Constitución memoria y libertad religiosa",
-      "questions": 32,
+      "questions": 34,
       "concepts": 1
     },
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "questions": 31,
+      "questions": 32,
       "concepts": 2
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 132,
+      "questions": 153,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 55,
+      "questions": 72,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 96,
+      "questions": 101,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 180,
+      "questions": 200,
       "concepts": 5
     },
     {
       "id": "propiedad",
       "title": "Ocupación ilegal y propiedad",
-      "questions": 22,
+      "questions": 26,
       "concepts": 1
     },
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 107,
+      "questions": 133,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 62,
+      "questions": 69,
       "concepts": 1
     },
     {
@@ -5188,19 +6145,19 @@
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 66,
+      "questions": 70,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 43,
+      "questions": 46,
       "concepts": 1
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "questions": 41,
+      "questions": 44,
       "concepts": 1
     },
     {
@@ -5212,25 +6169,25 @@
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 142,
+      "questions": 146,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 41,
+      "questions": 43,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 44,
+      "questions": 45,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 84,
+      "questions": 85,
       "concepts": 1
     }
   ]

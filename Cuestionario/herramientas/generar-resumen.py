@@ -16,7 +16,7 @@ from agrupacion import compile_review, render_plan
 
 ROOT = Path(__file__).resolve().parents[2]
 FOLDER = ROOT / "Cuestionario"
-PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero"}
+PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero", "registro-6040": "PCTE", "registro-7400": "Iustitia Europa", "registro-7458": "Se Acabó La Fiesta"}
 
 
 def read(path):
@@ -48,7 +48,10 @@ def validate(data):
         assert local.is_relative_to(ROOT / "Elecciones"), s["file"]
         assert local.stat().st_size == s["bytes"]
         assert hashlib.sha256(local.read_bytes()).hexdigest() == s["sha256"], s["id"]
-        assert s["kind"] in ("historical", "general", "permanent") and s["scoringEligible"] is False
+        assert s["kind"] in ("historical", "general", "permanent", "territorial") and s["scoringEligible"] is False
+        if s["kind"] == "territorial":
+            assert s["territory"] and s["electionScope"] == "autonomous"
+            assert s["electionDate"] and "Autonómicas " in s["file"]
         if s["format"] == "PDF":
             assert s["pages"] > 0
         else:
@@ -148,6 +151,11 @@ def validate(data):
         if q["category"] not in ("instituciones", "buen-gobierno"):
             assert q["positions"]["registro-4086"]["proposedValue"] is None
             assert not q["positions"]["registro-4086"]["evidence"]
+        # A regional programme cannot silently become national evidence.
+        salf = q["positions"]["registro-7458"]
+        if salf["evidence"]:
+            assert q["territorialScope"] == {"kind": "autonomous", "territory": "Castilla y León", "sourceElection": "2026-03-15"}
+            assert all(sources[e["documentId"]]["kind"] == "territorial" for e in salf["evidence"])
 
 
 def statistics(data):
@@ -182,7 +190,8 @@ def render(data, stats):
     line()
     line("ALCANCE Y LECTURA")
     line("Este documento reúne decisiones políticas por conceptos, aunque los programas las titulen de forma distinta. Cada pregunta conserva evidencia y posición de " + ", ".join(PARTIES.values()) + ". Una coincidencia temática no demuestra acuerdo sobre todos sus instrumentos, umbrales o condiciones.")
-    line("Se reúnen nueve programas históricos de las elecciones generales del 23 de julio de 2023, el programa político general de Frente Obrero y el artículo único permanente de Escaños en Blanco. Frente Obrero declara que no es un programa electoral. La fecha de descarga no demuestra fecha de publicación. No son once programas de una misma convocatoria ni acreditan candidaturas o leyes vigentes.")
+    line(data["scope"]["claim"])
+    line("Frente Obrero y PCTE declaran expresamente que sus documentos no son programas electorales. El contrato de Iustitia Europa no identifica una edición electoral concreta. La fecha de descarga no demuestra fecha de publicación. El contrato de SALF es autonómico: sus posiciones no se trasladan al ámbito nacional. Estos documentos no acreditan candidaturas o leyes vigentes.")
     line("No hay un número prefijado de preguntas por tema. El catálogo es deliberadamente amplio para su revisión: no se propone que cada persona responda todo ni que cada formulación solapada sume un voto adicional.")
     line("Las categorías serán los apartados del cuestionario. En una fase posterior se agruparán formulaciones equivalentes y se diseñará una selección aleatoria equilibrada por categorías y conceptos. La longitud, los cupos y el algoritmo no están implementados. La selección deberá evitar repeticiones de una decisión y mantener cobertura comparable entre partidos.")
     line(f"Inventario: {stats['questions']} preguntas únicas en {stats['concepts']} conceptos y {stats['categories']} categorías; {stats['proposalGroups']} agrupaciones documentales.")
@@ -192,6 +201,7 @@ def render(data, stats):
     line("PP y Vox numeran medidas: 365 y 381 respectivamente. El PSOE no usa esa numeración: S0001–S1191 son anclas editoriales de viñetas, NO 1191 medidas oficiales. Hay además pasajes por página para propuestas que usan otras viñetas o párrafos. Pueden solaparse; no sumarlos como promesas independientes.")
     line("ERC, Junts, EH Bildu, PNV y BNG usan aquí anclas por página física (132, 151, 16, 52 y 68 páginas). No son recuentos de medidas ni promesas oficiales. ERC distingue horizontes estratégicos de propuestas a las Cortes; se han priorizado sus apartados operativos. EH Bildu es un compromiso de extensión menor. Las páginas introductorias quedan clasificadas como contexto.")
     line("PACMA y Frente Obrero se inventarían por sus 76 y 64 páginas físicas, respectivamente. Escaños en Blanco se inventaría mediante un único artículo en la línea 6 de su transcripción HTML local. No se inventan páginas PDF para ese texto ni posiciones sectoriales que no contiene. Su renuncia a cobrar subvenciones propias no implica prohibir la financiación de los demás partidos.")
+    line("PCTE, Iustitia Europa y SALF se inventarían por sus 24, 28 y 22 páginas físicas. SALF corresponde exclusivamente a Castilla y León, 15 de marzo de 2026. No se localizó un programa nacional en la revisión del 18 de octubre: se mantiene pendiente, sin presentar el documento regional como sustituto. Los referendos de Iustitia Europa no acreditan por sí solos apoyo a abandonar UE u OTAN; las terapias naturales se describen como propuesta política, sin validar su eficacia clínica.")
     line("Cobertura significa que cada unidad del inventario tiene una clasificación y referencias. No garantiza que todas las subcláusulas estén desdobladas ni que este borrador sea ya un cuestionario validado.")
     line("Los originales del PSOE, Vox y Junts se conservan como copias de archivo de prensa, identificadas por huella y procedencia; no se presentan como descargas actuales de sus servidores oficiales.")
     line()
@@ -219,6 +229,8 @@ def render(data, stats):
         line("  Referencia del partido: " + s["source"])
         line("  Descarga archivada: " + s["downloadedFrom"])
         line("  SHA-256: " + s["sha256"])
+        line("  Alcance: " + s["kind"] + (" · " + s["territory"] if s.get("territory") else "") + (" · " + s["electionDate"] if s.get("electionDate") else ""))
+        line("  Nota: " + s["note"])
     line("Las páginas PDF son posiciones físicas, empezando por 1. El desfase de la numeración impresa del PSOE varía; por eso se usa la página PDF y no una resta fija. En el PP se conserva además la paginación impresa del análisis original. Las líneas TXT son posiciones físicas del archivo conservado, con sus cabeceras y líneas vacías, no números de artículo oficiales.")
     line()
     line("ÍNDICE DE CONCEPTOS")
@@ -290,13 +302,14 @@ def main():
                 assert indicator["direction"] in [-1, 1]
                 for qid in indicator["questionIds"]:
                     assert qid in questions and qid not in seen, (chart["id"], qid)
+                    assert not questions[qid].get("territorialScope"), "No mezclar decisiones autonómicas con los ejes generales"
                     selected.add(qid)
                     seen.add(qid)
     preview = {
         "version": data["version"], "sourceElection": data["scope"]["sourceElection"], "sourceContext": data["scope"]["sourceContext"],
         "reviewedAt": data["reviewedAt"], "parties": [{"id": k, "name": v} for k, v in PARTIES.items()],
         "counts": {k: stats[k] for k in ["questions", "concepts", "categories", "proposalGroups", "sourceUnits"]},
-        "sources": [{k: s.get(k) for k in ["id", "organization", "title", "file", "source", "sourceKind", "sha256", "pages", "textLines", "format", "kind", "electionDate"]} for s in data["sources"]],
+        "sources": [{k: s.get(k) for k in ["id", "organization", "title", "file", "source", "sourceKind", "sha256", "pages", "textLines", "format", "kind", "electionDate", "territory", "electionScope"]} for s in data["sources"]],
         "questions": [{"id": q["id"], "statement": q["statement"], "category": q["category"], "positions": {party: {"value": pos["proposedValue"], "basis": pos["basis"], "evidence": pos["evidence"]} for party, pos in q["positions"].items()}} for q in data["questions"] if q["id"] in selected],
         "categories": stats["byCategory"],
     }

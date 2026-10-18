@@ -82,6 +82,8 @@ export default function ElectionDocuments({
                   <small>
                     {document.kind === "historical"
                       ? "Antecedente de 2023"
+                      : document.kind === "territorial"
+                        ? `Programa autonómico · ${"territory" in document ? document.territory : ""}`
                       : document.kind === "permanent"
                         ? "Programa permanente"
                         : "Documento político general"}{" "}

@@ -158,7 +158,7 @@ export default function Coordinates() {
         <div>
           <h1 className="section-title">Coordenadas políticas</h1>
           <p>
-            Antecedentes y programas generales <span>·</span> Borrador
+            Documentos y antecedentes <span>·</span> Borrador
             documental
           </p>
         </div>
@@ -381,6 +381,9 @@ export default function Coordinates() {
               ? `Cobertura del punto: ${current.x.count}/${current.x.total} en X · ${current.y.count}/${current.y.total} en Y`
               : "Sin punto: falta evidencia en al menos un eje"}
           </p>
+          {party === "registro-7458" && (
+            <p>Solo se ha analizado su programa autonómico de Castilla y León. No se extrapola a estos ejes nacionales.</p>
+          )}
         </header>
         <div className="documentary-audit-grid">
           <AxisEvidence

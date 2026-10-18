@@ -195,9 +195,9 @@
     "source": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
     "downloadedFrom": "https://www.pcte.es/wp-content/uploads/2023/07/PROGRAMA%20DE%20LUCHA%202023-2027.pdf",
     "sourceKind": "official",
-    "analysis": "pending",
+    "analysis": "editorial-draft",
     "scoringEligible": false,
-    "note": "Documento original descargado del servidor del partido. Antecedente de 2023: no es el programa del 29N de 2026."
+    "note": "Documento original descargado del servidor del partido. Antecedente de 2023: no es el programa del 29N de 2026. El propio documento (página PDF 3) se define como programa de lucha, no programa electoral: contexto político de julio de 2023."
   },
   {
     "id": "registro-6359-general",
@@ -235,7 +235,7 @@
     "source": "https://iustitiaeuropa.es/contrato-electoral/",
     "downloadedFrom": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf?v=1783233546",
     "sourceKind": "official",
-    "analysis": "pending",
+    "analysis": "editorial-draft",
     "scoringEligible": false,
     "note": "Documento original descargado del servidor del partido. No identifica una edición específica del 29N; documento general consultado durante la campaña."
   },
@@ -296,5 +296,27 @@
     "analysis": "pending",
     "scoringEligible": false,
     "note": "Transcripción de los apartados Manifiesto y Soluciones de la web de campaña. Documento general de propuestas; no es un PDF electoral completo. No incluye formularios, donaciones ni biografías de colaboradores."
+  },
+  {
+    "id": "registro-7458-castilla-y-leon-2026-03-15",
+    "organization": "registro-7458",
+    "title": "Contrato electoral · SALF · Castilla y León 2026",
+    "kind": "territorial",
+    "electionDate": "2026-03-15",
+    "territory": "Castilla y León",
+    "electionScope": "autonomous",
+    "publishedAt": null,
+    "retrievedAt": "2026-10-18",
+    "file": "Autonómicas Castilla y León Marzo 2026/programas/registro-7458/2026-10-18-programa.pdf",
+    "format": "PDF",
+    "bytes": 306523,
+    "pages": 22,
+    "sha256": "6ea63e9b366b0ddae843beacbe569dfa8c495400e10aea9bed70a872b9750715",
+    "source": "https://www.seacabolafiesta.com/images/Contrato_Electoral_CyL.pdf",
+    "downloadedFrom": "http://www.seacabolafiesta.com/images/Contrato_Electoral_CyL.pdf",
+    "sourceKind": "official",
+    "analysis": "editorial-draft",
+    "scoringEligible": false,
+    "note": "Original autonómico de Castilla y León para el 15 de marzo de 2026, identificado en la conclusión (página PDF 22). No es un programa nacional ni acredita compromisos del 29N. La descarga directa se efectuó desde la misma ruta HTTP del servidor oficial tras fallar HTTPS; se conservan bytes y SHA-256. No se localizó un programa nacional en la revisión de la web y sus documentos públicos del 18 de octubre."
   }
 ]

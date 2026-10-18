@@ -17,6 +17,8 @@ Los originales se guardan en la carpeta de su elección real. Los antecedentes d
 
 `programas.json` inventaría copias y estados de revisión. «No localizado en la consulta» no significa inexistente. Un programa anterior no se incorpora automáticamente a las afinidades de 2026.
 
+La ampliación del 18 de octubre analiza el programa de lucha 2023–2027 del PCTE (24 páginas), el contrato general de Iustitia Europa (28) y el contrato autonómico de SALF para Castilla y León de marzo de 2026 (22). Este último se guarda en su carpeta autonómica y se identifica como `territorial`: el manifiesto facilita su consulta, sin convertirlo en programa nacional. No se localizó un programa nacional de SALF en la revisión de su web y documentos públicos; queda pendiente de incorporar. El PDF de Iustitia Europa enlazado actualmente mantiene la misma huella que la copia ya conservada.
+
 ## Análisis posterior por bloques
 
 1. Identificar documento, elección, versión, idiomas y páginas.

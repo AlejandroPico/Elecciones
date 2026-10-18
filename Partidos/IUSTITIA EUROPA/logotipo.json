@@ -1,6 +1,7 @@
 {
   "file": "logotipo.svg",
   "source": "https://iustitiaeuropa.es/img/logo_IE.svg",
-  "checkedAt": "2026-10-17",
-  "background": "light"
+  "checkedAt": "2026-10-18",
+  "background": "dark",
+  "note": "El SVG oficial conserva trazos blancos: requiere fondo oscuro, tanto en el mosaico como en la ficha. No se recolorea ni redibuja la marca."
 }
