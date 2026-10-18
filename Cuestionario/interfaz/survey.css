@@ -155,6 +155,7 @@
   height: 32px;
   transition:
     flex-grow 0.65s,
+    flex-basis 0.65s,
     width 0.65s;
 }
 .session-track.expanded {

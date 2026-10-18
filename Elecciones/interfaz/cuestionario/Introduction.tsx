@@ -29,7 +29,8 @@ export default function Introduction({
     >
       <h1 id="introduction-title">Antes de empezar</h1>
       <p>
-        Hasta {count} preguntas · {topics.length} temas
+        Hasta {count} preguntas · {topics.length}{" "}
+        {topics.length === 1 ? "tema" : "temas"}
       </p>
       <ul className="introduction-topics">
         {topics.map((title) => (

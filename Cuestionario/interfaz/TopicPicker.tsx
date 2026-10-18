@@ -113,7 +113,8 @@ export default function TopicPicker({
       )}
       <div className="topic-start">
         <span aria-live="polite">
-          {selected.length} temas · hasta {selected.length * 10} preguntas
+          {selected.length} {selected.length === 1 ? "tema" : "temas"} · hasta{" "}
+          {selected.length * 10} preguntas
         </span>
         <button
           className="primary-button"

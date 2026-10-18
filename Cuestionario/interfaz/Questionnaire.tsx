@@ -1,4 +1,11 @@
-import { lazy, Suspense, useEffect, useRef, useState } from "react";
+import {
+  lazy,
+  Suspense,
+  useEffect,
+  useLayoutEffect,
+  useRef,
+  useState,
+} from "react";
 import { Check, Expand, X } from "lucide-react";
 import type { Answers } from "../../Elecciones/interfaz/perfil/model";
 import { createAdvanceClock } from "../../Elecciones/interfaz/cuestionario/avance";
@@ -53,7 +60,7 @@ export default function Questionnaire({
     timer.current.cancel();
     setCountdown(null);
   }
-  useEffect(() => {
+  useLayoutEffect(() => {
     if (view !== "survey" || blocked || phase !== "questions") cancel();
   }, [view, blocked, phase]);
   useEffect(() => () => timer.current.cancel(), []);

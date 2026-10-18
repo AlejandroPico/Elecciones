@@ -71,7 +71,7 @@ export default function SurveyProfile({
   topics: () => void;
 }) {
   const [category, setCategory] = useState("");
-  const [partyId, setPartyId] = useState(bank.parties[0].id);
+  const [requestedParty, setPartyId] = useState<string | null>(null);
   const [mapId, setMapId] = useState(bank.maps[0].id);
   const [hover, setHover] = useState<string | null>(null);
   const responded = uniqueResponses(answers);
@@ -80,7 +80,12 @@ export default function SurveyProfile({
     ...p,
     ...compare(answers, p.id, category || undefined),
   }));
-  const selected = rows.find((p) => p.id === partyId)!;
+  const selected =
+    rows.find((p) => p.id === requestedParty) ??
+    [...rows].sort(
+      (a, b) => b.shared - a.shared || a.name.localeCompare(b.name, "es"),
+    )[0];
+  const partyId = selected.id;
   const detail = compare(answers, partyId, category || undefined);
   const chart = bank.maps.find((m) => m.id === mapId)!;
   const x = userAxis(answers, chart.x),
@@ -112,7 +117,9 @@ export default function SurveyProfile({
         </div>
       </header>
       <p className="results-summary">
-        {answered} respuestas · {responded.length - answered} omisiones
+        {answered} {answered === 1 ? "respuesta" : "respuestas"} ·{" "}
+        {responded.length - answered}{" "}
+        {responded.length - answered === 1 ? "omisión" : "omisiones"}
       </p>
       <p className="profile-limits">
         Perfil parcial y experimental. La coincidencia compara antecedentes de
