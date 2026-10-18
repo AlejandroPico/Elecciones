@@ -1,6 +1,7 @@
 {
-  "version": "0.3.0",
-  "sourceElection": "2023-07-23",
+  "version": "0.4.0",
+  "sourceElection": null,
+  "sourceContext": "mixed-editions",
   "reviewedAt": "2026-10-18",
   "parties": [
     {
@@ -34,14 +35,26 @@
     {
       "id": "bng",
       "name": "BNG"
+    },
+    {
+      "id": "pacma",
+      "name": "PACMA"
+    },
+    {
+      "id": "registro-4086",
+      "name": "Escaños en Blanco"
+    },
+    {
+      "id": "registro-6359",
+      "name": "Frente Obrero"
     }
   ],
   "counts": {
-    "questions": 3255,
+    "questions": 3673,
     "concepts": 108,
     "categories": 40,
-    "proposalGroups": 1127,
-    "sourceUnits": 2368
+    "proposalGroups": 1236,
+    "sourceUnits": 2509
   },
   "sources": [
     {
@@ -52,7 +65,11 @@
       "source": "https://www.pp.es/wp-content/uploads/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
       "sourceKind": "official",
       "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
-      "pages": 112
+      "pages": 112,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "psoe-2023-07-23",
@@ -62,7 +79,11 @@
       "source": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
       "sourceKind": "mirror",
       "sha256": "02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2",
-      "pages": 272
+      "pages": 272,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "vox-2023-07-23",
@@ -72,7 +93,11 @@
       "source": "https://www.voxespana.es/programa/programa-electoral-vox",
       "sourceKind": "mirror",
       "sha256": "4573922e4bf755a428cdd528662c67dd71842317595e7d9a5bbe6b5886507d31",
-      "pages": 178
+      "pages": 178,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "erc-2023-07-23",
@@ -82,7 +107,11 @@
       "source": "https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf",
       "sourceKind": "official",
       "sha256": "455e0629d90ef63ab59c43c35d67cdd739165958587e3242eb5b6e4914afe991",
-      "pages": 132
+      "pages": 132,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "junts-2023-07-23",
@@ -92,7 +121,11 @@
       "source": "https://junts.cat/wp-content/uploads/2023/08/Programa-Electoral-Definitiu-def.pdf",
       "sourceKind": "mirror",
       "sha256": "48e3eeddfbeebc8ea0f56327ecd83eb7c67803ed1aa4df8ed84f8b8e98b48119",
-      "pages": 151
+      "pages": 151,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "eh-bildu-2023-07-23",
@@ -102,7 +135,11 @@
       "source": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
       "sourceKind": "official",
       "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
-      "pages": 16
+      "pages": 16,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "pnv-2023-07-23",
@@ -112,7 +149,11 @@
       "source": "https://hauteskundeorokorrak2019-a10.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
       "sourceKind": "official",
       "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
-      "pages": 52
+      "pages": 52,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
     },
     {
       "id": "bng-2023-07-23",
@@ -122,7 +163,53 @@
       "source": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
       "sourceKind": "official",
       "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
-      "pages": 68
+      "pages": 68,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
+    },
+    {
+      "id": "pacma-2023-07-23",
+      "organization": "pacma",
+      "title": "Programa electoral · PACMA · 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/pacma/2026-10-17-programa.pdf",
+      "source": "https://pacma.es/wp-content/uploads/2023/07/PACMA_PE_GENERALES_23J23.pdf",
+      "sourceKind": "official",
+      "sha256": "88e3f492dc2c6bcb0b904525d494313d63dad8ece524215156a88ab1d1b5b07d",
+      "pages": 76,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "historical",
+      "electionDate": "2023-07-23"
+    },
+    {
+      "id": "registro-4086-permanente",
+      "organization": "registro-4086",
+      "title": "Programa de artículo único · Escaños en Blanco",
+      "file": "Elecciones/Generales Noviembre 2026/programas/registro-4086/2026-10-17-programa-permanente.txt",
+      "source": "https://escanos.org/conocenos/programa-electoral-de-escanos-en-blanco/",
+      "sourceKind": "official",
+      "sha256": "8d5201040ec1c5263bceddb024b2601ebad78aaaf2e7032c89939543d607fa05",
+      "pages": null,
+      "textLines": 6,
+      "format": "TXT",
+      "kind": "permanent",
+      "electionDate": null
+    },
+    {
+      "id": "registro-6359-general",
+      "organization": "registro-6359",
+      "title": "Recuperar España · programa político de Frente Obrero",
+      "file": "Elecciones/Generales Noviembre 2026/programas/registro-6359/2026-10-17-programa.pdf",
+      "source": "https://frenteobrero.es/nuestro-programa-2/",
+      "sourceKind": "official",
+      "sha256": "7b9f423f2c1ada187b6f42ed8dbf4e025356254d7a6b81830e114b818ef2e282",
+      "pages": 64,
+      "textLines": null,
+      "format": "PDF",
+      "kind": "general",
+      "electionDate": null
     }
   ],
   "questions": [
@@ -231,6 +318,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -287,6 +389,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -372,6 +489,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -440,6 +572,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -539,6 +686,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -606,6 +768,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -679,6 +856,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -756,6 +948,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -830,6 +1037,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -904,6 +1126,32 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Salir de la OTAN no equivale a oponerse al ejército ni a todo gasto militar; no fija el 2 % del PIB.",
+          "evidence": [
+            {
+              "proposalId": "registro-6359-general-g0006",
+              "documentId": "registro-6359-general",
+              "pdfPages": [
+                11
+              ],
+              "sourceUnitIds": [
+                "registro-6359-P011"
+              ]
+            }
+          ]
         }
       }
     },
@@ -964,6 +1212,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1019,6 +1282,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1081,6 +1359,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1136,6 +1429,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1197,6 +1505,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1252,6 +1575,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1336,6 +1674,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1417,6 +1770,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1485,6 +1853,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1597,6 +1980,32 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Rechazar procesos de independencia no acredita rechazo a cualquier consulta no vinculante; no se extrapola a todas las fórmulas de soberanía compartida.",
+          "evidence": [
+            {
+              "proposalId": "registro-6359-general-g0040",
+              "documentId": "registro-6359-general",
+              "pdfPages": [
+                56
+              ],
+              "sourceUnitIds": [
+                "registro-6359-P056"
+              ]
+            }
+          ]
         }
       }
     },
@@ -1706,6 +2115,34 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "registro-6359-general-g0032",
+              "documentId": "registro-6359-general",
+              "pdfPages": [
+                42,
+                43
+              ],
+              "sourceUnitIds": [
+                "registro-6359-P042",
+                "registro-6359-P043"
+              ]
+            }
+          ]
         }
       }
     },
@@ -1777,6 +2214,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1837,6 +2289,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -1892,6 +2359,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -1973,6 +2455,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2028,6 +2525,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2140,6 +2652,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2197,6 +2724,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2270,6 +2812,21 @@
           ]
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2370,6 +2927,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2454,6 +3026,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2527,6 +3114,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2595,6 +3197,32 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Rechazar procesos de independencia no acredita rechazo a cualquier consulta no vinculante; no se extrapola a todas las fórmulas de soberanía compartida.",
+          "evidence": [
+            {
+              "proposalId": "registro-6359-general-g0040",
+              "documentId": "registro-6359-general",
+              "pdfPages": [
+                56
+              ],
+              "sourceUnitIds": [
+                "registro-6359-P056"
+              ]
+            }
+          ]
         }
       }
     },
@@ -2650,6 +3278,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2719,6 +3362,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2782,6 +3440,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2851,6 +3524,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -2914,6 +3602,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -2983,6 +3686,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3040,6 +3758,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3109,6 +3842,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3175,6 +3923,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3230,6 +3993,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3293,6 +4071,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3348,6 +4141,21 @@
           "evidence": []
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3411,6 +4219,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3468,6 +4291,21 @@
           ]
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3531,6 +4369,21 @@
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3588,6 +4441,21 @@
           ]
         },
         "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
           "value": null,
           "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
           "evidence": []
@@ -3649,6 +4517,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3709,6 +4592,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3769,6 +4667,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3829,6 +4742,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3893,6 +4821,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -3957,6 +4900,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     },
@@ -4015,6 +4973,21 @@
               ]
             }
           ]
+        },
+        "pacma": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-4086": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "registro-6359": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
         }
       }
     }
@@ -4023,139 +4996,139 @@
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 121,
+      "questions": 125,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 209,
+      "questions": 232,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 46,
+      "questions": 53,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 53,
+      "questions": 57,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 151,
+      "questions": 165,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 101,
+      "questions": 108,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 139,
+      "questions": 165,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 79,
+      "questions": 96,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 33,
+      "questions": 34,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 128,
+      "questions": 132,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 98,
+      "questions": 107,
       "concepts": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "questions": 32,
+      "questions": 35,
       "concepts": 1
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 56,
+      "questions": 65,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 122,
+      "questions": 136,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 223,
+      "questions": 250,
       "concepts": 8
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 174,
+      "questions": 210,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 161,
+      "questions": 176,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 57,
+      "questions": 63,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 45,
+      "questions": 51,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 73,
+      "questions": 81,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 40,
+      "questions": 46,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 57,
+      "questions": 71,
       "concepts": 3
     },
     {
       "id": "constitucion",
       "title": "Constitución memoria y libertad religiosa",
-      "questions": 28,
+      "questions": 32,
       "concepts": 1
     },
     {
@@ -4167,43 +5140,43 @@
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 118,
+      "questions": 132,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 45,
+      "questions": 55,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 93,
+      "questions": 96,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 159,
+      "questions": 180,
       "concepts": 5
     },
     {
       "id": "propiedad",
       "title": "Ocupación ilegal y propiedad",
-      "questions": 19,
+      "questions": 22,
       "concepts": 1
     },
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 94,
+      "questions": 107,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 61,
+      "questions": 62,
       "concepts": 1
     },
     {
@@ -4215,13 +5188,13 @@
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 65,
+      "questions": 66,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 35,
+      "questions": 43,
       "concepts": 1
     },
     {
@@ -4233,31 +5206,31 @@
     {
       "id": "exterior-ciudadania",
       "title": "Españoles en el exterior",
-      "questions": 15,
+      "questions": 17,
       "concepts": 1
     },
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 128,
+      "questions": 142,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 40,
+      "questions": 41,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 31,
+      "questions": 44,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 34,
+      "questions": 84,
       "concepts": 1
     }
   ]

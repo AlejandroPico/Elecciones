@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "title": "Coordenadas documentales de programas de 2023",
+  "title": "Coordenadas documentales de antecedentes electorales y programas generales",
   "status": "editorial-preview",
-  "sourceElection": "2023-07-23",
+  "sourceElection": null,
   "version": "0.1.0",
   "notAnAffinityRanking": true,
   "scale": {
@@ -19,7 +19,7 @@
     "El intervalo de datos faltantes completa cada indicador desconocido con −100 o +100 y divide entre todos los indicadores del eje. No es una probabilidad ni confianza estadística.",
     "Los puntos coincidentes comparten marcador, sin desplazamientos artificiales. La selección permite inspeccionar cada partido.",
     "No utiliza respuestas personales ni normal/alta/esencial. Esos pesos 1/2/3 pertenecen al futuro cálculo de afinidad; aquí todos los indicadores pesan uno.",
-    "Son programas de 2023, no candidaturas ni compromisos actuales de 2026. Los ocho temas gráficos agrupan parte de las 40 categorías del borrador; no agotan el catálogo.",
+    "Se mezclan antecedentes electorales de 2023 y documentos generales y permanentes, identificados por fuente. No acreditan candidaturas ni compromisos de una misma convocatoria actual. Los ocho temas gráficos agrupan parte de las 40 categorías del borrador; no agotan el catálogo.",
     "Cada índice combina solo las decisiones enumeradas. Compartir coordenadas puede reflejar distintos instrumentos y ámbitos: no equivale a defender la misma política fiscal, jornada o modelo territorial."
   ],
   "charts": [
@@ -563,5 +563,6 @@
         ]
       }
     }
-  ]
+  ],
+  "sourceContext": "mixed-editions"
 }

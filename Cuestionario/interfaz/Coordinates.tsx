@@ -4,6 +4,8 @@ import {
   colors,
   corpus,
   definitions,
+  documentEdition,
+  evidenceLocator,
   indicatorValue,
   markerGroups,
   methodology,
@@ -16,11 +18,14 @@ import notebook from "../Resumen Preguntas.txt?url&no-inline";
 import categoryReport from "../Resumen Categorías.txt?url&no-inline";
 import "./coordinates.css";
 
-const pdfs = import.meta.glob<string>("../../Elecciones/*/programas/**/*.pdf", {
-  eager: true,
-  query: "?url&no-inline",
-  import: "default",
-});
+const documents = import.meta.glob<string>(
+  "../../Elecciones/*/programas/**/*.{pdf,txt}",
+  {
+    eager: true,
+    query: "?url&no-inline",
+    import: "default",
+  },
+);
 const number = (value: number | null) =>
   value === null
     ? "Sin datos"
@@ -91,15 +96,19 @@ function AxisEvidence({
                           const source = corpus.sources.find(
                             (s) => s.id === ev.documentId,
                           )!;
-                          const href = pdfs[`../../${source.file}`];
+                          const href = documents[`../../${source.file}`];
                           return (
                             <a
                               key={ev.proposalId}
-                              href={`${href}#page=${ev.pdfPages[0]}`}
+                              href={
+                                ev.pdfPages.length
+                                  ? `${href}#page=${ev.pdfPages[0]}`
+                                  : href
+                              }
                               target="_blank"
                               rel="noreferrer"
                             >
-                              Programa 2023 · PDF {ev.pdfPages.join(", ")}{" "}
+                              {documentEdition(source)} · {evidenceLocator(ev)}{" "}
                               <span className="sr-only">· {source.title}</span>
                             </a>
                           );
@@ -148,7 +157,8 @@ export default function Coordinates() {
         <div>
           <h1 className="section-title">Coordenadas políticas</h1>
           <p>
-            Programas de 2023 <span>·</span> Borrador documental
+            Antecedentes y programas generales <span>·</span> Borrador
+            documental
           </p>
         </div>
         <a
@@ -447,13 +457,17 @@ export default function Coordinates() {
                 {corpus.parties.find((p) => p.id === s.organization)!.name}
               </h3>
               <p>
-                {s.pages} páginas ·{" "}
+                {documentEdition(s)} ·{" "}
+                {s.format === "PDF"
+                  ? `${s.pages} páginas`
+                  : "transcripción HTML · TXT"}{" "}
+                ·{" "}
                 {s.sourceKind === "mirror"
                   ? "copia de archivo de prensa"
                   : "descarga oficial"}
               </p>
-              <a href={pdfs[`../../${s.file}`]} download>
-                Descargar PDF conservado
+              <a href={documents[`../../${s.file}`]} download>
+                Descargar {s.format} conservado
               </a>
               <a href={s.source} target="_blank" rel="noreferrer">
                 Referencia original

@@ -1,12 +1,40 @@
 {
   "reviewedAt": "2026-10-18",
-  "sourceElection": "2023-07-23",
+  "sourceElection": null,
+  "sourceContext": "mixed-editions",
+  "sourceDocumentIds": [
+    "pp-2023-07-23",
+    "psoe-2023-07-23",
+    "vox-2023-07-23",
+    "erc-2023-07-23",
+    "junts-2023-07-23",
+    "eh-bildu-2023-07-23",
+    "pnv-2023-07-23",
+    "bng-2023-07-23",
+    "pacma-2023-07-23",
+    "registro-4086-permanente",
+    "registro-6359-general"
+  ],
+  "surveyDesign": {
+    "categoriesAreSurveySections": true,
+    "fullBankIsNotASession": true,
+    "reductionAndSampling": "planned",
+    "implemented": false,
+    "rules": [
+      "Agrupar formulaciones que expresen la misma decisión, conservando fuentes y condiciones.",
+      "Diseñar una selección aleatoria equilibrada por categorías y conceptos, sin exigir el mismo número en todos los temas.",
+      "Evitar que formulaciones equivalentes repitan o multipliquen el peso de una decisión.",
+      "Fijar una cobertura documental comparable entre partidos antes de calcular afinidades.",
+      "Publicar el método y conservar la trazabilidad de las preguntas seleccionadas."
+    ],
+    "note": "La longitud, los cupos y el algoritmo se decidirán en una fase posterior. El banco clasificado no es el test completo que responde una persona."
+  },
   "liveEligible": false,
-  "questions": 3255,
+  "questions": 3673,
   "concepts": 108,
   "categories": 40,
-  "proposalGroups": 1127,
-  "sourceUnits": 2368,
+  "proposalGroups": 1236,
+  "sourceUnits": 2509,
   "parties": {
     "pp": {
       "primarySourceUnits": 365,
@@ -14,7 +42,7 @@
       "supports": 637,
       "opposes": 5,
       "ambiguousEvidence": 36,
-      "unlinkedDecision": 2577
+      "unlinkedDecision": 2995
     },
     "psoe": {
       "primarySourceUnits": 1191,
@@ -22,7 +50,7 @@
       "supports": 943,
       "opposes": 3,
       "ambiguousEvidence": 18,
-      "unlinkedDecision": 2291
+      "unlinkedDecision": 2709
     },
     "vox": {
       "primarySourceUnits": 381,
@@ -30,7 +58,7 @@
       "supports": 479,
       "opposes": 30,
       "ambiguousEvidence": 12,
-      "unlinkedDecision": 2734
+      "unlinkedDecision": 3152
     },
     "erc": {
       "primarySourceUnits": 132,
@@ -38,7 +66,7 @@
       "supports": 397,
       "opposes": 2,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 2856
+      "unlinkedDecision": 3274
     },
     "junts": {
       "primarySourceUnits": 151,
@@ -46,7 +74,7 @@
       "supports": 353,
       "opposes": 1,
       "ambiguousEvidence": 1,
-      "unlinkedDecision": 2900
+      "unlinkedDecision": 3318
     },
     "eh-bildu": {
       "primarySourceUnits": 16,
@@ -54,7 +82,7 @@
       "supports": 94,
       "opposes": 2,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 3159
+      "unlinkedDecision": 3577
     },
     "pnv": {
       "primarySourceUnits": 52,
@@ -62,7 +90,7 @@
       "supports": 225,
       "opposes": 5,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 3022
+      "unlinkedDecision": 3440
     },
     "bng": {
       "primarySourceUnits": 68,
@@ -70,7 +98,31 @@
       "supports": 273,
       "opposes": 6,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 2976
+      "unlinkedDecision": 3394
+    },
+    "pacma": {
+      "primarySourceUnits": 76,
+      "proposalGroups": 61,
+      "supports": 250,
+      "opposes": 1,
+      "ambiguousEvidence": 0,
+      "unlinkedDecision": 3422
+    },
+    "registro-4086": {
+      "primarySourceUnits": 1,
+      "proposalGroups": 4,
+      "supports": 3,
+      "opposes": 0,
+      "ambiguousEvidence": 0,
+      "unlinkedDecision": 3670
+    },
+    "registro-6359": {
+      "primarySourceUnits": 64,
+      "proposalGroups": 44,
+      "supports": 169,
+      "opposes": 3,
+      "ambiguousEvidence": 3,
+      "unlinkedDecision": 3498
     }
   },
   "limits": [
@@ -80,148 +132,152 @@
     "Posiciones y preguntas pendientes de revisión para uso real. La vista previa documental no modifica el cuestionario vigente.",
     "ERC, Junts, EH Bildu, PNV y BNG se inventarían por páginas físicas, no como recuento de promesas oficiales.",
     "ERC distingue horizonte político y actuación en Cortes; se priorizan sus apartados operativos c). EH Bildu es un compromiso breve, no un programa de extensión comparable.",
-    "La fusión exacta conserva identidades y referencias. Los conceptos agrupan asuntos, pero las decisiones con cifras o condiciones diferentes permanecen separadas."
+    "La fusión exacta conserva identidades y referencias. Los conceptos agrupan asuntos, pero las decisiones con cifras o condiciones diferentes permanecen separadas.",
+    "El corpus mezcla nueve antecedentes electorales de 2023, un programa general de Frente Obrero expresamente no electoral y el artículo único permanente de Escaños en Blanco. No son once programas de una misma convocatoria.",
+    "PACMA y Frente Obrero se inventarían por páginas físicas; Escaños en Blanco por su artículo único en la transcripción HTML conservada, sin paginación PDF ficticia.",
+    "Escaños en Blanco solo tiene decisiones institucionales documentadas. Su ausencia de programa sectorial no representa neutralidad, apoyo ni oposición en los demás temas.",
+    "El número de formulaciones del banco no es la duración del futuro cuestionario; la reducción y selección equilibrada quedan pendientes."
   ],
-  "questionsWithMultiplePartiesLinked": 219,
-  "questionsWithThreePartiesLinked": 39,
+  "questionsWithMultiplePartiesLinked": 226,
+  "questionsWithThreePartiesLinked": 40,
   "questionsWithAllPartiesLinked": 0,
   "byCategory": [
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 121,
+      "questions": 125,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 209,
+      "questions": 232,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 46,
+      "questions": 53,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 53,
+      "questions": 57,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 151,
+      "questions": 165,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 101,
+      "questions": 108,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 139,
+      "questions": 165,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 79,
+      "questions": 96,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 33,
+      "questions": 34,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 128,
+      "questions": 132,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 98,
+      "questions": 107,
       "concepts": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "questions": 32,
+      "questions": 35,
       "concepts": 1
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 56,
+      "questions": 65,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 122,
+      "questions": 136,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 223,
+      "questions": 250,
       "concepts": 8
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 174,
+      "questions": 210,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 161,
+      "questions": 176,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 57,
+      "questions": 63,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 45,
+      "questions": 51,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 73,
+      "questions": 81,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 40,
+      "questions": 46,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 57,
+      "questions": 71,
       "concepts": 3
     },
     {
       "id": "constitucion",
       "title": "Constitución memoria y libertad religiosa",
-      "questions": 28,
+      "questions": 32,
       "concepts": 1
     },
     {
@@ -233,43 +289,43 @@
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 118,
+      "questions": 132,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 45,
+      "questions": 55,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 93,
+      "questions": 96,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 159,
+      "questions": 180,
       "concepts": 5
     },
     {
       "id": "propiedad",
       "title": "Ocupación ilegal y propiedad",
-      "questions": 19,
+      "questions": 22,
       "concepts": 1
     },
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 94,
+      "questions": 107,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 61,
+      "questions": 62,
       "concepts": 1
     },
     {
@@ -281,13 +337,13 @@
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 65,
+      "questions": 66,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 35,
+      "questions": 43,
       "concepts": 1
     },
     {
@@ -299,31 +355,31 @@
     {
       "id": "exterior-ciudadania",
       "title": "Españoles en el exterior",
-      "questions": 15,
+      "questions": 17,
       "concepts": 1
     },
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 128,
+      "questions": 142,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 40,
+      "questions": 41,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 31,
+      "questions": 44,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 34,
+      "questions": 84,
       "concepts": 1
     }
   ]

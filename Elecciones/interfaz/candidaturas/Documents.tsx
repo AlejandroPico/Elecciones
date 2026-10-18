@@ -133,10 +133,9 @@ export default function ElectionDocuments({
                 <div>
                   <dt>Análisis</dt>
                   <dd>
-                    {document.kind === "historical" &&
-                    Object.hasOwn(research.parties, organization) ? (
+                    {research.sourceDocumentIds.includes(document.id) ? (
                       <a href="#/coordenadas-politicas">
-                        Borrador documental · coordenadas de 2023
+                        Borrador documental · propuestas y fuentes
                       </a>
                     ) : (
                       "Pendiente · no se utiliza para calcular afinidades"

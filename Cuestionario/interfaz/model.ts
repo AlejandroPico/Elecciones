@@ -5,6 +5,7 @@ export type Evidence = {
   proposalId: string;
   documentId: string;
   pdfPages: number[];
+  textLines?: number[];
 };
 export type Position = {
   value: number | null;
@@ -44,7 +45,24 @@ export const colors: Record<string, string> = {
   "eh-bildu": "#b88bd8",
   pnv: "#659d77",
   bng: "#cf85b3",
+  pacma: "#a3c946",
+  "registro-4086": "#9aaec5",
+  "registro-6359": "#e88d4f",
 };
+
+export function documentEdition(source: (typeof raw.sources)[number]) {
+  return source.kind === "historical"
+    ? `Programa ${source.electionDate?.slice(0, 4)}`
+    : source.kind === "permanent"
+      ? "Programa permanente"
+      : "Programa político general";
+}
+
+export function evidenceLocator(evidence: Evidence) {
+  return evidence.pdfPages.length
+    ? `PDF ${evidence.pdfPages.join(", ")}`
+    : `Texto · líneas ${(evidence.textLines ?? []).join(", ")}`;
+}
 
 /** Repetir una fuente o una variante no aumenta el peso del indicador. */
 export function indicatorValue(

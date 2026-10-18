@@ -1,6 +1,6 @@
 # Cuestionario: propuestas y preguntas
 
-[Resumen Preguntas.txt](Resumen%20Preguntas.txt) es el documento unificado de **PP, PSOE, Vox, ERC, Junts, EH Bildu, PNV y BNG**. Agrupa decisiones por conceptos, aunque los programas utilicen títulos diferentes. Es una investigación editorial de los **programas de las generales de julio de 2023**. La vista previa «Cuestionario → Coordenadas políticas» permite explorar posiciones documentadas; el banco todavía no sustituye las preguntas ni las afinidades del test vigente.
+[Resumen Preguntas.txt](Resumen%20Preguntas.txt) es el documento unificado de **PP, PSOE, Vox, ERC, Junts, EH Bildu, PNV, BNG, PACMA, Escaños en Blanco y Frente Obrero**. Agrupa decisiones por conceptos, aunque los documentos utilicen títulos diferentes. Reúne nueve programas de las generales de julio de 2023, un programa político general de Frente Obrero y el artículo único permanente de Escaños en Blanco. No son once programas de una misma convocatoria. La vista previa «Cuestionario → Coordenadas políticas» permite explorar posiciones documentadas; el banco todavía no sustituye las preguntas ni las afinidades del test vigente.
 
 ## Archivos
 
@@ -13,7 +13,7 @@
 - `interfaz/`: gráficos, consulta de cálculos, fuentes y pruebas del modelo.
 - `herramientas/generar-resumen.py`: generador y verificador, sin dependencias externas.
 
-Los originales permanecen en `Elecciones/Generales Julio 2023/programas/<partido>/`. Esta carpeta raíz de investigación se crea por petición expresa del usuario. No duplicar originales ni mantener otro catálogo de preguntas editable en `docs` o bajo un partido.
+Los originales electorales permanecen en `Elecciones/Generales Julio 2023/programas/<partido>/`. Los documentos generales y permanentes consultados para la convocatoria activa se conservan en `Elecciones/Generales Noviembre 2026/programas/<partido>/`, identificando que no son programas específicos de esa elección. Esta carpeta raíz de investigación se crea por petición expresa del usuario. No duplicar originales ni mantener otro catálogo de preguntas editable en `docs` o bajo un partido.
 
 ## Cobertura y organización
 
@@ -23,13 +23,17 @@ Se conservan las 365 propuestas y las 678 preguntas del primer análisis del PP,
 
 ERC, Junts, EH Bildu, PNV y BNG se inventarían por páginas físicas: **132, 151, 16, 52 y 68** respectivamente. Son anclas editoriales, no medidas oficiales numeradas ni promesas independientes. EH Bildu es un compromiso breve. ERC separa horizontes políticos y propuestas a las Cortes; las preguntas se centran en sus apartados operativos. Las introducciones y balances quedan clasificados como contexto. El inventario por página no garantiza haber desdoblado todas las subcláusulas.
 
-`concepts` reúne preguntas de los ocho partidos por asunto. `questions.originConcepts` conserva las denominaciones editoriales de origen. Cada pregunta conserva un ID estable: su prefijo identifica dónde nació, **no qué partido es propietario de la pregunta**. Si una decisión coincide en alcance, población, instrumento y condiciones, compartir pregunta y añadir evidencia. Si cambia una condición relevante, mantener preguntas distintas dentro del mismo concepto. No igualar, por ejemplo, devolución y exención del IBI, jornadas de 32 y 35 horas o convenios autonómicos incondicionados y condicionados a ser más favorables. `unificationAudit` registra fusiones semánticas revisadas; la fusión literal no basta para resolver todos los solapamientos.
+PACMA y Frente Obrero se inventarían por sus 76 y 64 páginas físicas. Frente Obrero declara expresamente que su documento es político, no electoral. Escaños en Blanco se referencia por su artículo único en la línea 6 de la transcripción HTML local: no tiene páginas PDF ficticias. No se le atribuyen posiciones sectoriales ni se convierte la renuncia voluntaria a sus subvenciones en una prohibición para otros partidos. La esterilización propuesta por PACMA conserva la excepción veterinaria; una crítica genérica a la nuclear no acredita un calendario de cierre concreto.
+
+`concepts` reúne preguntas de los once partidos por asunto. `questions.originConcepts` conserva las denominaciones editoriales de origen. Cada pregunta conserva un ID estable: su prefijo identifica dónde nació, **no qué partido es propietario de la pregunta**. Si una decisión coincide en alcance, población, instrumento y condiciones, compartir pregunta y añadir evidencia. Si cambia una condición relevante, mantener preguntas distintas dentro del mismo concepto. No igualar, por ejemplo, devolución y exención del IBI, jornadas de 32 y 35 horas o convenios autonómicos incondicionados y condicionados a ser más favorables. `unificationAudit` registra fusiones semánticas revisadas; la fusión literal no basta para resolver todos los solapamientos.
 
 `selectionGroup` señala una familia temática que requiere revisar solapamientos. Es un aviso conservador, no una instrucción para seleccionar una sola pregunta de todo el tema ni un algoritmo de corrección ya aplicado. `legacySelectionGroup` conserva los avisos anteriores del PP. Antes de puntuar, decidir qué formulaciones representan la misma decisión y cuáles son dimensiones independientes.
 
+Las **40 categorías serán los apartados del cuestionario**, no cuarenta encuestas completas. Las 3.673 formulaciones son un banco documental que se reducirá mediante agrupación de decisiones equivalentes. Se prevé una selección aleatoria equilibrada por categorías y conceptos, evitando repetir la misma decisión y manteniendo cobertura comparable entre partidos. No exige igual número de preguntas en todos los temas. `surveyDesign` documenta esta intención: todavía no hay algoritmo, cupos ni longitud definitiva implementados. No confundir el tamaño del banco con las preguntas que responderá cada persona.
+
 ## Posiciones y comparación
 
-Todas las preguntas son `editorial-draft`, `liveEligible: false` y `axisAssignment: null`. Cada una tiene una posición para los ocho partidos analizados:
+Todas las preguntas son `editorial-draft`, `liveEligible: false` y `axisAssignment: null`. Cada una tiene una posición para los once partidos analizados:
 
 - `proposed-coding`: respaldo +2 o rechazo −2 a la decisión exacta, con evidencia. No mide entusiasmo ideológico.
 - `undetermined`: hay un pasaje relacionado, pero no permite atribuir un valor suficientemente preciso. Una evaluación o estudio no acredita su resultado.
@@ -50,6 +54,8 @@ Cada indicador pesa uno. Su puntuación es `50 × posición × dirección`, con 
 El intervalo de datos ausentes completa cada indicador desconocido con −100 o +100 y divide entre el total del eje. Es un rango de resultados posibles, **no confianza estadística ni probabilidad**. Los puntos coincidentes comparten marcador sin mover coordenadas para separarlos. Los cálculos desglosados y enlaces a páginas del PDF se consultan seleccionando partido e indicador.
 
 Los indicadores de esta vista pesan uno y no utilizan respuestas personales. Normal/alta/esencial conservan los pesos 1/2/3 del futuro cuestionario. No interpretar valores con coberturas diferentes como distancias equivalentes o como recomendación de voto. Las decisiones definitivas y una selección equilibrada siguen requiriendo revisión editorial.
+
+Pendiente de presentación: revisar los rectángulos de datos ausentes, que pueden confundirse con amplitud ideológica, y estudiar marcadores con el logotipo de cada partido. La incorporación de fuentes de esta tanda no rediseña los mapas ni convierte datos desconocidos en coordenadas precisas.
 
 ## Edición y comprobación
 

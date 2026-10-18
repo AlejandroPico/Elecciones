@@ -2,6 +2,8 @@ import { describe, expect, it } from "vitest";
 import {
   corpus,
   definitions,
+  documentEdition,
+  evidenceLocator,
   indicatorValue,
   markerGroups,
   partyPoint,
@@ -67,7 +69,7 @@ describe("coordenadas documentales", () => {
       ),
     ).toBeNull();
   });
-  it("mantiene ocho partidos y fuentes de 2023 con páginas verificables", () => {
+  it("conserva once partidos y distingue ediciones electorales, generales y permanentes", () => {
     expect(corpus.parties.map((p) => p.id)).toEqual([
       "pp",
       "psoe",
@@ -77,10 +79,36 @@ describe("coordenadas documentales", () => {
       "eh-bildu",
       "pnv",
       "bng",
+      "pacma",
+      "registro-4086",
+      "registro-6359",
     ]);
-    expect(corpus.sourceElection).toBe("2023-07-23");
+    expect(corpus.sourceElection).toBeNull();
+    expect(corpus.sourceContext).toBe("mixed-editions");
+    expect(corpus.sources.filter((s) => s.kind === "historical")).toHaveLength(
+      9,
+    );
+    const permanent = corpus.sources.find(
+      (s) => s.organization === "registro-4086",
+    )!;
+    expect(permanent.format).toBe("TXT");
+    expect(permanent.pages).toBeNull();
+    expect(documentEdition(permanent)).toBe("Programa permanente");
+    expect(
+      documentEdition(
+        corpus.sources.find((s) => s.organization === "registro-6359")!,
+      ),
+    ).toBe("Programa político general");
+    expect(
+      evidenceLocator({
+        proposalId: "test",
+        documentId: permanent.id,
+        pdfPages: [],
+        textLines: [6],
+      }),
+    ).toBe("Texto · líneas 6");
     // Evaluar una rebaja del IVA o condicionar un gravamen no acredita aprobarlos.
-    const iva = questions.find(q => q.id === "q-pnv23-g0016-05")!;
+    const iva = questions.find((q) => q.id === "q-pnv23-g0016-05")!;
     expect(iva.positions.pnv.value).toBeNull();
     expect(iva.positions.pnv.evidence.length).toBeGreaterThan(0);
     expect(corpus.categories.reduce((n, c) => n + c.questions, 0)).toBe(
@@ -93,9 +121,11 @@ describe("coordenadas documentales", () => {
         for (const ev of position.evidence) {
           const source = corpus.sources.find((s) => s.id === ev.documentId)!;
           expect(source.organization).toBe(party);
-          expect(ev.pdfPages.every((p) => p > 0 && p <= source.pages)).toBe(
-            true,
-          );
+          expect(
+            ev.pdfPages.every(
+              (p) => p > 0 && source.pages !== null && p <= source.pages,
+            ),
+          ).toBe(true);
         }
       }
   });
@@ -119,6 +149,14 @@ describe("coordenadas documentales", () => {
             expect(axis.interval![0]).toBeLessThanOrEqual(axis.value);
             expect(axis.interval![1]).toBeGreaterThanOrEqual(axis.value);
           }
+    }
+  });
+  it("no inventa coordenadas sectoriales para el programa de artículo único", () => {
+    for (const map of definitions) {
+      const point = partyPoint(map, "registro-4086");
+      expect(point.drawable).toBe(false);
+      expect(point.x.value).toBeNull();
+      expect(point.y.value).toBeNull();
     }
   });
 });

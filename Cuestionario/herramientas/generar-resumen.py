@@ -14,7 +14,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[2]
 FOLDER = ROOT / "Cuestionario"
-PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG"}
+PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero"}
 
 
 def read(path):
@@ -34,7 +34,8 @@ def similarity(answers, positions, weights):
 def validate(data):
     assert data["schemaVersion"] == 2
     assert data["liveEligible"] is False and data["coding"]["productionChange"] is False
-    assert data["scope"]["sourceElection"] == "2023-07-23"
+    assert data["scope"]["sourceElection"] is None
+    assert data["scope"]["sourceContext"] == "mixed-editions"
     assert data["scope"]["analyzedParties"] == list(PARTIES)
     assert [o["value"] for o in data["scale"]["options"]] == [-2, -1, 0, 1, 2]
     assert [o["value"] for o in data["importance"]["options"]] == [1, 2, 3]
@@ -45,7 +46,13 @@ def validate(data):
         assert local.is_relative_to(ROOT / "Elecciones"), s["file"]
         assert local.stat().st_size == s["bytes"]
         assert hashlib.sha256(local.read_bytes()).hexdigest() == s["sha256"], s["id"]
-        assert s["kind"] == "historical" and s["scoringEligible"] is False
+        assert s["kind"] in ("historical", "general", "permanent") and s["scoringEligible"] is False
+        if s["format"] == "PDF":
+            assert s["pages"] > 0
+        else:
+            assert s["format"] == "TXT" and s["pages"] is None
+            assert s["textLines"] == len(local.read_text(encoding="utf-8").splitlines())
+        assert (s["electionDate"] == "2023-07-23") == (s["kind"] == "historical")
     units = {u["id"]: u for u in data["sourceUnits"]}
     proposals = {p["id"]: p for p in data["proposals"]}
     questions = {q["id"]: q for q in data["questions"]}
@@ -59,7 +66,13 @@ def validate(data):
     for u in units.values():
         assert u["party"] in PARTIES
         assert sources[u["documentId"]]["organization"] == u["party"]
-        assert u["pdfPages"] and all(1 <= n <= sources[u["documentId"]]["pages"] for n in u["pdfPages"])
+        source = sources[u["documentId"]]
+        if source["format"] == "PDF":
+            assert u["pdfPages"] and all(1 <= n <= source["pages"] for n in u["pdfPages"])
+            assert not u.get("textLines")
+        else:
+            assert not u["pdfPages"] and u["textLines"]
+            assert all(1 <= n <= source["textLines"] for n in u["textLines"])
     covered = set()
     for p in proposals.values():
         assert p["party"] in PARTIES and p["category"] in categories
@@ -70,6 +83,7 @@ def validate(data):
         source = sources[p["source"]["documentId"]]
         assert source["organization"] == p["party"]
         assert sorted(p["source"]["pdfPages"]) == sorted({n for uid in p["sourceUnitIds"] for n in units[uid]["pdfPages"]})
+        assert sorted(p["source"].get("textLines", [])) == sorted({n for uid in p["sourceUnitIds"] for n in units[uid].get("textLines", [])})
         for uid in p["sourceUnitIds"]:
             assert units[uid]["party"] == p["party"]
             covered.add(uid)
@@ -125,10 +139,17 @@ def validate(data):
     assert questions["q-pp23-222-a"]["positions"]["pp"]["proposedValue"] == -2
     assert questions["q-pp23-222-a"]["positions"]["psoe"]["proposedValue"] == 2
     assert questions["q-pp23-222-a"]["positions"]["vox"]["proposedValue"] == -2
+    assert data["surveyDesign"]["fullBankIsNotASession"] is True
+    assert data["surveyDesign"]["implemented"] is False
+    # An institutional single-article programme cannot acquire sectoral opinions.
+    for q in questions.values():
+        if q["category"] not in ("instituciones", "buen-gobierno"):
+            assert q["positions"]["registro-4086"]["proposedValue"] is None
+            assert not q["positions"]["registro-4086"]["evidence"]
 
 
 def statistics(data):
-    result = {"reviewedAt": data["reviewedAt"], "sourceElection": "2023-07-23", "liveEligible": False, "questions": len(data["questions"]), "concepts": len(data["concepts"]), "categories": len(data["categories"]), "proposalGroups": len(data["proposals"]), "sourceUnits": len(data["sourceUnits"]), "parties": {}, "limits": data["quality"]["limits"]}
+    result = {"reviewedAt": data["reviewedAt"], "sourceElection": data["scope"]["sourceElection"], "sourceContext": data["scope"]["sourceContext"], "sourceDocumentIds": [s["id"] for s in data["sources"]], "surveyDesign": data["surveyDesign"], "liveEligible": False, "questions": len(data["questions"]), "concepts": len(data["concepts"]), "categories": len(data["categories"]), "proposalGroups": len(data["proposals"]), "sourceUnits": len(data["sourceUnits"]), "parties": {}, "limits": data["quality"]["limits"]}
     for party in PARTIES:
         pos = [q["positions"][party] for q in data["questions"]]
         result["parties"][party] = {"primarySourceUnits": data["quality"]["sourceCoverage"][party], "proposalGroups": sum(p["party"] == party for p in data["proposals"]), "supports": sum(p["proposedValue"] == 2 for p in pos), "opposes": sum(p["proposedValue"] == -2 for p in pos), "ambiguousEvidence": sum(p["status"] == "undetermined" for p in pos), "unlinkedDecision": sum(p["status"] == "not-determined-in-corpus" for p in pos)}
@@ -140,10 +161,11 @@ def statistics(data):
 
 
 def reference(source):
-    text = PARTIES[source["documentId"].removesuffix("-2023-07-23")]
+    party = next(p for p in sorted(PARTIES, key=len, reverse=True) if source["documentId"].startswith(p + "-"))
+    text = PARTIES[party]
     if "measure" in source:
         text += f" · medida {source['measure']}"
-    text += " · páginas PDF " + ", ".join(map(str, source["pdfPages"]))
+    text += (" · páginas PDF " + ", ".join(map(str, source["pdfPages"]))) if source["pdfPages"] else (" · líneas de la transcripción local " + ", ".join(map(str, source["textLines"])))
     if "printedPages" in source:
         text += " · impresas " + ", ".join(map(str, source["printedPages"]))
     return text
@@ -158,14 +180,16 @@ def render(data, stats):
     line()
     line("ALCANCE Y LECTURA")
     line("Este documento reúne decisiones políticas por conceptos, aunque los programas las titulen de forma distinta. Cada pregunta conserva evidencia y posición de " + ", ".join(PARTIES.values()) + ". Una coincidencia temática no demuestra acuerdo sobre todos sus instrumentos, umbrales o condiciones.")
-    line("Los ocho documentos corresponden a las elecciones generales del 23 de julio de 2023. La fecha de descarga de octubre de 2026 no cambia su convocatoria. No acreditan programas, candidaturas, leyes vigentes ni compromisos de 2026.")
+    line("Se reúnen nueve programas históricos de las elecciones generales del 23 de julio de 2023, el programa político general de Frente Obrero y el artículo único permanente de Escaños en Blanco. Frente Obrero declara que no es un programa electoral. La fecha de descarga no demuestra fecha de publicación. No son once programas de una misma convocatoria ni acreditan candidaturas o leyes vigentes.")
     line("No hay un número prefijado de preguntas por tema. El catálogo es deliberadamente amplio para su revisión: no se propone que cada persona responda todo ni que cada formulación solapada sume un voto adicional.")
+    line("Las categorías serán los apartados del cuestionario. En una fase posterior se agruparán formulaciones equivalentes y se diseñará una selección aleatoria equilibrada por categorías y conceptos. La longitud, los cupos y el algoritmo no están implementados. La selección deberá evitar repeticiones de una decisión y mantener cobertura comparable entre partidos.")
     line(f"Inventario: {stats['questions']} preguntas únicas en {stats['concepts']} conceptos y {stats['categories']} categorías; {stats['proposalGroups']} agrupaciones documentales.")
     for party, label in PARTIES.items():
         s = stats["parties"][party]
         line(f"{label}: {s['primarySourceUnits']} unidades primarias; {s['supports']} respaldos propuestos, {s['opposes']} oposiciones y {s['ambiguousEvidence']} atribuciones ambiguas. {s['unlinkedDecision']} decisiones del conjunto sin vínculo documental suficiente para este partido.")
     line("PP y Vox numeran medidas: 365 y 381 respectivamente. El PSOE no usa esa numeración: S0001–S1191 son anclas editoriales de viñetas, NO 1191 medidas oficiales. Hay además pasajes por página para propuestas que usan otras viñetas o párrafos. Pueden solaparse; no sumarlos como promesas independientes.")
     line("ERC, Junts, EH Bildu, PNV y BNG usan aquí anclas por página física (132, 151, 16, 52 y 68 páginas). No son recuentos de medidas ni promesas oficiales. ERC distingue horizontes estratégicos de propuestas a las Cortes; se han priorizado sus apartados operativos. EH Bildu es un compromiso de extensión menor. Las páginas introductorias quedan clasificadas como contexto.")
+    line("PACMA y Frente Obrero se inventarían por sus 76 y 64 páginas físicas, respectivamente. Escaños en Blanco se inventaría mediante un único artículo en la línea 6 de su transcripción HTML local. No se inventan páginas PDF para ese texto ni posiciones sectoriales que no contiene. Su renuncia a cobrar subvenciones propias no implica prohibir la financiación de los demás partidos.")
     line("Cobertura significa que cada unidad del inventario tiene una clasificación y referencias. No garantiza que todas las subcláusulas estén desdobladas ni que este borrador sea ya un cuestionario validado.")
     line("Los originales del PSOE, Vox y Junts se conservan como copias de archivo de prensa, identificadas por huella y procedencia; no se presentan como descargas actuales de sus servidores oficiales.")
     line()
@@ -193,7 +217,7 @@ def render(data, stats):
         line("  Referencia del partido: " + s["source"])
         line("  Descarga archivada: " + s["downloadedFrom"])
         line("  SHA-256: " + s["sha256"])
-    line("Las páginas PDF son posiciones físicas, empezando por 1. El desfase de la numeración impresa del PSOE varía; por eso se usa la página PDF y no una resta fija. En el PP se conserva además la paginación impresa del análisis original.")
+    line("Las páginas PDF son posiciones físicas, empezando por 1. El desfase de la numeración impresa del PSOE varía; por eso se usa la página PDF y no una resta fija. En el PP se conserva además la paginación impresa del análisis original. Las líneas TXT son posiciones físicas del archivo conservado, con sus cabeceras y líneas vacías, no números de artículo oficiales.")
     line()
     line("ÍNDICE DE CONCEPTOS")
     catnames = {c["id"]: c["title"] for c in data["categories"]}
@@ -263,16 +287,16 @@ def main():
                     selected.add(qid)
                     seen.add(qid)
     preview = {
-        "version": data["version"], "sourceElection": data["scope"]["sourceElection"],
+        "version": data["version"], "sourceElection": data["scope"]["sourceElection"], "sourceContext": data["scope"]["sourceContext"],
         "reviewedAt": data["reviewedAt"], "parties": [{"id": k, "name": v} for k, v in PARTIES.items()],
         "counts": {k: stats[k] for k in ["questions", "concepts", "categories", "proposalGroups", "sourceUnits"]},
-        "sources": [{k: s[k] for k in ["id", "organization", "title", "file", "source", "sourceKind", "sha256", "pages"]} for s in data["sources"]],
+        "sources": [{k: s.get(k) for k in ["id", "organization", "title", "file", "source", "sourceKind", "sha256", "pages", "textLines", "format", "kind", "electionDate"]} for s in data["sources"]],
         "questions": [{"id": q["id"], "statement": q["statement"], "category": q["category"], "positions": {party: {"value": pos["proposedValue"], "basis": pos["basis"], "evidence": pos["evidence"]} for party, pos in q["positions"].items()}} for q in data["questions"] if q["id"] in selected],
         "categories": stats["byCategory"],
     }
-    category_report = ["Resumen de categorías · programas de 2023", f"{stats['questions']} formulaciones de borrador · {stats['concepts']} conceptos · {stats['categories']} categorías", "", "Categoría | Formulaciones | Conceptos"]
+    category_report = ["Resumen de categorías · antecedentes electorales y documentos generales y permanentes", f"{stats['questions']} formulaciones de borrador · {stats['concepts']} conceptos · {stats['categories']} categorías", "", "Categoría | Formulaciones | Conceptos"]
     category_report += [f"{c['title']} | {c['questions']} | {c['concepts']}" for c in stats["byCategory"]]
-    category_report += ["", "El recuento es de formulaciones, no de decisiones independientes ni de preguntas que una persona deba responder seguidas.", "No hay límite de preguntas por categoría. Antes del test definitivo se revisarán solapamientos, neutralidad, contexto y cobertura comparable.", "", f"{len(PARTIES)} documentos de origen · {stats['proposalGroups']} grupos de propuestas · {stats['sourceUnits']} unidades documentales de referencia.", "Las unidades mezclan medidas oficiales numeradas, viñetas y páginas. No son una métrica comparable de promesas entre partidos.", "Importancia del futuro test: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.", "La vista Coordenadas políticas contiene ocho agrupaciones gráficas de una selección publicada de indicadores. No sustituye las 40 categorías de este inventario."]
+    category_report += ["", "El recuento es de formulaciones, no de decisiones independientes ni de preguntas que una persona deba responder seguidas.", "Las categorías serán los apartados del cuestionario. Se prevé reducir formulaciones y seleccionar preguntas de forma aleatoria equilibrada por temas y conceptos, evitando repeticiones. Aún no se ha implementado el algoritmo ni fijado la longitud.", "Antes del test definitivo se revisarán solapamientos, neutralidad, contexto y cobertura comparable.", "", f"{len(PARTIES)} documentos de origen · {stats['proposalGroups']} grupos de propuestas · {stats['sourceUnits']} unidades documentales de referencia.", "Las unidades mezclan medidas oficiales numeradas, viñetas, páginas PDF y un artículo de texto. No son una métrica comparable de promesas entre partidos.", "Importancia del futuro test: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.", f"La vista Coordenadas políticas contiene {len(axes['charts'])} agrupaciones gráficas de una selección publicada de indicadores. No sustituye las {stats['categories']} categorías de este inventario."]
     outputs = {
         FOLDER / "Resumen Preguntas.txt": render(data, stats),
         FOLDER / "cobertura.json": json.dumps(stats, ensure_ascii=False, indent=2) + "\n",
