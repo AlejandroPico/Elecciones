@@ -1,8 +1,15 @@
 import { useEffect, useState } from "react";
-import { categories, questions } from "../..";
 import "./Introduction.css";
 
-export default function Introduction({ start }: { start: () => void }) {
+export default function Introduction({
+  start,
+  topics,
+  count,
+}: {
+  start: () => void;
+  topics: string[];
+  count: number;
+}) {
   const [paused, setPaused] = useState(false);
   const [remaining, setRemaining] = useState(12);
   useEffect(() => {
@@ -22,11 +29,11 @@ export default function Introduction({ start }: { start: () => void }) {
     >
       <h1 id="introduction-title">Antes de empezar</h1>
       <p>
-        {questions.length} preguntas · {categories.length} temas
+        Hasta {count} preguntas · {topics.length} temas
       </p>
       <ul className="introduction-topics">
-        {categories.map((category) => (
-          <li key={category.id}>{category.name}</li>
+        {topics.map((title) => (
+          <li key={title}>{title}</li>
         ))}
       </ul>
       <ol className="introduction-instructions">
@@ -40,14 +47,15 @@ export default function Introduction({ start }: { start: () => void }) {
           normal; cambiarla no reinicia el plazo.
         </li>
         <li>
-          Al terminar verás tus coordenadas y el cálculo de cada respuesta. La
-          comparación con partidos requiere posiciones documentadas de sus
-          programas.
+          Puedes consultar Mi perfil desde la primera respuesta y volver a
+          responder cuando quieras. El perfil incluye el cálculo y la cobertura
+          documental de cada comparación.
         </li>
       </ol>
       <p className="small-note">
-        Puedes volver a cualquier pregunta desde la barra inferior. Banco
-        piloto: los programas de esta convocatoria todavía se están revisando.
+        Puedes volver a cualquier pregunta desde la barra inferior o cambiar de
+        tema. Las respuestas se conservan durante esta visita; se pierden al
+        recargar o cerrar la página.
       </p>
       <div className="introduction-actions">
         <button

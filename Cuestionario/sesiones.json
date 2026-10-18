@@ -1,0 +1,95 @@
+{
+  "version": "1.0.0",
+  "bankVersion": "0.8.0",
+  "status": "experimental-documentary-survey",
+  "authorizedAt": "2026-10-18",
+  "questionsPerCategory": 10,
+  "storage": "memory-only",
+  "grouping": "avoid-equivalents-and-selection-families-without-transferring-positions",
+  "sampling": "crypto-fisher-yates-stable-per-visit",
+  "importance": {
+    "normal": 1,
+    "high": 2,
+    "essential": 3
+  },
+  "advanceMilliseconds": 3000,
+  "groups": [
+    {
+      "title": "Economía y actividad",
+      "categoryIds": [
+        "empresa",
+        "fiscalidad",
+        "industria",
+        "turismo",
+        "consumo",
+        "inteligencia-artificial"
+      ]
+    },
+    {
+      "title": "Trabajo y servicios",
+      "categoryIds": [
+        "trabajo",
+        "igualdad-laboral",
+        "salud",
+        "educacion",
+        "mayores",
+        "discapacidad"
+      ]
+    },
+    {
+      "title": "Sociedad y derechos",
+      "categoryIds": [
+        "familia-infancia",
+        "violencia-mujeres",
+        "lgtbi",
+        "constitucion",
+        "justicia",
+        "cultura",
+        "deporte"
+      ]
+    },
+    {
+      "title": "Territorio y medio ambiente",
+      "categoryIds": [
+        "sector-primario",
+        "biodiversidad",
+        "medio-rural",
+        "infraestructuras",
+        "vivienda",
+        "agua",
+        "energia",
+        "bienestar-animal"
+      ]
+    },
+    {
+      "title": "Instituciones y seguridad",
+      "categoryIds": [
+        "instituciones",
+        "legislacion",
+        "buen-gobierno",
+        "territorio",
+        "seguridad",
+        "propiedad",
+        "administracion"
+      ]
+    },
+    {
+      "title": "Relaciones exteriores",
+      "categoryIds": [
+        "union-europea",
+        "iberoamerica",
+        "exteriores",
+        "defensa",
+        "cooperacion",
+        "exterior-ciudadania"
+      ]
+    }
+  ],
+  "limits": [
+    "Las codificaciones del cuaderno son editoriales, no una validación psicométrica.",
+    "Documentos históricos, generales y autonómicos: no representan programas nacionales de 2026.",
+    "Los programas autonómicos conservan su ámbito explícito.",
+    "No se inventan direcciones ideológicas para preguntas sin eje documentado.",
+    "Las categorías se eligen libremente y el perfil es parcial desde la primera respuesta."
+  ]
+}

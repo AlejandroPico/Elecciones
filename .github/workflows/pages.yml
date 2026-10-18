@@ -31,6 +31,8 @@ jobs:
         run: python3 Cuestionario/herramientas/generar-resumen.py --check
       - name: Comprobar agrupación y trazabilidad de preguntas
         run: python3 -m unittest discover -s Cuestionario/herramientas -p 'test_*.py'
+      - name: Verificar banco del cuestionario por temas
+        run: python3 Cuestionario/herramientas/generar-sesiones.py --check
       - run: pnpm test
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3

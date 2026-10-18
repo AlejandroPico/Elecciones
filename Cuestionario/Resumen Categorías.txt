@@ -44,10 +44,10 @@ Consumo y derechos de usuarios | 86 | 1
 Bienestar animal | 127 | 1
 
 El recuento es de formulaciones, no de decisiones independientes ni de preguntas que una persona deba responder seguidas.
-Las categorías serán los apartados del cuestionario. Se prevé reducir formulaciones y seleccionar preguntas de forma aleatoria equilibrada por temas y conceptos, evitando repeticiones. Aún no se ha implementado el algoritmo ni fijado la longitud.
+Las categorías serán los apartados del cuestionario. Se prevé reducir formulaciones y seleccionar preguntas de forma aleatoria equilibrada por temas y conceptos, evitando repeticiones. La sesión experimental habilitada el 18 de octubre de 2026 permite elegir temas y sortea diez preguntas por categoría. Su configuración y límites viven en sesiones.json; esta revisión editorial conserva sus estados de borrador.
 Antes del test definitivo se revisarán solapamientos, neutralidad, contexto y cobertura comparable.
 
 23 documentos de origen · 2183 grupos de propuestas · 4120 unidades documentales de referencia.
 Las unidades mezclan medidas oficiales numeradas, viñetas, páginas PDF y un artículo de texto. No son una métrica comparable de promesas entre partidos.
-Importancia del futuro test: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.
+Importancia del test experimental: normal 1, alta 2, esencial 3. No lo sé y omitir se excluyen.
 La vista Coordenadas políticas contiene 8 agrupaciones gráficas de una selección publicada de indicadores. No sustituye las 40 categorías de este inventario.

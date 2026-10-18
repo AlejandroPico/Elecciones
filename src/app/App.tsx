@@ -8,10 +8,8 @@ import {
 } from "react";
 import {
   ArrowUpRight,
-  Check,
   ChevronDown,
   ChartNoAxesCombined,
-  Expand,
   Landmark,
   Clock3,
   FileText,
@@ -22,28 +20,13 @@ import {
   Users,
   X,
 } from "lucide-react";
-import { categories, questions } from "../../Elecciones";
-import {
-  calculate,
-  parseParties,
-  similarity,
-  type Answers,
-  type Party,
-} from "../../Elecciones/interfaz/perfil/model";
-import {
-  AxisRows,
-  CoordinateChart,
-  RadarChart,
-} from "../../Elecciones/interfaz/perfil/Charts";
-import Progress from "../../Elecciones/interfaz/cuestionario/Progress";
-import Introduction from "../../Elecciones/interfaz/cuestionario/Introduction";
-import Explanation from "../../Elecciones/interfaz/perfil/Explanation";
-import { createAdvanceClock } from "../../Elecciones/interfaz/cuestionario/avance";
+const Questionnaire = lazy(
+  () => import("../../Cuestionario/interfaz/Questionnaire"),
+);
 const Programs = lazy(() => import("../../Partidos/interfaz/Programs"));
 const Coordinates = lazy(
   () => import("../../Cuestionario/interfaz/Coordinates"),
 );
-import { contexts } from "../../Elecciones/Generales Noviembre 2026/contextos";
 import favicon from "../../favicon.svg";
 import { useNavigation, type View, type Entry } from "./navigation";
 import ScrollNavigation from "./ScrollNavigation";
@@ -56,15 +39,8 @@ const Senate = lazy(() => import("../../Gobiernos/interfaz/Senate"));
 const Congress = lazy(() => import("../../Gobiernos/interfaz/Congress"));
 import Autonomies, { AutonomyMenu } from "../../Gobiernos/interfaz/Autonomies";
 const Offices = lazy(() => import("../../Gobiernos/interfaz/Offices"));
-type Modal = "method" | "privacy" | "about" | "reset" | "context" | null;
+type Modal = "method" | "privacy" | "about" | "reset" | null;
 type Theme = "auto" | "morning" | "afternoon" | "night";
-const choices = [
-  { value: -2, label: "Muy en desacuerdo" },
-  { value: -1, label: "En desacuerdo" },
-  { value: 0, label: "Neutral" },
-  { value: 1, label: "De acuerdo" },
-  { value: 2, label: "Muy de acuerdo" },
-];
 function Dialog({
   title,
   children,
@@ -93,9 +69,7 @@ function Dialog({
   );
 }
 export default function App() {
-  const [answers, setAnswers] = useState<Answers>({});
-  const [index, setIndex] = useState(0);
-  const [introduction, setIntroduction] = useState(true);
+  const [surveyEdition, setSurveyEdition] = useState(0);
   const navigation = useNavigation();
   const { view, entry: archiveEntry } = navigation.route;
   const setView = (nextView: View) => navigation.navigate({ view: nextView });
@@ -109,29 +83,6 @@ export default function App() {
   );
   const [themeMode, setThemeMode] = useState<Theme>("auto");
   const [clock, setClock] = useState(new Date());
-  const [activeCategory, setActiveCategory] = useState(categories[0].id);
-  const [draftImportance, setDraftImportance] = useState<
-    Record<string, 1 | 2 | 3>
-  >({});
-  const [parties, setParties] = useState<Party[]>([]);
-  const [selected, setSelected] = useState<string[]>([]);
-  const [importMessage, setImportMessage] = useState("");
-  const questionRef = useRef<HTMLHeadingElement>(null);
-  const fileRef = useRef<HTMLInputElement>(null);
-  const advanceClock = useRef(createAdvanceClock());
-  const [countdownQuestion, setCountdownQuestion] = useState<string | null>(
-    null,
-  );
-  const question = questions[index];
-  const category = categories.find((c) => c.id === question.category)!;
-  const resultCategory = categories.find((c) => c.id === activeCategory)!;
-  const current = answers[question.id];
-  const importance = current?.importance ?? draftImportance[question.id] ?? 1;
-  const scores = calculate(answers);
-  const overlays = parties.filter((p) => selected.includes(p.id));
-  const answered = questions.filter((q) => answers[q.id]?.value != null).length;
-  const omitted = questions.filter((q) => answers[q.id]?.value === null).length;
-  const completed = answered + omitted === questions.length;
   const hour = clock.getHours();
   const theme =
     themeMode === "auto"
@@ -157,105 +108,14 @@ export default function App() {
       /* El almacenamiento no es necesario. */
     }
   }, []);
-  function selectValue(value: number | null) {
-    const updated = { ...answers, [question.id]: { value, importance } };
-    setAnswers(updated);
-    if (
-      advanceClock.current.start(() => {
-        setModal(null);
-        if (index === questions.length - 1) openView("results");
-        else navigate(index + 1);
-      })
-    )
-      setCountdownQuestion(question.id);
-  }
-  function cancelAdvance() {
-    advanceClock.current.cancel();
-    setCountdownQuestion(null);
-  }
-  function navigate(nextIndex: number) {
-    cancelAdvance();
-    setIndex(Math.max(0, Math.min(questions.length - 1, nextIndex)));
-    setView("survey");
-    if (window.innerWidth <= 720) setMobileMenu(false);
-  }
   function openView(nextView: View) {
-    cancelAdvance();
     setView(nextView);
     if (window.innerWidth <= 720) setMobileMenu(false);
   }
-  useEffect(() => {
-    if (view === "survey") {
-      questionRef.current?.focus({ preventScroll: true });
-      document.querySelector(".survey-stage")?.scrollTo({
-        top: 0,
-        behavior: matchMedia("(prefers-reduced-motion: reduce)").matches
-          ? "instant"
-          : "smooth",
-      });
-    }
-  }, [index, view, introduction]);
-  useEffect(() => () => advanceClock.current.cancel(), []);
-  useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      if (
-        view !== "survey" ||
-        modal ||
-        introduction ||
-        e.ctrlKey ||
-        e.altKey ||
-        e.metaKey ||
-        /INPUT|SELECT|TEXTAREA/.test((e.target as HTMLElement).tagName)
-      )
-        return;
-      const options = question.type === "binary" ? [-2, 2] : [-2, -1, 0, 1, 2];
-      const n = Number(e.key);
-      if (n >= 1 && n <= options.length) {
-        e.preventDefault();
-        selectValue(options[n - 1]);
-      }
-      if (e.key === "ArrowLeft" || e.key === "ArrowRight") {
-        e.preventDefault();
-        navigate(index + (e.key === "ArrowLeft" ? -1 : 1));
-      }
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
-  });
-  async function importFile(file?: File) {
-    if (!file) return;
-    try {
-      if (file.size > 2_000_000) throw new Error("El archivo supera 2 MB.");
-      const data = parseParties(JSON.parse(await file.text()));
-      setParties(data);
-      setSelected(data.slice(0, 3).map((p) => p.id));
-      setImportMessage(`${data.length} candidaturas cargadas temporalmente.`);
-    } catch (e) {
-      setImportMessage(
-        e instanceof Error ? e.message : "No se ha podido leer el archivo.",
-      );
-    }
-    if (fileRef.current) fileRef.current.value = "";
-  }
-  const legend = (
-    <div className="chart-legend">
-      <span>
-        <i className="legend-dot" />
-        Tu perfil
-      </span>
-      {overlays.map((p) => (
-        <span key={p.id}>
-          <i style={{ background: p.color }} />
-          {p.name}
-        </span>
-      ))}
-    </div>
-  );
   function openArchive(kind: "person" | "party", id: string) {
     openEntry({ kind, id });
   }
   function openEntry(entry?: Entry) {
-    cancelAdvance();
     navigation.navigate({
       view: entry
         ? entry.kind === "party"
@@ -279,7 +139,6 @@ export default function App() {
     if (window.innerWidth <= 720) setMobileMenu(false);
   }
   useEffect(() => {
-    cancelAdvance();
     setModal(null);
   }, [navigation.route]);
   const themes = [
@@ -468,214 +327,22 @@ export default function App() {
         tabIndex={-1}
         className={`main-content ${mobileMenu ? "navigation-open" : "navigation-closed"} ${view === "survey" ? "survey-view" : ""}`}
       >
-        {view === "survey" && introduction && (
-          <Introduction start={() => setIntroduction(false)} />
-        )}
-        {view === "survey" && !introduction && (
-          <>
-            <div className="survey-stage">
-              <div className="survey-layout">
-                <section className="question-card" aria-label="Pregunta">
-                  <div className="question-body" key={question.id}>
-                    <h1 ref={questionRef} tabIndex={-1}>
-                      {question.text}
-                    </h1>
-                    <p className="question-context">{question.context}</p>
-                    <button
-                      className="context-toggle icon-button"
-                      aria-label="Ampliar contexto de la pregunta"
-                      title="Ampliar contexto"
-                      onClick={() => setModal("context")}
-                    >
-                      <Expand size={17} />
-                    </button>
-                    <fieldset
-                      className={`answer-options ${question.type === "binary" ? "binary" : ""}`}
-                    >
-                      <legend className="sr-only">Respuesta</legend>
-                      {(question.type === "binary"
-                        ? [
-                            { value: -2, label: "No" },
-                            { value: 2, label: "Sí" },
-                          ]
-                        : choices
-                      ).map((choice) => (
-                        <label
-                          key={choice.value}
-                          className={`answer-option ${current?.value === choice.value ? "selected" : ""}`}
-                        >
-                          <input
-                            type="radio"
-                            name={question.id}
-                            checked={current?.value === choice.value}
-                            onChange={() => {}}
-                            onClick={() => selectValue(choice.value)}
-                          />
-                          <span>{choice.label}</span>
-                        </label>
-                      ))}
-                    </fieldset>
-                    <button
-                      className={`skip-answer ${current?.value === null ? "chosen" : ""}`}
-                      aria-pressed={current?.value === null}
-                      onClick={() => selectValue(null)}
-                    >
-                      {current?.value === null && <Check size={14} />}No sé /
-                      prefiero omitir
-                    </button>
-                  </div>
-                  <div className="importance-panel">
-                    <span className="answer-countdown" aria-hidden="true">
-                      {countdownQuestion === question.id && (
-                        <i key={question.id} />
-                      )}
-                    </span>
-                    <span>Importancia</span>
-                    <div
-                      className="segmented"
-                      role="group"
-                      aria-label="Importancia de la pregunta"
-                    >
-                      {(
-                        [
-                          { value: 1, label: "Normal" },
-                          { value: 2, label: "Alta" },
-                          { value: 3, label: "Esencial" },
-                        ] as const
-                      ).map((option) => (
-                        <button
-                          key={option.value}
-                          aria-pressed={importance === option.value}
-                          onClick={() =>
-                            current
-                              ? setAnswers((a) => ({
-                                  ...a,
-                                  [question.id]: {
-                                    ...current,
-                                    importance: option.value,
-                                  },
-                                }))
-                              : setDraftImportance((d) => ({
-                                  ...d,
-                                  [question.id]: option.value,
-                                }))
-                          }
-                        >
-                          {option.label}
-                        </button>
-                      ))}
-                    </div>
-                  </div>
-                </section>
-              </div>
-            </div>
-            <Progress answers={answers} index={index} navigate={navigate} />
-          </>
-        )}
-        {view === "results" && (
-          <div className="section-content">
-            <h1 className="section-title">Mi perfil</h1>
-            <p className="results-summary">
-              {answered} {answered === 1 ? "respuesta" : "respuestas"} ·{" "}
-              {omitted} {omitted === 1 ? "omisión" : "omisiones"} ·{" "}
-              {questions.length - answered - omitted}{" "}
-              {questions.length - answered - omitted === 1
-                ? "pendiente"
-                : "pendientes"}
-            </p>
-            <div className="results-layout">
-              <section className="result-card">
-                <select
-                  aria-label="Tema del gráfico"
-                  value={activeCategory}
-                  onChange={(e) => setActiveCategory(e.target.value)}
-                >
-                  {categories.map((c) => (
-                    <option key={c.id} value={c.id}>
-                      {c.name}
-                    </option>
-                  ))}
-                </select>
-                <CoordinateChart
-                  category={resultCategory}
-                  scores={scores}
-                  parties={completed ? overlays : []}
-                />
-                <AxisRows category={resultCategory} scores={scores} />
-              </section>
-              <section className="result-card">
-                <h2>Vista radial</h2>
-                <RadarChart
-                  scores={scores}
-                  parties={completed ? overlays : []}
-                />
-                {completed && legend}
-                <p className="chart-note">
-                  Primer eje de cada tema. −100 en el centro; +100 en el borde.
-                  Los ejes sin datos no se trazan.
-                </p>
-              </section>
-            </div>
-            <section className="comparison-card">
-              <h2>Candidaturas</h2>
-              {!completed ? (
-                <p>La comparación se mostrará al completar el cuestionario.</p>
-              ) : !parties.length ? (
-                <p>
-                  Pendiente de analizar los programas de esta convocatoria.
-                  Todavía no hay afinidades publicadas.
-                </p>
-              ) : (
-                parties.map((p) => {
-                  const s = similarity(answers, p);
-                  return (
-                    <label key={p.id} className="party-row">
-                      <input
-                        type="checkbox"
-                        checked={selected.includes(p.id)}
-                        onChange={(e) =>
-                          setSelected(
-                            e.target.checked
-                              ? [...selected, p.id]
-                              : selected.filter((id) => id !== p.id),
-                          )
-                        }
-                      />
-                      <i style={{ background: p.color }} />
-                      <span>
-                        <strong>{p.name}</strong>
-                        <small>
-                          {s.shared} preguntas comunes de {s.answered}{" "}
-                          respondidas
-                        </small>
-                      </span>
-                      <b>
-                        {s.percent === null
-                          ? "Sin datos comunes"
-                          : `${Math.round(s.percent)} %`}
-                      </b>
-                    </label>
-                  );
-                })
-              )}
-            </section>
-            <details className="all-axes">
-              <summary>
-                Las {categories.flatMap((category) => category.axes).length}{" "}
-                dimensiones
-                <ChevronDown size={16} />
-              </summary>
-              <div className="axes-grid">
-                {categories.map((c) => (
-                  <section key={c.id}>
-                    <h2>{c.name}</h2>
-                    <AxisRows category={c} scores={scores} />
-                  </section>
-                ))}
-              </div>
-            </details>
-            <Explanation answers={answers} />
-          </div>
+        {(navigation.visited.has("survey") ||
+          navigation.visited.has("results")) && (
+          <Suspense
+            fallback={
+              <span className="sr-only" role="status">
+                Cargando cuestionario
+              </span>
+            }
+          >
+            <Questionnaire
+              key={surveyEdition}
+              view={view}
+              openView={openView}
+              blocked={modal !== null}
+            />
+          </Suspense>
         )}
         <Suspense
           fallback={
@@ -705,53 +372,6 @@ export default function App() {
                 <div hidden={archiveEntry?.kind === "party"}>
                   <Programs openParty={(id) => openArchive("party", id)} />
                 </div>
-                <details className="positions-import result-card prose">
-                  <summary>Posiciones documentadas</summary>
-
-                  <p>
-                    Importación temporal de un archivo de posiciones. No
-                    interpreta programas PDF.
-                  </p>
-                  <input
-                    ref={fileRef}
-                    type="file"
-                    accept=".json,application/json"
-                    hidden
-                    onChange={(e) => void importFile(e.target.files?.[0])}
-                  />
-                  <button
-                    className="outline-button"
-                    onClick={() => fileRef.current?.click()}
-                  >
-                    Seleccionar archivo
-                  </button>
-                  <p role="status">{importMessage}</p>
-                  {parties.map((p) => (
-                    <details className="party-sources" key={p.id}>
-                      <summary>
-                        {p.name} · {Object.keys(p.positions).length} posiciones
-                      </summary>
-                      <ul>
-                        {Object.entries(p.positions).map(([id, position]) => (
-                          <li key={id}>
-                            <p>{questions.find((q) => q.id === id)?.text}</p>
-                            <p>
-                              {position.value} · {position.reference}
-                            </p>
-                            <a
-                              href={position.source}
-                              target="_blank"
-                              rel="noreferrer"
-                            >
-                              Fuente original
-                              <ArrowUpRight size={13} />
-                            </a>
-                          </li>
-                        ))}
-                      </ul>
-                    </details>
-                  ))}
-                </details>
               </Suspense>
             </div>
           )}
@@ -845,7 +465,6 @@ export default function App() {
                     view === "offices" ? archiveEntry?.id : undefined
                   }
                   openOffice={(id) => {
-                    cancelAdvance();
                     navigation.navigate({
                       view: "offices",
                       entry: id ? { kind: "office", id } : undefined,
@@ -927,32 +546,16 @@ export default function App() {
       {modal && (
         <Dialog
           title={
-            modal === "context"
-              ? "Contexto de la pregunta"
-              : modal === "about"
-                ? "Elecciones"
-                : modal === "privacy"
-                  ? "Privacidad"
-                  : modal === "method"
-                    ? "Método"
-                    : "¿Empezar una nueva encuesta?"
+            modal === "about"
+              ? "Elecciones"
+              : modal === "privacy"
+                ? "Privacidad"
+                : modal === "method"
+                  ? "Método"
+                  : "¿Empezar una nueva encuesta?"
           }
           close={() => setModal(null)}
         >
-          {modal === "context" && (
-            <div className="expanded-context prose">
-              <h3>{question.text}</h3>
-              <p>{contexts[question.id].scope}</p>
-              <h3>Aspectos que puedes valorar</h3>
-              {contexts[question.id].considerations.map((p) => (
-                <p key={p}>{p}</p>
-              ))}
-              <small>
-                Se explica la propuesta del cuestionario, no la legislación
-                vigente.
-              </small>
-            </div>
-          )}
           {modal === "about" && (
             <>
               <div className="about-brand">
@@ -968,26 +571,28 @@ export default function App() {
                   con programas documentados.
                 </p>
                 <p>
-                  48 preguntas piloto, 8 temas y 16 ejes. Permite ponderar
-                  respuestas, omitirlas y revisarlas desde la barra de progreso.
-                  El archivo político reúne fichas personales y documentos.
-                  Gobiernos centrales incorpora un histórico de presidencias,
-                  hitos, crisis y escándalos con fuentes y permite recorrer el
-                  Ejecutivo, el Congreso y el Senado desde 1977. El hemiciclo
-                  del Congreso enlaza los mandatos individuales y sus cambios de
-                  grupo; su distribución es esquemática. El menú autonómico
-                  queda preparado para ampliar sus contenidos.
+                  40 temas seleccionables y hasta diez preguntas aleatorias por
+                  tema. Permite ponderar respuestas, omitirlas y revisarlas
+                  desde la barra de progreso. El archivo político reúne fichas
+                  personales y documentos. Gobiernos centrales incorpora un
+                  histórico de presidencias, hitos, crisis y escándalos con
+                  fuentes y permite recorrer el Ejecutivo, el Congreso y el
+                  Senado desde 1977. El hemiciclo del Congreso enlaza los
+                  mandatos individuales y sus cambios de grupo; su distribución
+                  es esquemática. El menú autonómico queda preparado para
+                  ampliar sus contenidos.
                 </p>
                 <p>
                   No guarda respuestas ni preferencias. Al recargar la página se
-                  comienza de nuevo. Falta revisar el banco editorial e
-                  incorporar los programas y candidaturas de 2026.
+                  comienza de nuevo. El banco y sus codificaciones son
+                  experimentales. Los documentos históricos no sustituyen los
+                  programas y candidaturas de 2026.
                 </p>
               </div>
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.32.0</dd>
+                  <dd>0.33.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -995,7 +600,7 @@ export default function App() {
                 </div>
                 <div>
                   <dt>Actualización</dt>
-                  <dd>17 de octubre de 2026</dd>
+                  <dd>18 de octubre de 2026</dd>
                 </div>
               </dl>
               <nav className="about-links">
@@ -1056,10 +661,12 @@ export default function App() {
                 importancia normal, alta y esencial pesa 1, 2 y 3.
               </p>
               <p>
-                Cada pregunta tiene un eje y una dirección explícitos. La media
-                ponderada se normaliza entre −100 y +100. Un eje sin respuestas
-                no tiene coordenada. El mapa combina dos ejes; la vista radial
-                resume el primero de cada tema.
+                Los indicadores que ya tienen una dirección documentada
+                conservan la media ponderada entre −100 y +100. Las demás
+                respuestas participan en las afinidades por tema y en su
+                desglose. El mapa de afinidad cruza coincidencia y cobertura; no
+                asigna una etiqueta ideológica a una media de propuestas
+                diferentes.
               </p>
               <h3>Comparación</h3>
               <p>
@@ -1084,10 +691,8 @@ export default function App() {
                 <button
                   className="primary-button"
                   onClick={() => {
-                    setAnswers({});
-                    setDraftImportance({});
-                    navigate(0);
-                    setIntroduction(true);
+                    setSurveyEdition((n) => n + 1);
+                    openView("survey");
                     setModal(null);
                   }}
                 >
