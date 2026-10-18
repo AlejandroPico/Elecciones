@@ -171,6 +171,8 @@ export default function ElectionDirectory({
                   <Download size={13} />
                   {general.kind === "permanent"
                     ? "Propuesta permanente"
+                    : general.kind === "territorial"
+                      ? "Autonómicas · Castilla y León 2026"
                     : "Documento general"}{" "}
                   · {general.format}
                 </a>
