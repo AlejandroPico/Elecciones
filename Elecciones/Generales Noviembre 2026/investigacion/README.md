@@ -27,3 +27,9 @@ Los originales se guardan en la carpeta de su elección real. Los antecedentes d
 6. Revisar el conjunto entre partidos antes de publicar comparaciones: la selección de preguntas también puede introducir sesgo.
 
 No se han derivado posiciones partidistas de los anuncios de candidatura. La explicación del cálculo del banco piloto describe sus operaciones; no certifica su validez como instrumento ideológico definitivo.
+
+## Primer cuaderno de propuestas
+
+El 18 de octubre de 2026 se ha preparado el [cuaderno del programa del PP de 2023](../../Generales%20Julio%202023/analisis/pp/README.md), con inventario de sus 365 medidas y 678 borradores únicos de preguntas. Sus atribuciones numéricas son propuestas editoriales pendientes de revisión; 36 preguntas quedan sin determinar. La base y los textos se conservan junto a la convocatoria de la fuente, no como un programa nuevo de 2026.
+
+El cuestionario público no incorpora estos borradores. Para la comparación posterior con otros partidos se conservan identificadores, categorías, referencias de medidas y páginas, reglas de importancia y relaciones de repetición. Los ejes ideológicos siguen pendientes de definición para este banco.

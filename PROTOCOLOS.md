@@ -1,5 +1,15 @@
 # Protocolos de Elecciones
 
+## Análisis de programas y preguntas
+
+Los cuadernos de análisis pertenecen a `Elecciones/<convocatoria de la fuente>/analisis/<partido-id>/`, separados de los programas originales y del cuestionario en producción. El primer cuaderno está en `Elecciones/Generales Julio 2023/analisis/pp/`. Leer su `README.md` antes de ampliarlo. `analisis.json` conserva las propuestas, preguntas, posiciones editoriales y sus referencias; las versiones legibles y el recuento se generan con `Elecciones/herramientas/generar-cuaderno-programa.py`, que también ofrece `--check`. No editar solo la copia legible.
+
+Inventariar cada medida numerada y distinguir cobertura de medidas, de subcláusulas y de preguntas finales. Cada pregunta tiene un ID estable, una sola decisión y condiciones explícitas; conservar la medida y las páginas del PDF y de su paginación impresa. Las repeticiones enlazan una misma pregunta. Los solapamientos requieren selección o un presupuesto de peso justificado antes del uso real; más páginas o preguntas no son más evidencia independiente.
+
+Una codificación propuesta de +2 o -2 representa respaldo u oposición a la opción exacta, no entusiasmo del partido. Un estudio anunciado o una revisión sin contenido no determina su resultado; no convertirlos en apoyo a una modificación concreta. Ausencia de evidencia es `null`, nunca neutralidad ni oposición. No asignar valores intermedios por tono o ideología. Las posiciones de organizaciones no estudiadas permanecen pendientes. Conservar fecha y convocatoria: el programa de 2023 no acredita posiciones de 2026.
+
+Los cuadernos son borradores con `liveEligible: false`; no cambian automáticamente preguntas, ejes, pesos o afinidades del sitio. Antes de incorporarlos, contrastar otros programas, completar condiciones y contextos, revisar atribuciones y duplicidades, probar comprensión y versionar el banco. Las fórmulas de coincidencia con un partido y de coordenadas ideológicas son diferentes y deben explicarse por separado. La omisión carece de peso; la respuesta neutral sí participa. No alterar el cuestionario público como efecto de redactar un documento de investigación.
+
 ## La Rioja
 
 Usar `Gobiernos/Autonomías/La Rioja/{Gobierno,Parlamento}/<AAAA> <etapa>/composicion.json` e ID territorial `la-rioja`. Once legislaturas: 35 escaños en I y 33 desde II. Las relaciones históricas son nominales y archivadas; conservar relevos y adscripciones sin afirmar simultaneidad ni asientos físicos. Las fechas de etapa del Parlamento van de constitución a constitución y no acreditan bajas personales. La Mesa III se completa con el boletín oficial, porque su directorio omite la vicepresidencia primera.

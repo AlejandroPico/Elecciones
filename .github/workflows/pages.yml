@@ -27,6 +27,8 @@ jobs:
         run: python3 Gobiernos/herramientas/redactar-investigacion-presidencias.py --check
       - name: Verificar originales de programas electorales
         run: pnpm check:programas
+      - name: Validar cuaderno de propuestas y preguntas
+        run: python3 Elecciones/herramientas/generar-cuaderno-programa.py --check
       - run: pnpm test
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
