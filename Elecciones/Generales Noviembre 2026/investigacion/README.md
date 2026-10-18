@@ -28,8 +28,8 @@ Los originales se guardan en la carpeta de su elección real. Los antecedentes d
 
 No se han derivado posiciones partidistas de los anuncios de candidatura. La explicación del cálculo del banco piloto describe sus operaciones; no certifica su validez como instrumento ideológico definitivo.
 
-## Primer cuaderno de propuestas
+## Cuaderno unificado de propuestas
 
-El 18 de octubre de 2026 se ha preparado el [cuaderno del programa del PP de 2023](../../Generales%20Julio%202023/analisis/pp/README.md), con inventario de sus 365 medidas y 678 borradores únicos de preguntas. Sus atribuciones numéricas son propuestas editoriales pendientes de revisión; 36 preguntas quedan sin determinar. La base y los textos se conservan junto a la convocatoria de la fuente, no como un programa nuevo de 2026.
+El 18 de octubre de 2026 se ha unificado el análisis de los programas de 2023 de PP, PSOE y Vox en [Cuestionario](../../../Cuestionario/README.md), por petición expresa del usuario. El documento principal es [Resumen Preguntas.txt](../../../Cuestionario/Resumen%20Preguntas.txt). Conserva el análisis anterior del PP y agrupa las propuestas de los tres partidos por conceptos, con preguntas, atribuciones, páginas y reservas. Los originales permanecen en su convocatoria de 2023, sin presentarlos como programas nuevos de 2026.
 
 El cuestionario público no incorpora estos borradores. Para la comparación posterior con otros partidos se conservan identificadores, categorías, referencias de medidas y páginas, reglas de importancia y relaciones de repetición. Los ejes ideológicos siguen pendientes de definición para este banco.

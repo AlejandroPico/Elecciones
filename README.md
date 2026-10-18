@@ -6,6 +6,10 @@ La revisión electoral incorpora treinta anuncios y acuerdos documentados, difer
 
 Al comenzar una encuesta se presentan los temas e instrucciones, con pausa e inicio directo. «Mi perfil» ofrece todas las respuestas y el desglose del cálculo por eje, compartido con los gráficos. Las comparaciones con partidos permanecen ocultas hasta completar las preguntas y requieren posiciones documentadas.
 
+## Investigación del cuestionario · 18 de octubre de 2026
+
+El [Resumen Preguntas](Cuestionario/Resumen%20Preguntas.txt) reúne PP, PSOE y Vox por conceptos a partir de sus programas de 2023. Incluye afirmaciones, posiciones editoriales, páginas de evidencia, resúmenes de propuestas, reservas y explicación de la importancia y del cálculo. La [base editable y sus criterios](Cuestionario/README.md) viven en la carpeta raíz `Cuestionario/`. Es un borrador documental; todavía no modifica el cuestionario público ni acredita programas de 2026.
+
 ## Histórico de presidencias · 0.25
 
 «Gobiernos centrales» conserva el gráfico de duración y los retratos de las siete presidencias. Las legislaturas y sus acontecimientos aparecen de más reciente a más antiguo; el selector de orden invierte ambos niveles. Búsqueda, presidencia, tipo, materia, año y legislatura se combinan. La lista carga progresivamente al desplazarse.

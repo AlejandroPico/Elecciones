@@ -1,0 +1,44 @@
+{
+  "reviewedAt": "2026-10-18",
+  "sourceElection": "2023-07-23",
+  "liveEligible": false,
+  "questions": 2013,
+  "concepts": 107,
+  "categories": 39,
+  "proposalGroups": 920,
+  "sourceUnits": 1949,
+  "parties": {
+    "pp": {
+      "primarySourceUnits": 365,
+      "proposalGroups": 365,
+      "supports": 637,
+      "opposes": 5,
+      "ambiguousEvidence": 36,
+      "unlinkedDecision": 1335
+    },
+    "psoe": {
+      "primarySourceUnits": 1191,
+      "proposalGroups": 347,
+      "supports": 943,
+      "opposes": 3,
+      "ambiguousEvidence": 18,
+      "unlinkedDecision": 1049
+    },
+    "vox": {
+      "primarySourceUnits": 381,
+      "proposalGroups": 208,
+      "supports": 479,
+      "opposes": 30,
+      "ambiguousEvidence": 12,
+      "unlinkedDecision": 1492
+    }
+  },
+  "limits": [
+    "Inventario de medidas y anclas, no garantía de agotar cada subcláusula de los programas.",
+    "El PSOE no numera medidas: S0001–S1191 son localizadores editoriales, no propuestas oficiales numeradas.",
+    "Los pasajes adicionales pueden solaparse con anclas; no sumarlos como evidencia independiente.",
+    "Posiciones y preguntas pendientes de revisión antes de uso real; no se ha modificado la web."
+  ],
+  "questionsWithMultiplePartiesLinked": 139,
+  "questionsWithThreePartiesLinked": 11
+}
