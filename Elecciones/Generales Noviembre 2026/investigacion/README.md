@@ -19,6 +19,8 @@ Los originales se guardan en la carpeta de su elección real. Los antecedentes d
 
 La ampliación del 18 de octubre analiza el programa de lucha 2023–2027 del PCTE (24 páginas), el contrato general de Iustitia Europa (28) y el contrato autonómico de SALF para Castilla y León de marzo de 2026 (22). Este último se guarda en su carpeta autonómica y se identifica como `territorial`: el manifiesto facilita su consulta, sin convertirlo en programa nacional. No se localizó un programa nacional de SALF en la revisión de su web y documentos públicos; queda pendiente de incorporar. El PDF de Iustitia Europa enlazado actualmente mantiene la misma huella que la copia ya conservada.
 
+Podemos incorpora después el programa nacional del **10N de 2019**, conservado en su [archivo electoral propio](../../Generales%20Noviembre%202019/README.md): 119 páginas y 289 medidas oficiales numeradas, analizadas en el cuaderno unificado. La descarga procede del archivo de 20minutos y conserva la URL original de Podemos bloqueada en la consulta. No se atribuye el programa de Sumar de 2023 a Podemos ni se presenta el antecedente de 2019 como programa del 29N.
+
 ## Análisis posterior por bloques
 
 1. Identificar documento, elección, versión, idiomas y páginas.

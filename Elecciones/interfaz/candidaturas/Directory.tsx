@@ -190,7 +190,8 @@ export default function ElectionDirectory({
                   download
                 >
                   <Download size={13} />
-                  Antecedente 2023 · PDF
+                  Antecedente {historical.electionDate?.slice(0, 4)} ·{" "}
+                  {historical.format}
                 </a>
               ) : (
                 <span className="election-program-pending">

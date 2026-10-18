@@ -69,7 +69,7 @@ describe("coordenadas documentales", () => {
       ),
     ).toBeNull();
   });
-  it("conserva catorce partidos y distingue ediciones electorales, generales, permanentes y autonómicas", () => {
+  it("conserva quince partidos y distingue ediciones electorales, generales, permanentes y autonómicas", () => {
     expect(corpus.parties.map((p) => p.id)).toEqual([
       "pp",
       "psoe",
@@ -85,12 +85,16 @@ describe("coordenadas documentales", () => {
       "registro-6040",
       "registro-7400",
       "registro-7458",
+      "podemos",
     ]);
     expect(corpus.sourceElection).toBeNull();
     expect(corpus.sourceContext).toBe("mixed-editions");
     expect(corpus.sources.filter((s) => s.kind === "historical")).toHaveLength(
-      10,
+      11,
     );
+    const podemos = corpus.sources.find((s) => s.organization === "podemos")!;
+    expect(podemos.electionDate).toBe("2019-11-10");
+    expect(documentEdition(podemos)).toBe("Programa 2019");
     const permanent = corpus.sources.find(
       (s) => s.organization === "registro-4086",
     )!;
@@ -163,8 +167,12 @@ describe("coordenadas documentales", () => {
     }
   });
   it("no convierte el contrato autonómico de SALF en posiciones nacionales", () => {
-    const source = corpus.sources.find((s) => s.organization === "registro-7458")!;
-    expect(documentEdition(source)).toBe("Programa autonómico · Castilla y León · 2026");
+    const source = corpus.sources.find(
+      (s) => s.organization === "registro-7458",
+    )!;
+    expect(documentEdition(source)).toBe(
+      "Programa autonómico · Castilla y León · 2026",
+    );
     expect(source.electionDate).toBe("2026-03-15");
     for (const question of questions) {
       expect(question.positions["registro-7458"].value).toBeNull();

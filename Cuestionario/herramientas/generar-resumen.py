@@ -11,12 +11,13 @@ import hashlib
 import json
 from pathlib import Path
 import re
+from datetime import date
 
 from agrupacion import compile_review, render_plan
 
 ROOT = Path(__file__).resolve().parents[2]
 FOLDER = ROOT / "Cuestionario"
-PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero", "registro-6040": "PCTE", "registro-7400": "Iustitia Europa", "registro-7458": "Se Acabó La Fiesta"}
+PARTIES = {"pp": "PP", "psoe": "PSOE", "vox": "Vox", "erc": "ERC", "junts": "Junts", "eh-bildu": "EH Bildu", "pnv": "PNV", "bng": "BNG", "pacma": "PACMA", "registro-4086": "Escaños en Blanco", "registro-6359": "Frente Obrero", "registro-6040": "PCTE", "registro-7400": "Iustitia Europa", "registro-7458": "Se Acabó La Fiesta", "podemos": "Podemos"}
 
 
 def read(path):
@@ -57,7 +58,13 @@ def validate(data):
         else:
             assert s["format"] == "TXT" and s["pages"] is None
             assert s["textLines"] == len(local.read_text(encoding="utf-8").splitlines())
-        assert (s["electionDate"] == "2023-07-23") == (s["kind"] == "historical")
+        if s["kind"] == "historical":
+            election = date.fromisoformat(s["electionDate"])
+            assert election < date.fromisoformat(s["retrievedAt"])
+            month = ("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre")[election.month - 1]
+            assert s["file"].startswith(f"Elecciones/Generales {month} {election.year}/programas/"), s["id"]
+        elif s["kind"] != "territorial":
+            assert s["electionDate"] is None
     units = {u["id"]: u for u in data["sourceUnits"]}
     proposals = {p["id"]: p for p in data["proposals"]}
     questions = {q["id"]: q for q in data["questions"]}
@@ -202,6 +209,7 @@ def render(data, stats):
     line("ERC, Junts, EH Bildu, PNV y BNG usan aquí anclas por página física (132, 151, 16, 52 y 68 páginas). No son recuentos de medidas ni promesas oficiales. ERC distingue horizontes estratégicos de propuestas a las Cortes; se han priorizado sus apartados operativos. EH Bildu es un compromiso de extensión menor. Las páginas introductorias quedan clasificadas como contexto.")
     line("PACMA y Frente Obrero se inventarían por sus 76 y 64 páginas físicas, respectivamente. Escaños en Blanco se inventaría mediante un único artículo en la línea 6 de su transcripción HTML local. No se inventan páginas PDF para ese texto ni posiciones sectoriales que no contiene. Su renuncia a cobrar subvenciones propias no implica prohibir la financiación de los demás partidos.")
     line("PCTE, Iustitia Europa y SALF se inventarían por sus 24, 28 y 22 páginas físicas. SALF corresponde exclusivamente a Castilla y León, 15 de marzo de 2026. No se localizó un programa nacional en la revisión del 18 de octubre: se mantiene pendiente, sin presentar el documento regional como sustituto. Los referendos de Iustitia Europa no acreditan por sí solos apoyo a abandonar UE u OTAN; las terapias naturales se describen como propuesta política, sin validar su eficacia clínica.")
+    line("Podemos incorpora su programa nacional del 10N de 2019: 119 páginas físicas y 289 medidas oficiales numeradas, con resumen propio, preguntas y localizadores. Es un antecedente, no un programa de 2026. Se conserva la copia de prensa del PDF original y se identifica la URL oficial bloqueada. La extracción se contrastó con el texto visible para excluir capas antiguas pintadas en blanco. Las remisiones no se suman como políticas distintas. Sus fechas, cuantías y referencias legales se leen en su contexto de 2019; inventariar todas las medidas no garantiza haber desdoblado cada subcláusula.")
     line("Cobertura significa que cada unidad del inventario tiene una clasificación y referencias. No garantiza que todas las subcláusulas estén desdobladas ni que este borrador sea ya un cuestionario validado.")
     line("Los originales del PSOE, Vox y Junts se conservan como copias de archivo de prensa, identificadas por huella y procedencia; no se presentan como descargas actuales de sus servidores oficiales.")
     line()

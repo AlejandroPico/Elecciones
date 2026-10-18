@@ -17,6 +17,10 @@ export default function ElectionDocuments({
   const territorialDocuments = documents.filter(
     (document) => document.kind === "territorial",
   );
+  const availableDocuments = documents.filter(
+    (document) =>
+      document.kind === "territorial" || document.kind === "historical",
+  );
   const entries = participationFor(organization);
   if (!documents.length && !entries.length) return null;
   return (
@@ -72,7 +76,7 @@ export default function ElectionDocuments({
               ? "Generales del 29N: programa nacional todavía no localizado."
               : "Programa específico de las generales del 29N pendiente de incorporar y analizar."}
           </p>
-          {territorialDocuments.map((document) => (
+          {availableDocuments.map((document) => (
             <a
               key={document.id}
               className="document-link"
@@ -83,7 +87,10 @@ export default function ElectionDocuments({
               <span>
                 {document.title}
                 <small>
-                  Documento autonómico disponible · {document.format}
+                  {document.kind === "territorial"
+                    ? "Documento autonómico disponible"
+                    : `Antecedente nacional de ${document.electionDate?.slice(0, 4)} disponible`}{" "}
+                  · {document.format}
                   {research.sourceDocumentIds.includes(document.id)
                     ? " · análisis incorporado"
                     : " · análisis pendiente"}
@@ -104,7 +111,7 @@ export default function ElectionDocuments({
                   {document.title}
                   <small>
                     {document.kind === "historical"
-                      ? "Antecedente de 2023"
+                      ? `Antecedente de ${document.electionDate?.slice(0, 4)}`
                       : document.kind === "territorial"
                         ? `Programa autonómico · ${"territory" in document ? document.territory : ""}`
                         : document.kind === "permanent"

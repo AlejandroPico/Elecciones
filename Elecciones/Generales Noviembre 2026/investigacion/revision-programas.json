@@ -71,10 +71,10 @@
   },
   {
     "organization": "podemos",
-    "checkedAt": "2026-10-17",
-    "status": "blocked",
-    "source": "https://podemos.info/",
-    "note": "Consulta directa bloqueada. El programa de la coalición Sumar de 2023 no se convierte en documento propio de Podemos para el 29N."
+    "checkedAt": "2026-10-18",
+    "status": "consulted",
+    "source": "https://podemos.info/wp-content/uploads/2019/10/Podemos_programa_generales_10N.pdf",
+    "note": "El servidor oficial devuelve HTTP 403. Se conserva desde el archivo de 20minutos el original nacional del 10N de 2019 (119 páginas, 289 medidas oficiales), con análisis editorial incorporado. No es un programa de 2026 ni se atribuye a Podemos el de la coalición Sumar de 2023. Ver el manifiesto para procedencia, copia local e integridad."
   },
   {
     "organization": "pp",

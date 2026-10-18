@@ -51,16 +51,17 @@ export const colors: Record<string, string> = {
   "registro-6040": "#ee465b",
   "registro-7400": "#eed542",
   "registro-7458": "#c2aa80",
+  podemos: "#a56be2",
 };
 
 export function documentEdition(source: (typeof raw.sources)[number]) {
   return source.kind === "territorial"
     ? `Programa autonómico · ${source.territory} · ${source.electionDate?.slice(0, 4)}`
     : source.kind === "historical"
-    ? `Programa ${source.electionDate?.slice(0, 4)}`
-    : source.kind === "permanent"
-      ? "Programa permanente"
-      : "Programa político general";
+      ? `Programa ${source.electionDate?.slice(0, 4)}`
+      : source.kind === "permanent"
+        ? "Programa permanente"
+        : "Programa político general";
 }
 
 export function evidenceLocator(evidence: Evidence) {

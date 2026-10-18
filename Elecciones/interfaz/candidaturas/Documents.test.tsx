@@ -21,3 +21,22 @@ it("muestra el documento autonómico analizado de SALF sin confundirlo con su pr
   expect(visibleLink).toBeGreaterThan(-1);
   expect(visibleLink).toBeLessThan(firstDetails);
 });
+
+it("permite descargar el antecedente de Podemos de 2019 sin presentarlo como programa de 2026 o de 2023", () => {
+  const html = renderToStaticMarkup(
+    <ElectionDocuments organization="podemos" />,
+  );
+  const document = documentsFor("podemos")[0];
+  expect(document.electionDate).toBe("2019-11-10");
+  expect(html).toContain(
+    "Antecedente nacional de 2019 disponible · PDF · análisis incorporado",
+  );
+  expect(html).not.toContain("Antecedente de 2023");
+  expect(html).toContain(
+    "Programa específico de las generales del 29N pendiente",
+  );
+  expect(html.indexOf(`href="${documentUrl(document)}"`)).toBeLessThan(
+    html.indexOf('class="document-record"'),
+  );
+  expect(html).toContain("Archivo de prensa utilizado");
+});

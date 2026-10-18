@@ -80,8 +80,14 @@ it("sirve originales locales y conserva la elección de los antecedentes y la pr
     expect(document.sha256).toMatch(/^[a-f0-9]{64}$/);
     expect(document.scoringEligible).toBe(false);
     if (document.kind === "historical") {
-      expect(document.electionDate).toBe("2023-07-23");
-      expect(document.file.startsWith("Generales Julio 2023/")).toBe(true);
+      const directories: Record<string, string> = {
+        "2019-11-10": "Generales Noviembre 2019/",
+        "2023-07-23": "Generales Julio 2023/",
+      };
+      expect(directories[document.electionDate!]).toBeTruthy();
+      expect(
+        document.file.startsWith(directories[document.electionDate!]),
+      ).toBe(true);
     }
     if (document.sourceKind === "mirror")
       expect(document.downloadedFrom).not.toBe(document.source);

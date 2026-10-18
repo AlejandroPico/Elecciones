@@ -16,7 +16,8 @@
     "registro-6359-general",
     "registro-6040-2023-07-23",
     "registro-7400-general",
-    "registro-7458-castilla-y-leon-2026-03-15"
+    "registro-7458-castilla-y-leon-2026-03-15",
+    "podemos-2019-11-10"
   ],
   "surveyDesign": {
     "categoriesAreSurveySections": true,
@@ -33,11 +34,11 @@
     "note": "La longitud, los cupos y el algoritmo se decidirán en una fase posterior. El banco clasificado no es el test completo que responde una persona."
   },
   "liveEligible": false,
-  "questions": 4040,
+  "questions": 4638,
   "concepts": 109,
   "categories": 40,
-  "proposalGroups": 1431,
-  "sourceUnits": 2583,
+  "proposalGroups": 1723,
+  "sourceUnits": 2872,
   "parties": {
     "pp": {
       "primarySourceUnits": 365,
@@ -45,7 +46,7 @@
       "supports": 637,
       "opposes": 5,
       "ambiguousEvidence": 36,
-      "unlinkedDecision": 3362
+      "unlinkedDecision": 3960
     },
     "psoe": {
       "primarySourceUnits": 1191,
@@ -53,7 +54,7 @@
       "supports": 943,
       "opposes": 3,
       "ambiguousEvidence": 18,
-      "unlinkedDecision": 3076
+      "unlinkedDecision": 3674
     },
     "vox": {
       "primarySourceUnits": 381,
@@ -61,7 +62,7 @@
       "supports": 479,
       "opposes": 30,
       "ambiguousEvidence": 12,
-      "unlinkedDecision": 3519
+      "unlinkedDecision": 4117
     },
     "erc": {
       "primarySourceUnits": 132,
@@ -69,7 +70,7 @@
       "supports": 397,
       "opposes": 2,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 3641
+      "unlinkedDecision": 4239
     },
     "junts": {
       "primarySourceUnits": 151,
@@ -77,7 +78,7 @@
       "supports": 353,
       "opposes": 1,
       "ambiguousEvidence": 1,
-      "unlinkedDecision": 3685
+      "unlinkedDecision": 4283
     },
     "eh-bildu": {
       "primarySourceUnits": 16,
@@ -85,7 +86,7 @@
       "supports": 94,
       "opposes": 2,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 3944
+      "unlinkedDecision": 4542
     },
     "pnv": {
       "primarySourceUnits": 52,
@@ -93,7 +94,7 @@
       "supports": 225,
       "opposes": 5,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 3807
+      "unlinkedDecision": 4405
     },
     "bng": {
       "primarySourceUnits": 68,
@@ -101,7 +102,7 @@
       "supports": 273,
       "opposes": 6,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 3761
+      "unlinkedDecision": 4359
     },
     "pacma": {
       "primarySourceUnits": 76,
@@ -109,7 +110,7 @@
       "supports": 250,
       "opposes": 1,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 3789
+      "unlinkedDecision": 4387
     },
     "registro-4086": {
       "primarySourceUnits": 1,
@@ -117,7 +118,7 @@
       "supports": 3,
       "opposes": 0,
       "ambiguousEvidence": 0,
-      "unlinkedDecision": 4037
+      "unlinkedDecision": 4635
     },
     "registro-6359": {
       "primarySourceUnits": 64,
@@ -125,7 +126,7 @@
       "supports": 169,
       "opposes": 3,
       "ambiguousEvidence": 3,
-      "unlinkedDecision": 3865
+      "unlinkedDecision": 4463
     },
     "registro-6040": {
       "primarySourceUnits": 24,
@@ -133,7 +134,7 @@
       "supports": 88,
       "opposes": 2,
       "ambiguousEvidence": 2,
-      "unlinkedDecision": 3948
+      "unlinkedDecision": 4546
     },
     "registro-7400": {
       "primarySourceUnits": 28,
@@ -141,7 +142,7 @@
       "supports": 111,
       "opposes": 1,
       "ambiguousEvidence": 10,
-      "unlinkedDecision": 3918
+      "unlinkedDecision": 4516
     },
     "registro-7458": {
       "primarySourceUnits": 22,
@@ -149,7 +150,15 @@
       "supports": 160,
       "opposes": 0,
       "ambiguousEvidence": 1,
-      "unlinkedDecision": 3879
+      "unlinkedDecision": 4477
+    },
+    "podemos": {
+      "primarySourceUnits": 289,
+      "proposalGroups": 292,
+      "supports": 603,
+      "opposes": 1,
+      "ambiguousEvidence": 3,
+      "unlinkedDecision": 4031
     }
   },
   "limits": [
@@ -160,203 +169,206 @@
     "ERC, Junts, EH Bildu, PNV y BNG se inventarían por páginas físicas, no como recuento de promesas oficiales.",
     "ERC distingue horizonte político y actuación en Cortes; se priorizan sus apartados operativos c). EH Bildu es un compromiso breve, no un programa de extensión comparable.",
     "La fusión exacta conserva identidades y referencias. Los conceptos agrupan asuntos, pero las decisiones con cifras o condiciones diferentes permanecen separadas.",
-    "Diez antecedentes de julio de 2023 (incluido el programa de lucha del PCTE), dos documentos políticos generales, un artículo permanente y un programa autonómico de SALF para Castilla y León 2026. No son catorce programas nacionales de la misma convocatoria.",
+    "Diez antecedentes de julio de 2023 (incluido el programa de lucha del PCTE), un programa nacional de Podemos para noviembre de 2019, dos documentos políticos generales, un artículo permanente y un programa autonómico de SALF para Castilla y León 2026. No son quince programas nacionales de la misma convocatoria.",
     "PACMA y Frente Obrero se inventarían por páginas físicas; Escaños en Blanco por su artículo único en la transcripción HTML conservada, sin paginación PDF ficticia.",
     "Escaños en Blanco solo tiene decisiones institucionales documentadas. Su ausencia de programa sectorial no representa neutralidad, apoyo ni oposición en los demás temas.",
     "El número de formulaciones del banco no es la duración del futuro cuestionario; la reducción y selección equilibrada quedan pendientes.",
     "PCTE: el programa de lucha 2023–2027 declara expresamente que no es un programa electoral (página PDF 3). Se analiza como antecedente político de julio de 2023.",
     "Iustitia Europa: contrato general sin edición electoral identificada. Los referendos sobre UE y OTAN no se convierten en votos automáticos por abandonar ambas organizaciones. Las terapias naturales son una propuesta del partido, no una validación de eficacia clínica.",
     "SALF: contrato autonómico de Castilla y León de marzo de 2026. Todas sus preguntas conservan ámbito territorial; no se extrapolan a posiciones nacionales ni a los ejes generales de la vista previa. No se localizó un programa nacional en la revisión de sus páginas y documentos públicos del 18 de octubre.",
-    "Las 74 páginas físicas de esta ampliación se inventarían, incluidas cubiertas y contexto. La clasificación de todas las páginas no certifica el desdoblamiento exhaustivo de todas sus subcláusulas."
+    "Las 74 páginas físicas de esta ampliación se inventarían, incluidas cubiertas y contexto. La clasificación de todas las páginas no certifica el desdoblamiento exhaustivo de todas sus subcláusulas.",
+    "Podemos: antecedente nacional del 10N de 2019, 119 páginas físicas y 289 medidas oficiales numeradas. No sustituye un programa nacional de 2026; no se transfiere a otras organizaciones de la coalición de 2019.",
+    "Las 289 medidas de Podemos están inventariadas, incluidas remisiones internas. No se certifica el desdoblamiento exhaustivo de cada subcláusula; las remisiones no añaden peso independiente y las cubiertas e introducciones no se cuentan como promesas.",
+    "El PDF de Podemos conserva texto anterior pintado en blanco. El inventario usa el texto visible del cuerpo, contrastes visuales y corrección del encabezado de la medida 139; no una extracción indiscriminada de todas las capas. Las fechas, cifras, entidades y normas descritas corresponden a 2019 y pueden haber cambiado."
   ],
-  "questionsWithMultiplePartiesLinked": 230,
-  "questionsWithThreePartiesLinked": 42,
+  "questionsWithMultiplePartiesLinked": 236,
+  "questionsWithThreePartiesLinked": 45,
   "questionsWithAllPartiesLinked": 0,
   "byCategory": [
     {
       "id": "empresa",
       "title": "Empresa competencia y conocimiento",
-      "questions": 130,
+      "questions": 148,
       "concepts": 4
     },
     {
       "id": "trabajo",
       "title": "Trabajo pensiones y protección social",
-      "questions": 253,
+      "questions": 304,
       "concepts": 5
     },
     {
       "id": "igualdad-laboral",
       "title": "Igualdad laboral",
-      "questions": 56,
+      "questions": 68,
       "concepts": 2
     },
     {
       "id": "inteligencia-artificial",
       "title": "Inteligencia artificial",
-      "questions": 64,
+      "questions": 79,
       "concepts": 4
     },
     {
       "id": "fiscalidad",
       "title": "Fiscalidad y evaluación del gasto",
-      "questions": 177,
+      "questions": 217,
       "concepts": 7
     },
     {
       "id": "industria",
       "title": "Industria y fondos europeos",
-      "questions": 115,
+      "questions": 121,
       "concepts": 1
     },
     {
       "id": "sector-primario",
       "title": "Agricultura pesca y montes",
-      "questions": 185,
+      "questions": 200,
       "concepts": 4
     },
     {
       "id": "biodiversidad",
       "title": "Medio ambiente caza y biodiversidad",
-      "questions": 101,
+      "questions": 111,
       "concepts": 1
     },
     {
       "id": "medio-rural",
       "title": "Medio rural y despoblación",
-      "questions": 37,
+      "questions": 48,
       "concepts": 1
     },
     {
       "id": "infraestructuras",
       "title": "Infraestructuras y movilidad",
-      "questions": 142,
+      "questions": 177,
       "concepts": 4
     },
     {
       "id": "vivienda",
       "title": "Vivienda y urbanismo",
-      "questions": 121,
+      "questions": 149,
       "concepts": 5
     },
     {
       "id": "turismo",
       "title": "Turismo y hostelería",
-      "questions": 35,
+      "questions": 38,
       "concepts": 1
     },
     {
       "id": "agua",
       "title": "Agua y ecosistemas acuáticos",
-      "questions": 69,
+      "questions": 74,
       "concepts": 1
     },
     {
       "id": "energia",
       "title": "Energía",
-      "questions": 154,
+      "questions": 171,
       "concepts": 6
     },
     {
       "id": "salud",
       "title": "Salud y decisiones sanitarias",
-      "questions": 283,
+      "questions": 307,
       "concepts": 9
     },
     {
       "id": "educacion",
       "title": "Educación y universidades",
-      "questions": 248,
+      "questions": 298,
       "concepts": 7
     },
     {
       "id": "familia-infancia",
       "title": "Familias infancia y adolescencia",
-      "questions": 191,
+      "questions": 216,
       "concepts": 5
     },
     {
       "id": "mayores",
       "title": "Mayores y atención sociosanitaria",
-      "questions": 64,
+      "questions": 65,
       "concepts": 1
     },
     {
       "id": "discapacidad",
       "title": "Discapacidad y accesibilidad",
-      "questions": 53,
+      "questions": 67,
       "concepts": 1
     },
     {
       "id": "violencia-mujeres",
       "title": "Violencia contra las mujeres",
-      "questions": 82,
+      "questions": 90,
       "concepts": 1
     },
     {
       "id": "lgtbi",
       "title": "Derechos de personas LGTBI",
-      "questions": 47,
+      "questions": 51,
       "concepts": 2
     },
     {
       "id": "instituciones",
       "title": "Instituciones y órganos independientes",
-      "questions": 97,
+      "questions": 122,
       "concepts": 3
     },
     {
       "id": "constitucion",
       "title": "Constitución memoria y libertad religiosa",
-      "questions": 34,
+      "questions": 38,
       "concepts": 1
     },
     {
       "id": "legislacion",
       "title": "Elaboración de leyes y participación",
-      "questions": 32,
+      "questions": 40,
       "concepts": 2
     },
     {
       "id": "justicia",
       "title": "Justicia y protección de derechos",
-      "questions": 153,
+      "questions": 173,
       "concepts": 4
     },
     {
       "id": "buen-gobierno",
       "title": "Control del Gobierno",
-      "questions": 72,
+      "questions": 85,
       "concepts": 2
     },
     {
       "id": "territorio",
       "title": "Cooperación y financiación territorial",
-      "questions": 101,
+      "questions": 111,
       "concepts": 3
     },
     {
       "id": "seguridad",
       "title": "Seguridad terrorismo y fronteras",
-      "questions": 200,
+      "questions": 224,
       "concepts": 5
     },
     {
       "id": "propiedad",
       "title": "Ocupación ilegal y propiedad",
-      "questions": 26,
+      "questions": 27,
       "concepts": 1
     },
     {
       "id": "administracion",
       "title": "Administración y empleo público",
-      "questions": 133,
+      "questions": 143,
       "concepts": 4
     },
     {
       "id": "union-europea",
       "title": "Unión Europea",
-      "questions": 69,
+      "questions": 76,
       "concepts": 1
     },
     {
@@ -368,54 +380,54 @@
     {
       "id": "exteriores",
       "title": "Política exterior",
-      "questions": 70,
+      "questions": 83,
       "concepts": 1
     },
     {
       "id": "defensa",
       "title": "Defensa",
-      "questions": 46,
+      "questions": 55,
       "concepts": 1
     },
     {
       "id": "cooperacion",
       "title": "Cooperación al desarrollo",
-      "questions": 44,
+      "questions": 50,
       "concepts": 1
     },
     {
       "id": "exterior-ciudadania",
       "title": "Españoles en el exterior",
-      "questions": 17,
+      "questions": 27,
       "concepts": 1
     },
     {
       "id": "cultura",
       "title": "Cultura y patrimonio",
-      "questions": 146,
+      "questions": 163,
       "concepts": 3
     },
     {
       "id": "deporte",
       "title": "Deporte",
-      "questions": 43,
+      "questions": 50,
       "concepts": 1
     },
     {
       "id": "consumo",
       "title": "Consumo y derechos de usuarios",
-      "questions": 45,
+      "questions": 60,
       "concepts": 1
     },
     {
       "id": "bienestar-animal",
       "title": "Bienestar animal",
-      "questions": 85,
+      "questions": 92,
       "concepts": 1
     }
   ],
   "groupingReview": {
-    "bankQuestions": 4040,
+    "bankQuestions": 4638,
     "reviewedPairs": 189,
     "questionsInReviewedPairs": 280,
     "relations": {
@@ -427,9 +439,9 @@
     "proposedEquivalentGroups": 16,
     "questionsInEquivalentGroups": 32,
     "potentialReduction": 16,
-    "proposedUnits": 4024,
-    "originalQuestionsWithTwoOrMoreParties": 228,
-    "proposedUnitsWithTwoOrMoreParties": 241,
+    "proposedUnits": 4622,
+    "originalQuestionsWithTwoOrMoreParties": 234,
+    "proposedUnitsWithTwoOrMoreParties": 247,
     "commonToAllParties": 0,
     "maxDocumentedPartiesInOneUnit": 6,
     "conflictingEquivalentGroups": 0,
