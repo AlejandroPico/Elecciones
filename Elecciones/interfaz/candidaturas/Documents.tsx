@@ -14,6 +14,9 @@ export default function ElectionDocuments({
   organization: string;
 }) {
   const documents = documentsFor(organization);
+  const territorialDocuments = documents.filter(
+    (document) => document.kind === "territorial",
+  );
   const entries = participationFor(organization);
   if (!documents.length && !entries.length) return null;
   return (
@@ -65,9 +68,29 @@ export default function ElectionDocuments({
             </details>
           ))}
           <p className="small-note">
-            Programa específico del 29N pendiente de incorporar y analizar.
-            Revisión: 17 de octubre de 2026.
+            {territorialDocuments.length
+              ? "Generales del 29N: programa nacional todavía no localizado."
+              : "Programa específico de las generales del 29N pendiente de incorporar y analizar."}
           </p>
+          {territorialDocuments.map((document) => (
+            <a
+              key={document.id}
+              className="document-link"
+              href={documentUrl(document)}
+              download
+            >
+              <Download size={16} />
+              <span>
+                {document.title}
+                <small>
+                  Documento autonómico disponible · {document.format}
+                  {research.sourceDocumentIds.includes(document.id)
+                    ? " · análisis incorporado"
+                    : " · análisis pendiente"}
+                </small>
+              </span>
+            </a>
+          ))}
         </>
       )}
       {!!documents.length && (
@@ -84,9 +107,9 @@ export default function ElectionDocuments({
                       ? "Antecedente de 2023"
                       : document.kind === "territorial"
                         ? `Programa autonómico · ${"territory" in document ? document.territory : ""}`
-                      : document.kind === "permanent"
-                        ? "Programa permanente"
-                        : "Documento político general"}{" "}
+                        : document.kind === "permanent"
+                          ? "Programa permanente"
+                          : "Documento político general"}{" "}
                     · {document.format}
                     {"pages" in document ? ` · ${document.pages} páginas` : ""}
                   </small>

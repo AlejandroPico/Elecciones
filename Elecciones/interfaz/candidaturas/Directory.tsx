@@ -163,19 +163,26 @@ export default function ElectionDirectory({
                 )}
               </div>
               {general ? (
-                <a
-                  className="election-card-download"
-                  href={documentUrl(general)}
-                  download
-                >
-                  <Download size={13} />
-                  {general.kind === "permanent"
-                    ? "Propuesta permanente"
-                    : general.kind === "territorial"
-                      ? "Autonómicas · Castilla y León 2026"
-                    : "Documento general"}{" "}
-                  · {general.format}
-                </a>
+                <>
+                  <a
+                    className="election-card-download"
+                    href={documentUrl(general)}
+                    download
+                  >
+                    <Download size={13} />
+                    {general.kind === "permanent"
+                      ? "Propuesta permanente"
+                      : general.kind === "territorial"
+                        ? `Autonómicas · ${"territory" in general ? general.territory : ""} ${general.electionDate?.slice(0, 4) ?? ""}`
+                        : "Documento general"}{" "}
+                    · {general.format}
+                  </a>
+                  {general.kind === "territorial" && (
+                    <span className="election-program-pending">
+                      Programa nacional todavía no localizado
+                    </span>
+                  )}
+                </>
               ) : historical ? (
                 <a
                   className="election-card-download"

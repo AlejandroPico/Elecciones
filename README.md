@@ -1,6 +1,6 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.29.0 · 18 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.29.1 · 18 de octubre de 2026.
 
 La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Dieciséis documentos se descargan desde el propio sitio: once antecedentes de julio de 2023, tres documentos políticos generales, la propuesta permanente de Escaños en Blanco y el contrato autonómico de SALF para Castilla y León 2026. Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
 
