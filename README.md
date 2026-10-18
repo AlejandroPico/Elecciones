@@ -1,6 +1,6 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.26.0 · 17 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.27.0 · 18 de octubre de 2026.
 
 La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Quince documentos se descargan desde el propio sitio: once antecedentes de las generales de 2023, tres documentos políticos generales y la propuesta permanente de Escaños en Blanco. Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
 
@@ -8,7 +8,9 @@ Al comenzar una encuesta se presentan los temas e instrucciones, con pausa e ini
 
 ## Investigación del cuestionario · 18 de octubre de 2026
 
-El [Resumen Preguntas](Cuestionario/Resumen%20Preguntas.txt) reúne PP, PSOE y Vox por conceptos a partir de sus programas de 2023. Incluye afirmaciones, posiciones editoriales, páginas de evidencia, resúmenes de propuestas, reservas y explicación de la importancia y del cálculo. La [base editable y sus criterios](Cuestionario/README.md) viven en la carpeta raíz `Cuestionario/`. Es un borrador documental; todavía no modifica el cuestionario público ni acredita programas de 2026.
+El [Resumen Preguntas](Cuestionario/Resumen%20Preguntas.txt) reúne **PP, PSOE, Vox, ERC, Junts, EH Bildu, PNV y BNG** por conceptos a partir de sus programas de 2023: **3.255 formulaciones, 108 conceptos y 40 categorías**. Incluye posiciones editoriales, páginas, resúmenes, reservas y reglas de importancia y cálculo. El [recuento breve de categorías](Cuestionario/Resumen%20Categorías.txt) permite revisar las cantidades sin abrir el documento completo. La [base editable y sus criterios](Cuestionario/README.md) viven en la carpeta raíz `Cuestionario/`.
+
+«Cuestionario → Coordenadas políticas» muestra ocho mapas temáticos independientes de las respuestas personales. Cada eje publica sus indicadores y signos; la selección de partido permite consultar cálculo, cobertura y páginas originales. Las ausencias no son neutralidad ni centro del gráfico. Los puntos coincidentes no se desplazan y el rango de indicadores faltantes se distingue de una probabilidad. La vista es un borrador documental de 2023: no cambia el test piloto ni acredita programas de 2026.
 
 ## Histórico de presidencias · 0.25
 
@@ -67,7 +69,7 @@ Madrid incorpora Gobierno y Asamblea desde 1983, con trece legislaturas, catorce
 
 Cuestionario de 48 preguntas piloto, 8 temas y 16 ejes. Ficha centrada de esquinas rectas, respuestas sin cajetines, importancia y omisión. Cada pregunta permite ampliar su contexto. «Mi perfil» se actualiza con las respuestas. Al responder, una microbarra de tres segundos permite ajustar la importancia antes del avance automático. Cambiar la respuesta o la importancia no reinicia ese plazo; navegar cancela el avance pendiente. La última respuesta abre el perfil.
 
-El favicon abre y cierra la barra lateral manteniendo su imagen. «Cuestionario» despliega «Consultar cuestionario» y «Nueva encuesta». El control inferior de apariencia alterna automático, mañana, tarde y noche con texto e icono. El modo automático usa la hora del sistema. Se respeta la reducción de movimiento.
+El favicon abre y cierra la barra lateral manteniendo su imagen. «Cuestionario» despliega «Consultar cuestionario», «Nueva encuesta» y «Coordenadas políticas». El control inferior de apariencia alterna automático, mañana, tarde y noche con texto e icono. El modo automático usa la hora del sistema. Se respeta la reducción de movimiento.
 
 La barra inferior es fina, con nombre de tema y número de pregunta. El tramo activo muestra una línea continua con crecimiento suave; las preguntas siguen siendo navegables por separado. Los otros temas se compactan conservando sus respuestas: rojo para desacuerdo, verde para acuerdo, gris para neutral y el acento de la apariencia para omisión. El grosor representa la importancia.
 

@@ -40,6 +40,9 @@ import Introduction from "../../Elecciones/interfaz/cuestionario/Introduction";
 import Explanation from "../../Elecciones/interfaz/perfil/Explanation";
 import { createAdvanceClock } from "../../Elecciones/interfaz/cuestionario/avance";
 const Programs = lazy(() => import("../../Partidos/interfaz/Programs"));
+const Coordinates = lazy(
+  () => import("../../Cuestionario/interfaz/Coordinates"),
+);
 import { contexts } from "../../Elecciones/Generales Noviembre 2026/contextos";
 import favicon from "../../favicon.svg";
 import { useNavigation, type View, type Entry } from "./navigation";
@@ -98,7 +101,7 @@ export default function App() {
   const setView = (nextView: View) => navigation.navigate({ view: nextView });
   const [modal, setModal] = useState<Modal>(null);
   const [mobileMenu, setMobileMenu] = useState(() => window.innerWidth > 720);
-  const [surveyMenu, setSurveyMenu] = useState(false);
+  const [surveyMenu, setSurveyMenu] = useState(() => view === "coordinates");
   const [governmentMenu, setGovernmentMenu] = useState(() =>
     ["central", "governments", "congress", "senate"].includes(
       navigation.route.view,
@@ -345,6 +348,7 @@ export default function App() {
               <button
                 className={
                   view === item.id ||
+                  (item.id === "survey" && view === "coordinates") ||
                   (item.id === "central" &&
                     ["governments", "congress", "senate"].includes(view))
                     ? "active"
@@ -395,6 +399,12 @@ export default function App() {
                     </button>
                     <button onClick={() => setModal("reset")}>
                       Nueva encuesta
+                    </button>
+                    <button
+                      onClick={() => openView("coordinates")}
+                      aria-current={view === "coordinates" ? "page" : undefined}
+                    >
+                      Coordenadas políticas
                     </button>
                   </div>
                 </div>
@@ -674,6 +684,7 @@ export default function App() {
             </span>
           }
         >
+          {view === "coordinates" && <Coordinates />}
           {navigation.visited.has("programs") && (
             <div className="section-content" hidden={view !== "programs"}>
               <h1 className="section-title">Partidos</h1>
@@ -976,7 +987,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.26.0</dd>
+                  <dd>0.27.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>

@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 
 export type View =
   | "survey"
+  | "coordinates"
   | "results"
   | "programs"
   | "archive"
@@ -26,6 +27,7 @@ export type Entry = {
 export type Route = { view: View; entry?: Entry };
 const paths: Record<View, string> = {
   survey: "cuestionario",
+  coordinates: "coordenadas-politicas",
   results: "perfil",
   programs: "partidos",
   archive: "archivo",

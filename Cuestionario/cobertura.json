@@ -2,11 +2,11 @@
   "reviewedAt": "2026-10-18",
   "sourceElection": "2023-07-23",
   "liveEligible": false,
-  "questions": 2013,
-  "concepts": 107,
-  "categories": 39,
-  "proposalGroups": 920,
-  "sourceUnits": 1949,
+  "questions": 3255,
+  "concepts": 108,
+  "categories": 40,
+  "proposalGroups": 1127,
+  "sourceUnits": 2368,
   "parties": {
     "pp": {
       "primarySourceUnits": 365,
@@ -14,7 +14,7 @@
       "supports": 637,
       "opposes": 5,
       "ambiguousEvidence": 36,
-      "unlinkedDecision": 1335
+      "unlinkedDecision": 2577
     },
     "psoe": {
       "primarySourceUnits": 1191,
@@ -22,7 +22,7 @@
       "supports": 943,
       "opposes": 3,
       "ambiguousEvidence": 18,
-      "unlinkedDecision": 1049
+      "unlinkedDecision": 2291
     },
     "vox": {
       "primarySourceUnits": 381,
@@ -30,15 +30,301 @@
       "supports": 479,
       "opposes": 30,
       "ambiguousEvidence": 12,
-      "unlinkedDecision": 1492
+      "unlinkedDecision": 2734
+    },
+    "erc": {
+      "primarySourceUnits": 132,
+      "proposalGroups": 46,
+      "supports": 397,
+      "opposes": 2,
+      "ambiguousEvidence": 0,
+      "unlinkedDecision": 2856
+    },
+    "junts": {
+      "primarySourceUnits": 151,
+      "proposalGroups": 46,
+      "supports": 353,
+      "opposes": 1,
+      "ambiguousEvidence": 1,
+      "unlinkedDecision": 2900
+    },
+    "eh-bildu": {
+      "primarySourceUnits": 16,
+      "proposalGroups": 23,
+      "supports": 94,
+      "opposes": 2,
+      "ambiguousEvidence": 0,
+      "unlinkedDecision": 3159
+    },
+    "pnv": {
+      "primarySourceUnits": 52,
+      "proposalGroups": 50,
+      "supports": 225,
+      "opposes": 5,
+      "ambiguousEvidence": 3,
+      "unlinkedDecision": 3022
+    },
+    "bng": {
+      "primarySourceUnits": 68,
+      "proposalGroups": 42,
+      "supports": 273,
+      "opposes": 6,
+      "ambiguousEvidence": 0,
+      "unlinkedDecision": 2976
     }
   },
   "limits": [
     "Inventario de medidas y anclas, no garantía de agotar cada subcláusula de los programas.",
     "El PSOE no numera medidas: S0001–S1191 son localizadores editoriales, no propuestas oficiales numeradas.",
     "Los pasajes adicionales pueden solaparse con anclas; no sumarlos como evidencia independiente.",
-    "Posiciones y preguntas pendientes de revisión antes de uso real; no se ha modificado la web."
+    "Posiciones y preguntas pendientes de revisión para uso real. La vista previa documental no modifica el cuestionario vigente.",
+    "ERC, Junts, EH Bildu, PNV y BNG se inventarían por páginas físicas, no como recuento de promesas oficiales.",
+    "ERC distingue horizonte político y actuación en Cortes; se priorizan sus apartados operativos c). EH Bildu es un compromiso breve, no un programa de extensión comparable.",
+    "La fusión exacta conserva identidades y referencias. Los conceptos agrupan asuntos, pero las decisiones con cifras o condiciones diferentes permanecen separadas."
   ],
-  "questionsWithMultiplePartiesLinked": 139,
-  "questionsWithThreePartiesLinked": 11
+  "questionsWithMultiplePartiesLinked": 219,
+  "questionsWithThreePartiesLinked": 39,
+  "questionsWithAllPartiesLinked": 0,
+  "byCategory": [
+    {
+      "id": "empresa",
+      "title": "Empresa competencia y conocimiento",
+      "questions": 121,
+      "concepts": 4
+    },
+    {
+      "id": "trabajo",
+      "title": "Trabajo pensiones y protección social",
+      "questions": 209,
+      "concepts": 5
+    },
+    {
+      "id": "igualdad-laboral",
+      "title": "Igualdad laboral",
+      "questions": 46,
+      "concepts": 2
+    },
+    {
+      "id": "inteligencia-artificial",
+      "title": "Inteligencia artificial",
+      "questions": 53,
+      "concepts": 4
+    },
+    {
+      "id": "fiscalidad",
+      "title": "Fiscalidad y evaluación del gasto",
+      "questions": 151,
+      "concepts": 7
+    },
+    {
+      "id": "industria",
+      "title": "Industria y fondos europeos",
+      "questions": 101,
+      "concepts": 1
+    },
+    {
+      "id": "sector-primario",
+      "title": "Agricultura pesca y montes",
+      "questions": 139,
+      "concepts": 4
+    },
+    {
+      "id": "biodiversidad",
+      "title": "Medio ambiente caza y biodiversidad",
+      "questions": 79,
+      "concepts": 1
+    },
+    {
+      "id": "medio-rural",
+      "title": "Medio rural y despoblación",
+      "questions": 33,
+      "concepts": 1
+    },
+    {
+      "id": "infraestructuras",
+      "title": "Infraestructuras y movilidad",
+      "questions": 128,
+      "concepts": 4
+    },
+    {
+      "id": "vivienda",
+      "title": "Vivienda y urbanismo",
+      "questions": 98,
+      "concepts": 5
+    },
+    {
+      "id": "turismo",
+      "title": "Turismo y hostelería",
+      "questions": 32,
+      "concepts": 1
+    },
+    {
+      "id": "agua",
+      "title": "Agua y ecosistemas acuáticos",
+      "questions": 56,
+      "concepts": 1
+    },
+    {
+      "id": "energia",
+      "title": "Energía",
+      "questions": 122,
+      "concepts": 6
+    },
+    {
+      "id": "salud",
+      "title": "Salud y decisiones sanitarias",
+      "questions": 223,
+      "concepts": 8
+    },
+    {
+      "id": "educacion",
+      "title": "Educación y universidades",
+      "questions": 174,
+      "concepts": 7
+    },
+    {
+      "id": "familia-infancia",
+      "title": "Familias infancia y adolescencia",
+      "questions": 161,
+      "concepts": 5
+    },
+    {
+      "id": "mayores",
+      "title": "Mayores y atención sociosanitaria",
+      "questions": 57,
+      "concepts": 1
+    },
+    {
+      "id": "discapacidad",
+      "title": "Discapacidad y accesibilidad",
+      "questions": 45,
+      "concepts": 1
+    },
+    {
+      "id": "violencia-mujeres",
+      "title": "Violencia contra las mujeres",
+      "questions": 73,
+      "concepts": 1
+    },
+    {
+      "id": "lgtbi",
+      "title": "Derechos de personas LGTBI",
+      "questions": 40,
+      "concepts": 2
+    },
+    {
+      "id": "instituciones",
+      "title": "Instituciones y órganos independientes",
+      "questions": 57,
+      "concepts": 3
+    },
+    {
+      "id": "constitucion",
+      "title": "Constitución memoria y libertad religiosa",
+      "questions": 28,
+      "concepts": 1
+    },
+    {
+      "id": "legislacion",
+      "title": "Elaboración de leyes y participación",
+      "questions": 31,
+      "concepts": 2
+    },
+    {
+      "id": "justicia",
+      "title": "Justicia y protección de derechos",
+      "questions": 118,
+      "concepts": 4
+    },
+    {
+      "id": "buen-gobierno",
+      "title": "Control del Gobierno",
+      "questions": 45,
+      "concepts": 2
+    },
+    {
+      "id": "territorio",
+      "title": "Cooperación y financiación territorial",
+      "questions": 93,
+      "concepts": 3
+    },
+    {
+      "id": "seguridad",
+      "title": "Seguridad terrorismo y fronteras",
+      "questions": 159,
+      "concepts": 5
+    },
+    {
+      "id": "propiedad",
+      "title": "Ocupación ilegal y propiedad",
+      "questions": 19,
+      "concepts": 1
+    },
+    {
+      "id": "administracion",
+      "title": "Administración y empleo público",
+      "questions": 94,
+      "concepts": 4
+    },
+    {
+      "id": "union-europea",
+      "title": "Unión Europea",
+      "questions": 61,
+      "concepts": 1
+    },
+    {
+      "id": "iberoamerica",
+      "title": "Relaciones iberoamericanas",
+      "questions": 20,
+      "concepts": 1
+    },
+    {
+      "id": "exteriores",
+      "title": "Política exterior",
+      "questions": 65,
+      "concepts": 1
+    },
+    {
+      "id": "defensa",
+      "title": "Defensa",
+      "questions": 35,
+      "concepts": 1
+    },
+    {
+      "id": "cooperacion",
+      "title": "Cooperación al desarrollo",
+      "questions": 41,
+      "concepts": 1
+    },
+    {
+      "id": "exterior-ciudadania",
+      "title": "Españoles en el exterior",
+      "questions": 15,
+      "concepts": 1
+    },
+    {
+      "id": "cultura",
+      "title": "Cultura y patrimonio",
+      "questions": 128,
+      "concepts": 3
+    },
+    {
+      "id": "deporte",
+      "title": "Deporte",
+      "questions": 40,
+      "concepts": 1
+    },
+    {
+      "id": "consumo",
+      "title": "Consumo y derechos de usuarios",
+      "questions": 31,
+      "concepts": 1
+    },
+    {
+      "id": "bienestar-animal",
+      "title": "Bienestar animal",
+      "questions": 34,
+      "concepts": 1
+    }
+  ]
 }

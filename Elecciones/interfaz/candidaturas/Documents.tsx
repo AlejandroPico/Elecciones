@@ -6,6 +6,7 @@ import {
   participationLabels,
 } from "./catalogo";
 import "./candidaturas.css";
+import research from "../../../Cuestionario/cobertura.json";
 
 export default function ElectionDocuments({
   organization,
@@ -131,7 +132,16 @@ export default function ElectionDocuments({
                 </div>
                 <div>
                   <dt>Análisis</dt>
-                  <dd>Pendiente · no se utiliza para calcular afinidades</dd>
+                  <dd>
+                    {document.kind === "historical" &&
+                    Object.hasOwn(research.parties, organization) ? (
+                      <a href="#/coordenadas-politicas">
+                        Borrador documental · coordenadas de 2023
+                      </a>
+                    ) : (
+                      "Pendiente · no se utiliza para calcular afinidades"
+                    )}
+                  </dd>
                 </div>
               </dl>
             </details>

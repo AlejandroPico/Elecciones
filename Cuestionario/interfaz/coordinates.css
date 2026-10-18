@@ -1,0 +1,446 @@
+.documentary-page {
+  max-width: 1320px;
+  margin-inline: auto;
+}
+.documentary-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  align-items: center;
+}
+.documentary-heading .section-title {
+  margin-bottom: 9px;
+}
+.documentary-heading p {
+  color: var(--muted);
+  font-size: 12px;
+  margin: 0;
+}
+.documentary-heading p span {
+  padding: 0 9px;
+}
+.documentary-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--text);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  padding-block: 12px;
+}
+.documentary-tabs {
+  display: flex;
+  gap: 6px 22px;
+  flex-wrap: wrap;
+  padding-top: 32px;
+  border-bottom: 1px solid var(--line);
+}
+.documentary-tabs button {
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  border-radius: 0;
+  color: var(--muted);
+  padding: 12px 0;
+  font-size: 12px;
+  cursor: pointer;
+  transition:
+    color 0.2s,
+    border-color 0.2s;
+}
+.documentary-tabs button[aria-pressed="true"] {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+.documentary-map-heading {
+  padding-top: 25px;
+}
+.documentary-page h2 {
+  font-size: 17px;
+  font-weight: 500;
+  margin: 0;
+}
+.documentary-map-heading p,
+.documentary-audit header p {
+  color: var(--muted);
+  font-size: 11px;
+  margin: 8px 0 0;
+}
+.documentary-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(290px, 1fr);
+  gap: 48px;
+  align-items: center;
+  padding: 34px 0;
+}
+.documentary-plot {
+  min-width: 0;
+}
+.documentary-plot svg {
+  display: block;
+  width: 100%;
+  overflow: visible;
+  animation: documentary-appear 0.25s ease-out;
+}
+@keyframes documentary-appear {
+  from {
+    opacity: 0.3;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.documentary-plot svg text {
+  fill: var(--muted);
+  font:
+    11px "DM Sans Variable",
+    sans-serif;
+}
+.documentary-field {
+  fill: var(--surface);
+}
+.documentary-grid {
+  stroke: var(--line);
+  stroke-width: 0.6;
+}
+.documentary-zero {
+  stroke: var(--muted);
+  opacity: 0.5;
+  stroke-width: 0.8;
+}
+.documentary-axis-caption {
+  font-size: 12px;
+  color: var(--text);
+  margin: 0;
+  text-align: center;
+  line-height: 1.7;
+}
+.documentary-axis-caption b {
+  color: var(--accent);
+  margin-right: 5px;
+  font-weight: 500;
+}
+.documentary-x {
+  margin-top: -10px;
+}
+.documentary-map-note {
+  font-size: 11px;
+  line-height: 1.8;
+  color: var(--muted);
+  margin: 21px 0 0;
+}
+.documentary-missing-range {
+  fill: none;
+  stroke-width: 1;
+  stroke-dasharray: 4 5;
+  opacity: 0.65;
+  pointer-events: none;
+}
+.documentary-marker {
+  cursor: pointer;
+  outline: none;
+}
+.documentary-marker > circle {
+  stroke: var(--surface);
+  stroke-width: 2;
+}
+.documentary-marker .documentary-selection {
+  fill: none;
+  stroke: var(--text);
+  stroke-width: 0.9;
+}
+.documentary-marker:focus-visible > circle {
+  stroke: var(--accent);
+  stroke-width: 3;
+}
+.documentary-plot svg .documentary-cluster {
+  fill: #0a1826;
+  font-size: 11px;
+  font-weight: 700;
+  pointer-events: none;
+}
+.documentary-party-columns {
+  display: grid;
+  grid-template-columns: 1fr 85px 85px;
+  font-size: 10px;
+  color: var(--muted);
+  padding: 0 8px 12px 31px;
+  text-align: right;
+}
+.documentary-party-columns span:first-child {
+  text-align: left;
+}
+.documentary-party {
+  display: flex;
+  border-top: 1px solid var(--line);
+  transition: background-color 0.2s;
+}
+.documentary-party.selected {
+  background: var(--surface);
+}
+.documentary-visibility {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  padding: 0;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.documentary-visibility span {
+  width: 8px;
+  height: 8px;
+  border: 1px solid;
+  border-radius: 50%;
+}
+.documentary-party-select {
+  display: grid;
+  grid-template-columns: 1fr 85px 85px;
+  align-items: center;
+  flex: 1;
+  text-align: left;
+  padding: 12px 8px 12px 3px;
+  border: 0;
+  background: none;
+  color: var(--text);
+  font-size: 12px;
+  cursor: pointer;
+  min-width: 0;
+}
+.documentary-party-select strong {
+  font-weight: 500;
+}
+.documentary-party-select > span {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.documentary-party-select small {
+  display: block;
+  color: var(--muted);
+  font-size: 10px;
+  margin-top: 4px;
+}
+.documentary-audit {
+  border-block: 1px solid var(--line);
+  padding: 26px 0;
+}
+.documentary-audit header {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.documentary-audit header h2 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.documentary-audit header i {
+  height: 9px;
+  width: 9px;
+  border-radius: 50%;
+}
+.documentary-audit-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 42px;
+  margin-top: 28px;
+}
+.documentary-axis h3 {
+  display: flex;
+  gap: 12px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.6;
+  margin: 0;
+}
+.documentary-axis h3 > span {
+  color: var(--accent);
+}
+.documentary-formula {
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  margin: 12px 0 18px;
+}
+.documentary-indicator {
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+}
+.documentary-indicator summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 0;
+  cursor: pointer;
+  list-style: none;
+}
+.documentary-indicator summary > span {
+  flex: 1;
+  line-height: 1.6;
+}
+.documentary-indicator summary strong {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 400;
+  white-space: nowrap;
+}
+.documentary-indicator summary::-webkit-details-marker,
+.documentary-method summary::-webkit-details-marker {
+  display: none;
+}
+.documentary-reference {
+  padding: 0 0 16px 15px;
+  border-left: 1px solid var(--line);
+  margin: 4px 0 14px;
+}
+.documentary-reference p {
+  line-height: 1.8;
+  margin: 0 0 10px;
+}
+.documentary-reference small {
+  color: var(--accent);
+}
+.documentary-reference .documentary-basis {
+  color: var(--muted);
+  margin-top: 10px;
+  font-size: 11px;
+}
+.documentary-page a {
+  overflow-wrap: anywhere;
+}
+.documentary-reference a {
+  display: block;
+  color: var(--text);
+  margin: 7px 0;
+  font-size: 11px;
+  text-underline-offset: 4px;
+}
+.documentary-reference code {
+  display: block;
+  font-size: 9px;
+  color: var(--muted);
+  overflow-wrap: anywhere;
+  margin-top: 10px;
+}
+.documentary-method {
+  border-bottom: 1px solid var(--line);
+  padding: 20px 0;
+  font-size: 12px;
+  line-height: 1.8;
+}
+.documentary-method > summary {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+}
+.documentary-method > summary svg {
+  margin-left: auto;
+}
+.documentary-method ol {
+  padding-left: 20px;
+  color: var(--muted);
+}
+.documentary-method li {
+  margin: 10px 0;
+}
+.documentary-method a {
+  color: var(--text);
+  text-underline-offset: 4px;
+}
+.documentary-categories {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 40px;
+  margin-bottom: 20px;
+}
+.documentary-categories > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  padding: 8px 0;
+  color: var(--muted);
+}
+.documentary-categories strong {
+  font-weight: 400;
+  color: var(--text);
+}
+.documentary-sources {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
+  padding: 20px 0;
+}
+.documentary-sources h3 {
+  font-size: 13px;
+  font-weight: 500;
+}
+.documentary-sources p {
+  color: var(--muted);
+}
+.documentary-sources a {
+  display: block;
+}
+.documentary-sources small {
+  display: block;
+  overflow-wrap: anywhere;
+  color: var(--muted);
+  margin-top: 15px;
+  font-size: 9px;
+}
+@media (max-width: 1050px) {
+  .documentary-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 28px;
+  }
+  .documentary-plot {
+    max-width: 650px;
+    width: 100%;
+    margin-inline: auto;
+  }
+}
+@media (max-width: 600px) {
+  .documentary-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .documentary-tabs {
+    gap: 0 17px;
+    padding-top: 20px;
+  }
+  .documentary-tabs button {
+    font-size: 11px;
+  }
+  .documentary-axis-caption {
+    font-size: 11px;
+  }
+  .documentary-audit-grid,
+  .documentary-categories,
+  .documentary-sources {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .documentary-audit header {
+    display: block;
+  }
+  .documentary-party-select {
+    padding-block: 14px;
+  }
+  .documentary-method summary {
+    min-height: 30px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .documentary-plot svg {
+    animation: none;
+  }
+  .documentary-tabs button,
+  .documentary-party {
+    transition: none;
+  }
+}

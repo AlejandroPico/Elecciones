@@ -3,6 +3,7 @@ import { parseRoute, routeHash, type Route } from "./navigation";
 describe("direcciones de secciones y fichas", () => {
   it("permite reconstruir todos los pasos y sus identificadores al retroceder o recargar", () => {
     const routes: Route[] = [
+      { view: "coordinates" },
       { view: "central" },
       { view: "central", entry: { kind: "presidency", id: "sanchez" } },
       { view: "governments" },

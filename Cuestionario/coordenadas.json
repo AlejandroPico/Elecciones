@@ -1,0 +1,4264 @@
+{
+  "version": "0.3.0",
+  "sourceElection": "2023-07-23",
+  "reviewedAt": "2026-10-18",
+  "parties": [
+    {
+      "id": "pp",
+      "name": "PP"
+    },
+    {
+      "id": "psoe",
+      "name": "PSOE"
+    },
+    {
+      "id": "vox",
+      "name": "Vox"
+    },
+    {
+      "id": "erc",
+      "name": "ERC"
+    },
+    {
+      "id": "junts",
+      "name": "Junts"
+    },
+    {
+      "id": "eh-bildu",
+      "name": "EH Bildu"
+    },
+    {
+      "id": "pnv",
+      "name": "PNV"
+    },
+    {
+      "id": "bng",
+      "name": "BNG"
+    }
+  ],
+  "counts": {
+    "questions": 3255,
+    "concepts": 108,
+    "categories": 40,
+    "proposalGroups": 1127,
+    "sourceUnits": 2368
+  },
+  "sources": [
+    {
+      "id": "pp-2023-07-23",
+      "organization": "pp",
+      "title": "Programa electoral · PP · 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/pp/2026-10-17-programa.pdf",
+      "source": "https://www.pp.es/wp-content/uploads/2023/07/programa_electoral_pp_23j_feijoo_2023.pdf",
+      "sourceKind": "official",
+      "sha256": "c93baafc88bdcb33adcd7e8be9dc309b09056362183ad7b7767f3d5134313108",
+      "pages": 112
+    },
+    {
+      "id": "psoe-2023-07-23",
+      "organization": "psoe",
+      "title": "Programa electoral · PSOE · 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/psoe/2026-10-17-programa.pdf",
+      "source": "https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf",
+      "sourceKind": "mirror",
+      "sha256": "02d4972a848250fec9b8b2cffc5aaa78733acb0ac010e79ce1787161f91a42f2",
+      "pages": 272
+    },
+    {
+      "id": "vox-2023-07-23",
+      "organization": "vox",
+      "title": "Un programa para lo que importa · VOX · 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/vox/2026-10-17-programa.pdf",
+      "source": "https://www.voxespana.es/programa/programa-electoral-vox",
+      "sourceKind": "mirror",
+      "sha256": "4573922e4bf755a428cdd528662c67dd71842317595e7d9a5bbe6b5886507d31",
+      "pages": 178
+    },
+    {
+      "id": "erc-2023-07-23",
+      "organization": "erc",
+      "title": "Defensa Catalunya · ERC · 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/erc/2026-10-17-programa.pdf",
+      "source": "https://static.esquerra.cat/uploads/20230705/e2023-programa.pdf",
+      "sourceKind": "official",
+      "sha256": "455e0629d90ef63ab59c43c35d67cdd739165958587e3242eb5b6e4914afe991",
+      "pages": 132
+    },
+    {
+      "id": "junts-2023-07-23",
+      "organization": "junts",
+      "title": "Per Catalunya · Junts · 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/junts/2026-10-17-programa.pdf",
+      "source": "https://junts.cat/wp-content/uploads/2023/08/Programa-Electoral-Definitiu-def.pdf",
+      "sourceKind": "mirror",
+      "sha256": "48e3eeddfbeebc8ea0f56327ecd83eb7c67803ed1aa4df8ed84f8b8e98b48119",
+      "pages": 151
+    },
+    {
+      "id": "eh-bildu-2023-07-23",
+      "organization": "eh-bildu",
+      "title": "Compromiso de Euskal Herria Bildu · 23J 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/eh-bildu/2026-10-17-compromiso.pdf",
+      "source": "https://ehbildu.eus/dokumentuak/23J-COMPROMISO-DE-EUSKAL-HERRIA-BILDU.pdf",
+      "sourceKind": "official",
+      "sha256": "6634c0786c1e771c61c1a65e549dfde0d4581d09e19949466e931c96a9642465",
+      "pages": 16
+    },
+    {
+      "id": "pnv-2023-07-23",
+      "organization": "pnv",
+      "title": "Con voz propia · EAJ-PNV · 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/pnv/2026-10-17-programa.pdf",
+      "source": "https://hauteskundeorokorrak2019-a10.eaj-pnv.eus/es/adjuntos-documentos/20945/pdf/con-voz-propia-programa-electoral-23-j",
+      "sourceKind": "official",
+      "sha256": "46fec3a017cdc5c4e506fa5e228b97690071d5a03dfd3d8128392aa20f57d132",
+      "pages": 52
+    },
+    {
+      "id": "bng-2023-07-23",
+      "organization": "bng",
+      "title": "Que Galiza conte · BNG · 2023",
+      "file": "Elecciones/Generales Julio 2023/programas/bng/2026-10-17-programa.pdf",
+      "source": "https://www.bng.gal/media/bnggaliza/files/2023/07/05/23_bng_xerais_programa.pdf",
+      "sourceKind": "official",
+      "sha256": "b8994deec0bbc45cdcbef5d7c5395cabf30b0509706303c3d8e76058c48eebfd",
+      "pages": 68
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-pp23-042-a",
+      "statement": "Debería mantenerse el impuesto a las grandes fortunas.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": -2,
+          "basis": "El programa propone la opción contraria al enunciado.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m042",
+              "documentId": "pp-2023-07-23",
+              "measure": 42,
+              "pdfPages": [
+                23
+              ],
+              "printedPages": [
+                21
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": null,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. Evaluar continuidad no equivale a prometer su mantenimiento indefinido. Se evita atribuir un +2 solo por la existencia previa del tributo.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0089",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                39
+              ],
+              "sourceUnitIds": [
+                "psoe-S0089",
+                "psoe-S0090"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: El mínimo efectivo no equivale al tipo nominal del 15 por ciento de Vox. Revisar IVA de lujo no fija un porcentaje final.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0025",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                70,
+                71
+              ],
+              "sourceUnitIds": [
+                "erc-P070",
+                "erc-P071"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La competencia fiscal foral permanece expresamente reservada. La crítica a una política monetaria no prueba sus efectos económicos.",
+          "evidence": [
+            {
+              "proposalId": "eh-bildu-2023-g0013",
+              "documentId": "eh-bildu-2023-07-23",
+              "pdfPages": [
+                8
+              ],
+              "sourceUnitIds": [
+                "eh-bildu-P008"
+              ]
+            }
+          ]
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0027",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                40,
+                41
+              ],
+              "sourceUnitIds": [
+                "bng-P040",
+                "bng-P041"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-pp23-042-c",
+      "statement": "Debería simplificarse la tributación por IRPF de las pymes a las que se aplique.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m042",
+              "documentId": "pp-2023-07-23",
+              "measure": 42,
+              "pdfPages": [
+                23
+              ],
+              "printedPages": [
+                21
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-093-a",
+      "statement": "Debería movilizarse suelo público para promover viviendas de alquiler asequible.",
+      "category": "vivienda",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m093",
+              "documentId": "pp-2023-07-23",
+              "measure": 93,
+              "pdfPages": [
+                34
+              ],
+              "printedPages": [
+                32
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. Complementa la unidad S0951. No duplica sus preguntas cuando el alcance coincide.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-pH223",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                223
+              ],
+              "sourceUnitIds": [
+                "psoe-PH223"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. ",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0069",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                41
+              ],
+              "sourceUnitIds": [
+                "vox-M069",
+                "vox-M070"
+              ]
+            }
+          ]
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-114-a",
+      "statement": "La vida útil de las centrales nucleares existentes debería prolongarse si lo avala el Consejo de Seguridad Nuclear.",
+      "category": "energia",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m114",
+              "documentId": "pp-2023-07-23",
+              "measure": 114,
+              "pdfPages": [
+                38
+              ],
+              "printedPages": [
+                36
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": -2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La oposición a prolongar su funcionamiento se atribuye al cierre progresivo expreso; no supone un calendario concreto que esta viñeta no ofrece.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0245",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                74,
+                75
+              ],
+              "sourceUnitIds": [
+                "psoe-S0245"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-146-a",
+      "statement": "La educación de cero a tres años debería ser universal y gratuita.",
+      "category": "educacion",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m146",
+              "documentId": "pp-2023-07-23",
+              "measure": 146,
+              "pdfPages": [
+                50
+              ],
+              "printedPages": [
+                48
+              ]
+            },
+            {
+              "proposalId": "pp-2023-m164",
+              "documentId": "pp-2023-07-23",
+              "measure": 164,
+              "pdfPages": [
+                53
+              ],
+              "printedPages": [
+                51
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La referencia a cero a tres se combina con universalización expresa, no convierte toda educación hasta dieciocho en obligatoria.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0398",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                103
+              ],
+              "sourceUnitIds": [
+                "psoe-S0398"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se reproduce como norma correcta la referencia numérica posiblemente errónea de ARSAL en el original.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0024",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                67,
+                68,
+                69
+              ],
+              "sourceUnitIds": [
+                "erc-P067",
+                "erc-P068",
+                "erc-P069"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-149-a",
+      "statement": "Las familias deberían poder elegir entre centros públicos, privados y concertados dentro de la oferta existente.",
+      "category": "educacion",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m149",
+              "documentId": "pp-2023-07-23",
+              "measure": 149,
+              "pdfPages": [
+                51
+              ],
+              "printedPages": [
+                49
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. ",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0052",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                33
+              ],
+              "sourceUnitIds": [
+                "vox-M052"
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-212-a",
+      "statement": "Los centros educativos deberían contar con protocolos específicos contra la discriminación por orientación sexual o identidad de género.",
+      "category": "lgtbi",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m212",
+              "documentId": "pp-2023-07-23",
+              "measure": 212,
+              "pdfPages": [
+                64
+              ],
+              "printedPages": [
+                62
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. ",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0407",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                104,
+                105
+              ],
+              "sourceUnitIds": [
+                "psoe-S0407",
+                "psoe-S0408",
+                "psoe-S0409"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-313-a",
+      "statement": "La Unión Europea debería actuar con una voz común en política exterior.",
+      "category": "union-europea",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m313",
+              "documentId": "pp-2023-07-23",
+              "measure": 313,
+              "pdfPages": [
+                99
+              ],
+              "printedPages": [
+                97
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La armonización de bases no equivale a establecer un mismo tipo impositivo en todos los países.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0006",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                29,
+                30,
+                31
+              ],
+              "sourceUnitIds": [
+                "junts-P029",
+                "junts-P030",
+                "junts-P031"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pp23-335-a",
+      "statement": "España debería destinar el dos por ciento del PIB a seguridad y defensa.",
+      "category": "defensa",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m335",
+              "documentId": "pp-2023-07-23",
+              "measure": 335,
+              "pdfPages": [
+                103
+              ],
+              "printedPages": [
+                101
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: No se codifica rechazo a toda ayuda a Ucrania: el programa distingue armas de ayuda humanitaria. No se convierte una crítica geopolítica en un hecho acreditado.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0042",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                66,
+                67,
+                68
+              ],
+              "sourceUnitIds": [
+                "bng-P066",
+                "bng-P067",
+                "bng-P068"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-pp23-335-b",
+      "statement": "España debería mantener un papel activo en la OTAN.",
+      "category": "defensa",
+      "positions": {
+        "pp": {
+          "value": 2,
+          "basis": "El programa respalda la opción enunciada.",
+          "evidence": [
+            {
+              "proposalId": "pp-2023-m335",
+              "documentId": "pp-2023-07-23",
+              "measure": 335,
+              "pdfPages": [
+                103
+              ],
+              "printedPages": [
+                101
+              ]
+            }
+          ]
+        },
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. No atribuir apoyo genérico a toda intervención excepcional eléctrica a partir de una iniciativa específica.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g1147",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                264
+              ],
+              "sourceUnitIds": [
+                "psoe-S1147",
+                "psoe-S1148",
+                "psoe-S1149",
+                "psoe-S1150",
+                "psoe-S1151"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0054-a",
+      "statement": "Los mínimos del IRPF por descendientes y personas dependientes deberían incrementarse.",
+      "category": "fiscalidad",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. ",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0054",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                33,
+                38
+              ],
+              "sourceUnitIds": [
+                "psoe-S0054",
+                "psoe-S0084"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0088-a",
+      "statement": "Los grandes grupos empresariales deberían estar sujetos a una tributación mínima internacional.",
+      "category": "fiscalidad",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. No fija aquí un tipo numérico mínimo.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0088",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                39
+              ],
+              "sourceUnitIds": [
+                "psoe-S0088"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0089-a",
+      "statement": "Deberían prorrogarse los gravámenes temporales de banca y energía.",
+      "category": "fiscalidad",
+      "positions": {
+        "psoe": {
+          "value": null,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. Evaluar continuidad no equivale a prometer su mantenimiento indefinido. Se evita atribuir un +2 solo por la existencia previa del tributo.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0089",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                39
+              ],
+              "sourceUnitIds": [
+                "psoe-S0089",
+                "psoe-S0090"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0135-a",
+      "statement": "Deberían financiarse proyectos piloto de reducción de jornada en empresas industriales sin reducción del salario.",
+      "category": "trabajo",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. No equivale a concentrar las mismas horas en cuatro días.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0135",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                50
+              ],
+              "sourceUnitIds": [
+                "psoe-S0135"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0244-a",
+      "statement": "Debería facilitarse el autoconsumo colectivo mediante comunidades energéticas.",
+      "category": "energia",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. ",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0244",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                74
+              ],
+              "sourceUnitIds": [
+                "psoe-S0244"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0398-b",
+      "statement": "Debería garantizarse una oferta pública gratuita suficiente de educación y formación hasta los dieciocho años.",
+      "category": "educacion",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La referencia a cero a tres se combina con universalización expresa, no convierte toda educación hasta dieciocho en obligatoria.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0398",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                103
+              ],
+              "sourceUnitIds": [
+                "psoe-S0398"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g0914-a",
+      "statement": "Las terapias de conversión de orientación sexual o identidad de género deberían tipificarse como delito.",
+      "category": "lgtbi",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. No inferir de este bloque requisitos concretos de rectificación registral que no desarrolla.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g0914",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                215,
+                216
+              ],
+              "sourceUnitIds": [
+                "psoe-S0914",
+                "psoe-S0915",
+                "psoe-S0916",
+                "psoe-S0917",
+                "psoe-S0918",
+                "psoe-S0919",
+                "psoe-S0920",
+                "psoe-S0921",
+                "psoe-S0922",
+                "psoe-S0923",
+                "psoe-S0924",
+                "psoe-S0925"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Rectificación registral y tratamientos clínicos son decisiones diferentes; no se atribuye por esta fila una edad de intervención médica.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0018",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                51
+              ],
+              "sourceUnitIds": [
+                "erc-P051"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-g1109-b",
+      "statement": "Debería reforzarse la autonomía estratégica de la Unión Europea.",
+      "category": "union-europea",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. Las orientaciones generales no determinan una regla fiscal concreta o un porcentaje de renovables.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-g1109",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                259,
+                260
+              ],
+              "sourceUnitIds": [
+                "psoe-S1109",
+                "psoe-S1111",
+                "psoe-S1112",
+                "psoe-S1113",
+                "psoe-S1114",
+                "psoe-S1115",
+                "psoe-S1116",
+                "psoe-S1117",
+                "psoe-S1118",
+                "psoe-S1119"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0038",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                35,
+                36
+              ],
+              "sourceUnitIds": [
+                "pnv-P035",
+                "pnv-P036"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-psoe23-pH221-b",
+      "statement": "Deberían mantenerse límites administrativos al precio de los alquileres de vivienda.",
+      "category": "vivienda",
+      "positions": {
+        "psoe": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La ley concreta es la de 2023. La pregunta general no prescribe un importe único ni todas las modalidades de límite.",
+          "evidence": [
+            {
+              "proposalId": "psoe-2023-pH221",
+              "documentId": "psoe-2023-07-23",
+              "pdfPages": [
+                221
+              ],
+              "sourceUnitIds": [
+                "psoe-PH221"
+              ]
+            }
+          ]
+        },
+        "vox": {
+          "value": -2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La afirmación sobre límites recibe oposición; no deducir que un partido que rechaza un límite rechaza toda regulación.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0072",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                42,
+                43
+              ],
+              "sourceUnitIds": [
+                "vox-M072",
+                "vox-M077"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-vox23-g0001-a",
+      "statement": "Las comunidades autónomas deberían devolver al Estado sus competencias de educación.",
+      "category": "territorio",
+      "positions": {
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La descentralización administrativa no equivale a conservar la autonomía legislativa actual.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0001",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                8,
+                9,
+                56,
+                64,
+                83,
+                85,
+                90
+              ],
+              "sourceUnitIds": [
+                "vox-M001",
+                "vox-M002",
+                "vox-M006",
+                "vox-M101",
+                "vox-M123",
+                "vox-M170",
+                "vox-M179",
+                "vox-M183"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: El rechazo a devolver competencias se acredita por la oposición expresa a recentralizar las competencias estatutarias; no implica una postura sobre cualquier transferencia imaginable.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0002",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                5,
+                6
+              ],
+              "sourceUnitIds": [
+                "pnv-P005",
+                "pnv-P006"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Las dos oposiciones se acreditan también por la defensa explícita de competencias plenas en educación y sanidad en páginas 31–36; deben citarse allí al codificarlas.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0003",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                11,
+                13,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+              ],
+              "sourceUnitIds": [
+                "bng-P011",
+                "bng-P013",
+                "bng-P031",
+                "bng-P032",
+                "bng-P033",
+                "bng-P034",
+                "bng-P035",
+                "bng-P036"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-vox23-g0001-b",
+      "statement": "Las comunidades autónomas deberían devolver al Estado sus competencias sanitarias.",
+      "category": "territorio",
+      "positions": {
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La descentralización administrativa no equivale a conservar la autonomía legislativa actual.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0001",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                8,
+                9,
+                56,
+                64,
+                83,
+                85,
+                90
+              ],
+              "sourceUnitIds": [
+                "vox-M001",
+                "vox-M002",
+                "vox-M006",
+                "vox-M101",
+                "vox-M123",
+                "vox-M170",
+                "vox-M179",
+                "vox-M183"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: El rechazo a devolver competencias se acredita por la oposición expresa a recentralizar las competencias estatutarias; no implica una postura sobre cualquier transferencia imaginable.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0002",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                5,
+                6
+              ],
+              "sourceUnitIds": [
+                "pnv-P005",
+                "pnv-P006"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Las dos oposiciones se acreditan también por la defensa explícita de competencias plenas en educación y sanidad en páginas 31–36; deben citarse allí al codificarlas.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0003",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                11,
+                13,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36
+              ],
+              "sourceUnitIds": [
+                "bng-P011",
+                "bng-P013",
+                "bng-P031",
+                "bng-P032",
+                "bng-P033",
+                "bng-P034",
+                "bng-P035",
+                "bng-P036"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-vox23-g0001-c",
+      "statement": "Las competencias de seguridad y justicia deberían concentrarse en el Estado.",
+      "category": "territorio",
+      "positions": {
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. La descentralización administrativa no equivale a conservar la autonomía legislativa actual.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0001",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                8,
+                9,
+                56,
+                64,
+                83,
+                85,
+                90
+              ],
+              "sourceUnitIds": [
+                "vox-M001",
+                "vox-M002",
+                "vox-M006",
+                "vox-M101",
+                "vox-M123",
+                "vox-M170",
+                "vox-M179",
+                "vox-M183"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-vox23-g0148-a",
+      "statement": "Los rendimientos del trabajo de hasta 22000 euros deberían quedar exentos de IRPF con independencia del número de pagadores.",
+      "category": "fiscalidad",
+      "positions": {
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. El detalle de umbral, límites por hijos y deducciones requiere desarrollo técnico antes de usar estas preguntas. No equivale a deflactar toda la tarifa del IRPF.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0148",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                74,
+                75,
+                76
+              ],
+              "sourceUnitIds": [
+                "vox-M148"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-vox23-g0151-a",
+      "statement": "Debería suprimirse el impuesto sobre el patrimonio.",
+      "category": "fiscalidad",
+      "positions": {
+        "vox": {
+          "value": 2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. No se atribuye aquí una medida sobre grandes fortunas distinta de las expresamente nombradas.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0151",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                77
+              ],
+              "sourceUnitIds": [
+                "vox-M151"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-vox23-g0283-b",
+      "statement": "La Unión Europea debería avanzar hacia un modelo federal.",
+      "category": "union-europea",
+      "positions": {
+        "vox": {
+          "value": -2,
+          "basis": "La agrupación editorial resume el pasaje. El valor representa respaldo u oposición al enunciado exacto, no intensidad ideológica. El federalismo recibe oposición; no se prescribe unanimidad para cualquier asunto indistintamente.",
+          "evidence": [
+            {
+              "proposalId": "vox-2023-g0283",
+              "documentId": "vox-2023-07-23",
+              "pdfPages": [
+                134,
+                135,
+                137
+              ],
+              "sourceUnitIds": [
+                "vox-M283",
+                "vox-M287",
+                "vox-M288",
+                "vox-M298"
+              ]
+            }
+          ]
+        },
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta en el corpus revisado. No significa neutralidad ni oposición; puede requerir una nueva búsqueda o desdoblar el alcance.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La armonización de bases no equivale a establecer un mismo tipo impositivo en todos los países.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0006",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                29,
+                30,
+                31
+              ],
+              "sourceUnitIds": [
+                "junts-P029",
+                "junts-P030",
+                "junts-P031"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0002-01",
+      "statement": "Cataluña debería poder celebrar un referéndum de autodeterminación acordado con acompañamiento internacional.",
+      "category": "territorio",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0002",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                12
+              ],
+              "sourceUnitIds": [
+                "erc-P012"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0005-01",
+      "statement": "Debería mantenerse la prisión permanente revisable.",
+      "category": "justicia",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: La mera propuesta de reformar delitos de expresión no determina aquí el resultado de cada figura penal.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0005",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                20,
+                21,
+                22
+              ],
+              "sourceUnitIds": [
+                "erc-P020",
+                "erc-P021",
+                "erc-P022"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Las propuestas de ocupación y reincidencia aquí no se equiparan automáticamente a los instrumentos concretos del PP o Vox. Oposición a prisión permanente explicitada en p.129.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0040",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130
+              ],
+              "sourceUnitIds": [
+                "junts-P124",
+                "junts-P125",
+                "junts-P126",
+                "junts-P127",
+                "junts-P128",
+                "junts-P129",
+                "junts-P130"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Investigar denuncias no acredita por sí solo la comisión del delito denunciado.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0011",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                10
+              ],
+              "sourceUnitIds": [
+                "pnv-P010"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": -2,
+          "basis": "La propuesta rechaza esta decisión. Reserva: Propuestas sobre delitos y prueba administrativa son distintas; no convertir el cuestionamiento de una sanción en impunidad penal universal.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0018",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                27,
+                28
+              ],
+              "sourceUnitIds": [
+                "bng-P027",
+                "bng-P028"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0016-10",
+      "statement": "Los productos menstruales reutilizables deberían tributar al IVA del 4 por ciento.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0016",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                47,
+                48
+              ],
+              "sourceUnitIds": [
+                "erc-P047",
+                "erc-P048"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0025-01",
+      "statement": "La fiscalidad debería reforzar su progresividad para financiar servicios públicos.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: El mínimo efectivo no equivale al tipo nominal del 15 por ciento de Vox. Revisar IVA de lujo no fija un porcentaje final.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0025",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                70,
+                71
+              ],
+              "sourceUnitIds": [
+                "erc-P070",
+                "erc-P071"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La permanencia de gravámenes es condicional, no un compromiso expreso. Revisar bienes y tipos del IVA no fija su dirección final ni porcentaje.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0016",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "pnv-P016",
+                "pnv-P017"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0025-03",
+      "statement": "Los impuestos extraordinarios sobre banca y empresas energéticas deberían convertirse en permanentes.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: El mínimo efectivo no equivale al tipo nominal del 15 por ciento de Vox. Revisar IVA de lujo no fija un porcentaje final.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0025",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                70,
+                71
+              ],
+              "sourceUnitIds": [
+                "erc-P070",
+                "erc-P071"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La competencia fiscal foral permanece expresamente reservada. La crítica a una política monetaria no prueba sus efectos económicos.",
+          "evidence": [
+            {
+              "proposalId": "eh-bildu-2023-g0013",
+              "documentId": "eh-bildu-2023-07-23",
+              "pdfPages": [
+                8
+              ],
+              "sourceUnitIds": [
+                "eh-bildu-P008"
+              ]
+            }
+          ]
+        },
+        "pnv": {
+          "value": null,
+          "basis": "El pasaje no determina una decisión de este alcance. Reserva: La permanencia de gravámenes es condicional, no un compromiso expreso. Revisar bienes y tipos del IVA no fija su dirección final ni porcentaje.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0016",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "pnv-P016",
+                "pnv-P017"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0027",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                40,
+                41
+              ],
+              "sourceUnitIds": [
+                "bng-P040",
+                "bng-P041"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0033-02",
+      "statement": "Deberían recuperarse los salarios de tramitación en los despidos.",
+      "category": "trabajo",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La atribución de años a gobiernos contiene una inconsistencia en el programa; se citan años y medidas sin reproducir el error. El SMI de 1250 euros aparece en el horizonte republicano previo, no se extrapola como compromiso parlamentario incondicionado.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0033",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                90,
+                91
+              ],
+              "sourceUnitIds": [
+                "erc-P090",
+                "erc-P091"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "eh-bildu-2023-g0002",
+              "documentId": "eh-bildu-2023-07-23",
+              "pdfPages": [
+                3
+              ],
+              "sourceUnitIds": [
+                "eh-bildu-P003"
+              ]
+            }
+          ]
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La crítica de reformas anteriores no se traduce en una respuesta automática al enunciado sobre mantener íntegra la reforma de 2021.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0007",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "bng-P016",
+                "bng-P017"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-erc23-g0033-03",
+      "statement": "Los despidos colectivos deberían requerir autorización administrativa.",
+      "category": "trabajo",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La atribución de años a gobiernos contiene una inconsistencia en el programa; se citan años y medidas sin reproducir el error. El SMI de 1250 euros aparece en el horizonte republicano previo, no se extrapola como compromiso parlamentario incondicionado.",
+          "evidence": [
+            {
+              "proposalId": "erc-2023-g0033",
+              "documentId": "erc-2023-07-23",
+              "pdfPages": [
+                90,
+                91
+              ],
+              "sourceUnitIds": [
+                "erc-P090",
+                "erc-P091"
+              ]
+            }
+          ]
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La crítica de reformas anteriores no se traduce en una respuesta automática al enunciado sobre mantener íntegra la reforma de 2021.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0007",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "bng-P016",
+                "bng-P017"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0005-01",
+      "statement": "Cataluña debería poder constituirse en un Estado independiente.",
+      "category": "territorio",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Son propuestas de 2023; la independencia se distingue de las reformas mientras Cataluña forma parte del Estado.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0005",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                28,
+                29,
+                30,
+                31,
+                32,
+                33
+              ],
+              "sourceUnitIds": [
+                "junts-P028",
+                "junts-P029",
+                "junts-P030",
+                "junts-P031",
+                "junts-P032",
+                "junts-P033"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0007-01",
+      "statement": "Los compromisos asumidos con la OTAN deberían cumplirse.",
+      "category": "defensa",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: El pasaje no fija un objetivo del 2 % del PIB: no se traslada ese valor a la pregunta del gasto militar.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0007",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                31
+              ],
+              "sourceUnitIds": [
+                "junts-P031"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0013-01",
+      "statement": "La redistribución mediante impuestos debería realizarse sin aumentar la presión fiscal global.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se infiere apoyo o rechazo al impuesto sobre grandes fortunas; no aparece un instrumento equivalente inequívoco en estos pasajes.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0013",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                58,
+                59,
+                60,
+                61,
+                62
+              ],
+              "sourceUnitIds": [
+                "junts-P058",
+                "junts-P059",
+                "junts-P060",
+                "junts-P061",
+                "junts-P062"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0013-03",
+      "statement": "Los tipos del IRPF deberían deflactarse para compensar la inflación.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se infiere apoyo o rechazo al impuesto sobre grandes fortunas; no aparece un instrumento equivalente inequívoco en estos pasajes.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0013",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                58,
+                59,
+                60,
+                61,
+                62
+              ],
+              "sourceUnitIds": [
+                "junts-P058",
+                "junts-P059",
+                "junts-P060",
+                "junts-P061",
+                "junts-P062"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0013-05",
+      "statement": "El tipo del impuesto sobre sociedades para las pymes debería reducirse del 25 % al 20 %.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se infiere apoyo o rechazo al impuesto sobre grandes fortunas; no aparece un instrumento equivalente inequívoco en estos pasajes.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0013",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                58,
+                59,
+                60,
+                61,
+                62
+              ],
+              "sourceUnitIds": [
+                "junts-P058",
+                "junts-P059",
+                "junts-P060",
+                "junts-P061",
+                "junts-P062"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0022-06",
+      "statement": "Las instalaciones renovables deberían aportar beneficios a su entorno local.",
+      "category": "energia",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No hay compromiso de cierre nuclear en estos pasajes. La reforma del mercado no equivale a cierre de generación.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0022",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                87,
+                88,
+                89,
+                90,
+                91
+              ],
+              "sourceUnitIds": [
+                "junts-P087",
+                "junts-P088",
+                "junts-P089",
+                "junts-P090",
+                "junts-P091"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0025-03",
+      "statement": "El 30 % de los pisos vacíos de la Sareb en Cataluña debería transferirse a la Generalitat y a los ayuntamientos.",
+      "category": "vivienda",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se codifica un apoyo genérico a la ley estatal de vivienda ni a límites obligatorios de precios a partir de bonificaciones voluntarias.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0025",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                97,
+                98,
+                99,
+                100,
+                101
+              ],
+              "sourceUnitIds": [
+                "junts-P097",
+                "junts-P098",
+                "junts-P099",
+                "junts-P100",
+                "junts-P101"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0037-02",
+      "statement": "Las víctimas de discriminación por orientación sexual o identidad de género deberían disponer de medidas de reconocimiento y reparación.",
+      "category": "lgtbi",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No hay posición específica en estos pasajes sobre edades del cambio registral ni tratamientos médicos.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0037",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                115,
+                116
+              ],
+              "sourceUnitIds": [
+                "junts-P115",
+                "junts-P116"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0038-02",
+      "statement": "La financiación educativa debería atender tanto a centros públicos como a concertados con finalidad social.",
+      "category": "educacion",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Financiar 0-3 no implica necesariamente gratuidad universal; no se fusiona con PP146-a.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0038",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                116,
+                117,
+                118,
+                119,
+                120
+              ],
+              "sourceUnitIds": [
+                "junts-P116",
+                "junts-P117",
+                "junts-P118",
+                "junts-P119",
+                "junts-P120"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-junts23-g0038-05",
+      "statement": "La enseñanza postobligatoria de 16 a 18 años debería ser gratuita en toda la red educativa catalana.",
+      "category": "educacion",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Financiar 0-3 no implica necesariamente gratuidad universal; no se fusiona con PP146-a.",
+          "evidence": [
+            {
+              "proposalId": "junts-2023-g0038",
+              "documentId": "junts-2023-07-23",
+              "pdfPages": [
+                116,
+                117,
+                118,
+                119,
+                120
+              ],
+              "sourceUnitIds": [
+                "junts-P116",
+                "junts-P117",
+                "junts-P118",
+                "junts-P119",
+                "junts-P120"
+              ]
+            }
+          ]
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-eh-bildu23-g0002-04",
+      "statement": "La jornada laboral debería reducirse a 32 horas semanales sin reducción salarial.",
+      "category": "trabajo",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "eh-bildu-2023-g0002",
+              "documentId": "eh-bildu-2023-07-23",
+              "pdfPages": [
+                3
+              ],
+              "sourceUnitIds": [
+                "eh-bildu-P003"
+              ]
+            }
+          ]
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-eh-bildu23-g0005-01",
+      "statement": "Los contratos de alquiler deberían prorrogarse automáticamente manteniendo renta y condiciones.",
+      "category": "vivienda",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La referencia temporal y el carácter transitorio de la medida hipotecaria forman parte de la propuesta.",
+          "evidence": [
+            {
+              "proposalId": "eh-bildu-2023-g0005",
+              "documentId": "eh-bildu-2023-07-23",
+              "pdfPages": [
+                4,
+                5
+              ],
+              "sourceUnitIds": [
+                "eh-bildu-P004",
+                "eh-bildu-P005"
+              ]
+            }
+          ]
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-eh-bildu23-g0009-09",
+      "statement": "Los productos de higiene menstrual deberían tributar al tipo superreducido de IVA.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "eh-bildu-2023-g0009",
+              "documentId": "eh-bildu-2023-07-23",
+              "pdfPages": [
+                6
+              ],
+              "sourceUnitIds": [
+                "eh-bildu-P006"
+              ]
+            }
+          ]
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pnv23-g0002-03",
+      "statement": "Euskadi debería reconocerse como nación en una relación bilateral de soberanía compartida con el Estado.",
+      "category": "territorio",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: El rechazo a devolver competencias se acredita por la oposición expresa a recentralizar las competencias estatutarias; no implica una postura sobre cualquier transferencia imaginable.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0002",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                5,
+                6
+              ],
+              "sourceUnitIds": [
+                "pnv-P005",
+                "pnv-P006"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pnv23-g0016-05",
+      "statement": "Deberían reducirse los tipos del IVA.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "El pasaje no determina una decisión de este alcance. Reserva: La permanencia de gravámenes es condicional, no un compromiso expreso. Revisar bienes y tipos del IVA no fija su dirección final ni porcentaje.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0016",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "pnv-P016",
+                "pnv-P017"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pnv23-g0021-01",
+      "statement": "Debería facilitarse la creación de comunidades energéticas.",
+      "category": "energia",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0021",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                20,
+                23
+              ],
+              "sourceUnitIds": [
+                "pnv-P020",
+                "pnv-P023"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-pnv23-g0046-01",
+      "statement": "Debería ampliarse el parque público de vivienda de alquiler.",
+      "category": "vivienda",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se deriva una posición sobre cada límite de alquiler de la ley estatal ni se convierte una cifra de balance en un objetivo nuevo.",
+          "evidence": [
+            {
+              "proposalId": "pnv-2023-g0046",
+              "documentId": "pnv-2023-07-23",
+              "pdfPages": [
+                45,
+                46
+              ],
+              "sourceUnitIds": [
+                "pnv-P045",
+                "pnv-P046"
+              ]
+            }
+          ]
+        },
+        "bng": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0002-01",
+      "statement": "Galicia debería poder ejercer el derecho de autodeterminación.",
+      "category": "territorio",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Distinguir objetivo estratégico de las medidas inmediatas de autogobierno.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0002",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                10
+              ],
+              "sourceUnitIds": [
+                "bng-P010"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0006-07",
+      "statement": "Debería ampliarse el recargo del IBI a vivienda vacía.",
+      "category": "vivienda",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: El original utiliza arrendadoras; se conserva una pregunta sobre duración contractual sin corregir por conjetura a quién protege ese término.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0006",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                15,
+                16
+              ],
+              "sourceUnitIds": [
+                "bng-P015",
+                "bng-P016"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0007-01",
+      "statement": "La indemnización por despido improcedente debería elevarse a 45 días por año trabajado.",
+      "category": "trabajo",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La crítica de reformas anteriores no se traduce en una respuesta automática al enunciado sobre mantener íntegra la reforma de 2021.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0007",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "bng-P016",
+                "bng-P017"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0008-01",
+      "statement": "La jornada laboral debería reducirse a 35 horas semanales sin reducción salarial.",
+      "category": "trabajo",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: No se unifica la jornada de 35 con las de 32 o 37,5 horas.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0008",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                16,
+                17
+              ],
+              "sourceUnitIds": [
+                "bng-P016",
+                "bng-P017"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0022-01",
+      "statement": "La educación pública de cero a dieciocho años debería ser gratuita.",
+      "category": "educacion",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La supresión de conciertos es progresiva y contempla primero niveles no obligatorios; no se presenta como cierre de centros privados.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0022",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                31,
+                32,
+                33,
+                34
+              ],
+              "sourceUnitIds": [
+                "bng-P031",
+                "bng-P032",
+                "bng-P033",
+                "bng-P034"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0022-04",
+      "statement": "Deberían eliminarse progresivamente los conciertos educativos.",
+      "category": "educacion",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: La supresión de conciertos es progresiva y contempla primero niveles no obligatorios; no se presenta como cierre de centros privados.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0022",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                31,
+                32,
+                33,
+                34
+              ],
+              "sourceUnitIds": [
+                "bng-P031",
+                "bng-P032",
+                "bng-P033",
+                "bng-P034"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q-bng23-g0025-03",
+      "statement": "Debería reducirse la tributación de rendimientos del trabajo y aumentarse la del capital.",
+      "category": "fiscalidad",
+      "positions": {
+        "pp": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "psoe": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "vox": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "erc": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "junts": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "eh-bildu": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "pnv": {
+          "value": null,
+          "basis": "No se ha vinculado evidencia suficiente a esta decisión exacta; no equivale a neutralidad ni oposición.",
+          "evidence": []
+        },
+        "bng": {
+          "value": 2,
+          "basis": "La propuesta respalda esta decisión. Reserva: Cifra histórica de 2023, no actualización automática de la norma vigente.",
+          "evidence": [
+            {
+              "proposalId": "bng-2023-g0025",
+              "documentId": "bng-2023-07-23",
+              "pdfPages": [
+                39
+              ],
+              "sourceUnitIds": [
+                "bng-P039"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "empresa",
+      "title": "Empresa competencia y conocimiento",
+      "questions": 121,
+      "concepts": 4
+    },
+    {
+      "id": "trabajo",
+      "title": "Trabajo pensiones y protección social",
+      "questions": 209,
+      "concepts": 5
+    },
+    {
+      "id": "igualdad-laboral",
+      "title": "Igualdad laboral",
+      "questions": 46,
+      "concepts": 2
+    },
+    {
+      "id": "inteligencia-artificial",
+      "title": "Inteligencia artificial",
+      "questions": 53,
+      "concepts": 4
+    },
+    {
+      "id": "fiscalidad",
+      "title": "Fiscalidad y evaluación del gasto",
+      "questions": 151,
+      "concepts": 7
+    },
+    {
+      "id": "industria",
+      "title": "Industria y fondos europeos",
+      "questions": 101,
+      "concepts": 1
+    },
+    {
+      "id": "sector-primario",
+      "title": "Agricultura pesca y montes",
+      "questions": 139,
+      "concepts": 4
+    },
+    {
+      "id": "biodiversidad",
+      "title": "Medio ambiente caza y biodiversidad",
+      "questions": 79,
+      "concepts": 1
+    },
+    {
+      "id": "medio-rural",
+      "title": "Medio rural y despoblación",
+      "questions": 33,
+      "concepts": 1
+    },
+    {
+      "id": "infraestructuras",
+      "title": "Infraestructuras y movilidad",
+      "questions": 128,
+      "concepts": 4
+    },
+    {
+      "id": "vivienda",
+      "title": "Vivienda y urbanismo",
+      "questions": 98,
+      "concepts": 5
+    },
+    {
+      "id": "turismo",
+      "title": "Turismo y hostelería",
+      "questions": 32,
+      "concepts": 1
+    },
+    {
+      "id": "agua",
+      "title": "Agua y ecosistemas acuáticos",
+      "questions": 56,
+      "concepts": 1
+    },
+    {
+      "id": "energia",
+      "title": "Energía",
+      "questions": 122,
+      "concepts": 6
+    },
+    {
+      "id": "salud",
+      "title": "Salud y decisiones sanitarias",
+      "questions": 223,
+      "concepts": 8
+    },
+    {
+      "id": "educacion",
+      "title": "Educación y universidades",
+      "questions": 174,
+      "concepts": 7
+    },
+    {
+      "id": "familia-infancia",
+      "title": "Familias infancia y adolescencia",
+      "questions": 161,
+      "concepts": 5
+    },
+    {
+      "id": "mayores",
+      "title": "Mayores y atención sociosanitaria",
+      "questions": 57,
+      "concepts": 1
+    },
+    {
+      "id": "discapacidad",
+      "title": "Discapacidad y accesibilidad",
+      "questions": 45,
+      "concepts": 1
+    },
+    {
+      "id": "violencia-mujeres",
+      "title": "Violencia contra las mujeres",
+      "questions": 73,
+      "concepts": 1
+    },
+    {
+      "id": "lgtbi",
+      "title": "Derechos de personas LGTBI",
+      "questions": 40,
+      "concepts": 2
+    },
+    {
+      "id": "instituciones",
+      "title": "Instituciones y órganos independientes",
+      "questions": 57,
+      "concepts": 3
+    },
+    {
+      "id": "constitucion",
+      "title": "Constitución memoria y libertad religiosa",
+      "questions": 28,
+      "concepts": 1
+    },
+    {
+      "id": "legislacion",
+      "title": "Elaboración de leyes y participación",
+      "questions": 31,
+      "concepts": 2
+    },
+    {
+      "id": "justicia",
+      "title": "Justicia y protección de derechos",
+      "questions": 118,
+      "concepts": 4
+    },
+    {
+      "id": "buen-gobierno",
+      "title": "Control del Gobierno",
+      "questions": 45,
+      "concepts": 2
+    },
+    {
+      "id": "territorio",
+      "title": "Cooperación y financiación territorial",
+      "questions": 93,
+      "concepts": 3
+    },
+    {
+      "id": "seguridad",
+      "title": "Seguridad terrorismo y fronteras",
+      "questions": 159,
+      "concepts": 5
+    },
+    {
+      "id": "propiedad",
+      "title": "Ocupación ilegal y propiedad",
+      "questions": 19,
+      "concepts": 1
+    },
+    {
+      "id": "administracion",
+      "title": "Administración y empleo público",
+      "questions": 94,
+      "concepts": 4
+    },
+    {
+      "id": "union-europea",
+      "title": "Unión Europea",
+      "questions": 61,
+      "concepts": 1
+    },
+    {
+      "id": "iberoamerica",
+      "title": "Relaciones iberoamericanas",
+      "questions": 20,
+      "concepts": 1
+    },
+    {
+      "id": "exteriores",
+      "title": "Política exterior",
+      "questions": 65,
+      "concepts": 1
+    },
+    {
+      "id": "defensa",
+      "title": "Defensa",
+      "questions": 35,
+      "concepts": 1
+    },
+    {
+      "id": "cooperacion",
+      "title": "Cooperación al desarrollo",
+      "questions": 41,
+      "concepts": 1
+    },
+    {
+      "id": "exterior-ciudadania",
+      "title": "Españoles en el exterior",
+      "questions": 15,
+      "concepts": 1
+    },
+    {
+      "id": "cultura",
+      "title": "Cultura y patrimonio",
+      "questions": 128,
+      "concepts": 3
+    },
+    {
+      "id": "deporte",
+      "title": "Deporte",
+      "questions": 40,
+      "concepts": 1
+    },
+    {
+      "id": "consumo",
+      "title": "Consumo y derechos de usuarios",
+      "questions": 31,
+      "concepts": 1
+    },
+    {
+      "id": "bienestar-animal",
+      "title": "Bienestar animal",
+      "questions": 34,
+      "concepts": 1
+    }
+  ]
+}
