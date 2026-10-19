@@ -2041,7 +2041,7 @@
     "id": "investigacion-aplicada",
     "patterns": [
       "investigacion",
-      "\bi\\+d\b",
+      "\\bi\\+d\\b",
       "patentes",
       "ciencia"
     ],
@@ -2374,5 +2374,116 @@
       "justicia"
     ],
     "priority": 35
+  },
+  {
+    "id": "fraude-fiscal",
+    "patterns": [
+      "fraude",
+      "evasion",
+      "elusion",
+      "haciendas",
+      "delito fiscal",
+      "paraisos fiscales"
+    ],
+    "categoryIds": [
+      "fiscalidad",
+      "buen-gobierno",
+      "empresa"
+    ],
+    "priority": 55,
+    "background": "El fraude fiscal consiste en incumplir obligaciones tributarias, por ejemplo ocultando ingresos. La evasión se refiere a evitar ilegalmente el pago; la elusión utiliza estructuras o resquicios que pueden ser legales o discutidos. Cooperar entre haciendas significa compartir información o coordinar controles entre administraciones tributarias.",
+    "example": "Por ejemplo, si una persona declara ingresos en un territorio pero mantiene actividad o bienes en otro, intercambiar datos puede permitir comprobar si ha declarado lo que corresponde. Ese intercambio requiere reglas de acceso, protección de datos y posibilidad de corregir errores: una discrepancia no demuestra por sí sola un delito.",
+    "distinction": "Reforzar inspección, cambiar sanciones y modificar el umbral de un delito son decisiones diferentes. La cooperación no crea por sí misma un impuesto nuevo ni permite cobrar dos veces la misma obligación. También importa cómo se distingue un error de una ocultación deliberada."
+  },
+  {
+    "id": "ahorro-inflacion",
+    "patterns": [
+      "base del ahorro",
+      "rentas del capital",
+      "ahorro.*inflacion",
+      "intereses.*inflacion"
+    ],
+    "categoryIds": [
+      "fiscalidad",
+      "buen-gobierno",
+      "empresa"
+    ],
+    "priority": 55,
+    "background": "La renta del ahorro puede incluir rendimientos o ganancias, según su naturaleza. La inflación reduce el poder de compra: ganar una cantidad nominal no significa que haya aumentado en la misma proporción la capacidad de adquirir bienes. Ajustar por inflación cambia cómo se tiene en cuenta esa diferencia.",
+    "example": "En un ejemplo ilustrativo, un ahorro que pasa de 1.000 a 1.030 euros gana 30 euros nominales. Si los precios también han aumentado, esa ganancia no se traduce íntegramente en más poder de compra. Corregir la base por inflación podría reconocer parte de ese efecto al calcular la tributación.",
+    "distinction": "No se debe confundir el capital ahorrado con el rendimiento que produce, ni una ganancia nominal con una ganancia real. La pregunta no implica que todo ahorro quede exento ni fija un método de corrección si no lo describe expresamente."
+  },
+  {
+    "id": "ibi-catastral",
+    "patterns": [
+      "\\bibi\\b",
+      "valor catastral",
+      "valores catastrales",
+      "latifundios"
+    ],
+    "categoryIds": [
+      "fiscalidad",
+      "buen-gobierno",
+      "empresa"
+    ],
+    "priority": 55,
+    "background": "El IBI es un impuesto municipal asociado a inmuebles. El valor catastral es una valoración administrativa y no tiene por qué coincidir con el precio de venta. La progresividad significa que el tipo o la carga relativa aumentan según una magnitud, como el valor, en lugar de aplicar siempre la misma proporción.",
+    "example": "Por ejemplo, dos inmuebles con distinto valor pueden pagar cantidades diferentes incluso con un tipo idéntico. Hacer el impuesto progresivo puede añadir otra diferencia en los tipos o tramos. Un gravamen sobre grandes propiedades agrarias sería otro instrumento y habría que precisar su base y destinatarios.",
+    "distinction": "Valor, tipo y cuota son conceptos distintos: la cuota final depende de cómo se combinen y de posibles beneficios fiscales. La pregunta propone el criterio que nombra, sin establecer automáticamente todos los tramos ni presumir que el valor administrativo sea el de mercado."
+  },
+  {
+    "id": "gasto-inversion",
+    "patterns": [
+      "inversion publica",
+      "gasto publico",
+      "subvenciones publicas",
+      "volumen de subvenciones"
+    ],
+    "categoryIds": [
+      "fiscalidad",
+      "buen-gobierno",
+      "empresa"
+    ],
+    "priority": 55,
+    "background": "El gasto público puede financiar servicios, prestaciones, funcionamiento o inversión. La inversión suele crear o mejorar bienes y capacidades que se utilizan durante varios años; una subvención entrega apoyo a un destinatario bajo condiciones. Aumentar o reducir una partida cambia cómo se distribuyen recursos limitados.",
+    "example": "Por ejemplo, renovar una red de transporte, pagar su mantenimiento y subvencionar a sus usuarios son tres actuaciones distintas. Dedicar más presupuesto a una puede requerir aumentar ingresos, endeudarse o destinar menos a otra; no hay una consecuencia única independiente del diseño.",
+    "distinction": "Anunciar una dotación no significa que se haya ejecutado ni que haya alcanzado el resultado previsto. También conviene distinguir recortar una partida concreta de reducir el presupuesto total, y porcentajes sobre el gasto de porcentajes sobre el PIB."
+  },
+  {
+    "id": "informacion-contribuyente",
+    "patterns": [
+      "informacion.*destino.*impuesto",
+      "informacion personalizada",
+      "errores tributarios",
+      "contribuyentes",
+      "historial de cumplimiento"
+    ],
+    "categoryIds": [
+      "fiscalidad",
+      "buen-gobierno",
+      "empresa"
+    ],
+    "priority": 55,
+    "background": "La relación tributaria incluye declarar, recibir información, corregir errores y recurrir decisiones. Una propuesta puede facilitar el cumplimiento o cambiar el trato ante una equivocación, sin modificar necesariamente cuánto debe pagarse.",
+    "example": "Por ejemplo, una persona que comete un error aritmético puede necesitar corregir su declaración. Se puede debatir si su historial influye en las consecuencias o si debe recibir información más clara. Es una cuestión distinta de perdonar una ocultación deliberada de ingresos.",
+    "distinction": "Separar deuda, intereses y sanciones ayuda a entender el alcance de cada medida. También hay que distinguir información orientativa de una resolución vinculante: explicar al contribuyente su situación no elimina sus vías de reclamación."
+  },
+  {
+    "id": "gravamenes-extraordinarios",
+    "patterns": [
+      "impuestos extraordinarios",
+      "gravamenes extraordinarios",
+      "gravamen.*banca",
+      "gravamen.*energia"
+    ],
+    "categoryIds": [
+      "fiscalidad",
+      "buen-gobierno",
+      "empresa"
+    ],
+    "priority": 55,
+    "background": "Un gravamen extraordinario se plantea para una situación o periodo específico, con una base y unos destinatarios determinados. Convertirlo en permanente cambia su duración; reformar su cálculo es otra decisión y puede alterar quién paga y cuánto.",
+    "example": "Por ejemplo, una carga dirigida a determinados ingresos de un sector puede tener fecha de finalización. Mantenerla después no significa necesariamente conservar su fórmula inicial. También importa si se calcula sobre ingresos, beneficios u otra magnitud.",
+    "distinction": "No se debe confundir recaudar más de un sector con garantizar que ningún coste llegue a sus clientes. El efecto depende del diseño y del comportamiento de las empresas. La pregunta pide valorar la duración o reforma enunciada, sin dar por probados todos sus resultados."
   }
 ]

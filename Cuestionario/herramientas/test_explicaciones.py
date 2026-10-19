@@ -64,6 +64,12 @@ class Explanations(unittest.TestCase):
             if q["category"] in {"fiscalidad","consumo"}:
                 self.assertNotEqual(self.actual[q["id"]]["profile"],"repatriacion")
 
+    def test_cooperation_between_tax_authorities_explains_information_exchange(self):
+        q=next(q for q in self.bank["questions"] if q["statement"]=="Debería reforzarse la cooperación entre haciendas para combatir fraude y evasión.")
+        content=self.actual[q["id"]]
+        self.assertEqual(content["profile"],"fraude-fiscal")
+        self.assertIn("intercambiar datos",content["paragraphs"][2])
+
     def test_plain_language_keeps_negations_and_conjugates_relevant_verbs(self):
         self.assertEqual(editor.plain_statement("Las competencias deberían transferirse a otra institución."),"Se propone que las competencias se transfieran a otra institución.")
         self.assertEqual(editor.plain_statement("El euro digital no debería implantarse."),"Se propone que el euro digital no se implante.")
