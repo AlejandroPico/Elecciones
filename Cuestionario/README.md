@@ -122,3 +122,9 @@ Por petición del usuario se habilita el uso **experimental** del banco document
 - La memoria se conserva al navegar entre secciones y se pierde al cerrar o recargar. No hay cookies nuevas, guardado de respuestas, exportación automática ni transmisión de opiniones a un servidor.
 
 Las conclusiones con pocas respuestas o cobertura desigual son limitadas. Las codificaciones conservan sus reservas, los valores ambiguos se excluyen y Sumar 2023 sigue separado de Movimiento Sumar y del Frente Amplio. Antes de usar el banco como instrumento definitivo se mantiene pendiente revisar neutralidad, contexto, equilibrio de muestreo y cobertura común entre partidos.
+
+## Explicaciones y lectura del perfil · 19 de octubre de 2026
+
+Las explicaciones se mantienen en `explicaciones/`, sin modificar los enunciados ni sus puntuaciones: 40 perfiles temáticos, 97 explicaciones de instrumentos concretos, 154 definiciones y correcciones individuales por ID. El generador produce un documento estático por categoría y una auditoría de cobertura. Solo se carga el tema cuya explicación se abre; no se añade el conjunto de textos a la descarga inicial del cuestionario. Véase `explicaciones/README.md`.
+
+El perfil prioriza ahora un mapa X/Y: «Por propuestas» usa dos respuestas del mismo tema y las posiciones documentadas para esas mismas propuestas; no lo denomina un índice ideológico general. El selector permite cambiar ambas propuestas. La pareja inicial busca cobertura documental común, sin usar la respuesta o la importancia para favorecer un partido. «Ejes temáticos» conserva los indicadores de `ejes.json`, sus signos y los pesos ya definidos. El usuario se distingue mediante doble aro y animación compatible con movimiento reducido. Las ausencias se muestran como datos pendientes y las coincidencias de partidos conservan una coordenada compartida. La afinidad sigue utilizando su fórmula ponderada, separada del mapa de dos propuestas.

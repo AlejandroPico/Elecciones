@@ -1,20 +1,11 @@
 import { useState } from "react";
+import PoliticalMap from "./PoliticalMap";
+import EvidenceLinks from "./EvidenceLinks";
 import type { Answers } from "../../Elecciones/interfaz/perfil/model";
 import { logos } from "../../Partidos/interfaz/catalogo";
 import { colors } from "./model";
-import {
-  bank,
-  compare,
-  sourceById,
-  uniqueResponses,
-  userAxis,
-  type Evidence,
-} from "./sesion";
+import { bank, compare, uniqueResponses } from "./sesion";
 
-const documents = import.meta.glob<string>(
-  "../../Elecciones/*/programas/**/*.{pdf,txt}",
-  { eager: true, query: "?url&no-inline", import: "default" },
-);
 const labels: Record<number, string> = {
   [-2]: "Muy en desacuerdo",
   [-1]: "En desacuerdo",
@@ -24,42 +15,6 @@ const labels: Record<number, string> = {
 };
 const rounded = (n: number | null) =>
   n === null ? "Sin datos" : `${Math.round(n)} %`;
-
-function EvidenceLinks({ evidence }: { evidence: Evidence[] }) {
-  return (
-    <ul className="response-evidence">
-      {evidence.map((e, index) => {
-        const source = sourceById.get(e.documentId);
-        if (!source) return null;
-        const href = documents[`../../${source.file}`];
-        const locator = e.pdfPages?.length
-          ? `PDF ${e.pdfPages.join(", ")}`
-          : `Líneas ${e.textLines?.join(", ")}`;
-        return (
-          <li key={`${e.proposalId}-${index}`}>
-            <a
-              href={
-                href
-                  ? `${href}${e.pdfPages?.length ? `#page=${e.pdfPages[0]}` : ""}`
-                  : source.source
-              }
-              target="_blank"
-              rel="noreferrer"
-            >
-              {source.title} · {locator}
-            </a>
-            <small>
-              {source.kind === "territorial" ? `${source.territory} · ` : ""}
-              {source.electionDate?.slice(0, 4) ??
-                "Documento general o permanente"}{" "}
-              · {e.proposalId}
-            </small>
-          </li>
-        );
-      })}
-    </ul>
-  );
-}
 
 export default function SurveyProfile({
   answers,
@@ -72,7 +27,6 @@ export default function SurveyProfile({
 }) {
   const [category, setCategory] = useState("");
   const [requestedParty, setPartyId] = useState<string | null>(null);
-  const [mapId, setMapId] = useState(bank.maps[0].id);
   const [hover, setHover] = useState<string | null>(null);
   const responded = uniqueResponses(answers);
   const answered = responded.filter((r) => r.answer.value !== null).length;
@@ -87,9 +41,6 @@ export default function SurveyProfile({
     )[0];
   const partyId = selected.id;
   const detail = compare(answers, partyId, category || undefined);
-  const chart = bank.maps.find((m) => m.id === mapId)!;
-  const x = userAxis(answers, chart.x),
-    y = userAxis(answers, chart.y);
   const visibleResponses = responded.filter(
     (r) => !category || r.question.category === category,
   );
@@ -127,6 +78,11 @@ export default function SurveyProfile({
         nacionales de 2026. Pocas respuestas o poca cobertura permiten
         conclusiones muy limitadas.
       </p>
+      <PoliticalMap
+        answers={answers}
+        selectedParty={partyId}
+        selectParty={setPartyId}
+      />
       <label className="profile-filter">
         Tema
         <select
@@ -143,12 +99,14 @@ export default function SurveyProfile({
         </select>
       </label>
       <div className="profile-graphs">
-        <section className="result-card affinity-map">
-          <h2>Mapa de afinidad documental</h2>
+        <details className="result-card affinity-map">
+          <summary>Coincidencia y cobertura documental</summary>
+          <h2>Comparación de documentos</h2>
           <p className="chart-note">
             Horizontal: coincidencia. Vertical: proporción de tus respuestas con
-            posición documentada. Cada punto es una comparación distinta; una
-            cobertura baja no permite ordenar preferencias.
+            posición documentada. Aquí los puntos son partidos, no tu posición
+            política. Cada punto es una comparación distinta; una cobertura baja
+            no permite ordenar preferencias.
           </p>
           <svg
             viewBox="0 0 580 350"
@@ -248,7 +206,7 @@ export default function SurveyProfile({
             Los puntos coincidentes se separan ligeramente para poder
             seleccionarlos; la línea conserva la coordenada exacta.
           </p>
-        </section>
+        </details>
         <section className="result-card affinity-list">
           <h2>Comparar documentos</h2>
           <p className="chart-note">
@@ -313,81 +271,6 @@ export default function SurveyProfile({
           <p>Responde una pregunta para empezar a perfilar tus posiciones.</p>
         )}
       </section>
-      <details className="result-card documented-dimensions">
-        <summary>Coordenadas temáticas con dirección documentada</summary>
-        <p className="chart-note">
-          Se conservan los indicadores y signos del análisis. Las preguntas sin
-          un eje definido intervienen en la afinidad y en el resumen de
-          respuestas, sin recibir una etiqueta ideológica inventada.
-        </p>
-        <select
-          aria-label="Mapa temático"
-          value={mapId}
-          onChange={(e) => setMapId(e.target.value)}
-        >
-          {bank.maps.map((m) => (
-            <option key={m.id} value={m.id}>
-              {m.title}
-            </option>
-          ))}
-        </select>
-        <svg
-          viewBox="0 0 400 310"
-          role="img"
-          aria-label={`Coordenadas de ${chart.title}: ${x.value === null ? "eje X sin respuestas" : `X ${Math.round(x.value)}`}, ${y.value === null ? "eje Y sin respuestas" : `Y ${Math.round(y.value)}`}`}
-        >
-          <path d="M40 145H360 M200 25V265" className="axis-line" />
-          <rect
-            x="40"
-            y="25"
-            width="320"
-            height="240"
-            fill="none"
-            className="grid-line"
-          />
-          {x.value !== null && y.value !== null ? (
-            <circle
-              cx={200 + x.value * 1.6}
-              cy={145 - y.value * 1.2}
-              r="7"
-              fill="var(--accent)"
-            />
-          ) : (
-            <text x="200" y="290" textAnchor="middle">
-              Faltan respuestas en uno o ambos ejes
-            </text>
-          )}
-          <text x="40" y="280">
-            −100
-          </text>
-          <text x="325" y="280">
-            +100
-          </text>
-        </svg>
-        {[
-          { axis: chart.x, score: x },
-          { axis: chart.y, score: y },
-        ].map(({ axis, score }, i) => (
-          <details key={i}>
-            <summary>
-              {i ? "Y" : "X"}: {axis.label} ·{" "}
-              {score.value === null ? "Sin datos" : Math.round(score.value)} ·{" "}
-              {score.contributions.length} respuestas
-            </summary>
-            <p>
-              100 × suma(respuesta / 2 × dirección × importancia) /
-              suma(importancias). Numerador {score.numerator.toFixed(2)}; peso{" "}
-              {score.weight}.
-            </p>
-            {score.contributions.map((c) => (
-              <p key={c.question.id}>
-                {c.question.text} · {c.answer.value} / 2 × {c.direction} ×{" "}
-                {c.answer.importance} = {c.numerator.toFixed(2)}
-              </p>
-            ))}
-          </details>
-        ))}
-      </details>
       <details className="result-card response-audit" open>
         <summary>Respuestas y cálculo · {visibleResponses.length}</summary>
         <p>

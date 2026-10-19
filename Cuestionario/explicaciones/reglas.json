@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "licencias",
+    "patterns": [
+      "autorizaci.*comunidad",
+      "licencias.*comunidades"
+    ],
+    "background": "Una autorización es un permiso para realizar una actividad. Reconocerlo entre territorios permitiría utilizar el permiso concedido en un lugar para actuar en otro, en vez de repetir toda la tramitación.",
+    "example": "Un taller obtiene autorización en una comunidad y quiere ofrecer el mismo servicio en otra. Reconocer el permiso evitaría empezar de cero, aunque habría que precisar qué controles se mantienen en el destino.",
+    "distinction": "Reconocer una autorización no significa necesariamente eliminar inspecciones ni igualar todas las normas. El punto es qué parte del permiso de origen resulta suficiente.",
+    "categoryIds": [
+      "empresa",
+      "administracion"
+    ],
+    "priority": 20
+  },
+  {
+    "id": "capital-riesgo",
+    "patterns": [
+      "capital riesgo",
+      "capital participativo"
+    ],
+    "background": "En una inversión de capital, quien aporta dinero participa en el proyecto y asume la posibilidad de perderlo. Es distinto de un préstamo que debe devolverse con intereses. La participación pública supone que una institución aporta recursos a esas inversiones.",
+    "example": "Una empresa joven necesita desarrollar un producto cuyo éxito aún no se conoce. Puede pedir un préstamo o incorporar a un inversor que participe en el negocio. Cambian el riesgo y la relación con quien aporta el dinero.",
+    "distinction": "Financiar, garantizar un préstamo y adquirir una participación son decisiones diferentes. Una participación pública no implica necesariamente que el Estado asuma toda la empresa.",
+    "categoryIds": [],
+    "priority": 30
+  },
+  {
+    "id": "subvencion-fiscal",
+    "patterns": [
+      "subvenciones.*reducciones fiscales",
+      "ayudas.*desgravaciones"
+    ],
+    "background": "Una subvención entrega recursos a quien cumple unas condiciones; una reducción fiscal permite pagar menos impuestos. El destinatario y el momento de recibir apoyo pueden cambiar aunque se anuncie un coste público parecido.",
+    "example": "Una empresa podría recibir dinero para una inversión o descontar parte de esa inversión de sus impuestos. Si no tiene suficiente cantidad que pagar, la segunda vía puede funcionar de otra manera según su diseño.",
+    "distinction": "Sustituir una herramienta por otra no equivale simplemente a aumentar o reducir apoyo: también cambia su acceso, requisitos y control.",
+    "categoryIds": [
+      "empresa",
+      "fiscalidad",
+      "industria"
+    ],
+    "priority": 50
+  },
+  {
+    "id": "cuotas-autonomos",
+    "patterns": [
+      "autonom.*cotiz",
+      "cotiz.*autonom",
+      "tarifa plana"
+    ],
+    "background": "La cotización es una aportación que contribuye a financiar protección social. En el trabajo por cuenta propia puede discutirse su importe, su relación con los ingresos o las reducciones para determinados casos.",
+    "example": "Dos personas autónomas pueden tener ingresos muy diferentes. Una cuota igual reparte la carga de forma distinta que una cuota ligada a esos ingresos. Una reducción inicial solo actúa durante un periodo de la actividad.",
+    "distinction": "Cotización e impuestos no son lo mismo. También deben distinguirse lo que se paga y las prestaciones a las que da acceso esa aportación.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "jornada",
+    "patterns": [
+      "jornada",
+      "semana laboral",
+      "tiempo de trabajo"
+    ],
+    "background": "La jornada indica el tiempo de trabajo; el salario, su remuneración. Reducir horas, distribuirlas en menos días y permitir horarios flexibles son cambios diferentes.",
+    "example": "Trabajar 32 horas en lugar de 40 reduce el total semanal. Concentrar las mismas 40 horas en cuatro días no lo reduce. Mantener el salario durante una reducción significa cobrar la misma cantidad por menos horas.",
+    "distinction": "La cifra, el plazo y la condición salarial forman parte de la medida. Una implantación inmediata, una reducción gradual y una posibilidad negociada no significan lo mismo.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "despido",
+    "patterns": [
+      "despid",
+      "indemnizacion.*trabaj"
+    ],
+    "background": "La regulación del despido establece condiciones y consecuencias de terminar un contrato por decisión de la empresa. Una indemnización, una reincorporación y los requisitos para justificar la decisión son aspectos diferentes.",
+    "example": "Una empresa termina un contrato y la persona afectada discute sus motivos o condiciones. El conflicto puede afectar a la causa, al procedimiento o a la compensación, sin que sean la misma cuestión.",
+    "distinction": "La medida puede modificar solo un tipo de despido o contrato. Facilitar una terminación y mejorar la protección económica posterior tampoco son decisiones equivalentes.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "salario-minimo",
+    "patterns": [
+      "salario minimo",
+      "\\bsmi\\b"
+    ],
+    "background": "El salario mínimo establece una referencia mínima de remuneración para el trabajo al que se aplica. Cambiarlo no es lo mismo que aumentar todos los salarios. Su importe y la forma de decidirlo son cuestiones distintas.",
+    "example": "Si una referencia mensual aumenta, una jornada parcial puede tener un cálculo proporcional conforme al diseño aplicable. La propuesta puede modificar el importe, el ritmo de subida o el procedimiento para acordarlo.",
+    "distinction": "Una subida del mínimo no supone una subida idéntica para quienes ya cobran más. El salario bruto tampoco equivale al importe recibido tras deducciones.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "pensiones",
+    "patterns": [
+      "pension",
+      "jubilacion"
+    ],
+    "background": "Las pensiones pueden depender de aportaciones previas y de reglas sobre edad y cuantía. Mantener poder de compra, elevar una pensión mínima y cambiar la edad de acceso son decisiones diferentes.",
+    "example": "Una prestación puede perder capacidad de compra si suben los precios. Revisar su importe responde a esa variación; cambiar la edad modifica cuándo puede empezar a cobrarse, no solo cuánto se cobra.",
+    "distinction": "Importa distinguir prestaciones contributivas y otras ayudas, así como jubilación ordinaria, anticipada y excepciones por características del trabajo.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "irpf",
+    "patterns": [
+      "irpf",
+      "renta.*personas fisicas"
+    ],
+    "background": "El IRPF es un impuesto sobre la renta de las personas. Tramos, mínimos y deducciones son piezas diferentes del cálculo. Deflactar significa ajustar cantidades monetarias para tener en cuenta la subida de precios.",
+    "example": "Una persona puede cobrar más euros porque suben salarios y precios, sin poder comprar más. Ajustar los tramos busca evitar que ese cambio nominal eleve por sí solo el peso del impuesto.",
+    "distinction": "Eximir una renta, introducir una deducción y cambiar los tramos no producen el mismo efecto. Las condiciones de ingresos y familiares delimitan el alcance.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "iva",
+    "patterns": [
+      "\\biva\\b",
+      "impuesto.*valor anadido"
+    ],
+    "background": "El IVA es un impuesto asociado al consumo de bienes y servicios. Se expresa como porcentaje sobre un precio sin ese impuesto. El tipo de un producto y las obligaciones de quien lo vende son cuestiones distintas.",
+    "example": "Sobre un precio base hipotético de 100 euros, un tipo del 10 % añade 10 euros. Cambiar el porcentaje modifica el impuesto; el precio final también puede depender de otros costes y decisiones.",
+    "distinction": "Una reducción para un producto no significa que todos pasen al mismo tipo. Tampoco garantiza automáticamente una rebaja idéntica del precio de venta.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "sociedades",
+    "patterns": [
+      "sociedades",
+      "beneficios empresariales"
+    ],
+    "background": "El impuesto sobre sociedades grava resultados de empresas según sus reglas de cálculo. El porcentaje anunciado y la cantidad pagada pueden diferir si existen deducciones u otros ajustes.",
+    "example": "Con una base imponible hipotética de 100.000 euros, un tipo del 20 % daría una cuota inicial de 20.000, antes de los ajustes aplicables. Así se distinguen porcentaje, base y pago final.",
+    "distinction": "Cambiar el tipo no equivale a cambiar cualquier otra obligación de la empresa. El tamaño, los beneficios y la actividad pueden delimitar los destinatarios.",
+    "categoryIds": [
+      "empresa",
+      "fiscalidad",
+      "industria"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "patrimonio",
+    "patterns": [
+      "patrimonio",
+      "grandes fortunas",
+      "sucesiones",
+      "donaciones"
+    ],
+    "background": "Estos impuestos se relacionan con bienes acumulados o con su transmisión, en lugar de gravar necesariamente un ingreso salarial. Poseer patrimonio, recibir una herencia y recibir una donación son hechos diferentes.",
+    "example": "Una persona puede poseer bienes o recibirlos de otra persona. Una reforma sobre uno de estos supuestos no modifica automáticamente el tratamiento de los otros.",
+    "distinction": "Los umbrales, las deudas y las excepciones pueden cambiar mucho su alcance. No significa necesariamente que cualquier persona con bienes pague el mismo impuesto.",
+    "categoryIds": [
+      "fiscalidad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "sicav-socimi",
+    "patterns": [
+      "sicav",
+      "socimi"
+    ],
+    "background": "Una SICAV es un vehículo de inversión colectiva; una SOCIMI se orienta a inversión inmobiliaria para alquiler bajo un régimen específico. Su tratamiento fiscal y la posibilidad de utilizar esa forma de entidad son cuestiones distintas.",
+    "example": "Una reforma podría mantener estas sociedades y retirar una ventaja fiscal, o impedir utilizar ese régimen. No sería la misma decisión, aunque ambas se describan como una revisión de privilegios.",
+    "distinction": "Suprimir una ventaja no equivale a prohibir cualquier inversión financiera ni cualquier empresa de alquiler. Es importante conservar esa diferencia.",
+    "categoryIds": [],
+    "priority": 40
+  },
+  {
+    "id": "presupuesto",
+    "patterns": [
+      "presupuest",
+      "deficit",
+      "deuda publica"
+    ],
+    "background": "El presupuesto organiza y autoriza ingresos y gastos. El déficit aparece cuando el gasto supera los ingresos; la deuda recoge obligaciones de financiación acumuladas. Presentar un presupuesto y conseguir aprobarlo son actuaciones distintas.",
+    "example": "Una administración prevé ingresar 100 y gastar 110: la diferencia de 10 requiere financiación o ajustes. El ejemplo es inventado y distingue el flujo de un año de la deuda acumulada.",
+    "distinction": "La propuesta puede modificar gasto, ingresos o el procedimiento presupuestario. No deben intercambiarse presentar, negociar y aprobar cuando el enunciado distingue esas actuaciones.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "alquiler",
+    "patterns": [
+      "alquiler",
+      "rentas de vivienda",
+      "arrendam"
+    ],
+    "background": "Las medidas sobre alquiler pueden afectar al precio inicial, sus actualizaciones, la duración del contrato o las ayudas para pagarlo. Cada una interviene en una parte distinta de la relación.",
+    "example": "Un hogar busca vivienda y otro quiere renovar un contrato existente. Un límite para contratos nuevos puede tratarlos de manera diferente. Una ayuda al hogar actúa sobre su capacidad de pago.",
+    "distinction": "Las condiciones territoriales, de ingresos, de propietario y de duración son esenciales. Regular precios y aumentar oferta no son la misma operación.",
+    "categoryIds": [
+      "vivienda"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "avales",
+    "patterns": [
+      "aval",
+      "hipoteca",
+      "entrada.*vivienda"
+    ],
+    "background": "Una hipoteca es financiación que debe devolverse y tiene una garantía sobre un inmueble. Un aval cubre parte del riesgo de impago de otra persona; no equivale a regalar el importe ni a eliminar la deuda.",
+    "example": "Un hogar puede tener ingresos para pagar cuotas y no suficientes ahorros para la entrada. Un aval puede facilitar el préstamo, pero el hogar seguiría teniendo que devolverlo.",
+    "distinction": "Aval, ayuda directa y rebaja de intereses son instrumentos diferentes. Importa quién asume pérdidas en caso de impago y qué hogares quedan incluidos.",
+    "categoryIds": [
+      "vivienda"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "vivienda-protegida",
+    "patterns": [
+      "vivienda.*public",
+      "vivienda.*proteg",
+      "parque publico"
+    ],
+    "background": "Una vivienda pública o protegida puede tener condiciones de precio, uso y acceso. No toda vivienda con apoyo público tiene el mismo propietario ni conserva indefinidamente las mismas limitaciones.",
+    "example": "Una promoción puede ofrecer alquiler limitado a hogares con determinados ingresos. Otra puede vender viviendas con condiciones de reventa. Sus derechos y obligaciones serían diferentes.",
+    "distinction": "Importan el régimen de alquiler o compra, los requisitos de acceso y la duración de la protección. Construir, adquirir y movilizar viviendas existentes son operaciones distintas.",
+    "categoryIds": [
+      "vivienda"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "nuclear",
+    "patterns": [
+      "nuclear",
+      "uranio"
+    ],
+    "background": "Una central nuclear produce electricidad mediante reacciones en su combustible. Prolongar una instalación existente no es lo mismo que construir otra. También intervienen decisiones sobre seguridad, residuos y costes.",
+    "example": "Una instalación se aproxima al final de su periodo previsto de actividad. Una propuesta puede prolongarlo bajo condiciones o mantener el cierre y sustituir su producción por otras fuentes.",
+    "distinction": "Los años adicionales, las autorizaciones y las nuevas instalaciones son cuestiones diferentes. Apoyar una prórroga no equivale necesariamente a apoyar cualquier expansión nuclear.",
+    "categoryIds": [
+      "energia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "autoconsumo",
+    "patterns": [
+      "autoconsumo",
+      "comunidades energeticas"
+    ],
+    "background": "El autoconsumo utiliza energía producida por una instalación vinculada al consumidor. Una comunidad energética reúne participantes para una actividad compartida. Producir, compartir y vender excedentes son cuestiones diferentes.",
+    "example": "Varias viviendas participan en paneles solares y reparten la producción según un acuerdo. Deben definir la distribución de energía, los costes y el tratamiento de excedentes.",
+    "distinction": "Importan la distancia, la titularidad y las reglas de reparto. Facilitar instalaciones no garantiza por sí solo que cualquier hogar pueda acceder a ellas.",
+    "categoryIds": [
+      "energia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "emisiones",
+    "patterns": [
+      "emision",
+      "descarbon",
+      "carbono"
+    ],
+    "background": "En política climática se discuten emisiones de gases de efecto invernadero. Un objetivo de reducción, una tasa y una prohibición de actividad son instrumentos distintos.",
+    "example": "Una administración puede fijar un objetivo a varios años o exigir cambios a una actividad concreta. Reducir emisiones y compensarlas mediante otra actuación no son operaciones idénticas.",
+    "distinction": "El año de referencia, el plazo y las actividades incluidas delimitan la propuesta. Las emisiones de un territorio y la huella de todo su consumo tampoco son la misma magnitud.",
+    "categoryIds": [
+      "energia",
+      "biodiversidad",
+      "infraestructuras",
+      "industria"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "primaria",
+    "patterns": [
+      "atencion primaria",
+      "centros de salud",
+      "medicina de familia"
+    ],
+    "background": "La atención primaria suele ser el contacto cercano para prevención, seguimiento y problemas de salud frecuentes. Ampliar personal, horarios y coordinación son cambios diferentes.",
+    "example": "Una persona con enfermedad crónica puede necesitar consultas periódicas y coordinación con especialistas. Más profesionales, una mejor cita y un intercambio de información responden a necesidades distintas.",
+    "distinction": "Este refuerzo debe distinguirse de atención hospitalaria o de urgencias. La financiación, la organización y las condiciones del personal influyen en el servicio.",
+    "categoryIds": [
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "aborto",
+    "patterns": [
+      "aborto",
+      "interrupcion.*embarazo",
+      "gestante.*consentimiento"
+    ],
+    "background": "Las propuestas sobre interrupción del embarazo pueden referirse a plazos, supuestos, información, consentimiento o prestación de la atención. Permitir una intervención, financiarla y exigir una autorización adicional son decisiones distintas.",
+    "example": "Una pregunta puede tratar del acceso dentro de un plazo y otra de la necesidad de autorización. También puede cambiar la información ofrecida o el centro de atención, sin modificar las demás condiciones.",
+    "distinction": "Las edades, plazos y requisitos de consentimiento son decisivos. Apoyar un cambio concreto no equivale necesariamente a aceptar o rechazar cualquier interrupción en cualquier circunstancia.",
+    "categoryIds": [
+      "salud",
+      "familia-infancia",
+      "constitucion",
+      "violencia-mujeres"
+    ],
+    "priority": 50
+  },
+  {
+    "id": "eutanasia",
+    "patterns": [
+      "eutanasia",
+      "cuidados paliativos",
+      "muerte digna"
+    ],
+    "background": "La ayuda médica para morir y los cuidados paliativos son actuaciones distintas. Los cuidados buscan aliviar sufrimiento; la eutanasia se refiere a una actuación dirigida a causar la muerte a petición de una persona y bajo condiciones específicas.",
+    "example": "Una persona puede necesitar alivio de síntomas y apoyo ante una enfermedad grave. Otra decisión es si debe existir un procedimiento para solicitar ayuda médica para morir y qué garantías debe tener.",
+    "distinction": "No deben confundirse cobertura de cuidados, rechazo de un tratamiento y ayuda para morir. La pregunta puede modificar solo una de esas situaciones.",
+    "categoryIds": [
+      "salud",
+      "mayores"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "salud-mental",
+    "patterns": [
+      "salud mental",
+      "suicidio",
+      "psicolog",
+      "adiccion"
+    ],
+    "background": "La salud mental puede abordarse mediante prevención, evaluación, tratamiento y apoyo. El malestar, un trastorno diagnosticado y una crisis pueden requerir respuestas distintas.",
+    "example": "Una persona necesita una primera consulta y otra, seguimiento prolongado. Una campaña, más profesionales y un servicio urgente actúan en puntos diferentes de la atención.",
+    "distinction": "Hay diferencias entre prevención de adicciones y tratamiento de una dependencia. Los recursos sanitarios, educativos y sociales tampoco tienen exactamente la misma función.",
+    "categoryIds": [
+      "salud",
+      "familia-infancia",
+      "educacion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "medicamentos",
+    "patterns": [
+      "medicamento",
+      "farmaceut",
+      "copago",
+      "patente"
+    ],
+    "background": "Un medicamento puede estar autorizado, financiado y sujeto a una aportación del usuario: son decisiones diferentes. Las patentes y las reglas de compra afectan a otras partes de su producción y acceso.",
+    "example": "Un tratamiento puede existir y encontrarse con una condición de financiación o un problema de suministro. Cambiar la aportación del paciente actúa sobre el pago; fabricar o comprar más actúa sobre disponibilidad.",
+    "distinction": "Una propuesta sobre precio o financiación no demuestra por sí misma eficacia ni sustituye una decisión clínica. El alcance depende del tratamiento y de sus condiciones de uso.",
+    "categoryIds": [
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "terapias",
+    "patterns": [
+      "terapias naturales",
+      "medicina integrativa",
+      "homeopatia"
+    ],
+    "background": "Reconocer una actividad profesional, incluir una práctica en un servicio sanitario y demostrar su eficacia son cuestiones diferentes. El reconocimiento administrativo no convierte por sí solo una intervención en eficaz o segura.",
+    "example": "Una práctica puede ofrecerse fuera del sistema sanitario y discutirse cómo regularla. Esa discusión no demuestra automáticamente un beneficio clínico para una enfermedad concreta.",
+    "distinction": "La eficacia exige evidencia específica y no se deduce de llamar terapia a una práctica. Regulación profesional y evaluación de resultados deben mantenerse separadas.",
+    "categoryIds": [
+      "salud"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "concertada",
+    "patterns": [
+      "concertad",
+      "cheque escolar"
+    ],
+    "background": "La enseñanza concertada combina titularidad privada y financiación pública bajo condiciones. Financiar plazas, elegir centro y regular admisión son decisiones diferentes.",
+    "example": "Una familia puede solicitar plaza en un centro público o en uno privado sostenido con fondos públicos. Una reforma puede cambiar financiación, condiciones del centro o acceso a las plazas, sin cambiarlos todos a la vez.",
+    "distinction": "La libertad de elección, la disponibilidad de plazas y el coste para la familia no son sinónimos. La propuesta puede centrarse solo en una de esas piezas.",
+    "categoryIds": [
+      "educacion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "diferenciada",
+    "patterns": [
+      "educacion diferenciada",
+      "ensenanza diferenciada"
+    ],
+    "background": "La educación diferenciada organiza la enseñanza separando al alumnado según sexo. No significa simplemente adaptar apoyos a necesidades individuales u ofrecer distintas asignaturas optativas.",
+    "example": "Dos centros pueden compartir contenidos y organizar grupos de modo distinto: mixtos en uno y separados según sexo en el otro. La propuesta trata de esa organización, no de si cada alumno necesita atención individual.",
+    "distinction": "Permitir este modelo, ampliarlo y financiarlo con dinero público son decisiones distintas. La pregunta puede referirse solo a una de ellas.",
+    "categoryIds": [
+      "educacion"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "becas",
+    "patterns": [
+      "beca",
+      "ayudas al estudio",
+      "comedor",
+      "transporte escolar"
+    ],
+    "background": "Las ayudas al estudio pueden cubrir matrícula, manutención, desplazamiento u otras necesidades. Una ayuda universal y otra condicionada por ingresos tienen destinatarios diferentes.",
+    "example": "Un estudiante vive junto al centro y otro necesita desplazarse o alojarse fuera. Ambos podrían pagar matrícula, pero afrontar costes adicionales muy distintos. La ayuda puede atender a una de esas diferencias.",
+    "distinction": "Hay que distinguir la existencia de una ayuda, su importe, sus requisitos y el momento del pago. La gratuidad de un concepto no elimina cualquier otro coste de estudiar.",
+    "categoryIds": [
+      "educacion",
+      "familia-infancia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "acceso-universidad",
+    "patterns": [
+      "ebau",
+      "evau",
+      "selectividad",
+      "acceso.*universidad"
+    ],
+    "background": "Las pruebas y requisitos de acceso organizan la entrada a estudios. Una prueba común, criterios de corrección comunes y reconocimiento de notas entre territorios no son cambios idénticos.",
+    "example": "Dos estudiantes realizan pruebas en lugares distintos y solicitan un mismo estudio. Una reforma puede unificar contenidos, evaluación o admisión, con efectos diferentes.",
+    "distinction": "La evaluación al terminar una etapa y el reparto de plazas cuando falta oferta son procesos distintos. Cambiar una prueba no garantiza por sí solo una plaza.",
+    "categoryIds": [
+      "educacion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "fp",
+    "patterns": [
+      "formacion profesional",
+      "\\bfp\\b",
+      "practicas.*empresa"
+    ],
+    "background": "La Formación Profesional prepara para actividades profesionales mediante formación teórica y práctica. En un modelo dual, parte del aprendizaje se vincula al entorno de trabajo. Formación, contratación y remuneración no deben confundirse.",
+    "example": "Una persona aprende en el centro y realiza otra parte de su formación en una empresa. El diseño debe precisar las tareas educativas, la supervisión y la relación con la empresa.",
+    "distinction": "Ampliar plazas, mejorar prácticas y modificar su remuneración son decisiones diferentes. También importan las garantías para no sustituir sin más un empleo por una estancia formativa.",
+    "categoryIds": [
+      "educacion",
+      "trabajo"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "investigacion",
+    "patterns": [
+      "universidad.*investig",
+      "investigacion.*univers",
+      "carrera investigadora"
+    ],
+    "background": "Investigar requiere personal, financiación, equipos y tiempo. Un contrato estable, una ayuda para un proyecto y una inversión en instalaciones cubren necesidades distintas.",
+    "example": "Un grupo puede tener un proyecto aprobado y necesitar equipamiento o personal. Conseguir recursos para un año no resuelve automáticamente la continuidad de su trabajo.",
+    "distinction": "Los criterios de selección y la duración del apoyo influyen en el funcionamiento. Investigación básica y aplicación comercial no tienen necesariamente los mismos plazos.",
+    "categoryIds": [
+      "educacion",
+      "industria",
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "gestacion",
+    "patterns": [
+      "gestacion por sustitucion",
+      "gestacion subrogada"
+    ],
+    "background": "La gestación por sustitución implica gestar con la intención de que otra u otras personas asuman la filiación. Las propuestas pueden permitir, prohibir o condicionar acuerdos y distinguir si existe remuneración.",
+    "example": "Un acuerdo puede compensar gastos o incluir otros pagos y realizarse dentro o fuera del país. Cambian las cuestiones de consentimiento, protección de la gestante y reconocimiento de filiación.",
+    "distinction": "Regular acuerdos y resolver la situación jurídica de menores ya nacidos no son la misma decisión. Compensar gastos tampoco equivale a cualquier forma de remuneración.",
+    "categoryIds": [
+      "salud",
+      "familia-infancia",
+      "constitucion",
+      "violencia-mujeres"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "permisos",
+    "patterns": [
+      "permiso.*nacimiento",
+      "permiso.*crianza",
+      "permiso.*parental",
+      "conciliacion"
+    ],
+    "background": "Los permisos ofrecen tiempo para cuidados sin tratarlo simplemente como una ausencia injustificada. Duración, remuneración, titularidad y posibilidad de transferirlos son decisiones diferentes.",
+    "example": "Tras un nacimiento o adopción, dos personas deben organizar cuidados y trabajo. Un permiso pagado, uno sin remunerar y una reducción de jornada ofrecen recursos distintos.",
+    "distinction": "La existencia formal de un permiso no garantiza el mismo uso por todas las personas. Las condiciones económicas y laborales influyen en quién puede acogerse.",
+    "categoryIds": [
+      "trabajo",
+      "familia-infancia",
+      "igualdad-laboral"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "dependencia",
+    "patterns": [
+      "dependencia",
+      "residencia.*mayores",
+      "ayuda a domicilio"
+    ],
+    "background": "La atención a la dependencia responde a necesidades de apoyo en actividades cotidianas. Puede prestarse mediante servicios, apoyos en casa o dinero. El lugar de residencia no describe por sí solo la intensidad necesaria.",
+    "example": "Una persona necesita ayuda para preparar comidas y otra, supervisión continua. Una prestación monetaria y un servicio con profesionales no cubren necesariamente esas necesidades del mismo modo.",
+    "distinction": "Valoración, intensidad, calidad y plazo de acceso son partes diferentes. La elección del recurso requiere distinguir preferencias y disponibilidad real.",
+    "categoryIds": [
+      "mayores",
+      "discapacidad",
+      "familia-infancia",
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "cuotas",
+    "patterns": [
+      "cuotas.*represent",
+      "paridad",
+      "listas cremallera"
+    ],
+    "background": "Una cuota de representación exige o reserva una proporción de presencia en un órgano o lista. Es distinta de prohibir discriminación en la selección o de ofrecer formación.",
+    "example": "Una lista puede alternar candidaturas o reservar una proporción mínima a un grupo. Otra opción mantiene la composición sin esa exigencia y actúa sobre el procedimiento para seleccionar personas.",
+    "distinction": "Una cuota cambia una regla de composición, pero no garantiza cómo actuará cada persona elegida. Importan ámbito, proporción y duración.",
+    "categoryIds": [
+      "igualdad-laboral",
+      "instituciones",
+      "empresa"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "trans",
+    "patterns": [
+      "\\btrans\\b",
+      "lgtbi",
+      "orientacion sexual"
+    ],
+    "background": "Orientación sexual, identidad de género y características sexuales son conceptos diferentes. Las medidas pueden referirse a discriminación, documentos, educación o atención sanitaria, sin resolver automáticamente todos esos ámbitos.",
+    "example": "Una propuesta puede regular cómo se modifican documentos y otra cómo actuar frente al acoso. La atención sanitaria incorpora además decisiones clínicas y garantías específicas.",
+    "distinction": "Las condiciones de edad, consentimiento y actuación concreta deben mantenerse separadas. Una regla documental no equivale a una regla sobre cualquier tratamiento sanitario.",
+    "categoryIds": [
+      "lgtbi",
+      "salud",
+      "educacion",
+      "igualdad-laboral"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "cgpj",
+    "patterns": [
+      "cgpj",
+      "consejo general del poder judicial"
+    ],
+    "background": "El CGPJ es el órgano de gobierno de los jueces, no un tribunal que resuelva todos los litigios. Las propuestas pueden cambiar elección, requisitos o renovación de sus integrantes, no el resultado de una sentencia.",
+    "example": "En un sistema de designación pueden intervenir jueces, representantes parlamentarios u otros mecanismos. El debate combina legitimidad, independencia y control; no decide quién gana un juicio.",
+    "distinction": "Elección de vocales, nombramientos realizados por el órgano y actividad de los tribunales son funciones diferentes. Cambiar una no modifica automáticamente las otras.",
+    "categoryIds": [
+      "justicia",
+      "instituciones"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "fiscalia",
+    "patterns": [
+      "fiscalia",
+      "fiscal general",
+      "ministerio fiscal"
+    ],
+    "background": "La Fiscalía interviene en la defensa de la legalidad y en procedimientos según sus funciones. No es el tribunal que decide el caso. Las reformas pueden afectar a nombramientos, organización o facultades de investigación.",
+    "example": "En un procedimiento pueden intervenir quien investiga, quien acusa, quien defiende y quien resuelve. Modificar el papel de la Fiscalía afecta a una parte de esa organización.",
+    "distinction": "Independencia, responsabilidad y facultades procesales son aspectos distintos. Una acusación de una parte no equivale a una condena.",
+    "categoryIds": [
+      "justicia",
+      "instituciones"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "aforamiento",
+    "patterns": [
+      "aforam"
+    ],
+    "background": "El aforamiento determina qué tribunal conoce de un procedimiento relativo a determinadas personas o funciones. No significa por sí solo que una conducta sea legal o que no pueda investigarse.",
+    "example": "Una reforma podría trasladar asuntos privados al tribunal ordinario y conservar una regla específica para actos de la función pública. Sería distinto de eliminar todo trato procesal especial.",
+    "distinction": "Aforamiento, inmunidad e impunidad no son sinónimos. Las excepciones vinculadas al ejercicio del cargo cambian el alcance de la propuesta.",
+    "categoryIds": [
+      "justicia",
+      "instituciones",
+      "buen-gobierno"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "indulto",
+    "patterns": [
+      "indulto",
+      "amnistia"
+    ],
+    "background": "Indulto y amnistía son instrumentos jurídicos diferentes. En términos generales, uno actúa sobre una pena y la otra sobre la responsabilidad de determinados hechos o supuestos definidos por una norma. Sus efectos concretos dependen de su regulación.",
+    "example": "Una propuesta puede limitar quién recibe una medida de gracia o cambiar su procedimiento. Otra puede establecer una norma para un conjunto de hechos, con alcance y requisitos diferentes.",
+    "distinction": "Apoyar o rechazar un instrumento no implica la misma postura sobre el otro. También se distingue el debate sobre el mecanismo de la valoración de un caso concreto.",
+    "categoryIds": [
+      "justicia",
+      "instituciones",
+      "constitucion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "secretos",
+    "patterns": [
+      "secretos oficiales",
+      "informacion clasific",
+      "clasificacion.*document"
+    ],
+    "background": "La información clasificada tiene acceso limitado por una razón de protección. Una propuesta puede cambiar quién clasifica, cuánto dura la reserva o cómo se revisa.",
+    "example": "Un documento podría permanecer reservado un plazo y después revisarse. Cambiar el plazo o la autoridad no significa hacer público automáticamente cualquier documento.",
+    "distinction": "Transparencia no implica eliminar toda excepción; reserva no implica secreto indefinido. La propuesta puede modificar el equilibrio entre acceso y protección.",
+    "categoryIds": [],
+    "priority": 40
+  },
+  {
+    "id": "penas",
+    "patterns": [
+      "prision permanente",
+      "penas.*prision",
+      "reinsercion"
+    ],
+    "background": "Duración de la pena, revisión y reinserción son decisiones distintas. Revisar una situación no implica liberar automáticamente ni tener decidido de antemano el resultado.",
+    "example": "Una condena puede prever revisiones y condiciones para valorar la evolución de la persona. Otra reforma puede modificar duración o requisitos de acceso a ciertas medidas.",
+    "distinction": "Hay que separar castigo fijado por sentencia, forma de cumplimiento y garantías de evaluación. No todos los delitos ni todas las personas condenadas quedan incluidos.",
+    "categoryIds": [
+      "justicia",
+      "seguridad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "transparencia",
+    "patterns": [
+      "transparencia",
+      "portal.*datos",
+      "publicar.*contrat"
+    ],
+    "background": "La transparencia permite conocer decisiones y uso de recursos públicos. Publicar documentos, hacerlos comprensibles y permitir su revisión son tareas distintas; también puede haber información protegida.",
+    "example": "Una administración puede publicar un contrato como imagen o como datos comparables. En ambos casos hay información, pero no se analiza con la misma facilidad.",
+    "distinction": "Publicar un dato no demuestra que una actuación sea correcta o incorrecta. El acceso a información y el régimen de sanciones son cuestiones diferentes.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "competencias",
+    "patterns": [
+      "competencias",
+      "centraliz",
+      "descentraliz"
+    ],
+    "background": "La competencia indica qué institución puede decidir o gestionar. Trasladarla cambia el nivel de decisión; coordinar instituciones no exige necesariamente retirarles esa capacidad.",
+    "example": "La gestión de un servicio puede corresponder a una comunidad y la fijación de un criterio común a otra institución. Unificar decisiones y coordinar decisiones diferentes no es lo mismo.",
+    "distinction": "Financiación, titularidad del servicio y capacidad de regularlo pueden seguir reglas distintas. Cambiar una parte no implica cambiar toda la organización territorial.",
+    "categoryIds": [
+      "territorio",
+      "administracion",
+      "instituciones"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "financiacion-territorial",
+    "patterns": [
+      "financiacion.*territ",
+      "concierto economico",
+      "cupo",
+      "convenio economico"
+    ],
+    "background": "La financiación territorial determina origen y reparto de recursos entre administraciones. Recaudar, conservar el rendimiento de un impuesto y recibir transferencias son mecanismos distintos.",
+    "example": "Dos territorios tienen diferente población, dispersión y necesidades de servicios. Un reparto por habitantes, costes o capacidad fiscal puede dar resultados diferentes.",
+    "distinction": "Suficiencia de recursos, autonomía fiscal e igualdad en servicios son dimensiones relacionadas, pero distintas. La misma fórmula puede tener efectos distintos según el territorio.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "asilo",
+    "patterns": [
+      "asilo",
+      "refugiad",
+      "proteccion internacional"
+    ],
+    "background": "El asilo y la protección internacional responden a necesidades de protección, no a cualquier desplazamiento entre países. Solicitud, evaluación y reconocimiento son etapas diferentes.",
+    "example": "Una persona solicita protección y debe examinarse su situación. La asistencia mientras se tramita, los requisitos para decidir y las condiciones posteriores son decisiones distintas.",
+    "distinction": "Una solicitud pendiente no es una decisión adoptada. Tampoco se aplican automáticamente las mismas reglas a cualquier situación migratoria.",
+    "categoryIds": [
+      "seguridad",
+      "exteriores",
+      "cooperacion"
+    ],
+    "priority": 30
+  },
+  {
+    "id": "migracion",
+    "patterns": [
+      "migran",
+      "extranjer",
+      "fronter",
+      "expulsion"
+    ],
+    "background": "Entrada, residencia y acceso a servicios de una persona extranjera son cuestiones diferentes. Pueden cambiar requisitos, trámites o formas de resolver situaciones concretas.",
+    "example": "Una persona puede tener autorización de residencia y necesitar renovarla; otra puede carecer de ella y solicitar regularizar su situación. También hay necesidades específicas de protección.",
+    "distinction": "Nacionalidad, residencia administrativa y existencia de un procedimiento pendiente no son el mismo dato. Importan la situación regulada y las garantías que se mantienen.",
+    "categoryIds": [
+      "seguridad",
+      "exteriores",
+      "cooperacion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "ocupacion",
+    "patterns": [
+      "ocupacion.*vivienda",
+      "ocupacion ilegal",
+      "desahuc",
+      "allanamiento"
+    ],
+    "background": "Una entrada sin autorización, un impago de alquiler y una recuperación de la posesión pueden tener causas y procedimientos diferentes. Cambiar plazos no resuelve por sí solo todos esos supuestos.",
+    "example": "En un caso termina un contrato y hay desacuerdo sobre la entrega; en otro se ha entrado sin autorización desde el principio. Tratar ambos igual oculta diferencias importantes.",
+    "distinction": "Importan el tipo de inmueble, el origen del uso y las garantías de comprobación. Una actuación rápida no equivale necesariamente a una decisión automática sin revisión.",
+    "categoryIds": [
+      "propiedad",
+      "vivienda",
+      "justicia",
+      "seguridad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "empleo-publico",
+    "patterns": [
+      "funcionari",
+      "empleo publico",
+      "oposicion",
+      "interin"
+    ],
+    "background": "El acceso al empleo público puede combinar pruebas y valoración de méritos. Un puesto temporal, uno estable y la condición de funcionario son situaciones diferentes.",
+    "example": "Una administración debe cubrir un puesto y puede convocar acceso o atender una necesidad temporal. Modificar selección, convocatoria y estabilidad son cambios distintos.",
+    "distinction": "La igualdad de acceso, la capacidad y las necesidades del servicio son relevantes. Reconocer experiencia y adjudicar automáticamente una plaza no son equivalentes.",
+    "categoryIds": [
+      "administracion",
+      "salud",
+      "educacion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "digital-administracion",
+    "patterns": [
+      "interoperab",
+      "ventanilla unica",
+      "tramites.*digital",
+      "administracion electronica"
+    ],
+    "background": "La interoperabilidad permite intercambiar y utilizar información entre sistemas. Una ventanilla única concentra la entrada a un trámite aunque detrás intervengan varias instituciones.",
+    "example": "Una persona necesita acreditar un dato que otra administración ya conoce. Compartirlo puede evitar repetir documentos, pero exige definir qué se consulta y con qué finalidad.",
+    "distinction": "Conectar sistemas no permite a cualquiera consultar cualquier dato. Ofrecer una vía digital y exigirla como canal único tampoco son lo mismo.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "otan",
+    "patterns": [
+      "otan",
+      "atlantica"
+    ],
+    "background": "La OTAN es una alianza de defensa. Pertenecer a ella, participar en una misión y fijar un nivel de gasto son decisiones diferentes.",
+    "example": "Un país puede discutir presupuesto, participación en una operación o cambio de relación con la alianza. Las respuestas a esas cuestiones pueden ser distintas sin ser contradictorias.",
+    "distinction": "Aumentar capacidad europea, reducir dependencia y abandonar una alianza no son la misma decisión. Los compromisos y condiciones que menciona el enunciado delimitan la propuesta.",
+    "categoryIds": [
+      "defensa",
+      "exteriores",
+      "union-europea"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "porcentaje-desarrollo",
+    "patterns": [
+      "ayuda.*desarrollo",
+      "renta nacional",
+      "\\bpnb\\b"
+    ],
+    "background": "La ayuda al desarrollo puede expresarse como proporción de una magnitud económica. Porcentaje y base son partes distintas del compromiso: PIB, renta nacional y presupuesto no son intercambiables.",
+    "example": "Sobre una base hipotética de 100.000 unidades, el 0,7 % equivale a 700. El mismo porcentaje sobre otra base produce otra cantidad; por eso importa el nombre de la magnitud.",
+    "distinction": "Objetivo, plazo y elementos incluidos deben mantenerse juntos. El volumen comprometido no garantiza por sí solo la calidad ni el resultado de un proyecto.",
+    "categoryIds": [
+      "cooperacion",
+      "exteriores"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "economia-social",
+    "patterns": [
+      "economia social",
+      "cooperativa"
+    ],
+    "background": "La economía social incluye formas de organización que dan relevancia a fines sociales, participación o reglas específicas de gestión. No es otro nombre para toda empresa pública.",
+    "example": "Una cooperativa puede pertenecer a quienes trabajan en ella o a quienes usan sus servicios. Apoyarla mediante financiación, asesoramiento o normas no la convierte necesariamente en entidad estatal.",
+    "distinction": "La forma de organización y el tipo de apoyo son cuestiones distintas. Un préstamo, una subvención y apoyo normativo tienen condiciones diferentes.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "pac",
+    "patterns": [
+      "politica agraria comun",
+      "\\bpac\\b"
+    ],
+    "background": "La Política Agraria Común es un marco europeo para la agricultura. Ayudas, condiciones de acceso y normas de producción son piezas diferentes de ese marco.",
+    "example": "Dos explotaciones pueden recibir apoyos distintos según actividad y requisitos. Una reforma puede modificar quién accede, cómo se calcula la ayuda o las obligaciones exigidas.",
+    "distinction": "Simplificar trámites, aumentar recursos y cambiar requisitos ambientales son decisiones distintas. Una reforma de una ayuda no modifica necesariamente toda la política agraria.",
+    "categoryIds": [
+      "sector-primario"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "cadena-alimentos",
+    "patterns": [
+      "cadena aliment",
+      "venta a perdidas",
+      "costes de produccion"
+    ],
+    "background": "La cadena alimentaria conecta producción, intermediación, transformación y venta. Regular contratos entre esas partes no es lo mismo que fijar directamente el precio final al consumidor.",
+    "example": "Un productor vende a un intermediario y este a una tienda. Una norma puede exigir condiciones del contrato aunque el precio final siga dependiendo de otros costes y decisiones.",
+    "distinction": "Precio de origen, coste de producir y precio al consumidor son magnitudes diferentes. Una mejora en un eslabón no garantiza el mismo resultado en todos los demás.",
+    "categoryIds": [
+      "sector-primario",
+      "consumo"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "agua-trasvase",
+    "patterns": [
+      "trasvas",
+      "desal",
+      "regadio"
+    ],
+    "background": "Un trasvase mueve agua entre zonas; una desaladora obtiene agua utilizable de agua salina. Mejorar regadíos modifica distribución o utilización. No son herramientas intercambiables.",
+    "example": "Una zona puede buscar agua de otro origen, desalarla o reducir pérdidas de riego. Cada opción requiere instalaciones y condiciones de funcionamiento diferentes.",
+    "distinction": "Disponibilidad, coste energético, reparto entre usos y efectos ambientales importan. Ampliar suministro no significa disponer de agua ilimitada para cualquier uso.",
+    "categoryIds": [
+      "agua",
+      "sector-primario"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "ferrocarril",
+    "patterns": [
+      "ferroviar",
+      "tren",
+      "cercanias",
+      "alta velocidad"
+    ],
+    "background": "El ferrocarril necesita vías, estaciones, material y servicios operativos. Construir infraestructura no garantiza más frecuencias; abaratar un billete no crea una conexión inexistente.",
+    "example": "Una población tiene estación y pocos trenes al día; otra necesita una conexión nueva. Mejorar línea, ampliar oferta y subvencionar billetes responden a necesidades diferentes.",
+    "distinction": "Velocidad, frecuencia, cobertura y precio no son equivalentes. Las necesidades de mercancías y pasajeros también pueden requerir actuaciones diferentes.",
+    "categoryIds": [
+      "infraestructuras",
+      "medio-rural"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "aeropuertos",
+    "patterns": [
+      "aeropuert",
+      "puertos",
+      "logistic"
+    ],
+    "background": "Puertos y aeropuertos combinan instalaciones, operadores y reglas de gestión. Cambiar titularidad o autoridad gestora no implica automáticamente ampliar capacidad o modificar conexiones.",
+    "example": "Una instalación puede necesitar inversión física o una gestión diferente. La propuesta puede centrarse en quién decide, en recursos o en condiciones de uso.",
+    "distinction": "Propiedad, gestión, capacidad y servicios prestados son aspectos distintos. Una descentralización administrativa no garantiza por sí sola más conexiones.",
+    "categoryIds": [
+      "infraestructuras",
+      "industria"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "voto-blanco",
+    "patterns": [
+      "escanos.*vaci",
+      "voto en blanco",
+      "escanos.*blanco"
+    ],
+    "background": "Voto en blanco y abstención no son lo mismo: uno es un voto emitido sin optar por candidatura; la otra consiste en no votar. Las iniciativas de dejar puestos sin ocupar plantean añadir una consecuencia de representación.",
+    "example": "Una regla hipotética podría reservar puestos a una opción que no los ocupa. Eso difiere de asignar todos los puestos a candidaturas con representantes, aunque existan votos en blanco.",
+    "distinction": "Cálculo, alcance y puestos afectados dependen de la propuesta. Una iniciativa concreta no debe confundirse con cualquier voto en blanco ni con ausencia de participación.",
+    "categoryIds": [
+      "instituciones",
+      "legislacion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "salud-datos",
+    "patterns": [
+      "historia clinica",
+      "datos sanitarios"
+    ],
+    "background": "La historia clínica reúne información de atención sanitaria. Compartirla entre servicios puede facilitar continuidad, pero no significa acceso indiscriminado a cualquier dato.",
+    "example": "Una persona recibe atención en dos centros. Consultar antecedentes relevantes puede evitar repetir pruebas, siempre que se defina quién accede, para qué y con qué controles.",
+    "distinction": "Conexión técnica, autorización o base de acceso y seguridad son aspectos diferentes. Disponer de datos no sustituye la valoración clínica de cada caso.",
+    "categoryIds": [
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "inteligencia",
+    "patterns": [
+      "inteligencia artificial",
+      "algoritm"
+    ],
+    "background": "Un sistema de inteligencia artificial identifica patrones o produce resultados a partir de datos. Usarlo como apoyo y permitirle adoptar decisiones sin revisión humana son opciones diferentes.",
+    "example": "Un programa puede ayudar a ordenar solicitudes que después revisa una persona. Otra opción sería que su resultado determinara directamente el acceso a un servicio, con consecuencias y controles diferentes.",
+    "distinction": "Importan los datos utilizados, la finalidad, la comprobación de errores y quién responde. Automatizar más no garantiza por sí solo resultados más correctos o justos.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "datos",
+    "patterns": [
+      "datos personales",
+      "privacidad",
+      "proteccion de datos"
+    ],
+    "background": "Los datos personales identifican o permiten relacionar información con una persona. Obtener, utilizar, compartir y conservar datos son operaciones distintas.",
+    "example": "Una aplicación pide una dirección para prestar un servicio y quiere usarla después con otra finalidad. Una propuesta puede limitar ese segundo uso o exigir información y controles.",
+    "distinction": "Importan finalidad, necesidad y tiempo de conservación. Acceder a un servicio no equivale necesariamente a autorizar cualquier uso posterior de los datos.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "memoria",
+    "patterns": [
+      "memoria democratica",
+      "memoria historica",
+      "exhumacion"
+    ],
+    "background": "Las políticas de memoria pueden incluir investigación, reconocimiento de víctimas, búsqueda de restos, archivos y símbolos. Una reparación y una regla sobre conmemoraciones tienen objetos diferentes.",
+    "example": "Una familia quiere localizar a una persona desaparecida y un municipio debate un símbolo en espacio público. Ambas situaciones pueden entrar en una política de memoria, pero requieren acciones diferentes.",
+    "distinction": "Hay que identificar hechos y personas incluidos y el instrumento propuesto. Investigar, reconocer y sancionar no son acciones equivalentes.",
+    "categoryIds": [
+      "constitucion",
+      "legislacion",
+      "cultura",
+      "justicia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "religion",
+    "patterns": [
+      "religios",
+      "confesion",
+      "iglesia",
+      "laic"
+    ],
+    "background": "La relación entre instituciones y confesiones puede incluir enseñanza, financiación, espacios o acuerdos. La libertad individual de creencias y el trato institucional a una confesión son cuestiones distintas.",
+    "example": "Una propuesta cambia una asignatura, un beneficio económico o una ceremonia institucional. Ninguno de esos cambios significa automáticamente prohibir que las personas practiquen una religión.",
+    "distinction": "Importa qué actuación pública se modifica. Separación institucional, igualdad de trato y cooperación pueden combinarse de distintas formas.",
+    "categoryIds": [
+      "constitucion",
+      "educacion",
+      "fiscalidad",
+      "cultura"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "animales-experimento",
+    "patterns": [
+      "experimentacion.*animal",
+      "animales.*investigacion"
+    ],
+    "background": "La experimentación utiliza animales para investigación o pruebas. Las medidas pueden limitar usos, exigir controles, sustituir métodos o prohibir prácticas. Reducir y eliminar por completo no es lo mismo.",
+    "example": "Una investigación puede estudiar si una prueba se sustituye por un método sin animales. Otra propuesta podría prohibirla incluso si no se dispone de alternativa para esa finalidad.",
+    "distinction": "Importan finalidad, especies, excepciones y métodos disponibles. El objetivo de protección y el alcance de una prohibición deben distinguirse.",
+    "categoryIds": [
+      "bienestar-animal",
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "animales-espectaculos",
+    "patterns": [
+      "tauroma",
+      "toros",
+      "espectaculos.*animales"
+    ],
+    "background": "Una actividad con animales puede regularse mediante condiciones, financiación o prohibiciones. Retirar una subvención no equivale a impedir que se celebre.",
+    "example": "Una administración podría dejar de financiar un espectáculo y permitir que continúe con recursos privados. Otra medida limitaría su celebración con independencia de cómo se financia.",
+    "distinction": "La pregunta puede referirse al dinero público, a la participación de menores, a una práctica concreta o a toda la actividad. No debe ampliarse automáticamente su alcance.",
+    "categoryIds": [
+      "bienestar-animal",
+      "cultura"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "negociacion",
+    "patterns": [
+      "negociacion colectiva",
+      "convenio.*trabajo",
+      "convenios.*laboral"
+    ],
+    "background": "La negociación colectiva acuerda condiciones entre representantes de trabajadores y empresas. Puede actuar en una empresa o en un sector, con reglas sobre qué acuerdos prevalecen.",
+    "example": "Una empresa tiene un acuerdo propio y existe también un convenio sectorial. La reforma puede cambiar cuál prevalece en una materia sin eliminar toda negociación en el otro nivel.",
+    "distinction": "Hay que distinguir quién negocia, qué materias y qué personas quedan incluidas. Cambiar de nivel no genera un efecto idéntico en todos los contratos.",
+    "categoryIds": [
+      "trabajo",
+      "igualdad-laboral",
+      "administracion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "iva-menstrual",
+    "patterns": [
+      "higiene menstrual",
+      "productos menstruales",
+      "menstrual.*iva"
+    ],
+    "background": "Las medidas sobre higiene menstrual pueden modificar impuestos o facilitar productos directamente. Una rebaja fiscal y una distribución gratuita son herramientas diferentes.",
+    "example": "Con un precio base inventado de 10 euros, un tipo del 4 % añadiría 40 céntimos. El ejemplo explica el cálculo, no afirma un precio real ni un tipo vigente.",
+    "distinction": "El enunciado puede limitarse a productos reutilizables o incluir otros. Esa delimitación impide extender la medida a productos que no menciona.",
+    "categoryIds": [],
+    "priority": 60
+  },
+  {
+    "id": "gestion-publica",
+    "patterns": [
+      "gestion publica",
+      "externaliz",
+      "privatiz",
+      "revertir",
+      "revertirse"
+    ],
+    "background": "La gestión pública presta o dirige un servicio desde una entidad pública. Externalizar encarga una actividad a otra entidad bajo condiciones. Financiar públicamente y gestionar directamente no son necesariamente lo mismo.",
+    "example": "Un servicio puede pagarse con fondos públicos y prestarse mediante personal propio o una empresa contratada. Revertir una externalización cambia quién realiza esa actividad, no solo quién la paga.",
+    "distinction": "Importan el control, las condiciones del contrato y el personal. Una titularidad pública no define por sí sola todos los detalles del funcionamiento, ni una contratación externa elimina necesariamente cualquier control público.",
+    "categoryIds": [
+      "salud",
+      "educacion",
+      "administracion",
+      "infraestructuras",
+      "energia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "servicios-plazos",
+    "patterns": [
+      "espera",
+      "maximo.*dias",
+      "maximo.*minutos",
+      "treinta minutos",
+      "treinta kilometros"
+    ],
+    "background": "La existencia de un servicio no describe por sí sola cuánto se tarda en llegar o recibir atención. Una distancia en kilómetros, un tiempo de desplazamiento y un plazo para resolver son medidas diferentes.",
+    "example": "Un recorrido de treinta kilómetros puede durar más o menos de treinta minutos según el trayecto y el transporte. Del mismo modo, disponer de un centro no significa conseguir cita el mismo día.",
+    "distinction": "La unidad, el plazo y el punto de partida del cómputo forman parte del compromiso. Un objetivo general, un plazo legal exigible y una referencia de planificación no tienen el mismo alcance.",
+    "categoryIds": [
+      "salud",
+      "medio-rural",
+      "infraestructuras"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "primera-infancia",
+    "patterns": [
+      "cero a tres",
+      "0 a 3",
+      "infantil"
+    ],
+    "background": "La educación y atención en los primeros años pueden incluir plazas, personal y apoyo a las familias. Ampliar oferta, eliminar pagos y organizar los horarios son decisiones diferentes.",
+    "example": "Una familia puede necesitar una plaza cercana y otra, un horario compatible con su trabajo. La gratuidad reduce un coste, pero no crea por sí misma las plazas o el personal necesarios.",
+    "distinction": "Debe distinguirse la etapa o edad incluida, la disponibilidad y la financiación. Una medida para un tramo de edad no se extiende automáticamente a todas las etapas educativas.",
+    "categoryIds": [
+      "educacion",
+      "familia-infancia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "competencias-educativas",
+    "patterns": [
+      "curricul",
+      "competencias digitales",
+      "evaluacion.*alumn"
+    ],
+    "background": "El currículo define contenidos y aprendizajes, mientras que la evaluación comprueba o valora su desarrollo. La autonomía del centro y el reparto de decisiones entre administraciones son otras piezas del sistema.",
+    "example": "Dos centros pueden compartir objetivos y utilizar métodos distintos. Una reforma puede unificar contenidos, permitir adaptaciones o cambiar la evaluación, con alcances diferentes.",
+    "distinction": "Hay que separar qué se aprende, cómo se enseña y quién decide. Un cambio de evaluación no modifica necesariamente todo el currículo.",
+    "categoryIds": [
+      "educacion",
+      "inteligencia-artificial"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "cuidados-igualdad",
+    "patterns": [
+      "igual salario",
+      "brecha salarial",
+      "discriminacion positiva",
+      "infraestructuras de cuidados"
+    ],
+    "background": "Las diferencias laborales pueden abordarse mediante revisión de salarios, reglas de selección o servicios de cuidados. Una acción positiva introduce un apoyo o tratamiento específico para corregir una desventaja identificada.",
+    "example": "Dos personas realizan tareas comparables y una asume además más trabajo de cuidados. Revisar la remuneración y ofrecer un servicio de atención a dependientes actúan sobre partes distintas de su situación.",
+    "distinction": "Igualdad salarial, igualdad en el acceso y reparto de cuidados no son sinónimos. El enunciado puede intervenir en una dimensión sin modificar directamente las otras.",
+    "categoryIds": [
+      "igualdad-laboral",
+      "trabajo"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "falsos-autonomos",
+    "patterns": [
+      "falsos autonomos",
+      "falso autonomo"
+    ],
+    "background": "Un falso autónomo es una situación en la que una actividad presentada como trabajo por cuenta propia reúne características de una relación laboral por cuenta ajena. No equivale a afirmar que toda persona autónoma esté contratada de forma irregular.",
+    "example": "Una persona factura como autónoma, pero la organización efectiva del trabajo puede suscitar dudas sobre si actúa de forma independiente o como parte de una empresa. La comprobación depende de las circunstancias.",
+    "distinction": "La propuesta puede reforzar inspecciones, cambiar procedimientos o sanciones. La apariencia del contrato y la forma real de trabajar no son necesariamente lo mismo.",
+    "categoryIds": [
+      "trabajo"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "euro-digital",
+    "patterns": [
+      "euro digital",
+      "moneda digital"
+    ],
+    "background": "Un euro digital se plantea como una forma de dinero de banco central utilizable en formato digital. No es simplemente pagar con una tarjeta ni equivale a una criptomoneda privada.",
+    "example": "Una persona podría utilizar un medio de pago digital respaldado por el banco central. El diseño tendría que precisar acceso, privacidad y relación con efectivo y cuentas bancarias.",
+    "distinction": "Apoyar o rechazar esa forma de dinero no implica la misma postura sobre cualquier pago electrónico. La pregunta tampoco define por sí sola que deba desaparecer el efectivo.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "voto-electronico",
+    "patterns": [
+      "voto electronico",
+      "sistemas de votacion"
+    ],
+    "background": "La votación electrónica utiliza medios tecnológicos en alguna fase del voto o del recuento. Votar a distancia y utilizar una máquina en un local electoral no son necesariamente la misma modalidad.",
+    "example": "Un sistema puede digitalizar el recuento manteniendo una comprobación en papel; otro puede plantear emitir el voto por internet. Las garantías y riesgos que hay que comprobar son distintos.",
+    "distinction": "Es importante distinguir secreto del voto, identificación del elector y posibilidad de auditar el resultado. Hacer un trámite en línea no resuelve por sí solo esas tres necesidades.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "segunda-oportunidad",
+    "patterns": [
+      "segunda oportunidad",
+      "insolvencia",
+      "concurso.*acreedor"
+    ],
+    "background": "La insolvencia aparece cuando no pueden atenderse obligaciones económicas en las condiciones debidas. Una segunda oportunidad puede permitir reorganizar o cancelar determinadas deudas bajo requisitos; no es una condonación automática de cualquier obligación.",
+    "example": "Una persona o empresa deja de poder pagar a varios acreedores. Reestructurar pagos, vender bienes o extinguir alguna deuda son soluciones distintas, con efectos para deudor y acreedores.",
+    "distinction": "El alcance depende de los requisitos, el tipo de deuda y el procedimiento. Facilitar continuar una actividad no significa que desaparezca cualquier responsabilidad.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "innovacion-transferencia",
+    "patterns": [
+      "transferencia tecnologica",
+      "patentes.*investigacion",
+      "innovacion"
+    ],
+    "background": "Transferir tecnología conecta resultados de conocimiento con su utilización en actividades productivas o servicios. Investigar, registrar una creación y aplicarla son pasos diferentes.",
+    "example": "Un grupo desarrolla una técnica y una empresa necesita adaptarla para fabricar un producto. Puede requerir acuerdos, pruebas e inversión adicionales: disponer de una idea no equivale a poder utilizarla inmediatamente.",
+    "distinction": "Importa cómo se comparten costes, riesgos y derechos. Una ayuda a investigar no garantiza por sí sola una aplicación comercial concreta.",
+    "categoryIds": [
+      "empresa",
+      "industria",
+      "inteligencia-artificial"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "seguro-agrario",
+    "patterns": [
+      "seguro agrario",
+      "seguros agrarios"
+    ],
+    "background": "El seguro agrario cubre determinados riesgos de una explotación según una póliza. Una ayuda para contratarlo reduce parte del coste de la prima; no garantiza compensación por cualquier daño.",
+    "example": "Una explotación contrata cobertura frente a un riesgo y sufre una pérdida. La respuesta depende de los riesgos y condiciones cubiertos. Subvencionar la contratación no elimina esas condiciones.",
+    "distinction": "Prima, ayuda pública e indemnización son conceptos diferentes. El porcentaje de apoyo no determina por sí solo qué pérdidas se indemnizan.",
+    "categoryIds": [
+      "sector-primario"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "forestal",
+    "patterns": [
+      "forestal",
+      "montes",
+      "incendio"
+    ],
+    "background": "La gestión forestal organiza usos, conservación y prevención de riesgos en montes. Agrupar propietarios permite coordinar actuaciones, pero no equivale necesariamente a cambiar la propiedad de sus terrenos.",
+    "example": "Varias parcelas pequeñas pueden necesitar trabajos coordinados de prevención o aprovechamiento. Una organización compartida puede facilitar la actuación conjunta sin que todas tengan el mismo dueño.",
+    "distinction": "Prevención, extinción y restauración posterior son intervenciones distintas. La propuesta puede afectar solo a una fase o a determinadas actividades.",
+    "categoryIds": [
+      "sector-primario",
+      "biodiversidad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "contaminacion",
+    "patterns": [
+      "calidad del aire",
+      "contaminacion",
+      "refugios climaticos"
+    ],
+    "background": "La contaminación afecta a la calidad de aire, agua o suelo según el problema tratado. Un refugio climático, por su parte, ofrece condiciones para reducir exposición a calor u otros riesgos climáticos.",
+    "example": "Una zona urbana puede incorporar sombra y vegetación para reducir exposición al calor. Otra medida puede reducir emisiones que empeoran el aire. Ambas se relacionan con salud ambiental, pero actúan de forma diferente.",
+    "distinction": "Prevenir emisiones, proteger frente a sus efectos y medir la exposición son actuaciones distintas. El instrumento elegido determina sobre qué parte se actúa.",
+    "categoryIds": [
+      "biodiversidad",
+      "agua",
+      "infraestructuras"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "agua-ciclo",
+    "patterns": [
+      "reutiliz.*agua",
+      "depura",
+      "embalse",
+      "presa"
+    ],
+    "background": "El ciclo del agua incluye captación, distribución, uso y tratamiento posterior. Reutilizar agua tratada aprovecha un recurso que ya se ha usado; un embalse almacena agua y cumple otras funciones según su diseño.",
+    "example": "Una instalación puede tratar agua para un uso posterior, mientras que otra retiene agua para utilizarla más adelante. No tienen los mismos requisitos ni permiten automáticamente cualquier destino del agua.",
+    "distinction": "Importan calidad, finalidad, disponibilidad y efectos sobre el entorno. Disponer de una infraestructura no decide por sí solo cómo se reparte el recurso.",
+    "categoryIds": [
+      "agua"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "consentimiento",
+    "patterns": [
+      "consentimiento afirmativo",
+      "delitos sexuales"
+    ],
+    "background": "El consentimiento se refiere a la decisión de participar en una actuación. En un debate penal sobre delitos sexuales, el modo de definirlo y comprobarlo debe distinguirse de las penas y de las reglas de prueba.",
+    "example": "Una reforma puede cambiar cómo se describe una conducta o qué elementos deben acreditarse. Eso no decide automáticamente el resultado de cualquier caso individual.",
+    "distinction": "La definición de una conducta, las garantías del procedimiento y la pena son aspectos distintos. Una acusación y una condena tampoco son equivalentes.",
+    "categoryIds": [
+      "justicia",
+      "violencia-mujeres"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "mayoria-revocacion",
+    "patterns": [
+      "revocar",
+      "revocacion",
+      "tres quintos",
+      "mayoria parlamentaria"
+    ],
+    "background": "Las reglas de mayoría determinan cuánto apoyo necesita una decisión. La revocación permite terminar un mandato antes de su vencimiento bajo un procedimiento. Son mecanismos diferentes de designar o controlar un cargo.",
+    "example": "En un órgano de cien integrantes, tres quintos son sesenta apoyos. Una regla de revocación, en cambio, tendría que precisar quién la inicia y quién decide el cese.",
+    "distinction": "Nombrar, supervisar y destituir son actuaciones distintas. La mayoría, las causas y las garantías del procedimiento delimitan el efecto de la propuesta.",
+    "categoryIds": [
+      "instituciones",
+      "legislacion",
+      "buen-gobierno"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "leyes-procedimiento",
+    "patterns": [
+      "decreto ley",
+      "tramitacion.*ley",
+      "deliberacion"
+    ],
+    "background": "Una ley puede elaborarse mediante distintos procedimientos, con reglas de iniciativa, debate, plazos y control. Un decreto ley es una forma específica de norma que incorpora un procedimiento diferente del ordinario.",
+    "example": "Una propuesta puede reducir el recurso a una vía rápida y favorecer un debate más prolongado, o modificar quién participa en la tramitación. Eso no decide por sí solo el contenido final de la norma.",
+    "distinction": "Urgencia, participación y capacidad de control son aspectos diferentes. La elección del procedimiento no demuestra automáticamente que una ley sea buena o mala.",
+    "categoryIds": [
+      "legislacion",
+      "instituciones"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "justicia-recursos",
+    "patterns": [
+      "asistencia juridica",
+      "justicia gratuita",
+      "medios humanos",
+      "demoras"
+    ],
+    "background": "La asistencia jurídica ayuda a conocer o defender derechos; la gratuidad se refiere a su coste para quien cumple requisitos. Los medios de los tribunales actúan sobre otra necesidad: capacidad para tramitar y resolver.",
+    "example": "Una persona puede necesitar orientación o representación y un juzgado puede tener demasiados asuntos para sus recursos. Financiar asistencia y aumentar medios son respuestas distintas.",
+    "distinction": "Requisitos económicos, personas incluidas y tipo de servicio determinan el acceso. Más medios no equivale automáticamente a resolver de una forma concreta un litigio.",
+    "categoryIds": [
+      "justicia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "organizacion-territorial",
+    "patterns": [
+      "ayuntamient",
+      "financiacion local",
+      "financiacion autonomica",
+      "infrafinanciacion"
+    ],
+    "background": "Los municipios y comunidades necesitan recursos y capacidad técnica para ejercer funciones. El reparto puede basarse en población, costes, competencias u otros criterios. Más capacidad de decisión y más financiación no son idénticos.",
+    "example": "Un ayuntamiento puede tener atribuida una tarea sin disponer de personal o recursos suficientes. La reforma puede actuar sobre financiación, asistencia técnica o reparto de funciones.",
+    "distinction": "El déficit de recursos debe distinguirse de la discusión sobre cómo se calcula o quién debe financiarlo. Un cambio no genera el mismo efecto en todas las administraciones.",
+    "categoryIds": [
+      "territorio",
+      "administracion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "proteccion-civil",
+    "patterns": [
+      "proteccion civil",
+      "catastrof",
+      "emergencia.*coordin"
+    ],
+    "background": "La protección civil organiza prevención y respuesta ante riesgos colectivos. Una medida puede mejorar alertas, coordinación, medios o recuperación posterior. No todas actúan en la misma fase.",
+    "example": "Ante una inundación pueden necesitarse avisos, evacuación y ayuda posterior. Un nuevo sistema de alerta y más equipos de intervención responden a tareas distintas.",
+    "distinction": "Prevenir, advertir, intervenir y reparar daños son funciones relacionadas pero diferentes. El reparto de responsabilidades debe concretarse para cada actuación.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "comercio-diplomacia",
+    "patterns": [
+      "tratado",
+      "acuerdo.*internacional",
+      "dialogo.*paises",
+      "cumbres"
+    ],
+    "background": "Las relaciones entre países pueden formalizarse en acuerdos o mediante cooperación y diálogo. Un tratado fija compromisos de otra forma que una declaración de intención o un encuentro diplomático.",
+    "example": "Varios gobiernos pueden anunciar que trabajarán juntos y después negociar las condiciones de un acuerdo. Anunciar una colaboración no significa que todas sus reglas estén ya decididas o en vigor.",
+    "distinction": "Objetivo, instrumento, participantes y procedimiento importan. El apoyo al diálogo no equivale a aceptar automáticamente cualquier compromiso que se proponga después.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "consulados",
+    "patterns": [
+      "consular",
+      "consulado",
+      "retorno.*espan"
+    ],
+    "background": "Los servicios consulares atienden determinadas necesidades de personas en el exterior. Reforzar personal, facilitar trámites y apoyar un retorno son intervenciones distintas.",
+    "example": "Una persona necesita renovar documentos y otra preparar su regreso. Una oficina puede ofrecer información o gestionar una solicitud, pero no todas las decisiones dependen de la misma institución.",
+    "distinction": "El enunciado puede cambiar capacidad de atención, requisitos o tipos de apoyo. Una mejora administrativa no modifica automáticamente la nacionalidad o una prestación.",
+    "categoryIds": [
+      "exterior-ciudadania"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "patrimonio-cultural",
+    "patterns": [
+      "patrimonio.*cultur",
+      "patrimonio.*histor",
+      "patrimonio.*subac",
+      "museo",
+      "archivo"
+    ],
+    "background": "El patrimonio cultural comprende bienes y testimonios con valor histórico o cultural. Conservarlos, investigarlos, facilitar su visita y decidir quién los gestiona son actuaciones diferentes.",
+    "example": "Un archivo necesita conservar documentos y permitir consultarlos; un edificio puede requerir restauración antes de abrirse al público. La inversión y las condiciones de acceso responden a necesidades distintas.",
+    "distinction": "Protección, propiedad y gestión no son lo mismo. Un cambio de titularidad no resuelve por sí solo conservación o acceso.",
+    "categoryIds": [
+      "cultura"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "creacion-cultural",
+    "patterns": [
+      "cinematograf",
+      "cine",
+      "creacion",
+      "artistic"
+    ],
+    "background": "La creación cultural puede apoyarse mediante financiación, incentivos, espacios y reglas laborales. Producir una obra y permitir que el público acceda a ella son etapas diferentes.",
+    "example": "Una compañía necesita recursos para crear una obra y después un espacio o un canal de distribución. Financiar producción y facilitar acceso al público no cubren la misma parte del proceso.",
+    "distinction": "Los requisitos de selección, la independencia creativa y las condiciones profesionales influyen en el resultado. Un incentivo fiscal tampoco equivale a una ayuda directa.",
+    "categoryIds": [
+      "cultura"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "deporte-profesiones",
+    "patterns": [
+      "profesiones deportivas",
+      "entrenador",
+      "deport.*profesional"
+    ],
+    "background": "Regular una profesión deportiva puede definir formación, funciones y requisitos de ejercicio. Esa regulación es diferente de financiar instalaciones o de organizar una competición.",
+    "example": "Una persona puede dirigir una actividad física y una entidad contratar sus servicios. La propuesta puede precisar qué cualificación se exige y qué tareas puede realizar.",
+    "distinction": "Acceso a la profesión, seguridad de la actividad y condiciones laborales son aspectos diferentes. Una exigencia de formación no determina por sí sola la financiación del deporte.",
+    "categoryIds": [
+      "deporte"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "reparacion-garantias",
+    "patterns": [
+      "reparacion",
+      "reciclaj",
+      "garantias.*producto",
+      "vida util"
+    ],
+    "background": "La garantía protege frente a determinados problemas de un producto; reparar permite seguir utilizándolo; reciclar recupera materiales cuando deja de utilizarse. Son fases diferentes de su ciclo.",
+    "example": "Un aparato puede repararse y continuar en uso o desecharse para recuperar parte de sus materiales. Ampliar garantía, facilitar recambios y mejorar recogida actúan de forma distinta.",
+    "distinction": "La duración, los fallos cubiertos, el coste y la disponibilidad de repuestos delimitan el efecto. La posibilidad de reparar no significa que cualquier avería quede cubierta gratuitamente.",
+    "categoryIds": [
+      "consumo",
+      "biodiversidad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "arbitraje",
+    "patterns": [
+      "arbitraje",
+      "reclamacion.*consumo"
+    ],
+    "background": "El arbitraje y otras vías de resolución de reclamaciones ofrecen procedimientos para resolver disputas. Se diferencian de informar al consumidor o inspeccionar a una empresa.",
+    "example": "Una persona discute un cobro con una empresa y busca una solución sin seguir necesariamente todo un proceso judicial. El diseño determina quién participa y qué efecto tiene la resolución.",
+    "distinction": "Acceso, coste, voluntariedad y garantías del procedimiento son cuestiones diferentes. Facilitar una reclamación no decide de antemano quién tiene razón.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "animales-cria",
+    "patterns": [
+      "jaulas",
+      "granja",
+      "ganader",
+      "esteriliza",
+      "abandono.*animales"
+    ],
+    "background": "Las medidas sobre cría y protección animal pueden regular alojamiento, reproducción, venta o atención a animales sin hogar. Cambiar condiciones de una instalación y prohibir una actividad son decisiones diferentes.",
+    "example": "Una explotación puede modificar alojamientos y un centro de acogida organizar esterilización o adopciones. Ambas actuaciones afectan a animales, pero resuelven necesidades distintas.",
+    "distinction": "Importan especies, actividad, condiciones y excepciones. Reducir abandono, cambiar sistemas de cría y limitar sacrificios no son una sola medida.",
+    "categoryIds": [
+      "bienestar-animal"
+    ],
+    "priority": 0
+  }
+]

@@ -168,3 +168,59 @@ export function userAxis(
     contributions,
   };
 }
+
+/** The party map uses the same explicitly signed indicators, never inferred ideology. */
+export function documentaryAxis(
+  party: string,
+  axis: (typeof raw.maps)[number]["x"],
+) {
+  const contributions = axis.indicators.map((indicator) => {
+    const entries = [...new Set(indicator.questionIds)].flatMap((id) => {
+      const question = questionById.get(id),
+        position = question?.positions[party];
+      return question && position?.value != null && position.evidence.length
+        ? [{ question, position }]
+        : [];
+    });
+    const values = new Set(entries.map((e) => e.position.value));
+    return {
+      indicator,
+      entries,
+      value:
+        values.size === 1 ? 50 * [...values][0]! * indicator.direction : null,
+    };
+  });
+  const known = contributions.filter((c) => c.value !== null);
+  return {
+    value: known.length
+      ? known.reduce((n, c) => n + c.value!, 0) / known.length
+      : null,
+    count: known.length,
+    total: contributions.length,
+    contributions,
+  };
+}
+
+/** Prefer a pair with common evidence, independent of the user's values or party names. */
+export function coordinatePair(entries: ReturnType<typeof uniqueResponses>) {
+  let pair = [entries[0], entries[1]],
+    coverage = -1;
+  for (let i = 0; i < entries.length; i++)
+    for (let j = i + 1; j < entries.length; j++) {
+      const a = entries[i].question,
+        b = entries[j].question;
+      if (a.category !== b.category) continue;
+      const common = bank.parties.filter(
+        (p) =>
+          a.positions[p.id]?.value != null &&
+          a.positions[p.id]?.evidence.length &&
+          b.positions[p.id]?.value != null &&
+          b.positions[p.id]?.evidence.length,
+      ).length;
+      if (common > coverage) {
+        coverage = common;
+        pair = [entries[i], entries[j]];
+      }
+    }
+  return pair;
+}

@@ -1,10 +1,19 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.33.0 · 18 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.34.0 · 19 de octubre de 2026.
 
 La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Veintitrés documentos se descargan desde el propio sitio: quince antecedentes de julio de 2023, Podemos 2019, cuatro documentos políticos generales, la propuesta permanente de Escaños en Blanco y dos programas autonómicos (SALF Castilla y León 2026 y Drago Canarias 2023). Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
 
 El cuestionario permite elegir entre 40 temas, agrupados en seis bloques visuales. Sortea diez preguntas por tema y conserva el sorteo durante la visita, hasta un máximo de 400. Las tarjetas mantienen cinco respuestas, omisión, importancia 1/2/3 y avance tras tres segundos. «Mi perfil» puede consultarse desde la primera respuesta: muestra coincidencia documental, cobertura, afinidad por tema, las coordenadas de los indicadores definidos y el desglose con fuentes. Se puede reanudar y cambiar de temas sin perder las respuestas; al recargar se comienza de nuevo. [Método, configuración y límites del sistema experimental](Cuestionario/README.md#cuestionario-por-temas--18-de-octubre-de-2026).
+
+
+## Claridad del cuestionario · 19 de octubre de 2026
+
+«Nueva encuesta», «Continuar encuesta» y «Coordenadas políticas» forman el submenú del cuestionario. Continuar se habilita cuando se inicia una muestra y recupera sus preguntas pendientes, incluso después de volver al selector de temas.
+
+«Mi perfil» destaca un mapa de dos ejes con marca **Tú**, doble aro animado y siglas de partidos. La vista «Por propuestas» cruza dos respuestas de un mismo tema con las posiciones documentadas sobre esas mismas preguntas. La pareja inicial prioriza cobertura común, sin depender de las respuestas ni de la afinidad con un partido; se puede cambiar. «Ejes temáticos» mantiene los índices y signos documentados de los ocho mapas. Un eje pendiente no se rellena con cero y los partidos coincidentes comparten marcador. Cada posición ofrece cálculo y documentos de origen. La comparación horizontal de coincidencia y cobertura queda como información secundaria, identificada como tal.
+
+Las 5.861 preguntas tienen ampliaciones con reformulación, pasaje de la propuesta de origen, explicación de conceptos, ejemplo y distinciones. Se combinan el enunciado individual con 97 perfiles específicos, 40 perfiles de tema y 154 definiciones. Se aclaran individualmente 26 referencias como «ese fondo». Los ejemplos no añaden compromisos a los programas ni describen necesariamente la ley vigente. La generación verifica todos los IDs, cifras, negaciones y ámbitos, pero no equivale a una validación humana independiente de cada texto. Las correcciones individuales se mantienen por ID. [Contenido, revisión y mantenimiento](Cuestionario/explicaciones/README.md).
 
 ## Investigación del cuestionario · 18 de octubre de 2026
 

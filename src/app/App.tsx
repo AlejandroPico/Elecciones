@@ -70,6 +70,8 @@ function Dialog({
 }
 export default function App() {
   const [surveyEdition, setSurveyEdition] = useState(0);
+  const [surveyStarted, setSurveyStarted] = useState(false);
+  const [resumeSurvey, setResumeSurvey] = useState(0);
   const navigation = useNavigation();
   const { view, entry: archiveEntry } = navigation.route;
   const setView = (nextView: View) => navigation.navigate({ view: nextView });
@@ -253,11 +255,25 @@ export default function App() {
                   inert={!surveyMenu}
                 >
                   <div>
-                    <button onClick={() => openView("survey")}>
-                      Consultar cuestionario
-                    </button>
-                    <button onClick={() => setModal("reset")}>
+                    <button
+                      onClick={() => {
+                        if (surveyStarted) setModal("reset");
+                        else {
+                          setSurveyEdition((n) => n + 1);
+                          openView("survey");
+                        }
+                      }}
+                    >
                       Nueva encuesta
+                    </button>
+                    <button
+                      disabled={!surveyStarted}
+                      onClick={() => {
+                        setResumeSurvey((n) => n + 1);
+                        openView("survey");
+                      }}
+                    >
+                      Continuar encuesta
                     </button>
                     <button
                       onClick={() => openView("coordinates")}
@@ -341,6 +357,8 @@ export default function App() {
               view={view}
               openView={openView}
               blocked={modal !== null}
+              onStarted={setSurveyStarted}
+              resumeRequest={resumeSurvey}
             />
           </Suspense>
         )}
@@ -592,7 +610,7 @@ export default function App() {
               <dl className="project-meta">
                 <div>
                   <dt>Versión</dt>
-                  <dd>0.33.0</dd>
+                  <dd>0.34.0</dd>
                 </div>
                 <div>
                   <dt>Creación</dt>
@@ -600,7 +618,7 @@ export default function App() {
                 </div>
                 <div>
                   <dt>Actualización</dt>
-                  <dd>18 de octubre de 2026</dd>
+                  <dd>19 de octubre de 2026</dd>
                 </div>
               </dl>
               <nav className="about-links">
@@ -692,6 +710,7 @@ export default function App() {
                   className="primary-button"
                   onClick={() => {
                     setSurveyEdition((n) => n + 1);
+                    setSurveyStarted(false);
                     openView("survey");
                     setModal(null);
                   }}

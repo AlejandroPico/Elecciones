@@ -1,0 +1,618 @@
+[
+  {
+    "term": "pymes",
+    "meaning": "Pequeñas y medianas empresas; la propuesta puede fijar requisitos concretos de tamaño."
+  },
+  {
+    "term": "capital riesgo",
+    "meaning": "Inversión en una empresa o proyecto con posibilidad de ganancia y de pérdida; no es simplemente un préstamo."
+  },
+  {
+    "term": "ENISA",
+    "meaning": "Entidad pública española que facilita financiación empresarial, entre otros instrumentos mediante préstamos participativos."
+  },
+  {
+    "term": "ICO",
+    "meaning": "Instituto de Crédito Oficial, institución pública de financiación; puede actuar mediante instrumentos diferentes."
+  },
+  {
+    "term": "PIB",
+    "meaning": "Producto interior bruto: valor de la producción de bienes y servicios de una economía durante un periodo."
+  },
+  {
+    "term": "PNB",
+    "meaning": "Producto nacional bruto: una magnitud económica vinculada a la producción atribuible a residentes. No se sustituye automáticamente por PIB."
+  },
+  {
+    "term": "renta nacional",
+    "meaning": "Magnitud de renta de una economía; su uso como base de un porcentaje no equivale a usar el presupuesto público."
+  },
+  {
+    "term": "IRPF",
+    "meaning": "Impuesto sobre la renta de las personas físicas. Sus tramos, mínimos y deducciones intervienen de forma distinta en el cálculo."
+  },
+  {
+    "term": "IVA",
+    "meaning": "Impuesto sobre el valor añadido, asociado al consumo de bienes y servicios."
+  },
+  {
+    "term": "base imponible",
+    "meaning": "Cantidad sobre la que se aplica el cálculo de un impuesto; no siempre coincide con el total de ingresos."
+  },
+  {
+    "term": "deducción",
+    "meaning": "Cantidad que reduce una parte del cálculo tributario según su diseño. No es necesariamente un pago directo."
+  },
+  {
+    "term": "bonificación",
+    "meaning": "Reducción de una obligación de pago bajo determinadas condiciones."
+  },
+  {
+    "term": "exención",
+    "meaning": "Exclusión de una obligación tributaria para un supuesto definido; no es una rebaja para cualquier persona o actividad."
+  },
+  {
+    "term": "deflactar",
+    "meaning": "Ajustar cantidades monetarias para tener en cuenta variaciones de precios; en un impuesto puede afectar a tramos o límites."
+  },
+  {
+    "term": "progresividad",
+    "meaning": "Diseño en el que aumenta el peso relativo de un impuesto al aumentar la capacidad económica considerada."
+  },
+  {
+    "term": "SICAV",
+    "meaning": "Sociedad de inversión de capital variable, una forma de inversión colectiva."
+  },
+  {
+    "term": "SOCIMI",
+    "meaning": "Sociedad cotizada orientada a inversión inmobiliaria para alquiler bajo un régimen específico."
+  },
+  {
+    "term": "aval",
+    "meaning": "Compromiso de responder de una obligación ajena si no se cumple, con el alcance que se establezca."
+  },
+  {
+    "term": "carencia",
+    "meaning": "Periodo en el que se aplaza alguno de los pagos de un préstamo según el acuerdo. No significa necesariamente perdonar la deuda."
+  },
+  {
+    "term": "dación en pago",
+    "meaning": "Entrega de un bien para satisfacer una deuda conforme a las condiciones acordadas."
+  },
+  {
+    "term": "usufructo",
+    "meaning": "Derecho a utilizar y disfrutar un bien sin ser necesariamente su propietario."
+  },
+  {
+    "term": "tanteo",
+    "meaning": "Posibilidad de adquirir preferentemente un bien antes de una venta en los supuestos previstos."
+  },
+  {
+    "term": "retracto",
+    "meaning": "Posibilidad de adquirir un bien después de una venta en los supuestos y condiciones previstos."
+  },
+  {
+    "term": "zonas tensionadas",
+    "meaning": "Áreas a las que se da un tratamiento específico en política de vivienda por dificultades de acceso; la medida debe precisar su ámbito."
+  },
+  {
+    "term": "gran tenedor",
+    "meaning": "Categoría de titular de inmuebles definida mediante requisitos; no equivale automáticamente a cualquier arrendador."
+  },
+  {
+    "term": "IPC",
+    "meaning": "Índice de precios de consumo: indicador de variación de precios de una cesta de consumo."
+  },
+  {
+    "term": "SMI",
+    "meaning": "Salario mínimo interprofesional, una referencia mínima de remuneración para el trabajo al que se aplica."
+  },
+  {
+    "term": "negociación colectiva",
+    "meaning": "Acuerdos sobre condiciones laborales entre representantes de trabajadores y empresas."
+  },
+  {
+    "term": "ultraactividad",
+    "meaning": "Continuidad de efectos de un convenio colectivo tras terminar su vigencia, en las condiciones aplicables."
+  },
+  {
+    "term": "ERTE",
+    "meaning": "Mecanismo temporal de suspensión de contratos o reducción de jornada; se diferencia de terminar definitivamente los contratos."
+  },
+  {
+    "term": "ERE",
+    "meaning": "Procedimiento asociado a medidas colectivas de empleo; su alcance debe distinguirse del de las medidas temporales."
+  },
+  {
+    "term": "RETA",
+    "meaning": "Régimen Especial de Trabajadores Autónomos de la Seguridad Social."
+  },
+  {
+    "term": "cotización",
+    "meaning": "Aportación que contribuye a financiar prestaciones de protección social."
+  },
+  {
+    "term": "contributiva",
+    "meaning": "Prestación relacionada con aportaciones previas y con requisitos de acceso; no significa simplemente cualquier ayuda pública."
+  },
+  {
+    "term": "no contributiva",
+    "meaning": "Prestación que no se configura del mismo modo en función de cotizaciones previas y que exige sus propios requisitos."
+  },
+  {
+    "term": "factor de sostenibilidad",
+    "meaning": "Mecanismo que vincula algún elemento del cálculo de pensiones a variables definidas; no es por sí mismo una edad de jubilación."
+  },
+  {
+    "term": "intergeneracional",
+    "meaning": "Que se refiere a relaciones o reparto entre generaciones; el mecanismo concreto depende de la propuesta."
+  },
+  {
+    "term": "Lagun Aro",
+    "meaning": "Entidad de previsión social del entorno cooperativo vasco. Su modelo específico no equivale al sistema general de pensiones."
+  },
+  {
+    "term": "FP",
+    "meaning": "Formación Profesional: enseñanza orientada a actividades profesionales con formación teórica y práctica."
+  },
+  {
+    "term": "EBAU",
+    "meaning": "Denominación utilizada para la evaluación de acceso a la universidad; la pregunta puede proponer cambiar su diseño."
+  },
+  {
+    "term": "EvAU",
+    "meaning": "Otra denominación utilizada para la evaluación de acceso a la universidad."
+  },
+  {
+    "term": "concertado",
+    "meaning": "Centro de titularidad privada sostenido con financiación pública bajo condiciones."
+  },
+  {
+    "term": "educación diferenciada",
+    "meaning": "Organización de la enseñanza separando al alumnado según sexo; no significa simplemente atención personalizada."
+  },
+  {
+    "term": "brecha digital",
+    "meaning": "Diferencias de acceso, uso o conocimientos para utilizar tecnologías digitales."
+  },
+  {
+    "term": "interoperabilidad",
+    "meaning": "Capacidad de sistemas diferentes para intercambiar y utilizar información de manera compatible."
+  },
+  {
+    "term": "algoritmo",
+    "meaning": "Conjunto de instrucciones para realizar una tarea; no todo algoritmo es inteligencia artificial."
+  },
+  {
+    "term": "autoconsumo",
+    "meaning": "Utilización de energía producida por una instalación vinculada al propio consumidor."
+  },
+  {
+    "term": "comunidad energética",
+    "meaning": "Organización de participantes para una actividad energética compartida con reglas de participación y reparto."
+  },
+  {
+    "term": "almacenamiento energético",
+    "meaning": "Conservación de energía para utilizarla después; no equivale a generar energía nueva."
+  },
+  {
+    "term": "interconexión",
+    "meaning": "Enlace entre redes o sistemas que permite intercambios; su capacidad y condiciones delimitan su utilización."
+  },
+  {
+    "term": "neutralidad climática",
+    "meaning": "Equilibrio entre emisiones y absorciones en el ámbito definido; no implica necesariamente que no exista ninguna emisión."
+  },
+  {
+    "term": "transición energética",
+    "meaning": "Cambio de fuentes, infraestructuras y formas de producir o usar energía a lo largo del tiempo."
+  },
+  {
+    "term": "PAC",
+    "meaning": "Política Agraria Común, marco de políticas europeas para la agricultura."
+  },
+  {
+    "term": "acuicultura",
+    "meaning": "Cultivo o cría de organismos acuáticos bajo intervención humana."
+  },
+  {
+    "term": "trasvase",
+    "meaning": "Traslado de agua entre zonas mediante infraestructuras."
+  },
+  {
+    "term": "desalación",
+    "meaning": "Obtención de agua utilizable a partir de agua con sales mediante un proceso de separación."
+  },
+  {
+    "term": "caudal ecológico",
+    "meaning": "Referencia de agua que se conserva en un sistema fluvial para mantener sus funciones ecológicas."
+  },
+  {
+    "term": "Natura 2000",
+    "meaning": "Red europea de espacios protegidos dirigida a conservar hábitats y especies."
+  },
+  {
+    "term": "infraestructura verde",
+    "meaning": "Red de espacios y elementos naturales o seminaturales que presta funciones ambientales y territoriales."
+  },
+  {
+    "term": "cuidados paliativos",
+    "meaning": "Atención dirigida a aliviar sufrimiento y atender necesidades ante enfermedades graves; no es sinónimo de eutanasia."
+  },
+  {
+    "term": "objeción de conciencia",
+    "meaning": "Negativa a realizar una actuación por convicciones personales en un ámbito en el que se plantea su reconocimiento y límites."
+  },
+  {
+    "term": "MIR",
+    "meaning": "Sistema de formación sanitaria especializada para médicos; plaza formativa, plaza de empleo y especialidad son cuestiones distintas."
+  },
+  {
+    "term": "EIR",
+    "meaning": "Sistema de formación especializada de enfermería."
+  },
+  {
+    "term": "SNS",
+    "meaning": "Sistema Nacional de Salud, conjunto de servicios públicos de salud organizados mediante distintas administraciones."
+  },
+  {
+    "term": "copago",
+    "meaning": "Aportación económica que se exige al usuario junto con otra financiación de un bien o servicio."
+  },
+  {
+    "term": "historia clínica",
+    "meaning": "Información y documentos asociados a la atención sanitaria de una persona."
+  },
+  {
+    "term": "salud mental",
+    "meaning": "Ámbito de atención al bienestar psicológico y a problemas o trastornos que requieren evaluación y apoyos específicos."
+  },
+  {
+    "term": "cribado",
+    "meaning": "Evaluación orientada a detectar indicios o riesgo en una población; no equivale por sí sola a un diagnóstico definitivo."
+  },
+  {
+    "term": "consentimiento informado",
+    "meaning": "Decisión de una persona sobre una actuación tras recibir información adecuada; sus requisitos dependen de la actuación."
+  },
+  {
+    "term": "identidad de género",
+    "meaning": "Vivencia personal del género; se diferencia de la orientación sexual y de una actuación sanitaria concreta."
+  },
+  {
+    "term": "orientación sexual",
+    "meaning": "Atracción afectiva o sexual; no equivale a la identidad de género."
+  },
+  {
+    "term": "filiación",
+    "meaning": "Relación jurídica entre una persona y sus progenitores; no equivale simplemente a convivencia o cuidado."
+  },
+  {
+    "term": "gestación por sustitución",
+    "meaning": "Gestación con la intención de que otra u otras personas asuman la filiación."
+  },
+  {
+    "term": "accesibilidad universal",
+    "meaning": "Condiciones que permiten utilizar entornos, bienes y servicios al mayor número posible de personas, con apoyos cuando son necesarios."
+  },
+  {
+    "term": "lectura fácil",
+    "meaning": "Adaptación de textos y presentación para facilitar su comprensión conforme a criterios de accesibilidad."
+  },
+  {
+    "term": "asistencia personal",
+    "meaning": "Apoyo a una persona para realizar actividades y desarrollar su autonomía; no es necesariamente atención residencial."
+  },
+  {
+    "term": "CGPJ",
+    "meaning": "Consejo General del Poder Judicial: órgano de gobierno del Poder Judicial, no un tribunal que resuelva todos los casos."
+  },
+  {
+    "term": "Fiscalía",
+    "meaning": "Institución que interviene en defensa de la legalidad según sus funciones; se diferencia del tribunal que decide un caso."
+  },
+  {
+    "term": "aforamiento",
+    "meaning": "Regla que determina qué tribunal conoce de determinados asuntos relativos a una persona o cargo; no es impunidad."
+  },
+  {
+    "term": "inmunidad",
+    "meaning": "Garantía procesal ligada a una función en determinados supuestos; no equivale a que cualquier conducta sea lícita."
+  },
+  {
+    "term": "indulto",
+    "meaning": "Medida de gracia que actúa sobre una pena conforme a sus condiciones; no se confunde con amnistía."
+  },
+  {
+    "term": "amnistía",
+    "meaning": "Medida normativa sobre responsabilidad vinculada a hechos o supuestos definidos; su alcance depende de su regulación."
+  },
+  {
+    "term": "malversación",
+    "meaning": "Categoría de conductas relativas al uso indebido de recursos públicos; una acusación no equivale a una condena."
+  },
+  {
+    "term": "prevaricación",
+    "meaning": "Categoría de conductas relacionadas con resoluciones injustas adoptadas a sabiendas en el ejercicio de una función pública."
+  },
+  {
+    "term": "prisión permanente revisable",
+    "meaning": "Pena de duración no prefijada que incorpora un mecanismo de revisión bajo condiciones; revisión no significa liberación automática."
+  },
+  {
+    "term": "separación de poderes",
+    "meaning": "Distribución de funciones y controles entre instituciones, para evitar su concentración sin contrapesos."
+  },
+  {
+    "term": "transparencia",
+    "meaning": "Posibilidad de conocer información relevante sobre decisiones y recursos; publicar información no sustituye todos los mecanismos de control."
+  },
+  {
+    "term": "rendición de cuentas",
+    "meaning": "Obligación de explicar una actuación y someterla a evaluación o consecuencias conforme a las reglas aplicables."
+  },
+  {
+    "term": "autoridad independiente",
+    "meaning": "Organismo con garantías de actuación respecto de otras instituciones; su designación, funciones y controles determinan el alcance real de esa independencia."
+  },
+  {
+    "term": "silencio administrativo",
+    "meaning": "Consecuencia que se atribuye a la falta de respuesta en un plazo; su sentido debe precisarse para cada procedimiento."
+  },
+  {
+    "term": "ventanilla única",
+    "meaning": "Punto de entrada compartido para gestiones aunque después intervengan varias instituciones."
+  },
+  {
+    "term": "tasa de reposición",
+    "meaning": "Criterio que relaciona incorporaciones de personal con bajas u otras referencias definidas. No es necesariamente la plantilla total."
+  },
+  {
+    "term": "concierto económico",
+    "meaning": "Sistema específico de relaciones tributarias y financieras entre instituciones; no equivale a cualquier transferencia presupuestaria."
+  },
+  {
+    "term": "cupo",
+    "meaning": "Aportación calculada dentro de un sistema específico de relaciones financieras; no es sinónimo de todos los ingresos de un territorio."
+  },
+  {
+    "term": "subsidiariedad",
+    "meaning": "Criterio sobre el nivel adecuado para ejercer una función; no significa automáticamente centralizar o descentralizar cualquier decisión."
+  },
+  {
+    "term": "cooficialidad",
+    "meaning": "Reconocimiento de más de una lengua oficial en un ámbito; no determina por sí solo todas las reglas de uso en cada servicio."
+  },
+  {
+    "term": "autodeterminación",
+    "meaning": "Capacidad de decisión sobre el estatus político de un pueblo en el sentido planteado por la propuesta; no equivale a cualquier consulta administrativa."
+  },
+  {
+    "term": "asilo",
+    "meaning": "Protección solicitada frente a situaciones que pueden justificar protección internacional, con un procedimiento de evaluación."
+  },
+  {
+    "term": "refugiada",
+    "meaning": "Persona que necesita protección internacional conforme a los supuestos aplicables; no es un sinónimo de cualquier persona que cambia de país."
+  },
+  {
+    "term": "regularización",
+    "meaning": "Procedimiento para modificar una situación administrativa cumpliendo condiciones; no equivale necesariamente a obtener nacionalidad."
+  },
+  {
+    "term": "Schengen",
+    "meaning": "Espacio de cooperación europea sobre circulación y fronteras; no es idéntico al conjunto de Estados de la Unión Europea."
+  },
+  {
+    "term": "OTAN",
+    "meaning": "Organización del Tratado del Atlántico Norte, alianza de defensa; pertenencia, misiones y presupuesto son decisiones diferentes."
+  },
+  {
+    "term": "PESCO",
+    "meaning": "Cooperación estructurada permanente en defensa de la Unión Europea; no equivale por sí sola a abandonar otras alianzas."
+  },
+  {
+    "term": "ODS",
+    "meaning": "Objetivos de Desarrollo Sostenible, marco de objetivos internacionales; respaldar uno no implica necesariamente respaldar cualquier medida vinculada a ellos."
+  },
+  {
+    "term": "Agenda 2030",
+    "meaning": "Marco internacional de objetivos de desarrollo sostenible; las políticas concretas para aplicarlo pueden ser diferentes."
+  },
+  {
+    "term": "ayuda oficial al desarrollo",
+    "meaning": "Recursos que cumplen criterios de cooperación al desarrollo; no cualquier gasto en el exterior se computa del mismo modo."
+  },
+  {
+    "term": "reciprocidad",
+    "meaning": "Aplicación de condiciones equivalentes entre partes según lo que se acuerde; no significa identidad automática de todas sus normas."
+  },
+  {
+    "term": "propiedad intelectual",
+    "meaning": "Derechos relacionados con obras y creaciones; titularidad, acceso y remuneración son cuestiones diferentes."
+  },
+  {
+    "term": "mecenazgo",
+    "meaning": "Apoyo privado a actividades de interés, a veces acompañado de incentivos; no equivale a financiación pública directa."
+  },
+  {
+    "term": "tanteo y retracto",
+    "meaning": "Mecanismos de adquisición preferente en supuestos definidos, antes o después de una transmisión respectivamente."
+  },
+  {
+    "term": "IBI",
+    "meaning": "Impuesto sobre Bienes Inmuebles, relacionado con la titularidad de determinados derechos sobre inmuebles."
+  },
+  {
+    "term": "IPREM",
+    "meaning": "Indicador Público de Renta de Efectos Múltiples, referencia utilizada para calcular límites o cuantías en distintas ayudas."
+  },
+  {
+    "term": "ITP",
+    "meaning": "Impuesto sobre Transmisiones Patrimoniales, vinculado a determinadas transmisiones y operaciones; se distingue del IVA."
+  },
+  {
+    "term": "RTVE",
+    "meaning": "Corporación de radiotelevisión pública de ámbito estatal."
+  },
+  {
+    "term": "CNMC",
+    "meaning": "Comisión Nacional de los Mercados y la Competencia, organismo con funciones de supervisión y competencia en distintos mercados."
+  },
+  {
+    "term": "CSIC",
+    "meaning": "Consejo Superior de Investigaciones Científicas, organismo público de investigación."
+  },
+  {
+    "term": "PERTE",
+    "meaning": "Proyecto Estratégico para la Recuperación y Transformación Económica, instrumento para impulsar proyectos con participación de distintos actores."
+  },
+  {
+    "term": "PVPC",
+    "meaning": "Precio Voluntario para el Pequeño Consumidor, modalidad regulada de contratación eléctrica; no es cualquier precio de electricidad."
+  },
+  {
+    "term": "UNED",
+    "meaning": "Universidad Nacional de Educación a Distancia."
+  },
+  {
+    "term": "PIR",
+    "meaning": "Formación sanitaria especializada en psicología por el sistema de residencia."
+  },
+  {
+    "term": "TCAE",
+    "meaning": "Técnico en Cuidados Auxiliares de Enfermería."
+  },
+  {
+    "term": "ESO",
+    "meaning": "Educación Secundaria Obligatoria."
+  },
+  {
+    "term": "ONG",
+    "meaning": "Organización no gubernamental; el término no determina por sí solo su actividad, financiación o forma de gestión."
+  },
+  {
+    "term": "UE",
+    "meaning": "Unión Europea, organización de Estados con instituciones y competencias compartidas."
+  },
+  {
+    "term": "ONU",
+    "meaning": "Organización de las Naciones Unidas, organización internacional de Estados."
+  },
+  {
+    "term": "BOE",
+    "meaning": "Boletín Oficial del Estado, publicación oficial de normas y otros actos."
+  },
+  {
+    "term": "UME",
+    "meaning": "Unidad Militar de Emergencias, unidad de las Fuerzas Armadas especializada en intervención en emergencias."
+  },
+  {
+    "term": "UNESCO",
+    "meaning": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura."
+  },
+  {
+    "term": "BCE",
+    "meaning": "Banco Central Europeo, institución del sistema monetario del euro."
+  },
+  {
+    "term": "ADIF",
+    "meaning": "Administrador de Infraestructuras Ferroviarias; la infraestructura y la operación de servicios de tren son funciones diferentes."
+  },
+  {
+    "term": "SEPI",
+    "meaning": "Sociedad Estatal de Participaciones Industriales, entidad del sector público vinculada a participaciones empresariales."
+  },
+  {
+    "term": "ICEX",
+    "meaning": "Entidad pública española de apoyo a la internacionalización de empresas y a la inversión."
+  },
+  {
+    "term": "CNI",
+    "meaning": "Centro Nacional de Inteligencia."
+  },
+  {
+    "term": "CIE",
+    "meaning": "Centro de internamiento de extranjeros; se diferencia de un recurso general de acogida y tiene una finalidad y régimen específicos."
+  },
+  {
+    "term": "VTC",
+    "meaning": "Vehículo de transporte con conductor; la autorización de la actividad y las condiciones del servicio son cuestiones diferentes."
+  },
+  {
+    "term": "REF",
+    "meaning": "Régimen Económico y Fiscal de Canarias, conjunto específico de medidas económicas y fiscales para ese territorio."
+  },
+  {
+    "term": "IGIC",
+    "meaning": "Impuesto General Indirecto Canario; no es el nombre del IVA en todo el territorio español."
+  },
+  {
+    "term": "POSEI",
+    "meaning": "Programa europeo de apoyo al sector agrario de regiones ultraperiféricas."
+  },
+  {
+    "term": "LEADER",
+    "meaning": "Enfoque de desarrollo rural que implica a actores locales en estrategias para su territorio."
+  },
+  {
+    "term": "IRPH",
+    "meaning": "Índice de Referencia de Préstamos Hipotecarios, utilizado como referencia en determinados contratos de financiación."
+  },
+  {
+    "term": "ETVE",
+    "meaning": "Entidad de tenencia de valores extranjeros, régimen societario y fiscal específico; no es un nombre general de toda inversión exterior."
+  },
+  {
+    "term": "LAU",
+    "meaning": "Ley de Arrendamientos Urbanos; la pregunta puede proponer modificar aspectos de los alquileres que regula."
+  },
+  {
+    "term": "LOMLOE",
+    "meaning": "Denominación de una reforma legislativa educativa aprobada en 2020; citarla no define por sí solo qué parte se propone modificar."
+  },
+  {
+    "term": "LOMCE",
+    "meaning": "Denominación de una reforma legislativa educativa aprobada en 2013; debe distinguirse el texto citado del cambio que se propone."
+  },
+  {
+    "term": "MW",
+    "meaning": "Megavatio, unidad de potencia. No equivale a una cantidad de energía producida durante todo un periodo."
+  },
+  {
+    "term": "CO2",
+    "meaning": "Dióxido de carbono, uno de los gases que se consideran al hablar de emisiones y cambio climático."
+  },
+  {
+    "term": "ELA",
+    "meaning": "Esclerosis lateral amiotrófica, enfermedad neurológica; una propuesta sobre atención o ayudas no determina un tratamiento individual."
+  },
+  {
+    "term": "VIH",
+    "meaning": "Virus de la inmunodeficiencia humana; infección, prevención y atención sanitaria son ámbitos distintos de las propuestas."
+  },
+  {
+    "term": "ADN",
+    "meaning": "Ácido desoxirribonucleico, material que contiene información genética; obtener, utilizar y conservar muestras son operaciones diferentes."
+  },
+  {
+    "term": "sectarismo ideológico",
+    "meaning": "Expresión valorativa que necesita concretarse en prácticas o reglas para que su alcance sea verificable; no acredita por sí sola que exista una conducta determinada."
+  },
+  {
+    "term": "discriminación positiva",
+    "meaning": "Tratamiento o apoyo específico orientado a corregir una desventaja identificada; no es lo mismo que cualquier política de igualdad."
+  },
+  {
+    "term": "derecho subjetivo",
+    "meaning": "Derecho cuyo titular puede exigir su reconocimiento o cumplimiento conforme a sus condiciones; no equivale simplemente a declarar un objetivo político."
+  },
+  {
+    "term": "amnistía fiscal",
+    "meaning": "Medida de regularización tributaria con condiciones específicas; no se confunde con la amnistía sobre responsabilidad por otros hechos."
+  },
+  {
+    "term": "puertas giratorias",
+    "meaning": "Expresión utilizada para el paso entre responsabilidades públicas y privadas con posibles conflictos de interés; no toda transición profesional acredita por sí sola una irregularidad."
+  }
+]

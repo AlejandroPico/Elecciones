@@ -256,6 +256,321 @@
 .survey-profile {
   width: 100%;
 }
+.political-map {
+  margin-top: 24px;
+}
+.political-map-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+}
+.political-map-head .segmented {
+  width: auto;
+}
+.political-map-head button {
+  padding: 8px 12px;
+  font-size: 11px;
+}
+.political-map-controls {
+  display: flex;
+  gap: 25px;
+  align-items: start;
+  margin: 22px 0 16px;
+}
+.political-map-controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 200px;
+  max-width: 45%;
+  font-size: 11px;
+}
+.political-map-controls p {
+  max-width: 620px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.8;
+}
+.political-map select {
+  max-width: 100%;
+  width: 100%;
+  min-width: 0;
+}
+.political-map-key {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  font-size: 11px;
+  color: var(--muted);
+}
+.political-axis-definitions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  font-size: 12px;
+  line-height: 1.8;
+  margin: 20px 0;
+}
+.political-axis-definitions b {
+  display: block;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+@media (max-width: 720px) {
+  .political-axis-definitions {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+}
+.political-map-key span {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.user-key {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  border: 2px solid var(--accent);
+  outline: 1px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 50%;
+}
+.party-key {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: var(--muted);
+  border-radius: 50%;
+}
+.political-map-svg {
+  display: block;
+  width: 100%;
+  max-width: 1000px;
+  margin: 16px auto 0;
+}
+.political-map-svg text {
+  font-size: 11px;
+  fill: var(--muted);
+}
+.political-map-svg .party-point-code {
+  fill: #0b1426;
+  font-size: 7px;
+  font-weight: 700;
+  pointer-events: none;
+}
+.political-party-point {
+  cursor: pointer;
+}
+.political-party-point:hover {
+  filter: brightness(1.15);
+}
+.political-user-point {
+  pointer-events: none;
+  color: var(--accent);
+}
+.political-user-point text {
+  font-size: 15px;
+  font-weight: 700;
+  fill: var(--accent);
+  stroke: var(--surface);
+  stroke-width: 4px;
+  paint-order: stroke;
+}
+.political-user-point path {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 2.5px;
+}
+.political-user-point .user-projection {
+  stroke-width: 1.5px;
+  stroke-dasharray: 6 6;
+}
+.user-position-ring {
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 3px;
+}
+.user-position-pulse {
+  transform-box: fill-box;
+  fill: none;
+  stroke: var(--accent);
+  stroke-width: 1.5px;
+  transform-origin: center;
+  animation: user-position-pulse 2.6s ease-out infinite;
+}
+@keyframes user-position-pulse {
+  0% {
+    opacity: 0.8;
+    transform: scale(0.75);
+  }
+  85%,
+  100% {
+    opacity: 0;
+    transform: scale(1.65);
+  }
+}
+.political-user-summary {
+  font-size: 12px;
+  line-height: 1.8;
+  color: var(--muted);
+  margin: 0 0 22px;
+}
+.political-user-summary strong {
+  color: var(--accent);
+}
+.political-axis-pickers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+.political-axis-pickers label {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  min-width: 0;
+  font-size: 12px;
+}
+.political-party-legend {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px 18px;
+  border-top: 1px solid var(--line);
+  padding: 18px 0;
+}
+.political-party-legend button {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  gap: 8px;
+  padding: 8px 0;
+  font-size: 11px;
+}
+.political-party-legend button[aria-pressed="true"] {
+  color: var(--accent);
+}
+.political-party-legend img {
+  width: 24px;
+  height: 23px;
+  object-fit: contain;
+  padding: 2px;
+  background: white;
+}
+.political-party-legend i {
+  width: 6px;
+  height: 6px;
+  flex: none;
+  border-radius: 50%;
+}
+.political-party-legend small {
+  display: block;
+  color: var(--muted);
+  font-size: 9px;
+  line-height: 1.6;
+  margin-top: 4px;
+}
+.political-position-why {
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+  font-size: 12px;
+}
+.political-position-why summary {
+  cursor: pointer;
+}
+.political-position-why > section {
+  padding: 18px 0 0;
+}
+.political-position-why h3 {
+  font-size: 12px;
+  line-height: 1.8;
+}
+.political-position-why p {
+  font-size: 11px;
+  color: var(--muted);
+  line-height: 1.8;
+  margin-top: 6px;
+}
+.question-explanation-dialog {
+  width: min(900px, calc(100vw - 40px));
+  max-width: 900px;
+}
+.question-explanation-dialog .dialog-head {
+  align-items: start;
+  gap: 24px;
+}
+.question-explanation-dialog .dialog-head h2 {
+  font-family: Georgia, serif;
+  font-size: clamp(20px, 2.2vw, 28px);
+  line-height: 1.4;
+}
+.question-explanation {
+  font-size: 14px;
+  line-height: 1.85;
+}
+.question-explanation h3 {
+  font-size: 12px;
+  color: var(--muted);
+  margin: 24px 0 9px;
+}
+.question-explanation p {
+  margin: 14px 0;
+}
+.question-explanation .explanation-plain {
+  color: var(--accent);
+}
+.explanation-terms {
+  border-left: 2px solid var(--line);
+  padding-left: 18px;
+  font-size: 12px;
+}
+.explanation-terms > div {
+  margin: 12px 0;
+}
+.explanation-terms dt {
+  font-weight: 500;
+  color: var(--accent);
+}
+.explanation-terms dd {
+  margin: 3px 0 0;
+  color: var(--muted);
+}
+@media (max-width: 1000px) {
+  .political-party-legend {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 720px) {
+  .political-map-head,
+  .political-map-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .political-map-controls label {
+    max-width: 100%;
+  }
+  .political-party-legend {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .political-axis-pickers {
+    grid-template-columns: 1fr;
+  }
+  .political-map-key {
+    font-size: 10px;
+    gap: 12px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .user-position-pulse {
+    transform-box: fill-box;
+    animation: none;
+    opacity: 0.45;
+  }
+}
 .profile-limits {
   font-size: 12px;
   color: var(--muted);

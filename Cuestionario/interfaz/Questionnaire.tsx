@@ -13,6 +13,7 @@ import Introduction from "../../Elecciones/interfaz/cuestionario/Introduction";
 import TopicPicker from "./TopicPicker";
 import SurveyProgress from "./SurveyProgress";
 const SurveyProfile = lazy(() => import("./SurveyProfile"));
+const QuestionExplanation = lazy(() => import("./QuestionExplanation"));
 import {
   bank,
   questionById,
@@ -33,10 +34,14 @@ export default function Questionnaire({
   view,
   openView,
   blocked,
+  onStarted,
+  resumeRequest,
 }: {
   view: string;
   openView: (view: "survey" | "results") => void;
   blocked: boolean;
+  onStarted: (started: boolean) => void;
+  resumeRequest: number;
 }) {
   const [answers, setAnswers] = useState<Answers>({});
   const [drafts, setDrafts] = useState<Record<string, 1 | 2 | 3>>({});
@@ -51,6 +56,7 @@ export default function Questionnaire({
   const timer = useRef(createAdvanceClock());
   const heading = useRef<HTMLHeadingElement>(null);
   const dialog = useRef<HTMLDialogElement>(null);
+  const lastResume = useRef(resumeRequest);
   const questions = sessionQuestions(draws, selected);
   const question = currentId ? questionById.get(currentId) : undefined;
   const current = question ? answers[question.id] : undefined;
@@ -91,6 +97,7 @@ export default function Questionnaire({
     const next = selectTopics(draws, ordered);
     setDraws(next);
     setSelected(ordered);
+    onStarted(true);
     const items = sessionQuestions(next, ordered);
     setCurrentId(items.find((q) => !answers[q.id])?.id ?? items[0].id);
     setPhase(Object.keys(draws).length ? "questions" : "introduction");
@@ -136,6 +143,12 @@ export default function Questionnaire({
     )
       setCountdown(question.id);
   }
+  useLayoutEffect(() => {
+    if (lastResume.current !== resumeRequest) {
+      lastResume.current = resumeRequest;
+      resume();
+    }
+  }, [resumeRequest]);
   useEffect(() => {
     function key(e: KeyboardEvent) {
       if (
@@ -313,12 +326,13 @@ export default function Questionnaire({
       />
       {context && (
         <dialog
+          className="question-explanation-dialog"
           ref={dialog}
           aria-labelledby="question-context-title"
           onCancel={() => setContext(false)}
         >
           <div className="dialog-head">
-            <h2 id="question-context-title">Contexto</h2>
+            <h2 id="question-context-title">{question.text}</h2>
             <button
               className="icon-button"
               aria-label="Cerrar contexto"
@@ -327,27 +341,9 @@ export default function Questionnaire({
               <X size={20} />
             </button>
           </div>
-          <div className="prose">
-            <h3>{question.concept}</h3>
-            <p>{question.text}</p>
-            {question.scope && (
-              <p>
-                Esta propuesta procede de un programa autonómico de{" "}
-                {question.scope.territory}, de {question.scope.sourceElection}.
-                Se valora en ese ámbito, sin trasladarla al conjunto nacional.
-              </p>
-            )}
-            <p>
-              Valora la propuesta concreta y sus condiciones tal como están
-              formuladas. Se plantea una medida, no se afirma que sea la ley
-              vigente. Neutral expresa una posición intermedia; si te falta
-              información puedes omitir.
-            </p>
-            <p>
-              Las atribuciones a partidos y las fuentes se consultan en Mi
-              perfil, después de responder. No se muestran durante la pregunta.
-            </p>
-          </div>
+          <Suspense fallback={<p role="status">Cargando explicación…</p>}>
+            <QuestionExplanation question={question} />
+          </Suspense>
         </dialog>
       )}
     </div>

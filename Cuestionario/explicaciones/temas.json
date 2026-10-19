@@ -1,0 +1,202 @@
+{
+  "empresa": {
+    "background": "Una empresa necesita recursos para empezar, permisos para operar y clientes a los que vender. Las decisiones públicas pueden cambiar sus costes, la forma de conseguir financiación o las condiciones de competencia. Una ayuda económica, una rebaja de impuestos y una participación pública en la empresa son herramientas distintas.",
+    "example": "Imagina una pequeña empresa que quiere abrir un taller y comprar maquinaria. Puede recurrir a sus ahorros, a un préstamo o a un apoyo público. Según el instrumento elegido, cambian quién aporta el dinero, quién asume el riesgo y qué obligaciones debe cumplir el negocio.",
+    "distinction": "El diseño importa tanto como el objetivo: los requisitos, la duración del apoyo y la posibilidad de que otras empresas accedan en las mismas condiciones pueden dar lugar a resultados diferentes."
+  },
+  "trabajo": {
+    "background": "Las condiciones de trabajo abarcan el salario, el tiempo de trabajo, la contratación y la protección cuando se pierde un empleo. También se relacionan con las cotizaciones que financian prestaciones. Cambiar una de estas reglas no modifica automáticamente todas las demás.",
+    "example": "En una empresa con varias personas contratadas, una reforma puede cambiar lo que se cobra, la jornada pactada o las condiciones de un despido. Conviene distinguir lo que recibe la persona trabajadora de los costes y obligaciones que asume quien la contrata.",
+    "distinction": "Las consecuencias pueden variar entre una persona asalariada, una autónoma y una empresa pequeña. También dependen de si la medida se aplica a todos los contratos o solo a determinados casos."
+  },
+  "igualdad-laboral": {
+    "background": "La igualdad laboral se refiere a las oportunidades y al trato en el empleo: acceso a un puesto, salario, promoción y compatibilidad con los cuidados. No todas las medidas persiguen el mismo cambio: unas revisan los procedimientos y otras reservan plazas o imponen obligaciones concretas.",
+    "example": "Dos personas pueden realizar tareas comparables y, sin embargo, tener distinta remuneración o posibilidades de ascenso. Una auditoría salarial busca identificar diferencias; una cuota actúa sobre la composición de una plantilla o de un órgano. Son actuaciones diferentes.",
+    "distinction": "Para entender el alcance hay que distinguir igualdad de trato, corrección de desventajas y exigencias de representación. Importa a qué personas o empresas se aplica la propuesta y cómo se comprueba su cumplimiento."
+  },
+  "inteligencia-artificial": {
+    "background": "Las tecnologías digitales permiten automatizar tareas, intercambiar información y prestar servicios a distancia. También pueden decidir qué información vemos o ayudar a clasificar solicitudes. Acceso a internet, protección de datos y control de decisiones automáticas son cuestiones relacionadas, pero diferentes.",
+    "example": "Una persona puede necesitar conexión para estudiar, hacer un trámite o acceder a una oferta de trabajo. Si además interviene un programa que ordena solicitudes, aparece otra cuestión: qué datos utiliza, cómo se revisa su decisión y quién responde si se equivoca.",
+    "distinction": "La disponibilidad de tecnología no garantiza por sí sola que todo el mundo pueda usarla. También influyen el coste, los conocimientos, la accesibilidad y la posibilidad de recibir atención por otras vías."
+  },
+  "fiscalidad": {
+    "background": "Los impuestos sirven para obtener ingresos públicos y pueden recaer sobre la renta, el consumo, el patrimonio o los beneficios de una empresa. Una deducción reduce la cantidad que se calcula o se paga según su diseño; una subvención consiste en una ayuda concedida por otra vía.",
+    "example": "En un ejemplo sencillo, una familia paga impuestos por sus ingresos y al comprar productos. Una rebaja en uno de esos impuestos no significa que todos los tributos bajen ni que cualquier hogar ahorre lo mismo: depende de sus ingresos, sus compras y los requisitos de la medida.",
+    "distinction": "Para analizar el cambio conviene separar quién pagaría menos o más, cuánto se recaudaría y qué ocurriría con el gasto o con otros ingresos. Una previsión de recaudación tampoco equivale a un resultado garantizado."
+  },
+  "industria": {
+    "background": "La política industrial afecta a la producción de bienes, a las tecnologías utilizadas y a la localización de actividades. Puede incluir investigación, inversión, formación o infraestructuras. Planificar un sector no significa necesariamente que todas sus empresas pasen a ser públicas.",
+    "example": "Una fábrica puede necesitar nuevas máquinas, personal formado y una conexión eléctrica suficiente. Un programa público puede apoyar una de esas necesidades o varias. Para saber qué cambia hay que identificar el instrumento concreto, no solo la intención de impulsar la industria.",
+    "distinction": "Los plazos de inversión y los riesgos tecnológicos son relevantes. También lo son los criterios para elegir proyectos y las condiciones que se piden a cambio de recibir apoyo público."
+  },
+  "sector-primario": {
+    "background": "La agricultura, la ganadería y la pesca producen alimentos y utilizan recursos como suelo, agua o poblaciones de peces. Sus ingresos dependen de los costes de producción, de los precios de venta y de las reglas de acceso al mercado. Ayudar al productor y regular la venta son actuaciones distintas.",
+    "example": "Un productor puede vender a una cooperativa, a un intermediario o directamente a una tienda. Cambiar una ayuda, un requisito ambiental o una condición de los contratos actúa en un punto diferente de esa cadena, aunque todas esas decisiones puedan influir en su actividad.",
+    "distinction": "El efecto puede ser distinto según el tamaño de la explotación, el tipo de producto y el territorio. Es importante distinguir apoyo económico, requisitos de producción y restricciones comerciales."
+  },
+  "biodiversidad": {
+    "background": "La biodiversidad comprende la variedad de seres vivos y los espacios que necesitan para sobrevivir. Las decisiones sobre protección ambiental pueden regular usos del suelo, aprovechamientos, caza o restauración de hábitats. Proteger un espacio no implica necesariamente prohibir cualquier actividad en él.",
+    "example": "En un monte pueden coexistir caminos, explotaciones, zonas de cría y actividades recreativas. Una norma puede permitir algunas actividades, exigir condiciones o restringirlas en una parte del territorio o en una época concreta.",
+    "distinction": "El alcance depende de qué se protege, frente a qué riesgo y con qué medidas. También hay diferencias entre prevenir daños, reparar un espacio deteriorado y compensar limitaciones a quienes lo utilizan."
+  },
+  "medio-rural": {
+    "background": "La despoblación no consiste solo en que un municipio tenga pocos habitantes: también puede implicar pérdida de servicios, envejecimiento y dificultades para mantener actividad económica. Las medidas rurales pueden actuar sobre empleo, vivienda, transporte o servicios básicos.",
+    "example": "Una familia puede querer vivir en un pueblo pero necesitar escuela, atención sanitaria, conexión a internet y transporte para trabajar. Una ayuda económica cubre una parte del problema; mantener un servicio próximo actúa sobre otra.",
+    "distinction": "La proximidad, la frecuencia y la calidad del servicio son cuestiones distintas. Los criterios de reparto pueden priorizar población, distancia, dispersión o necesidades específicas de cada territorio."
+  },
+  "infraestructuras": {
+    "background": "Las infraestructuras conectan personas y mercancías mediante carreteras, ferrocarril, puertos y aeropuertos. Las decisiones pueden referirse a construir una conexión, mantenerla, gestionarla o fijar sus precios. Una obra terminada no garantiza por sí sola una determinada frecuencia de servicio.",
+    "example": "Una población puede tener una estación y, aun así, contar con pocos trenes; otra puede necesitar mejorar una carretera existente antes que construir una nueva. El caso ayuda a distinguir inversión física, funcionamiento del servicio y condiciones de uso.",
+    "distinction": "Para entender la propuesta conviene separar acceso, capacidad, frecuencia, seguridad y coste. También influyen la demanda prevista, el mantenimiento posterior y las alternativas disponibles."
+  },
+  "vivienda": {
+    "background": "El acceso a la vivienda depende de los ingresos, del precio de compra o alquiler y de la disponibilidad de inmuebles. Las políticas pueden actuar sobre precios, ayudas, construcción, suelo o vivienda protegida. Una ayuda al inquilino no funciona igual que una regla sobre el contrato o una nueva promoción pública.",
+    "example": "Un hogar puede necesitar alquilar cerca de su trabajo y no encontrar una vivienda a su alcance. Se podría intervenir en el precio, apoyar parte del pago o aumentar la oferta. Cada vía establece obligaciones y destinatarios diferentes.",
+    "distinction": "Importa si la propuesta afecta a contratos nuevos o existentes, a cualquier propietario o a determinados titulares, y si incluye límites de renta, duración o ubicación."
+  },
+  "turismo": {
+    "background": "La actividad turística genera demanda de alojamiento, transporte y otros servicios, y utiliza espacios compartidos con la población residente. Las propuestas pueden ordenar esa actividad, apoyarla económicamente o cambiar sus costes y obligaciones.",
+    "example": "Un municipio recibe visitantes y necesita organizar limpieza, movilidad y alojamiento. Una medida puede afectar al número de plazas, a la financiación de servicios o a las condiciones para abrir un establecimiento. No son cambios equivalentes.",
+    "distinction": "Las consecuencias dependen de la estacionalidad, de la capacidad del lugar y del tipo de actividad. También conviene distinguir a quien visita, a quien trabaja en el sector y a quien reside en la zona."
+  },
+  "agua": {
+    "background": "La gestión del agua incluye captarla, almacenarla, distribuirla, depurarla y mantener ríos y acuíferos. El agua disponible y sus usos varían según el territorio y la época. Una inversión en redes, un trasvase y una regla de reparto resuelven problemas diferentes.",
+    "example": "En una zona con escasez puede haber pérdidas en tuberías, necesidades de riego y limitaciones del abastecimiento urbano. Reparar la red reduce pérdidas; una nueva fuente de suministro aporta agua; una regla de uso decide cómo repartirla.",
+    "distinction": "El análisis cambia según el origen del agua, la prioridad de los usos, el coste energético y los efectos sobre los ecosistemas. No toda escasez se debe a la misma causa."
+  },
+  "energia": {
+    "background": "El sistema energético comprende producir energía, transportarla y consumirla. Cambiar la fuente de generación, el precio o la forma de gestionar una instalación son decisiones distintas. También deben distinguirse la potencia disponible y la energía que realmente se produce.",
+    "example": "Un hogar puede consumir electricidad de la red y producir parte con paneles. Para que el sistema funcione hacen falta generación, redes y mecanismos que cubran los momentos de baja producción o alta demanda.",
+    "distinction": "El alcance de la medida depende de la tecnología, los plazos, el coste y la seguridad del suministro. Una expectativa de ahorro o reducción de emisiones no se convierte automáticamente en un resultado concreto."
+  },
+  "salud": {
+    "background": "Las decisiones sanitarias pueden afectar a quién recibe atención, a los profesionales, a los tratamientos o a la organización del servicio. Financiar una prestación, autorizar una intervención y reconocer una profesión son cambios diferentes.",
+    "example": "Una persona puede necesitar una consulta, una prueba o un tratamiento. La existencia del servicio no resuelve por sí sola el tiempo de espera, la distancia, los requisitos de acceso o quién paga su coste.",
+    "distinction": "Es importante distinguir acceso, calidad, evidencia sobre la eficacia y garantías para el paciente. La propuesta concreta puede cambiar solo una de estas partes y dejar las demás sin definir."
+  },
+  "educacion": {
+    "background": "La educación incluye acceso a centros, contenidos, evaluación, profesorado y financiación. Una medida puede cambiar quién decide, qué se enseña o qué costes asumen las familias. No toda reforma educativa modifica todas las etapas o todos los centros.",
+    "example": "Una familia puede elegir centro, solicitar una beca o necesitar transporte escolar. Una propuesta sobre financiación no es lo mismo que otra sobre admisión, materias o evaluación del alumnado.",
+    "distinction": "Para entender sus efectos hay que distinguir las etapas educativas, los centros públicos y privados y los requisitos de acceso. El contenido de la medida importa más que una referencia general a mejorar la enseñanza."
+  },
+  "familia-infancia": {
+    "background": "Las políticas de familia e infancia pueden apoyar la crianza, organizar cuidados o proteger a menores. Las ayudas pueden depender de ingresos, edad, composición familiar u otras condiciones. Un permiso de tiempo y una prestación económica son recursos diferentes.",
+    "example": "En un hogar con menores, una medida puede permitir ausentarse del trabajo, ayudar a pagar una escuela infantil o establecer una protección frente a un riesgo. Cada actuación cubre una necesidad distinta y tiene sus propios destinatarios.",
+    "distinction": "Conviene distinguir los derechos del menor, las decisiones de las personas adultas y los recursos necesarios para hacerlas posibles. También importa si el apoyo es universal o está limitado a determinadas situaciones."
+  },
+  "mayores": {
+    "background": "La atención a las personas mayores puede prestarse en casa, en centros de día o en residencias, y puede combinar apoyo social y sanitario. La edad por sí sola no describe las necesidades de una persona: también influyen su autonomía y su red de apoyo.",
+    "example": "Una persona puede vivir de forma independiente y necesitar unas horas de ayuda; otra puede requerir atención continua. Cambiar una ayuda económica no equivale a disponer de personal o de una plaza de atención adecuada.",
+    "distinction": "Para entender una propuesta hay que distinguir elección del lugar de atención, intensidad del apoyo, calidad y financiación. También importan las condiciones de quienes cuidan."
+  },
+  "discapacidad": {
+    "background": "La discapacidad puede generar necesidades de apoyo y barreras en el entorno. La accesibilidad busca que espacios, servicios e información puedan utilizarse; las prestaciones y los apoyos personales cubren otras necesidades. Son instrumentos complementarios, no intercambiables.",
+    "example": "Una persona puede necesitar una rampa, un texto comprensible, interpretación o asistencia para una tarea. Una misma solución no cubre todas esas situaciones y una prestación económica no elimina por sí sola una barrera física.",
+    "distinction": "Importa qué barrera se pretende retirar, quién debe hacerlo y qué apoyos se garantizan. La autonomía de la persona y la posibilidad real de usar un servicio son aspectos diferentes de su mera existencia."
+  },
+  "violencia-mujeres": {
+    "background": "Las políticas sobre violencia contra las mujeres pueden incluir prevención, protección, atención y respuesta judicial. Cambiar el ámbito de una norma, crear un recurso de atención y modificar una pena son decisiones distintas.",
+    "example": "Una persona que sufre violencia puede necesitar alojamiento seguro, asesoramiento, atención sanitaria o una medida judicial de protección. Un recurso puede cubrir una de esas necesidades sin resolver automáticamente las demás.",
+    "distinction": "Para comprender la medida hay que identificar a qué situaciones se aplica, qué protección ofrece y quién debe garantizarla. También deben distinguirse una denuncia, una investigación y una condena."
+  },
+  "lgtbi": {
+    "background": "Las propuestas sobre personas LGTBI pueden referirse a igualdad de trato, documentos, educación o atención sanitaria. No todas las medidas afectan al mismo ámbito ni a las mismas edades. El reconocimiento de un derecho y el procedimiento para ejercerlo son cuestiones diferentes.",
+    "example": "Una persona puede encontrarse con una decisión sobre sus documentos, el acceso a un servicio o una actuación educativa contra el acoso. Una medida sobre una de estas situaciones no modifica por sí sola las otras.",
+    "distinction": "El alcance depende de la actuación concreta, de las garantías previstas y de los destinatarios. Las reglas relativas a menores, a tratamientos sanitarios y a documentación no deben confundirse entre sí."
+  },
+  "instituciones": {
+    "background": "Las instituciones toman decisiones públicas, representan a la ciudadanía o controlan el ejercicio del poder. Las reglas sobre nombramientos, competencias y rendición de cuentas determinan cómo actúan. Cambiar quién designa a un órgano no garantiza por sí solo un resultado determinado.",
+    "example": "Un organismo puede necesitar nombrar a sus integrantes, aprobar decisiones y explicar su actuación. Una reforma puede cambiar la elección de sus miembros, sus funciones o los mecanismos de supervisión.",
+    "distinction": "Para entender la propuesta conviene separar representación, independencia, capacidad de actuación y control. Cada diseño puede combinar esos objetivos de una manera distinta."
+  },
+  "constitucion": {
+    "background": "La Constitución organiza las instituciones y reconoce derechos. También existen decisiones sobre memoria pública, símbolos y relaciones con las confesiones religiosas. Cambiar una norma constitucional, una ley o una práctica administrativa requiere actuaciones diferentes.",
+    "example": "Una propuesta puede plantear modificar una regla de organización del Estado, una política de reconocimiento o la relación de una institución con una confesión. Aunque se debatan juntas, no son la misma decisión.",
+    "distinction": "Importa identificar qué regla se cambiaría, a quién afectaría y qué procedimiento se propone. Apoyar un objetivo general no implica aceptar cualquier forma de llevarlo a la práctica."
+  },
+  "legislacion": {
+    "background": "Elaborar una ley supone definir una regla, debatirla y aprobarla mediante un procedimiento. Las propuestas pueden cambiar la participación, las consultas, los plazos o la evaluación de sus efectos. No es lo mismo opinar sobre una norma que tener capacidad para aprobarla.",
+    "example": "Antes de aprobar una regulación pueden consultarse personas afectadas, publicarse informes o abrirse un plazo de aportaciones. Cada mecanismo modifica quién puede intervenir y en qué momento.",
+    "distinction": "El diseño puede facilitar el control y la participación, pero también exige tiempo y recursos. Conviene distinguir una consulta informativa, una propuesta ciudadana y una decisión vinculante."
+  },
+  "justicia": {
+    "background": "La justicia aplica el derecho a conflictos concretos y requiere tribunales, profesionales y procedimientos. Las propuestas pueden cambiar nombramientos, recursos, penas o garantías. Organizar la justicia no equivale a decidir el resultado de un caso individual.",
+    "example": "Una persona que reclama ante un tribunal puede necesitar presentar pruebas, recibir asistencia y obtener una resolución en un plazo razonable. Otras medidas, en cambio, afectan a quién dirige una institución o a cómo se ejecuta una pena.",
+    "distinction": "Es importante distinguir independencia, garantías de las partes, medios disponibles y duración de los procedimientos. Una acusación no equivale a que los hechos estén probados."
+  },
+  "buen-gobierno": {
+    "background": "El control del Gobierno busca hacer visibles sus decisiones, comprobar el uso de recursos y exigir explicaciones o responsabilidades. Puede actuar antes, durante o después de una actuación. Una obligación de publicar información es diferente de una sanción o una auditoría.",
+    "example": "Una administración adjudica un contrato y después debe explicar el procedimiento, el coste y el servicio recibido. Publicar los documentos permite conocerlos; revisarlos comprueba otros aspectos; sancionar exige acreditar un incumplimiento.",
+    "distinction": "Para valorar el alcance hay que identificar quién controla, qué puede comprobar y qué consecuencias tiene detectar una irregularidad. Transparencia y responsabilidad no son exactamente lo mismo."
+  },
+  "territorio": {
+    "background": "La organización territorial reparte decisiones y recursos entre instituciones del Estado, comunidades autónomas y entidades locales. Cambiar una competencia modifica quién decide; cambiar la financiación modifica con qué recursos cuenta. Ambas cosas pueden cambiar por separado.",
+    "example": "Una comunidad puede gestionar un servicio y recibir financiación mediante determinadas reglas. Una reforma puede trasladar la decisión a otra institución o cambiar el reparto económico sin trasladar la gestión.",
+    "distinction": "Importa distinguir autonomía de decisión, coordinación entre territorios y criterios de reparto. Las propuestas sobre soberanía, financiación y uso de lenguas no deben tratarse como si fueran una sola decisión."
+  },
+  "seguridad": {
+    "background": "Las políticas de seguridad incluyen prevención, investigación, protección y gestión de fronteras. Pueden afectar a recursos de los servicios públicos, a procedimientos o a derechos. Una actuación sobre policía no equivale a una reforma sobre asilo o sobre penas.",
+    "example": "Ante un problema de seguridad pueden reforzarse medios, cambiarse protocolos o establecerse nuevas obligaciones. Cada medida afecta de forma distinta a la prevención, a las personas investigadas y a quienes necesitan protección.",
+    "distinction": "Conviene separar el riesgo que se quiere abordar de las facultades que se conceden para hacerlo. También importan la proporcionalidad, las garantías y la posibilidad de revisar una decisión."
+  },
+  "propiedad": {
+    "background": "Las propuestas sobre ocupación y propiedad pueden afectar al uso de un inmueble, a la recuperación de su posesión o a los procedimientos para resolver un conflicto. No toda disputa sobre vivienda tiene el mismo origen: una entrada sin autorización y un impago de alquiler son situaciones distintas.",
+    "example": "Un propietario y quien utiliza una vivienda pueden discrepar sobre el derecho a permanecer en ella. La solución puede depender del contrato, de los hechos y del procedimiento aplicable. Un cambio en los plazos no equivale a resolver automáticamente quién tiene razón.",
+    "distinction": "El alcance depende del tipo de inmueble, de cómo comenzó la ocupación y de las garantías para las partes. También conviene distinguir una medida judicial de una actuación administrativa o social."
+  },
+  "administracion": {
+    "background": "La Administración presta servicios, tramita solicitudes y emplea personal para realizar sus funciones. Las propuestas pueden cambiar procedimientos, canales de atención, organización o contratación pública. Digitalizar un trámite no es lo mismo que eliminar sus requisitos.",
+    "example": "Una persona solicita una ayuda y necesita acreditar una condición. La Administración puede pedirle un documento, consultar información que ya tiene o facilitar asistencia. Cada opción cambia el trabajo del solicitante y del servicio público.",
+    "distinction": "Para comprender el cambio importan la seguridad de la información, los plazos, la accesibilidad y los recursos de personal. Un procedimiento más corto no significa necesariamente menos controles."
+  },
+  "union-europea": {
+    "background": "La Unión Europea reúne instituciones y reglas compartidas entre sus Estados miembros. Las propuestas pueden aumentar las decisiones conjuntas, cambiar su financiación o recuperar decisiones nacionales. Participar en un programa común y transferir una competencia no son lo mismo.",
+    "example": "Varios países pueden acordar una norma, financiar un proyecto o coordinar una respuesta. El diseño determina quién decide, quién aporta recursos y qué margen conserva cada país.",
+    "distinction": "Conviene distinguir coordinación, decisión compartida y control democrático. También importa si la propuesta se refiere a un sector concreto o a la organización general de la Unión."
+  },
+  "iberoamerica": {
+    "background": "Las relaciones iberoamericanas pueden incluir cooperación cultural, comercio, movilidad y relaciones diplomáticas. Un acuerdo entre gobiernos, una ayuda a estudiantes y una medida de nacionalidad tienen objetos y destinatarios diferentes.",
+    "example": "Dos países pueden facilitar intercambios universitarios o mejorar el reconocimiento de documentos. Otra decisión puede referirse a una posición diplomática. Compartir idioma o vínculos históricos no convierte esas actuaciones en una sola política.",
+    "distinction": "Para entender la medida hay que identificar el instrumento concreto, sus requisitos y las personas o instituciones a las que afecta. Los efectos dependen también de los acuerdos de las otras partes."
+  },
+  "exteriores": {
+    "background": "La política exterior abarca las relaciones diplomáticas y la posición de un país ante conflictos y acuerdos internacionales. Reconocer a un Estado, imponer sanciones o participar en una negociación son actuaciones distintas.",
+    "example": "Ante un conflicto, un gobierno puede recurrir a diálogo, cooperación, sanciones o acuerdos con otros países. Cada vía tiene objetivos, límites y posibles efectos sobre personas e instituciones diferentes.",
+    "distinction": "Es importante separar la valoración de un objetivo de la del instrumento elegido. También importan las condiciones, el papel de las organizaciones internacionales y los compromisos con otras partes."
+  },
+  "defensa": {
+    "background": "La política de defensa organiza capacidades, personal, recursos y compromisos militares. Una propuesta puede cambiar el presupuesto, una misión, una alianza o la producción de equipamiento. Esas decisiones no son equivalentes entre sí.",
+    "example": "Un país puede financiar material, formación o participación en una operación. Un aumento de presupuesto no determina por sí solo cómo se distribuye el dinero ni qué misiones se realizan.",
+    "distinction": "Para entender la propuesta conviene identificar el objetivo, los recursos y quién autoriza o supervisa la actuación. También hay diferencias entre defensa territorial, disuasión y participación en misiones internacionales."
+  },
+  "cooperacion": {
+    "background": "La cooperación al desarrollo destina recursos y conocimientos a iniciativas en otros países. Puede financiar servicios, apoyar instituciones o responder a necesidades humanitarias. Una ayuda de emergencia y un programa de largo plazo tienen objetivos y plazos distintos.",
+    "example": "Una intervención puede financiar agua potable o formación durante varios años; otra puede responder a una emergencia inmediata. El origen del dinero, el destino y la forma de ejecutar el proyecto influyen en su funcionamiento.",
+    "distinction": "Es importante distinguir el volumen de recursos de la calidad y los resultados de su uso. También importan la participación de la población destinataria, la continuidad y la supervisión."
+  },
+  "exterior-ciudadania": {
+    "background": "Las personas españolas que viven fuera pueden necesitar servicios consulares, documentación, participación electoral o apoyo para regresar. Una propuesta puede mejorar una gestión sin cambiar los requisitos de nacionalidad o de una prestación.",
+    "example": "Una persona residente en otro país puede necesitar renovar documentos o realizar un trámite ante un consulado. Otra puede querer volver a España. Cada situación requiere servicios y condiciones diferentes.",
+    "distinction": "La distancia, los plazos y la posibilidad de atención telemática son relevantes, pero no sustituyen la identificación del derecho o servicio que se quiere modificar."
+  },
+  "cultura": {
+    "background": "La política cultural puede apoyar la creación, facilitar el acceso a obras o conservar patrimonio. Las reglas laborales y económicas de quienes crean son diferentes de las decisiones sobre museos, bibliotecas o edificios históricos.",
+    "example": "Una biblioteca puede necesitar fondos para adquirir libros; una compañía, recursos para producir una obra; un edificio histórico, una restauración. Aunque todas sean actuaciones culturales, sus destinatarios y condiciones cambian.",
+    "distinction": "Conviene distinguir acceso del público, apoyo a la actividad profesional y conservación. También importa cómo se seleccionan los proyectos y cómo se distribuyen los recursos."
+  },
+  "deporte": {
+    "background": "Las propuestas deportivas pueden referirse a instalaciones, actividad de base, competición, salud o condiciones de quienes participan. Una medida de acceso no es lo mismo que financiar un evento o regular una organización deportiva.",
+    "example": "Una persona puede necesitar una instalación accesible para practicar actividad física y un club puede necesitar recursos para organizar competiciones. Apoyar una de esas necesidades no garantiza por sí solo que se cubra la otra.",
+    "distinction": "Para comprender el alcance hay que identificar a qué nivel se aplica la medida, quién puede beneficiarse y qué condiciones de acceso o participación establece."
+  },
+  "consumo": {
+    "background": "Los derechos de consumo afectan a información, precios, contratos, seguridad y reclamaciones de quienes compran bienes o servicios. Una obligación de informar y una prohibición de una práctica comercial son herramientas diferentes.",
+    "example": "Una persona contrata un servicio y después necesita comprender una cláusula, cancelar el contrato o reclamar un cobro. La medida puede intervenir antes de contratar o establecer una vía de solución cuando aparece el conflicto.",
+    "distinction": "Importa qué empresas y contratos quedan incluidos, qué información se exige y qué ocurre si no se cumple. Las reglas generales y las protecciones para situaciones específicas pueden funcionar de forma distinta."
+  },
+  "bienestar-animal": {
+    "background": "Las decisiones sobre animales pueden regular cuidados, cría, comercio, espectáculos, experimentación o protección de hábitats. Cambiar las condiciones de una actividad no equivale a prohibirla, y las reglas pueden distinguir especies y usos.",
+    "example": "Un centro puede alojar animales, venderlos, utilizarlos en una actividad o investigar con ellos. Cada caso plantea obligaciones y alternativas diferentes: cuidado, inspección, limitación de una práctica o sustitución por otro método.",
+    "distinction": "Para entender el alcance conviene identificar qué animales y qué actividad se incluyen, las excepciones y los medios de control. Protección individual y conservación de una especie son objetivos relacionados, pero diferentes."
+  }
+}
