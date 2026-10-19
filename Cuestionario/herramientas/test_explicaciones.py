@@ -56,6 +56,14 @@ class Explanations(unittest.TestCase):
     def test_tax_simplification_is_not_confused_with_paperwork(self):
         self.assertNotEqual(self.actual["q-pp23-042-c"]["profile"],"tramites")
 
+    def test_monetary_policy_and_refunds_are_not_crossed_with_unrelated_domains(self):
+        question=next(q for q in self.bank["questions"] if q["statement"]=="El Banco Central Europeo debería revertir las subidas de tipos de interés iniciadas en julio de 2022.")
+        self.assertEqual(self.actual[question["id"]]["profile"],"tipos-interes")
+        self.assertIn("hipoteca",self.actual[question["id"]]["paragraphs"][2])
+        for q in self.bank["questions"]:
+            if q["category"] in {"fiscalidad","consumo"}:
+                self.assertNotEqual(self.actual[q["id"]]["profile"],"repatriacion")
+
     def test_plain_language_keeps_negations_and_conjugates_relevant_verbs(self):
         self.assertEqual(editor.plain_statement("Las competencias deberían transferirse a otra institución."),"Se propone que las competencias se transfieran a otra institución.")
         self.assertEqual(editor.plain_statement("El euro digital no debería implantarse."),"Se propone que el euro digital no se implante.")

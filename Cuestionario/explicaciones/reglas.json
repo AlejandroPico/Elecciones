@@ -65,7 +65,13 @@
     "background": "La jornada indica el tiempo de trabajo; el salario, su remuneración. Reducir horas, distribuirlas en menos días y permitir horarios flexibles son cambios diferentes.",
     "example": "Trabajar 32 horas en lugar de 40 reduce el total semanal. Concentrar las mismas 40 horas en cuatro días no lo reduce. Mantener el salario durante una reducción significa cobrar la misma cantidad por menos horas.",
     "distinction": "La cifra, el plazo y la condición salarial forman parte de la medida. Una implantación inmediata, una reducción gradual y una posibilidad negociada no significan lo mismo.",
-    "categoryIds": [],
+    "categoryIds": [
+      "trabajo",
+      "igualdad-laboral",
+      "familia-infancia",
+      "administracion",
+      "empresa"
+    ],
     "priority": 0
   },
   {
@@ -321,7 +327,8 @@
     "distinction": "No deben confundirse cobertura de cuidados, rechazo de un tratamiento y ayuda para morir. La pregunta puede modificar solo una de esas situaciones.",
     "categoryIds": [
       "salud",
-      "mayores"
+      "mayores",
+      "constitucion"
     ],
     "priority": 40
   },
@@ -964,7 +971,10 @@
     "patterns": [
       "memoria democratica",
       "memoria historica",
-      "exhumacion"
+      "exhumacion",
+      "cuelgamuros",
+      "guerra civil",
+      "dictadura"
     ],
     "background": "Las políticas de memoria pueden incluir investigación, reconocimiento de víctimas, búsqueda de restos, archivos y símbolos. Una reparación y una regla sobre conmemoraciones tienen objetos diferentes.",
     "example": "Una familia quiere localizar a una persona desaparecida y un municipio debate un símbolo en espacio público. Ambas situaciones pueden entrar en una política de memoria, pero requieren acciones diferentes.",
@@ -1032,7 +1042,9 @@
     "patterns": [
       "negociacion colectiva",
       "convenio.*trabajo",
-      "convenios.*laboral"
+      "convenios.*laboral",
+      "convenios colectivos",
+      "convenio colectivo"
     ],
     "background": "La negociación colectiva acuerda condiciones entre representantes de trabajadores y empresas. Puede actuar en una empresa o en un sector, con reglas sobre qué acuerdos prevalecen.",
     "example": "Una empresa tiene un acuerdo propio y existe también un convenio sectorial. La reforma puede cambiar cuál prevalece en una materia sin eliminar toda negociación en el otro nivel.",
@@ -1743,7 +1755,9 @@
       "territorio",
       "educacion",
       "exterior-ciudadania",
-      "administracion"
+      "administracion",
+      "justicia",
+      "cultura"
     ],
     "priority": 0
   },
@@ -1757,7 +1771,12 @@
     "background": "El retorno o repatriación se refiere al traslado de una persona a otro país según el supuesto considerado. Un retorno voluntario, una expulsión y una medida de protección internacional tienen condiciones diferentes.",
     "example": "Una persona puede solicitar apoyo para regresar y otra encontrarse con un procedimiento de salida obligatoria. Las garantías, la decisión y la colaboración entre países serían distintas.",
     "distinction": "Hay que distinguir voluntariedad, situación administrativa y riesgos que requieran protección. Un acuerdo entre gobiernos no elimina por sí solo todas las condiciones de un caso individual.",
-    "categoryIds": [],
+    "categoryIds": [
+      "seguridad",
+      "exteriores",
+      "cooperacion",
+      "exterior-ciudadania"
+    ],
     "priority": 0
   },
   {
@@ -1945,5 +1964,415 @@
     "distinction": "La publicidad, la competencia entre ofertas y la supervisión posterior son partes distintas. Incluir una condición no garantiza por sí solo que se cumpla sin comprobación.",
     "categoryIds": [],
     "priority": 10
+  },
+  {
+    "id": "tipos-interes",
+    "patterns": [
+      "tipos de interes",
+      "politica monetaria",
+      "banco central europeo"
+    ],
+    "background": "El tipo de interés es el precio de pedir dinero prestado y también influye en lo que se recibe por ahorrar. Los tipos oficiales del Banco Central Europeo afectan a las condiciones de financiación en la zona euro. Cambiarlos es una decisión monetaria distinta de subir o bajar impuestos.",
+    "example": "Por ejemplo, una bajada de tipos puede abaratar nuevos préstamos o reducir la cuota de una hipoteca variable cuando se revise. No tiene por qué cambiar una hipoteca a tipo fijo. Al mismo tiempo, los depósitos pueden ofrecer menos rendimiento; los efectos no llegan a todos a la vez.",
+    "distinction": "La cuestión enfrenta el coste del crédito, el ahorro y el control de la inflación. Una bajada no garantiza por sí sola que aumente la inversión ni que bajen los precios. La referencia a julio de 2022 sitúa una propuesta histórica: no afirma cuál es el nivel de tipos en la actualidad.",
+    "categoryIds": [],
+    "priority": 80
+  },
+  {
+    "id": "educacion-financiera",
+    "patterns": [
+      "educacion financiera",
+      "educacion.*fiscal",
+      "cultura financiera"
+    ],
+    "background": "La educación financiera ayuda a comprender intereses, comisiones, ahorro, deudas y riesgos. La educación fiscal explica para qué sirven los impuestos, qué obligaciones existen y cómo se financian los servicios públicos. Se pregunta por enseñar estas herramientas, no por contratar un producto concreto.",
+    "example": "Por ejemplo, un taller podría enseñar a comparar dos préstamos atendiendo al coste total, distinguir interés fijo y variable o entender una nómina y una declaración tributaria. Sería formación para decidir con más información, sin obligar a elegir una inversión o una entidad.",
+    "distinction": "Ampliar formación no sustituye la regulación de las entidades ni su deber de informar. También importa quién prepara los materiales, si existen intereses comerciales y si la enseñanza llega a personas de distintas edades y niveles de estudios.",
+    "categoryIds": [],
+    "priority": 65
+  },
+  {
+    "id": "impuestos-devoluciones",
+    "patterns": [
+      "devolucion.*impuesto",
+      "devoluciones tributarias",
+      "devoluciones.*iva",
+      "devolucion.*tributaria"
+    ],
+    "background": "Una devolución tributaria devuelve dinero cuando se ha adelantado o pagado más de lo que corresponde según las reglas del impuesto. No es lo mismo que crear una ayuda: puede limitarse a reintegrar una cantidad que la administración debe al contribuyente.",
+    "example": "Por ejemplo, si las retenciones efectuadas durante el año superan la cuota final, la declaración puede resultar a devolver. Otra cuestión es cuánto tarda el reintegro o cómo se comprueba. Agilizarlo no supone que todas las personas vayan a recibir dinero.",
+    "distinction": "Conviene separar cambiar el cálculo del impuesto, adelantar una devolución y reducir comprobaciones. Son decisiones diferentes: un procedimiento más rápido puede mantener controles sobre los datos presentados.",
+    "categoryIds": [
+      "fiscalidad",
+      "empresa"
+    ],
+    "priority": 70
+  },
+  {
+    "id": "devolucion-compras",
+    "patterns": [
+      "devolucion",
+      "devoluciones"
+    ],
+    "background": "En consumo, devolver un producto significa entregarlo de vuelta al vendedor; recuperar el dinero, cambiarlo o repararlo depende del motivo y de las condiciones aplicables. La pregunta plantea modificar una protección o procedimiento de compra, no devolver personas a otro país.",
+    "example": "Por ejemplo, una compra puede llegar defectuosa o no corresponder a lo anunciado. Se puede discutir quién paga el envío de vuelta, qué plazo hay para reclamar y si procede reembolso o reparación. Un simple cambio de opinión es un supuesto distinto.",
+    "distinction": "Hay que distinguir una compra presencial de una realizada a distancia y un producto defectuoso de uno que funciona correctamente. El ejemplo explica esas situaciones sin afirmar qué plazo legal está vigente ni añadir uno que no figure en la pregunta.",
+    "categoryIds": [
+      "consumo"
+    ],
+    "priority": 65
+  },
+  {
+    "id": "fondos-europeos",
+    "patterns": [
+      "fondos europeos",
+      "fondos.*europea",
+      "fondos.*recuperacion",
+      "next generation",
+      "coinversion"
+    ],
+    "background": "Los fondos europeos financian actuaciones sujetas a objetivos, condiciones y controles. La discusión puede referirse a quién los gestiona, qué proyectos reciben recursos, cómo se comprueban sus resultados o qué parte de la inversión asume cada participante.",
+    "example": "Por ejemplo, una convocatoria podría apoyar la modernización de una fábrica, una instalación energética o un servicio público. Recibir financiación no elimina la necesidad de presentar un proyecto, justificar gastos y cumplir las condiciones de la convocatoria.",
+    "distinction": "Conviene distinguir el dinero anunciado, el concedido, el pagado y el efectivamente ejecutado. Gestionarlo desde un territorio tampoco implica que ese territorio pueda ignorar las reglas del instrumento que lo financia.",
+    "categoryIds": [],
+    "priority": 40
+  },
+  {
+    "id": "investigacion-aplicada",
+    "patterns": [
+      "investigacion",
+      "\bi\\+d\b",
+      "patentes",
+      "ciencia"
+    ],
+    "background": "Investigar consiste en producir conocimiento o desarrollar soluciones mediante trabajo sistemático. La financiación puede dirigirse a equipos, personal, instalaciones o proyectos; transferir conocimiento significa que los resultados puedan aprovecharse fuera del grupo que los obtiene.",
+    "example": "Por ejemplo, una universidad puede estudiar una técnica de cultivo y colaborar con productores para probarla. Eso requiere recursos, coordinación y reglas sobre quién puede utilizar los resultados. No todo proyecto obtiene una aplicación comercial ni tiene por qué hacerlo.",
+    "distinction": "Hay diferencias entre financiar investigación básica, resolver un problema aplicado, proteger una patente y difundir un resultado libremente. La pregunta se refiere a la actuación que nombra; apoyar la investigación no decide automáticamente todas esas cuestiones.",
+    "categoryIds": [
+      "empresa",
+      "industria",
+      "salud",
+      "educacion",
+      "inteligencia-artificial",
+      "agua"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "renovables-instalacion",
+    "patterns": [
+      "renovables",
+      "eolic",
+      "fotovolt",
+      "solar",
+      "hidroelectric",
+      "bombeo hidraulico"
+    ],
+    "background": "Las instalaciones renovables producen electricidad aprovechando fuentes como el viento, el sol o el agua. Además de generar energía necesitan conexión a la red, permisos y espacio. Algunas propuestas se centran en acelerar instalaciones y otras en su ubicación, participación local o impacto.",
+    "example": "Por ejemplo, unas placas en una cubierta y un gran parque sobre suelo rural pueden aportar electricidad, pero ocupan espacios distintos y afectan de manera diferente al entorno. Un sistema de bombeo usa energía para elevar agua y recupera parte después al dejarla descender.",
+    "distinction": "Capacidad instalada, energía producida y almacenamiento son conceptos diferentes. Apoyar renovables no obliga a aceptar cualquier emplazamiento; imponer condiciones tampoco equivale necesariamente a rechazar esa fuente de energía.",
+    "categoryIds": [
+      "energia",
+      "biodiversidad",
+      "sector-primario",
+      "medio-rural"
+    ],
+    "priority": 35
+  },
+  {
+    "id": "red-electrica",
+    "patterns": [
+      "red electrica",
+      "conexiones electricas",
+      "25 kv",
+      "tarifa.*electri",
+      "tarifas electricas"
+    ],
+    "background": "La red eléctrica transporta y distribuye electricidad entre generadores y consumidores. La factura puede incluir energía, costes de red, otros conceptos e impuestos. Una propuesta sobre conexión o tarifas puede modificar solo una de esas partes.",
+    "example": "Por ejemplo, una empresa que necesita más potencia puede requerir una nueva conexión o refuerzos de red. Cambiar cómo se cobra ese acceso afecta al reparto de costes, pero no crea por sí mismo más generación ni elimina todos los importes de la factura.",
+    "distinction": "Conviene separar el precio de producir electricidad del coste de llevarla al punto de consumo. Una diferencia de tensión o de categoría tarifaria puede ser el objeto concreto de la propuesta, sin implicar una rebaja igual para todos.",
+    "categoryIds": [
+      "energia",
+      "industria"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "prevencion-laboral",
+    "patterns": [
+      "riesgos psicosociales",
+      "prevencion.*laboral",
+      "riesgos laborales",
+      "inspeccion de trabajo",
+      "accidentes laborales"
+    ],
+    "background": "La prevención laboral busca evitar daños ligados al trabajo: accidentes, exposición a sustancias, sobrecarga física o riesgos psicosociales como estrés sostenido y acoso. La inspección comprueba obligaciones y puede requerir correcciones; no se limita a actuar después de un accidente.",
+    "example": "Por ejemplo, en un almacén pueden revisarse cargas y maquinaria; en una oficina, cargas de trabajo, horarios y situaciones de acoso. Evaluar el riesgo permite proponer cambios en la organización o protección, sin atribuir todo problema a una sola causa.",
+    "distinction": "Reforzar personal inspector, aumentar sanciones y mejorar prevención son instrumentos distintos. Tampoco basta con impartir un curso si las condiciones que generan el riesgo siguen iguales.",
+    "categoryIds": [
+      "trabajo",
+      "igualdad-laboral",
+      "administracion"
+    ],
+    "priority": 45
+  },
+  {
+    "id": "formacion-empleo",
+    "patterns": [
+      "desempleados.*curso",
+      "formacion.*empleo",
+      "formacion.*trabajador",
+      "recualificacion",
+      "formacion continua"
+    ],
+    "background": "La formación para el empleo pretende adquirir o actualizar habilidades profesionales. Puede organizarse mediante centros públicos, entidades concertadas o proveedores privados, con distintas reglas de acceso, financiación y evaluación.",
+    "example": "Por ejemplo, una persona desempleada podría aprender una técnica demandada en su zona. Si puede elegir proveedor, también necesitará información sobre horarios, calidad y resultados; terminar el curso no garantiza que encuentre un puesto.",
+    "distinction": "Conviene distinguir ofrecer plazas, financiar la matrícula, permitir elegir centro y evaluar la utilidad del aprendizaje. El número de cursos impartidos no mide por sí solo su efecto sobre el empleo.",
+    "categoryIds": [
+      "trabajo",
+      "industria",
+      "empresa",
+      "sector-primario"
+    ],
+    "priority": 30
+  },
+  {
+    "id": "universidad-organizacion",
+    "patterns": [
+      "universidad",
+      "universidades",
+      "universitari"
+    ],
+    "background": "Las universidades combinan docencia, investigación y transferencia de conocimiento. Su organización determina quién toma decisiones, cómo se elige a sus responsables y qué margen tienen para gestionar personal y recursos dentro del marco correspondiente.",
+    "example": "Por ejemplo, cambiar el sistema de gobierno puede modificar quién participa al decidir nuevas titulaciones o seleccionar equipos. Ese cambio organizativo es diferente de ampliar plazas, reducir tasas o modificar los requisitos de acceso del alumnado.",
+    "distinction": "Autonomía universitaria, financiación suficiente y rendición de cuentas son dimensiones distintas. Una propuesta puede dar más capacidad de decisión al centro y mantener obligaciones de transparencia y evaluación.",
+    "categoryIds": [
+      "educacion"
+    ],
+    "priority": 5
+  },
+  {
+    "id": "curriculo-ley-educativa",
+    "patterns": [
+      "lomloe",
+      "lomce",
+      "ley.*educacion",
+      "ley educativa",
+      "sistema educativo",
+      "educacion.*ley"
+    ],
+    "background": "Una ley educativa establece parte del marco de etapas, organización de centros, evaluación y responsabilidades. Reformarla puede cambiar aspectos concretos; sustituirla o derogarla exige precisar qué reglas ocuparían su lugar.",
+    "example": "Por ejemplo, una reforma puede modificar la evaluación del alumnado o cómo se distribuyen contenidos. Otra puede cambiar la participación de familias y docentes. Son decisiones diferentes aunque ambas aparezcan bajo la idea de reformar la ley.",
+    "distinction": "Apoyar revisar una norma no significa aceptar cualquier sustitución. El acuerdo o desacuerdo se refiere a la orientación y condiciones incluidas en la pregunta; no permite suponer un modelo completo cuando este no está descrito.",
+    "categoryIds": [
+      "educacion"
+    ],
+    "priority": 30
+  },
+  {
+    "id": "accesibilidad",
+    "patterns": [
+      "accesibilidad",
+      "accesible",
+      "lectura facil",
+      "discapacidad visual",
+      "autismo",
+      "autista"
+    ],
+    "background": "La accesibilidad permite utilizar espacios, servicios e información sin barreras evitables. Puede ser física, sensorial, cognitiva o digital. No se reduce a rampas: también comprende comprender un trámite, interpretar una señal o utilizar una aplicación.",
+    "example": "Por ejemplo, una persona puede necesitar un documento en lectura fácil, otra información compatible con un lector de pantalla y otra un acceso sin escalones. Adaptar el servicio a esas necesidades es distinto de ofrecer exactamente la misma ayuda a todo el mundo.",
+    "distinction": "Conviene distinguir medidas generales de accesibilidad, apoyos individuales y prestaciones económicas. Una propuesta sobre uno de esos instrumentos no determina automáticamente el resto ni elimina la diversidad de necesidades.",
+    "categoryIds": [
+      "discapacidad",
+      "administracion",
+      "educacion",
+      "consumo",
+      "infraestructuras"
+    ],
+    "priority": 35
+  },
+  {
+    "id": "teleasistencia",
+    "patterns": [
+      "teleasistencia",
+      "atencion personal",
+      "atencion presencial",
+      "exclusion digital"
+    ],
+    "background": "La atención a distancia puede conectar a una persona con un servicio mediante teléfono o dispositivos, mientras que la atención presencial permite resolver gestiones cara a cara. La elección del canal influye en la autonomía y en las dificultades para acceder al apoyo.",
+    "example": "Por ejemplo, una persona mayor puede utilizar un aviso domiciliario para solicitar ayuda y necesitar atención presencial para una gestión bancaria o administrativa. Un canal digital puede resultar útil para unas tareas y ser una barrera para otras.",
+    "distinction": "Disponer de tecnología no garantiza que haya personal suficiente, respuesta rápida o acompañamiento. Mantener atención presencial tampoco obliga a renunciar a los servicios digitales: la pregunta plantea qué apoyo o alternativa se ofrece.",
+    "categoryIds": [
+      "mayores",
+      "medio-rural",
+      "administracion",
+      "discapacidad"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "turismo-capacidad",
+    "patterns": [
+      "masificacion",
+      "pisos turisticos",
+      "viviendas turisticas",
+      "nomadas digitales",
+      "plazas turisticas",
+      "gentrificacion"
+    ],
+    "background": "La actividad turística y las estancias temporales pueden generar ingresos y empleo, pero también aumentar la presión sobre vivienda, servicios y espacios. Las medidas de capacidad actúan sobre autorizaciones, plazas, usos de inmuebles o promoción de determinadas estancias.",
+    "example": "Por ejemplo, un barrio puede ganar visitantes mientras parte de sus viviendas se dedica a alquiler temporal. Limitar ese uso, regularlo o promover nuevos alojamientos son decisiones distintas, con efectos que dependen de las alternativas y del cumplimiento de las reglas.",
+    "distinction": "No debe confundirse limitar una modalidad de alojamiento con prohibir todo el turismo. También importa si la propuesta se refiere a residentes temporales, a visitantes de corta estancia o al uso residencial de los inmuebles.",
+    "categoryIds": [
+      "turismo",
+      "vivienda"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "turismo-modernizacion",
+    "patterns": [
+      "turismo",
+      "turistic",
+      "parador",
+      "destinos"
+    ],
+    "background": "La política turística puede actuar sobre promoción, infraestructuras, formación y conservación de destinos. Las propuestas de modernización pueden apoyar instalaciones o servicios públicos y privados; el efecto depende del tipo de turismo y de las características del lugar.",
+    "example": "Por ejemplo, un destino puede mejorar accesibilidad, transporte o eficiencia energética en alojamientos. Otra iniciativa puede recuperar un edificio para uso turístico. Aumentar visitantes no es el único resultado posible: también se puede buscar reducir estacionalidad o mejorar servicios.",
+    "distinction": "Conviene distinguir gastar en promoción, subvencionar empresas y financiar infraestructuras de uso compartido. Una inversión anunciada no garantiza por sí sola más empleo estable ni beneficios repartidos entre toda la población.",
+    "categoryIds": [
+      "turismo"
+    ],
+    "priority": 5
+  },
+  {
+    "id": "fauna-caza",
+    "patterns": [
+      "caza",
+      "furtivismo",
+      "especies invasoras",
+      "fauna silvestre"
+    ],
+    "background": "La gestión de fauna incluye conservación, seguimiento de poblaciones y reglas sobre actividades como la caza. Las especies invasoras pueden alterar ecosistemas; controlar sus poblaciones y decidir los métodos utilizados son cuestiones relacionadas, pero diferentes.",
+    "example": "Por ejemplo, una administración puede modificar una temporada de caza, reforzar vigilancia contra actividades ilegales o intervenir sobre una especie invasora. Cada actuación tiene objetivos, costes y posibles efectos distintos sobre los animales y el entorno.",
+    "distinction": "Prohibir una actividad, reducir su duración y sancionar el incumplimiento no son la misma medida. Tampoco cualquier intervención sobre fauna se justifica automáticamente por llamarla control: importan la evidencia, las alternativas y el método previsto.",
+    "categoryIds": [
+      "biodiversidad",
+      "bienestar-animal",
+      "sector-primario"
+    ],
+    "priority": 30
+  },
+  {
+    "id": "proteccion-animales",
+    "patterns": [
+      "animales",
+      "animal",
+      "perros",
+      "gatos",
+      "seres sintientes"
+    ],
+    "background": "La protección de los animales puede establecer obligaciones de cuidado y límites a prácticas que les causen daño. El alcance depende de los animales y actividades incluidos: compañía, trabajo, cría o utilización en determinadas actividades no siempre se regulan del mismo modo.",
+    "example": "Por ejemplo, una propuesta puede exigir cuidados veterinarios o incluir a perros de trabajo en una protección que antes los trataba de forma distinta. Otra puede limitar una práctica concreta. Incluir más animales no equivale por sí solo a prohibir cualquier relación con ellos.",
+    "distinction": "Reconocer que un animal puede sentir no le atribuye automáticamente todos los derechos de una persona. La pregunta se refiere a la obligación, exclusión o prohibición concreta que menciona; las consecuencias dependen de cómo se desarrolle.",
+    "categoryIds": [
+      "bienestar-animal"
+    ],
+    "priority": 5
+  },
+  {
+    "id": "derechos-autor",
+    "patterns": [
+      "derechos de autor",
+      "propiedad intelectual",
+      "uso de obras",
+      "licencias.*obra"
+    ],
+    "background": "Los derechos de autor regulan usos de obras como reproducción, distribución o comunicación pública. Pueden existir permisos, remuneraciones y excepciones para determinados fines. Una propuesta puede ampliar una excepción sin eliminar todos los derechos sobre la obra.",
+    "example": "Por ejemplo, utilizar fragmentos de una obra en investigación o enseñanza plantea una situación distinta de comercializar copias completas. La pregunta puede centrarse en permitir ciertos usos, reducir pagos o cambiar cómo se autoriza y compensa a los creadores.",
+    "distinction": "Acceso gratuito para el usuario y ausencia de remuneración para el autor no son necesariamente lo mismo. También conviene separar el derecho sobre una obra de la propiedad del soporte físico en que se encuentra.",
+    "categoryIds": [
+      "cultura",
+      "educacion"
+    ],
+    "priority": 45
+  },
+  {
+    "id": "transparencia-control",
+    "patterns": [
+      "publicarse",
+      "publicar",
+      "publicidad.*gasto",
+      "auditar",
+      "auditoria",
+      "rendicion de cuentas"
+    ],
+    "background": "La transparencia permite conocer cómo se toman decisiones y se utilizan recursos; una auditoría comprueba información y procedimientos. Publicar datos y revisarlos son tareas diferentes, aunque pueden complementarse para detectar errores o actuaciones irregulares.",
+    "example": "Por ejemplo, una administración puede hacer públicos gastos y contratos, y un órgano de control revisar si se ajustan a las reglas. Publicar un listado no prueba por sí solo que exista una irregularidad; una auditoría tampoco equivale a una condena penal.",
+    "distinction": "Importan el detalle, la accesibilidad de los datos, la independencia de quien revisa y qué se hace con los resultados. También pueden existir límites justificados por protección de datos o información sensible.",
+    "categoryIds": [
+      "buen-gobierno",
+      "fiscalidad",
+      "instituciones",
+      "industria",
+      "cooperacion",
+      "administracion"
+    ],
+    "priority": 20
+  },
+  {
+    "id": "puertas-giratorias",
+    "patterns": [
+      "altos cargos",
+      "puertas giratorias",
+      "incompatibilidades",
+      "vinculacion politica"
+    ],
+    "background": "Las incompatibilidades limitan actividades simultáneas o posteriores de quienes ocupan determinadas responsabilidades. Buscan gestionar conflictos entre el interés público y beneficios privados, mediante requisitos, prohibiciones temporales o reglas de abstención.",
+    "example": "Por ejemplo, se puede discutir si una persona que reguló un sector debe esperar antes de trabajar para una empresa de ese sector. Otra propuesta puede impedir acumular cargos o exigir no haber tenido determinada vinculación política.",
+    "distinction": "Un conflicto de intereses no demuestra por sí solo un delito, y cumplir una espera formal no elimina cualquier conflicto posible. Importan los puestos afectados, la duración del límite y qué relación debe existir entre la antigua función y la nueva actividad.",
+    "categoryIds": [
+      "buen-gobierno",
+      "instituciones",
+      "justicia"
+    ],
+    "priority": 45
+  },
+  {
+    "id": "nacionalidad",
+    "patterns": [
+      "nacionalidad",
+      "ciudadania exterior",
+      "descendientes de espanoles"
+    ],
+    "background": "La nacionalidad es un vínculo jurídico con un Estado y es distinta de residir legalmente en él. Las propuestas pueden modificar vías para adquirirla, conservarla o compatibilizarla con otra nacionalidad, con requisitos distintos según el supuesto.",
+    "example": "Por ejemplo, una medida puede dirigirse a descendientes de personas españolas y otra a quienes residen en España. Pedir acreditar una lengua o tiempo de residencia afecta a condiciones de acceso, pero no es lo mismo que regular un permiso de estancia.",
+    "distinction": "Una propuesta de doble nacionalidad no significa automáticamente que todas las personas de ambos países la obtengan. Hay que atender a la vía y a los requisitos descritos, sin extender una excepción a cualquier solicitante.",
+    "categoryIds": [
+      "exterior-ciudadania",
+      "cultura",
+      "seguridad"
+    ],
+    "priority": 40
+  },
+  {
+    "id": "libertad-expresion",
+    "patterns": [
+      "libertad de expresion",
+      "derecho a informar",
+      "censura",
+      "delitos de odio",
+      "injurias"
+    ],
+    "background": "La libertad de expresión y de información protege la comunicación de ideas y hechos, pero su relación con otros derechos genera debates sobre límites y responsabilidades. Una propuesta puede modificar sanciones, condiciones de difusión o garantías frente a restricciones.",
+    "example": "Por ejemplo, criticar una institución, publicar una información sobre una persona y amenazar a un colectivo son situaciones distintas. Revisar un delito o una sanción exige precisar qué conducta se incluye y qué protección tendría la persona afectada.",
+    "distinction": "Despenalizar una conducta no significa necesariamente eliminar toda responsabilidad por ella. Tampoco proteger frente a amenazas equivale a prohibir cualquier opinión molesta. El alcance concreto que describe la pregunta es lo que se está valorando.",
+    "categoryIds": [
+      "inteligencia-artificial",
+      "instituciones",
+      "constitucion",
+      "justicia"
+    ],
+    "priority": 35
   }
 ]
