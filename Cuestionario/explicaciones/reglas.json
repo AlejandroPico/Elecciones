@@ -2378,12 +2378,14 @@
   {
     "id": "fraude-fiscal",
     "patterns": [
-      "fraude",
+      "fraude fiscal",
       "evasion",
       "elusion",
       "haciendas",
       "delito fiscal",
-      "paraisos fiscales"
+      "paraisos fiscales",
+      "fraude.*tribut",
+      "fraude.*impuesto"
     ],
     "categoryIds": [
       "fiscalidad",
