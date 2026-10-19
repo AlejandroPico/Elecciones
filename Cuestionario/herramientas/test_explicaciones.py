@@ -53,6 +53,9 @@ class Explanations(unittest.TestCase):
             self.assertEqual(content["profile"],profile)
             self.assertIn(example_term,content["paragraphs"][2])
 
+    def test_tax_simplification_is_not_confused_with_paperwork(self):
+        self.assertNotEqual(self.actual["q-pp23-042-c"]["profile"],"tramites")
+
     def test_plain_language_keeps_negations_and_conjugates_relevant_verbs(self):
         self.assertEqual(editor.plain_statement("Las competencias deberían transferirse a otra institución."),"Se propone que las competencias se transfieran a otra institución.")
         self.assertEqual(editor.plain_statement("El euro digital no debería implantarse."),"Se propone que el euro digital no se implante.")
