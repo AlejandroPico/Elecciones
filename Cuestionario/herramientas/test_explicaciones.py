@@ -42,6 +42,17 @@ class Explanations(unittest.TestCase):
             self.assertIn(term,self.actual[qid]["paragraphs"][0])
             self.assertEqual(self.actual[qid]["profile"],"revision-individual")
 
+    def test_examples_follow_the_instrument_not_only_the_category(self):
+        cases={
+            "Los trámites para crear empresas deberían simplificarse.":("tramites","oficinas"),
+            "Deberían ofrecerse planes de acompañamiento a empresas que se internacionalizan.":("internacionalizacion","distribuidores"),
+        }
+        for statement,(profile,example_term) in cases.items():
+            question=next(q for q in self.bank["questions"] if q["statement"]==statement)
+            content=self.actual[question["id"]]
+            self.assertEqual(content["profile"],profile)
+            self.assertIn(example_term,content["paragraphs"][2])
+
     def test_plain_language_keeps_negations_and_conjugates_relevant_verbs(self):
         self.assertEqual(editor.plain_statement("Las competencias deberían transferirse a otra institución."),"Se propone que las competencias se transfieran a otra institución.")
         self.assertEqual(editor.plain_statement("El euro digital no debería implantarse."),"Se propone que el euro digital no se implante.")

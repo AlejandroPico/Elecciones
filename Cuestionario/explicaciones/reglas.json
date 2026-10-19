@@ -623,7 +623,8 @@
     "patterns": [
       "secretos oficiales",
       "informacion clasific",
-      "clasificacion.*document"
+      "clasificacion.*document",
+      "documentacion clasific"
     ],
     "background": "La información clasificada tiene acceso limitado por una razón de protección. Una propuesta puede cambiar quién clasifica, cuánto dura la reserva o cómo se revisa.",
     "example": "Un documento podría permanecer reservado un plazo y después revisarse. Cambiar el plazo o la autoridad no significa hacer público automáticamente cualquier documento.",
@@ -722,7 +723,8 @@
     "categoryIds": [
       "seguridad",
       "exteriores",
-      "cooperacion"
+      "cooperacion",
+      "exterior-ciudadania"
     ],
     "priority": 0
   },
@@ -732,7 +734,8 @@
       "ocupacion.*vivienda",
       "ocupacion ilegal",
       "desahuc",
-      "allanamiento"
+      "allanamiento",
+      "desocupar"
     ],
     "background": "Una entrada sin autorización, un impago de alquiler y una recuperación de la posesión pueden tener causas y procedimientos diferentes. Cambiar plazos no resuelve por sí solo todos esos supuestos.",
     "example": "En un caso termina un contrato y hay desacuerdo sobre la entrega; en otro se ha entrado sin autorización desde el principio. Tratar ambos igual oculta diferencias importantes.",
@@ -813,7 +816,8 @@
     "id": "economia-social",
     "patterns": [
       "economia social",
-      "cooperativa"
+      "cooperativa",
+      "cooperativ"
     ],
     "background": "La economía social incluye formas de organización que dan relevancia a fines sociales, participación o reglas específicas de gestión. No es otro nombre para toda empresa pública.",
     "example": "Una cooperativa puede pertenecer a quienes trabajan en ella o a quienes usan sus servicios. Apoyarla mediante financiación, asesoramiento o normas no la convierte necesariamente en entidad estatal.",
@@ -1490,5 +1494,457 @@
       "bienestar-animal"
     ],
     "priority": 0
+  },
+  {
+    "id": "tramites",
+    "patterns": [
+      "tramite",
+      "tramitacion",
+      "simplific",
+      "ventanilla",
+      "licencias"
+    ],
+    "background": "Los trámites son pasos para solicitar, acreditar o autorizar una actividad. Simplificarlos puede significar reunir gestiones, evitar documentos repetidos o acortar etapas. No equivale necesariamente a eliminar los requisitos que deben cumplirse.",
+    "example": "Una persona quiere abrir una actividad y dos oficinas le piden los mismos datos. Una reforma podría permitir entregarlos una sola vez o consultarlos entre administraciones. Eso es diferente de permitir cualquier actividad sin comprobar las condiciones.",
+    "distinction": "Hay que distinguir menos gestiones, menos requisitos y menos controles. La propuesta puede cambiar cómo se acredita una condición sin dejar de exigir que se cumpla.",
+    "categoryIds": [],
+    "priority": 20
+  },
+  {
+    "id": "credito-banca",
+    "patterns": [
+      "prestamo",
+      "credito",
+      "banca publica",
+      "banca.*privad"
+    ],
+    "background": "El crédito permite disponer ahora de recursos que deben devolverse conforme a unas condiciones. El origen público o privado de quien financia y las condiciones del préstamo son cuestiones diferentes.",
+    "example": "Un proyecto puede obtener un préstamo, recibir una ayuda que no debe devolver o incorporar a un inversor que participa en su propiedad. Son formas distintas de conseguir dinero, con riesgos y obligaciones diferentes.",
+    "distinction": "Importan el acceso, el coste, el plazo de devolución y quién asume una pérdida. Financiar sin intereses no significa necesariamente prestar sin exigir devolución.",
+    "categoryIds": [
+      "empresa",
+      "fiscalidad",
+      "industria"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "participacion-empresa",
+    "patterns": [
+      "trabajadores.*gestion",
+      "trabajadores.*capital",
+      "participacion.*trabajadores"
+    ],
+    "background": "La participación de trabajadores puede referirse a recibir información, intervenir en decisiones o ser propietarios de parte de la empresa. Una representación en un órgano y una participación económica no conceden necesariamente las mismas facultades.",
+    "example": "Una empresa puede consultar decisiones a su plantilla o permitir que esta tenga una parte de las acciones. En un caso cambia la intervención en decisiones; en el otro, también puede cambiar la relación con beneficios y pérdidas.",
+    "distinction": "Es importante distinguir consulta, voto, representación y propiedad. La participación en una de esas formas no supone automáticamente todas las demás.",
+    "categoryIds": [
+      "empresa",
+      "trabajo"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "competencia-mercados",
+    "patterns": [
+      "competencia.*mercad",
+      "monopol",
+      "oligopol",
+      "barreras.*entrada"
+    ],
+    "background": "La competencia de mercado se refiere a la posibilidad de que distintos operadores ofrezcan bienes y servicios. Facilitar que entren nuevas empresas y regular el comportamiento de las existentes son herramientas distintas.",
+    "example": "Si una actividad solo puede prestarla un operador, la entrada de otros puede depender de permisos o acceso a infraestructuras. Otra reforma podría mantener el número de operadores y controlar determinadas prácticas.",
+    "distinction": "Más operadores, menor concentración y mejores condiciones para consumidores no son resultados automáticamente equivalentes. La medida concreta define sobre qué parte del mercado se actúa.",
+    "categoryIds": [
+      "empresa",
+      "consumo",
+      "industria"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "productividad",
+    "patterns": [
+      "productividad"
+    ],
+    "background": "La productividad relaciona producción con recursos utilizados, como tiempo de trabajo o equipamiento. Aumentarla no significa necesariamente trabajar más horas ni reducir salarios: puede depender de organización, formación o tecnología.",
+    "example": "Dos equipos emplean el mismo tiempo, pero uno puede producir más unidades gracias a mejores herramientas. Otro cambio podría reducir recursos necesarios para obtener el mismo resultado.",
+    "distinction": "Medir productividad, asesorar sobre ella y decidir cómo se reparten sus posibles beneficios son cuestiones diferentes. Una propuesta de crear un órgano no garantiza por sí sola un aumento de producción.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "robotizacion",
+    "patterns": [
+      "robotiz",
+      "automatiz"
+    ],
+    "background": "Automatizar consiste en que una máquina o programa realice tareas que antes requerían intervención directa. Puede cambiar tareas, recursos necesarios y organización; no determina por sí solo cómo se reparten los resultados económicos.",
+    "example": "Una herramienta puede reducir tiempo de una gestión y permitir dedicarlo a otras tareas. Otra decisión es si ese ahorro se traduce en más producción, menos jornada o cambios de empleo.",
+    "distinction": "La adopción de una tecnología, sus efectos laborales y el reparto de sus beneficios son decisiones relacionadas pero distintas. Ninguna de esas consecuencias queda garantizada solo por instalarla.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "conectividad",
+    "patterns": [
+      "internet",
+      "banda ancha",
+      "conectividad",
+      "fibra",
+      "cobertura digital"
+    ],
+    "background": "La conectividad permite acceder a redes y servicios digitales. Tener una red cercana, poder contratarla y saber utilizarla son condiciones diferentes.",
+    "example": "Una población puede disponer de cobertura y una familia no poder pagar la conexión, o necesitar apoyo para usar un servicio. Invertir en la red, ayudar al pago y ofrecer formación actúan sobre problemas distintos.",
+    "distinction": "Importan velocidad, estabilidad, precio y accesibilidad. La cobertura anunciada no equivale por sí sola a un acceso efectivo para cualquier persona.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "impuestos-ambientales",
+    "patterns": [
+      "impuestos ambientales",
+      "fiscalidad.*ambiental",
+      "impuesto.*contamin"
+    ],
+    "background": "Un impuesto ambiental incorpora un coste económico a una actividad o consumo definido. Se diferencia de prohibirlo o de subvencionar una alternativa. Su diseño puede perseguir recaudación y cambios de comportamiento.",
+    "example": "Una actividad podría seguir permitida, pero afrontar un pago ligado a una característica ambiental. Otra política podría limitarla directamente o financiar una alternativa, con mecanismos distintos.",
+    "distinction": "Importan la base de cálculo, los sujetos afectados, las excepciones y el destino de los ingresos. Pagar un impuesto no elimina automáticamente el daño ni garantiza cambiar la conducta.",
+    "categoryIds": [
+      "fiscalidad",
+      "energia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "soledad",
+    "patterns": [
+      "soledad"
+    ],
+    "background": "La soledad no deseada se refiere a la falta de relaciones o apoyos que una persona desea tener. No equivale a vivir solo: alguien puede vivir acompañado y sentirse solo, o vivir solo sin sufrir esa situación.",
+    "example": "Una persona puede necesitar una red de contacto, actividades accesibles o apoyo para desplazarse y mantener relaciones. Una llamada periódica y un servicio de cuidados cubren necesidades distintas.",
+    "distinction": "Detectar la situación, ofrecer compañía y resolver barreras de acceso son actuaciones diferentes. La participación voluntaria y las preferencias personales importan.",
+    "categoryIds": [
+      "mayores",
+      "familia-infancia"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "prestaciones-renta",
+    "patterns": [
+      "ingreso minimo",
+      "renta basica",
+      "prestaciones sociales",
+      "ayudas.*emergencia",
+      "pobreza"
+    ],
+    "background": "Las prestaciones económicas aportan recursos a personas u hogares bajo unas condiciones. Una renta universal, una ayuda por insuficiencia de ingresos y una prestación de emergencia tienen destinatarios y requisitos distintos.",
+    "example": "Un hogar pierde ingresos y solicita apoyo. Una medida puede garantizar un mínimo, complementar otros ingresos o responder a una necesidad puntual. No son formas equivalentes de ayuda.",
+    "distinction": "Importan cuantía, unidad individual o familiar, duración y compatibilidad con otros ingresos. Tramitar una ayuda con más rapidez tampoco modifica por sí solo sus requisitos de acceso.",
+    "categoryIds": [
+      "familia-infancia",
+      "trabajo",
+      "mayores",
+      "discapacidad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "organos-independientes",
+    "patterns": [
+      "organismos independientes",
+      "autoridad independiente",
+      "nombramiento",
+      "comparecencia"
+    ],
+    "background": "La designación de responsables puede exigir experiencia, incompatibilidades, comparecencias o mayorías de apoyo. Cada requisito actúa sobre una parte distinta del nombramiento; ninguno garantiza por sí solo todas las dimensiones de independencia.",
+    "example": "Una persona candidata puede tener que explicar su trayectoria ante un órgano y después necesitar una mayoría para ser nombrada. Otra regla podría impedir determinadas vinculaciones previas.",
+    "distinction": "Hay que distinguir quién propone, quién elige, qué requisitos se exigen y cómo se controla después la actuación. Una comparecencia no es lo mismo que una elección directa.",
+    "categoryIds": [
+      "instituciones",
+      "buen-gobierno"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "sistema-electoral",
+    "patterns": [
+      "listas electorales",
+      "candidaturas",
+      "circunscrip",
+      "sistema electoral",
+      "escanos"
+    ],
+    "background": "Las reglas electorales determinan quién puede presentarse, cómo se emite el voto y cómo se convierte en representación. Una reforma de acceso a las listas no es la misma que un cambio en el reparto de escaños.",
+    "example": "Una candidatura puede necesitar cumplir requisitos para concurrir y después recibir una cantidad de votos. Otra regla determina cuántos puestos obtiene. Cambiar una fase no modifica automáticamente las demás.",
+    "distinction": "Presentación, voto, recuento y representación son piezas diferentes. También importa si la medida afecta a todas las candidaturas o solo a determinados supuestos.",
+    "categoryIds": [
+      "instituciones",
+      "legislacion"
+    ],
+    "priority": -5
+  },
+  {
+    "id": "financiacion-partidos",
+    "patterns": [
+      "subvenciones.*partidos",
+      "financiacion.*partidos",
+      "liberaciones sindicales"
+    ],
+    "background": "La financiación de organizaciones puede proceder de cuotas, aportaciones privadas o recursos públicos. Eliminar una fuente, limitar importes y exigir transparencia son decisiones distintas.",
+    "example": "Una organización puede recibir dinero para una actividad concreta y financiar otras mediante cuotas. Retirar un apoyo público no implica necesariamente prohibir que exista, pero sí cambia cómo obtiene recursos.",
+    "distinction": "Importan destinatarios, finalidad y controles. Una propuesta de consulta sobre financiación no equivale a que la eliminación ya esté decidida.",
+    "categoryIds": [
+      "instituciones",
+      "buen-gobierno"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "referendum",
+    "patterns": [
+      "referendum",
+      "referendos",
+      "consulta ciudadana"
+    ],
+    "background": "Una consulta permite expresar una posición sobre una pregunta; su efecto puede ser vinculante o consultivo según el diseño. Convocar una consulta y decidir cuál debe ser su resultado son cosas distintas.",
+    "example": "Una población puede ser consultada sobre una medida o sobre una cuestión de organización política. El procedimiento debe precisar quién participa, qué se pregunta y qué consecuencias tiene el resultado.",
+    "distinction": "Apoyar que se celebre una consulta no implica apoyar una de las respuestas. También importan el ámbito y los acuerdos o requisitos previos que mencione la propuesta.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "agenda-objetivos",
+    "patterns": [
+      "agenda 2030",
+      "desarrollo sostenible",
+      "\\bods\\b"
+    ],
+    "background": "La Agenda 2030 reúne objetivos internacionales de desarrollo sostenible. Un objetivo general y una política concreta para alcanzarlo son niveles diferentes: puede haber instrumentos distintos dirigidos al mismo objetivo.",
+    "example": "Para un objetivo sobre acceso a servicios pueden plantearse inversión, cambios organizativos o ayudas. Compartir ese objetivo no obliga necesariamente a apoyar cualquier instrumento que se vincule con él.",
+    "distinction": "La adhesión a un marco, la elección de medidas y la evaluación de sus resultados son decisiones diferentes. El marco no demuestra por sí solo que una medida específica produzca un resultado.",
+    "categoryIds": [],
+    "priority": 25
+  },
+  {
+    "id": "lenguas",
+    "patterns": [
+      "lenguas",
+      "linguistic",
+      "euskera",
+      "gallego",
+      "catalan",
+      "cooficial"
+    ],
+    "background": "Las políticas lingüísticas pueden referirse a uso en servicios públicos, enseñanza o reconocimiento institucional. El derecho de una persona a usar una lengua y los requisitos exigidos al personal de un servicio son cuestiones diferentes.",
+    "example": "Una persona solicita atención en una lengua y una oficina debe organizar cómo prestarla. Otra medida puede cambiar contenidos educativos o requisitos de acceso a un puesto.",
+    "distinction": "Reconocer una lengua no define automáticamente cada norma de uso. Importan el territorio, el servicio y el nivel de capacitación que se exige.",
+    "categoryIds": [
+      "territorio",
+      "educacion",
+      "exterior-ciudadania",
+      "administracion"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "repatriacion",
+    "patterns": [
+      "repatria",
+      "retorno voluntario",
+      "devolucion"
+    ],
+    "background": "El retorno o repatriación se refiere al traslado de una persona a otro país según el supuesto considerado. Un retorno voluntario, una expulsión y una medida de protección internacional tienen condiciones diferentes.",
+    "example": "Una persona puede solicitar apoyo para regresar y otra encontrarse con un procedimiento de salida obligatoria. Las garantías, la decisión y la colaboración entre países serían distintas.",
+    "distinction": "Hay que distinguir voluntariedad, situación administrativa y riesgos que requieran protección. Un acuerdo entre gobiernos no elimina por sí solo todas las condiciones de un caso individual.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "seguridad-personal",
+    "patterns": [
+      "policia",
+      "prision",
+      "cuerpos.*seguridad"
+    ],
+    "background": "La organización de seguridad puede cambiar medios, personal, formación y procedimientos. Dotar de equipamiento, conceder una facultad de actuación y modificar condiciones de trabajo son decisiones distintas.",
+    "example": "Un servicio puede necesitar más personal o un protocolo diferente para realizar su tarea. Una medida sobre salarios no otorga automáticamente nuevas facultades, y una nueva facultad no proporciona por sí sola los medios para ejercerla.",
+    "distinction": "Importan función, control, recursos y garantías. Las reglas de trabajo y las reglas para intervenir frente a la ciudadanía no deben confundirse.",
+    "categoryIds": [
+      "seguridad"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "asociacion-sindical",
+    "patterns": [
+      "sindicarse",
+      "derechos sindicales",
+      "asociacion.*militar"
+    ],
+    "background": "La asociación y la representación permiten organizar intereses y participar colectivamente en decisiones. Reconocer un derecho de asociación y regular sus formas de ejercicio son aspectos distintos.",
+    "example": "Un colectivo puede disponer de una organización representativa y debatir en qué asuntos interviene o qué acciones puede realizar. El reconocimiento no define automáticamente todas esas facultades.",
+    "distinction": "Importan los límites, las garantías y la naturaleza del servicio. Afiliación, representación, negociación y huelga no son sinónimos.",
+    "categoryIds": [],
+    "priority": 0
+  },
+  {
+    "id": "reconocimiento-deportivo",
+    "patterns": [
+      "selecciones",
+      "federaciones deportivas"
+    ],
+    "background": "El reconocimiento de una selección o federación afecta a su participación y a la organización deportiva. No equivale por sí solo a una decisión sobre reconocimiento político de un territorio.",
+    "example": "Una entidad puede buscar participar en competiciones bajo determinadas reglas de una organización deportiva. Su admisión depende también de las condiciones de esa organización.",
+    "distinction": "Participación, reconocimiento deportivo y financiación son cuestiones diferentes. La propuesta puede limitarse a las modalidades en las que se admite esa posibilidad.",
+    "categoryIds": [
+      "deporte"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "rehabilitacion-suelo",
+    "patterns": [
+      "rehabilit",
+      "suelo",
+      "urbanism",
+      "construccion de vivienda"
+    ],
+    "background": "El urbanismo organiza usos del suelo y condiciones para construir o transformar espacios. Rehabilitar mejora inmuebles existentes; urbanizar o construir actúa sobre otras fases.",
+    "example": "Un municipio puede recuperar un edificio vacío o habilitar suelo para nuevas viviendas. Son operaciones distintas y requieren recursos, permisos y plazos diferentes.",
+    "distinction": "Disponer de suelo no equivale a tener viviendas terminadas. Los usos permitidos, la conservación, la financiación y las condiciones de acceso influyen en el resultado.",
+    "categoryIds": [
+      "vivienda"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "acceso-prestaciones-salud",
+    "patterns": [
+      "tarjeta sanitaria",
+      "cobertura.*sanitari",
+      "cobertura.*publica",
+      "atencion.*sanitaria"
+    ],
+    "background": "El acceso sanitario comprende quién recibe una prestación, qué atención se ofrece y con qué condiciones. Ampliar cobertura, coordinar una tarjeta y mejorar disponibilidad de profesionales son cambios diferentes.",
+    "example": "Una persona puede estar incluida en el servicio y encontrar dificultades de atención, o necesitar que su documentación sea reconocida en otro centro. La cobertura formal y la atención efectiva no son idénticas.",
+    "distinction": "Importan personas incluidas, prestaciones y requisitos. Una propuesta administrativa no determina por sí sola la eficacia de un tratamiento ni sustituye una valoración clínica.",
+    "categoryIds": [
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "vacunacion",
+    "patterns": [
+      "vacun"
+    ],
+    "background": "Una campaña de vacunación combina una intervención sanitaria con organización, acceso e información. Coordinar su despliegue no equivale a decidir sin más qué vacuna necesita una persona concreta.",
+    "example": "Una actuación puede fijar cómo se organizan citas, recursos e información entre territorios. Otra cuestión es la indicación de una intervención para una población y sus condiciones sanitarias.",
+    "distinction": "Debe distinguirse coordinación administrativa, evaluación sanitaria y decisión individual. La propuesta política no sustituye la valoración clínica ni establece por sí sola resultados garantizados.",
+    "categoryIds": [
+      "salud"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "propiedad-gestion",
+    "patterns": [
+      "dominio.*public",
+      "titularidad.*public",
+      "propiedad.*public"
+    ],
+    "background": "La propiedad identifica a quien pertenece un bien; la gestión determina quién lo utiliza, mantiene o dirige. Pueden coincidir o estar separadas mediante un acuerdo.",
+    "example": "Un edificio puede ser público y tener una gestión encargada a otra entidad. Cambiar titularidad no resuelve por sí solo cómo se conserva, se usa o se permite su acceso.",
+    "distinction": "Recuperar dominio, modificar gestión y regular uso son actuaciones distintas. La propuesta debe interpretarse con el alcance patrimonial o de servicio que plantea.",
+    "categoryIds": [
+      "propiedad",
+      "cultura",
+      "infraestructuras"
+    ],
+    "priority": 0
+  },
+  {
+    "id": "internacionalizacion",
+    "patterns": [
+      "internacionaliz",
+      "exporta",
+      "mercados exteriores"
+    ],
+    "background": "Internacionalizar una empresa significa desarrollar su actividad en otros países. Puede necesitar información sobre normas, clientes, distribución o contratación. Acompañar en ese proceso es distinto de financiar directamente cada venta.",
+    "example": "Una empresa que vende en su zona quiere comercializar su producto en otro país. Puede necesitar adaptar etiquetas, conocer requisitos y encontrar distribuidores. Un plan de asesoramiento puede ayudar en esos pasos sin sustituir por ello todas sus decisiones ni asumir todos sus costes.",
+    "distinction": "Asesoramiento, financiación, promoción y acuerdos comerciales son instrumentos diferentes. Ampliar la presencia exterior no garantiza por sí solo ventas o rentabilidad.",
+    "categoryIds": [
+      "empresa",
+      "industria",
+      "sector-primario"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "comercio-digital",
+    "patterns": [
+      "comercio electronico",
+      "venta.*digital",
+      "venta.*online"
+    ],
+    "background": "El comercio electrónico permite ofrecer o contratar productos y servicios mediante canales digitales. Abrir una tienda en línea, adaptar pagos y organizar entregas son tareas relacionadas, pero distintas.",
+    "example": "Un negocio quiere vender por internet y necesita catálogo, cobro y distribución. Puede recibir formación o apoyo técnico para alguna de esas partes sin que se financie toda su actividad.",
+    "distinction": "Acceso tecnológico, información del contrato y protección del comprador son dimensiones diferentes. Abrir un canal digital no elimina otras obligaciones del negocio.",
+    "categoryIds": [
+      "empresa",
+      "industria",
+      "sector-primario"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "emprendimiento",
+    "patterns": [
+      "emprendedor",
+      "emprendimiento",
+      "empresas de nueva creacion",
+      "empresa emergente"
+    ],
+    "background": "El emprendimiento consiste en poner en marcha una actividad. Puede apoyarse mediante formación, asesoramiento, financiación o cambios en requisitos. Cada herramienta cubre una necesidad distinta.",
+    "example": "Una persona conoce su oficio y quiere iniciar un negocio, pero necesita preparar un plan, cumplir trámites y conseguir recursos. Una mentoría puede ayudar con decisiones y un préstamo con dinero que deberá devolver.",
+    "distinction": "Empezar una actividad y hacer crecer una existente no son situaciones idénticas. El acceso al apoyo, la duración y el tipo de riesgo asumido delimitan la propuesta.",
+    "categoryIds": [
+      "empresa",
+      "industria",
+      "sector-primario"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "crecimiento-empresa",
+    "patterns": [
+      "crecimiento.*empresa",
+      "crecimiento empresarial",
+      "empresas en expansion"
+    ],
+    "background": "El crecimiento puede aumentar ventas, plantilla o capacidad productiva, y generar necesidades distintas de las del inicio. Los requisitos, la financiación y la gestión no cambian necesariamente al mismo tiempo.",
+    "example": "Una empresa amplía su equipo y entra en una nueva etapa de actividad. Puede necesitar formación de gestión o cumplir nuevas obligaciones al superar un umbral. Un apoyo transitorio actúa sobre ese cambio, no sobre cualquier gasto de forma permanente.",
+    "distinction": "Hay que distinguir facilitar el crecimiento, retrasar obligaciones y reducirlas definitivamente. Importan los umbrales, los plazos y las condiciones de acceso.",
+    "categoryIds": [
+      "empresa",
+      "industria",
+      "sector-primario"
+    ],
+    "priority": 10
+  },
+  {
+    "id": "contratacion-publica",
+    "patterns": [
+      "contratacion publica",
+      "contratos publicos",
+      "licitacion"
+    ],
+    "background": "La contratación pública organiza cómo una administración obtiene bienes, obras o servicios. Elegir quién puede participar, con qué criterios se comparan ofertas y cómo se comprueba el cumplimiento son fases diferentes.",
+    "example": "Una administración necesita un servicio y recibe varias ofertas. Puede valorar precio, calidad u otros criterios definidos. Exigir una condición para participar no es lo mismo que darle puntos al comparar ofertas.",
+    "distinction": "La publicidad, la competencia entre ofertas y la supervisión posterior son partes distintas. Incluir una condición no garantiza por sí solo que se cumpla sin comprobación.",
+    "categoryIds": [],
+    "priority": 10
   }
 ]

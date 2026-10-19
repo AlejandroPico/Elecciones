@@ -94,14 +94,21 @@ export default function PoliticalMap({
       : second
         ? second.answer.value! * 50
         : null;
+  const scoped = (entry: typeof first | undefined) =>
+    entry
+      ? entry.question.text +
+        (entry.question.scope
+          ? ` · Ámbito: ${entry.question.scope.territory} (${entry.question.scope.sourceElection})`
+          : "")
+      : null;
   const xLabel =
     mode === "themes"
       ? map.x.label
-      : (first?.question.text ?? "Primera propuesta respondida");
+      : (scoped(first) ?? "Primera propuesta respondida");
   const yLabel =
     mode === "themes"
       ? map.y.label
-      : (second?.question.text ?? "Segunda propuesta pendiente");
+      : (scoped(second) ?? "Segunda propuesta pendiente");
   const points = bank.parties.map((p) => {
     const x =
       mode === "themes"
@@ -324,7 +331,9 @@ export default function PoliticalMap({
           >
             <circle r="25" className="user-position-pulse" />
             <circle r="19" className="user-position-ring" />
-            <path d="M-8 0H8 M0-8V8" />
+            {!points.some(
+              (p) => p.x.value === xUser && p.y.value === yUser,
+            ) && <path d="M-8 0H8 M0-8V8" />}
             <text
               x={xUser > 75 ? -32 : 32}
               y={yUser > 75 ? 32 : -28}
