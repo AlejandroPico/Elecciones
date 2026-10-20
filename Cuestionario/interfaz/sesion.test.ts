@@ -8,6 +8,7 @@ import {
   sessionQuestions,
   uniqueResponses,
   userAxis,
+  documentaryAxis,
   type SessionQuestion,
 } from "./sesion";
 
@@ -86,6 +87,76 @@ describe("sesiones por temas", () => {
   });
 });
 describe("perfil parcial y trazable", () => {
+  it("un 92 % con dos de treinta no se convierte en afinidad global", () => {
+    const qs = Array.from({ length: 30 }, (_, i) =>
+      q(`p${i}`, i < 2 ? 2 : null),
+    );
+    const answers = Object.fromEntries(
+      qs.map((q, i) => [
+        q.id,
+        { value: i === 1 ? 1 : 2, importance: (i === 0 ? 2 : 1) as 1 | 2 | 3 },
+      ]),
+    );
+    const result = compare(answers, "p", undefined, qs);
+    expect(result.shared).toBe(2);
+    expect(result.answered).toBe(30);
+    expect(result.percent).toBeCloseTo(91.6666667);
+    expect(result.coverage).toBeCloseTo(100 / 15);
+    expect(result.totalWeight).toBe(31);
+    expect(result.unknownWeight).toBe(28);
+    expect(result.overallRange![0]).toBeCloseTo((100 * 2.75) / 31);
+    expect(result.overallRange![1]).toBeCloseTo((100 * 30.75) / 31);
+    expect(result.overallRange![1] - result.overallRange![0]).toBeGreaterThan(
+      90,
+    );
+  });
+  it("los límites se cierran con cobertura completa; neutral no equivale a ausencia", () => {
+    const qs = [q("a", 2), q("b", -2)];
+    const result = compare(
+      { a: { value: 0, importance: 1 }, b: { value: -1, importance: 2 } },
+      "p",
+      undefined,
+      qs,
+    );
+    expect(result.overallRange![0]).toBeCloseTo(result.percent!);
+    expect(result.overallRange![1]).toBeCloseTo(result.percent!);
+    expect(result.unknownWeight).toBe(0);
+    const unknown = compare(
+      { a: { value: 2, importance: 1 } },
+      "missing",
+      undefined,
+      qs,
+    );
+    expect(unknown.percent).toBeNull();
+    expect(unknown.overallRange).toEqual([0, 100]);
+  });
+  it("una ambigüedad y una contradicción no se resuelven por mayoría de variantes", () => {
+    const axis = {
+      label: "test",
+      indicators: [{ label: "a", questionIds: ["a", "b"], direction: 1 }],
+    };
+    expect(
+      documentaryAxis("p", axis, [q("a", 2), q("b", null)]).value,
+    ).toBeNull();
+    expect(
+      documentaryAxis("p", axis, [q("a", 2), q("b", -2)]).value,
+    ).toBeNull();
+    expect(documentaryAxis("p", axis, [q("a", 2), q("b", 2)]).value).toBe(100);
+  });
+  it("un programa autonómico no se proyecta a un índice nacional", () => {
+    const territorial = {
+      ...q("regional", 2),
+      scope: { territory: "Castilla y León", sourceElection: "2026" },
+    };
+    const axis = {
+      label: "test",
+      indicators: [{ label: "r", questionIds: ["regional"], direction: 1 }],
+    };
+    const a = { regional: { value: 2, importance: 1 as const } };
+    expect(userAxis(a, axis, [territorial]).value).toBeNull();
+    expect(documentaryAxis("p", axis, [territorial]).value).toBeNull();
+    expect(compare(a, "p", undefined, [territorial]).percent).toBe(100);
+  });
   it("calcula desde la primera respuesta y pondera normal, alta y esencial", () => {
     const qs = [q("a", 2), q("b", -2), q("unknown", null)];
     expect(

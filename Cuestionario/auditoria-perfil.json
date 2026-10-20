@@ -1,0 +1,458 @@
+{
+  "date": "2026-10-20",
+  "bankVersion": "0.8.0",
+  "indexVersion": "1.0.0",
+  "questions": 5861,
+  "parties": 22,
+  "possiblePositions": 128942,
+  "knownPositions": 6079,
+  "matrixCoverage": 4.714522808704689,
+  "supportCodes": 6013,
+  "oppositionCodes": 66,
+  "multiPartyQuestions": 245,
+  "mappedQuestions": 124,
+  "unmappedQuestions": 5737,
+  "maps": 9,
+  "partyCoverage": [
+    {
+      "id": "pp",
+      "name": "PP",
+      "known": 642,
+      "supports": 637,
+      "opposes": 5,
+      "mapped": 16,
+      "territorial": 0
+    },
+    {
+      "id": "psoe",
+      "name": "PSOE",
+      "known": 946,
+      "supports": 943,
+      "opposes": 3,
+      "mapped": 20,
+      "territorial": 0
+    },
+    {
+      "id": "vox",
+      "name": "Vox",
+      "known": 509,
+      "supports": 479,
+      "opposes": 30,
+      "mapped": 14,
+      "territorial": 0
+    },
+    {
+      "id": "erc",
+      "name": "ERC",
+      "known": 399,
+      "supports": 397,
+      "opposes": 2,
+      "mapped": 10,
+      "territorial": 0
+    },
+    {
+      "id": "junts",
+      "name": "Junts",
+      "known": 354,
+      "supports": 353,
+      "opposes": 1,
+      "mapped": 13,
+      "territorial": 0
+    },
+    {
+      "id": "eh-bildu",
+      "name": "EH Bildu",
+      "known": 96,
+      "supports": 94,
+      "opposes": 2,
+      "mapped": 6,
+      "territorial": 0
+    },
+    {
+      "id": "pnv",
+      "name": "PNV",
+      "known": 230,
+      "supports": 225,
+      "opposes": 5,
+      "mapped": 13,
+      "territorial": 0
+    },
+    {
+      "id": "bng",
+      "name": "BNG",
+      "known": 279,
+      "supports": 273,
+      "opposes": 6,
+      "mapped": 18,
+      "territorial": 0
+    },
+    {
+      "id": "pacma",
+      "name": "PACMA",
+      "known": 251,
+      "supports": 250,
+      "opposes": 1,
+      "mapped": 9,
+      "territorial": 0
+    },
+    {
+      "id": "registro-4086",
+      "name": "Escaños en Blanco",
+      "known": 3,
+      "supports": 3,
+      "opposes": 0,
+      "mapped": 0,
+      "territorial": 0
+    },
+    {
+      "id": "registro-6359",
+      "name": "Frente Obrero",
+      "known": 172,
+      "supports": 169,
+      "opposes": 3,
+      "mapped": 4,
+      "territorial": 0
+    },
+    {
+      "id": "registro-6040",
+      "name": "PCTE",
+      "known": 90,
+      "supports": 88,
+      "opposes": 2,
+      "mapped": 2,
+      "territorial": 0
+    },
+    {
+      "id": "registro-7400",
+      "name": "Iustitia Europa",
+      "known": 112,
+      "supports": 111,
+      "opposes": 1,
+      "mapped": 8,
+      "territorial": 0
+    },
+    {
+      "id": "registro-7458",
+      "name": "Se Acabó La Fiesta",
+      "known": 160,
+      "supports": 160,
+      "opposes": 0,
+      "mapped": 0,
+      "territorial": 160
+    },
+    {
+      "id": "podemos",
+      "name": "Podemos",
+      "known": 604,
+      "supports": 603,
+      "opposes": 1,
+      "mapped": 13,
+      "territorial": 0
+    },
+    {
+      "id": "registro-6972",
+      "name": "Soria ¡Ya!",
+      "known": 90,
+      "supports": 90,
+      "opposes": 0,
+      "mapped": 0,
+      "territorial": 0
+    },
+    {
+      "id": "registro-6779",
+      "name": "Teruel Existe",
+      "known": 117,
+      "supports": 116,
+      "opposes": 1,
+      "mapped": 1,
+      "territorial": 0
+    },
+    {
+      "id": "registro-6620",
+      "name": "Adelante Andalucía",
+      "known": 284,
+      "supports": 283,
+      "opposes": 1,
+      "mapped": 1,
+      "territorial": 0
+    },
+    {
+      "id": "registro-7039",
+      "name": "Drago Canarias",
+      "known": 154,
+      "supports": 153,
+      "opposes": 1,
+      "mapped": 0,
+      "territorial": 154
+    },
+    {
+      "id": "coalicion-d21-2026",
+      "name": "democracia21",
+      "known": 51,
+      "supports": 51,
+      "opposes": 0,
+      "mapped": 12,
+      "territorial": 0
+    },
+    {
+      "id": "cc",
+      "name": "Coalición Canaria",
+      "known": 84,
+      "supports": 84,
+      "opposes": 0,
+      "mapped": 0,
+      "territorial": 0
+    },
+    {
+      "id": "sumar-coalicion-2023",
+      "name": "Sumar · programa 2023",
+      "known": 452,
+      "supports": 451,
+      "opposes": 1,
+      "mapped": 12,
+      "territorial": 0
+    }
+  ],
+  "categoryCoverage": [
+    {
+      "id": "empresa",
+      "title": "Empresa competencia y conocimiento",
+      "questions": 189,
+      "mapped": 0
+    },
+    {
+      "id": "trabajo",
+      "title": "Trabajo pensiones y protección social",
+      "questions": 380,
+      "mapped": 6
+    },
+    {
+      "id": "igualdad-laboral",
+      "title": "Igualdad laboral",
+      "questions": 86,
+      "mapped": 0
+    },
+    {
+      "id": "inteligencia-artificial",
+      "title": "Inteligencia artificial",
+      "questions": 94,
+      "mapped": 0
+    },
+    {
+      "id": "fiscalidad",
+      "title": "Fiscalidad y evaluación del gasto",
+      "questions": 253,
+      "mapped": 16
+    },
+    {
+      "id": "industria",
+      "title": "Industria y fondos europeos",
+      "questions": 149,
+      "mapped": 0
+    },
+    {
+      "id": "sector-primario",
+      "title": "Agricultura pesca y montes",
+      "questions": 252,
+      "mapped": 0
+    },
+    {
+      "id": "biodiversidad",
+      "title": "Medio ambiente caza y biodiversidad",
+      "questions": 145,
+      "mapped": 0
+    },
+    {
+      "id": "medio-rural",
+      "title": "Medio rural y despoblación",
+      "questions": 68,
+      "mapped": 0
+    },
+    {
+      "id": "infraestructuras",
+      "title": "Infraestructuras y movilidad",
+      "questions": 245,
+      "mapped": 0
+    },
+    {
+      "id": "vivienda",
+      "title": "Vivienda y urbanismo",
+      "questions": 207,
+      "mapped": 6
+    },
+    {
+      "id": "turismo",
+      "title": "Turismo y hostelería",
+      "questions": 60,
+      "mapped": 0
+    },
+    {
+      "id": "agua",
+      "title": "Agua y ecosistemas acuáticos",
+      "questions": 105,
+      "mapped": 0
+    },
+    {
+      "id": "energia",
+      "title": "Energía",
+      "questions": 226,
+      "mapped": 4
+    },
+    {
+      "id": "salud",
+      "title": "Salud y decisiones sanitarias",
+      "questions": 380,
+      "mapped": 0
+    },
+    {
+      "id": "educacion",
+      "title": "Educación y universidades",
+      "questions": 412,
+      "mapped": 7
+    },
+    {
+      "id": "familia-infancia",
+      "title": "Familias infancia y adolescencia",
+      "questions": 258,
+      "mapped": 0
+    },
+    {
+      "id": "mayores",
+      "title": "Mayores y atención sociosanitaria",
+      "questions": 85,
+      "mapped": 0
+    },
+    {
+      "id": "discapacidad",
+      "title": "Discapacidad y accesibilidad",
+      "questions": 80,
+      "mapped": 0
+    },
+    {
+      "id": "violencia-mujeres",
+      "title": "Violencia contra las mujeres",
+      "questions": 107,
+      "mapped": 0
+    },
+    {
+      "id": "lgtbi",
+      "title": "Derechos de personas LGTBI",
+      "questions": 66,
+      "mapped": 3
+    },
+    {
+      "id": "instituciones",
+      "title": "Instituciones y órganos independientes",
+      "questions": 160,
+      "mapped": 0
+    },
+    {
+      "id": "constitucion",
+      "title": "Constitución memoria y libertad religiosa",
+      "questions": 38,
+      "mapped": 0
+    },
+    {
+      "id": "legislacion",
+      "title": "Elaboración de leyes y participación",
+      "questions": 50,
+      "mapped": 0
+    },
+    {
+      "id": "justicia",
+      "title": "Justicia y protección de derechos",
+      "questions": 203,
+      "mapped": 1
+    },
+    {
+      "id": "buen-gobierno",
+      "title": "Control del Gobierno",
+      "questions": 103,
+      "mapped": 68
+    },
+    {
+      "id": "territorio",
+      "title": "Cooperación y financiación territorial",
+      "questions": 146,
+      "mapped": 7
+    },
+    {
+      "id": "seguridad",
+      "title": "Seguridad terrorismo y fronteras",
+      "questions": 269,
+      "mapped": 0
+    },
+    {
+      "id": "propiedad",
+      "title": "Ocupación ilegal y propiedad",
+      "questions": 32,
+      "mapped": 0
+    },
+    {
+      "id": "administracion",
+      "title": "Administración y empleo público",
+      "questions": 175,
+      "mapped": 0
+    },
+    {
+      "id": "union-europea",
+      "title": "Unión Europea",
+      "questions": 92,
+      "mapped": 3
+    },
+    {
+      "id": "iberoamerica",
+      "title": "Relaciones iberoamericanas",
+      "questions": 22,
+      "mapped": 0
+    },
+    {
+      "id": "exteriores",
+      "title": "Política exterior",
+      "questions": 99,
+      "mapped": 0
+    },
+    {
+      "id": "defensa",
+      "title": "Defensa",
+      "questions": 64,
+      "mapped": 3
+    },
+    {
+      "id": "cooperacion",
+      "title": "Cooperación al desarrollo",
+      "questions": 59,
+      "mapped": 0
+    },
+    {
+      "id": "exterior-ciudadania",
+      "title": "Españoles en el exterior",
+      "questions": 31,
+      "mapped": 0
+    },
+    {
+      "id": "cultura",
+      "title": "Cultura y patrimonio",
+      "questions": 193,
+      "mapped": 0
+    },
+    {
+      "id": "deporte",
+      "title": "Deporte",
+      "questions": 65,
+      "mapped": 0
+    },
+    {
+      "id": "consumo",
+      "title": "Consumo y derechos de usuarios",
+      "questions": 86,
+      "mapped": 0
+    },
+    {
+      "id": "bienestar-animal",
+      "title": "Bienestar animal",
+      "questions": 127,
+      "mapped": 0
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+REVISIÓN DEL MODELO DE PERFIL · 20 DE OCTUBRE DE 2026
+
+Diagnóstico: el gráfico personal anterior escogía solo dos preguntas y convertía cada respuesta en valor × 50. Eso producía exactamente −100, −50, 0, +50 o +100 y excluía al partido sin evidencia en cualquiera de esas dos decisiones.
+No era una síntesis del tema ni del programa. La otra vista utilizaba otros indicadores y el gráfico de coincidencia representaba magnitudes distintas. Mezclar las tres presentaciones creaba una falsa impresión de precisión.
+
+BASE REAL: 5861 formulaciones, 22 organizaciones y 128942 cruces posibles. Solo 6079 posiciones tienen evidencia (4.71 %). 6013 son respaldos y 66 oposiciones. Solo 245 formulaciones tienen posición documentada de al menos dos partidos.
+El respaldo +2 se ha usado para codificar que una propuesta consta en el documento. No acredita intensidad, radicalidad ni una escala ideológica calibrada. El número de preguntas extraídas tampoco mide representatividad electoral ni calidad del programa.
+ASIGNACIÓN: 124 preguntas están vinculadas a 9 mapas de indicadores; 5737 todavía no. Las 40 categorías de preguntas no equivalen a 40 mapas ideológicos ya construidos.
+
+CORRECCIÓN APLICADA:
+1. Se retira el cruce de dos preguntas. Perfil y coordenadas documentales usan el mismo catálogo fijo de índices. La posición documental no depende del sorteo o de las opiniones del usuario.
+2. La posición del usuario es la media ponderada de indicadores: 100 × suma(valor_del_indicador × peso) / suma(pesos), con valor normalizado en −1..1 y pesos 1, 2 o 3. No se cuantiza a múltiplos de 50. Las variantes de un indicador no multiplican su influencia.
+3. La media documental usa una vez cada indicador conocido. Una discrepancia de variantes se excluye; los documentos territoriales no se proyectan a índices nacionales. Ni una familia temática ni la etiqueta ideológica transfieren una postura a otro partido.
+4. Control del Gobierno incorpora indicadores de transparencia y fiscalización, y de límites e incompatibilidades. No se afirma que compartir esos compromisos vuelva equivalentes a sus partidos. Si coinciden, comparten punto; no se inventa dispersión.
+5. El porcentaje de coincidencia es PARCIAL: 100 × (1 − suma(peso × |respuesta − posición| / 4) / suma(pesos comparables)). No usa como denominador las respuestas que no pueden compararse.
+6. Cobertura = decisiones comparables / decisiones respondidas. Dos de treinta son un 6,67 % de cobertura; una coincidencia del 92 % solo describe esas dos, no el conjunto.
+7. Para todas las respuestas se muestran límites de identificación: acuerdo ponderado conocido / peso total hasta (acuerdo conocido + peso desconocido) / peso total. No son un intervalo de confianza, ni se sustituyen datos ausentes por cero ni por una puntuación central inventada.
+8. La barra distingue los cinco valores de respuesta: rojo intenso, rojo suave, gris, verde suave y verde intenso; la importancia mantiene el grosor.
+
+LO QUE SIGUE SIN ESTAR RESUELTO:
+Falta construir una matriz común de decisiones comparables para todos los programas y ampliar las asignaciones a ejes. Descargar y resumir un programa no completa esa matriz. Este cambio corrige la presentación y el cálculo de índices parciales; no convierte el corpus en un test ideológico completo o validado.
+Los programas históricos, permanentes, generales y autonómicos conservan fechas y ámbitos. La ausencia de codificación no prueba que una organización carezca de posición. Los códigos propuestos y las equivalencias editoriales requieren contraste de pasajes, condiciones y alcances antes de ampliar la comparación.
+
+COBERTURA NATIVA POR ORGANIZACIÓN:
+Organización | posiciones con evidencia | respaldos | oposiciones | asignadas a índices | territoriales
+PP | 642 | 637 | 5 | 16 | 0
+PSOE | 946 | 943 | 3 | 20 | 0
+Vox | 509 | 479 | 30 | 14 | 0
+ERC | 399 | 397 | 2 | 10 | 0
+Junts | 354 | 353 | 1 | 13 | 0
+EH Bildu | 96 | 94 | 2 | 6 | 0
+PNV | 230 | 225 | 5 | 13 | 0
+BNG | 279 | 273 | 6 | 18 | 0
+PACMA | 251 | 250 | 1 | 9 | 0
+Escaños en Blanco | 3 | 3 | 0 | 0 | 0
+Frente Obrero | 172 | 169 | 3 | 4 | 0
+PCTE | 90 | 88 | 2 | 2 | 0
+Iustitia Europa | 112 | 111 | 1 | 8 | 0
+Se Acabó La Fiesta | 160 | 160 | 0 | 0 | 160
+Podemos | 604 | 603 | 1 | 13 | 0
+Soria ¡Ya! | 90 | 90 | 0 | 0 | 0
+Teruel Existe | 117 | 116 | 1 | 1 | 0
+Adelante Andalucía | 284 | 283 | 1 | 1 | 0
+Drago Canarias | 154 | 153 | 1 | 0 | 154
+democracia21 | 51 | 51 | 0 | 12 | 0
+Coalición Canaria | 84 | 84 | 0 | 0 | 0
+Sumar · programa 2023 | 452 | 451 | 1 | 12 | 0
+
+ASIGNACIÓN POR CATEGORÍA:
+Categoría | formulaciones | con eje asignado
+Empresa competencia y conocimiento | 189 | 0
+Trabajo pensiones y protección social | 380 | 6
+Igualdad laboral | 86 | 0
+Inteligencia artificial | 94 | 0
+Fiscalidad y evaluación del gasto | 253 | 16
+Industria y fondos europeos | 149 | 0
+Agricultura pesca y montes | 252 | 0
+Medio ambiente caza y biodiversidad | 145 | 0
+Medio rural y despoblación | 68 | 0
+Infraestructuras y movilidad | 245 | 0
+Vivienda y urbanismo | 207 | 6
+Turismo y hostelería | 60 | 0
+Agua y ecosistemas acuáticos | 105 | 0
+Energía | 226 | 4
+Salud y decisiones sanitarias | 380 | 0
+Educación y universidades | 412 | 7
+Familias infancia y adolescencia | 258 | 0
+Mayores y atención sociosanitaria | 85 | 0
+Discapacidad y accesibilidad | 80 | 0
+Violencia contra las mujeres | 107 | 0
+Derechos de personas LGTBI | 66 | 3
+Instituciones y órganos independientes | 160 | 0
+Constitución memoria y libertad religiosa | 38 | 0
+Elaboración de leyes y participación | 50 | 0
+Justicia y protección de derechos | 203 | 1
+Control del Gobierno | 103 | 68
+Cooperación y financiación territorial | 146 | 7
+Seguridad terrorismo y fronteras | 269 | 0
+Ocupación ilegal y propiedad | 32 | 0
+Administración y empleo público | 175 | 0
+Unión Europea | 92 | 3
+Relaciones iberoamericanas | 22 | 0
+Política exterior | 99 | 0
+Defensa | 64 | 3
+Cooperación al desarrollo | 59 | 0
+Españoles en el exterior | 31 | 0
+Cultura y patrimonio | 193 | 0
+Deporte | 65 | 0
+Consumo y derechos de usuarios | 86 | 0
+Bienestar animal | 127 | 0

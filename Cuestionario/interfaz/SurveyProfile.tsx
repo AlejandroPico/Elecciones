@@ -4,6 +4,8 @@ import EvidenceLinks from "./EvidenceLinks";
 import type { Answers } from "../../Elecciones/interfaz/perfil/model";
 import { logos } from "../../Partidos/interfaz/catalogo";
 import { colors } from "./model";
+import audit from "../auditoria-perfil.json";
+import auditReport from "../Revisión del modelo.txt?url&no-inline";
 import { bank, compare, uniqueResponses } from "./sesion";
 
 const labels: Record<number, string> = {
@@ -14,7 +16,9 @@ const labels: Record<number, string> = {
   2: "Muy de acuerdo",
 };
 const rounded = (n: number | null) =>
-  n === null ? "Sin datos" : `${Math.round(n)} %`;
+  n === null
+    ? "Sin datos"
+    : `${new Intl.NumberFormat("es", { maximumFractionDigits: 1 }).format(n)} %`;
 
 export default function SurveyProfile({
   answers,
@@ -27,7 +31,6 @@ export default function SurveyProfile({
 }) {
   const [category, setCategory] = useState("");
   const [requestedParty, setPartyId] = useState<string | null>(null);
-  const [hover, setHover] = useState<string | null>(null);
   const responded = uniqueResponses(answers);
   const answered = responded.filter((r) => r.answer.value !== null).length;
   const rows = bank.parties.map((p) => ({
@@ -44,11 +47,6 @@ export default function SurveyProfile({
   const visibleResponses = responded.filter(
     (r) => !category || r.question.category === category,
   );
-  const groupedPoints = new Map<string, typeof rows>();
-  for (const p of rows.filter((p) => p.percent !== null)) {
-    const key = `${p.percent}:${p.coverage}`;
-    groupedPoints.set(key, [...(groupedPoints.get(key) ?? []), p]);
-  }
   return (
     <section
       className="section-content survey-profile"
@@ -83,6 +81,31 @@ export default function SurveyProfile({
         selectedParty={partyId}
         selectParty={setPartyId}
       />
+      <details className="result-card model-audit">
+        <summary>Estado real de la comparación</summary>
+        <p>
+          El banco contiene {audit.knownPositions.toLocaleString("es")}{" "}
+          posiciones con evidencia de{" "}
+          {audit.possiblePositions.toLocaleString("es")} cruces posibles (
+          {audit.matrixCoverage.toFixed(1)} %). No es una matriz completa de
+          respuestas de todos los partidos.
+        </p>
+        <p>
+          {audit.supportCodes.toLocaleString("es")} códigos son respaldos y{" "}
+          {audit.oppositionCodes} son oposiciones. El +2 del banco no significa
+          «ideología extrema». Falta contrastar los documentos entre sí y
+          asignar el resto de decisiones a ejes explícitos.
+        </p>
+        <p>
+          Hay {audit.mappedQuestions} preguntas asignadas a índices de{" "}
+          {audit.questions.toLocaleString("es")} formulaciones. Tener un
+          programa descargado no significa que todas sus posturas estén ya
+          codificadas.
+        </p>
+        <a href={auditReport} download="Revisión del modelo.txt">
+          Descargar diagnóstico y cobertura por partido
+        </a>
+      </details>
       <label className="profile-filter">
         Tema
         <select
@@ -99,119 +122,12 @@ export default function SurveyProfile({
         </select>
       </label>
       <div className="profile-graphs">
-        <details className="result-card affinity-map">
-          <summary>Coincidencia y cobertura documental</summary>
-          <h2>Comparación de documentos</h2>
-          <p className="chart-note">
-            Horizontal: coincidencia. Vertical: proporción de tus respuestas con
-            posición documentada. Aquí los puntos son partidos, no tu posición
-            política. Cada punto es una comparación distinta; una cobertura baja
-            no permite ordenar preferencias.
-          </p>
-          <svg
-            viewBox="0 0 580 350"
-            role="img"
-            aria-label="Mapa de coincidencia de 0 a 100 por ciento y cobertura de 0 a 100 por ciento"
-          >
-            {[0, 25, 50, 75, 100].map((n) => (
-              <g key={n}>
-                <path
-                  d={`M55 ${290 - n * 2.4}H545 M${55 + n * 4.9} 50V290`}
-                  className="grid-line"
-                />
-                <text x={55 + n * 4.9} y="312" textAnchor="middle">
-                  {n}
-                </text>
-                <text x="43" y={294 - n * 2.4} textAnchor="end">
-                  {n}
-                </text>
-              </g>
-            ))}
-            <text x="300" y="340" textAnchor="middle">
-              Coincidencia (%)
-            </text>
-            <text x="55" y="25">
-              Cobertura (%)
-            </text>
-            {[...groupedPoints.values()].flatMap((group) =>
-              group.map((p, i) => {
-                const columns = Math.min(4, group.length);
-                const spanX = (columns - 1) * 20;
-                const spanY = (Math.ceil(group.length / columns) - 1) * 20;
-                const anchorX = Math.max(
-                  65,
-                  Math.min(535 - spanX, 55 + p.percent! * 4.9 - spanX / 2),
-                );
-                const anchorY = Math.max(
-                  60,
-                  Math.min(280 - spanY, 290 - p.coverage * 2.4 - spanY / 2),
-                );
-                const cx = anchorX + (i % columns) * 20;
-                const cy = anchorY + Math.floor(i / columns) * 20;
-                return (
-                  <g
-                    key={p.id}
-                    className="affinity-marker"
-                    tabIndex={0}
-                    role="button"
-                    aria-label={`${p.name}: ${rounded(p.percent)} de coincidencia, ${p.shared} de ${p.answered} respuestas con evidencia`}
-                    onMouseEnter={() => setHover(p.id)}
-                    onMouseLeave={() => setHover(null)}
-                    onFocus={() => setHover(p.id)}
-                    onBlur={() => setHover(null)}
-                    onClick={() => setPartyId(p.id)}
-                    onKeyDown={(e) => {
-                      if (e.key === "Enter" || e.key === " ") {
-                        e.preventDefault();
-                        setPartyId(p.id);
-                      }
-                    }}
-                  >
-                    <line
-                      x1={55 + p.percent! * 4.9}
-                      y1={290 - p.coverage * 2.4}
-                      x2={cx}
-                      y2={cy}
-                      stroke={colors[p.id]}
-                    />
-                    <circle
-                      cx={cx}
-                      cy={cy}
-                      r={p.id === partyId ? 10 : 7}
-                      fill={colors[p.id]}
-                      stroke="var(--surface)"
-                      strokeWidth="2"
-                    />
-                    <title>
-                      {p.name} · {rounded(p.percent)} · cobertura{" "}
-                      {Math.round(p.coverage)} %
-                    </title>
-                  </g>
-                );
-              }),
-            )}
-            {!rows.some((p) => p.percent !== null) && (
-              <text x="300" y="175" textAnchor="middle">
-                Sin respuestas comparables todavía
-              </text>
-            )}
-          </svg>
-          <p className="affinity-caption" aria-live="polite">
-            {(() => {
-              const p = rows.find((p) => p.id === hover) ?? selected;
-              return `${p.name} · ${rounded(p.percent)} · ${p.shared} de ${p.answered} respuestas con evidencia`;
-            })()}
-          </p>
-          <p className="chart-note">
-            Los puntos coincidentes se separan ligeramente para poder
-            seleccionarlos; la línea conserva la coordenada exacta.
-          </p>
-        </details>
         <section className="result-card affinity-list">
           <h2>Comparar documentos</h2>
           <p className="chart-note">
-            Orden alfabético, sin clasificación automática entre muestras de
-            cobertura distinta.
+            Primero se muestra cuántas de tus respuestas se pueden comparar. La
+            coincidencia se calcula solo sobre esas decisiones; no es una
+            afinidad global ni una probabilidad de voto.
           </p>
           {[...rows]
             .sort((a, b) => a.name.localeCompare(b.name, "es"))
@@ -230,16 +146,25 @@ export default function SurveyProfile({
                 <span>
                   {p.name}
                   <small>
-                    {p.shared} / {p.answered} con evidencia
+                    {p.shared} de {p.answered} respuestas comparables ·
+                    cobertura {rounded(p.coverage)}
                   </small>
                 </span>
-                <strong>{rounded(p.percent)}</strong>
+                <span className="partial-match">
+                  {p.percent === null
+                    ? "Sin coincidencia calculable"
+                    : `Coincidencia parcial: ${rounded(p.percent)}`}
+                </span>
               </button>
             ))}
         </section>
       </div>
       <section className="result-card category-affinities">
-        <h2>{selected.name} · por temas</h2>
+        <h2>{selected.name} · cobertura por temas</h2>
+        <p className="chart-note">
+          La barra indica la proporción de respuestas comparables, no cuánto te
+          representa el partido.
+        </p>
         <div>
           {bank.categories
             .filter((c) =>
@@ -255,13 +180,14 @@ export default function SurveyProfile({
                   <span className="affinity-bar">
                     <i
                       style={{
-                        width: `${match.percent ?? 0}%`,
+                        width: `${match.coverage}%`,
                         background: colors[partyId],
                       }}
                     />
                   </span>
                   <small>
-                    {rounded(match.percent)} · {match.shared}/{match.answered}
+                    {match.shared}/{match.answered} comparables ·{" "}
+                    {rounded(match.coverage)}
                   </small>
                 </button>
               );
@@ -271,6 +197,32 @@ export default function SurveyProfile({
           <p>Responde una pregunta para empezar a perfilar tus posiciones.</p>
         )}
       </section>
+      <section className="result-card comparison-explanation">
+        <h2>Cómo leer la comparación con {selected.name}</h2>
+        <p>
+          <strong>
+            {detail.shared} de {detail.answered} respuestas comparables
+          </strong>{" "}
+          · cobertura {rounded(detail.coverage)}.
+        </p>
+        <p>
+          {detail.percent === null
+            ? "No hay una base común para calcular coincidencia."
+            : `En esas ${detail.shared} decisiones, la coincidencia ponderada es ${rounded(detail.percent)}. Las otras ${detail.answered - detail.shared} no se han evaluado: no cuentan como acuerdo, desacuerdo ni neutralidad.`}
+        </p>
+        {detail.percent !== null &&
+          detail.overallRange &&
+          detail.unknownWeight > 0 && (
+            <p>
+              Si se llegaran a documentar todas tus respuestas, el resultado
+              global podría estar entre {rounded(detail.overallRange[0])} y{" "}
+              {rounded(detail.overallRange[1])}. Son límites matemáticos para
+              los datos ausentes, no una estimación ni un intervalo de
+              confianza. No se publica un porcentaje global con esa
+              incertidumbre.
+            </p>
+          )}
+      </section>
       <details className="result-card response-audit" open>
         <summary>Respuestas y cálculo · {visibleResponses.length}</summary>
         <p>
@@ -278,10 +230,10 @@ export default function SurveyProfile({
           ×3. Omitir excluye la respuesta; neutral sí participa.
         </p>
         <p>
-          Coincidencia = 100 × (1 − suma(importancia × |respuesta − posición| /
-          4) / suma(importancias comparables)). Para {selected.name}: distancia
-          ponderada {detail.distance.toFixed(2)} / peso {detail.weight} →{" "}
-          {rounded(detail.percent)}.
+          Coincidencia parcial = 100 × (1 − suma(importancia × |respuesta −
+          posición| / 4) / suma(importancias comparables)). Para {selected.name}
+          : distancia ponderada {detail.distance.toFixed(2)} / peso{" "}
+          {detail.weight} → {rounded(detail.percent)}.
         </p>
         <p>
           Las posiciones son codificaciones editoriales respaldadas por los

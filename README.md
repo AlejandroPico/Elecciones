@@ -1,11 +1,21 @@
 # Elecciones
 
-Proyecto personal de Alejandro Pico Perez. Versión 0.34.0 · 19 de octubre de 2026.
+Proyecto personal de Alejandro Pico Perez. Versión 0.35.0 · 20 de octubre de 2026.
 
 La revisión electoral incorpora treinta anuncios y acuerdos documentados, diferenciados de las listas proclamadas. Veintitrés documentos se descargan desde el propio sitio: quince antecedentes de julio de 2023, Podemos 2019, cuatro documentos políticos generales, la propuesta permanente de Escaños en Blanco y dos programas autonómicos (SALF Castilla y León 2026 y Drago Canarias 2023). Se conservan originales, procedencia y huellas; las copias de prensa se identifican. [Alcance y fuentes](Elecciones/Generales%20Noviembre%202026/investigacion/README.md). Las papeletas definitivas y los programas específicos del 29N siguen pendientes de incorporar; no se inventan afinidades a partir de documentos antiguos.
 
 El cuestionario permite elegir entre 40 temas, agrupados en seis bloques visuales. Sortea diez preguntas por tema y conserva el sorteo durante la visita, hasta un máximo de 400. Las tarjetas mantienen cinco respuestas, omisión, importancia 1/2/3 y avance tras tres segundos. «Mi perfil» puede consultarse desde la primera respuesta: muestra coincidencia documental, cobertura, afinidad por tema, las coordenadas de los indicadores definidos y el desglose con fuentes. Se puede reanudar y cambiar de temas sin perder las respuestas; al recargar se comienza de nuevo. [Método, configuración y límites del sistema experimental](Cuestionario/README.md#cuestionario-por-temas--18-de-octubre-de-2026).
 
+
+## Revisión del perfil · 20 de octubre de 2026
+
+El gráfico personal que cruzaba dos preguntas se ha retirado: no resumía un tema ni la ideología de sus partidos. Perfil y coordenadas documentales comparten ahora índices fijos y un desglose de sus indicadores. Se incorpora Control del Gobierno, con dos dimensiones operativas distintas. Una media ponderada puede producir valores intermedios; no se introduce dispersión artificial para separar partidos que respaldan las mismas medidas.
+
+La [revisión reproducible del modelo](Cuestionario/Revisión%20del%20modelo.txt) documenta la limitación estructural: 6.079 de 128.942 cruces pregunta/partido tienen posición con evidencia, y solo 245 formulaciones tienen posiciones de al menos dos organizaciones. El +2 codifica respaldo de una propuesta, no extremismo. Los 40 temas no equivalen a 40 ejes ideológicos terminados: hay 124 formulaciones asignadas a índices y 5.737 pendientes. No se presenta esta corrección como un test completo o validado.
+
+La comparación distingue decisiones comparables, cobertura y coincidencia parcial. Si solo se comparan dos de treinta, el porcentaje no se publica como afinidad global; se explica su denominador y se muestran límites matemáticos para las posiciones ausentes. Las fuentes autonómicas no se proyectan a índices nacionales. La barra separa dos intensidades de rojo y dos de verde, manteniendo gris para neutral y grosor por importancia.
+
+La auditoría se regenera con `python Cuestionario/herramientas/auditar-perfil.py`; CI comprueba su vigencia con `--check`. La matriz común de posiciones y la asignación del resto del banco siguen pendientes de investigación y contraste documental.
 
 ## Claridad del cuestionario · 19 de octubre de 2026
 

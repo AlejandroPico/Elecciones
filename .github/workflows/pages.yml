@@ -35,6 +35,8 @@ jobs:
         run: python3 Cuestionario/herramientas/generar-sesiones.py --check
       - name: Verificar explicaciones de todas las preguntas
         run: python3 Cuestionario/herramientas/generar-explicaciones.py --check
+      - name: Comprobar cobertura y diagnóstico del modelo de perfil
+        run: python3 Cuestionario/herramientas/auditar-perfil.py --check
       - run: pnpm test
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3

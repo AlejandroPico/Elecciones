@@ -72,11 +72,15 @@ export default function SurveyProgress({
                     ? "pending"
                     : a.value === null
                       ? "omitted"
-                      : a.value < 0
-                        ? "negative"
-                        : a.value > 0
-                          ? "positive"
-                          : "neutral";
+                      : a.value === -2
+                        ? "negative strong"
+                        : a.value === -1
+                          ? "negative moderate"
+                          : a.value === 2
+                            ? "positive strong"
+                            : a.value === 1
+                              ? "positive moderate"
+                              : "neutral";
                   return (
                     <button
                       key={q.id}
@@ -86,7 +90,7 @@ export default function SurveyProgress({
                           "--weight": `${a?.importance === 3 ? 7 : a?.importance === 2 ? 5 : 3}px`,
                         } as React.CSSProperties
                       }
-                      aria-label={`${category.title}, pregunta ${i + 1}${a ? (a.value === null ? ", omitida" : ", respondida") : ", pendiente"}`}
+                      aria-label={`${category.title}, pregunta ${i + 1}${a ? (a.value === null ? ", omitida" : `, respondida: ${a.value === -2 ? "muy en desacuerdo" : a.value === -1 ? "en desacuerdo" : a.value === 2 ? "muy de acuerdo" : a.value === 1 ? "de acuerdo" : "neutral"}`) : ", pendiente"}`}
                       aria-current={q.id === current ? "step" : undefined}
                       title={q.text}
                       onClick={() => navigate(q.id)}

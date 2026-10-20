@@ -1,0 +1,1054 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-20",
+  "status": "partial-editorial-indices",
+  "scale": [
+    -100,
+    100
+  ],
+  "charts": [
+    {
+      "id": "economia",
+      "title": "Economía",
+      "categoryIds": [
+        "fiscalidad",
+        "empresa"
+      ],
+      "x": {
+        "label": "Redistribución fiscal y gravámenes patrimoniales",
+        "indicators": [
+          {
+            "label": "Mantener el impuesto de grandes fortunas",
+            "questionIds": [
+              "q-pp23-042-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Hacer permanentes los gravámenes a banca y energía",
+            "questionIds": [
+              "q-erc23-g0025-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Prorrogar los gravámenes temporales de banca y energía",
+            "questionIds": [
+              "q-psoe23-g0089-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reforzar progresividad para financiar servicios públicos",
+            "questionIds": [
+              "q-erc23-g0025-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Suprimir el impuesto sobre patrimonio",
+            "questionIds": [
+              "q-vox23-g0151-a"
+            ],
+            "direction": -1
+          },
+          {
+            "label": "Redistribuir mediante impuestos sin elevar presión global",
+            "questionIds": [
+              "q-junts23-g0013-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Tributación mínima internacional de grandes empresas",
+            "questionIds": [
+              "q-psoe23-g0088-a"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Alivios fiscales a rentas, empresas y consumos",
+        "indicators": [
+          {
+            "label": "Simplificar la fiscalidad de las pymes",
+            "questionIds": [
+              "q-pp23-042-c"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Deflactar el IRPF",
+            "questionIds": [
+              "q-junts23-g0013-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reducir sociedades de pymes al 20 %",
+            "questionIds": [
+              "q-junts23-g0013-05"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Aumentar mínimos de IRPF por descendientes y dependientes",
+            "questionIds": [
+              "q-psoe23-g0054-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Eximir rentas del trabajo hasta 22.000 euros",
+            "questionIds": [
+              "q-vox23-g0148-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reducir tipos de IVA",
+            "questionIds": [
+              "q-pnv23-g0016-05"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reducir tributación del trabajo y aumentar la del capital",
+            "questionIds": [
+              "q-bng23-g0025-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "IVA del 4 % en productos menstruales reutilizables",
+            "questionIds": [
+              "q-erc23-g0016-10"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "IVA superreducido de higiene menstrual",
+            "questionIds": [
+              "q-eh-bildu23-g0009-09"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "trabajo",
+      "title": "Trabajo",
+      "categoryIds": [
+        "trabajo",
+        "igualdad-laboral"
+      ],
+      "x": {
+        "label": "Protección ante el despido",
+        "indicators": [
+          {
+            "label": "Recuperar salarios de tramitación",
+            "questionIds": [
+              "q-erc23-g0033-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Autorizar administrativamente los despidos colectivos",
+            "questionIds": [
+              "q-erc23-g0033-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Indemnización de 45 días por despido improcedente",
+            "questionIds": [
+              "q-bng23-g0007-01"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Reducción de jornada sin reducción salarial",
+        "indicators": [
+          {
+            "label": "Ensayar reducciones en empresas industriales",
+            "questionIds": [
+              "q-psoe23-g0135-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Jornada general de 32 horas",
+            "questionIds": [
+              "q-eh-bildu23-g0002-04"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Jornada general de 35 horas",
+            "questionIds": [
+              "q-bng23-g0008-01"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "vivienda",
+      "title": "Vivienda",
+      "categoryIds": [
+        "vivienda"
+      ],
+      "x": {
+        "label": "Intervención en alquiler y vivienda vacía",
+        "indicators": [
+          {
+            "label": "Mantener límites administrativos al alquiler",
+            "questionIds": [
+              "q-psoe23-pH221-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Prorrogar alquileres manteniendo renta y condiciones",
+            "questionIds": [
+              "q-eh-bildu23-g0005-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Recargar el IBI de vivienda vacía",
+            "questionIds": [
+              "q-bng23-g0006-07"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Ampliación de vivienda asequible",
+        "indicators": [
+          {
+            "label": "Movilizar suelo público para alquiler asequible",
+            "questionIds": [
+              "q-pp23-093-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Ampliar el parque público de alquiler",
+            "questionIds": [
+              "q-pnv23-g0046-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Transferir el 30 % de pisos vacíos de Sareb en Cataluña",
+            "questionIds": [
+              "q-junts23-g0025-03"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "energia",
+      "title": "Energía",
+      "categoryIds": [
+        "energia",
+        "biodiversidad",
+        "agua"
+      ],
+      "x": {
+        "label": "Prolongación de la generación nuclear",
+        "indicators": [
+          {
+            "label": "Prorrogar centrales si lo avala el CSN",
+            "questionIds": [
+              "q-pp23-114-a"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Autoconsumo y participación local",
+        "indicators": [
+          {
+            "label": "Autoconsumo colectivo mediante comunidades energéticas",
+            "questionIds": [
+              "q-psoe23-g0244-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Facilitar comunidades energéticas",
+            "questionIds": [
+              "q-pnv23-g0021-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Beneficio local de las renovables",
+            "questionIds": [
+              "q-junts23-g0022-06"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "educacion",
+      "title": "Educación",
+      "categoryIds": [
+        "educacion"
+      ],
+      "x": {
+        "label": "Elección y financiación de centros concertados",
+        "indicators": [
+          {
+            "label": "Elegir entre centros públicos, privados y concertados",
+            "questionIds": [
+              "q-pp23-149-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Financiar las redes pública y concertada social",
+            "questionIds": [
+              "q-junts23-g0038-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Eliminar progresivamente conciertos",
+            "questionIds": [
+              "q-bng23-g0022-04"
+            ],
+            "direction": -1
+          }
+        ]
+      },
+      "y": {
+        "label": "Extensión de la gratuidad educativa",
+        "indicators": [
+          {
+            "label": "Universalidad y gratuidad de 0 a 3 años",
+            "questionIds": [
+              "q-pp23-146-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Oferta pública gratuita hasta 18 años",
+            "questionIds": [
+              "q-psoe23-g0398-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Gratuidad de la red catalana de 16 a 18 años",
+            "questionIds": [
+              "q-junts23-g0038-05"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Educación pública gratuita de 0 a 18 años",
+            "questionIds": [
+              "q-bng23-g0022-01"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "territorio",
+      "title": "Organización territorial",
+      "categoryIds": [
+        "territorio",
+        "administracion",
+        "instituciones"
+      ],
+      "x": {
+        "label": "Concentración estatal de competencias",
+        "indicators": [
+          {
+            "label": "Devolver educación al Estado",
+            "questionIds": [
+              "q-vox23-g0001-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Devolver sanidad al Estado",
+            "questionIds": [
+              "q-vox23-g0001-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Concentrar seguridad y justicia en el Estado",
+            "questionIds": [
+              "q-vox23-g0001-c"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Reconocimiento y decisión sobre soberanía territorial",
+        "indicators": [
+          {
+            "label": "Referéndum catalán acordado",
+            "questionIds": [
+              "q-erc23-g0002-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Constituir un Estado catalán",
+            "questionIds": [
+              "q-junts23-g0005-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Autodeterminación de Galicia",
+            "questionIds": [
+              "q-bng23-g0002-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reconocer Euskadi como nación con soberanía compartida bilateral",
+            "questionIds": [
+              "q-pnv23-g0002-03"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "derechos",
+      "title": "Derechos y garantías",
+      "categoryIds": [
+        "lgtbi",
+        "justicia",
+        "salud",
+        "violencia-mujeres"
+      ],
+      "x": {
+        "label": "Garantías de reinserción y control penal",
+        "indicators": [
+          {
+            "label": "Mantener prisión permanente revisable",
+            "questionIds": [
+              "q-erc23-g0005-01"
+            ],
+            "direction": -1
+          }
+        ]
+      },
+      "y": {
+        "label": "Protección frente a discriminación LGTBI",
+        "indicators": [
+          {
+            "label": "Tipificar las terapias de conversión como delito",
+            "questionIds": [
+              "q-psoe23-g0914-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Protocolos escolares contra discriminación",
+            "questionIds": [
+              "q-pp23-212-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reconocimiento y reparación a las víctimas",
+            "questionIds": [
+              "q-junts23-g0037-02"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "exterior",
+      "title": "Exterior y defensa",
+      "categoryIds": [
+        "exteriores",
+        "defensa",
+        "union-europea",
+        "cooperacion"
+      ],
+      "x": {
+        "label": "Integración europea",
+        "indicators": [
+          {
+            "label": "Avanzar hacia una Unión Europea federal",
+            "questionIds": [
+              "q-vox23-g0283-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Política exterior europea con una sola voz",
+            "questionIds": [
+              "q-pp23-313-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Reforzar autonomía estratégica europea",
+            "questionIds": [
+              "q-psoe23-g1109-b"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Compromiso con la OTAN y gasto de defensa",
+        "indicators": [
+          {
+            "label": "Mantener un papel activo en la OTAN",
+            "questionIds": [
+              "q-pp23-335-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Cumplir compromisos asumidos con la OTAN",
+            "questionIds": [
+              "q-junts23-g0007-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Destinar el 2 % del PIB a seguridad y defensa",
+            "questionIds": [
+              "q-pp23-335-a"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": "control-gobierno",
+      "title": "Control del Gobierno",
+      "categoryIds": [
+        "buen-gobierno"
+      ],
+      "x": {
+        "label": "Transparencia, evaluación y fiscalización institucional",
+        "indicators": [
+          {
+            "label": "Debería publicarse información sobre el uso de medios públicos en los desplazamientos de autoridades.",
+            "questionIds": [
+              "q-pp23-249-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "El debate sobre el estado de la nación debería celebrarse con periodicidad regulada.",
+            "questionIds": [
+              "q-pp23-250-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería existir un seguimiento público del cumplimiento de sus resoluciones.",
+            "questionIds": [
+              "q-pp23-250-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los traspasos de poderes deberían incluir información detallada sobre cuentas públicas y asuntos pendientes de cada área.",
+            "questionIds": [
+              "q-pp23-251-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las comisiones parlamentarias deberían intervenir desde las primeras fases de la incorporación de normas europeas.",
+            "questionIds": [
+              "q-pp23-252-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Deberían publicarse agendas, declaraciones y gastos de altos cargos de forma proactiva.",
+            "questionIds": [
+              "q-psoe23-g1020-c"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería reforzarse el Consejo de Transparencia mediante un nuevo estatuto.",
+            "questionIds": [
+              "q-psoe23-g1020-f"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "El Gobierno debería rendir cuentas públicamente del cumplimiento de sus compromisos e indicadores.",
+            "questionIds": [
+              "q-psoe23-g1020-h"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería revisarse sistemáticamente la utilidad de organismos públicos.",
+            "questionIds": [
+              "q-vox23-g0167-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería crearse una oficina nacional contra el fraude y la corrupción.",
+            "questionIds": [
+              "q-vox23-g0176-a"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Deberían mejorarse los portales públicos de transparencia y rendición de cuentas.",
+            "questionIds": [
+              "q-vox23-g0176-d"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Deberían evaluarse públicamente los resultados del gasto y los servicios públicos.",
+            "questionIds": [
+              "q-pnv23-g0014-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La documentación clasificada debería desclasificarse automáticamente al vencer plazos legales.",
+            "questionIds": [
+              "q-pnv23-g0014-04"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería reforzarse el control político y judicial del CNI.",
+            "questionIds": [
+              "q-pnv23-g0014-05"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería publicarse la contratación negociada y directa.",
+            "questionIds": [
+              "q-bng23-g0020-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los partidos deberían publicar sus ingresos y gastos electorales en los tres meses siguientes a cada elección.",
+            "questionIds": [
+              "q-pacma23-g0054-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las agendas de reuniones de los cargos públicos deberían ser accesibles a la ciudadanía.",
+            "questionIds": [
+              "q-pacma23-g0054-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los datos de contratos públicos deberían publicarse durante licitación, adjudicación y ejecución.",
+            "questionIds": [
+              "q-pacma23-g0054-04"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los sobrecostes de contratos públicos deberían someterse a más control y publicidad.",
+            "questionIds": [
+              "q-pacma23-g0054-05"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La ejecución presupuestaria debería publicarse con el mismo detalle que los presupuestos.",
+            "questionIds": [
+              "q-pacma23-g0054-06"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los ex altos cargos deberían declarar sus actividades y patrimonio durante cinco años tras el cese.",
+            "questionIds": [
+              "q-registro-7400-general-g0015-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Una entidad independiente debería auditar el gasto público.",
+            "questionIds": [
+              "q-registro-7400-general-g0027-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las partidas de gasto público deberían poder consultarse en tiempo real en un portal abierto.",
+            "questionIds": [
+              "q-registro-7400-general-g0027-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las reuniones de grupos de presión económicos con responsables públicos y de partidos deberían hacerse públicas.",
+            "questionIds": [
+              "q-podemos19-m120-01-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La coordinación anticorrupción debería contar con una autoridad técnica independiente y participación social.",
+            "questionIds": [
+              "q-podemos19-m121-01-04"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Todas las políticas públicas deberían incluir una fase de evaluación de resultados.",
+            "questionIds": [
+              "q-podemos19-m155-01-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería existir un observatorio ciudadano de evaluación de políticas y rendición de cuentas.",
+            "questionIds": [
+              "q-podemos19-m155-01-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La Intervención General del Estado debería disponer de tecnología de análisis de datos e inteligencia artificial comparable a la Agencia Tributaria.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0006-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los interventores deberían contar con autonomía presupuestaria y auditoría en tiempo real.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0006-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "El interventor general debería tener un mandato de seis años no renovable e irrevocable.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0006-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Todas las políticas y programas de gasto deberían evaluarse por eficacia, impacto y coste con resultados públicos.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0020-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "El presidente y los ministerios deberían rendir cuentas anualmente sobre compromisos, recursos y resultados.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0020-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Un portal único debería publicar objetivos, gasto, ejecución e informes independientes de cada programa.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0020-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La integridad y la rendición de cuentas deberían formar parte de la gestión pública.",
+            "questionIds": [
+              "q-sumar23-g0073-03"
+            ],
+            "direction": 1
+          }
+        ]
+      },
+      "y": {
+        "label": "Límites, incompatibilidades y responsabilidad de los cargos",
+        "indicators": [
+          {
+            "label": "Los medios públicos de transporte de autoridades no deberían utilizarse para actividades partidistas.",
+            "questionIds": [
+              "q-pp23-249-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería reforzarse la independencia de la oficina de conflictos de intereses.",
+            "questionIds": [
+              "q-psoe23-g1020-d"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los aforamientos de cargos públicos deberían suprimirse para hechos ajenos al ejercicio de su cargo.",
+            "questionIds": [
+              "q-psoe23-g1020-e"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería desarrollarse una estrategia nacional anticorrupción con protección de informantes.",
+            "questionIds": [
+              "q-psoe23-g1020-g"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería reforzarse la protección de denunciantes de corrupción.",
+            "questionIds": [
+              "q-vox23-g0176-b"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Debería reforzarse la recuperación de fondos públicos obtenidos ilegalmente.",
+            "questionIds": [
+              "q-vox23-g0176-c"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Deberían eliminarse todos los aforamientos de cargos y empleados públicos.",
+            "questionIds": [
+              "q-pnv23-g0014-06"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La inviolabilidad del rey debería excluir los actos no institucionales.",
+            "questionIds": [
+              "q-pnv23-g0014-07"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los cargos públicos que cometan fraude fiscal deberían ser inhabilitados.",
+            "questionIds": [
+              "q-bng23-g0020-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Deberían endurecerse las incompatibilidades y regulación de puertas giratorias.",
+            "questionIds": [
+              "q-bng23-g0020-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los aforamientos de cargos políticos deberían eliminarse.",
+            "questionIds": [
+              "q-pacma23-g0054-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los cargos de libre designación deberían limitarse al nivel superior de cada administración.",
+            "questionIds": [
+              "q-pacma23-g0054-07"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los asesores de libre designación no deberían ejercer funciones de auditoría o control.",
+            "questionIds": [
+              "q-pacma23-g0054-08"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los nombramientos discrecionales deberían publicar currículum y motivación de idoneidad técnica.",
+            "questionIds": [
+              "q-pacma23-g0054-09"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los ex altos cargos deberían dejar de disponer de oficinas y personal financiados con recursos públicos por razón de su antiguo cargo.",
+            "questionIds": [
+              "q-registro-7400-general-g0014-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los ex altos cargos no deberían tener pensiones o indemnizaciones especiales distintas del régimen común.",
+            "questionIds": [
+              "q-registro-7400-general-g0014-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las escoltas públicas de ex altos cargos deberían suprimirse.",
+            "questionIds": [
+              "q-registro-7400-general-g0014-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los ex altos cargos deberían tener prohibido incorporarse durante cinco años a empresas contratistas del Estado durante su mandato.",
+            "questionIds": [
+              "q-registro-7400-general-g0015-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los antiguos altos cargos deberían tener prohibido prestar servicios remunerados a empresas cotizadas.",
+            "questionIds": [
+              "q-podemos19-m119-01-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los antiguos altos cargos no deberían trabajar para grandes empresas de sectores sobre los que tomaron decisiones públicas.",
+            "questionIds": [
+              "q-podemos19-m119-01-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las incompatibilidades con empresas reguladas deberían extenderse a responsables técnicos superiores de la Administración.",
+            "questionIds": [
+              "q-podemos19-m119-01-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los casos graves de incumplimiento de estas incompatibilidades deberían constituir delito.",
+            "questionIds": [
+              "q-podemos19-m119-01-04"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "El enriquecimiento ilícito de cargos públicos debería tipificarse como delito.",
+            "questionIds": [
+              "q-podemos19-m121-01-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los delitos de corrupción cometidos a través de partidos deberían tener una agravante específica.",
+            "questionIds": [
+              "q-podemos19-m121-01-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las personas que denuncian corrupción deberían disponer de canales seguros y protección frente a represalias.",
+            "questionIds": [
+              "q-podemos19-m121-01-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los tribunales deberían poder excluir cautelarmente de contratos públicos a empresas encausadas por corrupción.",
+            "questionIds": [
+              "q-podemos19-m123-01-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las empresas condenadas por corrupción deberían disolverse obligatoriamente.",
+            "questionIds": [
+              "q-podemos19-m123-01-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los recursos de la Fiscalía Anticorrupción deberían duplicarse.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0007-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Una oficina anticorrupción debería inspeccionar los sistemas preventivos de empresas y partidos y poder imponer sanciones de hasta el 10 % de sus ingresos o volumen de negocios.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0007-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Todos los bienes recuperados por sentencias y sanciones de corrupción deberían financiar organismos anticorrupción.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0007-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Los cargos públicos deberían cumplir un código ético obligatorio con supervisión independiente.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0021-01"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "La ley de conflictos de interés debería ampliarse conforme a los criterios de la OCDE.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0021-02"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "El código ético debería prohibir mentir deliberadamente en el Parlamento.",
+            "questionIds": [
+              "q-coalicion-d21-2026-r26-g0021-03"
+            ],
+            "direction": 1
+          },
+          {
+            "label": "Las administraciones deberían contar con dirección pública profesional.",
+            "questionIds": [
+              "q-sumar23-g0073-02"
+            ],
+            "direction": 1
+          }
+        ]
+      }
+    }
+  ],
+  "method": [
+    "Índices de decisiones seleccionadas, no un espectro ideológico completo ni validado.",
+    "Los ejes son fijos; no se seleccionan dos preguntas dependiendo del sorteo del usuario.",
+    "Cada indicador aporta una vez. El usuario utiliza su respuesta e importancia; el documento utiliza sus posiciones nativas enlazadas a fuentes.",
+    "Una propuesta explícita se codificó como respaldo +2; no acredita intensidad ideológica extrema. No completar posiciones desconocidas con neutralidad, oposición ni estereotipos de partido.",
+    "Los documentos autonómicos no se proyectan a índices nacionales. Se conservan en la comparación de sus preguntas exactas.",
+    "Un valor extremo puede corresponder a pocas decisiones o al acuerdo con todas las conocidas. Mostrar número de indicadores y coincidencias, sin forzar dispersión.",
+    "La lista de indicadores sigue siendo incompleta: las respuestas sin asignación quedan fuera de las coordenadas, y se informa de ello.",
+    "Control del Gobierno separa medidas de información y evaluación de medidas sobre límites y responsabilidad personal. Varias pueden ser compartidas por partidos distintos; coincidir aquí no implica compartir toda la ideología."
+  ]
+}

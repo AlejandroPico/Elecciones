@@ -1,4 +1,5 @@
 import raw from "../sesiones-banco.json";
+import indices from "../indices-perfil.json";
 import type { Answers } from "../../Elecciones/interfaz/perfil/model";
 
 export type Evidence = {
@@ -22,7 +23,10 @@ export type SessionQuestion = {
   scope: { territory: string; sourceElection: string } | null;
   positions: Record<string, Position>;
 };
-export const bank = raw as Omit<typeof raw, "questions"> & {
+export const bank = { ...raw, maps: indices.charts } as Omit<
+  typeof raw,
+  "questions"
+> & {
   questions: SessionQuestion[];
 };
 export const questionById = new Map(bank.questions.map((q) => [q.id, q]));
@@ -123,6 +127,9 @@ export function compare(
   });
   const weight = contributions.reduce((n, c) => n + c.weight, 0);
   const distance = contributions.reduce((n, c) => n + c.distance * c.weight, 0);
+  const totalWeight = responded.reduce((n, r) => n + r.answer.importance, 0);
+  const unknownWeight = totalWeight - weight;
+  const agreement = weight - distance;
   return {
     percent: weight ? 100 * (1 - distance / weight) : null,
     coverage: responded.length
@@ -132,6 +139,17 @@ export function compare(
     answered: responded.length,
     weight,
     distance,
+    totalWeight,
+    unknownWeight,
+    weightedCoverage: totalWeight ? (100 * weight) / totalWeight : 0,
+    // Bounds over ALL answered decisions, with unknown agreement anywhere in [0, 1].
+    // This is an identification interval, never a confidence interval or a new score.
+    overallRange: totalWeight
+      ? ([
+          (100 * agreement) / totalWeight,
+          (100 * (agreement + unknownWeight)) / totalWeight,
+        ] as [number, number])
+      : null,
     contributions,
   };
 }
@@ -139,33 +157,54 @@ export function compare(
 export function userAxis(
   answers: Answers,
   axis: (typeof raw.maps)[number]["x"],
+  questions: SessionQuestion[] = bank.questions,
 ) {
-  const directions = new Map<string, number>();
-  axis.indicators.forEach((i) =>
-    i.questionIds.forEach((id) => directions.set(id, i.direction)),
-  );
-  const contributions = uniqueResponses(answers).flatMap(
-    ({ question, answer }) => {
-      const direction = directions.get(question.id);
-      return direction && answer.value !== null
-        ? [
-            {
-              question,
-              answer,
-              direction,
-              numerator: (answer.value / 2) * direction * answer.importance,
-            },
-          ]
-        : [];
-    },
-  );
-  const weight = contributions.reduce((n, c) => n + c.answer.importance, 0);
-  const numerator = contributions.reduce((n, c) => n + c.numerator, 0);
+  const responses = uniqueResponses(answers, questions);
+  const seen = new Set<string>();
+  const indicators = axis.indicators.map((indicator) => {
+    const ids = new Set(indicator.questionIds);
+    const entries = responses.flatMap(({ question, answer }) => {
+      if (
+        !ids.has(question.id) ||
+        question.scope ||
+        answer.value === null ||
+        seen.has(question.selectionKey)
+      )
+        return [];
+      seen.add(question.selectionKey);
+      return [
+        {
+          question,
+          answer,
+          direction: indicator.direction,
+          numerator:
+            (answer.value / 2) * indicator.direction * answer.importance,
+        },
+      ];
+    });
+    const entryWeight = entries.reduce((n, c) => n + c.answer.importance, 0);
+    return {
+      indicator,
+      entries,
+      value: entryWeight
+        ? (100 * entries.reduce((n, c) => n + c.numerator, 0)) / entryWeight
+        : null,
+      // Several equivalent formulations do not multiply an indicator's influence.
+      weight: entries.length ? entryWeight / entries.length : 0,
+    };
+  });
+  const known = indicators.filter((i) => i.value !== null);
+  const contributions = indicators.flatMap((i) => i.entries);
+  const weight = known.reduce((n, c) => n + c.weight, 0);
+  const numerator = known.reduce((n, c) => n + (c.value! / 100) * c.weight, 0);
   return {
     value: weight ? (100 * numerator) / weight : null,
     weight,
     numerator,
     contributions,
+    count: known.length,
+    total: axis.indicators.length,
+    indicators,
   };
 }
 
@@ -173,21 +212,51 @@ export function userAxis(
 export function documentaryAxis(
   party: string,
   axis: (typeof raw.maps)[number]["x"],
+  questions: SessionQuestion[] = bank.questions,
 ) {
+  const lookup =
+    questions === bank.questions
+      ? questionById
+      : new Map(questions.map((q) => [q.id, q]));
+  const seen = new Set<string>();
   const contributions = axis.indicators.map((indicator) => {
+    const ambiguous = indicator.questionIds.some((id) => {
+      const q = lookup.get(id),
+        p = q?.positions[party];
+      return (
+        !q?.scope &&
+        p?.value === null &&
+        p.evidence.some(
+          (e) => sourceById.get(e.documentId)?.kind !== "territorial",
+        )
+      );
+    });
     const entries = [...new Set(indicator.questionIds)].flatMap((id) => {
-      const question = questionById.get(id),
+      const question = lookup.get(id),
         position = question?.positions[party];
-      return question && position?.value != null && position.evidence.length
-        ? [{ question, position }]
-        : [];
+      if (
+        !question ||
+        question.scope ||
+        seen.has(id) ||
+        position?.value == null ||
+        !position.evidence.length
+      )
+        return [];
+      const evidence = position.evidence.filter(
+        (e) => sourceById.get(e.documentId)?.kind !== "territorial",
+      );
+      if (!evidence.length) return [];
+      seen.add(id);
+      return [{ question, position: { ...position, evidence } }];
     });
     const values = new Set(entries.map((e) => e.position.value));
     return {
       indicator,
       entries,
       value:
-        values.size === 1 ? 50 * [...values][0]! * indicator.direction : null,
+        values.size === 1 && !ambiguous
+          ? 50 * [...values][0]! * indicator.direction
+          : null,
     };
   });
   const known = contributions.filter((c) => c.value !== null);
@@ -201,26 +270,14 @@ export function documentaryAxis(
   };
 }
 
-/** Prefer a pair with common evidence, independent of the user's values or party names. */
-export function coordinatePair(entries: ReturnType<typeof uniqueResponses>) {
-  let pair = [entries[0], entries[1]],
-    coverage = -1;
-  for (let i = 0; i < entries.length; i++)
-    for (let j = i + 1; j < entries.length; j++) {
-      const a = entries[i].question,
-        b = entries[j].question;
-      if (a.category !== b.category) continue;
-      const common = bank.parties.filter(
-        (p) =>
-          a.positions[p.id]?.value != null &&
-          a.positions[p.id]?.evidence.length &&
-          b.positions[p.id]?.value != null &&
-          b.positions[p.id]?.evidence.length,
-      ).length;
-      if (common > coverage) {
-        coverage = common;
-        pair = [entries[i], entries[j]];
-      }
-    }
-  return pair;
+export function representedResponses(answers: Answers) {
+  const ids = new Set(
+    bank.maps.flatMap((m) =>
+      [m.x, m.y].flatMap((a) => a.indicators.flatMap((i) => i.questionIds)),
+    ),
+  );
+  return uniqueResponses(answers).filter(
+    (r) =>
+      r.answer.value !== null && !r.question.scope && ids.has(r.question.id),
+  );
 }
