@@ -321,7 +321,8 @@ export default function PoliticalMap({
               map.categoryIds.includes(q.category) &&
               q.positions[p.id]?.value != null &&
               q.positions[p.id]?.evidence.length,
-          ).length;
+          );
+          const national = extracted.filter((q) => !q.scope).length;
           return (
             <button
               key={p.id}
@@ -338,9 +339,11 @@ export default function PoliticalMap({
                 </small>
                 {(p.x.value === null || p.y.value === null) && (
                   <small>
-                    {extracted
-                      ? `${extracted} formulaciones extraídas en el tema; asignación al eje incompleta.`
-                      : "Sin formulaciones puntuables extraídas en este tema. No acredita ausencia de postura."}
+                    {extracted.length && !national
+                      ? "Solo datos autonómicos en este tema; no se extrapolan al índice nacional."
+                      : national
+                        ? `${national} formulaciones nacionales extraídas en el tema; asignación al eje incompleta.`
+                        : "Sin formulaciones puntuables extraídas en este tema. No acredita ausencia de postura."}
                   </small>
                 )}
               </span>
